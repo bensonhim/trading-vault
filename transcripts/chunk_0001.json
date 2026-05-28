@@ -2,723 +2,583 @@
   "segments": [
     {
       "start": 0.08,
-      "end": 1.76,
-      "text": "Because we are in a bearish market."
+      "end": 2.6399999,
+      "text": "How you set up the bullish and bearish scan."
     },
     {
-      "start": 1.76,
-      "end": 1.92,
+      "start": 2.6399999,
+      "end": 5.54,
+      "text": "So you have this bullish scan and you have this bearish scan."
+    },
+    {
+      "start": 5.7599998,
+      "end": 8.9,
+      "text": "And once you have those, you will get candidate."
+    },
+    {
+      "start": 10.8,
+      "end": 14.34,
+      "text": "And how to look at them, we'll look into separate video."
+    },
+    {
+      "start": 14.975,
+      "end": 20.915,
+      "text": "How to set up dollar breakout chart template is what we are going to look at it."
+    },
+    {
+      "start": 21.375,
+      "end": 28.890001,
+      "text": "You can, in TC2000, like we created a chart template for 4% breakout, create a chart template for dollar breakout."
+    },
+    {
+      "start": 28.890001,
+      "end": 34.65,
+      "text": "So in order to do that, let's go to TC 2,000 and look at how you can do this."
+    },
+    {
+      "start": 34.65,
+      "end": 42.935,
+      "text": "In order to do this, again, we are going to do the same thing, what we did for 4% thing, which is to start with a blank template."
+    },
+    {
+      "start": 42.935,
+      "end": 44.455,
+      "text": "So there are two ways to do this."
+    },
+    {
+      "start": 44.455,
+      "end": 56.795002,
+      "text": "One, either you can start with a blank template or the easier way, because we already put these volumes here and everything here, we can just, like, basically, go and duplicate this."
+    },
+    {
+      "start": 56.960003,
+      "end": 60.420002,
+      "text": "So you can take this tab, which has 4%, duplicate this."
+    },
+    {
+      "start": 60.48,
+      "end": 68.96,
+      "text": "Once you duplicate this, first thing you want to do is rename it so that, like, you don't have a problem, and you know what it is."
+    },
+    {
+      "start": 68.96,
+      "end": 69.2,
       "text": "Right?"
     },
     {
-      "start": 1.92,
-      "end": 3.9399998,
-      "text": "IPOs come in when the market is bullish."
+      "start": 69.2,
+      "end": 76.195,
+      "text": "I basically save chart as, and we make this as a dollar template now."
     },
     {
-      "start": 6.0,
-      "end": 7.44,
-      "text": "So here is what I do."
-    },
-    {
-      "start": 7.44,
-      "end": 12.74,
-      "text": "I take that list, and I have this, bucket, zero by three."
-    },
-    {
-      "start": 13.5199995,
-      "end": 19.385,
-      "text": "Initially, when I started, right, I thought, like, an I'll take only first three years, then I expanded it to five years."
-    },
-    {
-      "start": 19.385,
-      "end": 23.725,
-      "text": "So that title should be rework to zero by five."
-    },
-    {
-      "start": 24.185001,
-      "end": 33.07,
-      "text": "So once I have 1,007 stock, it looks like, oh, there are 1,700 IPOs, which I like to track."
-    },
-    {
-      "start": 33.07,
-      "end": 34.05,
-      "text": "How will I do?"
-    },
-    {
-      "start": 34.27,
-      "end": 41.95,
-      "text": "Will I ever get time to spend time with my husband or wife or girlfriend, boyfriend, or kids like or with my dog."
-    },
-    {
-      "start": 41.95,
-      "end": 42.27,
+      "start": 76.195,
+      "end": 76.354996,
       "text": "Right?"
     },
     {
-      "start": 42.27,
-      "end": 44.05,
-      "text": "And I but here is the thing."
+      "start": 76.354996,
+      "end": 82.275,
+      "text": "And I already have a dollar template, so I'm just going to give it $2 just to distinguish from that."
     },
     {
-      "start": 44.43,
-      "end": 51.375,
-      "text": "This is without using a price filter, and this is without using a liquidity filter."
+      "start": 82.275,
+      "end": 83.715,
+      "text": "Otherwise, there'll be a confusion."
     },
     {
-      "start": 51.515,
-      "end": 59.455,
-      "text": "Low and behold, when you use a liquidity filter and a price filter and liquidity, I put it at 300,000."
+      "start": 83.715,
+      "end": 85.795,
+      "text": "So this is a dollar breakout template now."
     },
     {
-      "start": 59.675,
-      "end": 60.155,
+      "start": 85.795,
+      "end": 86.28,
       "text": "Right?"
     },
     {
-      "start": 60.155,
-      "end": 61.375,
-      "text": "How many do you get?"
+      "start": 86.36,
+      "end": 93.24,
+      "text": "Now we are going to change this particular scans, and we are going to replace them with the dollar breakout scan, and that way it becomes easier."
     },
     {
-      "start": 61.85,
-      "end": 63.07,
-      "text": "307."
+      "start": 93.24,
+      "end": 97.56,
+      "text": "So here, we're going to keep v is greater than or equal to, what?"
     },
     {
-      "start": 64.09,
-      "end": 67.549995,
-      "text": "Is it very difficult to keep an eye on 307 stocks?"
+      "start": 97.56,
+      "end": 107.345,
+      "text": "And we just add c minus o is greater than or equal to 0.9, and v is greater than 100,000."
     },
     {
-      "start": 71.369995,
-      "end": 72.33,
-      "text": "Answer is no."
+      "start": 107.345,
+      "end": 113.765,
+      "text": "So when we add it, we're going to keep everything same here, and we are going to change this label to dollar."
     },
     {
-      "start": 72.33,
-      "end": 72.57,
+      "start": 114.225,
+      "end": 122.62,
+      "text": "And here, once we do that, as you can see, you're going to get a lot of these days where this condition was true."
+    },
+    {
+      "start": 123.0,
+      "end": 128.97499,
+      "text": "Now same way, what we are going to do is we are going to change the 4% breakdown to the same thing."
+    },
+    {
+      "start": 129.19499,
+      "end": 132.655,
+      "text": "So again, we remove this thing."
+    },
+    {
+      "start": 134.075,
+      "end": 142.87,
+      "text": "And o minus c is greater than or equal to point 90, and v is greater than 100,000."
+    },
+    {
+      "start": 142.87,
+      "end": 146.17,
+      "text": "And then we are going to change this to dollar."
+    },
+    {
+      "start": 146.31,
+      "end": 150.47,
+      "text": "And once we do that, what you are going to get is you are going to get a template like this."
+    },
+    {
+      "start": 150.47,
+      "end": 156.375,
+      "text": "So if you see, like, an auto zone here, like, this was a good breakout."
+    },
+    {
+      "start": 156.375,
+      "end": 156.69499,
       "text": "Right?"
     },
     {
-      "start": 72.57,
-      "end": 74.67,
-      "text": "You get only 307 stocks."
+      "start": 156.69499,
+      "end": 159.415,
+      "text": "And this was just a 1.27% breakout."
     },
     {
-      "start": 74.729996,
-      "end": 80.985,
-      "text": "And now I'm going to be looking at again these 307 stocks to see if there is a breakout on it."
+      "start": 159.415,
+      "end": 162.555,
+      "text": "It will show up in dollar breakout scan on that particular day."
     },
     {
-      "start": 81.365,
-      "end": 90.64,
-      "text": "Any one of those sectors, whether there is a bottom bounce or a continuation setup or consolidations breakout."
+      "start": 162.69499,
+      "end": 167.43001,
+      "text": "And from there, in three days, it made a 103 move."
     },
     {
-      "start": 91.18,
-      "end": 91.68,
+      "start": 167.43001,
+      "end": 174.39,
+      "text": "So very low risk entries like this, you can get either on a long or short side using dollar breakout."
+    },
+    {
+      "start": 174.39,
+      "end": 176.47,
+      "text": "And this is how you set up the chart template."
+    },
+    {
+      "start": 176.47,
+      "end": 186.065,
+      "text": "Now in order to avoid confusion between 4% breakout and dollar breakout, right, and then and obviously, you need to save the chart after you do this."
+    },
+    {
+      "start": 186.125,
+      "end": 189.725,
+      "text": "What you want to do is you want to distinguish the background color."
+    },
+    {
+      "start": 189.725,
+      "end": 193.425,
+      "text": "So by mistake, if you are on a template, you know you are not on the wrong template."
+    },
+    {
+      "start": 193.66,
+      "end": 195.18,
+      "text": "So 4% is here."
+    },
+    {
+      "start": 195.18,
+      "end": 204.14,
+      "text": "And on dollar breakout, what you can do is you can do edit chart properties and change the back color to some other color."
+    },
+    {
+      "start": 204.14,
+      "end": 213.065,
+      "text": "So if you make this like this, so you know you're not on a 4% tab, and you can quickly then go and realize this."
+    },
+    {
+      "start": 213.065,
+      "end": 224.23999,
+      "text": "So that is why what I do is I color these kind of things with a different color so that, you know quickly that this is a different color tab."
+    },
+    {
+      "start": 224.23999,
+      "end": 224.73999,
       "text": "Right?"
     },
     {
-      "start": 91.979996,
-      "end": 93.92,
-      "text": "And, only 300 stocks."
+      "start": 225.04,
+      "end": 231.14,
+      "text": "In reality, I do not use 4% break breakout template ever."
     },
     {
-      "start": 94.22,
-      "end": 97.28,
-      "text": "So it's very easy to keep an eye on, like, any things."
+      "start": 231.28,
+      "end": 234.73999,
+      "text": "I just showed you in order for you to understand this thing."
     },
     {
-      "start": 97.659996,
-      "end": 100.14,
-      "text": "So I always like and I look at every day."
+      "start": 234.95999,
+      "end": 238.5,
+      "text": "I on a normal day, I only use the 4%."
     },
     {
-      "start": 100.14,
-      "end": 106.195,
-      "text": "And all that I've done is, like, I have not even put a filter to it asking for combo scan or something."
+      "start": 239.145,
+      "end": 241.705,
+      "text": "This is the template which I use on a normal day."
     },
     {
-      "start": 106.195,
-      "end": 106.435,
+      "start": 241.705,
+      "end": 243.645,
+      "text": "So do I use dollar breakout template?"
+    },
+    {
+      "start": 243.705,
+      "end": 243.865,
+      "text": "No."
+    },
+    {
+      "start": 243.865,
+      "end": 253.67,
+      "text": "But in order to do a deep dive or in order to study something, you want to find out where there's a dollar breakout, will this show up in your scan on this day, then it is useful."
+    },
+    {
+      "start": 253.67,
+      "end": 257.11,
+      "text": "Otherwise, on a day to day basis, do I use dollar breakout template?"
+    },
+    {
+      "start": 257.11,
+      "end": 257.61,
+      "text": "No."
+    },
+    {
+      "start": 257.75,
+      "end": 263.61,
+      "text": "So this is just for you to understand the concept and understand the setup and study the setup."
+    },
+    {
+      "start": 263.83,
+      "end": 272.575,
+      "text": "In reality, just 4% is more than enough as a template for looking at charts."
+    },
+    {
+      "start": 273.51498,
+      "end": 289.66,
+      "text": "So once you have set up the dollar breakout scan and once you set up the dollar breakout chart template, the next thing is once you run the dollar breakout scan, how are you going to select the stocks which show up in that particular scan?"
+    },
+    {
+      "start": 290.04,
+      "end": 295.80002,
+      "text": "Now it's exactly the same as what you're going to do in 4% breakout."
+    },
+    {
+      "start": 295.80002,
+      "end": 307.215,
+      "text": "And for that, what you need to remember is the same thing which you need to remember what we did in, essentially, 4% breakout."
+    },
+    {
+      "start": 307.215,
+      "end": 318.6,
+      "text": "And that is we used a framework called two Lynch to find stocks which show up in 4% breakout."
+    },
+    {
+      "start": 318.74,
+      "end": 321.08,
+      "text": "So let's review two Lynch."
+    },
+    {
+      "start": 321.38,
+      "end": 324.68,
+      "text": "Again, same thing as what we did in 4% breakout."
+    },
+    {
+      "start": 325.045,
+      "end": 328.405,
+      "text": "And what is the thing which you need to remember when you're looking at two linch?"
+    },
+    {
+      "start": 328.405,
+      "end": 330.58502,
+      "text": "The stock should not be up two days in a row."
+    },
+    {
+      "start": 330.965,
+      "end": 332.80502,
+      "text": "Linearity of the first leg of the move."
+    },
+    {
+      "start": 332.80502,
+      "end": 334.02502,
+      "text": "The stock should have linearity."
+    },
+    {
+      "start": 334.165,
+      "end": 337.86502,
+      "text": "The stock should have had strong buying coming in before it consolidates."
+    },
+    {
+      "start": 338.49,
+      "end": 347.31,
+      "text": "Young setup, that means you want to buy the first or second or third setup and not buy fourth, fifth, sixth, or seventh setup in a trending move."
+    },
+    {
+      "start": 348.25,
+      "end": 351.47,
+      "text": "N, which stands for narrower negative day prior to consolidation."
+    },
+    {
+      "start": 352.275,
+      "end": 354.695,
+      "text": "C, which is consolidation quality."
+    },
+    {
+      "start": 354.835,
+      "end": 359.335,
+      "text": "In consolidation quality, you want to see not big breakdown."
+    },
+    {
+      "start": 359.795,
+      "end": 361.395,
+      "text": "You want to see lower volume."
+    },
+    {
+      "start": 361.395,
+      "end": 364.695,
+      "text": "You want to see volatility compressing."
+    },
+    {
+      "start": 365.11002,
+      "end": 371.51,
+      "text": "You want to see, like, very compact, orderly consolidation, not a choppy consolidation, and close near high."
+    },
+    {
+      "start": 371.51,
+      "end": 375.93002,
+      "text": "So these are the same thing which we look for in a 4% breakout."
+    },
+    {
+      "start": 376.23,
+      "end": 389.035,
+      "text": "And when you apply that to a dollar breakout, you're going to get candidates like you're going to get candidate what you found in dollar, in 4% record."
+    },
+    {
+      "start": 389.035,
+      "end": 400.98,
+      "text": "So let's go and look at once we run this particular 4% breakout scan now, and you started running this particular scan, what is going to happen is you're going to get candidates."
+    },
+    {
+      "start": 401.52002,
+      "end": 401.76,
       "text": "Right?"
     },
     {
-      "start": 106.435,
-      "end": 109.075,
-      "text": "And because, it's only 300 stocks."
+      "start": 401.76,
+      "end": 404.72,
+      "text": "Once you have candidate, you sort them, whichever way you want to sort."
     },
     {
-      "start": 109.075,
-      "end": 111.155,
-      "text": "I can just sort it by this and look at it."
+      "start": 404.72,
+      "end": 405.68,
+      "text": "You sort by dollar."
     },
     {
-      "start": 111.155,
-      "end": 111.555,
+      "start": 405.68,
+      "end": 407.565,
+      "text": "You sort by each of whichever way."
+    },
+    {
+      "start": 407.725,
+      "end": 413.585,
+      "text": "And you have 61 candidates on Friday, and let's look at them, whether they meet two lien condition."
+    },
+    {
+      "start": 413.965,
+      "end": 417.085,
+      "text": "Now in this case, this stock doesn't meet two lien condition."
+    },
+    {
+      "start": 417.085,
+      "end": 417.405,
       "text": "Right?"
     },
     {
-      "start": 111.555,
-      "end": 116.115,
-      "text": "And in the morning, you're not going to get many of the, the things which are positive or something."
+      "start": 417.405,
+      "end": 421.245,
+      "text": "And so we keep going till we find a candidate, which means two lien condition."
     },
     {
-      "start": 116.115,
-      "end": 116.615,
+      "start": 421.245,
+      "end": 424.35,
+      "text": "Now this stock actually is also 4% breakout."
+    },
+    {
+      "start": 424.35,
+      "end": 424.85,
       "text": "Right?"
     },
     {
-      "start": 116.755,
-      "end": 130.01,
-      "text": "So once you go into this, then, any new IPO which is breaking out, I want to consider it separately from any old stock, which is because, you know, you look another younger ones have more vitality."
+      "start": 425.79,
+      "end": 434.03,
+      "text": "So I will later show you in this video how you can eliminate 4% breakout from this list and only look at download breakouts also."
     },
     {
-      "start": 130.15,
-      "end": 130.63,
+      "start": 434.03,
+      "end": 437.49,
+      "text": "But this is something which meets your, two lynch setup."
+    },
+    {
+      "start": 437.55,
+      "end": 438.05,
       "text": "Right?"
     },
     {
-      "start": 130.63,
-      "end": 137.025,
-      "text": "The younger ones are the one which are, like, gonna go and make a more explosive move."
+      "start": 440.165,
+      "end": 452.245,
+      "text": "So as we keep going, and we don't see anything which is meeting as of now, two links kind of a thing, and if we see setup, then I will stop and show you a setup which meets two links."
     },
     {
-      "start": 137.245,
-      "end": 137.485,
+      "start": 452.245,
+      "end": 458.0,
+      "text": "Remember, we are in a bearish condition when I did this video, so you may not get many candidate."
+    },
+    {
+      "start": 465.26,
+      "end": 471.685,
+      "text": "But so this is another one from the same category as what we looked at, which is like another ETF."
+    },
+    {
+      "start": 494.175,
+      "end": 499.695,
+      "text": "So, essentially, there is no true dollar breakout in this particular scan."
+    },
+    {
+      "start": 499.695,
+      "end": 508.75998,
+      "text": "Now I said, like, I'll show you how you can basically, eliminate the 4% breakout and only look at dollar breakout from this particular scan."
+    },
+    {
+      "start": 508.75998,
+      "end": 511.66,
+      "text": "So you have this output of dollar breakout scan."
+    },
+    {
+      "start": 511.8,
+      "end": 514.36,
+      "text": "For that, little bit of elbow grease is required."
+    },
+    {
+      "start": 514.36,
+      "end": 520.06,
+      "text": "You create a blank watch list, and take the candidate from your dollar breakout there."
+    },
+    {
+      "start": 520.725,
+      "end": 521.225,
       "text": "Right?"
     },
     {
-      "start": 137.485,
-      "end": 140.685,
-      "text": "So this is the simplest way I I have created this."
+      "start": 521.365,
+      "end": 527.945,
+      "text": "Copy all of them into a blank voice list, bullish working voice list, and then you go to 4% breakouts."
     },
     {
-      "start": 140.685,
-      "end": 143.08499,
-      "text": "And on this, then I'm looking for a bottom bounds."
+      "start": 528.245,
+      "end": 534.005,
+      "text": "And when you go to 4% breakouts, like, this is your 4%, breakout bullish."
     },
     {
-      "start": 143.08499,
-      "end": 149.745,
-      "text": "On this, I'm looking for a continuation setup or I'm looking at, this now."
-    },
-    {
-      "start": 149.96,
-      "end": 150.28,
-      "text": "See here."
-    },
-    {
-      "start": 150.28,
-      "end": 151.8,
-      "text": "So in z."
-    },
-    {
-      "start": 151.8,
-      "end": 152.12001,
+      "start": 534.005,
+      "end": 534.505,
       "text": "Right?"
     },
     {
-      "start": 152.12001,
-      "end": 165.015,
-      "text": "And when I was looking at and also nowadays, what I started doing is, I just create an anticipation list on this also So that, like, can I know if there is something new setting up kind of a thing?"
+      "start": 534.95996,
+      "end": 543.77997,
+      "text": "You flag all the symbols in the list, and then go back to this bullish working and remove all the flag symbols."
     },
     {
-      "start": 165.015,
-      "end": 168.155,
-      "text": "So, this is basically segregating."
+      "start": 544.16,
+      "end": 549.945,
+      "text": "So these are all the stocks, as you can see, which are not meeting 4% condition."
     },
     {
-      "start": 169.095,
-      "end": 169.49501,
+      "start": 549.945,
+      "end": 551.785,
+      "text": "This is not meeting 4% condition."
+    },
+    {
+      "start": 551.785,
+      "end": 553.805,
+      "text": "You can visually also check it out."
+    },
+    {
+      "start": 554.265,
+      "end": 558.125,
+      "text": "And these are the stocks which are coming in dollar breakout, basically."
+    },
+    {
+      "start": 558.585,
+      "end": 563.03,
+      "text": "So that's the way, you can, like, eliminate this thing."
+    },
+    {
+      "start": 563.73,
+      "end": 569.89,
+      "text": "Now, the other way you can do this is when you're doing this work, you're going to be repeating the work."
+    },
+    {
+      "start": 569.89,
+      "end": 572.21,
+      "text": "Like, you're going to look at some 4% record."
+    },
+    {
+      "start": 572.21,
+      "end": 574.21,
+      "text": "You're going to look at some 4% breakdown."
+    },
+    {
+      "start": 574.21,
+      "end": 574.71,
       "text": "Right?"
     },
     {
-      "start": 169.49501,
-      "end": 175.435,
-      "text": "Are these stocks also subset of, like, basically, are the subset of this list?"
+      "start": 574.88495,
+      "end": 586.02496,
+      "text": "So in order to remove that duplication, the other way you can do this is, like, you go, you have a blank watch list, and you take both candidates, 4% record bullish."
     },
     {
-      "start": 177.41,
-      "end": 178.21,
-      "text": "This all stock."
-    },
-    {
-      "start": 178.21,
-      "end": 178.61,
-      "text": "Yes."
-    },
-    {
-      "start": 178.61,
-      "end": 182.55,
-      "text": "But by separating the youth, which is five years IPO."
-    },
-    {
-      "start": 187.25,
-      "end": 189.80501,
-      "text": "You're focusing on this particular list."
-    },
-    {
-      "start": 189.80501,
-      "end": 192.205,
-      "text": "Now there is another way in which you can use this list."
-    },
-    {
-      "start": 192.205,
-      "end": 195.485,
-      "text": "We are looking at our breakouts only, but because, anyway, we're looking at this list."
-    },
-    {
-      "start": 195.485,
-      "end": 207.19,
-      "text": "What I do on this list also is to look at, like, an anything which is like an made a big move by TD because those are the four or five stocks which might be the one which are going to go on and make big move."
-    },
-    {
-      "start": 207.19,
-      "end": 207.34999,
+      "start": 586.565,
+      "end": 587.065,
       "text": "Right?"
     },
     {
-      "start": 207.34999,
-      "end": 208.39,
-      "text": "So ask her health."
+      "start": 588.89996,
+      "end": 591.72,
+      "text": "Copy all of them into bullish working."
     },
     {
-      "start": 208.39,
-      "end": 209.29,
-      "text": "So I research."
+      "start": 591.86,
+      "end": 599.24,
+      "text": "You take dollar breakout bullish, and copy all of them into bullish working."
     },
     {
-      "start": 209.67,
-      "end": 214.09,
-      "text": "Then I research this one which are, like, and they started moving, try and understand their story."
-    },
-    {
-      "start": 214.485,
-      "end": 224.08499,
-      "text": "And, if I understand the story and if I feel that they have the potential to make a big move, then those become my sugar babies."
-    },
-    {
-      "start": 224.08499,
-      "end": 224.58499,
-      "text": "Right?"
-    },
-    {
-      "start": 225.28499,
-      "end": 231.56,
-      "text": "And that is how, I'm keeping a tab of young stocks."
-    },
-    {
-      "start": 232.1,
-      "end": 236.98,
-      "text": "Now you can you expand this to so here, like, you know, this is a new one which came in."
-    },
-    {
-      "start": 236.98,
-      "end": 237.22,
-      "text": "Right?"
-    },
-    {
-      "start": 237.22,
-      "end": 243.16,
-      "text": "And I made a big move, and this is where it is now already a 14% rate."
-    },
-    {
-      "start": 243.38,
-      "end": 246.49501,
-      "text": "So can you expand this to ten years?"
-    },
-    {
-      "start": 246.875,
-      "end": 247.195,
-      "text": "Yes."
-    },
-    {
-      "start": 247.195,
-      "end": 249.675,
-      "text": "If you expand it to ten years, but then you lose focus."
-    },
-    {
-      "start": 249.675,
-      "end": 250.175,
-      "text": "Right?"
-    },
-    {
-      "start": 250.235,
-      "end": 257.035,
-      "text": "Because if you expand it to ten years, then you're going to run into thousands of stocks, and then, it defeats the purpose."
-    },
-    {
-      "start": 257.035,
-      "end": 262.71,
-      "text": "So I am okay with keeping it at five because that 300, it's a very manageable list."
-    },
-    {
-      "start": 262.93,
-      "end": 269.81,
-      "text": "And you want to know within this which one are the one which are like in a basically, making a big move."
-    },
-    {
-      "start": 269.81,
-      "end": 281.45502,
-      "text": "So that's why I was like an s o positive on Onan, and I had like a obviously it didn't work out but like an I put a good decent sized position on that particular thing because it was a new stock."
-    },
-    {
-      "start": 281.45502,
-      "end": 281.95502,
-      "text": "Right?"
-    },
-    {
-      "start": 282.17502,
-      "end": 282.915,
-      "text": "New discovery."
-    },
-    {
-      "start": 283.45502,
-      "end": 284.11502,
-      "text": "New discovery."
-    },
-    {
-      "start": 284.255,
-      "end": 291.77002,
-      "text": "So how to like an do our thing, which is like, you know, we talk about which is like in a cougar."
-    },
-    {
-      "start": 291.83002,
-      "end": 292.33002,
-      "text": "Right?"
-    },
-    {
-      "start": 294.39,
-      "end": 295.45,
-      "text": "By doing this."
-    },
-    {
-      "start": 296.47,
-      "end": 305.025,
-      "text": "So now what what has happened is like say, even though I look at all this thing, the this is a priority."
-    },
-    {
-      "start": 305.485,
-      "end": 305.985,
-      "text": "Right?"
-    },
-    {
-      "start": 306.205,
-      "end": 310.945,
-      "text": "This is a priority because it is gonna find something which you can hold for longer term."
-    },
-    {
-      "start": 314.85,
-      "end": 315.33,
-      "text": "Probably."
-    },
-    {
-      "start": 315.33,
-      "end": 321.99,
-      "text": "Because you have some reason to or you can do a larger size because it is going to be more exclusive."
-    },
-    {
-      "start": 322.05,
-      "end": 322.53,
-      "text": "Right?"
-    },
-    {
-      "start": 323.25,
-      "end": 328.47,
-      "text": "Mostly longer term, if you're looking for something, if you can find it earlier, that is the, thing."
-    },
-    {
-      "start": 328.53,
-      "end": 333.295,
-      "text": "This is primarily for larger sizing of trade."
-    },
-    {
-      "start": 336.55502,
-      "end": 337.035,
-      "text": "Right?"
-    },
-    {
-      "start": 337.035,
-      "end": 344.69,
-      "text": "And this is basically, again, to find longer term winners right at the beginning."
-    },
-    {
-      "start": 345.22998,
-      "end": 350.43,
-      "text": "And because every time a stock makes a big move here okay."
-    },
-    {
-      "start": 350.43,
-      "end": 351.38998,
-      "text": "Just give me one minute."
-    },
-    {
-      "start": 351.38998,
-      "end": 352.66998,
-      "text": "I think there is somebody outside."
-    },
-    {
-      "start": 352.66998,
-      "end": 353.16998,
-      "text": "Okay?"
-    },
-    {
-      "start": 376.86,
-      "end": 384.835,
-      "text": "So essentially, every time a stock makes a move or like an basically, a stocks makes a abnormal move, right?"
-    },
-    {
-      "start": 384.835,
-      "end": 395.975,
-      "text": "And in a week or something, I keep researching these stocks because if I research these stocks every week, then over a period of time, you know, every single stock, right?"
-    },
-    {
-      "start": 398.68,
-      "end": 402.04,
-      "text": "See the stop management, everything remains same, right?"
-    },
-    {
-      "start": 402.04,
-      "end": 405.88,
-      "text": "And it's not like in a that it is going to be any different, right?"
-    },
-    {
-      "start": 405.88,
-      "end": 410.06,
-      "text": "And if I enter a trade like this, I'm going to be putting in the low of the day as a stop, right?"
-    },
-    {
-      "start": 411.16498,
-      "end": 412.38498,
-      "text": "There is no other way."
-    },
-    {
-      "start": 413.245,
-      "end": 415.245,
-      "text": "That's the universal solution, right?"
-    },
-    {
-      "start": 415.245,
-      "end": 417.82498,
-      "text": "It's a universal solution to trading problem."
-    },
-    {
-      "start": 418.205,
-      "end": 431.02,
-      "text": "If you're going to be trading a breakout, it just doesn't make sense to not use law of the day as a thing."
-    },
-    {
-      "start": 431.02,
-      "end": 431.52,
-      "text": "Right?"
-    },
-    {
-      "start": 431.9,
-      "end": 433.9,
-      "text": "It just doesn't make sense according to me."
-    },
-    {
-      "start": 433.9,
-      "end": 437.82,
-      "text": "Like, any the only valid stop on this is law of the day."
-    },
-    {
-      "start": 437.82,
-      "end": 438.3,
-      "text": "Right?"
-    },
-    {
-      "start": 438.3,
-      "end": 443.255,
-      "text": "If it beats that low of the day means why would I want to hold a stock?"
-    },
-    {
-      "start": 443.715,
-      "end": 443.955,
-      "text": "Right?"
-    },
-    {
-      "start": 443.955,
-      "end": 446.51498,
-      "text": "No matter what my this thing is, right?"
-    },
-    {
-      "start": 446.51498,
-      "end": 452.535,
-      "text": "If the stock next day does this, is there any reason why I should be holding this stock?"
-    },
-    {
-      "start": 457.07,
-      "end": 458.11002,
-      "text": "It depends the purpose."
-    },
-    {
-      "start": 458.11002,
-      "end": 458.35,
-      "text": "Right?"
-    },
-    {
-      "start": 458.35,
-      "end": 466.27002,
-      "text": "And the only logical stuff if you look at like in a and these are some of the things, anyway, I'm I have a meeting later today."
-    },
-    {
-      "start": 466.27002,
-      "end": 468.05002,
-      "text": "I'm going to discuss some of these issues."
-    },
-    {
-      "start": 468.215,
-      "end": 472.475,
-      "text": "You look at it once for all you have to answer, like in a settle some issues, right?"
-    },
-    {
-      "start": 472.77502,
-      "end": 475.435,
-      "text": "And very some issues once for all, right?"
-    },
-    {
-      "start": 476.45502,
-      "end": 481.595,
-      "text": "When I research the stock, I want to know like, an a like, say, this is a Gato silver, right?"
-    },
-    {
-      "start": 481.73502,
-      "end": 488.91998,
-      "text": "So when I research ghetto silver, or when I look at something like say, this, right?"
-    },
-    {
-      "start": 489.06,
-      "end": 505.805,
-      "text": "I know ghetto silver is like an ace ghetto silver going to be like a big move means like an is it really multi year move kind of a stock Or is something which is, like, say, fluence energy."
-    },
-    {
-      "start": 506.10498,
-      "end": 506.60498,
-      "text": "Right?"
-    },
-    {
-      "start": 507.54498,
-      "end": 510.60498,
-      "text": "Which one of these is likely to make a multiyear move?"
-    },
-    {
-      "start": 511.2,
-      "end": 512.88,
-      "text": "You want to know what is their business, right?"
-    },
-    {
-      "start": 512.88,
-      "end": 520.4,
-      "text": "And this is a metal stock, which doesn't necessarily have explosive capacity to make a big move."
-    },
-    {
-      "start": 520.4,
-      "end": 520.88,
-      "text": "Right?"
-    },
-    {
-      "start": 520.88,
-      "end": 533.235,
-      "text": "But if I research fluence energy and if I go and see fluence energy and see, like, in how it is growing and look at, like, you know, what kind of, this thing earnings and sales trend it has."
-    },
-    {
-      "start": 533.695,
-      "end": 534.815,
-      "text": "I know that you look at it."
-    },
-    {
-      "start": 534.815,
-      "end": 538.815,
-      "text": "This is the stock which can make a bigger move."
-    },
-    {
-      "start": 538.815,
-      "end": 539.315,
-      "text": "Right?"
-    },
-    {
-      "start": 542.64,
-      "end": 557.575,
-      "text": "Or if it is a technology start, or if it is a something which is like a new shoes or something, which is the next Chipotle Mexican grill, or if it is like any, can we get the watch list?"
-    },
-    {
-      "start": 557.815,
-      "end": 559.655,
-      "text": "Means like an again, the same problem."
-    },
-    {
-      "start": 559.655,
-      "end": 560.155,
-      "text": "Right?"
-    },
-    {
-      "start": 561.815,
-      "end": 566.29504,
-      "text": "I can give you watch list once, but after that, what is going to happen?"
-    },
-    {
-      "start": 566.29504,
-      "end": 570.99,
-      "text": "Like, if you want to do something like this, then you'll have to find a solution longer term."
-    },
-    {
-      "start": 571.23,
-      "end": 573.81,
-      "text": "But you can do this without having MarketSmith."
-    },
-    {
-      "start": 574.02997,
-      "end": 574.52997,
-      "text": "Right?"
-    },
-    {
-      "start": 574.83,
-      "end": 576.77,
-      "text": "How can you do this without having MarketSmith?"
-    },
-    {
-      "start": 577.31,
-      "end": 579.73,
-      "text": "Is it possible to do this without having MarketSmith?"
-    },
-    {
-      "start": 582.35,
-      "end": 582.85,
-      "text": "Yes."
-    },
-    {
-      "start": 582.91,
-      "end": 583.41,
-      "text": "Right?"
-    },
-    {
-      "start": 583.47,
-      "end": 585.49,
-      "text": "How do you do it without having MarketSmith?"
-    },
-    {
-      "start": 585.965,
-      "end": 587.66504,
-      "text": "You go to US stocks."
-    },
-    {
-      "start": 587.805,
-      "end": 588.305,
-      "text": "Right?"
-    },
-    {
-      "start": 588.445,
-      "end": 594.145,
-      "text": "You go to US common stocks and put a column called price growth rate five years."
-    },
-    {
-      "start": 594.84503,
+      "start": 599.54,
       "end": 600.0,
-      "text": "So when you put a column called price growth rate five years and sort"
+      "text": "And"
     }
   ],
   "language": "en",
