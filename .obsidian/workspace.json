@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "8cd58b173666722e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f34444cd409feaac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79a790377f3585d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pradeep Bonde/How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to Trade Breakouts Guide-Part 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "838c5c7e2d2f4b7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd16b170f914083c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02cf004e6676255b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "464a1708fbc48ce9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e110c1aa00451dc2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6a1b61bbd38c20a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "fca8c52f7e3ec5c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b26d531425bc4a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pradeep Bonde/How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for How to Trade Breakouts Guide-Part 1"
+            }
+          },
+          {
+            "id": "c7c543dede62d738",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pradeep Bonde/How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from How to Trade Breakouts Guide-Part 1"
+            }
+          },
+          {
+            "id": "0c2ca401dd0d1c8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a94914f90d8fffcc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f60c75f48af5d6cb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pradeep Bonde/How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of How to Trade Breakouts Guide-Part 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "79a790377f3585d3",
+  "lastOpenFiles": [
+    "Pradeep Bonde/How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 3.md",
+    "transcripts/Pradeep Bonde - How to Trade Breakouts Guide-Part 3_deepgram.md",
+    "Pradeep Bonde/How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 2.md",
+    "transcripts/Pradeep Bonde - How to Trade Breakouts Guide-Part 2_deepgram.md",
+    "transcripts/chunk_0010.json",
+    "transcripts/chunk_0009.json",
+    "transcripts/chunk_0008.json",
+    "Pradeep Bonde/Guide/How to Get Started In Trading Guide-Part 8.md",
+    "Pradeep Bonde/Guide/How to Get Started In Trading Guide-Part 6.md",
+    "Pradeep Bonde/How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md",
+    "Pradeep Bonde/How to Trade Breakouts Guide",
+    "transcripts/Pradeep Bonde - How to Trade Breakouts Guide-Part 1_deepgram.md",
+    "transcripts/Pradeep Bonde - How to Get Started In Trading Guide-Part 8_deepgram.md",
+    "Pradeep Bonde/Guide/How to Get Started In Trading Guide-Part 7.md",
+    "transcripts/Pradeep Bonde - How to Get Started In Trading Guide-Part 7_deepgram.md",
+    "transcripts/chunk_0007.json",
+    "transcripts/transcript.json",
+    "Pradeep Bonde/Guide/How to Get Started In Trading Guide-Part 5.md",
+    "transcripts/Pradeep Bonde - How to Get Started In Trading Guide-Part 6_deepgram.md",
+    "transcripts/Pradeep Bonde - How to Get Started In Trading Guide-Part 5_deepgram.md",
+    "transcripts/Pradeep Bonde - How to Get Started In Trading Guide-Part 3_deepgram.md",
+    "transcripts/Pradeep Bonde - How to Get Started In Trading Guide-Part 2_deepgram.md",
+    "transcripts/Pradeep Bonde - How to Get Started In Trading Guide-Part 1_deepgram.md",
+    "Pradeep Bonde/Guide/How to Get Started In Trading Guide-Part 1.md",
+    "Pradeep Bonde/Guide/How to Get Started In Trading Guide-Part 4.md",
+    "transcripts/Pradeep Bonde - How to Get Started In Trading Guide-Part 4_deepgram.md",
+    "Pradeep Bonde/Guide/How to Get Started In Trading Guide-Part 3.md",
+    "Pradeep Bonde/Guide/How to Get Started In Trading Guide-Part 2.md",
+    "transcripts/How to Get Started In Trading Guide-Part 2_deepgram.md",
+    "Fabio Valentina/Chart Fanatics - Trading LIVE with the #1 Scalper in the WORLD (EXTREME Accuracy)_subs.md",
+    "transcripts/How to Get Started In Trading Guide-Part 1_deepgram.md",
+    "transcripts/chunk_0006.json",
+    "transcripts/chunk_0005.json",
+    "transcripts/chunk_0004.json",
+    "transcripts/chunk_0003.json",
+    "Pradeep Bonde/Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs.md"
+  ]
+}

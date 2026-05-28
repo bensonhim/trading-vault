@@ -1,0 +1,756 @@
+{
+  "segments": [
+    {
+      "start": 1.1999999,
+      "end": 7.54,
+      "text": "Go through all the stocks which are in downtrend."
+    },
+    {
+      "start": 8.4,
+      "end": 8.9,
+      "text": "Right?"
+    },
+    {
+      "start": 12.08,
+      "end": 16.265,
+      "text": "And look for areas where they might bounce back."
+    },
+    {
+      "start": 16.265,
+      "end": 16.505001,
+      "text": "Right?"
+    },
+    {
+      "start": 16.505001,
+      "end": 22.765,
+      "text": "And so, here is a long conversation I had on this, yesterday with somebody."
+    },
+    {
+      "start": 23.305,
+      "end": 28.525,
+      "text": "And, he say he says, look, and I he called me."
+    },
+    {
+      "start": 29.18,
+      "end": 32.7,
+      "text": "Means there are people who keep calling me for a variety of reason."
+    },
+    {
+      "start": 32.7,
+      "end": 32.940002,
+      "text": "Right?"
+    },
+    {
+      "start": 32.940002,
+      "end": 35.02,
+      "text": "And they're not necessarily they're not members."
+    },
+    {
+      "start": 35.02,
+      "end": 36.38,
+      "text": "So he says, can you look at it?"
+    },
+    {
+      "start": 36.38,
+      "end": 39.28,
+      "text": "What do you think of like this as a bottom bounce candidate?"
+    },
+    {
+      "start": 39.34,
+      "end": 39.84,
+      "text": "Right?"
+    },
+    {
+      "start": 40.3,
+      "end": 41.1,
+      "text": "So I said, yeah."
+    },
+    {
+      "start": 41.1,
+      "end": 41.58,
+      "text": "Possible."
+    },
+    {
+      "start": 41.58,
+      "end": 44.38,
+      "text": "Like, it's possible that there might be a bottom bounce."
+    },
+    {
+      "start": 44.38,
+      "end": 44.835,
+      "text": "Right?"
+    },
+    {
+      "start": 45.715,
+      "end": 49.655,
+      "text": "So he this particular person who called me, right?"
+    },
+    {
+      "start": 50.754997,
+      "end": 60.36,
+      "text": "He basically trades only, like, he cannot make himself to trade anything which is going up anything which has momentum, anything which is making new high."
+    },
+    {
+      "start": 60.52,
+      "end": 72.6,
+      "text": "So now this kind of a trades, if you find right and there is a logical area and where this might happen, then yes, you can create a watch list."
+    },
+    {
+      "start": 72.6,
+      "end": 73.1,
+      "text": "Right?"
+    },
+    {
+      "start": 73.16,
+      "end": 80.865,
+      "text": "Similarly, if you create a watch list like say reversal bearish, reversal bullish, which we are looking at right from here."
+    },
+    {
+      "start": 81.005,
+      "end": 85.805,
+      "text": "And from that watch list, you create stocks which are setting up like this."
+    },
+    {
+      "start": 85.805,
+      "end": 87.725,
+      "text": "ACHW anyway, setting up like this."
+    },
+    {
+      "start": 87.725,
+      "end": 93.19,
+      "text": "But the point is in order to do this, you'll have to look at go through all stocks which are in downtrend."
+    },
+    {
+      "start": 95.090004,
+      "end": 95.590004,
+      "text": "Right?"
+    },
+    {
+      "start": 100.53,
+      "end": 102.31,
+      "text": "And put together a watch list."
+    },
+    {
+      "start": 102.695,
+      "end": 106.875,
+      "text": "And that's the point which I was making to this person saying to look, why is CHW?"
+    },
+    {
+      "start": 106.935,
+      "end": 113.174995,
+      "text": "There can be other stocks which are in a similar setting, and they might bounce back more than a CHW and things like that."
+    },
+    {
+      "start": 113.174995,
+      "end": 113.494995,
+      "text": "Right?"
+    },
+    {
+      "start": 113.494995,
+      "end": 117.85,
+      "text": "So you'll make a watch list of anywhere between 50 to 60 stocks."
+    },
+    {
+      "start": 117.85,
+      "end": 124.83,
+      "text": "If you do this right, you're going to find like any stocks 50 to 60 stocks which are setting up like this."
+    },
+    {
+      "start": 125.130005,
+      "end": 127.69,
+      "text": "So here is the way you will do this process terms."
+    },
+    {
+      "start": 127.69,
+      "end": 133.025,
+      "text": "So let's take like say a combo universe index."
+    },
+    {
+      "start": 133.025,
+      "end": 133.34499,
+      "text": "Right?"
+    },
+    {
+      "start": 133.34499,
+      "end": 141.605,
+      "text": "And which is NASDAQ 100 and s and p 500 because that is where the bottom bounces are more likely to work because their index component."
+    },
+    {
+      "start": 141.905,
+      "end": 143.85,
+      "text": "So here is the process which you use."
+    },
+    {
+      "start": 144.09001,
+      "end": 145.13,
+      "text": "You take this list."
+    },
+    {
+      "start": 145.13,
+      "end": 147.31001,
+      "text": "You have 521 stocks."
+    },
+    {
+      "start": 147.77,
+      "end": 154.11,
+      "text": "And what do you do is you sort them by some sort of a, momentum indicator."
+    },
+    {
+      "start": 154.25,
+      "end": 154.73001,
+      "text": "Right?"
+    },
+    {
+      "start": 154.73001,
+      "end": 156.89,
+      "text": "So there are many ways in which you can sort them."
+    },
+    {
+      "start": 156.89,
+      "end": 161.47499,
+      "text": "Either you can sort them by YTD and start with the lowest YTD."
+    },
+    {
+      "start": 161.69499,
+      "end": 162.015,
+      "text": "Right?"
+    },
+    {
+      "start": 162.015,
+      "end": 165.135,
+      "text": "Because, where are bottom ones is going to come from?"
+    },
+    {
+      "start": 165.135,
+      "end": 167.935,
+      "text": "Bottom ones are going to come from things which are beaten down."
+    },
+    {
+      "start": 167.935,
+      "end": 168.17499,
+      "text": "Right?"
+    },
+    {
+      "start": 168.17499,
+      "end": 171.075,
+      "text": "So you will create a watch list of stocks."
+    },
+    {
+      "start": 172.43,
+      "end": 177.47,
+      "text": "And this is what I was explaining to that person, but he was stuck on that one idea."
+    },
+    {
+      "start": 177.47,
+      "end": 180.99,
+      "text": "I said, like, there can be many other ideas and they might work better than this."
+    },
+    {
+      "start": 180.99,
+      "end": 181.49,
+      "text": "Right?"
+    },
+    {
+      "start": 181.55,
+      "end": 188.355,
+      "text": "So you have all these stocks which are near bottom and which are not bounced back, and you create a watch list of those stocks."
+    },
+    {
+      "start": 188.975,
+      "end": 196.255,
+      "text": "Similarly, you might find some which had a minor because bottom ones can also happen from a minor pullback kind of a thing."
+    },
+    {
+      "start": 196.255,
+      "end": 196.755,
+      "text": "Right?"
+    },
+    {
+      "start": 196.975,
+      "end": 199.715,
+      "text": "So you create some sort of a, like, say Pfizer."
+    },
+    {
+      "start": 200.58,
+      "end": 201.08,
+      "text": "Right?"
+    },
+    {
+      "start": 201.62001,
+      "end": 203.64,
+      "text": "And so on and so forth to the CVS."
+    },
+    {
+      "start": 204.58,
+      "end": 217.765,
+      "text": "And by the end of the day, if you go do this every day, you will come every day with a list of like 40 to 50, 30 to 25 to 30 stocks which are setting up like this, which are near bottom."
+    },
+    {
+      "start": 217.765,
+      "end": 218.005,
+      "text": "Right?"
+    },
+    {
+      "start": 218.005,
+      "end": 225.845,
+      "text": "And basically, and, so MTV bank, all obviously all regional banks are near US Bank."
+    },
+    {
+      "start": 225.845,
+      "end": 229.04501,
+      "text": "All the regional banks and banks are near the that kind of a thing."
+    },
+    {
+      "start": 229.04501,
+      "end": 229.54501,
+      "text": "Right?"
+    },
+    {
+      "start": 229.60501,
+      "end": 235.23,
+      "text": "So then you're going to operate only from your watch list."
+    },
+    {
+      "start": 235.23,
+      "end": 235.73,
+      "text": "Right?"
+    },
+    {
+      "start": 236.18999,
+      "end": 242.12999,
+      "text": "You're only going to operate from your watch list, once you have this kind of a list of stocks."
+    },
+    {
+      "start": 243.005,
+      "end": 243.505,
+      "text": "Right?"
+    },
+    {
+      "start": 246.845,
+      "end": 248.285,
+      "text": "And means I'm just illustrating."
+    },
+    {
+      "start": 248.285,
+      "end": 249.82501,
+      "text": "I'm not going to go through everything."
+    },
+    {
+      "start": 249.96501,
+      "end": 255.40501,
+      "text": "But, suffice it to say, if you go through everything like any, you might find 20 to 30 thing."
+    },
+    {
+      "start": 255.40501,
+      "end": 256.945,
+      "text": "And this is the watch list."
+    },
+    {
+      "start": 257.12,
+      "end": 258.72,
+      "text": "And this is the only watch list."
+    },
+    {
+      "start": 258.72,
+      "end": 259.22,
+      "text": "Right?"
+    },
+    {
+      "start": 259.52002,
+      "end": 261.7,
+      "text": "Then this is the only watch list in the morning."
+    },
+    {
+      "start": 262.16,
+      "end": 264.74002,
+      "text": "You're monitoring or you're monitoring during the day."
+    },
+    {
+      "start": 265.28,
+      "end": 268.18,
+      "text": "So as soon as something breaks out, right?"
+    },
+    {
+      "start": 268.32,
+      "end": 282.755,
+      "text": "You're going to buy that, like, say a CHW if it like an a starts going up you want to be in it based on that because you already have qualified this as possible bottom bounds candidate, right?"
+    },
+    {
+      "start": 282.815,
+      "end": 285.075,
+      "text": "So you will have 20 to 30."
+    },
+    {
+      "start": 285.18,
+      "end": 293.91998,
+      "text": "So in process terms, if you want to like and spend your time doing this, then this is the way you can do this right on index component."
+    },
+    {
+      "start": 294.69998,
+      "end": 299.12,
+      "text": "You can instead of using YTD, you can use, TI 65."
+    },
+    {
+      "start": 299.715,
+      "end": 300.115,
+      "text": "Right?"
+    },
+    {
+      "start": 300.115,
+      "end": 304.59497,
+      "text": "If you do TI 65 also, start with the lowest and keep going."
+    },
+    {
+      "start": 304.59497,
+      "end": 309.715,
+      "text": "So you will get, most of the similar candidate you are going to get here."
+    },
+    {
+      "start": 309.715,
+      "end": 311.235,
+      "text": "They are all regional banks."
+    },
+    {
+      "start": 311.235,
+      "end": 311.47498,
+      "text": "Right?"
+    },
+    {
+      "start": 311.47498,
+      "end": 316.47998,
+      "text": "And basically KeyCorp and SCSTW and TFC and things like that."
+    },
+    {
+      "start": 316.47998,
+      "end": 316.72,
+      "text": "Right?"
+    },
+    {
+      "start": 316.72,
+      "end": 323.3,
+      "text": "And basically, so, that's the process."
+    },
+    {
+      "start": 323.52,
+      "end": 323.84,
+      "text": "Right?"
+    },
+    {
+      "start": 323.84,
+      "end": 324.74,
+      "text": "That's the process."
+    },
+    {
+      "start": 324.96,
+      "end": 332.595,
+      "text": "And if you do the process, then you will find a lot of bottom bounces because, you're already studied your list."
+    },
+    {
+      "start": 332.595,
+      "end": 333.955,
+      "text": "You prioritize that list."
+    },
+    {
+      "start": 333.955,
+      "end": 341.85,
+      "text": "Once you have this list of stocks which are there, then you prioritize between these three, four, which are the best ones, and you're ready with the list."
+    },
+    {
+      "start": 341.93,
+      "end": 344.41,
+      "text": "And then you get in as soon as they show up."
+    },
+    {
+      "start": 344.41,
+      "end": 344.65,
+      "text": "Right?"
+    },
+    {
+      "start": 344.65,
+      "end": 348.03,
+      "text": "And that is where whatever catches your fancy."
+    },
+    {
+      "start": 348.41,
+      "end": 355.53,
+      "text": "If you think like in a hunger volume ratio is the key to making money, you can use hunger volume ratio."
+    },
+    {
+      "start": 355.53,
+      "end": 367.865,
+      "text": "You can use whatever like in a that volume buzz or whatever shit you want to do do or you can create your own volume indicator, volume buzz kind of indicator."
+    },
+    {
+      "start": 368.32498,
+      "end": 379.59,
+      "text": "And like can I give it a name as like and I basically just like in a break the day into six hours?"
+    },
+    {
+      "start": 380.05002,
+      "end": 386.05,
+      "text": "Like an I just like an essay, can you look and I means I can create a volume buzz indicator very easily."
+    },
+    {
+      "start": 386.05,
+      "end": 386.21,
+      "text": "Right?"
+    },
+    {
+      "start": 386.21,
+      "end": 390.335,
+      "text": "And basically are say you can just like an add a column here."
+    },
+    {
+      "start": 391.035,
+      "end": 391.51498,
+      "text": "Right?"
+    },
+    {
+      "start": 391.51498,
+      "end": 398.235,
+      "text": "Insert a column value and let's call it like in a stock b volume ratio s v r."
+    },
+    {
+      "start": 398.235,
+      "end": 398.475,
+      "text": "Right?"
+    },
+    {
+      "start": 398.475,
+      "end": 400.335,
+      "text": "And because that sounds so sexy."
+    },
+    {
+      "start": 400.395,
+      "end": 400.89,
+      "text": "Right?"
+    },
+    {
+      "start": 400.89,
+      "end": 416.59003,
+      "text": "And then we can, like, announce people will start like an on all that you're doing it is v divided by v one or like an average, average v 10.1."
+    },
+    {
+      "start": 417.275,
+      "end": 417.775,
+      "text": "Right?"
+    },
+    {
+      "start": 427.115,
+      "end": 428.57498,
+      "text": "Divided by six."
+    },
+    {
+      "start": 428.91,
+      "end": 436.77,
+      "text": "How many hours are there in a, how many, hour of the hours are there in the the this thing in a day?"
+    },
+    {
+      "start": 440.11002,
+      "end": 442.845,
+      "text": "Trading hours, 09:30 to 04:00."
+    },
+    {
+      "start": 442.845,
+      "end": 443.165,
+      "text": "Right?"
+    },
+    {
+      "start": 443.165,
+      "end": 445.325,
+      "text": "And so 10:00 means to six and a half."
+    },
+    {
+      "start": 445.325,
+      "end": 445.825,
+      "text": "Right?"
+    },
+    {
+      "start": 445.965,
+      "end": 451.825,
+      "text": "So let's make it divided by thirteen or like, can I make it twenty six?"
+    },
+    {
+      "start": 452.445,
+      "end": 452.945,
+      "text": "Right?"
+    },
+    {
+      "start": 453.325,
+      "end": 458.49002,
+      "text": "Now if you do this, So when a stock shows up in the morning, right?"
+    },
+    {
+      "start": 458.49002,
+      "end": 464.99002,
+      "text": "And you use this particular indicator to sort it by what is going to happen?"
+    },
+    {
+      "start": 466.01,
+      "end": 481.705,
+      "text": "The stock which has a very high, volume at that particular like in a fifteen minutes because, six and a half minutes, six and a half hours, 13 will be half an hour and 26 will be fifteen minutes."
+    },
+    {
+      "start": 482.22,
+      "end": 482.46002,
+      "text": "Right?"
+    },
+    {
+      "start": 482.46002,
+      "end": 496.405,
+      "text": "So it will say that at in the morning when you use this and if this ratio is higher than one, then what it means is that for that particular fifteen minutes, the volume is higher than, the fifteen minutes volume."
+    },
+    {
+      "start": 496.465,
+      "end": 497.825,
+      "text": "Average fifteen minutes volume."
+    },
+    {
+      "start": 497.825,
+      "end": 498.14502,
+      "text": "Right?"
+    },
+    {
+      "start": 498.14502,
+      "end": 505.20502,
+      "text": "And then let's make it like a sound very fancy, because that's what, like, an attracts people."
+    },
+    {
+      "start": 505.505,
+      "end": 510.13,
+      "text": "So STKB, we are right."
+    },
+    {
+      "start": 511.63,
+      "end": 512.69,
+      "text": "Let me see."
+    },
+    {
+      "start": 516.59,
+      "end": 518.35004,
+      "text": "That's not going to help you much."
+    },
+    {
+      "start": 518.35004,
+      "end": 518.59,
+      "text": "Right?"
+    },
+    {
+      "start": 518.59,
+      "end": 526.445,
+      "text": "And basically that s t k b we are just like to show you can look at a that Dan's anger ratio is not the secret to what he does."
+    },
+    {
+      "start": 526.445,
+      "end": 526.60504,
+      "text": "Right?"
+    },
+    {
+      "start": 526.60504,
+      "end": 539.89,
+      "text": "And basically, so you have this list of stocks and in the morning you're running this list sorted by STKV VR and whichever stock has the highest STKB VR in the first fifteen minutes or twenty minutes is the one."
+    },
+    {
+      "start": 540.02997,
+      "end": 542.52997,
+      "text": "And the price is also going up is what you buy."
+    },
+    {
+      "start": 543.07,
+      "end": 543.57,
+      "text": "Right?"
+    },
+    {
+      "start": 544.67,
+      "end": 546.875,
+      "text": "So that's the way you can operate."
+    },
+    {
+      "start": 546.875,
+      "end": 547.03503,
+      "text": "Right?"
+    },
+    {
+      "start": 547.03503,
+      "end": 549.755,
+      "text": "And, basically, so you have, like, in a very simple process."
+    },
+    {
+      "start": 549.755,
+      "end": 549.995,
+      "text": "Right?"
+    },
+    {
+      "start": 549.995,
+      "end": 552.815,
+      "text": "And so, so people do operate like this."
+    },
+    {
+      "start": 553.11505,
+      "end": 554.815,
+      "text": "They operate with a watch list."
+    },
+    {
+      "start": 554.955,
+      "end": 564.79004,
+      "text": "Similarly, now if you want to do continuation breakout, Right?"
+    },
+    {
+      "start": 564.79004,
+      "end": 566.55,
+      "text": "We want to do continuation breakout."
+    },
+    {
+      "start": 566.55,
+      "end": 567.05,
+      "text": "Right?"
+    },
+    {
+      "start": 567.11005,
+      "end": 569.93,
+      "text": "So again, same way."
+    },
+    {
+      "start": 570.15,
+      "end": 572.57,
+      "text": "And these are processes which are used by people."
+    },
+    {
+      "start": 572.90497,
+      "end": 574.745,
+      "text": "Obviously, I'm not going to look at this."
+    },
+    {
+      "start": 574.985,
+      "end": 578.605,
+      "text": "So I'm just going to clear this and let's not like any worry about this."
+    },
+    {
+      "start": 579.145,
+      "end": 580.345,
+      "text": "Let's keep it there anyway."
+    },
+    {
+      "start": 580.345,
+      "end": 584.845,
+      "text": "Like, and so that, like, in a we can make people on Twitter go mad."
+    },
+    {
+      "start": 584.90497,
+      "end": 595.94,
+      "text": "And but in order to make people on Twitter go mad, you just should add some other constant to this."
+    },
+    {
+      "start": 595.94,
+      "end": 596.26,
+      "text": "Right?"
+    },
+    {
+      "start": 596.26,
+      "end": 600.0,
+      "text": "And so you should like an add like an some constant to it."
+    }
+  ],
+  "language": "en",
+  "backend": "deepgram"
+}
