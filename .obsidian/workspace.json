@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pradeep Bonde/How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md",
+                "file": "Pradeep Bonde/How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to Trade Breakouts Guide-Part 1"
+              "title": "How to Trade Breakouts Guide-Part 3"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pradeep Bonde/How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md",
+                "file": "Pradeep Bonde/How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for How to Trade Breakouts Guide-Part 1"
+              "title": "Backlinks for How to Trade Breakouts Guide-Part 3"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pradeep Bonde/How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md",
+                "file": "Pradeep Bonde/How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from How to Trade Breakouts Guide-Part 1"
+              "title": "Outgoing links from How to Trade Breakouts Guide-Part 3"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pradeep Bonde/How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md",
+                "file": "Pradeep Bonde/How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of How to Trade Breakouts Guide-Part 1"
+              "title": "Outline of How to Trade Breakouts Guide-Part 3"
             }
           }
         ]
@@ -185,6 +185,9 @@
   },
   "active": "79a790377f3585d3",
   "lastOpenFiles": [
+    "Pradeep Bonde/How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 4.md",
+    "transcripts/Pradeep Bonde - How to Trade Breakouts Guide-Part 4_deepgram.md",
+    "Pradeep Bonde/How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md",
     "Pradeep Bonde/How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 3.md",
     "transcripts/Pradeep Bonde - How to Trade Breakouts Guide-Part 3_deepgram.md",
     "Pradeep Bonde/How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 2.md",
@@ -194,7 +197,6 @@
     "transcripts/chunk_0008.json",
     "Pradeep Bonde/Guide/How to Get Started In Trading Guide-Part 8.md",
     "Pradeep Bonde/Guide/How to Get Started In Trading Guide-Part 6.md",
-    "Pradeep Bonde/How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md",
     "Pradeep Bonde/How to Trade Breakouts Guide",
     "transcripts/Pradeep Bonde - How to Trade Breakouts Guide-Part 1_deepgram.md",
     "transcripts/Pradeep Bonde - How to Get Started In Trading Guide-Part 8_deepgram.md",
@@ -215,11 +217,9 @@
     "Pradeep Bonde/Guide/How to Get Started In Trading Guide-Part 2.md",
     "transcripts/How to Get Started In Trading Guide-Part 2_deepgram.md",
     "Fabio Valentina/Chart Fanatics - Trading LIVE with the #1 Scalper in the WORLD (EXTREME Accuracy)_subs.md",
-    "transcripts/How to Get Started In Trading Guide-Part 1_deepgram.md",
     "transcripts/chunk_0006.json",
     "transcripts/chunk_0005.json",
     "transcripts/chunk_0004.json",
-    "transcripts/chunk_0003.json",
-    "Pradeep Bonde/Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs.md"
+    "transcripts/chunk_0003.json"
   ]
 }

@@ -1,664 +1,454 @@
 {
   "segments": [
     {
-      "start": 18.255001,
-      "end": 21.855,
-      "text": "So this is what, like, in a he tweeted."
+      "start": 2.72,
+      "end": 11.86,
+      "text": "Obviously, writing that kind of a scan will be like in a very difficult in TC 2000 because every stock has a different lifespan, but max volume."
     },
     {
-      "start": 21.855,
-      "end": 22.175,
+      "start": 19.565,
+      "end": 20.625,
+      "text": "All time high."
+    },
+    {
+      "start": 21.485,
+      "end": 21.985,
       "text": "Right?"
     },
     {
-      "start": 22.175,
-      "end": 23.475,
-      "text": "This is what he looks for."
+      "start": 22.605,
+      "end": 30.32,
+      "text": "So stocks, which has today a breakout, right?"
     },
     {
-      "start": 24.015,
-      "end": 24.335,
+      "start": 30.62,
+      "end": 31.82,
+      "text": "Or a bearish combo."
+    },
+    {
+      "start": 31.82,
+      "end": 40.715,
+      "text": "Let's look at like you have nine fifty five and which has the volume, which is the highest volume in last one year."
+    },
+    {
+      "start": 40.715,
+      "end": 61.74,
+      "text": "If you want to find out, then you can, like, add a column and look at, like, in a, insert value and write a formula saying v divided by max v two fifty two point one."
+    },
+    {
+      "start": 62.68,
+      "end": 63.18,
       "text": "Right?"
     },
     {
-      "start": 24.335,
-      "end": 26.85,
-      "text": "So September eighty one to June ninety two."
+      "start": 63.480003,
+      "end": 77.825,
+      "text": "So if we create a sort column like this, what you will see is that this particular stock, right, has the highest volume in two fifty two days, right?"
     },
     {
-      "start": 27.33,
-      "end": 30.23,
-      "text": "This is like in a multi week range."
+      "start": 77.825,
+      "end": 87.799995,
+      "text": "And anything which has a high value of a one is basically having the highest volume into fifty two days or highest volume in last one year, right?"
     },
     {
-      "start": 30.61,
-      "end": 31.11,
+      "start": 87.939995,
+      "end": 95.235,
+      "text": "Anything which has a value value value about like an a one means that today's volume is the highest volume."
+    },
+    {
+      "start": 95.235,
+      "end": 99.174995,
+      "text": "Now is there information in volume?"
+    },
+    {
+      "start": 101.475,
+      "end": 101.975,
+      "text": "Right."
+    },
+    {
+      "start": 102.59499,
+      "end": 108.8,
+      "text": "So this tells you that these four stocks had the highest volume today."
+    },
+    {
+      "start": 110.14,
+      "end": 112.08,
+      "text": "In the entire year, right?"
+    },
+    {
+      "start": 112.22,
+      "end": 115.28,
+      "text": "So that means there is something some reason something."
+    },
+    {
+      "start": 115.66,
+      "end": 117.04,
+      "text": "Why did like an hour?"
+    },
+    {
+      "start": 117.26,
+      "end": 118.94,
+      "text": "Why did it have the highest volume?"
+    },
+    {
+      "start": 118.94,
+      "end": 119.18,
       "text": "Right?"
     },
     {
-      "start": 31.57,
-      "end": 36.05,
-      "text": "And from there, there was a breakout."
+      "start": 119.18,
+      "end": 124.994995,
+      "text": "And it means like on the sales side, it has the highest volume in his entire life."
     },
     {
-      "start": 36.05,
-      "end": 36.29,
+      "start": 124.994995,
+      "end": 125.494995,
       "text": "Right?"
     },
     {
-      "start": 36.29,
-      "end": 41.75,
-      "text": "And basically, so again, the people are these people are buying consolidation breakout."
+      "start": 126.115,
+      "end": 131.795,
+      "text": "And that volume was like in a 37% above the volume, which was there before that."
     },
     {
-      "start": 41.81,
-      "end": 42.21,
+      "start": 131.795,
+      "end": 135.155,
+      "text": "Basically, the max volume, it is 37% above that, right?"
+    },
+    {
+      "start": 135.155,
+      "end": 138.15,
+      "text": "Or 18% above this particular stock, right?"
+    },
+    {
+      "start": 138.39,
+      "end": 142.89,
+      "text": "So similarly, you can look at the same information on a bullish side."
+    },
+    {
+      "start": 143.34999,
+      "end": 153.29,
+      "text": "So like here, Cardlytics has 15 times or 14 times its highest rated volume in last one year."
+    },
+    {
+      "start": 154.215,
+      "end": 154.715,
       "text": "Right?"
     },
     {
-      "start": 42.21,
-      "end": 50.695,
-      "text": "It's all consolidation breakout like and that's why if you're buying consolidation breakout, can you hold it for three to six weeks or things like that?"
+      "start": 155.415,
+      "end": 170.12,
+      "text": "So as a result of doing this kind of thing, what is the advantage of like in a using this kind of an approach using a volume, volume differentiated or volume as a filter to reduce your number of breakouts."
     },
     {
-      "start": 50.695,
-      "end": 51.015,
-      "text": "Yes."
+      "start": 170.12,
+      "end": 175.42,
+      "text": "So if you use a volume filter like this V max, V is two point fifty two point one, right?"
     },
     {
-      "start": 51.015,
-      "end": 62.79,
-      "text": "But there is something which you have to understand, which is very critical if you want to do consolidation breakout is that if you see there is some logic to what this guy is doing."
+      "start": 176.12,
+      "end": 177.18,
+      "text": "Or like a red."
     },
     {
-      "start": 63.170002,
-      "end": 63.41,
+      "start": 178.28,
+      "end": 185.83499,
+      "text": "What you're going to get if you put a condition like this in your scan, let's say, like, in your convolution combo scan, we put a condition."
+    },
+    {
+      "start": 197.75,
+      "end": 199.12999,
+      "text": "So what is going to happen?"
+    },
+    {
+      "start": 205.765,
+      "end": 207.22499,
+      "text": "You're going to get a candidate."
+    },
+    {
+      "start": 208.325,
+      "end": 209.465,
+      "text": "Only one candidate."
+    },
+    {
+      "start": 209.765,
+      "end": 210.265,
       "text": "Right?"
     },
     {
-      "start": 63.41,
-      "end": 67.270004,
-      "text": "His lowest price trade is $21."
+      "start": 210.64499,
+      "end": 239.925,
+      "text": "Similarly, if you use the same thing in this particular thing, Now are we in business?"
     },
     {
-      "start": 67.97,
-      "end": 74.795,
-      "text": "And most of his trades here in this entire year, he had one trade, which was a big winner, which was $21."
+      "start": 242.15999,
+      "end": 246.81999,
+      "text": "If you're a working person or you're one of those person who doesn't want to look at all the breakouts."
     },
     {
-      "start": 75.255,
-      "end": 75.575,
+      "start": 248.64,
+      "end": 262.035,
+      "text": "These are the breakouts which you want to pay special attention to where these are the breakouts you want to know what is the reason or these are the breakouts which are worth looking at because they are volume which is highest volume in a year."
+    },
+    {
+      "start": 262.815,
+      "end": 263.315,
       "text": "Right?"
-    },
-    {
-      "start": 75.575,
-      "end": 83.495,
-      "text": "If he's holding for these kind of weeks, right, and which is what you want to do, you want to hold it for a longer term."
-    },
-    {
-      "start": 83.495,
-      "end": 85.815,
-      "text": "And this, I would not define this as a longer term."
-    },
-    {
-      "start": 85.815,
-      "end": 86.25,
-      "text": "Right?"
-    },
-    {
-      "start": 86.41,
-      "end": 87.85,
-      "text": "These are just most of these."
-    },
-    {
-      "start": 87.85,
-      "end": 93.53,
-      "text": "If you average it out, they are between they are around, like, in a four weeks."
-    },
-    {
-      "start": 93.53,
-      "end": 93.77,
-      "text": "Right?"
-    },
-    {
-      "start": 93.77,
-      "end": 95.95,
-      "text": "And that's around four weeks or six weeks."
-    },
-    {
-      "start": 96.33,
-      "end": 96.83,
-      "text": "Right?"
-    },
-    {
-      "start": 96.89,
-      "end": 103.885,
-      "text": "So if you see that, what you are going to see is that because he's selecting high priced stocks."
-    },
-    {
-      "start": 104.665,
-      "end": 105.165,
-      "text": "Right?"
-    },
-    {
-      "start": 105.305,
-      "end": 111.325,
-      "text": "Because he's selecting high priced stocks, he can hold this for that time period."
-    },
-    {
-      "start": 112.18,
-      "end": 119.799995,
-      "text": "If he was trading $5 or $6 and $10 stock, do you think he will be able to hold it for this kind of a duration?"
-    },
-    {
-      "start": 124.595,
-      "end": 125.095,
-      "text": "Right?"
-    },
-    {
-      "start": 125.634995,
-      "end": 127.634995,
-      "text": "So think about this."
-    },
-    {
-      "start": 127.634995,
-      "end": 132.855,
-      "text": "There is inherently, he's selecting when he's doing this consolidation breakout."
-    },
-    {
-      "start": 133.47499,
-      "end": 146.33,
-      "text": "Now what he's doing is he's selecting these which have So when people come to me and say, look at it."
-    },
-    {
-      "start": 146.33,
-      "end": 147.37001,
-      "text": "Oh, I got job."
-    },
-    {
-      "start": 147.37001,
-      "end": 148.17001,
-      "text": "I got this."
-    },
-    {
-      "start": 148.17001,
-      "end": 148.89,
-      "text": "I got boss."
-    },
-    {
-      "start": 148.89,
-      "end": 153.47,
-      "text": "I got like any of this and I can't do and I want to hold for longer term, right?"
-    },
-    {
-      "start": 153.575,
-      "end": 157.595,
-      "text": "You have to inherently select something which has lower volatility."
-    },
-    {
-      "start": 158.855,
-      "end": 159.515,
-      "text": "All right."
-    },
-    {
-      "start": 160.055,
-      "end": 164.775,
-      "text": "And this is the crux of like these kind of nuances, right?"
-    },
-    {
-      "start": 164.775,
-      "end": 176.5,
-      "text": "And these kind of nuances, if you get it, then you are going to be, then you are going to be like basically making the thing, right?"
-    },
-    {
-      "start": 176.5,
-      "end": 184.32501,
-      "text": "And basically, and if you see when he recommends stocks, right?"
-    },
-    {
-      "start": 184.32501,
-      "end": 190.565,
-      "text": "And when he recommends stocks, he's not going to be he doesn't recommend most of the time."
-    },
-    {
-      "start": 190.565,
-      "end": 192.565,
-      "text": "He doesn't recommend $10 stock, right?"
-    },
-    {
-      "start": 192.565,
-      "end": 196.56,
-      "text": "And I those of you, some of you are like any members of his site."
-    },
-    {
-      "start": 196.78,
-      "end": 202.23999,
-      "text": "And if you see, does he recommend a lot of $10 and $20 stocks or most of the time?"
-    },
-    {
-      "start": 202.93999,
-      "end": 207.76,
-      "text": "What are the things which is, what does he recommend?"
-    },
-    {
-      "start": 211.385,
-      "end": 215.065,
-      "text": "It's between 25 to whatever, like in a 25 plus."
-    },
-    {
-      "start": 215.065,
-      "end": 215.565,
-      "text": "Right?"
-    },
-    {
-      "start": 215.625,
-      "end": 218.825,
-      "text": "He's not looking at 100 is not the cap on his price point."
-    },
-    {
-      "start": 218.825,
-      "end": 219.885,
-      "text": "Definitely not."
-    },
-    {
-      "start": 219.94499,
-      "end": 226.55,
-      "text": "He recommends anything which is like an a he was going to recommend higher price stocks mostly during 2020."
-    },
-    {
-      "start": 226.77,
-      "end": 230.47,
-      "text": "It was almost like in a 300 plus hours where he made the profit."
-    },
-    {
-      "start": 231.89,
-      "end": 237.265,
-      "text": "So the point is, if you want to find consolidation, he looks at lower volatility."
-    },
-    {
-      "start": 237.485,
-      "end": 237.985,
-      "text": "Right?"
-    },
-    {
-      "start": 238.445,
-      "end": 239.66501,
-      "text": "That's very important."
-    },
-    {
-      "start": 240.04501,
-      "end": 240.68501,
-      "text": "Higher price."
-    },
-    {
-      "start": 240.68501,
-      "end": 241.005,
-      "text": "Right?"
-    },
-    {
-      "start": 241.005,
-      "end": 244.46501,
-      "text": "And that's a very important consideration he looks at."
-    },
-    {
-      "start": 245.16501,
-      "end": 248.445,
-      "text": "Now he is not the only person who was doing this this way."
-    },
-    {
-      "start": 248.445,
-      "end": 248.945,
-      "text": "Right?"
-    },
-    {
-      "start": 249.44,
-      "end": 254.31999,
-      "text": "In addition to that, if you see, he doesn't really select any random stock."
-    },
-    {
-      "start": 254.31999,
-      "end": 254.64,
-      "text": "Right?"
-    },
-    {
-      "start": 254.64,
-      "end": 260.1,
-      "text": "Most of the stocks which he selects also have some earnings or sales."
     },
     {
       "start": 263.45502,
-      "end": 267.875,
-      "text": "So it's not like any just purely taking trade based on momentum."
+      "end": 274.23,
+      "text": "So you can do what you can do in volume terms is you can have a volume conditions which is like an let's do a new page so that it's easy, right?"
     },
     {
-      "start": 268.015,
-      "end": 268.515,
+      "start": 274.23,
+      "end": 289.865,
+      "text": "And basically so you can have volume breakouts And these are filters which you can add to the, thing."
+    },
+    {
+      "start": 295.62003,
+      "end": 297.14,
+      "text": "How does one get rid of this?"
+    },
+    {
+      "start": 297.14,
+      "end": 298.90002,
+      "text": "I won't be able to get rid of this."
+    },
+    {
+      "start": 298.90002,
+      "end": 302.26,
+      "text": "So the best one is to create a new page."
+    },
+    {
+      "start": 302.26,
+      "end": 302.58002,
       "text": "Right?"
     },
     {
-      "start": 268.89502,
-      "end": 272.495,
-      "text": "He yeah."
+      "start": 302.58002,
+      "end": 304.28,
+      "text": "So let's look at volume records."
     },
     {
-      "start": 272.495,
-      "end": 275.075,
-      "text": "His newsletter nowadays, he doesn't do it nowadays."
+      "start": 309.235,
+      "end": 344.655,
+      "text": "So volume records can be Multiples of fifty day moving average volume or highest volume in one year or six months or a quarter."
     },
     {
-      "start": 275.43,
-      "end": 279.91,
-      "text": "He doesn't do it like and that's not like so he he does look at earnings and sales."
+      "start": 345.65,
+      "end": 362.445,
+      "text": "So in that case, if you want to make this particular thing as instead of one year, you want to make it for like in a half a year, you just have to change this value to one twenty six point one."
     },
     {
-      "start": 279.91,
-      "end": 280.22998,
+      "start": 362.445,
+      "end": 362.945,
       "text": "Right?"
     },
     {
-      "start": 280.22998,
-      "end": 283.13,
-      "text": "And he looks at the top, sectors."
+      "start": 363.08502,
+      "end": 374.22,
+      "text": "The moment you do it from five stocks, you are getting now around nine stocks."
     },
     {
-      "start": 283.43,
-      "end": 285.03,
-      "text": "He looks at top 30 secondtors."
+      "start": 374.22,
+      "end": 377.04,
+      "text": "So there are many breakouts today, right?"
     },
     {
-      "start": 285.03,
-      "end": 286.25,
-      "text": "All those things are there."
+      "start": 377.41998,
+      "end": 384.535,
+      "text": "There are many breakouts today, but these are the breakouts which have significant volume, right?"
     },
     {
-      "start": 286.38998,
-      "end": 293.805,
-      "text": "The point is, once you understand this framework, you can really understand somebody's why they can hold it."
+      "start": 384.535,
+      "end": 390.715,
+      "text": "And basically, similarly, if you look at basically the bullish combo side, right?"
     },
     {
-      "start": 293.805,
-      "end": 302.925,
-      "text": "Because the question is, like I got an email on my last two presentation, but here, Dan's anger holds it for months."
+      "start": 391.17502,
+      "end": 393.595,
+      "text": "You can make this into one hundred and twenty six days."
     },
     {
-      "start": 302.925,
-      "end": 303.425,
-      "text": "Okay."
+      "start": 393.655,
+      "end": 397.755,
+      "text": "And if you do that one hundred and twenty six days, you will get, this thing, right?"
     },
     {
-      "start": 303.885,
-      "end": 311.63998,
-      "text": "First, anybody who thinks Dan Zanger holds it for months, is sadly mistaken."
+      "start": 401.97,
+      "end": 403.89,
+      "text": "So you get two two breakouts, right?"
     },
     {
-      "start": 313.06,
-      "end": 313.56,
-      "text": "Okay."
+      "start": 403.89,
+      "end": 406.29,
+      "text": "And then you get two breakouts right now."
     },
     {
-      "start": 315.06,
-      "end": 316.12,
-      "text": "That's not true."
+      "start": 406.29,
+      "end": 408.71,
+      "text": "This particular kind of a volume breakout."
     },
     {
-      "start": 316.81998,
-      "end": 317.96,
-      "text": "That is not true."
+      "start": 409.89,
+      "end": 416.125,
+      "text": "So highest volume in one year are the next kind of a thing is highest volume."
     },
     {
-      "start": 318.41998,
-      "end": 326.815,
-      "text": "Because, most of these trades are not they are like in a at best one month to very few times."
+      "start": 419.225,
+      "end": 421.965,
+      "text": "Our all time volume right and our all time volume."
     },
     {
-      "start": 326.815,
-      "end": 328.355,
-      "text": "It is more than a month, right?"
+      "start": 430.12,
+      "end": 433.24,
+      "text": "So in this case, you're looking for the highest volume ever traded."
     },
     {
-      "start": 328.655,
-      "end": 337.52002,
-      "text": "And even if you see his recent year like this year's things which he talks about and things like that mainly and all he already took profit on those trade."
+      "start": 433.24,
+      "end": 438.22,
+      "text": "Like I think in a cardlytics today has the highest volume ever traded on that stock, right?"
     },
     {
-      "start": 337.52002,
-      "end": 338.02002,
+      "start": 438.585,
+      "end": 441.865,
+      "text": "This is all time volume traded on this particular stock."
+    },
+    {
+      "start": 441.865,
+      "end": 447.885,
+      "text": "It traded today, 71,000,000 shares and its float is 25,000,000."
+    },
+    {
+      "start": 448.185,
+      "end": 453.485,
+      "text": "So the whole float was turned around three times during the day or two and a half times during the day."
+    },
+    {
+      "start": 453.705,
+      "end": 454.205,
       "text": "Right?"
     },
     {
-      "start": 338.32,
-      "end": 342.98,
-      "text": "So you have to understand, can you look at what people think about somebody's method?"
+      "start": 454.48,
+      "end": 464.1,
+      "text": "Now, this is what it does, what the volume filter like this allows you to do is that allows you to reduce significantly."
     },
     {
-      "start": 343.28,
-      "end": 343.6,
+      "start": 470.975,
+      "end": 476.35498,
+      "text": "Number of breakouts in your scale."
+    },
+    {
+      "start": 479.71,
+      "end": 480.21,
       "text": "Right?"
     },
     {
-      "start": 343.6,
-      "end": 347.6,
-      "text": "What people think about somebody's method and what they do is thing."
+      "start": 482.19,
+      "end": 485.25,
+      "text": "Now these are all things which you can use."
     },
     {
-      "start": 347.6,
-      "end": 351.105,
-      "text": "But because he is buying from a consolidation, right?"
+      "start": 485.55002,
+      "end": 490.75,
+      "text": "And the fourth one, which is always like an there is always a stock b twist."
     },
     {
-      "start": 351.185,
-      "end": 352.725,
-      "text": "Because he's buying a consolidation."
-    },
-    {
-      "start": 353.105,
-      "end": 362.08502,
-      "text": "If you want to hold something for three to four weeks, I would say his average holding period is between four to six weeks, right, and a three to six weeks."
-    },
-    {
-      "start": 362.945,
-      "end": 364.165,
-      "text": "There is no way."
-    },
-    {
-      "start": 368.47,
-      "end": 370.25,
-      "text": "Unless you buy it from a consolidation."
-    },
-    {
-      "start": 370.87,
-      "end": 374.31,
-      "text": "Can a continuation setup, you hold it for three to six weeks?"
-    },
-    {
-      "start": 374.31,
-      "end": 375.45,
-      "text": "Is it going to work?"
-    },
-    {
-      "start": 380.16498,
-      "end": 380.66498,
+      "start": 490.75,
+      "end": 491.25,
       "text": "Right?"
     },
     {
-      "start": 382.32498,
-      "end": 388.32498,
-      "text": "So that kind of a thinking if you have like an a, you will understand a lot of things."
+      "start": 491.64502,
+      "end": 496.14502,
+      "text": "In everything, there is a stock B twist in the case of breakout 4% is a BIST."
     },
     {
-      "start": 388.32498,
-      "end": 388.485,
+      "start": 496.36502,
+      "end": 496.86502,
       "text": "Right?"
     },
     {
-      "start": 388.485,
-      "end": 396.53,
-      "text": "And basically, but let's not get into dance hangers things because that's not the point of doing this."
+      "start": 496.92502,
+      "end": 509.15997,
+      "text": "So when I did a lot of, research on stocks which make big moves, I found that they have an absolute volume breakout of 9,000,000 plus."
     },
     {
-      "start": 396.59,
-      "end": 401.56998,
-      "text": "The point of this part three is very clearly if there are three types of setups, right?"
+      "start": 510.02,
+      "end": 510.52,
+      "text": "Alright."
     },
     {
-      "start": 401.62997,
-      "end": 404.77,
-      "text": "There are three types of setups basically, right?"
+      "start": 511.22,
+      "end": 521.675,
+      "text": "So you can do volume breakouts by doing looking at multiples of fifty day moving average or Harlem highest volume in one year, six months, or quarter all time high volume."
     },
     {
-      "start": 406.38498,
-      "end": 406.705,
-      "text": "Yeah."
+      "start": 521.73505,
+      "end": 528.635,
+      "text": "And if you want to do it for quarter, all that you need to do here, you change this one twenty six days to sixty three days."
     },
     {
-      "start": 406.705,
-      "end": 414.16498,
-      "text": "I mean, that Zanger volume ratio and all."
+      "start": 529.41504,
+      "end": 532.23505,
+      "text": "Now, who should be looking at things like this?"
     },
     {
-      "start": 414.38498,
-      "end": 417.365,
-      "text": "I I don't think any that's what is the secret to is making money."
+      "start": 538.06995,
+      "end": 539.93,
+      "text": "Somebody who's full time job."
     },
     {
-      "start": 417.425,
-      "end": 422.03,
-      "text": "And it's those are all like any gimmicks."
-    },
-    {
-      "start": 422.56998,
-      "end": 435.22998,
-      "text": "And, those are not necessarily what, this thing, you can I mean, I studied his, I have not recently done a study on him, but I studied this in detail?"
-    },
-    {
-      "start": 435.485,
-      "end": 437.645,
-      "text": "It's not how like and he runs the process."
-    },
-    {
-      "start": 437.645,
-      "end": 437.965,
+      "start": 540.79,
+      "end": 541.11,
       "text": "Right?"
     },
     {
-      "start": 437.965,
-      "end": 440.305,
-      "text": "And that is not how he does it."
+      "start": 541.11,
+      "end": 541.93,
+      "text": "He's busy."
     },
     {
-      "start": 441.165,
-      "end": 448.065,
-      "text": "It's a lot of that is like an a his followers now and like in a pumping all those ideas."
+      "start": 542.38995,
+      "end": 544.41,
+      "text": "He wants to make money trading."
     },
     {
-      "start": 448.205,
-      "end": 448.705,
+      "start": 545.615,
+      "end": 552.735,
+      "text": "And the way to make money trading then is to focus on few things rather than focusing on thousand things, right?"
+    },
+    {
+      "start": 552.735,
+      "end": 553.635,
+      "text": "Working people."
+    },
+    {
+      "start": 554.09503,
+      "end": 557.315,
+      "text": "All these are methods, which I am sharing with you are this twist."
+    },
+    {
+      "start": 557.535,
+      "end": 587.72,
+      "text": "I'm sharing with you for somebody who is working or a trader who doesn't want to do the grind of swing trading or who doesn't want to do the daily grind of like in a this thing and look for like longer term Position hold or you want to hold position for longer term, then you want to be like an here in this case of Onon right now, this had highest volume probably in its entire lifetime."
+    },
+    {
+      "start": 588.25995,
+      "end": 592.19995,
+      "text": "So that means that there is a significant buying which came in here."
+    },
+    {
+      "start": 592.57996,
+      "end": 593.07996,
       "text": "Right?"
     },
     {
-      "start": 449.72998,
-      "end": 469.125,
-      "text": "So these three types of setups, if you are clear about, right, there are certain processes in swing trading which work and it is your ender."
-    },
-    {
-      "start": 469.665,
-      "end": 471.685,
-      "text": "It is in your interest, right?"
-    },
-    {
-      "start": 472.065,
-      "end": 478.77002,
-      "text": "It is in your interest to make those processes study those processes."
-    },
-    {
-      "start": 479.79,
-      "end": 494.72498,
-      "text": "And because these processes people have perfected our years, these are processes which are like basically stood that test of time and that gives you a template for doing this kind of trades."
-    },
-    {
-      "start": 494.72498,
-      "end": 494.965,
-      "text": "Right?"
-    },
-    {
-      "start": 494.965,
-      "end": 498.805,
-      "text": "So if you are looking for, say, the bottom bounds kind of a trade, right?"
-    },
-    {
-      "start": 498.805,
-      "end": 505.49002,
-      "text": "And which there are people who are like any heavily into doing, like an by personality type."
-    },
-    {
-      "start": 506.03,
-      "end": 509.87,
-      "text": "They are cut out for only doing bottom bounds kind of traits."
-    },
-    {
-      "start": 509.87,
-      "end": 510.03,
-      "text": "Right?"
-    },
-    {
-      "start": 510.03,
-      "end": 513.39,
-      "text": "And they are they are like in a they are like in a bottom features."
-    },
-    {
-      "start": 513.39,
-      "end": 513.89,
-      "text": "Right?"
-    },
-    {
-      "start": 513.95,
-      "end": 515.25,
-      "text": "There are bottom features."
-    },
-    {
-      "start": 516.245,
-      "end": 540.31,
-      "text": "So in process terms and this is important like an it to like an a to understand the process because that is really going to help you in replicating this idea rather than like an I basically, just knowing this idea, the real money in anything is if you can implement it."
-    },
-    {
-      "start": 540.31,
-      "end": 540.55005,
-      "text": "Right?"
-    },
-    {
-      "start": 540.55005,
-      "end": 547.105,
-      "text": "And I miss implementation is where you make a lot of people know a lot of things about, this thing, right?"
-    },
-    {
-      "start": 547.165,
-      "end": 551.425,
-      "text": "But it's the actual process and implementation which makes you money, right?"
-    },
-    {
-      "start": 551.645,
-      "end": 560.78,
-      "text": "So if this is the way this is and with the volume being very high here right now, the processes right now there are people."
-    },
-    {
-      "start": 562.68,
-      "end": 565.18,
-      "text": "In terms of if you want to do this bottom bounce."
-    },
-    {
-      "start": 568.2,
-      "end": 573.10004,
-      "text": "Bottom bounce is going to happen basically on a stock which is in a downtrend."
-    },
-    {
-      "start": 578.98505,
-      "end": 586.28503,
-      "text": "So if you want to focus on doing down, like in a bottom bounces, right?"
-    },
-    {
-      "start": 586.79,
-      "end": 598.00995,
-      "text": "So in that case, what you want to do is basically you want to go through all the stocks."
+      "start": 593.45996,
+      "end": 599.63995,
+      "text": "So it is very good method for people who want to hold position for a longer term."
     }
   ],
   "language": "en",
