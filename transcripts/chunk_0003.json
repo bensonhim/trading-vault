@@ -1,594 +1,684 @@
 {
   "segments": [
     {
-      "start": 0.16,
-      "end": 1.36,
-      "text": "Example is MongoDB."
+      "start": 0.39999998,
+      "end": 9.139999,
+      "text": "What I want to do shares and holding is like an f funds, number of funds max is 101."
     },
     {
-      "start": 1.36,
-      "end": 1.86,
+      "start": 9.76,
+      "end": 10.08,
       "text": "Right?"
     },
     {
-      "start": 1.92,
-      "end": 4.72,
-      "text": "MongoDB till 2023."
+      "start": 10.08,
+      "end": 14.799999,
+      "text": "So it is only going to look at things which are less than 100, this thing."
     },
     {
-      "start": 4.72,
-      "end": 6.48,
-      "text": "This is the first time it is making a profit."
-    },
-    {
-      "start": 6.48,
-      "end": 6.72,
+      "start": 14.799999,
+      "end": 15.255,
       "text": "Right?"
     },
     {
-      "start": 6.72,
-      "end": 8.559999,
-      "text": "And this is the first time it is making profit."
+      "start": 15.575,
+      "end": 19.835,
+      "text": "And then I, if you put that you're going to get a lot of funds, okay?"
     },
     {
-      "start": 8.559999,
-      "end": 11.92,
-      "text": "And, actually, when it started making profit, the price actually went down."
+      "start": 19.975,
+      "end": 26.375,
+      "text": "If you put this as a criteria, you're going to get a lot of stocks, you're going to get like an a 2,718 stocks, right?"
     },
     {
-      "start": 11.92,
-      "end": 12.345,
+      "start": 26.375,
+      "end": 30.42,
+      "text": "But, so I don't want to look at 2718 stocks, right?"
+    },
+    {
+      "start": 30.42,
+      "end": 30.92,
+      "text": "Basically."
+    },
+    {
+      "start": 31.380001,
+      "end": 46.995,
+      "text": "So what I am looking at is like I added to this our sales criteria, which is for like any what we use normally saying that the sales percent, the sales percentages last reported quarter should be greater than 39%."
+    },
+    {
+      "start": 47.215,
+      "end": 47.535,
       "text": "Right?"
     },
     {
-      "start": 12.425,
-      "end": 14.905001,
-      "text": "And without having a profit, there is no profit here."
+      "start": 47.535,
+      "end": 50.595,
+      "text": "Average sales should be greater than 39%."
     },
     {
-      "start": 14.905001,
-      "end": 15.145,
+      "start": 51.055,
+      "end": 51.555,
       "text": "Right?"
     },
     {
-      "start": 15.145,
-      "end": 17.225,
-      "text": "And you see, there are no figure enemies."
+      "start": 51.855,
+      "end": 59.6,
+      "text": "And then the annual sales, total annual sales reported is greater than 25,000,000."
     },
     {
-      "start": 17.225,
-      "end": 18.105,
-      "text": "It's not applicable."
+      "start": 60.46,
+      "end": 66.72,
+      "text": "So when you look at this, right, you get 206 stocks."
     },
     {
-      "start": 18.105,
-      "end": 27.98,
-      "text": "That means they are not profitable, but the stock made a move from 34 all the way to $500 Based on what Based on sales."
+      "start": 67.259995,
+      "end": 75.985,
+      "text": "But once you add a liquidity filter to this, once you add a liquidity filter of volume because you don't want to look at really thinly traded stock."
     },
     {
-      "start": 28.599998,
-      "end": 28.84,
+      "start": 75.985,
+      "end": 76.485,
       "text": "Right?"
     },
     {
-      "start": 28.84,
-      "end": 29.82,
-      "text": "Based on sales."
+      "start": 76.625,
+      "end": 83.205,
+      "text": "And you add a volume filter of a 100,000 plus shares traded."
     },
     {
-      "start": 30.039999,
-      "end": 43.995,
-      "text": "So if you understand this, then it offers you an opportunity to select stocks based on select stocks based on sales or revenue growth."
+      "start": 83.85,
+      "end": 84.35,
+      "text": "Right?"
     },
     {
-      "start": 51.75,
-      "end": 63.865,
-      "text": "So as a result of this, like an M, how I do it is like an I look for a stocks based on like an a research which I have done and deep dives which are done."
+      "start": 84.81,
+      "end": 86.83,
+      "text": "So what happens once you do that?"
     },
     {
-      "start": 63.865,
-      "end": 68.685,
-      "text": "I look for a stock which has a 39% plus revenue growth."
+      "start": 90.73,
+      "end": 93.47,
+      "text": "Is you get like an at least 113 stocks."
     },
     {
-      "start": 72.585,
-      "end": 73.965004,
-      "text": "Two quarters in a row."
-    },
-    {
-      "start": 83.159996,
-      "end": 83.64,
+      "start": 94.25,
+      "end": 94.73,
       "text": "Alright."
     },
     {
-      "start": 83.64,
-      "end": 90.395004,
-      "text": "So I'm looking for a stock which has, like, an two quarters of, sales growth in a row, basically."
+      "start": 94.73,
+      "end": 100.024994,
+      "text": "So this 113 stocks, which I had also added a price filter somewhere."
     },
     {
-      "start": 91.095,
-      "end": 93.915,
-      "text": "So where is that market Smith again?"
+      "start": 100.48499,
+      "end": 105.765,
+      "text": "So there is a price filter also here because there are like some really low price stocks in that list."
     },
     {
-      "start": 95.095,
-      "end": 98.875,
-      "text": "I think I know we should like an a tablet here only so that it doesn't keep disappearing."
+      "start": 105.765,
+      "end": 108.185,
+      "text": "So I added a price filter somewhere."
     },
     {
-      "start": 100.055,
-      "end": 105.509995,
-      "text": "So let's say like an a, let's say like an essay."
+      "start": 108.244995,
+      "end": 109.045,
+      "text": "There is a price."
     },
     {
-      "start": 105.729996,
-      "end": 106.229996,
+      "start": 109.045,
+      "end": 110.825,
+      "text": "You can add a price filter, right?"
+    },
+    {
+      "start": 112.020004,
+      "end": 112.520004,
+      "text": "Price."
+    },
+    {
+      "start": 112.58,
+      "end": 122.5,
+      "text": "I said like in a price should be minimum $3 So you get around 50 stocks, right?"
+    },
+    {
+      "start": 122.5,
+      "end": 127.385,
+      "text": "So you get 50, which is like less than a 100 funds are owning it."
+    },
+    {
+      "start": 127.385,
+      "end": 134.665,
+      "text": "So, this bucket zero zero, which I created is like any closest to that."
+    },
+    {
+      "start": 134.665,
+      "end": 135.945,
+      "text": "This is the thing, right?"
+    },
+    {
+      "start": 135.945,
+      "end": 140.59999,
+      "text": "So now you have these stocks which are 2039% sales growth."
+    },
+    {
+      "start": 140.9,
+      "end": 147.14,
+      "text": "They are sales stars and they have less than 100 funds owning them."
+    },
+    {
+      "start": 147.14,
+      "end": 149.62,
+      "text": "And this is how I found TSCS today."
+    },
+    {
+      "start": 149.62,
+      "end": 160.69499,
+      "text": "And I did buy a position in TSCS because of that, Because if so much lesser number of funds buy, is it possible that it can make an explosive move because very few funds on it?"
+    },
+    {
+      "start": 166.29,
+      "end": 179.34999,
+      "text": "So so these are the buckets which are created, which are like in a basically based on ownership of the funds, which is like another, the last one is basically less than 100."
+    },
+    {
+      "start": 182.315,
+      "end": 184.63501,
+      "text": "So especially if you have smaller account, right?"
+    },
+    {
+      "start": 184.63501,
+      "end": 198.76999,
+      "text": "And then you want to find these more explosive moves, the, which are like an unlikely to make this really explosive moves because those explosive moves are always going to be on stocks which are very low fund ownership, right?"
+    },
+    {
+      "start": 198.76999,
+      "end": 200.31,
+      "text": "And they are neglected there."
+    },
+    {
+      "start": 200.37,
+      "end": 203.65,
+      "text": "And then once something comes in, then those stocks make a big move."
+    },
+    {
+      "start": 203.65,
+      "end": 207.985,
+      "text": "So if you look at like say, just recently, right?"
+    },
+    {
+      "start": 207.985,
+      "end": 223.62,
+      "text": "And if you look at something like AEHR right now, this is again like an a this was like an a my thing saying, look, how can I get maximum value out of MarketSmith because I'm anyway paying for MarketSmith?"
+    },
+    {
+      "start": 224.31999,
+      "end": 224.81999,
+      "text": "Right?"
+    },
+    {
+      "start": 225.35999,
+      "end": 227.21999,
+      "text": "So this is look at this."
+    },
+    {
+      "start": 228.31999,
+      "end": 228.64,
+      "text": "Right?"
+    },
+    {
+      "start": 228.64,
+      "end": 230.26,
+      "text": "55 funds owned it."
+    },
+    {
+      "start": 231.35999,
+      "end": 231.85999,
+      "text": "Right?"
+    },
+    {
+      "start": 231.92,
+      "end": 233.62,
+      "text": "55 of funds on this."
+    },
+    {
+      "start": 233.76,
+      "end": 241.125,
+      "text": "And then, like, in a basically, the moment catalyst came in, the fund jumped to 114."
+    },
+    {
+      "start": 241.185,
+      "end": 245.28499,
+      "text": "So as a result of that, what happened to the price?"
+    },
+    {
+      "start": 250.31999,
+      "end": 251.92,
+      "text": "It made a very explosive move, right?"
+    },
+    {
+      "start": 251.92,
+      "end": 253.78,
+      "text": "And it made a very explosive move."
+    },
+    {
+      "start": 254.15999,
+      "end": 273.275,
+      "text": "So that is how, my thinking has evolved on this as to how to use, this kind of a like otherwise MarketSmith is I was using only limited way, but then this gave me some ideas to think about."
+    },
+    {
+      "start": 273.735,
+      "end": 278.875,
+      "text": "And many of the things which I am working on are like an related to this basically."
+    },
+    {
+      "start": 281.23,
+      "end": 281.63,
+      "text": "Yeah."
+    },
+    {
+      "start": 281.63,
+      "end": 285.95,
+      "text": "It's here now like a robot here it would still be showing there."
+    },
+    {
+      "start": 285.95,
+      "end": 286.27002,
+      "text": "Right?"
+    },
+    {
+      "start": 286.27002,
+      "end": 289.79,
+      "text": "And then that time it will have less than 100 funds right now."
+    },
+    {
+      "start": 289.79,
+      "end": 291.73,
+      "text": "The 100 funds came in here."
+    },
+    {
+      "start": 292.03,
+      "end": 295.25,
+      "text": "The 100 plus funds came in here because there was a catalyst."
+    },
+    {
+      "start": 296.355,
+      "end": 299.95502,
+      "text": "It was less than 55 right in the one quarter like they came in."
+    },
+    {
+      "start": 299.95502,
+      "end": 301.17502,
+      "text": "So that was the idea."
+    },
+    {
+      "start": 301.715,
+      "end": 306.935,
+      "text": "Obviously, these are like an you can play around with those things, whatever way you want to."
+    },
+    {
+      "start": 307.315,
+      "end": 316.62003,
+      "text": "And, so these are the one, two, three, four, five ideas which I generated based on how many funds on stocks."
+    },
+    {
+      "start": 320.04,
+      "end": 323.64,
+      "text": "So that list, I can have like an okay."
+    },
+    {
+      "start": 323.64,
+      "end": 325.255,
+      "text": "So this bucket zero, right?"
+    },
+    {
+      "start": 325.255,
+      "end": 328.475,
+      "text": "And you want me to share that list with you?"
+    },
+    {
+      "start": 328.77502,
+      "end": 329.73502,
+      "text": "Share watch list."
+    },
+    {
+      "start": 329.73502,
+      "end": 329.975,
+      "text": "Right?"
+    },
+    {
+      "start": 329.975,
+      "end": 333.515,
+      "text": "And, copy to keyboard and."
+    },
+    {
+      "start": 337.61,
+      "end": 337.85,
       "text": "Okay."
     },
     {
-      "start": 106.369995,
-      "end": 113.17,
-      "text": "So let's say, let's look at say SWAV right or wing."
+      "start": 337.85,
+      "end": 338.73,
+      "text": "There you go."
     },
     {
-      "start": 113.17,
-      "end": 114.95,
-      "text": "Let's look at wing as an example."
-    },
-    {
-      "start": 115.25,
-      "end": 116.93,
-      "text": "Good example of this currently."
-    },
-    {
-      "start": 116.93,
-      "end": 117.17,
-      "text": "Right?"
-    },
-    {
-      "start": 117.17,
-      "end": 120.125,
-      "text": "And if you look at wing, right?"
-    },
-    {
-      "start": 120.34499,
-      "end": 127.225,
-      "text": "So Wing has had two quarters back to back up 41% plus sales growth."
-    },
-    {
-      "start": 127.225,
-      "end": 127.725,
-      "text": "Right?"
-    },
-    {
-      "start": 127.784996,
-      "end": 131.705,
-      "text": "Wing had two quarters back to back up 41% sales growth."
-    },
-    {
-      "start": 131.705,
-      "end": 136.09,
-      "text": "And as a result of that sales growth in the last two quarters, it has gone up."
-    },
-    {
-      "start": 136.09,
-      "end": 136.25,
-      "text": "Right?"
-    },
-    {
-      "start": 136.25,
-      "end": 138.11,
-      "text": "And it's gone up 131%."
-    },
-    {
-      "start": 138.56999,
-      "end": 167.95999,
-      "text": "Or, like, say, let's look at, say, something like, Which are stock you select right or basically, you will see that look in a sales growth is really what drives their longer term, price basically."
-    },
-    {
-      "start": 167.95999,
-      "end": 168.45999,
-      "text": "Right?"
-    },
-    {
-      "start": 168.76,
-      "end": 173.225,
-      "text": "So what I do is I scan for this is for like an event."
-    },
-    {
-      "start": 173.225,
-      "end": 182.025,
-      "text": "I want to hold something longer or in some of the accounts where I want to like an not do frequent trading and I want to like or working people kind of a thing."
-    },
-    {
-      "start": 182.025,
-      "end": 186.525,
-      "text": "So I look for two quarters in a row of 39% sales growth."
-    },
-    {
-      "start": 193.29,
-      "end": 195.06999,
-      "text": "So I have two buckets."
-    },
-    {
-      "start": 195.61,
-      "end": 198.41,
-      "text": "I have bucket zero in a bucket zero."
-    },
-    {
-      "start": 198.41,
-      "end": 202.21501,
-      "text": "I look for two queue up 39% sales growth."
-    },
-    {
-      "start": 210.195,
-      "end": 225.33,
-      "text": "And in addition, their capitalization is below 10,000,000,000 because my studies and my deep dive shows that the stock which made big moves, how capitalization below 10,000,000,000."
-    },
-    {
-      "start": 225.33,
-      "end": 225.83,
-      "text": "Right?"
-    },
-    {
-      "start": 225.97,
-      "end": 231.155,
-      "text": "And they are IPO'd within last ten years."
-    },
-    {
-      "start": 231.295,
-      "end": 235.155,
-      "text": "Younger companies make bigger moves."
-    },
-    {
-      "start": 236.575,
-      "end": 238.895,
-      "text": "So that is the idea."
-    },
-    {
-      "start": 238.895,
-      "end": 239.13501,
-      "text": "Right?"
-    },
-    {
-      "start": 239.13501,
-      "end": 243.65999,
-      "text": "And it does it make sense to look at stocks which are 39% sales?"
-    },
-    {
-      "start": 243.65999,
-      "end": 251.59999,
-      "text": "Like, say, again, like, going back to our examples of, like, say, MongoDB, MongoDB is less than ten year."
-    },
-    {
-      "start": 253.09999,
-      "end": 253.26,
-      "text": "Right?"
-    },
-    {
-      "start": 253.26,
-      "end": 258.445,
-      "text": "And I put in and it made like an 1800% move."
-    },
-    {
-      "start": 258.445,
-      "end": 259.48502,
-      "text": "So younger stock."
-    },
-    {
-      "start": 259.48502,
-      "end": 259.725,
-      "text": "Right?"
-    },
-    {
-      "start": 259.725,
-      "end": 265.245,
-      "text": "And most of the stocks which make this kind of moves are younger stocks which make these kind of moves basically."
-    },
-    {
-      "start": 265.245,
-      "end": 265.745,
-      "text": "Right?"
-    },
-    {
-      "start": 269.73,
-      "end": 275.49,
-      "text": "Enough is is like an IPO in last, like, ten years."
-    },
-    {
-      "start": 275.49,
-      "end": 275.81,
-      "text": "Right?"
-    },
-    {
-      "start": 275.81,
-      "end": 279.11,
-      "text": "And this is ten years or eleven years."
-    },
-    {
-      "start": 279.16998,
-      "end": 281.41,
-      "text": "Now where did the maximum growth happen?"
-    },
-    {
-      "start": 281.41,
-      "end": 284.05502,
-      "text": "The maximum growth happened within the first ten years."
-    },
-    {
-      "start": 284.05502,
-      "end": 292.295,
-      "text": "So most of the, stocks which you are looking for, you're going to find that their maximum growth happens in the first ten years of IPO."
-    },
-    {
-      "start": 292.295,
-      "end": 292.45502,
-      "text": "Right?"
-    },
-    {
-      "start": 292.45502,
-      "end": 293.495,
-      "text": "In the first ten years."
-    },
-    {
-      "start": 293.495,
-      "end": 293.73502,
-      "text": "Right?"
-    },
-    {
-      "start": 293.73502,
-      "end": 295.11502,
-      "text": "Under the first ten years."
-    },
-    {
-      "start": 295.495,
-      "end": 298.09,
-      "text": "Once they become older, it's difficult."
-    },
-    {
-      "start": 298.09,
-      "end": 301.71,
-      "text": "It's not impossible, but it is difficult for them to make big moves."
-    },
-    {
-      "start": 301.93,
-      "end": 310.11,
-      "text": "So my stock selection for this particular thing uses a combination of criteria saying that they should need to have sales growth."
-    },
-    {
-      "start": 310.60498,
-      "end": 314.04498,
-      "text": "In addition to sales growth, they need to have a capitalization below 10,000,000,000."
-    },
-    {
-      "start": 314.04498,
-      "end": 321.985,
-      "text": "That is very important because whenever, MongoDB made a big, big move or square made a big move, it had a very small capitalization."
-    },
-    {
-      "start": 322.365,
-      "end": 325.52002,
-      "text": "Now, MongoDB has 15,000,000,000 capitalization."
-    },
-    {
-      "start": 325.98,
-      "end": 336.875,
-      "text": "But if you look at MongoDB, right, when it made this big move, now after making so much 700% move, its capitalization is 15,000,000,000."
-    },
-    {
-      "start": 336.875,
-      "end": 339.535,
-      "text": "So at this stage, its capitalization was 2,000,000,000."
-    },
-    {
-      "start": 339.835,
-      "end": 340.07498,
-      "text": "Right?"
-    },
-    {
-      "start": 340.07498,
-      "end": 352.02002,
-      "text": "Because if you have 2,000,000,000 capitalization, a 2,000,000,000 capitalization company can grow to 20,000,000,000, 25,000,000,000, but it's very difficult or it's more difficult, not impossible."
-    },
-    {
-      "start": 352.40002,
-      "end": 359.06,
-      "text": "It's more difficult for a company which is starting out with more than 10,000,000,000 to grow very rapidly."
-    },
-    {
-      "start": 359.6,
-      "end": 363.45502,
-      "text": "So, but it can also happen but like an so this is my priority."
-    },
-    {
-      "start": 363.45502,
-      "end": 365.315,
-      "text": "This is what is bucket zero then."
-    },
-    {
-      "start": 366.415,
-      "end": 369.635,
-      "text": "It's all becoming very messy slide but this is bucket zero."
-    },
-    {
-      "start": 370.575,
-      "end": 385.09,
-      "text": "Now it's not only stocks which are this characteristic which can make big moves sometimes the stocks other stocks make or the other stocks may not make as big a move but having sales growth of 39% plus is a very desirable quality."
-    },
-    {
-      "start": 385.31,
-      "end": 396.66498,
-      "text": "So in this case, you're looking at bucket one and the bucket one what you're looking for is like my bucket one is basically same criteria, 39% sales growth."
-    },
-    {
-      "start": 401.28,
-      "end": 401.78,
+      "start": 338.73,
+      "end": 339.23,
       "text": "Right."
     },
     {
-      "start": 402.96,
-      "end": 406.02,
-      "text": "Then there is no limit on capital."
+      "start": 340.57,
+      "end": 347.77,
+      "text": "So again, the question which you should ask yourself like this is more applicable to smaller accounts, right?"
     },
     {
-      "start": 406.08,
-      "end": 421.295,
-      "text": "The cap is about 10,000,000,000 or there is no cap limit as such because the stocks can be more than like in a basically and are they are below they are above like the cap above for 10,000,000,000 actually."
+      "start": 347.77,
+      "end": 351.31,
+      "text": "This is up the alley for smaller account which want more explosive moves."
     },
     {
-      "start": 421.995,
-      "end": 426.895,
-      "text": "And they are IPO like in a their IPO is more than ten year."
+      "start": 351.645,
+      "end": 357.405,
+      "text": "They want stocks which are not really like a, largely owned by people and they are going to explode."
     },
     {
-      "start": 427.66,
-      "end": 431.66,
-      "text": "So it's basically all the companies which are other companies which are like so."
-    },
-    {
-      "start": 431.66,
-      "end": 435.68,
-      "text": "So if you see like an a when I go to bucket one, right?"
-    },
-    {
-      "start": 436.22,
-      "end": 443.205,
-      "text": "Bucket one is all the stocks which are more than ten years and they are that sales growth kind of a thing and their capitalization."
-    },
-    {
-      "start": 443.505,
-      "end": 448.245,
-      "text": "Maybe they can have a capitalization below 10,000,000 because we are looking at older stocks also."
-    },
-    {
-      "start": 448.305,
-      "end": 455.42,
-      "text": "So in this particular category then you have stocks which have like in a basically like say symbiotic now, right?"
-    },
-    {
-      "start": 455.42,
-      "end": 456.64,
-      "text": "And this is a stock."
-    },
-    {
-      "start": 456.7,
-      "end": 467.52002,
-      "text": "And if you look at that symbiotic, you'd have like an a it's a it's capitalization is 1,900,000,000, but you can have a very high capitalization stock here, right?"
-    },
-    {
-      "start": 467.90002,
-      "end": 470.855,
-      "text": "Like say you have a drafting."
-    },
-    {
-      "start": 470.855,
-      "end": 471.355,
+      "start": 357.405,
+      "end": 357.645,
       "text": "Right?"
     },
     {
-      "start": 471.815,
-      "end": 478.155,
-      "text": "Which capitalized in 16,000,000,000, but it has back to back sales growth of 39% plus."
+      "start": 357.645,
+      "end": 377.745,
+      "text": "And basically, so as a result of this, I saw like yesterday also I saw I didn't really get into it, but like I saw this stock breaking out and I saw some of the stocks like in a So, obviously the limitation for me is like in the smaller stocks."
     },
     {
-      "start": 482.07,
-      "end": 482.31,
-      "text": "Right."
+      "start": 378.625,
+      "end": 383.665,
+      "text": "I can't really go bigger into this, but like, I'm playing around with this."
     },
     {
-      "start": 482.31,
-      "end": 485.19,
-      "text": "136%, 81%, 57%."
+      "start": 383.665,
+      "end": 384.54498,
+      "text": "I'm playing around."
     },
     {
-      "start": 485.19,
-      "end": 486.88998,
-      "text": "So it's got growing very rapidly."
+      "start": 384.54498,
+      "end": 385.925,
+      "text": "This is an R and D."
     },
     {
-      "start": 486.94998,
-      "end": 490.97,
-      "text": "Obviously, it doesn't have profitability, but still the stock made a big move."
+      "start": 385.985,
+      "end": 388.405,
+      "text": "This is a stock we laboratory project."
     },
     {
-      "start": 491.03,
-      "end": 491.35,
-      "text": "Why?"
+      "start": 388.625,
+      "end": 396.14,
+      "text": "So I'm playing around and many times when you start playing around over a course of six, seven months, eight months, like, and then you discover something, right?"
     },
     {
-      "start": 491.35,
-      "end": 492.81,
-      "text": "Because it has sales growth."
+      "start": 396.14,
+      "end": 398.88,
+      "text": "And you discover even better ways to use this information."
     },
     {
-      "start": 492.94998,
-      "end": 507.835,
-      "text": "So my thing for selecting stocks for like a more explosive moves or what I called as FSS, which is finding sales stars is to focus on these stocks, which are the highest growth rate."
+      "start": 399.18,
+      "end": 407.755,
+      "text": "So I'm just throwing it open for you people for you to think, explore and think about some of these ideas."
     },
     {
-      "start": 507.835,
-      "end": 510.19,
-      "text": "They are real growth and they are real things."
+      "start": 408.21503,
+      "end": 409.815,
+      "text": "It might make sense to some of you."
     },
     {
-      "start": 510.19,
-      "end": 515.17,
-      "text": "So in this kind of a stock if you find a good setup can you take a bigger risk?"
+      "start": 409.815,
+      "end": 412.77502,
+      "text": "Some of you think might think that I have gone completely crazy."
     },
     {
-      "start": 515.71,
-      "end": 532.145,
-      "text": "Do you have more conviction on this stock versus like if I just see a stock which is showing up as just like in a normal two lynch pattern versus a stock which meets all these criteria, if it has 39% sales growth, it has, like, in a two quarters of sales growth cap below 20,000,000,000."
-    },
-    {
-      "start": 532.145,
-      "end": 534.325,
-      "text": "And in addition to this, there is one more criteria."
-    },
-    {
-      "start": 534.385,
-      "end": 534.54504,
+      "start": 412.77502,
+      "end": 413.015,
       "text": "Right?"
     },
     {
-      "start": 534.54504,
-      "end": 539.39,
-      "text": "And in addition to this, there is one more criteria and the sales should be 25,000,000 plus."
+      "start": 413.015,
+      "end": 417.33502,
+      "text": "Her name is I'm not only that I'm getting gray hairs, but I'm going crazy."
     },
     {
-      "start": 539.39,
-      "end": 539.89,
+      "start": 417.33502,
+      "end": 417.83502,
+      "text": "Crazy."
+    },
+    {
+      "start": 417.975,
+      "end": 418.475,
       "text": "Right?"
     },
     {
-      "start": 540.35,
-      "end": 547.87,
-      "text": "The annual sales should be more than 25,000,000 because you don't want to find a stock which has, like, 2,000,000 or 3,000,000 sales, and that is growing at 39%."
+      "start": 419.255,
+      "end": 422.22,
+      "text": "So I don't know."
     },
     {
-      "start": 547.87,
-      "end": 574.52,
-      "text": "So, it gives you a higher conviction to bet on some of these stocks when they show up in your scan or specifically looking at like in some of these stocks, to find those kind of moves where you can find good, to, breakout either, either as a just as a earnings breakout or as a continuation breakout."
+      "start": 422.44,
+      "end": 433.42,
+      "text": "I think the only other place I am not, like, I'm not an authority on all the software, but I think, the only place which I know of where this data might be available is Morningstar probably."
     },
     {
-      "start": 574.82,
-      "end": 576.74005,
-      "text": "And you can put in a bigger size."
+      "start": 434.36002,
+      "end": 439.19498,
+      "text": "But like an because I think the IVD itself gets this data from Morningstar."
     },
     {
-      "start": 577.06,
-      "end": 588.80505,
-      "text": "Essentially, that is the idea behind like doing these buckets and focusing on these buckets so that you can find stocks which have really good characteristic."
+      "start": 439.895,
+      "end": 440.395,
+      "text": "Right?"
     },
     {
-      "start": 589.42505,
-      "end": 592.3649,
-      "text": "And you know the reason why they're likely to make a big move."
+      "start": 441.01498,
+      "end": 444.395,
+      "text": "So, but this is the thing."
     },
     {
-      "start": 592.5249,
-      "end": 599.9049,
-      "text": "And in that case, if you get in right at the beginning of the move, especially if you get in, if there is a consolidation breakout or a bottom bounce."
+      "start": 444.53497,
+      "end": 454.13,
+      "text": "So in priority terms, every day, I look at this, 9,000,000 kind of, like the 5,000 funds ownership, right?"
+    },
+    {
+      "start": 454.13,
+      "end": 460.15,
+      "text": "And I look at this to see if there is a setup which is setting up right under this Microsoft looks good actually, like basically."
+    },
+    {
+      "start": 464.02502,
+      "end": 469.625,
+      "text": "So then I look for a setup in this and that's why I got into Amazon, but it didn't really make a big progress."
+    },
+    {
+      "start": 469.625,
+      "end": 469.86502,
+      "text": "Right?"
+    },
+    {
+      "start": 469.86502,
+      "end": 472.98502,
+      "text": "And it just petered out like it really never took off kind of a thing."
+    },
+    {
+      "start": 472.98502,
+      "end": 474.445,
+      "text": "Amazon has been really struggling."
+    },
+    {
+      "start": 474.98502,
+      "end": 476.685,
+      "text": "UnitedHealth, I missed UnitedHealth."
+    },
+    {
+      "start": 478.0,
+      "end": 480.31998,
+      "text": "I didn't really like any that day."
+    },
+    {
+      "start": 480.31998,
+      "end": 482.56,
+      "text": "There are many other good setup better than this."
+    },
+    {
+      "start": 482.56,
+      "end": 487.53998,
+      "text": "So I thought like, and I'll go into that, but that would have been the best decision taking into UnitedHealth."
+    },
+    {
+      "start": 488.31998,
+      "end": 493.21997,
+      "text": "So, and again, you can get amazingly low risk opportunities like this, right?"
+    },
+    {
+      "start": 493.435,
+      "end": 493.675,
+      "text": "Yeah."
+    },
+    {
+      "start": 493.675,
+      "end": 496.475,
+      "text": "It's only like an 44% or something."
+    },
+    {
+      "start": 496.475,
+      "end": 500.735,
+      "text": "But, if you can move larger size, it still makes sense."
+    },
+    {
+      "start": 506.49002,
+      "end": 508.03,
+      "text": "Oh, how much money?"
+    },
+    {
+      "start": 510.01,
+      "end": 510.89,
+      "text": "I am not sure."
+    },
+    {
+      "start": 510.89,
+      "end": 511.29,
+      "text": "Right?"
+    },
+    {
+      "start": 511.29,
+      "end": 515.69,
+      "text": "At home is I don't know, like, an who else has this?"
+    },
+    {
+      "start": 515.69,
+      "end": 517.21,
+      "text": "I don't have an idea."
+    },
+    {
+      "start": 517.21,
+      "end": 518.27,
+      "text": "I have no clue."
+    },
+    {
+      "start": 518.33,
+      "end": 527.175,
+      "text": "I just, was thinking, look, if I am paying this much amount of money, how can I extract the maximum?"
+    },
+    {
+      "start": 527.955,
+      "end": 538.93,
+      "text": "Yeah, this thing and also like in a lot of these ideas triggered in me also when like, you know, that, Martyr guy, he died."
+    },
+    {
+      "start": 538.93,
+      "end": 543.17004,
+      "text": "I was thinking about like, what was Martyr's main ideas, just thinking about it."
+    },
+    {
+      "start": 543.17004,
+      "end": 546.225,
+      "text": "And then I said, like, in his main idea was thousand plus stocks."
+    },
+    {
+      "start": 546.305,
+      "end": 547.58496,
+      "text": "And when it goes up, right?"
+    },
+    {
+      "start": 547.58496,
+      "end": 550.14496,
+      "text": "And basically, so I said, okay, fine."
+    },
+    {
+      "start": 550.14496,
+      "end": 551.26495,
+      "text": "Let's try and use that."
+    },
+    {
+      "start": 551.26495,
+      "end": 559.285,
+      "text": "And then after playing around, I added some more criteria, some more criteria as I got a very small list of stocks now."
+    },
+    {
+      "start": 559.425,
+      "end": 560.305,
+      "text": "29 stocks."
+    },
+    {
+      "start": 560.305,
+      "end": 562.005,
+      "text": "You can look at it every day, right?"
+    },
+    {
+      "start": 562.60004,
+      "end": 564.44,
+      "text": "This 28 or 29 stocks."
+    },
+    {
+      "start": 564.44,
+      "end": 565.98004,
+      "text": "And that's why I got in big."
+    },
+    {
+      "start": 566.28,
+      "end": 572.04004,
+      "text": "That's why I got in big on MongoDB because it looked to me as a good, nice consolidation record on that day."
+    },
+    {
+      "start": 572.04004,
+      "end": 574.84,
+      "text": "Obviously I got roll rated roll, roll it."
+    },
+    {
+      "start": 574.84,
+      "end": 579.615,
+      "text": "That is a different story, but, the original idea was the right idea, right?"
+    },
+    {
+      "start": 579.835,
+      "end": 581.21497,
+      "text": "The idea was the right idea."
+    },
+    {
+      "start": 581.675,
+      "end": 584.955,
+      "text": "Only thing is the execution didn't work out."
+    },
+    {
+      "start": 584.955,
+      "end": 588.095,
+      "text": "That's the shitty thing about markets, right?"
+    },
+    {
+      "start": 590.605,
+      "end": 592.125,
+      "text": "Any breakout, any breakout, right?"
+    },
+    {
+      "start": 592.125,
+      "end": 600.0,
+      "text": "And any breakout, any move I would I would also look at like an a this is the list on which I would like to do things like what Moniz does."
     }
   ],
   "language": "en",
