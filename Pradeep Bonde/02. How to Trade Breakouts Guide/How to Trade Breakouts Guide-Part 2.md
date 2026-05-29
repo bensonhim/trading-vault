@@ -50,6 +50,20 @@ Part 2 is the practical mechanics session. After Part 1 established the definiti
 
 ---
 
+## Series Overview
+
+| Part | Theme | Key Question Answered |
+|------|-------|----------------------|
+| **Part 1** | What Is a Breakout? | Definition, 3 types, resistance myth, volume myth, day-1 entry |
+| **Part 2** | Mechanics & Timing | When breakouts happen, exit strategy, why MA stops fail |
+| **Part 3** | Trading Process | How to build watchlists, Dan Zanger & Minervini reverse-engineered |
+| **Part 4** | Volume as Filter | Which breakouts have institutional backing? (elephants' footprints) |
+| **Part 5** | Vehicle Selection — Momentum | IBD 85-85-85 method, revenue momentum, Bucket Zero/One |
+| **Part 6** | Vehicle Selection — Fund Ownership | 5 buckets by fund count, stability vs explosiveness |
+| **Part 7** | Vehicle Selection — Youth | IPO age < 5 years, catching them young, sugar babies |
+
+---
+
 ### 1. Three Types Reviewed — Bottom Bounce, Continuation, Consolidation
 
 **Bottom bounce:**
@@ -389,4 +403,4 @@ Pradeep explains his evolution:
 
 ## Full Transcript
 
-See: [[../../transcripts/Pradeep Bonde - How to Trade Breakouts Guide-Part 2_deepgram.md|Transcript]]
+See: [[Pradeep Bonde - How to Trade Breakouts Guide-Part 2_deepgram|Transcript]]
