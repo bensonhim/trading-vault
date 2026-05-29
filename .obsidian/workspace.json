@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "transcripts/03. Bullish Momentum Burst/Pradeep Bonde - Bullish Momentum Burst Guide-Section 1_deepgram.md",
+                "file": "transcripts/04. TI65/Pradeep Bonde - TI65 Guide-How to profit from TI65_deepgram.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pradeep Bonde - Bullish Momentum Burst Guide-Section 1_deepgram"
+              "title": "Pradeep Bonde - TI65 Guide-How to profit from TI65_deepgram"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "transcripts/03. Bullish Momentum Burst/Pradeep Bonde - Bullish Momentum Burst Guide-Section 1_deepgram.md",
+                "file": "transcripts/04. TI65/Pradeep Bonde - TI65 Guide-How to profit from TI65_deepgram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pradeep Bonde - Bullish Momentum Burst Guide-Section 1_deepgram"
+              "title": "Backlinks for Pradeep Bonde - TI65 Guide-How to profit from TI65_deepgram"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "transcripts/03. Bullish Momentum Burst/Pradeep Bonde - Bullish Momentum Burst Guide-Section 1_deepgram.md",
+                "file": "transcripts/04. TI65/Pradeep Bonde - TI65 Guide-How to profit from TI65_deepgram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pradeep Bonde - Bullish Momentum Burst Guide-Section 1_deepgram"
+              "title": "Outgoing links from Pradeep Bonde - TI65 Guide-How to profit from TI65_deepgram"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "transcripts/03. Bullish Momentum Burst/Pradeep Bonde - Bullish Momentum Burst Guide-Section 1_deepgram.md",
+                "file": "transcripts/04. TI65/Pradeep Bonde - TI65 Guide-How to profit from TI65_deepgram.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pradeep Bonde - Bullish Momentum Burst Guide-Section 1_deepgram"
+              "title": "Outline of Pradeep Bonde - TI65 Guide-How to profit from TI65_deepgram"
             }
           }
         ]
@@ -185,6 +185,11 @@
   },
   "active": "02cf004e6676255b",
   "lastOpenFiles": [
+    "transcripts/04. TI65",
+    "transcripts/Pradeep Bonde - M20 Guide-Part 3_deepgram.md",
+    "transcripts/04. TI65/Pradeep Bonde - TI65 Guide-How to profit from TI65_deepgram.md",
+    "transcripts/04. TI65/Pradeep Bonde - TI65 Guide-Part 3_deepgram.md",
+    "transcripts/03. Bullish Momentum Burst/Pradeep Bonde - Bullish Momentum Burst Guide-Section 1_deepgram.md",
     "transcripts/03. Bullish Momentum Burst",
     "Pradeep Bonde/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md",
     "Pradeep Bonde/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 2.md",
@@ -201,7 +206,6 @@
     "transcripts/transcript.json",
     "transcripts/Pradeep Bonde - M20 Guide-Part 4_deepgram.md",
     "transcripts/Pradeep Bonde - M20 Guide-Part 5_deepgram.md",
-    "transcripts/Pradeep Bonde - M20 Guide-Part 3_deepgram.md",
     "transcripts/Pradeep Bonde - M20 Guide-Part 2_deepgram.md",
     "transcripts/Pradeep Bonde - M20 Guide-Part 1_deepgram.md",
     "Pradeep Bonde/06. DT Guide/DT Guide.md",
@@ -213,13 +217,9 @@
     "Pradeep Bonde/Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs.md",
     "Pradeep Bonde/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 1.md",
     "Pradeep Bonde/04. TI65 Guide",
-    "transcripts/Pradeep Bonde - TI65 Guide-How to profit from TI65_deepgram.md",
-    "transcripts/Pradeep Bonde - TI65 Guide-Part 6_deepgram.md",
-    "transcripts/Pradeep Bonde - TI65 Guide-Part 5_deepgram.md",
-    "transcripts/Pradeep Bonde - TI65 Guide-Part 4_deepgram.md",
+    "transcripts/04. TI65/Pradeep Bonde - TI65 Guide-Part 6_deepgram.md",
     "Pradeep Bonde/03. Bullish Momentum Burst Guide",
     "transcripts/chunk_0010.json",
-    "transcripts/chunk_0009.json",
-    "transcripts/chunk_0008.json"
+    "transcripts/chunk_0009.json"
   ]
 }

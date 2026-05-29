@@ -12,35 +12,57 @@ language: en
 backend: deepgram
 date: 2026-05-29
 tags:
-- momentum
-- trend-intensity
-- TI65
-- momentum-indicator
-- absolute-momentum
-- relative-momentum
-- anticipation
-- continuation-setup
-- pullback-trading
-- short-selling
-- scan-setup
-- TC2000
-- combo-list
-- young-momentum
-- days-in-ti65
-- experienced-traders
+  - momentum
+  - trend-intensity
+  - TI65
+  - momentum-indicator
+  - absolute-momentum
+  - relative-momentum
+  - anticipation
+  - continuation-setup
+  - pullback-trading
+  - short-selling
+  - scan-setup
+  - TC2000
+  - combo-list
+  - young-momentum
+  - days-in-ti65
+  - experienced-traders
+  - buyout-filter
+  - 7-day-momentum
+  - narrow-range-day
+  - net-change
 ---
 
 # TI65 Guide — Trend Intensity 65 Momentum Indicator
 
 > This guide covers both the **mechanics** of setting up the TI65 indicator (Parts 1–6) and the **advanced applications** for finding young momentum, continuation setups, pullback entries, and shorting opportunities ("How to Profit from TI65").
-> 
-> **Prerequisite:** Understanding of momentum burst concepts from the [[How to Get Started In Trading Guide|Getting Started Guide]] and [[How to Trade Breakouts Guide|Breakouts Guide]] is assumed.
+>
+> **Prerequisite:** Understanding of momentum burst concepts from the [[../../01. How to Get Started/How to Get Started In Trading Guide-Part 1|Getting Started Guide]] and [[../../02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1|Breakouts Guide]] is assumed.
 
 ---
 
-## 1. What Is TI65?
+## Series Overview
 
-TI65 (Trend Intensity 65) is a **momentum indicator** that measures the **velocity** of a stock's trend.
+| Part/Session | Theme | Key Question Answered |
+|---|---|---|
+| **Part 1** | What Is TI65? | Definition, formula, visual chart reading |
+| **Part 2** | Chart Setup | Custom PCF indicator, bullish/bearish area plots |
+| **Part 3** | Numeric Value on Toolbar | Adding TI65 ratio (e.g., 1.82) to every chart |
+| **Part 4** | Universe Scans | Bullish & bearish combo lists with liquidity filters |
+| **Part 5** | Ranking & Filtering | Strongest/weakest stocks, anticipation workflow |
+| **Part 6** | Anticipation Scan | Narrow-range + TI65 momentum = watchlist candidates |
+| **How to Profit** | Advanced Applications | Young momentum, days-in column, pullback trading, short side |
+
+---
+
+### 1. What Is TI65?
+
+TI65 (Trend Intensity 65) is a **momentum indicator** that measures the **velocity** of a stock's trend. It tells you three things:
+
+1. **Is there a trend?** (positive or negative)
+2. **When did the trend start?** (exact day)
+3. **How intense is the trend?** (speed/velocity)
 
 > "What TI65 essentially tells you is it tells you the **velocity of move**. Higher the trend intensity, faster is the stock moving."
 
@@ -53,11 +75,22 @@ It is computed as the ratio of two moving averages:
 | **< 0.95** | Bearish trend intensity — stock is trending down with speed |
 | **0.95 – 1.05** | Neutral — no clear trend intensity |
 
+A TI65 value of 1.82 means the 7-day average is 82% above the 65-day average — an extremely fast-moving uptrend. A value of 0.04 means the stock is in an intensely bearish downtrend.
+
 > "If a stock has TI65 of 1.05, it is definitely in a positive trend. But we don't just want positive trend — we want positive trend with **a certain speed**."
+
+**Visual interpretation:** On a chart with TI65 plotted as a colored area:
+- **Green area** = Stock is in bullish trend intensity (7-day MA > 5% above 65-day MA)
+- **Red area** = Stock is in bearish trend intensity (7-day MA > 5% below 65-day MA)
+- **No color** = Neutral zone
+
+This gives you instant visual identification of when a stock entered a trend and when it exited.
+
+> "Unlike other momentum indicators, where it doesn't tell you where the momentum started — TI65 is going to tell you the **exact day** when the trend intensity turned positive. It is going to tell you the exact day when trend intensity turned negative."
 
 ---
 
-## 2. Relative Momentum vs. Absolute Momentum
+### 2. Relative Momentum vs. Absolute Momentum
 
 Pradeep introduces a critical distinction that most momentum tools fail to capture:
 
@@ -68,125 +101,164 @@ Pradeep introduces a critical distinction that most momentum tools fail to captu
 | **Problem** | Tells you a stock is strong, but **not when momentum started** | Tells you **exactly when momentum began** and its speed |
 | **Trading use** | Often leads to buying extended stocks | Finds early entry points, avoids overextended stocks |
 
-Pradeep calls this the difference between knowing *"Brian has $5M"* (absolute wealth) and knowing *"Brian is in the top 5% of Americans"* (relative wealth). Both are useful, but only absolute momentum tells you where the trend began.
+**The Brian analogy:** Brian has $5,000,000. That's an **absolute** amount of wealth. Relative to all people in the US, someone with $5M is in the **top 5%** — that's the relative measure. Both are true, but the absolute number is what matters for trading decisions.
+
+A stock like CRBP has an IBD Relative Strength rating of 97–99. That means it's ranked among the top 1–3% of all stocks in momentum. But when did that momentum start? If you don't know, you buy extended stocks.
 
 > "Relative strength is good to know — it means you're ranked #3 amongst all stocks in momentum — but it is **perfectly useless** because you don't know where this momentum started."
 
 > "If you select stocks based on relative momentum, you're going to be buying stocks which are way extended. **Absolute momentum is a trader's friend.**"
 
+With absolute momentum, you know exactly where the trend started. You can find the first buy point, the second, the third. You can enter early.
+
 ---
 
-## 3. Setting Up TI65 in TC2000 (Parts 1–3)
+### 3. Setting Up TI65 in TC2000
 
-### Part 1 — Chart Setup
+#### 3.1 Chart Area Plot (Part 2)
 
-The TI65 is displayed as a **colored area plot** on the chart:
-- **Green area** = Bullish trend intensity (price above 1.05)
-- **Red area** = Bearish trend intensity (price below 0.95)
+To add TI65 as a **custom PCF True Indicator** on your chart:
 
-This gives you **visual trend intensity** — you can see at a glance when a stock entered a strong trend and when it exited.
-
-> "Unlike other momentum indicators, TI65 tells you the **exact day** when trend intensity turned positive. It tells you the **exact day** when it turned negative."
-
-### Part 2 — Custom Indicator Formula
-
-To add TI65 as a **custom PCF True Indicator**:
-
-| Side | Formula | Color | Style |
-|---|---|---|---|
-| **Bullish** | `AVGC7 / AVGC65 >= 1.05` | Green | Area |
-| **Bearish** | `AVGC7 / AVGC65 <= 0.95` | Red | Area |
+| Step | Action |
+|---|---|
+| 1 | Left click chart → Add Plot → Custom PCF True Indicator |
+| 2 | **Bullish:** Formula `AVGC7 / AVGC65 >= 1.05`, Color = green, Style = area |
+| 3 | **Bearish:** Add another plot, Formula `AVGC7 / AVGC65 <= 0.95`, Color = red, Style = area |
+| 4 | Overlay both on the same panel using the arrow/overlay button |
 
 > **Note for European keyboards**: Use `105 / 100` instead of `1.05`, and `95 / 100` instead of `0.95`.
 
-### Part 3 — Adding the Numeric Value to Toolbar
+You can adjust the color intensity to make bullish/bearish regions more or less prominent. Use different background colors for 4% breakout vs. TI65 chart tabs.
 
-To see the actual TI65 ratio value on every chart:
+#### 3.2 Numeric Value on Toolbar (Part 3)
 
-1. Create a new **Indicator** called `65T`
-2. Formula: `AVGC7 / AVGC65`
-3. Add to toolbar via **Edit Toolbar → Plus sign → Select 65T**
+To see the actual TI65 ratio (e.g., **TI 1.82**) on every chart:
 
-This shows the ratio (e.g., **TI 1.82**) so you can instantly gauge trend speed.
+1. Go to **New → Indicator**
+2. Name it `65T` (to differentiate from existing TI column)
+3. Formula: `AVGC7 / AVGC65`
+4. Add column to your scan results
+5. Add to chart toolbar: **Edit Toolbar → Plus sign → Find 65T**
+6. Set prefix (e.g., "T"), size (e.g., 20), color (e.g., blue)
+7. Keep decimal points at **2**
+
+Now every chart immediately shows the TI65 value. A stock with TI 2.0 is in a very fast uptrend; a stock with TI 0.04 is in a very fast downtrend.
+
+> "Any chart when you are looking at it, immediately, you know visually whether the trend intensity is positive or negative."
 
 ---
 
-## 4. Building Bullish & Bearish Universe Scans (Part 4)
+### 4. Building Bullish & Bearish Universe Scans
 
-Create two **Combo Lists** (scan universes):
+Create two **Combo Lists** (scan universes) in TC2000:
 
-### Bullish TI65
+#### Bullish TI65
 
 | Condition | Purpose |
 |---|---|
 | US stocks + ADRs + ETFs | Universe |
-| `MINV3.1 >= 100,000` | Liquidity: minimum 100K shares traded last 3 days |
+| `MINV3.1 >= 100,000` | Liquidity: minimum 100K shares traded each of last 3 days |
 | `C >= 3` | Price filter: eliminate sub-$3 stocks |
 | `AVGC7 / AVGC65 >= 1.05` | **Trend intensity bullish** |
 
-Result: ~870 stocks (with 100K min volume) currently in bullish trend intensity.
+Result: ~870 stocks currently in bullish trend intensity.
 
-### Bearish TI65
+#### Bearish TI65
 
 Same conditions, but:
 
 | Condition | Value |
 |---|---|
 | `AVGC7 / AVGC65 <= 0.95` | **Trend intensity bearish** |
+| (Pradeep uses `MINV3.1 >= 1,000,000` for shorts) | Higher liquidity threshold for short side |
 
-Result: ~832 stocks currently in bearish trend intensity.
+Result: ~832 stocks at 100K volume; ~447 stocks at 1M volume (Pradeep's preference).
 
 > "This itself gives you information about the underlying buying or selling pressure in the market."
 
+**Buyout warning:** Stocks that gap up on acquisition news will show artificially high TI65 values. The price and volume filters help, but you still need to visually dismiss buyouts when reviewing scan results.
+
+> "This is just a way to eliminate buyouts because you are going to find a lot of buyouts with very high TI value, right? And because they gapped up."
+
 ---
 
-## 5. Practical Applications (Part 5 & "How to Profit")
+### 5. Practical Applications: Tiered by Experience Level
 
-Once the two universes are built, there are **multiple ways to use TI65** depending on your trading style:
+#### 5.1 Level 1 — Rank & Isolate Strongest/Weakest Stocks (Part 5)
 
-### 5.1 Rank & Isolate Strongest / Weakest Stocks
+The simplest use: sort the bullish list by TI65 and focus only on the **top 25, 50, or 100** strongest stocks. These stocks offer the highest velocity and the most opportunity.
 
-Sort the bullish list by TI65. Focus only on the **top 25, 50, or 100** strongest stocks.
+> "If they are setting up for a possible bounce or having a pullback, just focus on the first 25 ranked stocks — these are the strongest stocks. They are going to move with a higher speed compared to stocks which don't have very high trend intensity."
 
-> "If they are setting up for a possible bounce or having a pullback, just focus on the first 25 ranked stocks — these are the strongest stocks."
+Similarly, sort the bearish list and look at the **weakest stocks** for short candidates or deeply oversold bounce opportunities.
 
-Similarly, sort the bearish list and look at the **weakest stocks** for short candidates or oversold bounces.
+**Example:** A stock ranked #17 by TI65 with a very orderly pullback goes directly into your anticipation watchlist.
 
-### 5.2 Anticipation Scan (Part 6)
+#### 5.2 Level 2 — Narrow-Range Anticipation Scan (Part 6)
 
-Create a **narrow-range anticipation scan** from the bullish TI65 universe:
+Create a **combo list** called "Bullish TI65 Anticipation":
 
 | Condition | Value |
 |---|---|
-| Bullish TI65 universe | Base |
-| `AVGC7 / AVGC65 >= 1.05` | Already has momentum |
+| US stocks + ADRs + ETFs | Universe |
+| `MINV3.1 >= 100,000` | Liquidity |
+| `C >= 3` | Price filter |
+| `AVGC7 / AVGC65 >= 1.05` | Trend intensity bullish |
 | `Price Percent Change Today` between **-0.4% and +0.4%** | Very narrow range day |
 
 Add a column:
-- **NC** (Net Change) = `ABS(C - C1)` — lower = more flat
+- **NC** (Net Change) = `ABS(C - C1)` — lower = more flat that day
 
-Sort by lowest NC. Stocks with **NC near 0** and existing TI65 momentum are setting up for a breakout.
+Result: ~800 stocks reduced to **~78 stocks** with momentum that are having narrow-range days.
 
-> "These are stocks which are having a very orderly low-and-limp pullback. You can find them, create a watch list, and you're ready for when they break out."
+Sort by lowest NC. Stocks with NC near 0 and existing TI65 momentum are setting up for a breakout. Skip buyouts (stock flat on acquisition gaps). Flag the ones with orderly pullbacks.
 
-### 5.3 Finding Young Momentum — The "Days In" Column (Advanced)
+> "You can do this work at 2:00. You can do it at 3:00 before the market close. For best result, you want to do this during the day and enter them before the close."
+
+**Prioritizing candidates:** Once you have 4–5 candidates, copy flagged symbols into a new personal watchlist (e.g., "TI Watchlist"). Sort by TI65 value — the highest TI65 is your #1 priority.
+
+#### 5.3 Level 3 — 7-Day Momentum for Pullback Scan ("How to Profit")
+
+This is the most practical daily workflow for the TI65 bullish universe:
+
+1. Start with the **Bullish TI65** universe (~390 stocks with ETFs)
+2. Add a column: **7-day momentum** = `C / C7`
+3. **Sort by C/C7 ascending** (lowest 7-day momentum first)
+
+What this reveals:
+
+| Sort Position | What You Find | Action |
+|---|---|---|
+| **Top (lowest C/C7)** | Reversals — stocks that had momentum but are now reversing down | Skip or short |
+| **Middle** | **Orderly pullbacks** — high TI65 but small dip in last 7 days | **Buy candidate** |
+| **Bottom (highest C/C7)** | Extended stocks — already moved a lot in 7 days | Too late, skip |
+
+> "Within strength, you want to find the stocks which are having a pullback. So sort by C/C7, look for lower value — either there'll be a reversal, or there'll be an orderly pullback."
+
+**Key insight:** The C/C7 sort separates three categories automatically — reversals, pullbacks, and extended stocks. You only want the pullbacks.
+
+---
+
+### 6. Finding Young Momentum — The "Days In" Column
 
 This is the most powerful application, but **only for experienced traders**.
 
-The problem: You want the **first** breakout or pullback after momentum turns positive. Not the third or fourth.
+The problem: You want the **first** breakout or pullback after momentum turns positive. Not the third or fourth. Young setups allow you to hold for the second leg; old setups don't.
 
 **Solution:** Create a column tracking **how many days the stock has had positive TI65 in the last N days**.
 
 | Column | Formula | Purpose |
 |---|---|---|
-| `C65` | `COUNTTRUE(AVGC7 / AVGC65 >= 1.05, 100)` | Count of days with bullish TI65 in last 100 days |
-| `D65` | `COUNTTRUE(AVGC7 / AVGC65 <= 0.95, 100)` | Count of days with bearish TI65 in last 100 days |
+| `C65` | `COUNTTRUE(AVGC7 / AVGC65 >= 1.05, 100)` | Days with bullish TI65 in last 100 days |
+| `D65` | `COUNTTRUE(AVGC7 / AVGC65 <= 0.95, 100)` | Days with bearish TI65 in last 100 days |
 
-**Sort by C65 (ascending)** to find stocks that **just entered** bullish trend intensity.
+**Sort by C65 ascending** to find stocks that **just entered** bullish trend intensity.
 
 > "If this stock went into positive TI65 **yesterday**, and we ran this scan yesterday, we would have bought it. We don't need a breakout — as long as there's sufficient liquidity."
 
 > "We want to find **young setups**. What we want is the **first good pullback or the first good breakout after TI65 goes above 1.05**."
+
+**Example:** A stock with C65 = 1–3 means it just gained momentum in the last 1–3 days. If it's forming a first setup (pullback or consolidation), that's your ideal entry. A stock with C65 = 100 has had momentum for 100+ days — still valid, but you're getting in late.
 
 **Why young momentum matters for holding period:**
 
@@ -197,36 +269,13 @@ The problem: You want the **first** breakout or pullback after momentum turns po
 
 > "If you want to hold for longer term, you have to find **younger setups**."
 
----
+**How many days to count?** Pradeep uses 100 days as default. Don't use 250 — it eliminates IPOs and newer stocks. 100 captures the right balance.
 
-## 6. Matching TI65 to the Three Setup Types
-
-TI65 maps directly to the three momentum burst setups:
-
-| Setup Type | TI65 State at Setup | How to Use TI65 |
-|---|---|---|
-| **Bottom Bounce** | TI65 negative or just turning positive | Best bottom bounces happen when TI65 is deep in negative territory |
-| **Continuation Breakout (Two-Leg)** | TI65 > 1.05 (momentum established) | Most good two-leg setups appear **after** TI65 > 1.05 |
-| **Consolidation Breakout** | TI65 > 1.05, flat/sideways for 3–10 days | Sort by 7-day momentum (C7) ascending — find orderly pullbacks |
+> "I would not recommend 250 days because you're going to eliminate a lot of IPOs of things which don't trade that much. I'd keep it at like 100."
 
 ---
 
-## 7. Short-Side Applications
-
-The exact same logic applies to shorting:
-
-1. **Bearish TI65 universe** — stocks with `AVGC7 / AVGC65 <= 0.95`
-2. Prioritize very liquid stocks (Pradeep uses 1M+ volume for shorts, but 100K works for smaller accounts)
-3. Add `D65` column (days in bearish TI65, last 100 days)
-4. Sort ascending — find stocks that **just turned negative**
-
-> "When do you want to short? You want to short **early in the breakdown**, not when the breakdown is so apparent."
-
-> "Our scans are designed to find breakouts on Day 1. They won't show you the short the day after earnings recovers and then dumps. But if you do this TI65 work, you'll find the low-risk short **next day** after the bounce."
-
----
-
-## 8. Why "Days In" Matters — The Long-Run Statistics
+### 7. The Long-Run Statistics
 
 Pradeep emphasizes a statistical fact most newer traders miss:
 
@@ -240,11 +289,91 @@ This is why finding **young** momentum is so critical:
 | 50–100 days | Trend is maturing — still valid, but be selective |
 | 120–150+ days | Rare. Most stocks can't maintain >1.05 velocity this long |
 
-> "I've seen examples where stocks go up without getting extended — they go sideways, breakout, sideways again. But those are **very, very rare**. Most stocks have a very difficult time maintaining TI above 1.05 for more than 120–150 days."
+**Can stocks go up without getting extended?** Yes — some stocks never get overextended. They go up, go sideways, breakout, go sideways again. But this is **very, very rare**. Most stocks have difficulty maintaining TI above 1.05 for more than 120–150 days.
+
+> "I've seen examples where stocks go up without getting extended — they go sideways, breakout, sideways again. But those are **very, very rare**."
 
 ---
 
-## 9. Key Formulas Summary (TC2000)
+### 8. Matching TI65 to the Three Setup Types
+
+TI65 maps directly to the three momentum burst setups from the [[../../03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 1|Bullish Momentum Burst Guide]]:
+
+| Setup Type | TI65 State at Setup | How to Use TI65 |
+|---|---|---|
+| **Bottom Bounce** | TI65 negative or just turning positive | Best bottom bounces happen when TI65 is deep in negative territory — selling has been intense, then buying comes in |
+| **Continuation Breakout (Two-Leg)** | TI65 > 1.05 (momentum established) | Most good two-leg setups appear **after** TI65 > 1.05 — the first leg tells you momentum is established |
+| **Consolidation Breakout** | TI65 > 1.05, flat/sideways for 3–10 days | Sort by 7-day momentum (C/C7) ascending — find orderly pullbacks within existing momentum |
+
+> "Most of the good two-Lynch setups are going to show up when? After the TI is greater than 1.05. After momentum has been established — because the first leg tells you that the momentum has been established."
+
+**The workflow for continuation setups:**
+1. Find stocks with TI65 > 1.05 (momentum established)
+2. Check if the stock is consolidating (narrow range, low volume) for 3–10 days
+3. The next logical move is a breakout
+4. Enter on the breakout or just before (anticipation)
+
+**For bottom bounces:** TI65 is negative at the bottom. This means the stock is in a downtrend. The bounce happens from a deeply negative TI65 reading. You want to find stocks where the selling is exhausting and a bounce begins.
+
+> "The best bottom bounces are typically the one where you have TI65 in negative territory. The stock is going down, and then you get a bottom bounce."
+
+---
+
+### 9. Short-Side Applications
+
+The exact same logic applies to shorting:
+
+1. **Bearish TI65 universe** — stocks with `AVGC7 / AVGC65 <= 0.95`
+2. Prioritize very liquid stocks (Pradeep uses 1M+ volume for shorts, but 100K works for smaller accounts)
+3. Add `D65` column (days in bearish TI65, last 100 days)
+4. Sort ascending — find stocks that **just turned negative**
+
+> "When do you want to short? You want to short **early in the breakdown**, not when the breakdown is so apparent."
+
+#### The Day-After-Earnings Pattern
+
+A specific shorting pattern that standard scans miss:
+
+1. Stock has negative earnings or catalyst
+2. On the day of the event, the stock sometimes **bounces** (closes near high)
+3. The **real selling starts the next day**
+4. Your standard 4% breakdown scan catches it on Day 1 of the dump — but **misses** the entry right after the earnings-day bounce
+
+> "Our scans are designed to find breakouts on Day 1. They won't show you the short the day after earnings recovers and then dumps. But if you do this TI65 work, you'll find the low-risk short **next day** after the bounce."
+
+This pattern is very common and is one of the key advantages of maintaining a TI65 bearish watchlist.
+
+#### Counter-Trend Bounce Failures
+
+Within the bearish TI65 universe, look for stocks that have a **weak counter-trend bounce**. If the bounce fails, that's a short.
+
+> "There's a counter-trend bounce. If this counter-trend bounce fails, that's a shot. Because the trend intensity has turned negative."
+
+---
+
+### 10. Three Ways to Use TI65 for Anticipation
+
+Pradeep outlines three approaches, from easiest to most advanced:
+
+| Approach | Method | Time Required | Skill Level |
+|---|---|---|---|
+| **1. Narrow-range scan** | Create anticipation combo list with ±0.4% filter, sort by NC | 10–15 min/day | Intermediate |
+| **2. Visual scan of full universe** | Go through every stock in TI65 bullish list, visually identify setups | Very time-consuming | Not recommended |
+| **3. Top 25 + visual** | Sort by TI65, focus only on top 25–30 stocks, find setups within | Moderate | Experienced |
+
+> "Using TI65, you can anticipate which stock is likely to break out. And as a result, you can buy either before the breakout or in the first few percentage of a breakout — that gives you **low risk entry**."
+
+**Daily workflow for experienced traders:**
+1. Run TI65 bullish scan (or use pre-built combo list)
+2. Add 7-day momentum column (`C/C7`) — sort ascending for pullbacks
+3. Add Days In column (`C65`) — sort ascending for young momentum
+4. Identify 4–5 best candidates
+5. Create watchlist, prioritize by highest TI65
+6. Enter on breakout or during narrow-range day (anticipation)
+
+---
+
+### 11. Key Formulas Summary (TC2000)
 
 | Purpose | Formula |
 |---|---|
@@ -257,11 +386,11 @@ This is why finding **young** momentum is so critical:
 | Net Change (flatness) | `ABS(C - C1)` |
 | Days in bullish TI65 (100 days) | `COUNTTRUE(AVGC7 / AVGC65 >= 1.05, 100)` |
 | Days in bearish TI65 (100 days) | `COUNTTRUE(AVGC7 / AVGC65 <= 0.95, 100)` |
-| 7-day momentum (for pullback scan) | `C / C7` or simply `C7` |
+| 7-day momentum (for pullback scan) | `C / C7` — sort ascending for pullbacks |
 
 ---
 
-## 10. Who Is This For?
+### 12. Who Is This For?
 
 > "This session is designed for people with **a little bit of experience** who already know what we are talking about, who have gone through the guide section, who understand what is momentum."
 
@@ -269,19 +398,49 @@ This is why finding **young** momentum is so critical:
 
 | Skill Level | Recommended Use |
 |---|---|
-| **Beginner** | Focus on Parts 1–4: set up TI65, build scans, get familiar |
-| **Intermediate** | Part 5: rank stocks, use anticipation scan |
-| **Advanced** | "How to Profit" session: Days In column, pullback trading, short side |
+| **Beginner** | Parts 1–4: set up TI65, build scans, get familiar with the visual |
+| **Intermediate** | Part 5–6: rank stocks, use narrow-range anticipation scan, create watchlists |
+| **Advanced** | "How to Profit": Days In column, 7-day momentum pullback scan, short side, day-after-earnings pattern |
 
 ---
 
-## Full Transcripts
+### Key Takeaways
 
-See:
-- [[../../transcripts/Pradeep Bonde - TI65 Guide-Part 1_deepgram|Part 1]]
-- [[../../transcripts/Pradeep Bonde - TI65 Guide-Part 2_deepgram|Part 2]]
-- [[../../transcripts/Pradeep Bonde - TI65 Guide-Part 3_deepgram|Part 3]]
-- [[../../transcripts/Pradeep Bonde - TI65 Guide-Part 4_deepgram|Part 4]]
-- [[../../transcripts/Pradeep Bonde - TI65 Guide-Part 5_deepgram|Part 5]]
-- [[../../transcripts/Pradeep Bonde - TI65 Guide-Part 6_deepgram|Part 6]]
-- [[../../transcripts/Pradeep Bonde - TI65 Guide-How to profit from TI65_deepgram|How to Profit from TI65]]
+1. **TI65 measures velocity, not just direction** — a stock can be trending but how fast matters for setup selection
+2. **Absolute momentum > relative momentum for trading** — relative strength tells you rank but not when the trend started; TI65 tells you both
+3. **The Days In column is the most powerful application** — finding young momentum (1–10 days into TI65 > 1.05) gives you the best reward/risk
+4. **Sort by C/C7 ascending to find pullbacks** — this automatically separates reversals, orderly pullbacks, and extended stocks
+5. **Three setup types map to three TI65 states** — bottom bounce (negative), continuation (just turned positive), consolidation (sustained positive)
+6. **Short side works identically** — D65 column, day-after-earnings pattern, counter-trend bounce failures
+7. **Buyouts inflate TI65** — always visually dismiss acquisition gaps in your scan results
+8. **Most stocks can't sustain TI65 > 1.05 past 120–150 days** — enter early or skip
+
+---
+
+### Cross-References
+
+- [[../../transcripts/04. TI65/Pradeep Bonde - TI65 Guide-Part 1_deepgram|Part 1 Transcript]]
+- [[../../transcripts/04. TI65/Pradeep Bonde - TI65 Guide-Part 2_deepgram|Part 2 Transcript]]
+- [[../../transcripts/04. TI65/Pradeep Bonde - TI65 Guide-Part 3_deepgram|Part 3 Transcript]]
+- [[../../transcripts/04. TI65/Pradeep Bonde - TI65 Guide-Part 4_deepgram|Part 4 Transcript]]
+- [[../../transcripts/04. TI65/Pradeep Bonde - TI65 Guide-Part 5_deepgram|Part 5 Transcript]]
+- [[../../transcripts/04. TI65/Pradeep Bonde - TI65 Guide-Part 6_deepgram|Part 6 Transcript]]
+- [[../../transcripts/04. TI65/Pradeep Bonde - TI65 Guide-How to profit from TI65_deepgram|How to Profit Transcript]]
+- [[../../03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 1|BMB Section 1: Momentum Burst Definition]]
+- [[../../03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 5|BMB Section 5: Win Rate, Market Phase & Filters]]
+
+---
+
+### Key Quotes
+
+> "What TI65 essentially tells you is it tells you the velocity of move. Higher the trend intensity, faster is the stock moving."
+
+> "Relative strength is good to know — it means you're ranked #3 amongst all stocks in momentum — but it is **perfectly useless** because you don't know where this momentum started. Absolute momentum is a trader's friend."
+
+> "We want to find young setups. What we want is the first good pullback or the first good breakout after TI65 goes above 1.05."
+
+> "Most stock moves happen in a two-month period. Even if a stock is going to make a bigger move, it happens all in two months."
+
+> "Our scans are designed to find breakouts on Day 1. They won't show you the short the day after earnings recovers and then dumps. But if you do this TI65 work, you'll find the low-risk short next day after the bounce."
+
+> "For experienced people — if I open a window, it's enough to jump out and find opportunities."
