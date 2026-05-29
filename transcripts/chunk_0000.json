@@ -1,579 +1,629 @@
 {
   "segments": [
     {
-      "start": 41.195,
-      "end": 41.695,
-      "text": "Okay."
+      "start": 1.1999999,
+      "end": 15.745,
+      "text": "Double trouble is a momentum based scan or a momentum based methodology to mimic the thinking of Darwaz, and I created it to find out Darvas kind of stocks."
     },
     {
-      "start": 43.835,
-      "end": 44.975,
-      "text": "So let's see."
+      "start": 15.805,
+      "end": 27.265,
+      "text": "Now once you create a scan for this, this methodology of using the Darvas kind of a setup is more suitable for investors or people who are looking for a bigger moose."
     },
     {
-      "start": 46.395,
-      "end": 50.335,
-      "text": "This is the thing which we need to look at."
-    },
-    {
-      "start": 63.835,
-      "end": 89.2,
-      "text": "So primarily this session is designed for people with little bit of experience who already know what we are talking about and who have gone through the guide section who understand what is momentum right and by mistake if you're shown up in this thing, trying to find out, look what is the scan for combination scan or EP nine or like you have some basic problems, right?"
-    },
-    {
-      "start": 89.66,
-      "end": 95.815,
-      "text": "The time for that is when I announce what are your trading problem, right?"
-    },
-    {
-      "start": 95.815,
-      "end": 101.495,
-      "text": "This is for like any more those who are already there are like any of these newer kind of traders."
-    },
-    {
-      "start": 101.495,
-      "end": 106.57,
-      "text": "And then there are these experienced traders maximum benefit out of this."
-    },
-    {
-      "start": 106.71,
-      "end": 117.130005,
-      "text": "You're going to get if you are somebody who already have mechanics of the trading knell down, you are already trading and you already are profitable."
-    },
-    {
-      "start": 117.270004,
-      "end": 117.770004,
+      "start": 27.75,
+      "end": 28.25,
       "text": "Right?"
     },
     {
-      "start": 118.275,
-      "end": 122.69501,
-      "text": "So with that in mind, let's look at trend intensity."
+      "start": 28.39,
+      "end": 31.130001,
+      "text": "And that is the kind of people for whom this is more suitable."
     },
     {
-      "start": 123.235,
-      "end": 128.29501,
-      "text": "Okay, TI 65 are also called as trend intensity 65."
+      "start": 31.27,
+      "end": 34.31,
+      "text": "In addition to that, it's not about only the scan."
     },
     {
-      "start": 128.435,
-      "end": 129.335,
-      "text": "What it is?"
+      "start": 34.31,
+      "end": 39.93,
+      "text": "It is about understanding Darwass' method, because he was not just looking for a stock which has doubled."
     },
     {
-      "start": 129.715,
-      "end": 131.895,
-      "text": "It is a momentum indicator, right?"
+      "start": 40.07,
+      "end": 43.365,
+      "text": "In addition to that, he wanted the stock to be near all time high."
     },
     {
-      "start": 132.115,
-      "end": 132.935,
-      "text": "It's a momentum."
+      "start": 43.685,
+      "end": 50.905003,
+      "text": "In addition to that, he wanted the stock to be from an infant industry, which is to say that he wanted it from a new industry."
     },
     {
-      "start": 134.81999,
-      "end": 142.68,
-      "text": "Not really an indicator, but like an okay, we can call it indicator, but it's a momentum way of finding momentum on a stock."
+      "start": 51.205,
+      "end": 54.345,
+      "text": "He wanted it, the stock, to have a lower capitalization."
     },
     {
-      "start": 143.37999,
-      "end": 146.58,
-      "text": "And how it looks like, this is how it looks like, right?"
+      "start": 54.805,
+      "end": 62.91,
+      "text": "He wanted the stock to have something, some product or some sort of a sales growth or earnings growth, which was very, very big."
     },
     {
-      "start": 146.58,
-      "end": 150.505,
-      "text": "And a shop Charles Schwab currently has a negative momentum right?"
+      "start": 63.13,
+      "end": 69.95,
+      "text": "So all the examples in which Darvas put his own money were new industries, and they were growing rapidly."
     },
     {
-      "start": 150.505,
-      "end": 169.15001,
-      "text": "So basically what it means is that currently it's ratio of average seven days price to average sixty five days price is below point 95 or it's the the average is seven is 5% below average is 65."
+      "start": 70.17,
+      "end": 74.025,
+      "text": "So he was not looking for any stock which doesn't have a catalyst."
     },
     {
-      "start": 170.49,
-      "end": 170.99,
+      "start": 74.025,
+      "end": 77.565,
+      "text": "So he was looking for a lot of things beside just the box."
+    },
+    {
+      "start": 78.025,
+      "end": 80.845,
+      "text": "So the starting point is having this scan."
+    },
+    {
+      "start": 80.985,
+      "end": 85.065,
+      "text": "After that, you start investigating the stocks which are setting up."
+    },
+    {
+      "start": 85.065,
+      "end": 90.049995,
+      "text": "So I'm going to show you how to do this in PC 2,000 in a stepwise manner."
+    },
+    {
+      "start": 90.43,
+      "end": 91.63,
+      "text": "So here is the thing."
+    },
+    {
+      "start": 91.63,
+      "end": 96.85,
+      "text": "Once you have the scan, you are getting 351 stocks."
+    },
+    {
+      "start": 97.07,
+      "end": 107.525,
+      "text": "Now Darwaz was not not looking for stocks, which was like an just making a fifty two week low move from a low, from fifty two week low and which didn't have the other criteria."
+    },
+    {
+      "start": 107.825,
+      "end": 111.365,
+      "text": "But what he was looking for was he was looking for a stock which has doubled."
+    },
+    {
+      "start": 111.585,
+      "end": 116.42,
+      "text": "And if you check this particular stock, this stock is near all time high also."
+    },
+    {
+      "start": 116.96,
+      "end": 117.28,
       "text": "Right?"
     },
     {
-      "start": 171.69,
-      "end": 177.76501,
-      "text": "So as a result this particular stock has a negative momentum, right?"
+      "start": 117.28,
+      "end": 126.24,
+      "text": "This stock is near all time high, and this particular stock is where you will see that there is a box which is getting formed."
     },
     {
-      "start": 178.065,
-      "end": 182.785,
-      "text": "So here, if you want to see this momentum, the values do you see on TV?"
-    },
-    {
-      "start": 182.785,
-      "end": 186.145,
-      "text": "Now the same stock had positive momentum here, right?"
-    },
-    {
-      "start": 186.145,
-      "end": 189.26501,
-      "text": "So it's trend intensity was about 105."
-    },
-    {
-      "start": 189.26501,
-      "end": 193.88,
-      "text": "Or if you look at like, say, let's say like an a look at universe, right?"
-    },
-    {
-      "start": 193.88,
-      "end": 197.58,
-      "text": "And look at a stock which has like in a very high momentum."
-    },
-    {
-      "start": 198.36,
-      "end": 198.86,
+      "start": 126.24,
+      "end": 126.56,
       "text": "Right?"
     },
     {
-      "start": 199.08,
-      "end": 201.58,
-      "text": "So PRVB that's a buyout."
+      "start": 126.56,
+      "end": 134.285,
+      "text": "So this particular thing is what is called as a Darwaz box, where the stock has doubled and then it is going sideways."
     },
     {
-      "start": 202.12,
-      "end": 208.71501,
-      "text": "But like say if you look at AMAM has a trend in city of 1.94."
+      "start": 134.425,
+      "end": 142.185,
+      "text": "Now Darwaz would put a buy stop limit order at 20¢ or 25¢ above this particular high point."
     },
     {
-      "start": 208.71501,
-      "end": 209.93501,
-      "text": "So what does it mean?"
+      "start": 142.185,
+      "end": 150.26,
+      "text": "So this high point on this particular stock, which was, like, say, 15.6 or the high is, like, 15.67."
     },
     {
-      "start": 210.07501,
-      "end": 216.735,
-      "text": "That it's sixty seven day moving average is 94%."
+      "start": 150.4,
+      "end": 153.45999,
+      "text": "So 15.67 plus 25¢."
     },
     {
-      "start": 217.41,
-      "end": 222.31,
-      "text": "94% above is sixty five day moving average or it is very rapidly."
+      "start": 153.59999,
+      "end": 159.75499,
+      "text": "So Darvas will have a buy for orders on many stocks like this, which are forming a box."
     },
     {
-      "start": 222.53,
-      "end": 231.525,
-      "text": "What TI 65 essentially tells you is it tells you the velocity of move."
+      "start": 159.75499,
+      "end": 173.95,
+      "text": "This is an example of what Darvas would have been looking at, or this is an example of a Darvas box, and he would have bought it on this day, and he would have put his stop here, and he would have got stopped out because he used to put the stop at the low of the box."
     },
     {
-      "start": 232.385,
-      "end": 232.785,
+      "start": 174.65,
+      "end": 183.04999,
+      "text": "So once he had put in a order to buy, if the order was executed, his stop used to be at the low of the box."
+    },
+    {
+      "start": 183.04999,
+      "end": 193.97499,
+      "text": "His theory was that if the stock comes back and breaches the low of this box, then it is no more a good stock and it is going to get into trouble."
+    },
+    {
+      "start": 193.97499,
+      "end": 196.39499,
+      "text": "That is where the double trouble name comes in from."
+    },
+    {
+      "start": 196.455,
+      "end": 204.13,
+      "text": "And then if it breaks this box and if it successfully keeps on going up, then it is going to double or triple from there."
+    },
+    {
+      "start": 204.13,
+      "end": 205.59,
+      "text": "So that was the idea, right?"
+    },
+    {
+      "start": 205.65,
+      "end": 209.35,
+      "text": "So you have to go through each of the stocks and look for first."
+    },
+    {
+      "start": 209.49,
+      "end": 213.99,
+      "text": "So this is going to take you some time or like, and this is not simple methodology."
+    },
+    {
+      "start": 214.13,
+      "end": 217.615,
+      "text": "You'll have to first identify stocks which are making all time high."
+    },
+    {
+      "start": 217.615,
+      "end": 222.175,
+      "text": "If the stock is not making an all time high, then you're not even looking at it, right?"
+    },
+    {
+      "start": 222.175,
+      "end": 224.19499,
+      "text": "Even if it is making all time high."
+    },
+    {
+      "start": 225.615,
+      "end": 228.095,
+      "text": "Rarvaz was looking for young industries, right?"
+    },
+    {
+      "start": 228.095,
+      "end": 232.34001,
+      "text": "He was looking for young stocks which have something, sales growth or something."
+    },
+    {
+      "start": 232.34001,
+      "end": 244.905,
+      "text": "So in order to use this kind of a methodology, you're better off first selecting stocks with a lower capitalization, selecting stocks which have good earnings growth or sales growth."
+    },
+    {
+      "start": 244.985,
+      "end": 246.425,
+      "text": "Sales growth is what he was looking for."
+    },
+    {
+      "start": 246.425,
+      "end": 247.965,
+      "text": "He was looking for younger stock."
+    },
+    {
+      "start": 248.105,
+      "end": 263.66,
+      "text": "So instead of running this scan on a universe of stock, what you can do is you should run this scan, not on US common stocks and exchange traded funds and American depositary receipt, but on bucket zero."
+    },
+    {
+      "start": 263.66,
+      "end": 280.455,
+      "text": "Now, bucket zero is something which I'll explain in a different video later, but bucket zero is a set of stocks, right, which have two quarters, back to back, of sales growth of 39% plus."
+    },
+    {
+      "start": 281.155,
+      "end": 286.3,
+      "text": "And they have IPO'd in the last ten years, which is what Darwaz was looking for."
+    },
+    {
+      "start": 286.3,
+      "end": 287.5,
+      "text": "He was looking for young stocks."
+    },
+    {
+      "start": 287.5,
+      "end": 290.72,
+      "text": "He was not, he was looking, he used to call it an infant industry."
+    },
+    {
+      "start": 291.02,
+      "end": 293.91998,
+      "text": "So infant industry, because they IPO'd in the last ten years."
+    },
+    {
+      "start": 294.06,
+      "end": 295.02,
+      "text": "They have sales growth."
+    },
+    {
+      "start": 295.02,
+      "end": 302.92502,
+      "text": "He was looking for something which has like an extremely good potential to make, big sales, or it was creating a new category."
+    },
+    {
+      "start": 303.065,
+      "end": 313.98,
+      "text": "One of the stocks on which he made single biggest amount of money was Theocall, which was making rocket fuels and rocket industry was one of the big industries at that time."
+    },
+    {
+      "start": 313.98,
+      "end": 318.08002,
+      "text": "The second stock on which he made a big move was a contraceptive stock."
+    },
+    {
+      "start": 318.22,
+      "end": 323.18,
+      "text": "Contraceptives were just introduced and that particular company was growing sales triple digit."
+    },
+    {
+      "start": 323.18,
+      "end": 328.67502,
+      "text": "So So when you select bucket zero to run this scan on, you already selected stocks, which are young."
+    },
+    {
+      "start": 329.135,
+      "end": 333.795,
+      "text": "Bucket zero has stocks, which has capitalization is below 10,000,000,000, right?"
+    },
+    {
+      "start": 334.015,
+      "end": 339.4,
+      "text": "So capitalization is one of the drivers' criteria, young stocks and stocks which are growing."
+    },
+    {
+      "start": 339.62,
+      "end": 342.5,
+      "text": "The other criteria which he had, they had to be near all time high."
+    },
+    {
+      "start": 342.5,
+      "end": 348.04,
+      "text": "There is no way in TC two thousand to write a scan, which will give you all the stocks which are near all time high."
+    },
+    {
+      "start": 348.18,
+      "end": 359.045,
+      "text": "That means what you'll have to do is once you get this on bucket zero, is to visually go and look at every stock and look at the one which are near all time high."
+    },
+    {
+      "start": 359.105,
+      "end": 363.02502,
+      "text": "And the one which are not near all time high, you will have to not select."
+    },
+    {
+      "start": 363.02502,
+      "end": 365.18503,
+      "text": "Like, this stock is not near all time high."
+    },
+    {
+      "start": 365.18503,
+      "end": 369.03,
+      "text": "And he also wanted stocks, so this stock is not near all time high."
+    },
+    {
+      "start": 369.11,
+      "end": 373.59003,
+      "text": "So only stocks which are near all time high is what he was looking for."
+    },
+    {
+      "start": 373.59003,
+      "end": 373.67,
       "text": "Right?"
     },
     {
-      "start": 232.785,
-      "end": 253.72,
-      "text": "So higher the trend intensity faster is the stock moving right and higher the trend intensity like this stock is moving as was rapidly moved up right as very high trend intensity or like this particular stock, recently, which had a breakout right and a trend in this it is now 1.10.89% right or plexus."
+      "start": 373.67,
+      "end": 379.51,
+      "text": "And so if you use that logic, you're going to find very few stocks."
     },
     {
-      "start": 254.395,
-      "end": 261.995,
-      "text": "Or this is a new star like this is something trend intensity now just burst and like an event crazy, right?"
+      "start": 379.51,
+      "end": 385.265,
+      "text": "Like, here is a stock, right, which is near all time high and which is forming a Darwaz's box."
     },
     {
-      "start": 261.995,
-      "end": 265.535,
-      "text": "So how can you use this information or this thing?"
+      "start": 385.405,
+      "end": 391.405,
+      "text": "Now the box high in this particular case is, if you see this high of this, 56.41."
     },
     {
-      "start": 265.755,
-      "end": 270.53,
-      "text": "Now there is a a couple of concepts which you need to understand whenever we are dealing with momentum."
+      "start": 391.405,
+      "end": 399.46002,
+      "text": "So Darwaz will add 25 or 50¢ to this, and he will put a buy stop at 56.41 plus 25¢."
     },
     {
-      "start": 271.07,
-      "end": 278.05,
-      "text": "And that is there's an absolute momentum, right?"
+      "start": 399.52002,
+      "end": 407.44,
+      "text": "And his sell stop, because this box has been formed here, his sell stop would be here at the low of this thing."
     },
     {
-      "start": 278.75,
-      "end": 284.585,
-      "text": "And there is a relative momentum."
+      "start": 407.44,
+      "end": 407.92,
+      "text": "Okay?"
     },
     {
-      "start": 284.805,
-      "end": 285.305,
-      "text": "Okay."
+      "start": 407.92,
+      "end": 411.2,
+      "text": "So this is one candidate, like, in a Darvas would look at, like TH."
     },
     {
-      "start": 288.405,
-      "end": 307.325,
-      "text": "So it's really in terms of like, say, if you like, say here, like an essay to say is like, say, So let's say Brian, right?"
+      "start": 411.2,
+      "end": 414.44498,
+      "text": "Again, this this is the kind of candidate which you looked at just you would look at."
     },
     {
-      "start": 308.825,
-      "end": 312.92502,
-      "text": "Has $5,000,000."
-    },
-    {
-      "start": 315.945,
-      "end": 316.445,
+      "start": 414.44498,
+      "end": 414.94498,
       "text": "Right?"
     },
     {
-      "start": 316.745,
-      "end": 318.92502,
-      "text": "That's like an absolute amount of wealth."
+      "start": 415.085,
+      "end": 417.565,
+      "text": "Now here, in this case, is it near all time high?"
     },
     {
-      "start": 321.05002,
-      "end": 323.85,
-      "text": "It's like absolute amount of wealth, which we have."
+      "start": 417.565,
+      "end": 417.72498,
+      "text": "Yes."
     },
     {
-      "start": 323.85,
-      "end": 324.17,
+      "start": 417.72498,
+      "end": 418.845,
+      "text": "It is near all time high."
+    },
+    {
+      "start": 418.845,
+      "end": 420.38498,
+      "text": "Is it forming a good box?"
+    },
+    {
+      "start": 420.525,
+      "end": 423.50497,
+      "text": "So this stock is not really forming a good box currently."
+    },
+    {
+      "start": 423.88498,
+      "end": 433.06,
+      "text": "So like this, when you go through all these stocks, what you're going to find is many of the stocks may not be near all time high or they are not forming a box."
+    },
+    {
+      "start": 433.2,
+      "end": 439.025,
+      "text": "And if they're forming a box is when Darwaz would get excited."
+    },
+    {
+      "start": 439.025,
+      "end": 442.465,
+      "text": "But in this particular case, he will not get excited with ASC."
+    },
+    {
+      "start": 442.465,
+      "end": 442.865,
+      "text": "Why?"
+    },
+    {
+      "start": 442.865,
+      "end": 445.585,
+      "text": "Because this stock is not near all time high."
+    },
+    {
+      "start": 445.585,
+      "end": 449.20502,
+      "text": "It's not an in fund industry also because shipping is not an in fund industry."
+    },
+    {
+      "start": 449.78998,
+      "end": 461.16998,
+      "text": "So this is how Darwaz used to use a methodology which would reduce your universe to a very few stocks because there are not many stocks which would qualify for Darwaz's setup."
+    },
+    {
+      "start": 461.22998,
+      "end": 466.545,
+      "text": "Because if something is like AMPS and it is a utility, it is not an infant industry."
+    },
+    {
+      "start": 466.545,
+      "end": 469.105,
+      "text": "So Darwaz would never go for this."
+    },
+    {
+      "start": 469.105,
+      "end": 471.58502,
+      "text": "Now you have high peak energy, which is an oil and gas."
+    },
+    {
+      "start": 471.58502,
+      "end": 476.245,
+      "text": "Again, it is not an infant industry because oil and gas has been around for many, many years."
+    },
+    {
+      "start": 476.47998,
+      "end": 479.52,
+      "text": "So is it something which Darwaz is going to go for?"
+    },
+    {
+      "start": 479.52,
+      "end": 480.0,
+      "text": "No."
+    },
+    {
+      "start": 480.0,
+      "end": 480.47998,
       "text": "Right?"
     },
     {
-      "start": 324.17,
-      "end": 334.345,
-      "text": "And, basically so this is like and, basically, the thing let me just close couple of windows because they're interfering with my work currently."
+      "start": 480.47998,
+      "end": 486.02,
+      "text": "So if you are going to do Darwaz's kind of a thing, you're going to find only very few stocks."
     },
     {
-      "start": 334.345,
-      "end": 336.20502,
-      "text": "So I'm just trying to get rid of."
+      "start": 486.08,
+      "end": 489.22,
+      "text": "Like here is an example of a Darwaz box being formed."
     },
     {
-      "start": 350.19998,
-      "end": 350.69998,
-      "text": "Okay."
+      "start": 489.36,
+      "end": 490.74,
+      "text": "Again, this has doubled."
     },
     {
-      "start": 351.24,
-      "end": 354.78,
-      "text": "So Brian has 5,000,000."
+      "start": 491.01498,
+      "end": 492.79498,
+      "text": "Here is a box which is being formed."
     },
     {
-      "start": 355.24,
-      "end": 355.74,
+      "start": 492.935,
+      "end": 494.955,
+      "text": "Here is the high of the box probably."
+    },
+    {
+      "start": 495.495,
+      "end": 495.815,
       "text": "Right?"
     },
     {
-      "start": 356.12,
-      "end": 357.5,
-      "text": "That's an absolute momentum."
+      "start": 495.815,
+      "end": 497.435,
+      "text": "This one is the high, I think."
     },
     {
-      "start": 357.63998,
-      "end": 357.96,
+      "start": 497.495,
+      "end": 498.535,
+      "text": "So which one is the high?"
+    },
+    {
+      "start": 498.535,
+      "end": 505.655,
+      "text": "High is $3.11.55 or $3.41.9 is the high on this particular stock."
+    },
+    {
+      "start": 505.655,
+      "end": 506.07,
       "text": "Right?"
     },
     {
-      "start": 357.96,
-      "end": 365.305,
-      "text": "But relative to all the people in The US, if you have 5,000,000 wealth, right?"
+      "start": 506.23,
+      "end": 514.23,
+      "text": "So 314.9 plus 50¢, you will have buy for a stop or buy VSLO kind of an order and his stop will be here."
     },
     {
-      "start": 366.645,
-      "end": 376.2,
-      "text": "Relative to other people, how much is 5,000,000 relative to everybody else in The US?"
+      "start": 514.23,
+      "end": 517.35004,
+      "text": "So this is another stock that Arvaz would have been interested in."
     },
     {
-      "start": 376.9,
-      "end": 379.24,
-      "text": "And what percentile are you going to be in?"
+      "start": 517.35004,
+      "end": 528.955,
+      "text": "Again, it fits this definition of infant industry and capitalization being lower and the stock having good sales growth or potential to make a good sales growth."
     },
     {
-      "start": 392.79498,
-      "end": 394.315,
-      "text": "You'll be in top 5%."
+      "start": 529.015,
+      "end": 537.54004,
+      "text": "So like this, if you use this methodology to find diverse kind of stocks, then you're going to find some candidate which are setting up near high."
     },
     {
-      "start": 394.315,
-      "end": 398.235,
-      "text": "So relative momentum terms you're in the top 5%."
+      "start": 537.54004,
+      "end": 539.86005,
+      "text": "Now, Revance is not setting up near high."
     },
     {
-      "start": 398.235,
-      "end": 398.735,
+      "start": 539.86005,
+      "end": 541.30005,
+      "text": "It's not near all time high."
+    },
+    {
+      "start": 541.30005,
+      "end": 545.86005,
+      "text": "So Darawas was only interested in stocks which were making all time high."
+    },
+    {
+      "start": 545.86005,
+      "end": 547.62,
+      "text": "This stock is not near all time high."
+    },
+    {
+      "start": 547.62,
+      "end": 556.545,
+      "text": "So if you go through these 48 stocks which are meeting the definition of Darwaz, you're gonna find only probably four or five stocks."
+    },
+    {
+      "start": 556.845,
+      "end": 561.165,
+      "text": "And that is what Darwaz was doing, and that is why he was very selective."
+    },
+    {
+      "start": 561.165,
+      "end": 564.045,
+      "text": "He was not doing this as utility, so he would not be interested."
+    },
+    {
+      "start": 564.045,
+      "end": 564.545,
       "text": "Right?"
     },
     {
-      "start": 402.86002,
-      "end": 403.6,
-      "text": "Of the people."
+      "start": 564.74,
+      "end": 568.6,
+      "text": "This is biotechnology stock, not near all time high beam."
     },
     {
-      "start": 404.3,
-      "end": 406.32,
-      "text": "Now that's like in a relative momentum."
+      "start": 568.98,
+      "end": 578.01495,
+      "text": "So if you if you go through quickly through each of these stocks, what you're going to see is that only one or two stocks are going to meet."
     },
     {
-      "start": 406.38,
-      "end": 411.18,
-      "text": "So similarly, when you have like an essay of stock, right?"
+      "start": 578.01495,
+      "end": 581.535,
+      "text": "This is not near all time high or this is not making an all time high."
     },
     {
-      "start": 411.18,
-      "end": 414.435,
-      "text": "Corpus rather absolute moment of 1.7."
+      "start": 581.535,
+      "end": 583.795,
+      "text": "So you'd not be interested in that stock."
     },
     {
-      "start": 414.435,
-      "end": 419.79498,
-      "text": "But if you look at it as relative to other stocks, it's in the top 1%."
+      "start": 584.175,
+      "end": 587.15497,
+      "text": "Again, like, all these stocks are not making all time highs."
     },
     {
-      "start": 419.79498,
-      "end": 425.815,
-      "text": "And this is like an a the thing with like an essay, if you go here, right, and you put it CRBP."
-    },
-    {
-      "start": 429.12003,
-      "end": 429.62003,
+      "start": 587.45496,
+      "end": 587.95496,
       "text": "Right?"
     },
     {
-      "start": 429.76,
-      "end": 435.04,
-      "text": "They will say that it has RS rating of 97, right?"
+      "start": 590.365,
+      "end": 598.865,
+      "text": "So, in fact, the only stocks which you would be interested in is these three stocks, out of which you have to look at which one is forming a good box."
     },
     {
-      "start": 435.04,
-      "end": 436.98,
-      "text": "Relative strength of 97."
-    },
-    {
-      "start": 437.2,
-      "end": 442.42,
-      "text": "So this relative strength of 97 or if you put in that, I'm here, right?"
-    },
-    {
-      "start": 448.17502,
-      "end": 456.93,
-      "text": "It has a relative strength of 99 right now that relative strength is good to know."
-    },
-    {
-      "start": 457.31,
-      "end": 457.79,
-      "text": "Right?"
-    },
-    {
-      "start": 457.79,
-      "end": 458.59,
-      "text": "Means okay."
-    },
-    {
-      "start": 458.59,
-      "end": 465.25,
-      "text": "Am I missing number three ranked amongst all the stocks in terms of momentum, but it is perfectly useless."
-    },
-    {
-      "start": 466.11,
-      "end": 466.61,
-      "text": "Right?"
-    },
-    {
-      "start": 466.91,
-      "end": 468.44998,
-      "text": "Why is it perfectly useless?"
-    },
-    {
-      "start": 469.42502,
-      "end": 472.005,
-      "text": "It's because you don't know where this momentum started."
-    },
-    {
-      "start": 472.545,
-      "end": 473.045,
-      "text": "Right?"
-    },
-    {
-      "start": 473.185,
-      "end": 483.20502,
-      "text": "If you select stocks based on relative momentum and only select stocks with high relative momentum, what is going to happen is you're going to be buying stocks which are way extended."
-    },
-    {
-      "start": 483.265,
-      "end": 483.765,
-      "text": "Right?"
-    },
-    {
-      "start": 484.0,
-      "end": 486.1,
-      "text": "Or after they already made a move."
-    },
-    {
-      "start": 486.24,
-      "end": 490.16,
-      "text": "What you want to find out is when did the momentum start?"
-    },
-    {
-      "start": 490.16,
-      "end": 490.66,
-      "text": "Right?"
-    },
-    {
-      "start": 490.96,
-      "end": 496.97998,
-      "text": "In this case of a stock, you know, on this day, it had an absolute momentum."
-    },
-    {
-      "start": 497.12,
-      "end": 497.475,
-      "text": "Right?"
-    },
-    {
-      "start": 497.475,
-      "end": 499.315,
-      "text": "So you can look for a by point here."
-    },
-    {
-      "start": 499.315,
-      "end": 501.635,
-      "text": "First by point, you can look for a by point here."
-    },
-    {
-      "start": 501.635,
-      "end": 502.995,
-      "text": "You can look for a by point here."
-    },
-    {
-      "start": 502.995,
-      "end": 504.855,
-      "text": "You can look for a by point here."
-    },
-    {
-      "start": 504.995,
-      "end": 505.39502,
-      "text": "Right?"
-    },
-    {
-      "start": 505.39502,
-      "end": 515.47,
-      "text": "Or in this case of a mom, if you knew the momentum started here, you'd have looked at by points much earlier than when the relative momentum is happening."
-    },
-    {
-      "start": 516.65,
-      "end": 521.87,
-      "text": "So absolute momentum is traders friend."
-    },
-    {
-      "start": 523.53,
-      "end": 527.73505,
-      "text": "If you know how to use absolute momentum, you can do a lot of things."
-    },
-    {
-      "start": 528.03503,
-      "end": 534.275,
-      "text": "You can find stocks very early and you can avoid very extended stocks also, right?"
-    },
-    {
-      "start": 534.275,
-      "end": 538.435,
-      "text": "If you know what is absolute momentum then you can find."
-    },
-    {
-      "start": 538.435,
-      "end": 539.94,
-      "text": "So how do you find this?"
-    },
-    {
-      "start": 540.26,
-      "end": 550.82,
-      "text": "Now if you create a scan looking for like an this starts which have absolute momentum of TI sixty five about 1.05."
-    },
-    {
-      "start": 550.82,
-      "end": 551.32,
-      "text": "Right?"
-    },
-    {
-      "start": 551.86,
-      "end": 554.6,
-      "text": "So here TI sixty five bullish, right?"
-    },
-    {
-      "start": 554.875,
-      "end": 556.075,
-      "text": "Where is TI sixty five?"
-    },
-    {
-      "start": 556.075,
-      "end": 556.395,
-      "text": "Okay."
-    },
-    {
-      "start": 556.395,
-      "end": 558.255,
-      "text": "So you create a universe, right?"
-    },
-    {
-      "start": 558.395,
-      "end": 561.11505,
-      "text": "Saying US common stock American deposit will receive it."
-    },
-    {
-      "start": 561.11505,
-      "end": 563.455,
-      "text": "And let's put even ETF if you want ETF."
-    },
-    {
-      "start": 563.755,
-      "end": 564.075,
-      "text": "Okay."
-    },
-    {
-      "start": 564.075,
-      "end": 564.715,
-      "text": "We put in it."
-    },
-    {
-      "start": 564.715,
-      "end": 565.215,
-      "text": "Yeah."
-    },
-    {
-      "start": 565.275,
-      "end": 570.55,
-      "text": "And then we look for only the one Who's this?"
-    },
-    {
-      "start": 572.93,
-      "end": 573.09,
-      "text": "Yeah."
-    },
-    {
-      "start": 573.09,
-      "end": 573.99,
-      "text": "What's the question?"
-    },
-    {
-      "start": 578.21,
-      "end": 578.71,
-      "text": "Okay."
-    },
-    {
-      "start": 580.29004,
-      "end": 584.705,
-      "text": "So you're looking for stock whichever momentum of a 1.05."
-    },
-    {
-      "start": 584.705,
-      "end": 586.325,
-      "text": "These are all like an egg qualifier."
-    },
-    {
-      "start": 587.585,
-      "end": 596.005,
-      "text": "Basically c is greater than three, which is what I like I focus on I focus on stock bubble and minimum volume is about 100,000."
-    },
-    {
-      "start": 596.005,
-      "end": 596.16504,
-      "text": "Right?"
-    },
-    {
-      "start": 596.16504,
-      "end": 600.0,
-      "text": "And basically, so as a result of that, what"
+      "start": 599.16504,
+      "end": 599.66504,
+      "text": "And"
     }
   ],
   "language": "en",
