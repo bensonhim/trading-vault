@@ -42,6 +42,21 @@ Part 2 focuses on one idea: **choose your trading frequency and time frame — i
 
 ---
 
+## Series Overview
+
+| Part | Theme | Key Question Answered |
+|------|-------|----------------------|
+| **Part 1** | Foundations & Mindset | Why are you trading? Can you afford it? |
+| **Part 2** | Time Frame & Frequency | Which road: day, swing, position, or invest? |
+| **Part 3** | Generic Setups per Category | What does everyone on your road actually trade? |
+| **Part 4** | Compress Your Path | How to become profitable fast (copy + start now)? |
+| **Part 5** | Swing Trading Deep Dive | Only 3 setups exist — breakout, anticipation, pullback |
+| **Part 6** | Day Trading Deep Dive | Same 3 setups at 10× speed, plus fade/gap/news plays |
+| **Part 7** | Investing for Working People | Growth investing, fixed stars vs meteors, real estate |
+| **Part 8** | Tax-Advantaged Portfolio | 366-day holds, Nasdaq 100 selection, consumer > enterprise |
+
+---
+
 ### 1. The Four Roads: Day Trading · Swing Trading · Position Trading · Investing
 
 Once you pick a road, it closes all the other doors — and that's the point. Committing to one path is what frees your mind to build real expertise. Each path demands different tools, different brokers, different scanning software, different temperament.
@@ -162,4 +177,4 @@ If you're still undecided: take 3–4 days to honestly evaluate your personality
 
 ## Full Transcript
 
-See: [[../../transcripts/Pradeep Bonde - How to Get Started In Trading Guide-Part 2_deepgram.md|Transcript]]
+See: [[Pradeep Bonde - How to Get Started In Trading Guide-Part 2_deepgram|Transcript]]

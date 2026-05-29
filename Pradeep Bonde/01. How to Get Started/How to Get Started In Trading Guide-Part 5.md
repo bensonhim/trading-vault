@@ -65,6 +65,21 @@ Part 5 is the most radical session in the entire series. Pradeep strips swing tr
 
 ---
 
+## Series Overview
+
+| Part | Theme | Key Question Answered |
+|------|-------|----------------------|
+| **Part 1** | Foundations & Mindset | Why are you trading? Can you afford it? |
+| **Part 2** | Time Frame & Frequency | Which road: day, swing, position, or invest? |
+| **Part 3** | Generic Setups per Category | What does everyone on your road actually trade? |
+| **Part 4** | Compress Your Path | How to become profitable fast (copy + start now)? |
+| **Part 5** | Swing Trading Deep Dive | Only 3 setups exist — breakout, anticipation, pullback |
+| **Part 6** | Day Trading Deep Dive | Same 3 setups at 10× speed, plus fade/gap/news plays |
+| **Part 7** | Investing for Working People | Growth investing, fixed stars vs meteors, real estate |
+| **Part 8** | Tax-Advantaged Portfolio | 366-day holds, Nasdaq 100 selection, consumer > enterprise |
+
+---
+
 ### 1. The Only Three Setups in Swing Trading
 
 Pradeep opens by connecting back to Part 2 (time frame decision). Once you've decided to become a swing trader, the next question is: **what setup are you going to trade?** His answer is deliberately reductive:
@@ -304,4 +319,4 @@ The breakouts that work don't always look textbook-perfect. Don't disqualify set
 
 ## Full Transcript
 
-See: [[../../transcripts/Pradeep Bonde - How to Get Started In Trading Guide-Part 5_deepgram.md|Transcript]]
+See: [[Pradeep Bonde - How to Get Started In Trading Guide-Part 5_deepgram|Transcript]]

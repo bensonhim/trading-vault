@@ -50,6 +50,21 @@ Part 8 is the practical session on building a **tax-advantaged long-term portfol
 
 ---
 
+## Series Overview
+
+| Part | Theme | Key Question Answered |
+|------|-------|----------------------|
+| **Part 1** | Foundations & Mindset | Why are you trading? Can you afford it? |
+| **Part 2** | Time Frame & Frequency | Which road: day, swing, position, or invest? |
+| **Part 3** | Generic Setups per Category | What does everyone on your road actually trade? |
+| **Part 4** | Compress Your Path | How to become profitable fast (copy + start now)? |
+| **Part 5** | Swing Trading Deep Dive | Only 3 setups exist — breakout, anticipation, pullback |
+| **Part 6** | Day Trading Deep Dive | Same 3 setups at 10× speed, plus fade/gap/news plays |
+| **Part 7** | Investing for Working People | Growth investing, fixed stars vs meteors, real estate |
+| **Part 8** | Tax-Advantaged Portfolio | 366-day holds, Nasdaq 100 selection, consumer > enterprise |
+
+---
+
 ### 1. The 366-Day Portfolio Strategy
 
 For working people who want market exposure but cannot actively trade, Pradeep proposes building a portfolio of stocks to hold for **more than one year** — primarily for tax advantages (long-term capital gains rates vs short-term).
@@ -316,4 +331,4 @@ Pradeep views Bitcoin as a **trading instrument** (short-term holds) rather than
 
 ## Full Transcript
 
-See: [[../../transcripts/Pradeep Bonde - How to Get Started In Trading Guide-Part 8_deepgram.md|Transcript]]
+See: [[Pradeep Bonde - How to Get Started In Trading Guide-Part 8_deepgram|Transcript]]

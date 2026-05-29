@@ -54,6 +54,21 @@ Part 6 is Pradeep's brutal reality check on day trading. The core message: **all
 
 ---
 
+## Series Overview
+
+| Part | Theme | Key Question Answered |
+|------|-------|----------------------|
+| **Part 1** | Foundations & Mindset | Why are you trading? Can you afford it? |
+| **Part 2** | Time Frame & Frequency | Which road: day, swing, position, or invest? |
+| **Part 3** | Generic Setups per Category | What does everyone on your road actually trade? |
+| **Part 4** | Compress Your Path | How to become profitable fast (copy + start now)? |
+| **Part 5** | Swing Trading Deep Dive | Only 3 setups exist — breakout, anticipation, pullback |
+| **Part 6** | Day Trading Deep Dive | Same 3 setups at 10× speed, plus fade/gap/news plays |
+| **Part 7** | Investing for Working People | Growth investing, fixed stars vs meteors, real estate |
+| **Part 8** | Tax-Advantaged Portfolio | 366-day holds, Nasdaq 100 selection, consumer > enterprise |
+
+---
+
 ### 1. Swing Trading Setups Still Work — Just at 10× Speed
 
 > "Every setup which works in swing trading also works in day trading. It's like watching a YouTube movie at 10 times the speed."
@@ -262,4 +277,4 @@ Trying to day trade as your first entry point is the **hardest possible path**. 
 
 ## Full Transcript
 
-See: [[../../transcripts/Pradeep Bonde - How to Get Started In Trading Guide-Part 6_deepgram.md|Transcript]]
+See: [[Pradeep Bonde - How to Get Started In Trading Guide-Part 6_deepgram|Transcript]]

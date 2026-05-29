@@ -45,6 +45,21 @@ Part 4 answers a single question: **how do you compress your path to profitabili
 
 ---
 
+## Series Overview
+
+| Part | Theme | Key Question Answered |
+|------|-------|----------------------|
+| **Part 1** | Foundations & Mindset | Why are you trading? Can you afford it? |
+| **Part 2** | Time Frame & Frequency | Which road: day, swing, position, or invest? |
+| **Part 3** | Generic Setups per Category | What does everyone on your road actually trade? |
+| **Part 4** | Compress Your Path | How to become profitable fast (copy + start now)? |
+| **Part 5** | Swing Trading Deep Dive | Only 3 setups exist — breakout, anticipation, pullback |
+| **Part 6** | Day Trading Deep Dive | Same 3 setups at 10× speed, plus fade/gap/news plays |
+| **Part 7** | Investing for Working People | Growth investing, fixed stars vs meteors, real estate |
+| **Part 8** | Tax-Advantaged Portfolio | 366-day holds, Nasdaq 100 selection, consumer > enterprise |
+
+---
+
 ### 1. Start Trading NOW — Stop Waiting for "Readiness"
 
 The most common mistake Pradeep sees: people who say **"I'll learn everything for 6 months, then start trading."**
@@ -222,4 +237,4 @@ Only after you've mastered the method should you innovate with your own tools.
 
 ## Full Transcript
 
-See: [[../../transcripts/Pradeep Bonde - How to Get Started In Trading Guide-Part 4_deepgram.md|Transcript]]
+See: [[Pradeep Bonde - How to Get Started In Trading Guide-Part 4_deepgram|Transcript]]

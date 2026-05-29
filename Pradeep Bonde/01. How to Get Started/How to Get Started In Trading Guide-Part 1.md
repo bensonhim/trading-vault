@@ -67,7 +67,7 @@ Your profit target determines your trading style, not the other way around:
 - Below $300K, you're constantly on a treadmill and will likely deplete capital
 - Pradeep sees people sold dreams at $25K–$30K accounts — "it's not going to work"
 - If you only have $10K–$15K, **find a job first**, don't depend on trading for living expenses
-- 401(k) money is not accessible without penalties and taxes — you become "asset rich, cash poor"
+- 401(k) money is not accessible without penalties and taxes — you become "asset rich, cash poor." Even if you make money in a 401(k), you can't take it out for living expenses without paying both income tax **and** a 10% early withdrawal penalty. Pradeep himself has much of his money trapped in restricted accounts — he's "asset rich" but faces cash flow challenges because withdrawing triggers tax + 10% penalty. You can borrow against it or buy real estate through it, but you still owe the mortgage. **Don't plan to make a living based on growing your 401(k).**
 - Even Christian Kahl (KQ) kept his job until he made his first million day trading
 
 ### 4. Time Commitment — Superhuman Effort for 2–5 Years
@@ -75,7 +75,7 @@ Your profit target determines your trading style, not the other way around:
 - Every single successful trader Pradeep knows put in **2–5 years of superhuman effort** before becoming consistently profitable
 - Mark Minervini worked as a nightclub bouncer so he could trade during the day — it took him 5–6 years
 - Dan Zenger didn't quit his swimming pool business until he made $17M
-- Christian Kahl spent $5K on Minervini's course, $1K+ on Dan Zenger's site — he invested heavily in learning
+- Christian Kahl spent **$10K+ on education**: $5K for Minervini's course, $1,500/$200mo for Dan Zenger's site, ~$300mo for Investors Underground, plus Access Trading and Embark Winner — he invested heavily in learning before discovering what worked for him
 - "Superhuman effort" does **not** mean sending 17 DMs asking for info that's already on the site — it means doing your own research, building your own scans, and internalizing the methodology
 - StockBee members typically attend 4–5 bootcamps before they truly "get it"
 - People see EP setups on the timeline and still don't buy them — "they don't even understand what the scan is doing" because "none of this they made their own"
@@ -115,6 +115,21 @@ Trading is not an escape hatch, not a shortcut, and not "something to do." It is
 
 ---
 
+## Series Overview
+
+| Part | Theme | Key Question Answered |
+|------|-------|----------------------|
+| **Part 1** | Foundations & Mindset | Why are you trading? Can you afford it? |
+| **Part 2** | Time Frame & Frequency | Which road: day, swing, position, or invest? |
+| **Part 3** | Generic Setups per Category | What does everyone on your road actually trade? |
+| **Part 4** | Compress Your Path | How to become profitable fast (copy + start now)? |
+| **Part 5** | Swing Trading Deep Dive | Only 3 setups exist — breakout, anticipation, pullback |
+| **Part 6** | Day Trading Deep Dive | Same 3 setups at 10× speed, plus fade/gap/news plays |
+| **Part 7** | Investing for Working People | Growth investing, fixed stars vs meteors, real estate |
+| **Part 8** | Tax-Advantaged Portfolio | 366-day holds, Nasdaq 100 selection, consumer > enterprise |
+
+---
+
 ## Full Transcript
 
-See: [[../../transcripts/Pradeep Bonde - How to Get Started In Trading Guide-Part 1_deepgram.md|Transcript]]
+See: [[Pradeep Bonde - How to Get Started In Trading Guide-Part 1_deepgram|Transcript]]
