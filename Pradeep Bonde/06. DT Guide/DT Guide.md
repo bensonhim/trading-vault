@@ -1,5 +1,5 @@
 ---
-title: DT Guide — Double Trouble Methodology (Darvas-Style Momentum Scan)
+title: DT Guide — Double Trouble (Darvas-Style Momentum Scan)
 source:
   - https://stockbee-videos.b-cdn.net/DT%20Guide%20Part%201/DT%20Guide%20Part%201.mp4
   - https://stockbee-videos.b-cdn.net/DT%20Guide%20Part%202/DT%20Guide%20Part%202.mp4
@@ -9,231 +9,327 @@ language: en
 backend: deepgram
 date: 2026-05-29
 tags:
-- momentum
-- darvas
-- double-trouble
-- DT
-- 52-week-low
-- continuation-setup
-- breakout
-- anticipation
-- scan-setup
-- TC2000
-- combo-list
-- momentum-burst
-- pradeep-bonde
-- stockbee
+  - momentum
+  - darvas
+  - double-trouble
+  - DT
+  - 52-week-low
+  - darvas-box
+  - continuation-setup
+  - breakout
+  - anticipation
+  - scan-setup
+  - TC2000
+  - combo-list
+  - bucket-zero
+  - position-trading
+  - pradeep-bonde
+  - stockbee
 ---
 
-# DT Guide — Double Trouble Methodology
+# DT Guide — Double Trouble (Darvas-Style Momentum Scan)
 
-> The **Double Trouble (DT)** methodology is a momentum scan inspired by Nicolas Darvas: find stocks that have risen at least **80% from their 52-week low** and are now setting up for their next leg. This is not a breakout scan — it is a **continuation-setup and anticipation scan** that operates on the premise that stocks which have already doubled from their lows are statistically more likely to continue trending.
-> 
-> **Series:** 4 parts (Introduction → Scan Setup → Advanced Use → Anticipation)
+> **Double Trouble (DT)** is a momentum scan inspired by Nicolas Darvas's box theory: find stocks that have risen at least **80% from their 52-week low**, then look for a consolidation "box" near the high. When the stock breaks out of the box, you buy. If it breaks below the box, it's in trouble — hence the name.
+>
+> **Important caveat:** Pradeep says "I don't use it anymore" but created it after reading Darvas's book. It is best suited for **position trading and longer-term holding**, not swing trading.
 
 ---
 
-## 1. What Is Double Trouble?
+## Series Overview
 
-**Double Trouble** is a momentum method based on a principle Nicolas Darvas observed: stocks that have **doubled from their 52-week low** are in powerful uptrends and worth monitoring for the next move.
+| Part | Theme | Key Question Answered |
+|---|---|---|
+| **Part 1** | What Is Double Trouble? | Darvas's original concept, the 80%/box theory, why "trouble" |
+| **Part 2** | Chart Setup | Adding DT indicator as area plot in TC2000 |
+| **Part 3** | Building the Scan | Combo list, DT column, liquidity filters, ranking |
+| **Part 4** | Who Is This For? | Darvas's full criteria, bucket zero, the funnel from 351→3–5 |
 
-Pradeep adapts this insight into a quantitative scan:
+---
+
+### 1. What Is Double Trouble?
+
+**Double Trouble** is a momentum method based on Nicolas Darvas's observation from his book *How I Made $2,000,000 In The Stock Market*:
+
+> Darvas would look through Barron's tables at the 52-week high and 52-week low columns. He was looking for a stock whose 52-week high was **double** the 52-week low. That told him the stock had something in it intrinsically — and had the potential to double again.
+
+Pradeep formalizes this insight into a quantitative scan. The threshold is **1.8x** (not 2.0x) because Darvas was willing to accept stocks within 20% of the doubling point — they didn't have to have literally doubled yet.
 
 | Attribute | Value |
 |---|---|
-| **Core condition** | Price is at least **1.8x** the 52-week low |
+| **Core condition** | Price is at least **1.8x** the 52-week low (i.e., up 80%+) |
 | **TC2000 formula** | `C / MINL252 >= 1.8` |
-| **Why 1.8, not 2.0?** | Darvas used "double" loosely; 1.8 captures strong momentum while still leaving room for the next leg |
+| **Why 1.8, not 2.0?** | Darvas accepted stocks within 20% of the doubling; room for the "box" |
 | **Core insight** | Stocks that have already moved significantly from their lows have **proven institutional interest** |
-| **Best used for** | Continuation setups, anticipation, swing trading |
+| **Best used for** | Position trading, longer-term holds (NOT swing trading) |
+| **Name meaning** | After doubling, the stock either **doubles again** or **gets into trouble** |
+
+> "Either it is going to double, or it is going to get into trouble. That is why the name double trouble came in."
 
 ---
 
-## 2. Why "Doubled from Low" Matters
+### 2. The Darvas Box — The Core Concept
 
-Darvas noticed that stocks making big moves often start from a **deep base** and then double before the public notices. The psychology:
+The entire DT methodology revolves around what Darvas called the **box**. This is the most important concept in the guide, and it's what differentiates DT from a simple momentum scan.
 
-- Stocks near 52-week lows are ignored or hated
-- Once they begin moving up, early accumulation happens quietly
-- By the time they've **doubled from the low**, the trend is visible but **not yet exhausted**
-- These stocks are now on radars but still have room to run
+#### What Is a Box?
 
-> "If a stock has gone from $10 to $20, it's already doubled. That tells you something is happening. But has it topped? Not necessarily. The next leg is what you want."
+After a stock doubles from its 52-week low, it doesn't go straight up forever. It **consolidates** near the high for days or weeks. This consolidation range is the "box."
 
-This is fundamentally a **confirmation of trend strength** — not a raw breakout signal.
-
----
-
-## 3. Building the Double Trouble Scan (TC2000)
-
-### Step 1: Create a Combo List (or EasyScan)
-
-| Tab | Condition | Purpose |
-|---|---|---|
-| **Universe** | US stocks + ADRs + ETFs | Broad coverage |
-| **Liquidity** | `MINV3.1 >= 100000` | Minimum 100K shares/day |
-| **Price** | `C >= 3` | Avoid sub-$3 penny stocks |
-| **DT Core** | `C / MINL252 >= 1.8` | **Has risen 80%+ from 52w low** |
-
-**Alternative formula (TC2000 EasyScan):**
 ```
-C >= 1.8 * MINL252
+Stock doubles from low → Forms a box (consolidation) → Breaks out of box → Next leg up
 ```
 
-Result with standard liquidity: ~400–800 stocks at any given time.
+**Real examples from the transcript:**
 
-### Step 2: Rank by DT Strength
-
-Create a **column** for the DT value:
-
-| Column Name | Formula | Display |
-|---|---|---|
-| `DT` | `C / MINL252` | Decimal value (e.g., 2.34 = up 134% from low) |
-
-Sort the list by DT in **ascending** or **descending** order depending on your goal:
-
-- **Descending** → find the stocks that have run the most (strongest relative to their lows)
-- **Ascending** → find stocks that have *just* crossed the 1.8 threshold (younger momentum)
-
----
-
-## 4. Three Ways to Use Double Trouble
-
-### 4.1 — Rank the Strongest Stocks (Momentum Leaders)
-
-This is the simplest use: find the stocks that have already proven they can move.
-
-1. Run the DT scan daily
-2. Sort by `DT` column descending
-3. Focus on the **top 50–100**
-4. Look for:
-   - Pullbacks to a rising MA (8-day, 21-day)
-   - Tight consolidation near highs
-   - Low-volume contraction before expansion
-
-> "If you're going to swing trade, you want to trade the strongest stocks. Double Trouble IS the list of the strongest stocks."
-
-### 4.2 — Anticipation Setups (Before the Breakout)
-
-This is Pradeep's primary use. The DT list becomes your **anticipation universe**.
-
-**Single-day anticipation scan from DT universe:**
-
-| Condition | Value | Purpose |
-|---|---|---|
-| DT universe | Base list | Already up 80%+ from low |
-| `AVGC7 / AVGC65 >= 1.05` | TI65 bullish | Has momentum |
-| `Price Percent Change Today` | Between `-0.4%` and `+0.4%` | Very narrow range = resting |
-| NC column | `ABS(C - C1)` near **0** | Flat day |
-
-Same logic as the TI65 anticipation scan, but now the **universe is filtered to Darvas-style momentum leaders**.
-
-### 4.3 — Continuation After First Breakout
-
-After a stock has already doubled from its low, the **first continuation setup** is often the safest and most profitable entry:
-
-- Stock breaks out on Day 1 (range expansion)
-- Pulls back for 3–10 days in low volume
-- The pullback holds above the breakout level or the rising 8-day MA
-- Entry: when it breaks out of the pullback
-
-These are "Two-Leg" momentum burst setups:
-
-| Phase | Description | TI65 State |
-|---|---|---|
-| **Leg 1** | Stock moves from low, doubles | TI65 crosses above 1.05 |
-| **Consolidation** | Flat/pullback for 3–10 days | TI65 stays > 1.05 |
-| **Leg 2** | Breakout from consolidation | TI65 rises further |
-
----
-
-## 5. Combining DT with Other Tools
-
-The DT method is **not a standalone system** — it is a **momentum universe** that feeds into other setups:
-
-| Tool | How It Combines with DT |
+| Stock | What Happened |
 |---|---|
-| **TI65** | Use the **DT list as the base universe** for TI65 anticipation scans |
-| **4% Breakout Scan** | The stocks that show up on 4% breakouts are often already on the DT list |
-| **EP (Episodic Pivot) Scan** | EP stocks frequently have strong DT values |
-| **Combination Scan** | Run breakouts and EPs, but **cross-reference against DT** — DT stocks have better follow-through |
+| **Rhythm (RTHM)** | Stock doubled, then showed on DT indicator. Formed a box, broke out, made a move. |
+| **TRVI** | Doubled from low, formed a Darvas box. When it broke out of the box, Darvas would buy. |
+| **Revlon** | Doubled, formed a box, then the stock went up from the box breakout. |
+
+#### Darvas's Buy and Sell Rules
+
+| Action | Rule |
+|---|---|
+| **Buy stop** | Place a **buy stop order 25¢–50¢ above the high of the box** |
+| **Stop loss** | Place at the **low of the box** |
+| **If stock breaks below box** | "It is no more a good stock and it is going to get into trouble" — exit |
+| **If stock breaks above box** | Hold for the next leg — it may double or triple from there |
+
+> "Darvas would put a buy stop limit order at 20¢ or 25¢ above this particular high point. If the order was executed, his stop used to be at the low of the box. His theory was that if the stock comes back and breaches the low of this box, then it is no more a good stock and it is going to get into trouble."
 
 ---
 
-## 6. Key Principles from the Guide
+### 3. The Full Darvas Criteria — Not Just Doubling
 
-### Principle 1: "Doubled from Low" = Trend Confirmation
-A stock that has doubled from its low has already passed a test: it survived selling pressure, built a base, and attracted buyers. It is no longer a "hope" stock.
+This is where most people misunderstand DT. Darvas didn't just look for stocks that doubled. He had **four additional criteria** that most traders skip:
 
-### Principle 2: The Best Entries Are After the First Breakout
+| # | Criterion | Why It Matters |
+|---|---|---|
+| **1** | **Near all-time high** | The stock must be making new highs, not just recovering from a crash |
+| **2** | **Infant industry** | New, rapidly growing sector (rocket fuel in the 1950s, contraceptives when new, biotech today) |
+| **3** | **Low capitalization** | Small-cap stocks have more room to multiply |
+| **4** | **Rapid sales/earnings growth** | The fundamental catalyst driving the move |
+| **5** | **Forming a box** | Must be consolidating near the high, not just running |
 
-the most reliable setup on a DT stock is the **first pullback** after the initial move. Stocks that have doubled and then rest are coiling for the next leg.
+> "He was not looking for any stock which doesn't have a catalyst. He was looking for a lot of things beside just the box."
 
-### Principle 3: DT + Volume Pattern
-When a DT stock consolidates, watch for:
-- **Declining volume during the consolidation** (contraction)
-- **Range expansion on the next breakout** (explosion)
+**Real examples of what Darvas would SKIP:**
 
-This volume-contraction-to-expansion pattern is a high-probability setup.
+| Stock | Why Skip |
+|---|---|
+| **Utility stocks (AMPS)** | Not an infant industry |
+| **Oil & gas (High Peak Energy)** | Not an infant industry, been around for decades |
+| **Shipping stocks (ASC)** | Not an infant industry, not near all-time high |
+| **Any stock not making all-time high** | Darvas only traded stocks breaking into new high ground |
 
-### Principle 4: Don't Chase the Extremes
-If a stock has a DT value of 5.0x (up 400% from low), the risk is higher. Pradeep prefers stocks in the **1.8–3.0x range** — they have momentum but are not yet parabolic.
-
----
-
-## 7. Darvas Context
-
-Nicolas Darvas, in his book *How I Made $2,000,000 In The Stock Market*, used the "box theory" but also paid attention to stocks that had risen significantly from their lows. He believed these stocks had "proven" themselves and were more likely to continue. Pradeep formalizes that intuition into a scan.
-
-> "Darvas didn't have TC2000. He did this by reading the newspaper and looking at stocks that had doubled. We can do it in two seconds with a scan."
+> "If you go through these 48 stocks which are meeting the definition of Darvas, you're going to find only probably four or five stocks. And that is what Darvas was doing, and that is why he was very selective."
 
 ---
 
-## 8. Scan Formula Summary (TC2000)
+### 4. Building the DT Scan (TC2000)
+
+#### Step 1: Create a Combo List
+
+| Setting | Value |
+|---|---|
+| **Name** | DT (Double Trouble) |
+| **Universe** | US stocks + ADRs |
+| **Liquidity** | `MINV3.1 >= 100,000` (100K shares/day last 3 days) |
+| **Price** | `C >= 3` (eliminate penny stocks) |
+| **Core condition** | `C / MINL252 >= 1.8` |
+
+Result: approximately **351 stocks** at any given time with standard liquidity.
+
+#### Step 2: Add the DT Column for Ranking
+
+| Column Name | Formula | Purpose |
+|---|---|---|
+| `DT` | `C / MINL252` | Shows how much the stock has risen from 52w low |
+
+Sort by DT to find:
+- **Descending** → stocks that have run the most (strongest)
+- **Ascending** → stocks that have just crossed 1.8 (youngest momentum)
+
+**Example:** A stock trading at $26 with a 52w low of $0.09 has a DT value of ~289 (extreme). A stock just crossing 1.8 has only risen 80%.
+
+> "The higher the value, the bigger the move. But you also find stocks like this one which has made a 697% move from its 52-week low."
+
+**Buyout warning:** Many extreme DT values are buyouts or acquisitions. Always visually verify.
+
+> "All of these stocks were, like, kind of, basically some sort of a buyout or things like that."
+
+---
+
+### 5. The Recommended Approach: Run on Bucket Zero
+
+Instead of running DT on all US stocks, Pradeep recommends running it on **Bucket Zero** stocks only.
+
+Bucket Zero is a pre-filtered universe with:
+- **IPO'd in the last 10 years** (young stocks — Darvas's "infant industry")
+- **Back-to-back quarters of 39%+ sales growth** (the fundamental catalyst)
+- **Market capitalization under $10 billion** (low cap — more room to grow)
+
+> "Instead of running this scan on a universe of stock, what you can do is you should run this scan on bucket zero. Bucket zero is a set of stocks which have two quarters back-to-back of sales growth of 39% plus, and they've IPO'd in the last ten years, which is what Darvas was looking for."
+
+By running DT on Bucket Zero, you automatically satisfy 3 of Darvas's 5 criteria (infant industry, low cap, sales growth). Then you only need to check:
+- Is the stock near all-time high?
+- Is it forming a good box?
+
+This narrows 351 stocks → **3–5 candidates**.
+
+---
+
+### 6. Chart Setup (TC2000)
+
+To visualize DT on a chart:
+
+1. **Left click chart** → Add Plot → Custom PCF True Indicator
+2. **Formula:** `C / MINL252 >= 1.8`
+3. **Style:** Area
+4. **Color:** Dark color (to distinguish from other indicators)
+5. **Name:** `DT`
+
+When the indicator shows, it highlights the exact date the stock crossed 80% above its 52-week low. From that point on, you look for the Darvas box formation.
+
+> "As soon as the stock goes up 80% from the 52-week low, you will see the stock showing up on your chart."
+
+---
+
+### 7. The 351 → 3–5 Funnel
+
+The power of DT combined with Darvas's criteria:
+
+| Step | Filter | Stocks Remaining |
+|---|---|---|
+| 1 | DT scan (C/MINL252 >= 1.8 + liquidity) | ~351 |
+| 2 | Run on Bucket Zero instead of all US stocks | ~48 |
+| 3 | Near all-time high? | ~10–15 |
+| 4 | Forming a good Darvas box? | ~3–5 |
+| 5 | Infant industry + sales growth catalyst? | **2–4** |
+
+> "Only stocks which are near all-time high is what he was looking for. If you use that logic, you're going to find very few stocks."
+
+> "In fact, the only stocks which you would be interested in is these three stocks — out of which you have to look at which one is forming a good box."
+
+---
+
+### 8. Market Phase Dependency
+
+Darvas explicitly stated his method works in **rising markets**:
+
+> "Darvas was very clearly saying that Darvas's method works in rising market. He was using his double trouble kind of a scan in situational awareness where the market was bullish."
+
+| Market Phase | DT Effectiveness |
+|---|---|
+| **Bullish / Rising** | Best — many stocks doubling from lows, forming boxes |
+| **Recovery from correction** | Good — beaten-down stocks turning up |
+| **Bearish / Downtrend** | Poor — stocks form boxes but break down instead of up |
+| **Choppy / Sideways** | Mixed — fewer reliable setups |
+
+---
+
+### 9. Who Is This For?
+
+> "This whole double trouble methodology is more suitable, not really for people who want to do swing trading. This is more suitable for people who want to do longer term holding or who are looking for position trading on stocks which have doubled, then they form a nice base, they also have some catalyst, and then from there, when they break out, they might make multi-month moves."
+
+> "I don't use it anymore, but I created this whole thing once I read the Darvas's method."
+
+| Trader Type | Recommended Use |
+|---|---|
+| **Position trader** | Best fit — hold for multi-month moves, buy box breakouts |
+| **Investor** | Good fit — use DT to find catalyst-driven stocks with momentum |
+| **Swing trader** | Less ideal — DT setups can take weeks to develop |
+| **Day trader** | Not recommended — time horizon mismatch |
+
+---
+
+### 10. Key Principles
+
+#### Principle 1: "Doubled from Low" = Trend Confirmation
+A stock that has doubled from its 52-week low has survived selling pressure, built a base, and attracted buyers. It is no longer a "hope" stock.
+
+#### Principle 2: The Box Is Everything
+Finding a stock that doubled is only step 1. The box (consolidation near the high) is where the real trade is. No box = no trade.
+
+#### Principle 3: Buy Above the Box, Stop Below the Box
+- Buy stop: 25¢–50¢ above the high of the box
+- Stop loss: at the low of the box
+- If the stock breaks below the box, it's in trouble — exit
+
+#### Principle 4: Catalyst Matters
+Darvas didn't trade random doubles. He wanted **infant industries** with **rapid sales growth**. The fundamental catalyst gives the move staying power.
+
+#### Principle 5: Selectivity Is Key
+From 351 DT stocks → 48 on Bucket Zero → 3–5 meeting all Darvas criteria. The power is in the filtering, not the scan.
+
+#### Principle 6: Rising Markets Only
+DT works best in bull markets. In bear markets, boxes break down instead of up.
+
+---
+
+### 11. Scan Formula Summary (TC2000)
 
 | Purpose | Formula |
 |---|---|
-| **Double Trouble core** | `C / MINL252 >= 1.8` |
-| **Double Trouble column** | `C / MINL252` |
+| **DT core scan** | `C / MINL252 >= 1.8` |
+| **DT value column** | `C / MINL252` |
 | **Liquidity filter** | `MINV3.1 >= 100000` |
 | **Price filter** | `C >= 3` |
-| **DT + TI65 bullish** | `C / MINL252 >= 1.8` + `AVGC7 / AVGC65 >= 1.05` |
-| **DT anticipation** | `C / MINL252 >= 1.8` + `Price Percent Change Today` between `-0.4` and `+0.4` |
-| **DT + narrow range** | `C / MINL252 >= 1.8` + `ABS(C - C1) <= (H - L) * 0.3` |
+| **Chart indicator** | `C / MINL252 >= 1.8` (area, dark color) |
+
+**Recommended:** Run DT on **Bucket Zero** (IPO'd last 10 years + 39%+ sales growth + market cap < $10B) instead of all US stocks.
 
 ---
 
-## 9. Who Is This For?
-
-| Skill Level | Best Use |
-|---|---|
-| **Beginner** | Run the scan daily and just **look at the top 25** to understand which stocks are strong |
-| **Intermediate** | Combine DT with TI65 for **anticipation scans** |
-| **Advanced** | Use DT as a **base universe** for all breakout/continuation setups; filter further with volume, float, or catalyst data |
-
----
-
-## 10. Relationship to Other Guides
+### 12. Relationship to Other Guides
 
 | Guide | Relationship |
 |---|---|
-| [[01.How to Get Started\|Getting Started]] | DT is a **momentum layer** you add once you understand the basics |
-| [[02. How to Trade Breakouts Guide\|Breakouts]] | DT stocks often produce the **best breakout setups** |
-| [[03. Bullish Momentum Burst Guide\|Bullish Momentum Burst]] | DT + momentum burst = **continuation after the first leg** |
-| [[04. TI65 Guide\|TI65]] | Use **DT list as the TI65 universe** for rank and anticipation |
+| [[../../04. TI65 Guide/TI65 Guide|TI65]] | Use the DT list as the **base universe** for TI65 anticipation scans — DT confirms the stock has proven strength; TI65 confirms the trend velocity |
+| [[../../05. M20 Guide/M20 Guide|M20]] | M20 catches stocks **turning** from bottoms; DT confirms they have **already doubled** from those bottoms |
+| [[../../03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 1|BMB Section 1]] | DT stocks that form a box and break out are classic momentum burst setups — the box is the consolidation, the breakout is the burst |
+| [[../../03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 2|BMB Section 2]] | A DT stock breaking out of its box with a 4% move and Two-Lynch setup is a high-probability trade |
 
 ---
 
-## Bottom Line
+### Key Takeaways
 
-Double Trouble is a **momentum filter**: it answers the question "which stocks have already proven they can move?" By restricting your trading universe to stocks that have doubled from their 52-week lows, you tilt the odds in your favor. Combined with TI65, anticipation scans, and volume analysis, DT becomes a core pillar of a momentum-based trading system.
+1. **DT finds stocks that have doubled from their 52-week low** — they have proven institutional interest
+2. **The Darvas box is the core concept** — a stock doubles, consolidates near the high (the box), then breaks out
+3. **Buy above the box, stop below the box** — 25¢ above the high for entry, low of the box for stop loss
+4. **The name "Double Trouble"** — after doubling, either the stock doubles again or it gets into trouble
+5. **Darvas had 5 criteria, not just 1** — near all-time high, infant industry, low cap, sales growth, AND a box
+6. **Run DT on Bucket Zero** — automatically satisfies infant industry, low cap, and sales growth criteria
+7. **The funnel goes from 351 → 3–5 stocks** — selectivity is the power
+8. **Works best in rising markets** — Darvas explicitly stated this
+9. **Position trading, not swing trading** — holds are multi-week to multi-month
+10. **Pradeep doesn't use it anymore** — but it's in the toolkit for those who want Darvas-style position trading
 
 ---
 
-## Full Transcripts
+### Cross-References
 
-See:
-- [[../../transcripts/Pradeep Bonde - DT Guide-Part 1_deepgram|Part 1]]
-- [[../../transcripts/Pradeep Bonde - DT Guide-Part 2_deepgram|Part 2]]
-- [[../../transcripts/Pradeep Bonde - DT Guide-Part 3_deepgram|Part 3]]
-- [[../../transcripts/Pradeep Bonde - DT Guide-Part 4_deepgram|Part 4]]
+- [[../../transcripts/06. DT/Pradeep Bonde - DT Guide-Part 1_deepgram|Part 1 Transcript]]
+- [[../../transcripts/06. DT/Pradeep Bonde - DT Guide-Part 2_deepgram|Part 2 Transcript]]
+- [[../../transcripts/06. DT/Pradeep Bonde - DT Guide-Part 3_deepgram|Part 3 Transcript]]
+- [[../../transcripts/06. DT/Pradeep Bonde - DT Guide-Part 4_deepgram|Part 4 Transcript]]
+- [[../../04. TI65 Guide/TI65 Guide|TI65 Guide]]
+- [[../../05. M20 Guide/M20 Guide|M20 Guide]]
+- [[../../03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 1|BMB Section 1]]
+
+---
+
+### Key Quotes
+
+> "Either it is going to double, or it is going to get into trouble. That is why the name double trouble came in."
+
+> "He was not looking for any stock which doesn't have a catalyst. He was looking for a lot of things beside just the box."
+
+> "If you go through these 48 stocks which are meeting the definition of Darvas, you're going to find only probably four or five stocks. And that is what Darvas was doing, and that is why he was very selective."
+
+> "This whole double trouble methodology is more suitable for people who want to do longer term holding or who are looking for position trading."
+
+> "I don't use it anymore, but I created this whole thing once I read the Darvas's method."
+
+> "Darvas was very clearly saying that Darvas's method works in rising market."
