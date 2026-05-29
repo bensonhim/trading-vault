@@ -11,39 +11,54 @@ language: en
 backend: deepgram
 date: 2026-05-29
 tags:
-- momentum
-- anchored-momentum
-- M20
-- momentum-20
-- anticipation
-- continuation-setup
-- pullback
-- weak-structure-short
-- waterfall-decline
-- bottom-bounce
-- market-correction
-- scan-setup
-- TC2000
-- combo-list
-- pradeep-bonde
-- stockbee
+  - momentum
+  - anchored-momentum
+  - M20
+  - momentum-20
+  - anticipation
+  - continuation-setup
+  - pullback
+  - weak-structure-short
+  - waterfall-decline
+  - bottom-bounce
+  - market-correction
+  - scan-setup
+  - TC2000
+  - combo-list
+  - net-change
+  - NC-trick
+  - pradeep-bonde
+  - stockbee
 ---
 
 # M20 Guide — Anchored Momentum Indicator (Momentum 20)
 
 > **M20** is an **anchored momentum indicator** designed to find stocks the moment they change direction. It calculates momentum not from a fixed lookback, but from a **30-day anchored low (or high)** — making it ideal for catching trend changes early, especially after market corrections.
-> 
-> **Series:** 6 parts (Concept → Scan Formulas → Chart Setup → Step-by-Step Use → Anticipation Trick → Short Side)
 
 ---
 
-## 1. What Is M20?
+## Series Overview
+
+| Part | Theme | Key Question Answered |
+|---|---|---|
+| **Part 1** | What Is M20? | Concept, anchored momentum, red light/green light metaphor |
+| **Part 2** | Scan Formulas | Bullish & bearish TC2000 formulas, 20% vs. $20 triggers |
+| **Part 3** | Chart Setup | Red/green histogram in TC2000 |
+| **Part 4** | Step-by-Step Use | Anticipation workflow, watchlist creation |
+| **Part 5** | NC Trick | Sort by net change to find flat-day setups quickly |
+| **Part 6** | Short Side | Weak structure shorts, waterfall decline + weak bounce pattern |
+
+---
+
+### 1. What Is M20?
 
 M20 (Momentum 20) is an **absolute momentum indicator** that measures a stock's move from its **30-day extreme** — either the lowest close (for bullish) or highest close (for bearish).
 
+Unlike TI65 (which measures how fast a stock is trending), M20 answers a different question: **"Has this stock just changed direction?"**
+
 | Attribute | Value |
 |---|---|
-| **Core idea** | Find stocks immediately after they change direction |
+| **Core idea** | Find stocks **immediately** after they change direction |
 | **Bullish trigger** | Stock up **20%** or **$20** from the **30-day minimum close** |
 | **Bearish trigger** | Stock down **20%** or **$20** from the **30-day maximum close** |
 | **Why "anchored"** | The reference point is the **last 30 days' low or high** — not a fixed MA |
@@ -54,7 +69,7 @@ M20 (Momentum 20) is an **absolute momentum indicator** that measures a stock's 
 
 ---
 
-## 2. Why Anchored Momentum Is Different
+### 2. Why Anchored Momentum Is Different
 
 Most momentum indicators (like TI65) use fixed-period moving averages. M20 uses a **floating anchor** — the lowest (or highest) close of the last 30 days.
 
@@ -64,21 +79,24 @@ Most momentum indicators (like TI65) use fixed-period moving averages. M20 uses 
 | **What it measures** | Trend velocity vs. past average | Change from recent extreme |
 | **Best for** | Stocks already trending | Stocks **just turning** from bottom or top |
 | **Market phase** | All phases | Especially after corrections |
-| **Signal speed** | Lagging (momentum already established) | Leading (catches turns immediately) |
+| **Signal speed** | Lagging (momentum already established) | **Leading** (catches turns immediately) |
+| **What it tells you** | How fast the trend is | **When** the trend started |
 
-> "The advantage of M20 is it finds trends very early. Other momentum indicators will catch it 5–10 days later."
+**The key advantage:** M20 finds trend changes faster than any other indicator. When a stock has been going down for weeks and suddenly turns, M20 fires immediately. TI65 takes 5–10 more days to confirm.
+
+> "The advantage of M20 is you're going to find quickly a change in trend as against other momentum indicators."
 
 ---
 
-## 3. The Formulas (TC2000)
+### 3. The Formulas (TC2000)
 
-### Bullish M20 Scan
+#### Bullish M20 Scan
 
 ```
 C >= 1.2 * MINC30
 ```
 
-Or equivalently:
+Or for high-priced stocks:
 
 ```
 C >= MINC30 + 20
@@ -86,13 +104,13 @@ C >= MINC30 + 20
 
 **Meaning:** Price is at least 20% above (or $20 above) the lowest closing price in the last 30 days.
 
-### Bearish M20 Scan
+#### Bearish M20 Scan
 
 ```
 C <= 0.8 * MAXC30
 ```
 
-Or equivalently:
+Or for high-priced stocks:
 
 ```
 C <= MAXC30 - 20
@@ -100,7 +118,16 @@ C <= MAXC30 - 20
 
 **Meaning:** Price is at least 20% below (or $20 below) the highest closing price in the last 30 days.
 
-### Base Liquidity Filters
+#### Why Two Triggers (20% and $20)?
+
+| Price Range | Best Trigger | Why |
+|---|---|---|
+| **Under $100** | 20% (`C >= 1.2 * MINC30`) | A $5 stock up 20% = $1 move — meaningful |
+| **Over $100** | $20 (`C >= MINC30 + 20`) | A $500 stock up 20% = $100 move — too extreme; $20 is more appropriate |
+
+**Example:** AutoZone at $2,500. It only needs to go up $20 (less than 1%) to trigger M20. This is why high-priced stocks show up quickly in the **$20 version**.
+
+#### Base Liquidity Filters
 
 | Condition | Value | Purpose |
 |---|---|---|
@@ -108,188 +135,282 @@ C <= MAXC30 - 20
 | Price | `C >= 3` | Eliminate penny stocks |
 | Volume | `MINV3.1 >= 100000` | Minimum liquidity |
 
-**Note:** The `$20` version is preferred for **high-priced stocks** (e.g., AutoZone, Tesla, Berkshire) because 20% of a $500 stock is $100 — too large a move. The `$20` version captures these quickly.
+---
+
+### 4. Chart Setup (Visual Indicator)
+
+M20 is displayed as a **red/green histogram** on the price chart — like a traffic light:
+
+- **Green histogram above zero** = Bullish momentum (price at least 20% above 30-day low)
+- **Red histogram below zero** = Bearish momentum (price at least 20% below 30-day high)
+- **No histogram** = Neutral (price between 20% above low and 20% below high)
+
+#### Step-by-Step TC2000 Setup
+
+1. **Bearish formula (red histogram):**
+   - Left click chart → Add Plot → Custom PCF True Indicator
+   - Formula: `C <= 0.8 * MAXC30`
+   - Color: **Red**, Style: **Histogram**
+   - Name: `M20 bearish`
+
+2. **Bullish formula (green histogram):** — add another plot
+   - Formula: `C >= 1.2 * MINC30`
+   - Color: **Green**, Style: **Histogram**
+   - Name: `M20 bullish`
+
+3. **Overlay both** onto the same panel (use arrow overlay button)
+
+**Example — Coherence (CRBH):** Stock was going down, down, down. Then M20 turned green — the moment buying came in. After the green bar, you look for an orderly pullback and enter.
+
+**Example — ChargePoint (CHPT):** Stock going down, then M20 turns green. This is where momentum turned positive. The stock sets up and you find an anticipation entry.
+
+**Example — DraftKings (DKNG):** In a downtrend. M20 shows the exact day the momentum turned positive.
+
+**Example — Riot Blockchain (RIOT):** Deep downtrend, then M20 turns positive — a potential bottom bounce entry.
 
 ---
 
-## 4. Chart Setup (Visual Indicator)
-
-M20 is displayed as a **red/green histogram** on the price chart:
-
-- **Green histogram** above zero = bullish momentum (price at least 20% above 30-day low)
-- **Red histogram** below zero = bearish momentum (price at least 20% below 30-day high)
-
-### How to Add in TC2000
-
-1. **Left click** on the chart → **Add Plot** → **Custom PCF True Indicator**
-
-2. **Bearish formula (make red histogram):**
-   ```
-   C <= 0.8 * MAXC30
-   ```
-   - Set color: **Red**
-   - Style: **Histogram**
-
-3. **Bullish formula (make green histogram):** — add another plot, overlay on same panel
-   ```
-   C >= 1.2 * MINC30
-   ```
-   - Set color: **Green**
-   - Style: **Histogram**
-
-4. **Overlay both** onto the same panel to create the red/green histogram effect
-
-> "When the momentum was negative, it shows red. When momentum turned positive here, it indicates momentum has turned positive. And then you can find the stock when it is setting up."
-
----
-
-## 5. Primary Use: Anticipation Setups
+### 5. Primary Use: Anticipation Setups
 
 The main purpose of M20 is **anticipation** — not chasing breakouts, but finding stocks that have just turned and are resting before the next move.
 
-### Step-by-Step Workflow (Bullish Side)
+#### Step-by-Step Workflow (Bullish Side)
 
-1. **Create the M20 bullish scan** as a Combo List
-2. **Run it daily** (or 2–3 hours before market close)
-3. **Add the NC column**:
+1. **Create the M20 bullish scan** as a Combo List (~244 stocks typically)
 
-| Column | Formula | Purpose |
-|---|---|---|
-| `NC` | `ABS(C - C1)` | Net Change — how much price moved today |
+2. **Add the NC column:**
+   | Column | Formula | Purpose |
+   |---|---|---|
+   | `NC` | `ABS(C - C1)` | Net Change — how much price moved today |
 
-4. **Sort by NC ascending** (lowest first)
-5. **Look for stocks with NC ≈ 0** (flat day)
-6. **Review charts for:**
+3. **Sort by NC ascending** (lowest first)
+
+4. **Review charts for:**
    - A stock that was going down
-   - Then momentum turned positive (first green bar)
+   - M20 turned green (first green bar = momentum change)
    - Now resting / flat with low NC (orderly pullback, bull flag)
+   - Forming a consolidation pattern
 
-7. **Enter in anticipation before the next breakout**
+5. **Flag candidates, create watchlist**
+
+6. **Enter in anticipation** before the next breakout
+
+**Real examples found by Pradeep:**
+
+| Stock | Pattern | Action |
+|---|---|---|
+| **CHRS** | Going down → M20 turns green → orderly pullback | Anticipation entry |
+| **PROS** | First leg up → going sideways | Watchlist for breakout |
+| **BCTX** | M20 momentum established → going sideways | Watchlist |
+| **Aurora Sur** | M20 momentum → minor pullback | Watchlist |
+| **DHX** | Big buying came in → orderly pullback | Watchlist |
+| **Tesla** | Buying came in → going sideways | Watchlist |
 
 > "The primary use of M20 is to find anticipation setups which have had the first leg up, and they are forming a very orderly thing."
 
+> "You don't want a stock which is breaking out today. You want a stock which had the first leg, and now it's going sideways."
+
 ---
 
-## 6. The NC Trick — Prioritizing Flat Stocks
+### 6. The NC Trick — Prioritizing Flat Stocks
 
-The **NC trick** is a simple but powerful filter:
+The **NC trick** is the most important time-saving technique for M20:
 
 | NC Value | Interpretation | Action |
 |---|---|---|
-| **0.00 – 0.50** | Very flat day — stock is resting after first leg | **Top candidates** |
+| **0.00 – 0.50** | Very flat day — stock is resting after first leg | **Top candidates** — prioritize these |
 | **0.50 – 1.50** | Small move — still acceptable | Review chart pattern |
 | **> 2.00** | Significant move — likely extended or volatile | Usually skip |
 
+Add `NC = ABS(C - C1)` as a column, sort ascending. The stocks with NC near 0 are the ones setting up for a move — they had their first leg, now they're resting.
+
+**Buyout warning:** Stocks that are flat because of an acquisition (buyout) will also have NC ≈ 0. Always visually dismiss buyouts from your scan results.
+
 > "Lower the NC value, the better the anticipation setup. Once NC increases, these are not — most of the time — good stocks."
 
-### Example Workflow with NC
+> "It makes your job very quick because once the NC increases, they are not good stocks."
 
-```
-1. Run M20 bullish scan
-2. Add column: NC = ABS(C - C1)
-3. Sort by NC ascending
-4. Go through top 10–20 stocks
-5. Look for charts showing:
-   - First leg up (green M20 bar appears)
-   - Then flat / slightly down day (NC ≈ 0)
-   - Forming a tight consolidation or bull flag
-6. Add to watch list
-```
+#### Timing Your Scan
 
-> "If you run this at 2:00 or 3:00 during the day, you can create a watch list and enter some in anticipation before the close."
+| When | Action |
+|---|---|
+| **During the day (2:00–3:00 PM)** | Best — you can enter before the close |
+| **At night** | Good — prepare watchlist for next morning |
+| **Morning only** | Acceptable but less ideal — some setups will have already moved |
+
+> "If you have the time, the best way to use M20 is during the day at around 2:00 or 3:00 and create a watch list. And if some of them you can enter in anticipation of a breakout."
 
 ---
 
-## 7. Short Side: Weak Structure Shorts
+### 7. Short Side: Weak Structure Shorts
 
-M20 bearish works just as well for **shorting**:
+M20 bearish works just as well for **shorting** — finding stocks that topped out and are now declining.
+
+#### Step-by-Step Workflow (Bearish Side)
 
 1. Create M20 **bearish** Combo List
-2. Sort by **positive NC** (or dollar change / percentage change ascending)
-3. Look for:
-   - **Waterfall decline** (3–4 down days in a row)
-   - Then a **weak bounce** (< 2–2.5%)
+2. Sort by **positive NC** or dollar/percentage change (ascending)
+3. Look for the **waterfall decline + weak bounce** pattern:
+   - **3–4 consecutive down days** (waterfall decline)
+   - Then a **weak bounce**: less than 2–2.5%
    - This is the first leg down, now resting before the next drop
+4. Add to watchlist as a **weak structure short candidate**
+5. If the bounce fails and the stock starts going down again → **enter short**
 
-4. Add to watch list as a **weak structure short candidate**
-
-> "You want a stock which had a waterfall decline, and which is having a weak bounce. If that bounce fails, that's a short."
-
-> "Four days in a row the stock is down. This is a weak bounce of 1.53%. So it goes into your watch list."
-
-### Waterfall Decline + Weak Bounce Pattern
+#### Waterfall Decline + Weak Bounce Pattern
 
 | Phase | Chart | Action |
 |---|---|---|
-| **Waterfall** | 3–4 consecutive down days, high volume | M20 turns red |
-| **Weak bounce** | 1–2 up days, < 2–2.5% gain, low volume | Add to watch list |
+| **Waterfall** | 3–4 consecutive down days, high volume | M20 turns red — stock enters bearish zone |
+| **Weak bounce** | 1–2 up days, < 2–2.5% gain, low volume | Add to short watchlist |
 | **Failure** | Next day back down, breaks bounce low | **Enter short** |
+
+**Real examples found by Pradeep:**
+
+| Stock | Pattern | Bounce | Action |
+|---|---|---|---|
+| **Cintas** | 4-day waterfall decline | 1.45% weak bounce | Short watchlist |
+| **MCK** | Waterfall decline | 1.53% weak bounce | Short watchlist |
+| *(other candidates)* | 3-4 down days | 0.28% bounce | Short watchlist |
+| *(other candidates)* | Waterfall decline | 0.11% bounce | Short watchlist |
+
+> "You want a stock which had a waterfall decline, and which is having a weak bounce. If that bounce fails, that's a short."
+
+> "Four days in a row the stock is down. This is a weak bounce of 1.53%. So it goes into your watchlist."
+
+**Market dependency:** When the market is bearish, you find many more short candidates. When bullish, you find more long candidates. M20 adapts to whichever direction the market is trending.
+
+> "You're going to see a lot of these stocks which are waterfall declines when it is a bearish market."
 
 ---
 
-## 8. Key Principles
+### 8. M20 vs. TI65: Complementary Tools
 
-### Principle 1: "Young Trend"
-M20 finds stocks that have **just changed direction**. The momentum arc is young — there's room for a second leg.
+| | M20 | TI65 |
+|---|---|---|
+| **Finds** | When a trend **starts** | How **fast** a trend is moving |
+| **Best for** | Post-correction turnarounds | Established trends |
+| **Signal** | Green/red light (on/off) | Velocity number (1.05, 1.50, 2.0) |
+| **Primary use** | Anticipation entries | Ranking, continuation setups |
+| **Market phase** | Best after corrections | All phases |
 
-### Principle 2: Market Phase Matters
-M20 is **especially powerful** after a market correction:
-- Scans find hundreds of stocks turning from bottom
-- Many of these have been beaten down and are now bouncing
-- Other momentum methods miss these because they're anchored to old highs
+**How to use them together:**
+1. **M20** tells you a stock has turned — momentum changed direction
+2. **TI65** tells you how fast it's now moving — 1.05 (gentle) vs. 1.82 (very fast)
+3. Use M20 to find the turn, then TI65 to gauge the strength
+
+---
+
+### 9. Market Phase Matters
+
+M20's power is **context-dependent**:
+
+| Market Phase | M20 Finds | Action |
+|---|---|---|
+| **Coming out of correction** | HUNDREDS of stocks turning from bottom | Best time to use M20 — load up on anticipation setups |
+| **Steady uptrend** | Fewer bottoming stocks, mostly continuation setups | Still useful but fewer candidates |
+| **Downtrend/bearish** | Many short candidates on bearish side | Use M20 bearish for weak structure shorts |
+| **Choppy/sideways** | Mixed signals, less reliable | Be more selective, focus on highest-conviction setups |
 
 > "If you run it when the market is coming out of a correction, it's going to find you a lot of stocks which have been beaten down and they turn."
 
-### Principle 3: Dual Purpose
-Unlike some scans that only work on one side:
+> "If the market is not really bullish, like currently when I'm doing this video, the market is in a downtrend — then you want to wait, or you don't want to take trades like this."
+
+---
+
+### 10. Key Principles
+
+#### Principle 1: Young Trend
+M20 finds stocks that have **just changed direction**. The momentum arc is young — there's room for a second leg.
+
+> "What M20 is doing is finding a very young trend because we anchored it to either a high or low. That is the benefit of M20."
+
+#### Principle 2: Anticipation, Not Breakouts
+M20's value is not catching today's breakout — it's finding stocks **before** they break out:
+
+> "You want to find a stock which is not really breaking out today. You want a stock which had the first leg, and now it's going sideways."
+
+#### Principle 3: Dual Purpose (Long and Short)
 | Side | M20 Signal | Strategy |
 |---|---|---|
 | **Bullish** | M20 turns green after bottom | Buy anticipation / continuation |
 | **Bearish** | M20 turns red after top | Short weak structure |
 
-### Principle 4: Anticipation, Not Breakouts
-M20's value is **not breakouts** — it helps you find stocks *before* they break out:
-> "You don't want a stock which is breaking out today. You want a stock which had the first leg, and now it's going sideways."
+#### Principle 4: First Entry After Momentum Change
+The first pullback or continuation setup after M20 triggers is the best entry. This is when the trend is youngest and has the most room to run.
 
 ---
 
-## 9. Relationship to Other Guides
+### 11. Key Formulas Summary (TC2000)
 
-| Guide | How They Connect |
+| Purpose | Formula |
 |---|---|
-| [[01.How to Get Started\|Getting Started]] | Understand what "anticipation" and "continuation" mean |
-| [[02. How to Trade Breakouts Guide\|Breakouts]] | M20 finds the stocks for the *next* breakout, not the first |
-| [[03. Bullish Momentum Burst Guide\|Momentum Burst]] | M20 signals are often followed by a momentum burst after the anticipation entry |
-| [[04. TI65 Guide\|TI65]] | TI65 measures trend velocity; M20 measures turning points. Use M20 to find the turn, TI65 to gauge the trend strength |
-| [[05. DT Guide\|DT Guide]] | DT finds stocks up 80%+ from 52w low. M20 finds stocks up 20% from 30d low. M20 catches the turn earlier; DT confirms the larger trend |
+| Bullish M20 (percentage) | `C >= 1.2 * MINC30` |
+| Bullish M20 (dollar) | `C >= MINC30 + 20` |
+| Bearish M20 (percentage) | `C <= 0.8 * MAXC30` |
+| Bearish M20 (dollar) | `C <= MAXC30 - 20` |
+| Liquidity filter | `MINV3.1 >= 100000` |
+| Price filter | `C >= 3` |
+| Net Change (NC trick) | `ABS(C - C1)` — sort ascending for flat-day candidates |
+| Chart: bullish histogram | `C >= 1.2 * MINC30` (green, histogram) |
+| Chart: bearish histogram | `C <= 0.8 * MAXC30` (red, histogram) |
 
 ---
 
-## 10. Practical Tips
+### 12. Practical Tips
 
 | Tip | Why |
 |---|---|
-| Run M20 at **2:00–3:00 PM** | Gives you time to create a watch list before market close |
+| Run M20 at **2:00–3:00 PM** | Gives you time to create a watchlist before market close |
 | Use both **M20 bullish + bearish** daily | Be ready for trend changes in either direction |
-| Combine M20 with **volume analysis** | Volume contraction on the pullback = higher probability |
-| Don't take anticipation setups in a **downtrend** market | "If the market is in a downtrend, you want to wait" |
+| Sort by **NC ascending** on bullish side | Flat-day stocks = best anticipation candidates |
+| Sort by **positive % change ascending** on bearish side | Weak bounces = best short candidates |
+| **Dismiss buyouts** from NC ≈ 0 results | Flat acquisitions inflate NC but aren't real setups |
+| Don't take anticipation setups in a **downtrend** market | Wait for bullish market phase for long setups |
 | Prioritize stocks with **NC < 0.50** | These are the most orderly and likely to continue |
-| For **shorts**, look for **3–4 down days + < 2.5% bounce** | This is the classic weak structure short |
+| For **shorts**, look for **3–4 down days + < 2.5% bounce** | Classic weak structure short pattern |
+| Pair M20 with **TI65** | M20 finds the turn, TI65 confirms the trend strength |
+| Use **$20 trigger** for stocks over $100 | 20% of a $500 stock is $100 — too extreme for percentage trigger |
 
 ---
 
-## Bottom Line
+### Key Takeaways
 
-M20 is an **early detection system** for trend changes. Anchored to the last 30 days' extreme, it finds stocks the moment they recover (or start breaking down). Combined with the NC trick for prioritization and the anticipation framework, M20 is a core tool for catching young trends — both long and short — before the broader momentum crowd arrives.
+1. **M20 is an early detection system** — it finds stocks the moment they change direction, faster than any other indicator
+2. **Anchored to 30-day extremes** — not a fixed MA; recalculates daily
+3. **Best after market corrections** — hundreds of stocks turn from bottoms simultaneously
+4. **NC trick is the most practical workflow** — sort by net change ascending to find flat-day setups in under 15 minutes
+5. **Anticipation, not breakouts** — M20 finds stocks resting after the first leg, before the next move
+6. **Weak structure shorts on the bearish side** — waterfall decline + weak bounce (< 2.5%) = short candidate
+7. **Complementary with TI65** — M20 tells you when; TI65 tells you how fast
+8. **Market phase dependency** — bullish market = long setups; bearish market = short setups; don't fight the tide
 
 ---
 
-## Full Transcripts
+### Cross-References
 
-See:
-- [[../../transcripts/Pradeep Bonde - M20 Guide-Part 1_deepgram|Part 1 — Introduction]]
-- [[../../transcripts/Pradeep Bonde - M20 Guide-Part 2_deepgram|Part 2 — Scan Setup]]
-- [[../../transcripts/Pradeep Bonde - M20 Guide-Part 3_deepgram|Part 3 — Chart Setup]]
-- [[../../transcripts/Pradeep Bonde - M20 Guide-Part 4_deepgram|Part 4 — Step-by-Step Use]]
-- [[../../transcripts/Pradeep Bonde - M20 Guide-Part 5_deepgram|Part 5 — Anticipation Trick (NC)]]
-- [[../../transcripts/Pradeep Bonde - M20 Guide-Part 6_deepgram|Part 6 — Short Side (Weak Structure)]]
+- [[../../transcripts/05. M20/Pradeep Bonde - M20 Guide-Part 1_deepgram|Part 1 Transcript]]
+- [[../../transcripts/05. M20/Pradeep Bonde - M20 Guide-Part 2_deepgram|Part 2 Transcript]]
+- [[../../transcripts/05. M20/Pradeep Bonde - M20 Guide-Part 3_deepgram|Part 3 Transcript]]
+- [[../../transcripts/05. M20/Pradeep Bonde - M20 Guide-Part 4_deepgram|Part 4 Transcript]]
+- [[../../transcripts/05. M20/Pradeep Bonde - M20 Guide-Part 5_deepgram|Part 5 Transcript]]
+- [[../../transcripts/05. M20/Pradeep Bonde - M20 Guide-Part 6_deepgram|Part 6 Transcript]]
+- [[../../04. TI65 Guide/TI65 Guide|TI65 Guide]] — M20 finds the turn, TI65 confirms the trend strength
+- [[../../03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 1|BMB Section 1: Momentum Burst Definition]]
+- [[../../03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 5|BMB Section 5: Win Rate & Market Phase]]
+
+---
+
+### Key Quotes
+
+> "M20 is like a red light / green light — it tells you when you should go long, when to look for a continuation setup, and when to look for a short trade."
+
+> "The advantage of M20 is it finds trends very early. Other momentum indicators will catch it 5–10 days later."
+
+> "The primary use of M20 is to find anticipation setups which have had the first leg up, and they are forming a very orderly thing."
+
+> "You don't want a stock which is breaking out today. You want a stock which had the first leg, and now it's going sideways."
+
+> "Lower the NC value, the better the anticipation setup. Once NC increases, these are not — most of the time — good stocks."
+
+> "You want a stock which had a waterfall decline, and which is having a weak bounce. If that bounce fails, that's a short."
