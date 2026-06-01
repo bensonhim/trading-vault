@@ -20,8 +20,20 @@ tags:
 
 ## Summary
 
-- **Market **Condition****: What you're looking for is a stock which has established the first leg and then having a longer **consolidation** of one, two, or three months ... *The video says:* "What you're looking for is a stock which has established the first leg and then having a longer **consolidation** of one, two, or three months or sometimes even more. And, then from that **consolidation** it is going to break out. Now, here in this particular case on a weekly, you see that the stock had a **long** **consolidation** and from..."
-- **Requirement**: So, in **order** to do that you need to approach this anticipation very differently. In that case what you will have to do is first ... *The video says:* "So, in **order** to do that you need to approach this anticipation very differently. In that case what you will have to do is first you need to have this kind of a list, like say you have a DTL list, right? Now, in **order** to do this on MDT, what you need to do is you just need to..."
+Part 12 covers the position-trading variant of anticipation — using weekly charts and MDT/MDT25/MDT50 for multi-month holds. Key points:
+
+- **Two durations of anticipation**: Short-term swing trades (8–40% moves, 3–5 days) OR position trades (multi-month holds, 40–100%+ moves)
+- **For position trading**: Use MDT, MDT25, MDT50, or DT (Darvas-style, 80% above 52-week low) as the momentum base
+- **MDT scan setup**: liquidity = true, price >$3, C/AVGC126 > 1.18; or rank top 300–400 by MDT25/MDT50
+- **Switch to weekly charts**: "I wouldn't suggest monthly. Weekly is much better if you're going to find longer term positions"
+- **Look for**: First leg with strong buying volume → 4–10+ week sideways consolidation → volume drying up during consolidation
+- **Verify on daily chart**: If weekly looks good but daily doesn't, remove it
+- **This is a watchlist approach** (not same-day 3:58 PM entry): Set price alerts and wait for breakout from multi-week bases
+- **Darvas parallel**: "Darvas used to have a watch list of only three to five stocks. And from that, he used to operate."
+- **Consolidation length determines hold duration**: 2–3 month base = multi-month move; 3–4 day base = swing trade
+- **Strong buying in first leg is critical**: "If there is very weak buying, that tells you it's not a very attractive candidate"
+
+See curated note: [[../../Pradeep Bonde/08. Anticipation (ANTS) Guide/Anticipation (ANTS) Guide|ANTS Guide]]
 
 ## Full Transcript
 

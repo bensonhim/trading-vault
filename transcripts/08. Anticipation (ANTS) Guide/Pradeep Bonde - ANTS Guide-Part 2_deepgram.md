@@ -20,8 +20,18 @@ tags:
 
 ## Summary
 
-- **Requirement**: So in **order** to understand this particular section of the guide, what you need to understand is the section in which I showed you how ... *The video says:* "So in **order** to understand this particular section of the guide, what you need to understand is the section in which I showed you how to build **momentum** ranking or find stocks with absolute **momentum** using M20 or using MDT or TI65 or DT. So, in **order** to do that, you have to go through a fine tooth comb on..."
-- **Market **Condition****: So, this is a **choppy** **consolidation**. Even this one has just like in a just small **consolidation**. *The video says:* "So, this is a **choppy** **consolidation**. Even this one has just like in a just small **consolidation**."
+Part 2 teaches how to filter the raw anticipation watchlist for quality — removing attractive-looking but high-failure setups. Key points:
+
+- **Go through with a fine-tooth comb**: Remove stocks that look good but have structural weaknesses
+- **Remove stocks with 4% breakdowns / range expansion to the downside** — indicates distribution, selling pressure
+- **Remove choppy, long sideways consolidations** — these look attractive but are the #1 trap; no aggressive buying behind them
+- **Remove stocks with multiple consecutive negative days on high volume** — non-linear, damaged patterns
+- **Long sideways = highest failure rate**: "Whenever you see a stock going sideways for a long time, it looks very attractive. But these are the stocks where you're going to have highest failure in anticipation."
+- **Keep stocks with**: orderly pullbacks, identifiable catalysts (drug approvals, trial results), and first/second leg setups
+- **Catalysts matter**: A wrinkle-removing drug (Botox competitor) or NASDAQ trial = structural reason for buying, not just retail chasing
+- **Key rule**: "Long sideways moves require a proper high-volume breakout for it to work. I would not take this as an anticipation."
+
+See curated note: [[../../Pradeep Bonde/08. Anticipation (ANTS) Guide/Anticipation (ANTS) Guide|ANTS Guide]]
 
 ## Full Transcript
 

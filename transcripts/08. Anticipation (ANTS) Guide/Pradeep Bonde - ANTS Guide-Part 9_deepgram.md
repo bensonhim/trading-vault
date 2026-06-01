@@ -20,8 +20,17 @@ tags:
 
 ## Summary
 
-- **Requirement**: In **order** to do **momentum**, this first you need to understand **momentum** using M20, TI65, MDT and DT because once you know that this is ... *The video says:* "In **order** to do **momentum**, this first you need to understand **momentum** using M20, TI65, MDT and DT because once you know that this is the way to convert that into dollars. So, if you want to find like two tight days, all that you need to do is to change this particular **condition** to two tight days."
-- **Market **Condition****: So whenever we are looking at anticipation, what we are looking for is a situation where the stock has had a series of narrow **range** ... *The video says:* "So whenever we are looking at anticipation, what we are looking for is a situation where the stock has had a series of narrow **range** day or having an orderly **consolidation** or a pullback."
+Part 9 extends the smart scan by requiring consecutive tight days (TT = 2 tight, TTT = 3 tight) to find the most compressed setups. Key points:
+
+- **"X bars in a row" scan**: Instead of just today's price change, require multiple consecutive tight days
+- **3T (three tight days)**: 3 consecutive days up/down less than 1% → reduces universe from 400+ to 19 stocks
+- **2T (two tight days)**: 2 consecutive tight days — slightly more stocks, still very manageable
+- **Combine with momentum OR logic**: TI65 > 1.05 OR M20 = true in the same scan, then filter for TT/TTT
+- **Pradeep's personal filter**: ±0.4% instead of ±1% — he wants "very explosive" tight setups only
+- **At ±0.4%**: Only ~25 stocks to review — ideal balance of selectivity and opportunity
+- **Philosophy**: "Make money with the least amount of time, use smartness rather than grunt work"
+
+See curated note: [[../../Pradeep Bonde/08. Anticipation (ANTS) Guide/Anticipation (ANTS) Guide|ANTS Guide]]
 
 ## Full Transcript
 

@@ -20,8 +20,17 @@ tags:
 
 ## Summary
 
-- **Requirement**: In **order** to understand this, what you need to do is you need to first understand the guide section in which we talked about TI65, ... *The video says:* "In **order** to understand this, what you need to do is you need to first understand the guide section in which we talked about TI65, we talked about MDT, we talked about DT, all those kind of, or M20, all those kind of **momentum** based methodology to rank stocks or to determine whether stock has a **momentum** just allows you..."
-- **Market **Condition****: So, every day night after the market close, what you do is you go through every single stock in this particular list or the stocks ... *The video says:* "So, every day night after the market close, what you do is you go through every single stock in this particular list or the stocks which show up in the scan and look for a stock which is having a sideways **consolidation** or a minor correction and which is setting up for a possible **breakout**."
+Part 1 introduces the "grunt work" approach to anticipation — manually reviewing every momentum stock to find consolidation setups. Key points:
+
+- **Prerequisite**: Understanding of momentum scans (TI65, MDT, DT, M20) — anticipation starts with stocks that already have proven momentum
+- **Core thesis**: Find stocks with momentum that have paused in a sideways consolidation or minor correction, setting up for a possible breakout
+- **Nightly routine**: After market close, go through every stock in your momentum scan results; flag those holding up well with orderly pullbacks
+- **Volume matters**: Bear market yields ~80 stocks to review; bull market yields 800–1,500+ — "requires a lot of elbow grease"
+- **Repeat across all four methods**: M20 is shown in this video, but the same manual review must be done on TI65, MDT, and DT
+- **Stocks flagged in walkthrough**: AMLX, XMTR, AMPS, ZeroFOX, DCPH, AKRO, Veridian Therapeutics, Revance Therapeutics, CRCD, BSC, ACCD
+- **Key quote**: "You're not missing out on any good setup which is likely to break out"
+
+See curated note: [[../../Pradeep Bonde/08. Anticipation (ANTS) Guide/Anticipation (ANTS) Guide|ANTS Guide]]
 
 ## Full Transcript
 

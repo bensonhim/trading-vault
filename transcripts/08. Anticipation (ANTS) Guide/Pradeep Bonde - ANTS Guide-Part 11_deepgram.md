@@ -20,7 +20,19 @@ tags:
 
 ## Summary
 
-- **Market **Condition****: If it goes into too **long** a pause in terms of **consolidation**, becomes a very **long** **consolidation**, that it is not a good thing. And ... *The video says:* "If it goes into too **long** a pause in terms of **consolidation**, becomes a very **long** **consolidation**, that it is not a good thing. And then during the **consolidation**, you have candles which are smaller than the candles. You want **volatility** to compress, right? You want the stocks **volatility** to compress in the **direction** of the breakout. If you see..."
+Part 11 details Pradeep's stringent visual criteria for selecting ideal anticipation setups from scan results. Key points:
+
+- **Stop ≤1% target**: Scan at ±0.4%, but actual selection even tighter (0.05–0.20%) for closest possible stop
+- **Higher-price stocks preferred**: A $300 stock moving ±$0.30 gives "most bang for your buck"; sub-$10 stocks require wider ±1–1.5% filters
+- **Unidirectional candles in first leg**: Only buyers in control, candles closing near the high; no gap-up heavy legs ("I don't really like gap-up kind of setups")
+- **Volatility compression in consolidation**: Bodies must be much smaller than first-leg candles; compressing in direction of breakout (triangle/flag patterns ideal)
+- **Body matters, wicks don't**: "I do not care about the wick. Somehow people are fascinated by wicks. I only look at the body."
+- **Staged compression**: If first leg was 2% moves, consolidation should be 1.5%, 1%, then smallest at the end
+- **Slightly down or flat, NOT rising**: A rising consolidation = rising wedge = bad anticipation setup
+- **Prioritize highest TI65**: Higher TI65 = more aggressive buying = better setup
+- **Short consolidation (3–7 days)**: >10–12 days = not a momentum pause, just dead market; ideal is 3–4 days only
+
+See curated note: [[../../Pradeep Bonde/08. Anticipation (ANTS) Guide/Anticipation (ANTS) Guide|ANTS Guide]]
 
 ## Full Transcript
 

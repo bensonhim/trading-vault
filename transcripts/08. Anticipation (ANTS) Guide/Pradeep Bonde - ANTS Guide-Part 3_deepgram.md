@@ -20,21 +20,17 @@ tags:
 
 ## Summary
 
-- That is the best way to do it, which is like basically take this stock, put them in your IP interface, watch them like a hawk in the morning in the first ten, fifteen minutes because anything which is going to break out of this kind of list is going to break out in the morning in the first fifteen to twenty minutes because a lot of people are watching these stocks.
-- But, if your orders are there on these four or five or three stocks, which are buy stop limit **order**, then at the opening bell or within five minutes or ten minutes, as soon as the stock breaks out, you're already As soon as it goes to 26.25, you're in the stock.
-- And in the next set of video, I'm going to show you, once you enter, how you can manage this particular kind of **trade** to make sure that you profit from this particular **trade** and not give up the profit which you can make from this kind of trades.
-- So So before the **breakout** itself happens, if you can enter this particular stock in hope that it is going to **breakout** and then you're already in it, you're going to get a closer stock.
-- If you're going to do anticipation, which is to, like, take this list, take it to your brokerage platform, work out where you're going to buy it as soon as it starts breaking out.
-- So once you have a watch list which you have created, you have opportunities in a stocks which has a strong **momentum**, which is setting up for a possible **breakout**.
-- Because if that stock is breaking out and you enter in the first five or ten minutes and if it just takes off, then you get a very **aggressive** and a close **entry**.
-- So, in a buy stop limit **order**, let's assume that this is the stock, which is a good stock and you are very convinced that this is the stock I want to enter.
-- Now if you wait for a stock to **breakout** like this 4% or $1 and then buy, you wasted all your effort because then why did you create this watch list?
-- The second best idea or second best way to do this is once you have these stocks, is you take these stocks and put them in your brokerage platform.
-- And you can specify that because the stock can, like, can I gap up and then your **order** is going to get filled at a very bad thing?
-- Or if the stock after making 26.25 goes very rapidly, then you are not going to get fulfilled, you will get filled on a partial.
-- So, buy stop limit **order** is second way in which you can enter an anticipation **setup** using this particular watch list.
-- So, you decide that I am willing to buy this stock at 26.25 and the highest price which I am willing to pay is 26.5.
-- So what it will say is that as soon as these stocks goes about 26.25, the stock the **order** becomes an active **order**.
+Part 3 covers the two entry methods for anticipation setups — manual monitoring and Buy Stop Limit Orders. Key points:
+
+- **Method A (recommended) — Active Morning Monitoring**: Put 3–5 filtered stocks in your brokerage (Interactive Brokers); watch like a hawk in the first 10–15 minutes; enter on even a **1% positive move** (1% is already range expansion)
+- **Why early entry matters**: "If you wait for a stock to breakout like this 4% or $1 and then buy, you wasted all your effort because then why did you create this watch list?"
+- **Breakouts cluster at open**: Stock breaks out in first 15–20 minutes because many momentum traders watch the same lists
+- **Method B — Buy Stop Limit Order (BSLO)**: Set trigger at yesterday's close + 1% (e.g., $26.25 for ~$26 stock), limit cap at $26.50, stop at $25.80; placed before market open
+- **BSLO protections**: If stock gaps up above limit ($26.50), order not activated (bad fill avoided); if stock gaps down, order not triggered (natural downside protection)
+- **A 1% positive move is your early entry signal**: "As soon as you see a move of even 1%, I get into these stocks"
+- **Next video**: Trade management after entry
+
+See curated note: [[../../Pradeep Bonde/08. Anticipation (ANTS) Guide/Anticipation (ANTS) Guide|ANTS Guide]]
 
 ## Full Transcript
 

@@ -20,7 +20,18 @@ tags:
 
 ## Summary
 
-- **Market **Condition****: This is the first time this stock had after a **long** **consolidation**, it had a big **breakout**. First leg, the first **consolidation** after the first ... *The video says:* "This is the first time this stock had after a **long** **consolidation**, it had a big **breakout**. First leg, the first **consolidation** after the first leg is best. The **consolidation** after the second leg is still good, but once third, fourth, fifth leg starts happening, the failure rate is going to increase and accordingly plan your **trade**."
+Part 6 introduces the leg-count rule — why first-leg setups work and third+ legs fail. Key points:
+
+- **Anticipation definition recap**: Find a stock with established momentum, then time entry on a momentum pause
+- **Two factors improve win rate**: (1) trade only in bullish market; (2) don't buy extended setups
+- **Leg hierarchy**: First consolidation after first leg = highest probability; second leg = still good; third/fourth/fifth leg = failure rate increases significantly
+- **New traders' trap**: They gravitate to late-stage (3rd–5th leg) setups because momentum is obvious — that's exactly the wrong time to enter
+- **Self-test**: "Ask yourself a question — who is left to buy that particular stock?" If everyone already bought, the setup will fail
+- **TI65 and M20 help**: They identify momentum early, making first-leg anticipation feasible
+- **Objective**: Capture the first leg, not the second or third
+- **Key quote**: "First leg, the first consolidation after the first leg is best. The consolidation after the second leg is still good, but once third, fourth, fifth leg starts happening, the failure rate is going to increase and accordingly plan your trade."
+
+See curated note: [[../../Pradeep Bonde/08. Anticipation (ANTS) Guide/Anticipation (ANTS) Guide|ANTS Guide]]
 
 ## Full Transcript
 

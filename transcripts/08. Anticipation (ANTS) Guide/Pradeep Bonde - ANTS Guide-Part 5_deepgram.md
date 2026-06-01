@@ -20,7 +20,17 @@ tags:
 
 ## Summary
 
-- **Requirement**: But you need to understand one thing if you're going to **trade** anticipation on an ongoing basis. And, this is the single most important thing ... *The video says:* "But you need to understand one thing if you're going to **trade** anticipation on an ongoing basis. And, this is the single most important thing which you need to understand and which people fail to understand and that is why they have very low rate, winning rate and anticipation **setup**. And that is something which you need to keep into..."
+Part 5 states the **single most important rule** for anticipation — only trade in confirmed, very bullish market conditions. Key points:
+
+- **Only trade anticipation when market is in a very confirmed, very wild bullish condition**
+- Choppy market = "death by thousand cuts" — minor breakouts fail repeatedly, causing frustration and cumulative losses
+- Bearish market = "guaranteed to lose money on many failed breakouts"
+- Confirmed bullish market = Market Monitor primary indicator is green (stocks up 25%/quarter > stocks down 25%/quarter)
+- **This is the #1 mistake** people make — trying to trade anticipation in all market conditions
+- Anticipation requires a continuous inflow of new buyers; that only happens in an established bull market (after the first phase of buying)
+- Trading anticipation only in bullish conditions "is going to improve your win rate dramatically"
+
+See curated note: [[../../Pradeep Bonde/08. Anticipation (ANTS) Guide/Anticipation (ANTS) Guide|ANTS Guide]]
 
 ## Full Transcript
 

@@ -20,7 +20,17 @@ tags:
 
 ## Summary
 
-- **Requirement**: And what we are going to do is we are going to find anticipation set up or reduce the number of stocks which you need ... *The video says:* "And what we are going to do is we are going to find anticipation set up or reduce the number of stocks which you need to look for in anticipation to just about smaller set of stock by using scans. Now, here is that important part which you need to do next."
+Part 8 introduces the "smart way" — using TC2000 scans to reduce the anticipation universe from hundreds to tens of stocks. Key points:
+
+- **Create "Anticipation Smart" scan**: US stocks + ADRs (skip ETFs — "inherently higher volatility than stocks"), liquidity filter, price >$10, TI65 > 1.05
+- **Key innovation**: Add "price percent change today between −1% and +1%" to isolate stocks having a momentum pause (small-move day)
+- **Results at ±1%**: ~112 stocks; at ±0.5%: only 32 stocks (vs 415 for full TI65 universe) — dramatic time savings
+- **Buyout stocks**: Appear as flat black lines in scan results — mark with "XXX" and ignore; they are not valid anticipation setups
+- **Combine momentum conditions**: Add OR logic (TI65 > 1.05 OR M20 = true OR MDT condition OR DT condition) instead of running four separate scans
+- **10 minutes instead of hours**: Going through 32 stocks takes ~10 minutes vs hours for full universe
+- **No ETFs for anticipation**: "I don't recommend ETFs for this kind of a method. Because inherently they have higher volatility than stocks."
+
+See curated note: [[../../Pradeep Bonde/08. Anticipation (ANTS) Guide/Anticipation (ANTS) Guide|ANTS Guide]]
 
 ## Full Transcript
 

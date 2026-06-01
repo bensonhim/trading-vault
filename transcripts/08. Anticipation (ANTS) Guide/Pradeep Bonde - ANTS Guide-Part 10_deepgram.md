@@ -20,7 +20,18 @@ tags:
 
 ## Summary
 
-- **Breakeven **Strategy****: And once I'm in, next day morning, most of the time if it breaks out, I can move my stop to **break even**. *The video says:* "And once I'm in, next day morning, most of the time if it breaks out, I can move my stop to **break even**."
+Part 10 reveals Pradeep's personal timing edge — running scans at 3:30 PM and entering at 3:58 PM to front-run night traders. Key points:
+
+- **3:30 PM**: Run the anticipation smart scan during market hours (not at night like most traders)
+- **3:58–3:59 PM**: Enter the best setups in the last 2 minutes of the trading day
+- **Why this works**: Most traders do anticipation analysis at night and try to enter next morning — by entering at 3:58, you're already positioned before they even start
+- **Wait between 3:30 and 3:58**: "Between 3:30 and close, there can be a lot of things which can happen. The setup can deteriorate or sometimes it can break out also."
+- **Gap-down risk**: In a confirmed bull market, well-setup stocks rarely gap down — "Tell me how many times in a bullish market a stock which is setting up nicely gaps down. It happens all the time in the bearish market. It doesn't happen in the bullish market as often as people think."
+- **Three pillars of smart anticipation**: (1) Tight ±0.4% setup definition, (2) Scans to reduce universe, (3) 3:30 PM scan + 3:58 PM entry
+- **Once in**: Next morning, move stop to breakeven if it breaks out; manage like any breakout trade
+- **Key quote**: "There is a generic edge in the stock market of being first"
+
+See curated note: [[../../Pradeep Bonde/08. Anticipation (ANTS) Guide/Anticipation (ANTS) Guide|ANTS Guide]]
 
 ## Full Transcript
 

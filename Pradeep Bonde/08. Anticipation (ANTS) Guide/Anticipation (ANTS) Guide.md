@@ -94,12 +94,14 @@ The core thesis: if you can identify the pause correctly and enter before the cr
 Pradeep calls this the **"elbow grease" or "dumb way"** to do anticipation — going through hundreds or thousands of charts manually.
 
 ### 2.1 Step 1: Build the Universe (Part 1)
-Every evening after market close, run your momentum scans (M20, TI65, MDT, DT). In a bear market this might be 80 stocks; in a strong bull market it can be 800–1,500 stocks. Go through **every chart manually** and flag stocks that are:
+Every evening after market close, run your momentum scans (M20, TI65, MDT, DT). In a bear market this might be 80 stocks; in a strong bull market it can be 1,800–2,000 stocks. Go through **every chart manually** and flag stocks that are:
 - Holding up well after a momentum move
 - Showing sideways consolidation or minor pullback
 - Setting up for a possible breakout
 
 Create an "Anticipation" watchlist in TC2000 (or your platform) and copy all flagged tickers into it. **Do this on all four momentum methods** — not just M20. Run the same manual review on TI65, MDT, and DT as well.
+
+**Stocks flagged in Pradeep's Part 1 walkthrough (M20 scan):** AMLX, XMTR, AMPS, ZeroFOX, DCPH, AKRO, Veridian Therapeutics, Revance Therapeutics, CRCD, BSC, ACCD.
 
 ### 2.2 Step 2: Filter for Quality (Part 2)
 Go through the watchlist with a "fine-tooth comb" and **remove setups that look attractive but have high failure probability**:
@@ -282,7 +284,7 @@ Pradeep explicitly summarizes his personal smarter method in three points:
 2. **Scan to reduce universe** — no grunt work through 1,500 stocks; smart scan brings it to ~25
 3. **Different timing** — scan at 3:30 PM, enter at 3:58–3:59 PM, front-run the night analysis traders
 
-> "There is a generic age in the stock market of being first. If you can enter any move before other people enter you are always going to be in a better position." — Part 10
+> "There is a generic edge in the stock market of being first. If you can enter any move before other people enter you are always going to be in a better position." — Part 10
 
 ---
 
@@ -422,7 +424,7 @@ Pradeep draws an explicit parallel to Nicolas Darvas: "Darvas used to have a wat
 
 > "I don't recommend ETFs for this kind of a method. Because inherently they have higher volatility than stocks." — Part 8
 
-> "There is a generic age in the stock market of being first. If you can enter any move before other people enter you are always going to be in a better position." — Part 10
+> "There is a generic edge in the stock market of being first. If you can enter any move before other people enter you are always going to be in a better position." — Part 10
 
 > "I do not care about the wick. Somehow people are fascinated by wicks. I only look at the body. The bodies of the candle should be very narrow compared to what was happening in the up move on the first leg." — Part 11
 

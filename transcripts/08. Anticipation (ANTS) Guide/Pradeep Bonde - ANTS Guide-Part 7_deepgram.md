@@ -20,7 +20,16 @@ tags:
 
 ## Summary
 
-- **Requirement**: So in **order** for the anticipation methodology to be used, you need to first understand **momentum** like the one which is the there is a ... *The video says:* "So in **order** for the anticipation methodology to be used, you need to first understand **momentum** like the one which is the there is a guide section which talks about **momentum** using M20 or the TI65 or MDT or DT. Now, the most important thing which you have to understand is that all this work is going to happen in..."
+Part 7 recaps the grunt-work method and explicitly frames it as the "slow, dumb way" — setting up the smarter approach coming next. Key points:
+
+- **Basic flow**: Scan for momentum stocks → review each → build watchlist → clean it → load into brokerage → enter or use BSLO
+- **All work happens at night**: You enter the next day, which creates two problems — stocks may gap up or break out before you act, and morning breakouts are very fast
+- **Bear market**: ~80 stocks; **bull market**: 1,800–2,000 stocks to review — not scalable with grunt work
+- **Spending 2–3 hours nightly for 4–5 ideas is not scalable** in bull markets
+- **Teaser**: Upcoming videos will show a "smarter way" using scans to do the same work in 20 minutes instead of 2+ hours
+- **Key quote**: "This kind of approach is more like elbow grease or a dumb way to do anticipation. There is a smarter way."
+
+See curated note: [[../../Pradeep Bonde/08. Anticipation (ANTS) Guide/Anticipation (ANTS) Guide|ANTS Guide]]
 
 ## Full Transcript
 

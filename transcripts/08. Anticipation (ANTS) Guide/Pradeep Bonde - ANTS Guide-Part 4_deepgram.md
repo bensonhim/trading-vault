@@ -20,9 +20,18 @@ tags:
 
 ## Summary
 
-- **Requirement**: Now, in **order** to do this successfully, you have to understand certain things. So that is the thing which you need to be aware of ... *The video says:* "Now, in **order** to do this successfully, you have to understand certain things. So that is the thing which you need to be aware of and exploit that phenomena."
-- **Critical Point**: But what happens with anticipation, and this is very important to understand, is a lot of anticipation fail compared to breakouts. *The video says:* "But what happens with anticipation, and this is very important to understand, is a lot of anticipation fail compared to breakouts."
-- **Breakeven **Strategy****: So, important to remember, the first thing which you need to do once you are in this kind of a **setup** and it starts going ... *The video says:* "So, important to remember, the first thing which you need to do once you are in this kind of a **setup** and it starts going up, is to try and move your stop to at least to **break even**."
+Part 4 explains why anticipation setups fail more often than breakouts and how to manage the trade. Key points:
+
+- **Core objective**: Anticipation gives stops under 2.5% — very low risk entries vs buying on 4% breakout confirmation
+- **Critical warning**: "A lot of anticipation fail compared to breakouts" — no volume confirmation at entry, you're hoping for follow-through
+- **The crowded-trade problem**: Many traders + newsletters watch the same stocks; initial breakouts in first 20–30 minutes fade when institutional follow-through doesn't arrive
+- **Rule #1 — Move stop to breakeven ASAP**: If stock moves 4–5% in first 30 minutes, immediately move stop to protect that profit
+- **If it works**: Manage like a normal 3–5 day momentum burst (same rules as breakout guide)
+- **If it fails**: Your breakeven stop ensures you lose nothing or minimal
+- **Master breakouts first**: "I have recommended anticipation more to people who are good at breakouts. And once you perfect breakout is when you should be looking at anticipation."
+- **The only advantage of anticipation over breakout**: You know exactly which stock you're targeting, and your stop is always closer
+
+See curated note: [[../../Pradeep Bonde/08. Anticipation (ANTS) Guide/Anticipation (ANTS) Guide|ANTS Guide]]
 
 ## Full Transcript
 
