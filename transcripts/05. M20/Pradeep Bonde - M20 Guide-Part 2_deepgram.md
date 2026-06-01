@@ -20,21 +20,12 @@ tags:
 
 ## Summary
 
-- So from a thirty day close, minimum close or the low lowest close in last thirty days, you're calculating **momentum**, and it goes positive when the stock is up 20% from the low, or it is up $20 from the low.
-- So when that **condition** has been met here, right, and this is the same **condition**, and when that **condition** is true, what you're going to get is you're going to get a **momentum** change.
-- So you're looking for a stock which is up 20% plus from its close lowest close in the last thirty days, or you're looking for a stock which is up $20 from the bank.
-- And when we go to myTC 2,000, let's look at what really are we scanning for or what are we trying to find in this particular, **momentum** 20 kind of a thing.
-- So, you know, from this day onward, the stock is in a downtrend, and this is where the stock entered uptrend or this is where it entered uptrend.
-- So this is the positive side of this **momentum** where you're looking for a stock which is up 20¢, up 20% or up $20 and prices were 3 and down.
-- So you can find out these are all the stocks which are **momentum** to the downside and where did the **momentum** start in this particular case.
-- Now the advantage of doing this is always that you're going to find quickly a change in **trend** as against other **momentum** indicators.
-- So **momentum** 20 is an absolute **momentum** **indicator** which will allow you to get into a **trend** very early and identify trends early.
-- So it is called an anchored **momentum**, and the anchoring point which you're using for this **momentum** is the thirty day close.
-- And when you get a **momentum** change like that is when you want to be looking at that stock for a possible **entry**.
-- Like, the scan for **momentum** 20 on the bullish side, and this is the scan for **momentum** 20 on the bullish side.
-- After that, the stock set up very nicely, and this is where you're looking at it as a possible anticipation.
-- As you can see, this was the closing high, thirty day closing high, and now the stock has gone down 20%.
-- So in **order** to calculate the bearish side of this thing, what you're looking for is similar logic.
+- **M20 is an anchored momentum indicator**: Calculates momentum from the 30-day lowest close (bullish) or highest close (bearish), not from a fixed moving average.
+- **Bullish trigger**: Stock is up **20%** from its 30-day minimum close, OR up **$20** from that low. Formula: `C >= 1.2 * MINC30` or `C >= MINC30 + 20`.
+- **Bearish trigger**: Stock is down **20%** from its 30-day maximum close, OR down **$20** from that high. Formula: `C <= 0.8 * MAXC30` or `C <= MAXC30 - 20`.
+- **Why two triggers**: 20% for low-priced stocks, $20 for high-priced stocks (AutoZone at $2,500 only needs +$20 = <1% move to trigger).
+- **Key advantage**: Finds trend changes faster than other momentum indicators. When momentum changes direction, you want to look at that stock for a possible entry.
+- **Liquidity**: Price ≥ $3, volume ≥ 100,000 shares/3 days, US stocks + ADRs + ETFs.
 
 ## Full Transcript
 

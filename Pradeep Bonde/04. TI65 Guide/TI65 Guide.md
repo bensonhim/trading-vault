@@ -36,7 +36,7 @@ tags:
 
 # TI65 Guide — Trend Intensity 65 Momentum Indicator
 
-> This guide covers both the **mechanics** of setting up the TI65 indicator (Parts 1–6) and the **advanced applications** for finding young momentum, continuation setups, pullback entries, and shorting opportunities ("How to Profit from TI65").
+> Parts 1–6 are **structured tutorial videos** walking through setup and basic usage. **"How to Profit from TI65"** is a **live interactive session** (with Q&A from experienced traders) covering advanced applications — young momentum, pullback scanning, and short-side setups.
 >
 > **Prerequisite:** Understanding of momentum burst concepts from the [[../../01. How to Get Started/How to Get Started In Trading Guide-Part 1|Getting Started Guide]] and [[../../02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1|Breakouts Guide]] is assumed.
 
@@ -75,7 +75,7 @@ It is computed as the ratio of two moving averages:
 | **< 0.95** | Bearish trend intensity — stock is trending down with speed |
 | **0.95 – 1.05** | Neutral — no clear trend intensity |
 
-A TI65 value of 1.82 means the 7-day average is 82% above the 65-day average — an extremely fast-moving uptrend. A value of 0.04 means the stock is in an intensely bearish downtrend.
+A TI65 value of 1.82 means the 7-day average is 82% above the 65-day average — an extremely fast-moving uptrend (e.g., AMAM at TI 1.94). A value of 0.04 means the stock is in an intensely bearish downtrend.
 
 > "If a stock has TI65 of 1.05, it is definitely in a positive trend. But we don't just want positive trend — we want positive trend with **a certain speed**."
 
@@ -103,7 +103,7 @@ Pradeep introduces a critical distinction that most momentum tools fail to captu
 
 **The Brian analogy:** Brian has $5,000,000. That's an **absolute** amount of wealth. Relative to all people in the US, someone with $5M is in the **top 5%** — that's the relative measure. Both are true, but the absolute number is what matters for trading decisions.
 
-A stock like CRBP has an IBD Relative Strength rating of 97–99. That means it's ranked among the top 1–3% of all stocks in momentum. But when did that momentum start? If you don't know, you buy extended stocks.
+A stock like CRBP has an IBD Relative Strength rating of 97–99. That means it's ranked among the top 1–3% of all stocks in momentum. But when did that momentum start? If you don't know, you buy extended stocks. A stock like PRVB (buyout) or AMAM (TI 1.94) has high absolute momentum, but only AMAM is tradable — the buyout gapped up overnight.
 
 > "Relative strength is good to know — it means you're ranked #3 amongst all stocks in momentum — but it is **perfectly useless** because you don't know where this momentum started."
 
@@ -192,7 +192,7 @@ The simplest use: sort the bullish list by TI65 and focus only on the **top 25, 
 
 Similarly, sort the bearish list and look at the **weakest stocks** for short candidates or deeply oversold bounce opportunities.
 
-**Example:** A stock ranked #17 by TI65 with a very orderly pullback goes directly into your anticipation watchlist.
+**Example:** A stock ranked #17 by TI65 with a very orderly pullback goes directly into your anticipation watchlist. Intel establishing trend intensity — the **first pullback** is what you want, not the third or fourth.
 
 #### 5.2 Level 2 — Narrow-Range Anticipation Scan (Part 6)
 
@@ -213,7 +213,7 @@ Result: ~800 stocks reduced to **~78 stocks** with momentum that are having narr
 
 Sort by lowest NC. Stocks with NC near 0 and existing TI65 momentum are setting up for a breakout. Skip buyouts (stock flat on acquisition gaps). Flag the ones with orderly pullbacks.
 
-> "You can do this work at 2:00. You can do it at 3:00 before the market close. For best result, you want to do this during the day and enter them before the close."
+> "You can do this work at 2:00. You can do it at 3:00 before the market close. If you're busy, you can do it in the night. For best result, you want to do this during the day and enter them before the close."
 
 **Prioritizing candidates:** Once you have 4–5 candidates, copy flagged symbols into a new personal watchlist (e.g., "TI Watchlist"). Sort by TI65 value — the highest TI65 is your #1 priority.
 
@@ -235,6 +235,8 @@ What this reveals:
 
 > "Within strength, you want to find the stocks which are having a pullback. So sort by C/C7, look for lower value — either there'll be a reversal, or there'll be an orderly pullback."
 
+**Real examples from the session:** Google (orderly pullback after TI65 established — likely next move is up), Asana, MTW, Eventbrite (low volume pullbacks within existing momentum). Stocks with very high C/C7 are extended — skip those.
+
 **Key insight:** The C/C7 sort separates three categories automatically — reversals, pullbacks, and extended stocks. You only want the pullbacks.
 
 ---
@@ -252,13 +254,15 @@ The problem: You want the **first** breakout or pullback after momentum turns po
 | `C65` | `COUNTTRUE(AVGC7 / AVGC65 >= 1.05, 100)` | Days with bullish TI65 in last 100 days |
 | `D65` | `COUNTTRUE(AVGC7 / AVGC65 <= 0.95, 100)` | Days with bearish TI65 in last 100 days |
 
+> **Note:** This `COUNTTRUE` is the same TC2000 **Count Through** function used in the [[../../14. Sugar Babies Guide/Sugar Babies Guide|Sugar Babies]] scan logic — counting how many days a condition has been true within a lookback period.
+
 **Sort by C65 ascending** to find stocks that **just entered** bullish trend intensity.
 
 > "If this stock went into positive TI65 **yesterday**, and we ran this scan yesterday, we would have bought it. We don't need a breakout — as long as there's sufficient liquidity."
 
 > "We want to find **young setups**. What we want is the **first good pullback or the first good breakout after TI65 goes above 1.05**."
 
-**Example:** A stock with C65 = 1–3 means it just gained momentum in the last 1–3 days. If it's forming a first setup (pullback or consolidation), that's your ideal entry. A stock with C65 = 100 has had momentum for 100+ days — still valid, but you're getting in late.
+**Example:** A stock with C65 = 1–3 means it just gained momentum in the last 1–3 days. If it's forming a first setup (pullback or consolidation), that's your ideal entry. A stock with C65 = 100 has had momentum for 100+ days — still valid, but you're getting in late. Real examples: ShockWave (just got momentum, very young — if it breaks out, it's a buy and you can hold for second leg), LandSat (first continuation setup forming), TMDX (maintained TI65 for 200 days without getting overextended — very rare).
 
 **Why young momentum matters for holding period:**
 
@@ -292,6 +296,8 @@ This is why finding **young** momentum is so critical:
 **Can stocks go up without getting extended?** Yes — some stocks never get overextended. They go up, go sideways, breakout, go sideways again. But this is **very, very rare**. Most stocks have difficulty maintaining TI above 1.05 for more than 120–150 days.
 
 > "I've seen examples where stocks go up without getting extended — they go sideways, breakout, sideways again. But those are **very, very rare**."
+
+Real examples: X (stock has maintained TI65 momentum for 100+ days — goes up, goes sideways, breakout, sideways, breakout, never overextended), TMDX and ETNB (similar long-duration momentum). But these are exceptional — most stocks cannot sustain this beyond 120–150 days.
 
 ---
 
@@ -330,6 +336,8 @@ The exact same logic applies to shorting:
 
 > "When do you want to short? You want to short **early in the breakdown**, not when the breakdown is so apparent."
 
+**Real example:** SIGA — the TI65 day column would have shown the exact day the trend changed from positive to negative, revealing multiple shorting points along the way as the stock continued its decline.
+
 #### The Day-After-Earnings Pattern
 
 A specific shorting pattern that standard scans miss:
@@ -348,6 +356,14 @@ This pattern is very common and is one of the key advantages of maintaining a TI
 Within the bearish TI65 universe, look for stocks that have a **weak counter-trend bounce**. If the bounce fails, that's a short.
 
 > "There's a counter-trend bounce. If this counter-trend bounce fails, that's a shot. Because the trend intensity has turned negative."
+
+#### 9M+ Volume Breakdown Signal
+
+An additional shorting signal Pradeep highlights within the TI65 bearish universe:
+
+> "Whenever you get a 9,000,000-plus breakdown — what happens? The market is selling again."
+
+When a stock in the bearish TI65 list triggers a high-volume breakdown (9M+ shares), it signals renewed institutional selling. This won't show up in standard 4% breakdown scans on the exact day, but if you're monitoring the TI65 bearish list, you catch it early.
 
 ---
 

@@ -20,7 +20,13 @@ tags:
 
 ## Summary
 
-- **Requirement**: And so you need to go through this list. On the bearish side, what you have to do is sort it by, say, dollar or ... *The video says:* "And so you need to go through this list. On the bearish side, what you have to do is sort it by, say, dollar or percentage change, and then start looking at stocks which had three down days or four down days, waterfall decline, and they're not, bouncing more than 2% or 2.5%."
+- **Bearish-side workflow**: Sort M20 bearish list by **positive % change** or dollar change (ascending) — not NC. Look for stocks that had 3–4 down days (waterfall decline) with a weak bounce of less than 2–2.5%.
+- **Weak structure short pattern**: Waterfall decline (3–4 consecutive down days) → weak bounce (< 2%) → if the bounce fails and stock breaks down again → enter short.
+- **Real examples**: Cintas (4-day waterfall, 1.45% bounce), MCK (waterfall, 1.53% bounce), another stock (0.28% bounce after waterfall), another (0.11% bounce).
+- **Market dependency**: In a bearish market, you'll find many more short candidates. The video was recorded during a downtrend, so M20 bearish was producing many setups.
+- **Why not use NC on bearish side**: Anything that's already down has negative NC — that's not useful. Instead, sort by positive % change to find stocks that had a weak bounce after the first leg down.
+- **M20 finds young trends**: On both sides, M20's benefit is finding very young trends — anchored to either the high or low of the last 30 days.
+- **Bullish side**: Find anticipation setups after first leg up (orderly pullback). Bearish side: Find weak structure shorts after first leg down (waterfall + weak bounce).
 
 ## Full Transcript
 

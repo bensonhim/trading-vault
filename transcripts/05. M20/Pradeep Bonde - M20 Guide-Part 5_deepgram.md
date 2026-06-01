@@ -20,21 +20,13 @@ tags:
 
 ## Summary
 
-- So lower the price of this thing is, what you're going to find is you're gonna find that in that case, that is the kind of stock which you want to prioritize, whichever has a lower value of NC.
-- This way, you can find quickly any stocks which is turning its **direction** or from the bullish side to a bearish side or from bearish side to a bullish side and get into it quickly.
-- Now in **order** to use it, what you can do is once you run the scan, there's a little trick which I'll show you, which if you use, you can quickly find a good anticipation **setup**.
-- So in **order** to create watch list of stocks, this is a very good method because it is going to find the stocks very quickly when they change **direction**.
-- If you have the time, the best way to do use M20 is if you can do M20 during the day at around 02:00 or 03:00 and create a watch list.
-- It makes your job very quick because once the NC increases, these are not most of the time, they are not good stocks.
-- So you can set up you can find stocks like this, which are setting up very nicely for a possible a possible upside.
-- In the next video, I'll show you how to do this, use this kind of an approach to find likely weak structure shots.
-- Now here are stocks which I found using this particular scan, which are likely to break out in few days.
-- Now this is a very orderly pullback, which is happening in this stock and likely to break out from this.
-- Now when you go through this and start looking at stocks with the low NC, you see something like this.
-- M 20 is an anchored **momentum**, and it has been anchored to the lowest price in the last thirty days.
-- Again, like in here, there's a buying **edge** came in, and this is very orderly pullback.
-- The **direction** of the momentum changed because it had this big, 20% kind of a move.
-- And like this, if you keep going down and keep looking at stocks, you'll find CBD.
+- **NC trick**: Add a column `NC = ABS(C - C1)` (absolute net change from yesterday) and sort ascending — lowest NC values surface the stocks having the quietest day, which are the best anticipation setups.
+- **Flat-day stocks are best**: Stocks with NC near 0 had their first M20 breakout leg and are now resting sideways — these are your top candidates.
+- **Buyout warning**: Stocks flat due to acquisition news will also have NC near 0 — always visually dismiss buyouts.
+- **Timing**: Best to run M20 during the day at 2:00–3:00 PM and create a watchlist. Enter in anticipation before the close. At night is also acceptable for next-day preparation.
+- **Real examples**: PROS (first leg + going sideways), BCTX (momentum established → sideways), Aurora Sur (minor pullback), DHX (big buying → orderly pullback), Tesla (buying came in → sideways), CBD (direction changed → orderly pullback).
+- **Catalyst pattern**: Stock had a catalyst event, made a big move, now pulling back — still valid M20 setup.
+- **Once NC increases**, stocks are usually not good candidates — they've already moved too much.
 
 ## Full Transcript
 

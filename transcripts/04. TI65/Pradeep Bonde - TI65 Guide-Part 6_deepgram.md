@@ -20,7 +20,13 @@ tags:
 
 ## Summary
 
-- **Requirement**: And, again, you have to move this and put it here, tab here. *The video says:* "And, again, you have to move this and put it here, tab here."
+- **Anticipation scan**: Create a combo list "Bullish TI65 Anticipation" — same liquidity/price filters, plus `AVGC7/AVGC65 >= 1.05` and `Price Percent Change Today between -0.4% and +0.4%` → reduces ~800 stocks to ~78 narrow-range candidates.
+- **Net Change column (NC)**: `ABS(C - C1)` — lower NC = more flat that day; sort ascending to find stocks with near-zero movement that are setting up for a breakout.
+- **Skip buyouts**: Stocks flat on acquisition gaps are not real anticipation setups.
+- **Prioritize**: Copy 4–5 flagged candidates into a personal watchlist (e.g., "TI Watchlist"), then sort by highest TI65 to identify priority #1.
+- **Timing**: Do this work at 2:00–3:00 PM before the close, or even at night if busy — best results come from entering before the market close.
+- **Three approaches**: (1) Narrow-range scan (recommended, 10–15 min), (2) Visual scan of entire bullish list (time-consuming, not recommended), (3) Focus on top 25–30 by TI65, then find setups within that subset.
+- **Primary use**: TI65 is primarily for **anticipation** — buying before or in the first few percent of a breakout for low-risk entry.
 
 ## Full Transcript
 

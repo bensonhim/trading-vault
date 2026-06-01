@@ -20,21 +20,16 @@ tags:
 
 ## Summary
 
-- This will be equivalent of, if you look at IBD kind of a relative strength rating, TURN will have a 99 RS rating as like an IBD would say, or this stock is ranked number two, or this is ranked number three.
-- In the next video, I'm going to show you how you can modify MDT a little bit and expand the concept to find stocks, which are stronger a month ago or two months ago, and which are going sideways.
-- So that is one simple way in which you can use MDT, and which is to rank stock and isolate the top 100 stocks by MDT, or top 50 stocks by MDT, and look for low risk **entry** points on them.
-- So the MDT thing, which I'm going to show you is essentially mimics, or it is going to get you equivalent of finding a stock, which has a relative strength, high relative strength.
-- Or if you want to see, relate you which stock is doing better compared to other stocks, or you want to focus your money only on the strongest stock, then MDT is going to help you.
-- So if you make this as MDT here, now what you're going to get is once you rank stocks by this MDT, now if you look at TURN, TURN has number one ranked stock by MDT.
-- Similarly, if you want to see the very weak stock, you just rank by MDT on the downside, and you will see that this is the weakest stock in the market.
-- Again, using **momentum** methodologies like double trouble, MDT, M20, TI65, you are creating a watch list, or you're creating an anticipation watch list.
-- Modified double trouble is essentially, more advanced version of Darwaz's double trouble, which I created after I created double trouble.
-- So this kind of a candidate you're going to see, but when you're doing that, you want to be in the strongest stock in the market.
-- So how far is the stock from its one hundred and twenty six day moving average is what we are really interested in.
-- So in next video, we'll look at how you can take MDT and offset it by a month or two months to find strong stocks.
-- But it is also something which is going to be useful if you're into IVD kind of a relative strength rating.
-- And I'm also going to show you how to use it for just like creating, an absolute **momentum** also.
-- So in **order** to do that, let's add a column here, which we are going to call it as MDT, right?
+Part 1 introduces MDT (Modified Double Trouble) — a 6-month momentum ranking system equivalent to IBD's Relative Strength Rating. Key points:
+
+- **Formula**: `C / AVGC126` — how far a stock is from its 126-day moving average
+- **TURN example**: Ranked #1 by MDT, equivalent to IBD RS rating of 99
+- **Two uses**: (1) Rank stocks by relative strength — isolate top 50–100 strongest stocks and find low-risk entries; (2) Use as absolute momentum indicator (threshold ≥ 1.18)
+- **Shorting**: Rank MDT in ascending order to find the weakest stocks
+- **Anticipation**: Like DT, TI65, and M20, MDT creates an *anticipation* watchlist — you're positioning before the breakout
+- **Preview of Part 2**: Will show how to offset MDT by 1–2 months (MDT25, MDT50) to find stocks that were strong but are now consolidating
+
+See curated note: [[../../Pradeep Bonde/07. MDT Guide/MDT Guide|MDT Guide]]
 
 ## Full Transcript
 

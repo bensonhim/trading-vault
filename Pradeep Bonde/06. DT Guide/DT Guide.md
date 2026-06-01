@@ -86,12 +86,14 @@ Stock doubles from low → Forms a box (consolidation) → Breaks out of box →
 | **Rhythm (RTHM)** | Stock doubled, then showed on DT indicator. Formed a box, broke out, made a move. |
 | **TRVI** | Doubled from low, formed a Darvas box. When it broke out of the box, Darvas would buy. |
 | **Revlon** | Doubled, formed a box, then the stock went up from the box breakout. |
+| **TH** | Near all-time high, forming a good Darvas box — ideal candidate |
+| **TMNTX** | Forming a box, another candidate meeting Darvas criteria |
 
 #### Darvas's Buy and Sell Rules
 
 | Action | Rule |
 |---|---|
-| **Buy stop** | Place a **buy stop order 25¢–50¢ above the high of the box** |
+| **Buy stop** | Place a **buy stop order 20¢–50¢ above the high of the box** (e.g., box high $15.67 → buy stop at $15.87–$15.92; box high $314.90 → buy stop at $315.40) |
 | **Stop loss** | Place at the **low of the box** |
 | **If stock breaks below box** | "It is no more a good stock and it is going to get into trouble" — exit |
 | **If stock breaks above box** | Hold for the next leg — it may double or triple from there |

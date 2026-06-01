@@ -20,9 +20,22 @@ tags:
 
 ## Summary
 
-- **Market **Condition****: You can also use it to find stocks which are having a longer term **consolidation**. So in order to look for a stock which has ... *The video says:* "You can also use it to find stocks which are having a longer term **consolidation**. So in order to look for a stock which has a longer longer term **consolidation** instead of using MDT as a rank function, we use MDT as a absolute **momentum**. So the advantage or the, what MDT one twenty six is useful for is those..."
-- **Requirement**: And to use MDT as an absolute **momentum**, all that you need to do is c by average c one twenty six is greater than ... *The video says:* "And to use MDT as an absolute **momentum**, all that you need to do is c by average c one twenty six is greater than or equal to 1.18. If this stock breaks out from here with the **volume** and then you need to **high volume** breakout. You need to look at 200 to two fifty, 300 in **order** to..."
-- **Key Concept**: And this is the beauty of, like, using **momentum**, understanding **momentum**. The more they get exposed, the more they're going to get more confused, and ... *The video says:* "And this is the beauty of, like, using **momentum**, understanding **momentum**. The more they get exposed, the more they're going to get more confused, and they're going to be chasing something which is like in a really not the ideal thing for their level of understanding."
+The complete workflow session — how to build an MDT universe from 410 stocks down to 10–15 weekly setups. Key points:
+
+- **Two ways to use MDT**: (1) As a ranking tool (`C / AVGC126` sorted); (2) As absolute momentum (≥ 1.18 threshold, displayed as green/red area on chart)
+- **The funnel**: Top 200 MDT + top 200 MDT25 + top 200 MDT50 → flag and copy → ~410 stocks
+- **Eliminate reversals**: Add TI65 column, sort ascending — stocks with very low TI65 have reversed, remove them
+- **Remove biotech**: For longer-term holds, biotech is too unpredictable. 410 → ~289 stocks
+- **Optional filters**: IPO age < 5 years (biggest moves come from young stocks); price > $8–9 (reduce noise)
+- **Visual review on weekly charts**: Remove stocks without clean sideways consolidation, too extended, or buyout targets
+- **Always check for buyouts**: If a stock looks too perfectly sideways, verify it's not already acquired
+- **High volume mandatory**: Breakouts without real volume are likely to fail — "there has to be tall volume"
+- **First leg only**: Don't chase second or third leg stocks — "the first few years of marriage, that's where the fun is"
+- **Market phase matters**: MDT works best in established bull markets; choppy early recoveries cause breakout failures
+- **Designed for working professionals**: Weekend prep → 10–15 watchlist stocks → 1–2 breakouts per week
+- **Not for beginners**: "If you're a beginner, don't try all these things — the more they get exposed, the more confused they're going to get"
+
+See curated note: [[../../Pradeep Bonde/07. MDT Guide/MDT Guide|MDT Guide]]
 
 ## Full Transcript
 

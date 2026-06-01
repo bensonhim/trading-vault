@@ -20,7 +20,13 @@ tags:
 
 ## Summary
 
-- **Requirement**: Now let's look at in **order** to use this step by step, right, first, you need to create a scan for m 20. *The video says:* "Now let's look at in **order** to use this step by step, right, first, you need to create a scan for m 20."
+- **Primary use**: M20 finds **anticipation setups** — stocks that just had the first leg up and are now forming an orderly pullback, bull flag, or volatility contraction.
+- **Workflow**: Run M20 bullish scan → sort by negative NC → go through every stock → identify stocks forming continuation patterns → create watchlist → enter in anticipation of breakout.
+- **Key principle**: You want stocks that are **not** breaking out today. You want the first leg done, now going sideways. Example: CHRS — going down, momentum turns positive, then orderly pullback → entry point.
+- **AutoZone example**: High-priced stocks trigger M20 quickly because $20 on a $2,500 stock is less than 1% — they show up in the scan but may be buyouts.
+- **Market context matters**: If the market is in a downtrend, you may not want to take anticipation setups. Wait for favorable conditions.
+- **Bearish side**: M20 bearish list finds short candidates — stocks with first leg down and weak bounce, which are potential weak structure shorts.
+- **Dual purpose**: M20 bullish for anticipation setups after first leg up; M20 bearish for watchlisting potential shorts after first leg down.
 
 ## Full Transcript
 

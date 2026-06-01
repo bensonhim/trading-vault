@@ -20,21 +20,12 @@ tags:
 
 ## Summary
 
-- Now it is it was forming a box here, and from the box, it had a **breakout** here, but obviously, the bearish market again, remember, if you remember Darwaz's book, Darwaz was very clearly saying that Darwaz's method in rising market.
-- In this method, what Darwaz was looking at is one of the first criteria for looking at a stock which she decided to **trade** was a stock which has at least doubled from fifty two week low.
-- Now, what we are going to do is we are going to write the **condition** which Darwa's mimics the Darwa's thinking, and this is min low two fifty two is greater than or equal to 1.8.
-- Now, in **order** to find out also within that, look at how much, like, which stock is the strongest because you have three fifty one stocks and which is the weakest stock.
-- Now once we put this **condition** and once we run this scan, what we'll find is that you have 351 stocks which are showing up here, and we can move this and tab here.
-- So once we put in this here, you will see that obviously this stock has made the biggest move because it was **trading** at like $0.09 cents and it's gone to 26.
-- Now, once you have a DT scan, all these stocks which you're going to look at, right, are basically stocks which have doubled from their fifty two week low.
-- So insert a column and which is basically what we are going to call that column is d t column, but it is looking for c divided by mean low two fifty two.
-- And you also want, in addition to this **condition**, you want a **condition** which is **liquidity** because you don't want to be looking at very illiquid stocks.
-- All of these stocks were, like, kind of, basically, some sort of a buyout or things like that might be, or some reason, because of the misprint here.
-- Mainly, 3.1 is greater than or equal to 100,000, which essentially means that this stock has traded 100,000 shares in each of the last three days.
-- So in **order** to find this kind of a stock, let's write a scan or a combination scan, which is going to find for you the Darawas kind of stocks.
-- So the higher the value, the more likely that that stock has I don't know, not more likely, but the stock has made the biggest move, right?
-- And in the next set of video, or next video, I'm going to show you how and who, which kind of a trader can benefit by using DT Scan.
-- But, like, if you really look for a stock now here is a stock which has made 700 and or 697% move from its fifty two week low.
+- **Scan setup**: Create a combo list named "DT" (Double Trouble) in TC2000 with US stocks, liquidity filter `MINV3.1 >= 100,000`, price filter `C >= 3`, and core condition `C / MINL252 >= 1.8`.
+- **DT ranking column**: Add `C / MINL252` as a "DT" column to rank stocks by how much they've risen from 52-week lows. Higher DT = bigger move (e.g., a stock at $26 from a $0.09 low has DT ≈ 289; another at 697% from low).
+- **Buyout warning**: Many extreme DT values are buyouts or acquisitions — always visually check.
+- **Result**: ~351 stocks meeting the condition at any time.
+- **Darvas context**: This is Darvas's starting criterion — stocks that have at least doubled from 52-week low. But he had additional criteria (near all-time high, infant industry, sales growth).
+- **Market phase**: Darvas explicitly said his method works best in a rising market.
 
 ## Full Transcript
 

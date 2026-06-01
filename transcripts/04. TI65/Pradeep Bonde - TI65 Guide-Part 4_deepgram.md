@@ -20,21 +20,10 @@ tags:
 
 ## Summary
 
-- Now if I apply this **condition** to this set of stocks, now what I'm going to get is I'm going to get and this you'd then, like, you know, basically, you move this here and put a tab here.
-- Now, what you want to do is you want to use this **trend** intensity to find stocks which are in a positive **momentum** phase and stocks, which are in a negative **momentum** phase.
-- And in the next video, I'm going to show you how to use the bullish and bearish list to anticipate or to find anticipation setups using this particular universe of lists.
-- Now what we are going to do is we are going to add a **liquidity** **condition** because you only want to focus on stocks which have **liquidity** conditions.
-- Meanwhile, V3.1 is greater than or equal to $100,000 So stocks traded each of the last three days, 100,000, and c is greater than or equal to $3.
-- **Trend** intensity is a **momentum** **indicator** which tells you which stock is trending up or which stock is trending down.
-- Now the in addition to this, I really don't want to look at stocks which are **trading** below price of three.
-- So in **order** to create a bearish **trend**, go to new and then create combo list and name it bearish TI 65.
-- So I'm going to write a formula for that, and that is min v 3.1 is greater than or equal to 100,000.
-- And then add US stocks, add ETFs, add American deposit receipt, and we are going to write a formula.
-- Not only that, it tells you the speed with which it is trending up or the intensity of the **trend**.
-- So this way, you can create a universe of stocks which have **trend** intensity to the positive side.
-- So stock is in a positive or negative **trend**, but it also tells you how intense is the **trend**.
-- So now when you run this scan, you have eight thirty two stocks which are in a downtrend.
-- So once I add this **condition** and create this scan, what you see is that you have this.
+- **Bullish TI65 Combo List**: US stocks + ADRs + ETFs, liquidity filter `MINV3.1 >= 100,000`, price `C >= 3`, and `AVGC7/AVGC65 >= 1.05` → yields ~870 stocks in bullish trend intensity.
+- **Bearish TI65 Combo List**: Same universe, but `AVGC7/AVGC65 <= 0.95` → yields ~832 stocks in downtrend.
+- **Liquidity matters**: Only focus on stocks with adequate trading volume (100K+ shares over last 3 days) and price above $3 to avoid illiquid and penny stocks.
+- **Two universes together** give you a snapshot of overall market buying/selling pressure and a pool of stocks to scan for anticipation setups.
 
 ## Full Transcript
 

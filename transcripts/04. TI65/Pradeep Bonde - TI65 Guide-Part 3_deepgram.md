@@ -20,7 +20,10 @@ tags:
 
 ## Summary
 
-- **Requirement**: So in **order** to use **trend** intensity, what you need to do is you need to have this number, **trend** intensity on your **chart**, because ... *The video says:* "So in **order** to use **trend** intensity, what you need to do is you need to have this number, **trend** intensity on your **chart**, because that number is going to tell you how much is the **trend** intensity."
+- **Toolbar value**: Add the TI65 numeric ratio (e.g., "T 1.82") to every chart as a toolbar indicator — create a new indicator named `65T` with formula `AVGC7/AVGC65`, then add it via Edit Toolbar → Plus → 65T, with prefix, size (20), and color (blue).
+- **Instant visual read**: With TI65 on the toolbar, you immediately know whether the trend is positive or negative and how fast — a value of 2.0 means very fast uptrend; 0.04 means intense downtrend.
+- **Keep decimals at 2** for readability — higher precision doesn't help.
+- **Use for stock selection**: High TI65 = strongest stocks for bullish entries; low TI65 = weakest stocks for shorts or bounce plays.
 
 ## Full Transcript
 

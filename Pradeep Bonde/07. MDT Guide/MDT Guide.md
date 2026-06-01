@@ -179,14 +179,28 @@ For longer-term holds, Pradeep strongly recommends avoiding biotech:
 
 > "If you want to retain your money and also not really get into a poor house, it's much better to not trade biotech for longer term hold."
 
-#### Step 4: Visually Review Remaining Stocks
+#### Step 4: Additional Filters (Optional)
+
+Narrow further before visual review:
+
+| Filter | How | Why |
+|---|---|---|
+| **IPO age < 5 years** | Add IPO date or use TC2000 filter | "The first few years of a stock's life is where the fun is" — young stocks make the biggest moves |
+| **Price > $8–9** | Sort by price, eliminate low-price stocks | Reduces candidates; low-price stocks are noisier and riskier |
+| **Earnings date** | Check earnings calendar before entry | Don't enter just before earnings — avoid holding through unpredictable gaps |
+
+> "I only do this on stocks which have appeared in the last five years. This is where you get good bang for your buck. After five years, it's all like the first few years of marriage — that's where the fun is. After that, it's all washing the dishes and drudgery."
+
+#### Step 5: Visually Review Remaining Stocks
 
 Go through the remaining stocks on a **weekly chart** (easier to see bases):
 
 - Remove stocks that are not forming clean sideways consolidations
 - Remove stocks that are too extended (already broken out)
-- Remove stocks with buyout risk
+- **Always check for buyouts** — if a stock looks too good, verify it's not an acquisition target already
 - Keep stocks with 2–3 month bases near highs
+
+> "When you see something going sideways like this, the first thing is to check if there is a buyout. If there is a buyout, that's not a setup — that's a done deal."
 
 **Result:** **10–15 stocks** setting up nicely per week.
 
@@ -210,15 +224,20 @@ The perfect MDT setup has these characteristics:
 
 **Real examples from the transcript:**
 
-| Stock | Pattern |
-|---|---|
-| **Madrigal (MDGL)** | Strong 50 days ago, now going sideways |
-| **Exact Sciences (EXAS)** | Big move, 2–3 month consolidation |
-| **Burlington (BURL)** | First leg up, now sideways |
-| **Spotify (SPOT)** | Forming a base |
-| **Build-A-Bear Workshop** | Multi-year base, multi-month potential |
-| **Crocs (CROX)** | Big move, sideways, breakout |
-| **Daktronics** | 4-week base, then breakout |
+| Stock | Pattern | Notes |
+|---|---|---|
+| **Madrigal (MDGL)** | Strong 50 days ago, now going sideways | Classic MDT50 setup |
+| **Exact Sciences (EXAS)** | Big move, 2–3 month consolidation | Clean sideways after first leg |
+| **Burlington (BURL)** | First leg up, now sideways | Avoid second/third leg stocks like this |
+| **Crocs (CROX)** | Big move, sideways, breakout | Confirmed with high volume |
+| **Spotify (SPOT)** | Forming a base | Choppy stock — requires extra caution |
+| **Build-A-Bear Workshop** | Multi-year base, multi-month potential | Rare, high-reward setup |
+| **Daktronics** | 4-week base, then breakout | Short consolidation example |
+| **Program Leasing (PL)** | Good move, consolidating on daily | Approved to keep in watchlist |
+| **IDCC** | Forming sideways pattern | Potential buyout — always verify |
+| **HIMS** | In MDT universe, setting up | Check earnings date before entry |
+| **ACLS** | Setting up very nicely on daily | Clean consolidation near highs |
+| **Universal Holdings** | 4-week base, breakout forming | Beginner-level setup |
 
 ---
 
@@ -297,7 +316,10 @@ All three work together:
 - **MDT25** = strong 1 month ago (1-month consolidation setups)
 - **MDT50** = strong 2 months ago (2-month consolidation setups)
 
-#### Principle 5: Weekend Work, Weekday Execution
+#### Principle 5: Always Check for Buyouts
+> "When you see something going sideways, always check if there is a buyout. If there is a buyout, that is not a trade opportunity."
+
+#### Principle 6: Weekend Work, Weekday Execution
 > "If you do it on the weekend, you'll get a watch list. During the weeks, one or two might break out from that."
 
 ---
@@ -336,8 +358,9 @@ All three work together:
 6. **High volume breakout is mandatory** — low volume breakouts fail
 7. **Designed for working professionals** — weekend prep, weekday execution, multi-week holds
 8. **First leg only** — don't chase second or third leg
-9. **Works best in established bull markets** — avoid choppy beginnings
-10. **Not for beginners** — master shorter-term trading first before attempting MDT
+9. **Always check for buyouts** — if a stock looks too perfectly sideways, verify it's not already an acquisition target
+10. **Young stocks perform best** — focus on stocks that IPO'd within the last 5 years for biggest moves
+11. **Not for beginners** — master shorter-term trading first before attempting MDT
 
 ---
 

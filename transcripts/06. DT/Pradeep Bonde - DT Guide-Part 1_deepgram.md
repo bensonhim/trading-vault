@@ -20,7 +20,11 @@ tags:
 
 ## Summary
 
-- **Requirement**: Now, if you have to find stocks like this, then double trouble is the method. *The video says:* "Now, if you have to find stocks like this, then double trouble is the method."
+- **What is Double Trouble (DT)**: A momentum method inspired by Nicolas Darvas's book — finding stocks that have doubled (or risen 80%+) from their 52-week low.
+- **Why 80%, not 100%**: Darvas accepted stocks within 20% of doubling, giving room for the "box" formation. The threshold is `C / MINL252 >= 1.8` (80% rise from 52-week low).
+- **The "box" concept**: After doubling, a stock forms a consolidation "box" near the high. Darvas would buy when the stock broke above the box and place his stop at the bottom of the box.
+- **Name origin**: After a stock doubles, it either doubles again or gets into trouble — hence "Double Trouble."
+- **Stock examples**: Rhythm (RTHM) doubled then formed a box; TRVI doubled and formed a Darvas box; Revlon doubled, formed a box, then broke out.
 
 ## Full Transcript
 

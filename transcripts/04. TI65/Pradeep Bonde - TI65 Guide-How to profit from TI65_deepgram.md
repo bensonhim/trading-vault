@@ -20,11 +20,14 @@ tags:
 
 ## Summary
 
-- **Requirement**: Now there is a a couple of concepts which you need to understand whenever we are dealing with **momentum**. If you do it this way, ... *The video says:* "Now there is a a couple of concepts which you need to understand whenever we are dealing with **momentum**. If you do it this way, then every day in the what you need to do is take this universe of t I sixty five bullish, go through every single stock, which is like anything which is up anyway, would have..."
-- **Market **Condition****: So now and the third type type of **setup** is **consolidation**, where you get a longer **consolidation**. And from the **consolidation**, there is a breakout. ... *The video says:* "So now and the third type type of **setup** is **consolidation**, where you get a longer **consolidation**. And from the **consolidation**, there is a breakout. So these kind of stocks you can find when you do this kind of a work like say hey what is the like it had a **breakout** already like in a bicycle but like in..."
-- ****Trading** Rule**: So that way you can find something which has a very **long** I would not recommend two hundred and fifty days because, you're going to ... *The video says:* "So that way you can find something which has a very **long** I would not recommend two hundred and fifty days because, you're going to eliminate a lot of IPOs of things which don't **trade** that much. But like an end, there is can be a stock which can go up for two hundred day and it never get overextended."
-- **Key Concept**: So here, SIGA, you would have found it after, like, and this is where it would have told you that there was a change of ... *The video says:* "So here, SIGA, you would have found it after, like, and this is where it would have told you that there was a change of **trend** and you would have found so many shorting points along the way once you do this right and basically, so, so TI 65 once you understand the concept of TI 65, right? So using..."
-- **Key Principle**: So experienced people, these are the kind of things which you can do in the night and improve your ability to get into **trend**. So ... *The video says:* "So experienced people, these are the kind of things which you can do in the night and improve your ability to get into **trend**. So that is the way in which you can use TI 65 to further enhance your ability to find good setups and goods stocks by using **momentum**."
+- **Absolute vs. relative momentum**: TI65 measures absolute momentum (a stock's own velocity), not relative ranking. Relative strength (e.g., IBD RS 97) tells you rank but not when momentum started — traders using only relative momentum buy extended stocks.
+- **Three setup types mapped to TI65**: Bottom bounce (TI65 negative or just turning), continuation/two-leg (TI65 > 1.05 — momentum established), consolidation breakout (TI65 > 1.05, flat 3–10 days).
+- **7-day momentum pullback scan**: Add `C/C7` column to bullish TI65 universe; sort ascending → reversals at top, orderly pullbacks in middle, extended stocks at bottom. Focus on pullbacks.
+- **Days In column (young momentum)**: `COUNTTRUE(AVGC7/AVGC65 >= 1.05, 100)` — find stocks that **just** entered bullish TI65 (1–10 days). Young setups allow holding for second leg; old setups don't.
+- **Short side identically**: Bearish TI65 universe + D65 Days In column → find stocks just turning negative for early short entries. Day-after-earnings bounce failures and counter-trend bounce failures are key patterns.
+- **9M+ volume breakdown** signals renewed institutional selling within the bearish list.
+- **For experienced traders only**: This session assumes understanding of momentum concepts and existing trading mechanics — not a beginner guide.
+- **Most stock moves happen in ~2 months**: Staying in TI65 > 1.05 past 120–150 days is very rare; enter early or skip.
 
 ## Full Transcript
 

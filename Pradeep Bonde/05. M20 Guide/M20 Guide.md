@@ -205,6 +205,7 @@ The main purpose of M20 is **anticipation** — not chasing breakouts, but findi
 | **Aurora Sur** | M20 momentum → minor pullback | Watchlist |
 | **DHX** | Big buying came in → orderly pullback | Watchlist |
 | **Tesla** | Buying came in → going sideways | Watchlist |
+| **Catalyst stock** | Big move → pulling back | Event-driven, pullback entry |
 
 > "The primary use of M20 is to find anticipation setups which have had the first leg up, and they are forming a very orderly thing."
 

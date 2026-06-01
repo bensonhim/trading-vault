@@ -20,7 +20,9 @@ tags:
 
 ## Summary
 
-- **Requirement**: So in that case, what you need to do if you are in Europe is make one zero five divided by 100, which is the ... *The video says:* "So in that case, what you need to do if you are in Europe is make one zero five divided by 100, which is the same as 1.05. So just for Europeans, you need to make changes because your keyboard is different."
+- **Chart Setup**: TI65 is set up as a Custom PCF True Indicator in TC2000 with two area plots — bullish (green, formula `AVGC7/AVGC65 >= 1.05`) and bearish (red, formula `AVGC7/AVGC65 <= 0.95`) — overlaid on the same panel.
+- **European keyboards**: Use `105/100` instead of `1.05` and `95/100` instead of `0.95` due to different keyboard layouts.
+- **Key advantage**: Unlike other momentum indicators, TI65 tells you the **exact day** when trend intensity turned positive or negative, and when it stopped being in that zone.
 
 ## Full Transcript
 

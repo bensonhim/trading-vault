@@ -20,9 +20,14 @@ tags:
 
 ## Summary
 
-- **Key Concept**: It is about understanding Darwass' method, because he was not just looking for a stock which has doubled. *The video says:* "It is about understanding Darwass' method, because he was not just looking for a stock which has doubled."
-- **Requirement**: So you have to go through each of the stocks and look for first. So, in fact, the only stocks which you would be interested ... *The video says:* "So you have to go through each of the stocks and look for first. So, in fact, the only stocks which you would be interested in is these three stocks, out of which you have to look at which one is forming a good box. And Out of which you have to look at which one is forming a good..."
-- ****Trading** Rule**: So Darwaz would never go for this. *The video says:* "So Darwaz would never go for this."
+- **More than just doubling**: Darvas didn't just look for stocks that doubled — he wanted 5 additional criteria: (1) near all-time high, (2) infant/new industry, (3) low capitalization, (4) rapid sales/earnings growth, (5) forming a Darvas box.
+- **Darvas buy/sell rules**: Buy stop at 20¢–50¢ above the box high (e.g., $15.67 + 25¢); stop loss at the low of the box. If the stock breaks below the box, it's "in trouble" — exit.
+- **The funnel**: 351 DT stocks → run on Bucket Zero → check near all-time high → check for box formation → only 3–5 stocks survive all criteria.
+- **Bucket Zero**: Run DT on Bucket Zero (IPO'd last 10 years + 39%+ sales growth + market cap <$10B) instead of all US stocks — automatically satisfies 3 of Darvas's 5 criteria.
+- **Stock examples of what Darvas would SKIP**: Utilities (AMPS), oil & gas (High Peak Energy), shipping (ASC) — none are infant industries.
+- **Stock examples of valid candidates**: TH (near all-time high, forming good box), a stock with box high $314.90 + $0.50 buy stop, TMNTX (forming a box).
+- **Who is this for**: Position traders and investors looking for multi-month holds, NOT swing traders. Pradeep says "I don't use it anymore" but created it after reading Darvas's book.
+- **Market phase**: Darvas explicitly said his method works in rising markets — using DT in a bearish market produces many boxes that break down instead of up.
 
 ## Full Transcript
 

@@ -20,7 +20,13 @@ tags:
 
 ## Summary
 
-- **Requirement**: In **order** to do this by yourself, what you need to do is what whichever **chart** you are on this particular **chart**. *The video says:* "In **order** to do this by yourself, what you need to do is what whichever **chart** you are on this particular **chart**."
+- **Chart setup**: Add M20 as a Custom PCF True Indicator on your TC2000 chart in two parts — bearish first (red histogram), then bullish (green histogram) — then overlay both on the same panel using the arrow overlay button.
+- **Bearish formula**: `C <= 0.8 * MAXC30`, displayed as red histogram. Shows where momentum turned negative.
+- **Bullish formula**: `C >= 1.2 * MINC30`, displayed as green histogram. Shows where momentum turned positive.
+- **Visual result**: When you overlay both, you see red bars (negative momentum) and green bars (positive momentum) on the same panel — like a traffic light.
+- **Stock examples**: CHRS (stock going down → M20 turns green → anticipation entry), Beyond Meat, DraftKings (momentum turned positive), RIOT (downtrend → positive turn).
+- **Primary use**: Identify anticipation setups after momentum changes direction.
+- **Key point**: M20 is an anchored momentum — anchored to the lowest closing price of the last 30 days (bullish) or highest (bearish). Advantage: finds trend changes very early.
 
 ## Full Transcript
 

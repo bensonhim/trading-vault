@@ -20,8 +20,16 @@ tags:
 
 ## Summary
 
-- **Requirement**: And we want to calculate average c one twenty six, so you have to put point 25. So, again, to use this, what you have ... *The video says:* "And we want to calculate average c one twenty six, so you have to put point 25. So, again, to use this, what you have to do is you have to insert this m d two twenty five, look at the top 100 or 200 stocks by this. So in **order** to do that, all that you need to do..."
-- **Market **Condition****: Now they're having a **consolidation** near the high. *The video says:* "Now they're having a **consolidation** near the high."
+Part 2 introduces offset MDT — MDT25 and MDT50 — the most important concept for finding consolidation setups. Key points:
+
+- **MDT25** (`C25 / AVGC126.25`): MDT ranking 25 days ago (1 month offset). Finds stocks that were strong a month ago and have since gone sideways — these are your consolidation breakout candidates
+- **MDT50** (`C50 / AVGC126.50`): MDT ranking 50 days ago (2 months offset). Finds stocks that were strong 2 months ago — these form longer, higher-quality bases (cup-with-handle, VCP, flat bases)
+- **Why offset matters**: Plain MDT shows what's strong *right now*. MDT25/MDT50 show what *was* strong and is now setting up — that's where the money is
+- **Short setups**: MDT25 also finds stocks that were strong but are now breaking down — short candidates
+- **Madrigal (MDGL) example**: Ranked #1 by MDT50, then went sideways forming a classic consolidation
+- **Absolute momentum threshold**: `C / AVGC126 >= 1.18` for bullish (green area plot on chart)
+
+See curated note: [[../../Pradeep Bonde/07. MDT Guide/MDT Guide|MDT Guide]]
 
 ## Full Transcript
 
