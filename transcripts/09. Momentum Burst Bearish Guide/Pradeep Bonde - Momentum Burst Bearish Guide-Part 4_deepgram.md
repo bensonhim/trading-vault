@@ -20,7 +20,16 @@ tags:
 
 ## Summary
 
-- **Market **Condition****: During that part time period, if you take a straight breakdown from a **consolidation**, then it is likely to work. During this time, if there ... *The video says:* "During that part time period, if you take a straight breakdown from a **consolidation**, then it is likely to work. During this time, if there is a breakdown from a **consolidation**, it can work. But the same **consolidation** breakdown, if you try and do a shot in a bear a bullish market, it does not work."
+Part 4 covers Setup #4: consolidation breakdowns during bearish Market Monitor periods. Key points:
+
+- **The context rule**: A breakdown from consolidation works **only when** the Market Monitor primary indicator is bearish (red)
+- **Same pattern, opposite results**: The identical consolidation breakdown that works during bearish phases **fails in bullish phases**
+- **Why breadth matters**: When the primary indicator is red, there is selling pressure across the market — no buyers step in to catch falling stocks, so breakdowns have follow-through
+- **What to avoid**: Never take this setup when Market Monitor is bullish — "If you do the same trade when the Market Monitor is bullish, you're not likely to make money"
+- **Pradeep's summary of what he actually trades**: (1) Avoids parabolic shorts (wider stops, logistics). (2) Takes shorts on days SPY is down 1.5%+. (3) Shorts when primary indicator is bearish. (4) Favors weak structure shorts (detailed in Part 5)
+- **Key quote**: "During that particular time period, if you take a straight breakdown from a consolidation, then it is likely to work. But the same consolidation breakdown, if you try and do a short in a bullish market, it does not work."
+
+See curated note: [[../../Pradeep Bonde/09. Momentum Burst Bearish Guide/Momentum Burst Bearish Guide|MB Bearish Guide]]
 
 ## Full Transcript
 

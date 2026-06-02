@@ -20,9 +20,15 @@ tags:
 
 ## Summary
 
-- **Requirement**: And in **order** to get those kind of shots, you have to pay a charge, and those charges can be very high. So parabolic shot, ... *The video says:* "And in **order** to get those kind of shots, you have to pay a charge, and those charges can be very high. So parabolic shot, if you want to do, you need to really focus on stocks which have gone up 300% plus in a **short** period of time. Then you need to have a special broker. You need to..."
-- **Key Principle**: It requires your ability to pay for borrow cost. And many times when you're paying high borrow cost, your ability to hold these charts is ... *The video says:* "It requires your ability to pay for borrow cost. And many times when you're paying high borrow cost, your ability to hold these charts is going to be questionable because the cost of keep on holding the **position** is going to be much higher."
-- ****Trading** Rule**: There are reason why I don't **trade** these shots because the stop which is required is much wider on these shots. *The video says:* "There are reason why I don't **trade** these shots because the stop which is required is much wider on these shots."
+Part 2 deep-dives into parabolic shorts — why they're theoretically the most profitable but operationally the most difficult. Key points:
+
+- **Parabolic short definition**: Stocks up 300%+ in <10 days that inevitably crash 80–90%+ (TC2000 example: 7,000–8,000% surge then 90% collapse)
+- **Three reasons Pradeep does NOT trade parabolic shorts**: (1) **Wider stops required** — stock can go up another 37% after your entry; 10–20% stops needed. (2) **Frequent trading halts** — stocks get intraday halts; resume prices can gap against you. (3) **Borrow costs destroy profitability** — hard-to-borrow stocks cost 70%+/day in borrow fees; holding becomes unsustainable
+- **Specialized broker needed**: Low-float stocks require a locate broker (e.g., CenterPoint, Cobra) that specializes in finding shorts
+- **Christian Kulamaghi's guide**: Pradeep credits the member section parabolic short guide for those who want to pursue this setup
+- **Bottom line**: "Parabolic shot, highly profitable setup, requires higher stop, requires specialized broker. I personally don't trade."
+
+See curated note: [[../../Pradeep Bonde/09. Momentum Burst Bearish Guide/Momentum Burst Bearish Guide|MB Bearish Guide]]
 
 ## Full Transcript
 

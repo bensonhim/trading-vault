@@ -20,8 +20,15 @@ tags:
 
 ## Summary
 
-- **Market **Condition****: The third **setup** is essentially any breakdown, regular breakdown happening from **consolidation**. *The video says:* "The third **setup** is essentially any breakdown, regular breakdown happening from **consolidation**."
-- ****Session** Rule**: But primarily out of this, I only **trade** weak structure shot. *The video says:* "But primarily out of this, I only **trade** weak structure shot."
+Part 1 introduces the five bearish short setups and which ones Pradeep actually trades. Key points:
+
+- Markets have inherent bullish bias — short opportunities are rarer than long setups
+- **Five bearish setups defined**: (1) Parabolic shorts — stocks up 300%+ that collapse; works even in bull markets. (2) Weak structure shorts — 3+ consecutive selling days + weak bounce + continued selling; works in all markets. (3) Index-correlated breakdowns — consolidation breakdowns when SPY is down 1.5%+ that day. (4) Confirmed bearish mode breakdowns — breakdowns when Market Monitor breadth is negative. (5) Catalyst-based shorts — event-driven (e.g., Netflix earnings miss, 133M shares) with extreme volume
+- **Pradeep's personal approach**: "But primarily out of this, I only trade weak structure shot"
+- Future videos will cover parabolic shorts in detail before diving deeper into weak structure
+- The bullish momentum burst framework applies inversely — same principles, reversed direction
+
+See curated note: [[../../Pradeep Bonde/09. Momentum Burst Bearish Guide/Momentum Burst Bearish Guide|MB Bearish Guide]]
 
 ## Full Transcript
 

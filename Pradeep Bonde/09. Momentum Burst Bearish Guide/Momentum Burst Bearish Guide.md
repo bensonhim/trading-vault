@@ -66,7 +66,7 @@ A regular breakdown from consolidation only works when the Market Monitor primar
 
 ### 1.5 Catalyst-Driven Short
 
-Occasionally, a stock with 100M+ shares traded (e.g., Netflix post-earnings) will have a massive selloff. These are rare 9-figure volume events.
+Occasionally, a stock with 100M+ shares traded (e.g., Netflix post-earnings miss with 133M shares) will have a massive selloff. These are rare 9-figure volume events.
 
 > "Five types of setups. But primarily out of this, I only trade weak structure shot." — *Part 1*
 
@@ -191,6 +191,8 @@ This pattern occurs when large institutional holders (mutual funds, hedge funds)
 | Bounce size | Less than 2.5% (the smaller, the better) |
 | Best setups | 1-day pause only |
 | Pre-decline drop | 25–36%+ (shows magnitude of liquidation) |
+
+> "Continuous three days of decline, followed by one to three days of a minor bounce of less than 2.5%, followed by selling. The best setups are where the stock just bounces one day." — *Part 5*
 
 ### 5.4 Examples
 

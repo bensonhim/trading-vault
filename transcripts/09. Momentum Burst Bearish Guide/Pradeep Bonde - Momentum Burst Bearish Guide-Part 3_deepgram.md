@@ -20,7 +20,17 @@ tags:
 
 ## Summary
 
-- **High **Probability****: So taking a shot on a **setup** where there is a **momentum** burst to the downside when the spy is down 1.5%, is a high ... *The video says:* "So taking a shot on a **setup** where there is a **momentum** burst to the downside when the spy is down 1.5%, is a high **probability** setup."
+Part 3 covers Setup #3: SPY-breakdown synchronized shorts — Pradeep's second-most-used bearish setup. Key points:
+
+- **Core principle**: When SPY drops 1.5%+ in a single day, individual stocks break down in near-perfect correlation — AMD, NVIDIA, AMZN, GOOGL all mirror SPY's pattern
+- **In bear markets**, stock-index correlation is high; shorting alongside SPY weakness is high probability
+- **Entry rule**: Look for the **first day** of a momentum burst down — do NOT short something already down 3–4 consecutive days (they may bounce soon)
+- **Hold period**: 3–5 days; **expected profit**: 10–20%
+- **Stock selection**: Nearly any liquid stock with a first-day breakdown works on these big-down days — the setup is stock-agnostic
+- **Works only in bearish markets**: SPY down 1.5% days cluster in confirmed downtrends; rare in bull markets
+- **Key quote**: "Taking a shot on a setup where there is a momentum burst to the downside when the SPY is down 1.5%, is a high probability setup."
+
+See curated note: [[../../Pradeep Bonde/09. Momentum Burst Bearish Guide/Momentum Burst Bearish Guide|MB Bearish Guide]]
 
 ## Full Transcript
 

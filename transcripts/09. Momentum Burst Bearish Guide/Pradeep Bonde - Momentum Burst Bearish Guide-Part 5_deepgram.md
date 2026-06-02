@@ -20,7 +20,17 @@ tags:
 
 ## Summary
 
-- **Critical Point**: So it's very important to understand this particular **setup**, in terms of, like, kinda basically, you get a waterfall decline, you get just a small ... *The video says:* "So it's very important to understand this particular **setup**, in terms of, like, kinda basically, you get a waterfall decline, you get just a small pause, and then selling continues."
+Part 5 introduces weak structure shorts — Pradeep's **favorite short-side setup** that works in all market conditions. Key points:
+
+- **The anatomy**: (1) Waterfall decline of 3+ consecutive down days (25–36% drop), (2) minor bounce of **less than 2.5%** lasting only 1–3 days (often just 1 day — a "pause"), (3) selling resumes for another 3–4 days
+- **Underlying mechanism**: Institutional holders (mutual funds, hedge funds) are liquidating — they sell every day, there are no buyers, only sellers
+- **Examples**: IQV (tiny pause then continued selling), AEHR (down 25–36%, bounce of only 2.4%, then resumed decline)
+- **Best setups**: Where the stock bounces just **one day** — the smaller and shorter the pause, the more likely follow-through selling
+- **Works in all markets**: Unlike SPY-sync shorts (bear only) or parabolic shorts (logistics nightmare), weak structure shorts reflect stock-specific institutional liquidation
+- **Precise definition**: "Continuous three days of decline, followed by one to three days of a minor bounce of less than 2.5%, followed by selling. The best setups are where the stock just bounces one day."
+- **Pradeep's favorite**: "Weak structure short is my favorite setup on the short side because it works in all categories, in all kind of market conditions."
+
+See curated note: [[../../Pradeep Bonde/09. Momentum Burst Bearish Guide/Momentum Burst Bearish Guide|MB Bearish Guide]]
 
 ## Full Transcript
 
