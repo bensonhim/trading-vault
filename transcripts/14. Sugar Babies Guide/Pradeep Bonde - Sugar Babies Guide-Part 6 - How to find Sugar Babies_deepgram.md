@@ -20,10 +20,7 @@ tags:
 
 ## Summary
 
-- ****Probability****: Because the **probability** is that you are right. *The video says:* "Because the **probability** is that you are right."
-- **Requirement**: So you have to put a smaller amount of money. You know, you have to be willing to take losses. *The video says:* "So you have to put a smaller amount of money. You know, you have to be willing to take losses."
-- **Market **Condition****: And it went into **consolidation**, so it reset itself. *The video says:* "And it went into **consolidation**, so it reset itself."
-- ****Trading** Rule**: If I keep worrying about all the things which you people are worried about, I would never make money. *The video says:* "If I keep worrying about all the things which you people are worried about, I would never make money."
+TC2000 Count Through is the key tool for building the Sugar Babies list. Do the scan on weekends only — it's 10 minutes of work. The formula: C/C1 ≥ 1.04 AND V ≥ V1 AND V ≥ 8,900,000, counted through 1,450 days. Sort descending by count, take the top 20–30 stocks per timeframe. For 5-day and 10-day windows, minimum count must be 3 or more. Timeframes: 5, 10, 20, 50, 126, 252, 504, 756, 1,450 days. Combine all flagged stocks into one Sugar Babies watchlist (~87–90 names). Three ways to use the list: (1) SOS breakout = automatic buy, even if choppy — "when a Sugar Baby calls, you take the call"; (2) reversal bullish on a Sugar Baby = high probability buy; (3) watchlist for setups — Sugar Babies by definition have catalysts, so any setup forming on one is worth monitoring. Ciphers (CRML) and other newly triggered names are live examples.
 
 ## Full Transcript
 

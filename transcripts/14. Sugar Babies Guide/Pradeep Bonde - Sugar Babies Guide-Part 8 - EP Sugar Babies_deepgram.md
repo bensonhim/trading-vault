@@ -20,10 +20,7 @@ tags:
 
 ## Summary
 
-- **Requirement**: And in **order** to do this, all that you need to do is start by 05:04. When it comes to twenty days and ten days ... *The video says:* "And in **order** to do this, all that you need to do is start by 05:04. When it comes to twenty days and ten days is when you have to be careful because you want to select at least something which has a three plus, 9,000,000 record. And this is where you have to make sure that it has three..."
-- ****Trading** Rule**: I don't know, like and I think this is never going to fly, but, like and it makes from time to time these big moves. ... *The video says:* "I don't know, like and I think this is never going to fly, but, like and it makes from time to time these big moves. In fact, and I if people don't **trade** it, are you not going to **trade** it because people don't **trade** it? So he's now getting the chance to date the girls which would have never..."
-- **Key Concept**: And that start of a swing is a basic understanding of swing **trading**. That is if you're capable of understanding a concept like this. *The video says:* "And that start of a swing is a basic understanding of swing **trading**. That is if you're capable of understanding a concept like this."
-- **Market **Condition****: SOS three days, five days, **continuation** setup, or a **consolidation** setup, or just SOS. *The video says:* "SOS three days, five days, **continuation** setup, or a **consolidation** setup, or just SOS."
+Sugar Babies = "EP on steroids." These are stocks the market is deeply in love with — MARA has been a Sugar Baby for 4 years with multiple 9M EPs, and every swing is 40–55%, sometimes 100%. The defining feature: when these stocks move, they move in 4–5 day bursts. Start with 5-day count (minimum 3 hits), then expand to 10, 20, 50 days. At longer lookbacks, require 3+ 9M breakouts to be selective. The setups remain SOS, continuation, and consolidation — no new setup types needed. Must understand EP 9-million first before attempting Sugar Babies; it's a refinement of EP, not a replacement. The "ugly girl at the dance" analogy: stocks nobody wants to trade (like MARA at the time) can be the ones making the biggest moves — don't dismiss them just because they're unpopular.
 
 ## Full Transcript
 

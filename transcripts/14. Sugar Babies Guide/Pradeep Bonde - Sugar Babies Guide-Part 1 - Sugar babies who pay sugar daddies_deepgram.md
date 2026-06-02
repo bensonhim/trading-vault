@@ -20,11 +20,7 @@ tags:
 
 ## Summary
 
-- **Requirement**: All that you need to do is ten days, twenty days, thirty fifty days, one twenty six days, and things like that, and run it ... *The video says:* "All that you need to do is ten days, twenty days, thirty fifty days, one twenty six days, and things like that, and run it on the universe. You have to be willing to give it a room to run. You have to willing to give it more **volatility**. All that you need to do is to understand that this..."
-- ****Trading** Rule**: But that person had never seen it. It's a never ending discussion. *The video says:* "But that person had never seen it. It's a never ending discussion."
-- **Market **Condition****: Even if it is choppier, even if it is not really, like, in a meeting two lens criteria in terms of **consolidation** quality and all, ... *The video says:* "Even if it is choppier, even if it is not really, like, in a meeting two lens criteria in terms of **consolidation** quality and all, I'll still get get into a Sugarbaby because, when Sugarbaby comes in, right, You take it."
-- ****Mean Reversion****: I'm trial primarily interested in a **mean reversion** kind of an entry because they are high persistency. *The video says:* "I'm trial primarily interested in a **mean reversion** kind of an entry because they are high persistency."
-- **Breakeven **Strategy****: How quick do you move, stop to **break even**? *The video says:* "How quick do you move, stop to **break even**?"
+Sugar Babies is a refined version of the EP (Episodic Pivot) strategy. Pradeep discovered that the most explosive EPs — stocks making 5,762% moves like MARA — shared a common signature: 9 million+ volume on a 4% breakout day. MARA had 38M/75M volume, CEI had 11M, and both launched from 9M breakouts. The key insight: rank stocks by how many times they trigger the 4% breakout + 9M volume condition over a given lookback period. These "Sugar Babies" are stocks the market is madly in love with — for months or years, they swing 50–100%+ repeatedly. MARA, RIOT, and Carvana are cited as examples where every swing is massive (some 50%, some 100%, some 1,000%). Rather than scanning thousands of stocks, you maintain a dynamic watchlist of ~60–70 Sugar Babies and trade SOS/continuation/reversal setups on them exclusively. Even choppy setups on Sugar Babies are worth taking because the payoff magnitude dwarfs ordinary stocks. The wife/kiss analogy drives the point home: ordinary stocks give you 8 kisses, Sugar Babies give you 50–1,000.
 
 ## Full Transcript
 

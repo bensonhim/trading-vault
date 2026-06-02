@@ -20,8 +20,7 @@ tags:
 
 ## Summary
 
-- **High **Probability****: What it does is it identifies stocks in the market which have a very high **probability** of making big moves. *The video says:* "What it does is it identifies stocks in the market which have a very high **probability** of making big moves."
-- **Requirement**: And when you have to prioritize, like, a lot of, say, **trading** ideas, you always, take the sugar babies first because they have shown historically ... *The video says:* "And when you have to prioritize, like, a lot of, say, **trading** ideas, you always, take the sugar babies first because they have shown historically the ability to make this a big moves. Not all of them you need to monitor. And, basically so what do you need to monitor?"
+Sugar Babies is a stock selection strategy, NOT a setup. It identifies stocks the market is "madly in love with" — those capable of 40–50% moves in 3–5 days versus 8–20% for ordinary stocks. Each Sugar Baby gives ~4 tradable setups per year (long or short); 60–70 babies × 4 = ~240 trades. The TC2000 scan formula: C/C1 ≥ 1.04 (4% breakout) AND V ≥ V1 AND V ≥ 8,900,000. Use "Count Through" over 1,450 days (max available; 1,500 doesn't work). Sort descending by count, select top 20–30 stocks. For 5-day and 10-day windows, require minimum 3 hits. Create a watchlist called "Sugar Babies" with ~90 stocks. Trade only SOS, reversal bullish, and anticipation setups on these stocks. When you have competing trade ideas, always prioritize Sugar Babies first — they have the proven history of explosive moves.
 
 ## Full Transcript
 

@@ -20,21 +20,7 @@ tags:
 
 ## Summary
 
-- I created a universe which is 10,000,000,000 and did the same thing on Sugar Babies because the Sugar Babies list tends to be dominated by stocks, which are, like, in a lower capitalization.
-- So that way, the larger stocks also get represented, and I selected 30 the same way I select from the other universe from them and put them into one watch list.
-- And then I also created another universe where you're looking at stocks where **liquidity** is true, but capitalization is greater than 10,000,000,000.
-- So in **order** to make sure that there is a fair representation of stocks, which are about 10,000,000,000 also, I just created a universe.
-- NVIDIA, even though yesterday was a down day, it is possible that this is the thing which can break out like this and make a move.
-- I created this other list also, universe, capitalized in about 10,000,000,000 so that, like and this also gets represented.
-- So let's look at, like, an Sugar Babies for the next week, which are setting up possibly setting up for the next week.
-- And I'll post that on the timeline because I'm sure that people would want that, and that's really what it is.
-- I'm going through everything to see something which is setting up and having orderly pull back for next week.
-- So all that you do is you are going to create a watch list for next week from this particular list.
-- I'm not going to watch it, but, like, for those of you who don't have, you can look at that oxy.
-- So a lot of stocks are setting up for next week, Carvana, which I already have positions.
-- And for that, I will remove this and start with looking at this list of sugar babies.
-- Western Digital, Tesla, NVIDIA, Oklo, Wolf, Iron, Cypher, t, CoreView, NVIS, and b.
-- And so the sugar wave is which had **breakout** last week are doing very well.
+Scaling Sugar Babies to ~124–150 names by combining two universes: (1) the standard 4% + 9M Count Through over 1,450 days, and (2) a separate universe of stocks with >$10B market cap to ensure large-cap representation (since Sugar Babies tend to be dominated by lower-capitalization stocks). The two lists are merged into one master watchlist. Pradeep goes through the combined list looking for stocks setting up with orderly pullbacks for the coming week. Current setups include: Carvana (already positioned), Western Digital (3 tight days), Intel, AMD, TSLA, NVDA, Oklo, WOLF, Iron, Cypher, CoreView, and NVIS. The weekly routine: scan the combined list, identify stocks with SOS/reversal/consolidation setups forming, and create a watchlist for the next week's trading.
 
 ## Full Transcript
 

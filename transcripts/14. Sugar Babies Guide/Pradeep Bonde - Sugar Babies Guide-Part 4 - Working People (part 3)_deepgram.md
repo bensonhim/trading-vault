@@ -20,9 +20,7 @@ tags:
 
 ## Summary
 
-- **Key Concept**: So one of the solution one of the solution but this is again, this is only work if you have a good understanding of **trading**, ... *The video says:* "So one of the solution one of the solution but this is again, this is only work if you have a good understanding of **trading**, swing **trading**. You have good understanding of where move starts. You have good understanding of, like, any **momentum** worse. If you understand the concept of **range** expansion, the start of a swing, 3.31%."
-- **Requirement**: It means **entry** at end of the day means like an is there a reason why you need to enter end of the day? So, ... *The video says:* "It means **entry** at end of the day means like an is there a reason why you need to enter end of the day? So, again, in **order** to do something like this high priced stock, you need to really understand why this is likely to work and how to use it. Some of these high priced stocks have wide..."
-- ****Trading** Rule**: See, I never worked for, since I came to US, like, and ever since 2001, and I'm doing fine. *The video says:* "See, I never worked for, since I came to US, like, and ever since 2001, and I'm doing fine."
+For working people who understand swing trading, high-priced stocks ($60+) offer a solution: they swing more linearly, are dominated by institutional players, and are less volatile than lower-priced stocks. Chipotle Mexican Grill and AutoZone are cited as examples of clean, linear swings. The advantage is tighter stops — you can use 1.25–2.5% stops on high-priced stocks versus much wider stops on volatile low-priced stocks. However, this is NOT a beginner solution — you must understand range expansion, SOS, and momentum concepts first. EOD (end-of-day) entry is the primary method for working people: enter after the close based on the day's price action, eliminating the need to babysit positions during market hours.
 
 ## Full Transcript
 

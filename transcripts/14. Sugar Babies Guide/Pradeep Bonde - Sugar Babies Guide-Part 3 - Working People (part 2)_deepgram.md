@@ -20,12 +20,7 @@ tags:
 
 ## Summary
 
-- **Requirement**: And so you continue to look for it, and you have to be extremely selective. And, basically so those are the things which you need ... *The video says:* "And so you continue to look for it, and you have to be extremely selective. And, basically so those are the things which you need to look for while there'll be lot of stocks which will be up 9,000,000 based on story. So what kind of a things you need to look for on a CAD? So that is where,..."
-- ****Probability****: Never say never, but the **probability** is lower. *The video says:* "Never say never, but the **probability** is lower."
-- **Market **Condition****: Same thing, which is like and if you are going to do **consolidation** breakout, which is another thing which can work for working people, but ... *The video says:* "Same thing, which is like and if you are going to do **consolidation** breakout, which is another thing which can work for working people, but then you need to have **catalyst**."
-- **High **Probability****: Because then you are focusing on something which is a high **probability** of working, basically. *The video says:* "Because then you are focusing on something which is a high **probability** of working, basically."
-- **Key Concept**: This is not something which you'll be able to From my understanding. *The video says:* "This is not something which you'll be able to From my understanding."
-- ****Trading** Rule**: And, basically so the working people never open their mouth, and traders dominate. Hedging and all is like an never works. *The video says:* "And, basically so the working people never open their mouth, and traders dominate. Hedging and all is like an never works."
+The recommended method for working people is the 9M EP scan with a clear catalyst. Three types of stocks appear in the 9M EP scan: (1) "liquid lava" like NVDA that shows up every day but has no specific catalyst, (2) future-order catalysts like Oracle, and (3) earnings/sales acceleration catalysts — the real target. Be extremely selective: HOOD had 40% sales growth + 132% profit acceleration, making it a proper candidate. ONAN had earnings but no follow-through, so it was skipped. The shortcut for identifying catalysts: stocks in bucket 0, 1, or 2 of the EP scan, or in IBD 250, have earnings catalysts. Run the 9M scan on just those buckets to narrow your universe. Working people need wider stops since they can't enter at optimal times. Key catalyst types: 39%+ sales growth (consecutive quarters), high profitability (4–5 digit), and turnaround stories. Always compare quarter-over-quarter (same quarter last year).
 
 ## Full Transcript
 

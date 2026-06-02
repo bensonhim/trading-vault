@@ -20,10 +20,7 @@ tags:
 
 ## Summary
 
-- **High **Probability****: So on a day to day basis, when you run an e p nine million scan or look at any scans, the **probability** of something ... *The video says:* "So on a day to day basis, when you run an e p nine million scan or look at any scans, the **probability** of something becoming market darling is very high and it's logical."
-- **Key Concept**: Put all your heart and soul in understanding, on **trading** technology stocks, EP 9,000,000 technology. And this whole thing is based on this EP 9,000,000, ... *The video says:* "Put all your heart and soul in understanding, on **trading** technology stocks, EP 9,000,000 technology. And this whole thing is based on this EP 9,000,000, and whole thing is based on **catalyst**, right, and understanding **catalyst**."
-- **Requirement**: And but that's one of the things which you have to always look at. Because if you want to be a successful trader, you have ... *The video says:* "And but that's one of the things which you have to always look at. Because if you want to be a successful trader, you have to look at the right and basically, you have to look at this and start wondering. You have to be curious, and you have to ask question which nobody ask. If they're all going to..."
-- ****Trading** Rule**: When it showed up like this, I do I don't **trade** very low price stocks. *The video says:* "When it showed up like this, I do I don't **trade** very low price stocks."
+A deeper look at the ~91 Sugar Baby stocks reveals a dominant pattern: technology overwhelmingly dominates the list. Software, semiconductor, computer systems, and communication systems sectors account for the vast majority. Only 2 biotech stocks (REPL and another) appear out of 91, and Pradeep explicitly ignores healthcare stocks in 9M scans because they rarely sustain as market darlings. The key insight: "Put all your heart and soul in understanding trading technology stocks, EP 9-million technology. This whole thing is based on EP 9-million and understanding catalyst." Don't trade very low-priced stocks. Understanding the catalyst is fundamental — the entire system rests on EP 9M + catalyst. Be curious and ask questions nobody asks; that curiosity drives discovery of strategies like Sugar Babies.
 
 ## Full Transcript
 

@@ -20,9 +20,7 @@ tags:
 
 ## Summary
 
-- **Requirement**: So the most important thing which you have to understand is Sugar Babies is a stock selection **strategy**. So you have to have wide stop. ... *The video says:* "So the most important thing which you have to understand is Sugar Babies is a stock selection **strategy**. So you have to have wide stop. You have to get good entries and wider stop because during the move, they will make forty, fifty percent move, but they'll be very **choppy** also sometimes. So you have to keep that in mind,..."
-- **High **Probability****: When, like, another sugar baby start getting sick, **probability** of the market getting sick is very high. You just take it because the **probability** of ... *The video says:* "When, like, another sugar baby start getting sick, **probability** of the market getting sick is very high. You just take it because the **probability** of a Sugarbaby making a big move is very high."
-- **Key Concept**: Your set of understanding is then a question mark. *The video says:* "Your set of understanding is then a question mark."
+Sugar Babies is a stock selection strategy, not a setup. Setups on Sugar Babies can be long OR short — Tesla had 132 count-throughs in 1,450 days (106 long, 89 short). When Sugar Babies start getting sick, the probability of the market turning is very high — they act as a barometer. When the market bottoms, Sugar Babies are the first stocks to rebound. Wide stops are essential because these stocks are choppy during moves; size accordingly. The list is built from top 20–30 stocks ranked by 9M+ EP count over 1,450 days. Each Sugar Baby gives 2–3 trades per year of 30–40% magnitude. If you want to reduce effort and focus only on stocks with the biggest potential, this list is for you. Update once a week. When a Sugar Baby shows an SOS, "you just take it because the probability of a Sugar Baby making a big move is very high."
 
 ## Full Transcript
 
