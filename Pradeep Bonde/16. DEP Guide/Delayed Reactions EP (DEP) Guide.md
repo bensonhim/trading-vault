@@ -131,8 +131,21 @@ DEP is **not** a pattern trade. Without a genuine catalyst, DEP does not exist.
 |------|--------|
 | **Biotechs** | One-night stands. After 1–2 days, nothing happens. Exception: fund-quality biotechs (Eli Lilly, BIIB) |
 | **Mergers/Acquisitions/Strategic Investments** | Nothing happens after the news. No follow-through |
+| **CEO resignations** | Doesn't immediately change the business — not a valid catalyst for DEP |
 | **No identifiable catalyst** | If you can't explain why the stock moved, skip it |
 | **Already extended 50%+** | Second/third leg, not first setup |
+
+### DEP on the Short Side: "Broken Business" Rule
+
+For DEP shorts, Pradeep only shorts stocks with a **broken business** — confirmed by X-ray showing declining sales/losses. A negative earnings catalyst alone isn't enough; the underlying business must be deteriorating.
+
+- **CarMax**: Negative growth + missed earnings = broken business → DEP short, -33%
+- **Dow**: Continuous losses, declining business → shorted twice as DEP
+- **Target**: Clear fundamental deterioration → high-conviction short
+
+> *Shorts must have "urgency to sell" — if there's no urgency, the bounce can last too long and stop you out.*
+
+**Short side timing:** Shorts take longer to set up than longs. DEP shorts may require 8–20 days (vs 3–10 days for longs). But the best shorts also happen fast when there's urgency to sell.
 
 > *"Biotechs are like certified male drones... one night stand. There is no relationship after one night stand."*
 
@@ -165,6 +178,8 @@ DEP is **not** a pattern trade. Without a genuine catalyst, DEP does not exist.
 |------|--------|
 | **When to enter** | First 10–15 minutes if stock opens positive |
 | **How to enter** | Buy as soon as stock shows life (up $0.10–$0.30) |
+| **Entry structures** | Anticipation OR Start of a Swing (SOS) — both are valid DEP entries |
+| **Volatility contraction** | 3 tight days, 2 tight days, or orderly pullback = ideal setup pattern |
 | **What NOT to do** | Wait for confirmation, ORB, previous-day high, or 4% breakout |
 | **Stop** | 0.5%–2.5% maximum |
 | **Position size** | Large — 3–4x what you'd use on catalyst day |
@@ -273,16 +288,18 @@ After studying thousands of patterns, your brain permanently alters. You begin t
 |-------|----------|--------------|---------|
 | **HIMS** | Earnings +23% day | Pulled back, DEP entry | 95% move |
 | **Reddit** | Earnings +41% day | Pullback, then continued | 70–91% move |
-| **SMR** | Earnings | Delayed reaction entry | 78–108% in <1 month |
+| **SMR** | Earnings (Raritan Dep stake) | Delayed reaction entry after 50% gap | 78–108% in <1 month |
 | **TSSI** | Earnings | Delayed reaction | 179% move |
 | **GLW** | Earnings +9M day | First valid setup | 55% move |
 | **eBay** | Earnings catalyst | Pullback, DEP entry | Large move |
 | **BW** | $1.5B data center contract + insider buying | DEP gave close stop | 67% in 3 days |
-| **TXN** | Earnings +19% gap | 4-day orderly pullback | +10% continued |
-| **CarMax (short)** | Missed earnings | First valid short after bounce | -33% |
-| **Chipotle (short)** | Missed earnings | Rallied one day, then DEP short | -20% |
+| **TXN** | Earnings +19% gap | 4-day orderly pullback | 10% continued move |
+| **MXL** | Earnings +76% gap | Got stopped out on day 1, DEP entry after pullback | 68% move |
+| **CarMax (short)** | Missed earnings (broken business) | First valid short after bounce | -33% |
+| **Chipotle (short)** | Missed earnings (broken business) | Rallied one day, then DEP short | -20% |
 | **PayPal (short)** | Negative catalyst | Multiple DEP short opportunities | Significant down |
 | **Humana (short)** | Medicare policy change | Highest volume in years | "Death kiss" |
+| **Dow (short)** | Continuous losses, declining business | Broken business X-ray | Shorted twice as DEP |
 | **DNA** | Catalyst | Setting up for DEP | On watchlist |
 
 ---
@@ -297,7 +314,7 @@ DEP is specifically designed for traders who cannot watch the market all day:
 - Stop is tight (2.5%), so no need to watch all day
 - Size is large, so fewer trades needed per year
 
-**Real example:** A husband/wife team with two small kids can only trade 9:30–11:00. They do DEP research at night, enter in the morning, and doubled a large account two years in a row using only institutional-quality DEPs.
+**Real example:** Harish and his wife, a couple with two small kids, can only trade 9:30–11:00. They do DEP research at night, enter in the morning, and doubled a large account two years in a row using only institutional-quality DEPs.
 
 ---
 
@@ -338,6 +355,8 @@ DEP is specifically designed for traders who cannot watch the market all day:
 > *"If you wait for confirmation, good luck. Make sure you have a good job or a rich wife."*
 
 > *"Biotechs are like certified male drones... one night stand. There is no relationship after one night stand."*
+
+> *"For shorts, there has to be urgency to sell."*
 
 > *"I like to wear the tightest pant. Tight pants. Not bell bottoms."*
 
