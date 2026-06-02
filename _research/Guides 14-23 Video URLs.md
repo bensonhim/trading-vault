@@ -29,17 +29,17 @@ tags: [stockbee, video-urls, guides, transcription]
 
 **9 videos found**
 
-| # | Title | Date | Page URL | CDN URL |
-|---|-------|------|----------|---------|
-| 1 | $ breakout FHP |  | [/video/2026-01-02-sos-$-breakout/](https://stockbee.biz/video/2026-01-02-sos-$-breakout/) | `https://stockbee-videos.b-cdn.net/2026-01-02-sos-$-breakout/2026-01-02-sos-$-breakout.mp4` |
-| 2 | 4% breakout |  | [/video/2026-01-01-sos-4%25-breakout/](https://stockbee.biz/video/2026-01-01-sos-4%25-breakout/) | `https://stockbee-videos.b-cdn.net/2026-01-01-sos-4%25-breakout/2026-01-01-sos-4%25-breakout.mp4` |
-| 3 | SOS : Continuation |  | [/video/2025-12-09-continuation-sos/](https://stockbee.biz/video/2025-12-09-continuation-sos/) | `https://stockbee-videos.b-cdn.net/2025-12-09-continuation-sos/2025-12-09-continuation-sos.mp4` |
-| 4 | SOS Start of a Swing |  | [/video/2025-12-08-start-of-a-swing-sos/](https://stockbee.biz/video/2025-12-08-start-of-a-swing-sos/) | `https://stockbee-videos.b-cdn.net/2025-12-08-start-of-a-swing-sos/2025-12-08-start-of-a-swing-sos.mp4` |
-| 5 | Tradable SOS |  | [/video/2025-09-18-tradable-sos/](https://stockbee.biz/video/2025-09-18-tradable-sos/) | `https://stockbee-videos.b-cdn.net/2025-09-18-tradable-sos/2025-09-18-tradable-sos.mp4` |
-| 6 | Types of SOS ( Start of Swing) |  | [/video/2025-09-15-types-of-sos/](https://stockbee.biz/video/2025-09-15-types-of-sos/) | `https://stockbee-videos.b-cdn.net/2025-09-15-types-of-sos/2025-09-15-types-of-sos.mp4` |
-| 7 | Start of a swing |  | [/video/2025-09-13-start-of-a-swing/](https://stockbee.biz/video/2025-09-13-start-of-a-swing/) | `https://stockbee-videos.b-cdn.net/2025-09-13-start-of-a-swing/2025-09-13-start-of-a-swing.mp4` |
-| 8 | Start of a swing |  | [/video/2025-06-11-start-of-a-swing/](https://stockbee.biz/video/2025-06-11-start-of-a-swing/) | `https://stockbee-videos.b-cdn.net/2025-06-11-start-of-a-swing/2025-06-11-start-of-a-swing.mp4` |
-| 9 | Start of a swing |  | [/video/2024-06-05-start-of-a-swing/](https://stockbee.biz/video/2024-06-05-start-of-a-swing/) | `https://stockbee-videos.b-cdn.net/2024-06-05-start-of-a-swing/2024-06-05-start-of-a-swing.mp4` |
+| #   | Title                          | Date | Page URL                                                                                               | CDN URL                                                                                                 |
+| --- | ------------------------------ | ---- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
+| 1   | $ breakout FHP                 |      | [/video/2026-01-02-sos-$-breakout/](https://stockbee.biz/video/2026-01-02-sos-$-breakout/)             | `https://stockbee-videos.b-cdn.net/2026-01-02-sos-$-breakout/2026-01-02-sos-$-breakout.mp4`             |
+| 2   | 4% breakout                    |      | [/video/2026-01-01-sos-4%25-breakout/](https://stockbee.biz/video/2026-01-01-sos-4%25-breakout/)       | `https://stockbee-videos.b-cdn.net/2026-01-01-sos-4%25-breakout/2026-01-01-sos-4%25-breakout.mp4`       |
+| 3   | SOS : Continuation             |      | [/video/2025-12-09-continuation-sos/](https://stockbee.biz/video/2025-12-09-continuation-sos/)         | `https://stockbee-videos.b-cdn.net/2025-12-09-continuation-sos/2025-12-09-continuation-sos.mp4`         |
+| 4   | SOS Start of a Swing           |      | [/video/2025-12-08-start-of-a-swing-sos/](https://stockbee.biz/video/2025-12-08-start-of-a-swing-sos/) | `https://stockbee-videos.b-cdn.net/2025-12-08-start-of-a-swing-sos/2025-12-08-start-of-a-swing-sos.mp4` |
+| 5   | Tradable SOS                   |      | [/video/2025-09-18-tradable-sos/](https://stockbee.biz/video/2025-09-18-tradable-sos/)                 | `https://stockbee-videos.b-cdn.net/2025-09-18-tradable-sos/2025-09-18-tradable-sos.mp4`                 |
+| 6   | Types of SOS ( Start of Swing) |      | [/video/2025-09-15-types-of-sos/](https://stockbee.biz/video/2025-09-15-types-of-sos/)                 | `https://stockbee-videos.b-cdn.net/2025-09-15-types-of-sos/2025-09-15-types-of-sos.mp4`                 |
+| 7   | Start of a swing               |      | [/video/2025-09-13-start-of-a-swing/](https://stockbee.biz/video/2025-09-13-start-of-a-swing/)         | `https://stockbee-videos.b-cdn.net/2025-09-13-start-of-a-swing/2025-09-13-start-of-a-swing.mp4`         |
+| 8   | Start of a swing               |      | [/video/2025-06-11-start-of-a-swing/](https://stockbee.biz/video/2025-06-11-start-of-a-swing/)         | `https://stockbee-videos.b-cdn.net/2025-06-11-start-of-a-swing/2025-06-11-start-of-a-swing.mp4`         |
+| 9   | Start of a swing               |      | [/video/2024-06-05-start-of-a-swing/](https://stockbee.biz/video/2024-06-05-start-of-a-swing/)         | `https://stockbee-videos.b-cdn.net/2024-06-05-start-of-a-swing/2024-06-05-start-of-a-swing.mp4`         |
 
 ## Guide 16: Delayed Reactions (DEP)
 
