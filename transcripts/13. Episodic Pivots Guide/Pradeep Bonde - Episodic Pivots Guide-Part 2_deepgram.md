@@ -20,9 +20,24 @@ tags:
 
 ## Summary
 
-- **Requirement**: So for MTRT and MTRT, you need to understand the methodology. So this is another thing which you need to check. *The video says:* "So for MTRT and MTRT, you need to understand the methodology. So this is another thing which you need to check."
-- **Critical Point**: So it's very important to remember these two things if you are going to make money from episodic pivot. So it's very important to try ... *The video says:* "So it's very important to remember these two things if you are going to make money from episodic pivot. So it's very important to try and prioritize stocks which meet cap 10 by 10 criteria. So it's very important to understand this."
-- ****Trading** Rule**: The older the stock, if the stock has been around for twenty years and it has never grown, there is something drastically wrong with their ... *The video says:* "The older the stock, if the stock has been around for twenty years and it has never grown, there is something drastically wrong with their business **model** or there is no **probability** of they were making a big move."
+Part 2 covers the full selection criteria: **"Magna 53 + Cap 10×10"**. Key points:
+
+- **NTRT / MTRT** = Night Time is the Right Time / Morning Time is the Right Time — when to scan for EP candidates (after-hours or pre-market)
+- **Magna 53 breakdown**:
+  - **M** = Massive earnings acceleration (500%+ EPS growth) OR massive sales acceleration (doubling revenue) OR massive earnings surprise (analysts expected $0.05, company reports $0.50)
+  - **A** = Acceleration of sales — even more important than earnings; 39%+ back-to-back quarters = stock can double, triple, 800%. Earnings alone can be faked (cost-cutting); sales prove real demand
+  - **G** = Gap up 4%+ on 100K+ volume — proves the market immediately recognizes the catalyst
+  - **N** = Neglect — no rally into earnings (ideally flat for years), low daily volume (10K–50K), minimal fund ownership (<100 funds, ideally <60), no analyst coverage, no news flow
+  - **5** = 5+ day short interest ratio (optional but powerful — shorts forced to cover adds fuel)
+  - **3** = 3+ analysts raise price target (optional — signals Wall Street conviction)
+- **Cap 10×10 breakdown**:
+  - **Cap** = Market capitalization below $10B (ideally below $1B or even $250M)
+  - **10** = IPO'd within 10 years (younger stocks = bigger moves; 20-year-old stocks that never grew have structural problems)
+- **GRWG example**: Only 60 funds owned it pre-catalyst; by end of one quarter, 253 funds owned it — that fund inflow created the massive move
+- **Priority order**: Magna 53 (essential) → Cap 10×10 (makes 300–800% moves possible vs. just 50–100%)
+- **Key quote**: "If you can find in a year two or three candidates like this, and if you can risk sufficiently, then your life is going to change"
+
+See curated note: [[../../Pradeep Bonde/13. Episodic Pivots Guide/Episodic Pivots Guide|EP Guide]]
 
 ## Full Transcript
 

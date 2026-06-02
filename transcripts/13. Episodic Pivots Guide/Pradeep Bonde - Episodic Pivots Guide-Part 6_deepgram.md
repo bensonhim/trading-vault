@@ -20,21 +20,27 @@ tags:
 
 ## Summary
 
-- And this is the kind of analysis which you do and accordingly decide whether to **trade** it for just a **trade** or to **trade** it for that likelihood of doubling, tripling, and going on to make life changing returns.
-- And since then, it has struggled to make bigger move after that because the underlying reason why it is not capable of doubling or tripling where already the capitalization is 40,000,000,000.
-- So let's look at another example of an EP, which happened recently and how I analyzed and what I looked at it and why I decided to enter it on that particular day.
-- So in **order** to look at this stock, again, what we are going to do is we are gonna go and look at, post which I made on the site.
-- And more than that, when you look at these figures, right, when you see these figures here, this is not a big EPS surprise.
-- Now for I have a software, internally grow or developed, which tells me for any stock how many analyst have raised **target**.
-- There is no neglect in terms of there is a price neglect, but there is no neglect in terms of number of funds owning it.
-- So this is an example of a neglect because the stock is not really rallying for last six months or so, seven months.
-- Again, you'll see that it has, like, an IPO in 2012, so it's just about ten year kind of an IPO kind of a situation.
-- And on the day of the earnings, I made this at 11:30 so that we can, like, or on the next day, I think I made.
-- Now this is what you will see when you go to our earnings fees for now you'll see our earnings growth is 154%.
-- It's very difficult to move big, a 29,000,000 stock, a billion capitalization stock, and it can go up 200%.
-- This is something means analysts were expecting it to do around 140 or something or 130, and it did 154.
-- This is how the stock looked when I captured the image, and I captured the image end of the day also.
-- Also, if you look at this on this day when I captured this, the capitalization is 29,300,000,000.
+Part 6 is a live walkthrough of **Enphase Energy (ENPH)** — a mature stock EP that made 30–40% but was not life-changing. Key points:
+
+- **What ENPH had going for it**:
+  - 154% earnings growth, 67% revenue growth
+  - Back-to-back sales growth of 39%+ for multiple quarters
+  - Price neglect: stock had been going sideways for 6–7 months
+  - Nine analysts raised price targets (meets the "3+" criteria)
+  - Gap up on earnings day
+
+- **What ENPH lacked (why it capped at 30–40%)**:
+  - **Fund ownership**: 1,759 funds owned it — heavily owned, not neglected by institutions
+  - **Market cap**: $29.3B — way above the $10B Cap threshold
+  - **IPO age**: 2012 — just barely under 10 years at the time, effectively aged out
+  - **EPS surprise**: Only 17% — not massive (analysts expected ~$1.40, it delivered $1.54)
+  - **Revenue surprise**: Only 5.2% — not massive
+  - **Already well-known**: Not a neglected, undiscovered stock
+
+- **Pradeep's assessment**: "This is not going to be life changing. I know immediately. Is it a good tradable stock? Yes. Is it a life changing EP? Answer is no." Expected move: 25–30%. Actual move: ~30–40%.
+- **Lesson**: When a stock is already owned by 1,700+ funds and has a $30B market cap, the **discovery gap is gone**. EP works best on truly undiscovered, neglected stocks. The analysis framework tells you the magnitude before you enter.
+
+See curated note: [[../../Pradeep Bonde/13. Episodic Pivots Guide/Episodic Pivots Guide|EP Guide]]
 
 ## Full Transcript
 

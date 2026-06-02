@@ -20,7 +20,27 @@ tags:
 
 ## Summary
 
-- ****Session** Rule**: In this case of Jack, I decided to only **trade** it for a **short** term move, and it didn't even do that very well kind ... *The video says:* "In this case of Jack, I decided to only **trade** it for a **short** term move, and it didn't even do that very well kind of a thing."
+Part 5 is a live walkthrough of **JAKKS Pacific (JAKK)** — an EP that was okay but not life-changing. Key points:
+
+- **What JAKK had going for it**:
+  - Massive earnings surprise: expected loss of $0.73, reported profit of $1.98 (550% earnings growth)
+  - Sales growth: 96% revenue growth, 80% revenue surprise
+  - Turnaround situation: company was making losses 2017–2020, then turned profitable
+  - Fund neglect: only 44 funds owned it
+  - Gap up in pre-market
+  - Market cap: $163.5M (very small = good for big moves)
+
+- **What JAKK lacked**:
+  - **IPO age**: IPO'd in 1996–97 (25+ years old) — failed the "under 10 years" criteria
+  - **Price neglect**: Stock had already rallied ~50% into earnings — not truly neglected in price
+  - **Short interest**: Only 2.3 days — failed the 5-day criteria
+  - **Analyst coverage**: No analysts covering it, no price target raises — failed the "3+" criteria
+  - **Gap consumed the move**: Stock gapped up ~50% at open, leaving almost no room for further gains
+
+- **Pradeep's assessment**: "Likely to make 50%+ move" based on the data, but the gap ate most of it. He decided to trade it for only a short-term move — "it didn't even do that very well"
+- **Critical lesson**: Pre-catalyst rally (~50% into earnings) ruins the EP setup. True EPs must gap up from a base of complete neglect. If the gap consumes the expected move, there's nothing left.
+
+See curated note: [[../../Pradeep Bonde/13. Episodic Pivots Guide/Episodic Pivots Guide|EP Guide]]
 
 ## Full Transcript
 

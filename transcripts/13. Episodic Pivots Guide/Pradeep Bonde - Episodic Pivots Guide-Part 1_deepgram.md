@@ -20,21 +20,18 @@ tags:
 
 ## Summary
 
-- And when I looked at a stock which has announced a very big earnings, I saw this particular stock called USLB at that time, which was a stock which was basically, making smart meters, and it had come out with earnings, and the earnings were, like, basically very good earnings in terms of the earnings was 900% or thousand percent or 2000%, 2600%.
-- But on a smaller company, which are not discovered by the market, which are not on the radar of the market, what happens is that when they come out with earnings and the earnings is significantly better, or the sales is significantly better, then the stock is going to make a move.
-- So the EP method is primarily designed to find ideas like this, which can be life changing if you put in if you risk sufficient, then if you can get 150% move in five days, it can be really life changing.
-- In the beginning, when I started **trading** episodic pivot, episodic pivot as originally the **trade** which made me money was basically some sort of a stock, which for years has been neglected.
-- I was reading this book, and in this book, the author says that, stocks which have really big earnings, triple digit, or, like, you know, they have, like, you know, really big earnings.
-- And as a result of that, every time the stock started making a rally, and it went on to move big 50%, 100%, 200% from the original **catalyst**, the stock almost made a move of 800%.
-- And then on this kind of a **trade**, because you know what is the reason why the stock is going up, and the **catalyst** has a very powerful effect on the stock, you can risk pick.
-- In **order** to look at episodic pivot in this first part, I'm just going to explain, there are various parts of episodic pivot, which I have developed over a period of time.
-- And, again, this information was available to you in terms of what was the earnings and sales and how big the earnings and sales growth was, before the market opened.
-- There will be established companies like Google, Amazon, which most of the time is not going to have a significant surprise because their business is more stable.
-- So that is why this is a methodology which is more suitable to people who are looking for a longer duration or a longer magnitude or a bigger magnitude **trade**.
-- That is if a stock and if you see this stock before, it had this earnings as a **catalyst** for many, many, many months, the stock had any no **volume**, no **trading**.
-- You're looking for a **catalyst**, and a **catalyst** which is such a major **catalyst** that it is completely going to change the trajectory of that particular stock.
-- You knew in the morning when the earnings was announced that this stock, based on the earnings, is likely to double or go up more than double.
-- Whatever might be the reason, or a new product launch, or some sort of a natural calamity, or, in the case of, like, say, COVID, a disease.
+Part 1 introduces the Episodic Pivot concept and origin. Key points:
+
+- **EP is a catalyst-driven, life-changing trade method**: looking for stocks that will make 50–800%+ moves, not 20% swing trades
+- **Origin**: Pradeep read a book about stocks with triple-digit earnings, then the next morning found **USLB** (smart meter company) with 2,600% earnings growth. The stock went from $5 to $14 in 11 weeks
+- **Core concept**: Find a neglected stock (months/years of sideways price, no volume, no analyst coverage) that suddenly gets a massive catalyst (earnings, sales, product launch, CEO change, policy change, disease event)
+- **The catalyst must change the trajectory completely**: not incremental news, but something that fundamentally redefines the company
+- **Examples shown**: USLB (2,600% earnings), GRWG (hydroponics/marijuana — 150% in 5 days, 300% total), Fastly (250% in 2 months), Farfetch (800% total from catalyst including BABA stake)
+- **Key differentiator vs. large caps**: Established companies like Google and Amazon rarely have significant earnings surprises because analysts cover them thoroughly; EP targets smaller, undiscovered companies
+- **Neglect is essential**: The best EP stocks have zero volume for days, no mutual funds, no analyst coverage — then the catalyst gets discovered and funds rush in
+- **Risk sizing**: Because you know the reason (the catalyst), you can "risk pick" — size aggressively on high-conviction EPs
+
+See curated note: [[../../Pradeep Bonde/13. Episodic Pivots Guide/Episodic Pivots Guide|EP Guide]]
 
 ## Full Transcript
 

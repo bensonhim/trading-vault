@@ -20,7 +20,23 @@ tags:
 
 ## Summary
 
-- **Requirement**: You need to know what is the ax earnings. You need to know how what is the, neglect or how many funds are owning it. ... *The video says:* "You need to know what is the ax earnings. You need to know how what is the, neglect or how many funds are owning it. You need to know whether **short** interest or all those. The first information which you need to know is a stock which is up 4% plus in after hours. So for that, you need to..."
+Part 3 covers the information sources and tools for EP research. Key points:
+
+- **First step**: Scan for stocks up 4%+ in after-hours or pre-market — TC2000, Interactive Brokers, Trade Ideas, Wall Street Journal
+- **Free sources**:
+  - **Earnings Whisper**: Best free option; sends nightly and morning email digests of all earnings releases; shows EPS surprise, revenue growth, report details
+  - **Zacks**: Free; shows EPS surprise, sales surprise, positive/negative surprises by date; ad-heavy but functional
+  - **MarketBeat**: Free; earnings calendar and analyst ratings
+  - **Finviz**: Free; shows float, short ratio (5+ days?), Ctrl+F "raised" to find analyst target raises
+- **Paid sources**:
+  - **The Fly**: Pradeep uses daily; real-time earnings data, analyst price target changes, detailed figures; free tier gives headlines only
+  - **Briefing.com**: Paid; best for earnings color and analysis; "Upgrades/Downgrades" tab shows analyst target raises; "Dual and Play" feature filters for earnings-specific news
+  - **MarketSmith ($150/mo)**: Best for deep research — sales growth (back-to-back quarters), fund ownership (8–9 quarters of history), short interest, float, IPO date, individual fund holders; "pays off in one or two trades"
+  - **Compustat (via Fidelity)**: Deep fundamental database; revenue, earnings, full financials
+- **Key workflow tip**: On The Fly, use Ctrl+F and search "raised" to instantly find which analysts raised price targets for any stock
+- **IPO date shortcut**: If MarketSmith doesn't show IPO date, look at the monthly chart — you can see when the stock started trading
+
+See curated note: [[../../Pradeep Bonde/13. Episodic Pivots Guide/Episodic Pivots Guide|EP Guide]]
 
 ## Full Transcript
 

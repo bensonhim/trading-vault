@@ -20,10 +20,25 @@ tags:
 
 ## Summary
 
-- **Requirement**: Using all this information, if you arrive at a candidate which meets your criteria of Magna fifty three plus cap 10 by 10, and then ... *The video says:* "Using all this information, if you arrive at a candidate which meets your criteria of Magna fifty three plus cap 10 by 10, and then you have to decide before entering the stock, what is the likelihood of the stock making? You have to look at a little bit. You have to do a little bit research. And this is..."
-- ****Trading** Rule**: The price **target** is never going to be like an absolute figure, but it also tells you, look, this is not just 50% more. *The video says:* "The price **target** is never going to be like an absolute figure, but it also tells you, look, this is not just 50% more."
-- **Key Concept**: So knowing what is the underlying sales and earnings, and also understanding whether it can grow rapidly, is very important to determine to indicate your ... *The video says:* "So knowing what is the underlying sales and earnings, and also understanding whether it can grow rapidly, is very important to determine to indicate your **target** whether this is thirty, forty, fifty, hundred, hundred and fifty."
-- **Critical Point**: So knowing what is the underlying sales and earnings, and also understanding whether it can grow rapidly, is very important to determine to indicate your ... *The video says:* "So knowing what is the underlying sales and earnings, and also understanding whether it can grow rapidly, is very important to determine to indicate your **target** whether this is thirty, forty, fifty, hundred, hundred and fifty."
+## Summary
+
+Part 4 covers price target estimation — how to predict how big a move a candidate can make. Key points:
+
+- **Pre-determine the move magnitude before entering**: Not "let's see what happens" — decide if it's a 30%, 100%, or 300%+ trade, then size accordingly
+- **Why target estimation matters**: If you think a stock can make 300–400%, you won't sell at 20%. If it's only a 25–30% trade, you size small. The whole EP methodology is about life-changing returns, not 10% scalps
+- **Factors determining move magnitude**:
+  - **Earnings growth rate**: 600–700%+ = potential for massive moves; 100–200% = moderate moves
+  - **Sales growth**: 39%+ back-to-back quarters = very bullish; declining sales despite good earnings = bearish signal (company may be manipulating via cost-cutting)
+  - **Capitalization**: Sub-$1B can 10× (GRWG was $250M); $10B+ can barely double; $100B+ almost never triples on one catalyst
+  - **Fund ownership**: <60 funds = explosive potential; >1,700 funds = already discovered, max 25–30%
+  - **IPO age**: <5 years = biggest moves; >10 years = much harder to get 300%+
+  - **Industry category**: Consumer discretionary (Lululemon, Crocs, Celsius) makes the biggest moves because products catch consumer imagination and grow fast; technology and healthcare also strong; industrial/solar = longer sales cycles, less explosive
+- **Crocs example**: Crocs cost $18–19, 250M US consumers → sales went from small base to $250M → stock made 400%
+- **Facebook example**: Pradeep bought 50,000 shares at ~$33 on earnings day, estimated it would reach at least $70. Used options for leverage. Stock doubled his account.
+- **Capitalization math**: $100M → $1B = 10× (common); $1B → $10B = 10× (possible); $10B → $50B = 5× (rare); $100B → $500B = nearly impossible from one catalyst
+- **Skill development**: Study past 500–800% movers to understand what drove them
+
+See curated note: [[../../Pradeep Bonde/13. Episodic Pivots Guide/Episodic Pivots Guide|EP Guide]]
 
 ## Full Transcript
 
