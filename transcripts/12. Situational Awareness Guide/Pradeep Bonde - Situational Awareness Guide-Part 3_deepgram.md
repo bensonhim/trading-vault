@@ -20,10 +20,19 @@ tags:
 
 ## Summary
 
-- **Requirement**: Now, in **order** to become good at situational awareness, there are certain core concepts which you need to know. And another core concept which you ... *The video says:* "Now, in **order** to become good at situational awareness, there are certain core concepts which you need to know. And another core concept which you need to know is the concept of market breadth. So market breadth and understanding of market breadth is essential skill which you need to have in **order** to develop situational awareness skill."
-- **Key Concept**: And another core concept which you need to know is the concept of market breadth. So breadth is understanding of market breadth and looking at ... *The video says:* "And another core concept which you need to know is the concept of market breadth. So breadth is understanding of market breadth and looking at market breadth is very important part of having situational awareness skills. Understanding of market breadth and looking at market breadth **trend** is going to tell you whether there is a buying or selling coming in."
-- ****Trading** Rule**: But in 2021, November, the, **indicator** went bearish, and it never recovered after that. *The video says:* "But in 2021, November, the, **indicator** went bearish, and it never recovered after that."
-- **Market **Condition****: Then that might lead to **consolidation** or a correction, and the stocks which you are sitting in might get, be hit. *The video says:* "Then that might lead to **consolidation** or a correction, and the stocks which you are sitting in might get, be hit."
+Part 3 explains **market breadth** as a core SA tool. Key points:
+
+- **Market breadth** = how many stocks are participating in a move (up or down); the Market Monitor tracks this daily
+- **Primary indicator** (stocks up/down 25% in a quarter) is the core signal: green = bullish, red = bearish
+- **When primary is green**: trade breakouts aggressively, anticipation setups work
+- **When primary is red**: avoid breakouts, trade shorts; anticipation setups do NOT work
+- **Example**: Primary indicator turned bearish November 2021 and never recovered — signaling the 2022 bear market
+- **Tactical breadth windows**: Even in bear markets, 4–5 day bursts of positive breadth offer breakout opportunities; in bull markets, brief negative breadth windows offer short opportunities
+- **Daily routine**: "First thing in the morning, I always look at what is the market breadth telling me"
+- **Rule**: Always trade in the direction of market breadth — long when breadth is positive, short when negative
+- **Extreme breadth**: If primary indicator goes extremely negative, that's actually bullish (capitulation); if extremely positive in short run, consolidation may follow
+
+See curated note: [[../../Pradeep Bonde/12. Situational Awareness Guide/Situational Awareness Guide|SA Guide]]
 
 ## Full Transcript
 

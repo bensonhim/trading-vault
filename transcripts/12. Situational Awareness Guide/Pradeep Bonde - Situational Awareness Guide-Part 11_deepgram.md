@@ -20,9 +20,19 @@ tags:
 
 ## Summary
 
-- **Key Concept**: When we look at bull market, there is some understanding of how stocks keep breaking and how nukes keep or should the global stocks keep ... *The video says:* "When we look at bull market, there is some understanding of how stocks keep breaking and how nukes keep or should the global stocks keep breaking. But if you see and this is where understanding this is very important, like, and I look and the whole thing happened."
-- **Critical Point**: This is important to understand because what happens is that whenever you look at a bull market at the start of a bull market, what ... *The video says:* "This is important to understand because what happens is that whenever you look at a bull market at the start of a bull market, what you're going to get is you're going to get some stocks which will break out. So it's very important to understand that there is going to be cascading effect of **breakout** which will happen, and..."
-- **Requirement**: So when you hear about, like, in a relative strength as a **strategy** or this **strategy**, that **strategy**, you have to be very careful that, ... *The video says:* "So when you hear about, like, in a relative strength as a **strategy** or this **strategy**, that **strategy**, you have to be very careful that, just because it has gone side, just because it had formed a kind of a base, just because doesn't mean that it is going to have a second leg."
+Part 11 covers the **cascading breakout phenomenon** — why first-leg stocks often fail to produce a second leg. Key points:
+
+- **At the start of a bull market**, first-breakout stocks have explosive first legs (Wayfair 1,200%, Zoom massive), then go sideways for years
+- **The first-leg trap**: Traders using relative strength get trapped in stocks that made one big move and then stagnate
+- **Not all stocks have second legs**: "Many times, after a bearish market, the stocks which break out first leg, they make it, and then they just keep going sideways for a long period of time"
+- **First leg story is time-specific**: The story driving first-leg breakouts is relevant only at that particular turnaround moment (e.g., "work from home" in 2020)
+- **Cascading effect**: After the first set, a second set of stocks breaks out and makes big moves, then a third set, etc. — like a relay race
+- **The stocks making the biggest moves** are often NOT the first-breakout stocks but the 2nd, 3rd, or later waves (3–14 months into the bull market)
+- **Relative strength warning**: "Just because it has gone sideways, just because it had formed a kind of base, doesn't mean it is going to have a second leg"
+- **Practical implication**: Instead of focusing on the same stocks that already moved 500–1,000%, look for the next set of breakouts
+- **Oil & gas exception**: Some sector stocks (like SM) had second and third legs because the sector itself continued to rally
+
+See curated note: [[../../Pradeep Bonde/12. Situational Awareness Guide/Situational Awareness Guide|SA Guide]]
 
 ## Full Transcript
 

@@ -43,17 +43,17 @@ The Market Monitor is a **market breadth-based timing tool** that answers three 
 
 The Market Monitor is not a black-box indicator. It is a **manually maintained spreadsheet** fed by daily TC2000 scan counts. Each evening (~8 PM), Pradeep runs a set of scans, records the counts, and enters them into the spreadsheet.
 
-| Scan | What It Measures | Breadth Category |
-|------|-----------------|-----------------|
-| 4% breakout | Stocks up ≥4% today | Daily intensity |
-| 4% breakdown | Stocks down ≥4% today | Daily intensity |
-| 25% in quarter | Stocks up ≥25% in 65 days | Quarterly momentum |
-| 25% in quarter (down) | Stocks down ≥25% in 65 days | Quarterly momentum |
-| 25% in month | Stocks up ≥25% in 22 days | Monthly momentum |
-| 25% in month (down) | Stocks down ≥25% in 22 days | Monthly momentum |
-| 50% in month | Stocks up ≥50% in 22 days | Monthly extremes |
-| 50% in month (down) | Stocks down ≥50% in 22 days | Monthly extremes |
-| 13% in 34 days | Stocks up ≥13% in 34 days | Faster quarterly (Fibonacci) |
+| Scan                  | What It Measures            | Breadth Category             |
+| --------------------- | --------------------------- | ---------------------------- |
+| 4% breakout           | Stocks up ≥4% today         | Daily intensity              |
+| 4% breakdown          | Stocks down ≥4% today       | Daily intensity              |
+| 25% in quarter        | Stocks up ≥25% in 65 days   | Quarterly momentum           |
+| 25% in quarter (down) | Stocks down ≥25% in 65 days | Quarterly momentum           |
+| 25% in month          | Stocks up ≥25% in 22 days   | Monthly momentum             |
+| 25% in month (down)   | Stocks down ≥25% in 22 days | Monthly momentum             |
+| 50% in month          | Stocks up ≥50% in 22 days   | Monthly extremes             |
+| 50% in month (down)   | Stocks down ≥50% in 22 days | Monthly extremes             |
+| 13% in 34 days        | Stocks up ≥13% in 34 days   | Faster quarterly (Fibonacci) |
 
 > "All the Market Monitor data comes from this particular scan... the scans for this thing will be added below this video so that you can replicate the scan." — *Part 1*
 

@@ -20,7 +20,21 @@ tags:
 
 ## Summary
 
-- **Requirement**: Now, we have been looking at some of the factors which you need to look at in terms of bearish market. One of the other ... *The video says:* "Now, we have been looking at some of the factors which you need to look at in terms of bearish market. One of the other factor which you need to be very aware of, like, fed reserve, federal reserve is an important thing to know."
+Part 9 covers **policy response at market bottoms**. Key points:
+
+- **Duration bear markets end with policy response**, not just technical bottoms
+- **Historical examples**:
+  - 2002: Government stimulus and rate cuts after the dot-com crash
+  - 2008–2009: TARP (Troubled Asset Relief Program) passed by Congress → market bottomed
+  - 2020: $3+ trillion COVID stimulus package → market bottomed
+- **The Fed stimulates aggressively at bottoms**: Rate cuts, quantitative easing, liquidity injection — they don't stop until the economy is robust
+- **2008–2009 policy coordination**: All G20 countries cut interest rates on the same day
+- **Policy pivot signals**: Look for capitulation selling + IPOs drying up + Fed changing policy stance (signaling they're done tightening or starting to stimulate) + congressional response
+- **The market anticipates policy**: It often bottoms **before** the bill is passed, on the hint or anticipation of policy action
+- **Minor corrections vs. duration bear markets**: 10% pullbacks happen "dime a dozen" and don't require policy response; major duration bear markets always have some form of policy catalyst at the bottom
+- **Key takeaway**: Combination of capitulation, Fed pivot, and policy response creates the bottom — not technicals alone
+
+See curated note: [[../../Pradeep Bonde/12. Situational Awareness Guide/Situational Awareness Guide|SA Guide]]
 
 ## Full Transcript
 

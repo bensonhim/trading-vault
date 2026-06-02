@@ -20,7 +20,21 @@ tags:
 
 ## Summary
 
-- **Requirement**: Situational awareness during market environment when it is bullish is a different way of looking at market because you have to understand when a bearish ... *The video says:* "Situational awareness during market environment when it is bullish is a different way of looking at market because you have to understand when a bearish market is over and a new bull market starts, then what happens is that the Fed has decided to stimulate the economy or they decided to do something about it."
+Part 10 explains **why bull markets last years, not months**. Key points:
+
+- **Fed stimulus lasts for years**: When the Fed starts stimulating, it doesn't stop for 3–5+ years because economic recovery takes that long. "Just doesn't stimulate the economy for one month or two months"
+- **Structural reasons bull markets persist**:
+  1. Consumers rebuild balance sheets (after 2008, people went through foreclosures, bankruptcies, then rebuilt)
+  2. Companies restructure — change management, cost structure, announce buybacks
+  3. Weak competitors go out of business, leaving survivors stronger
+  4. Policy fixes address root causes (post-2008 banking regulations)
+  5. Fed provides continuous liquidity support
+- **Skepticism phase**: Early in a bull market, people are skeptical because the bear market trauma is still fresh — but that's exactly why companies and consumers are restructuring
+- **Home Depot example**: Took years to recover after the housing crash, then did massive stock buybacks → went up for years
+- **Pradeep's 2023 prediction**: "Sometime during this year, we are going to get a bottom in the market. When the rally starts, it is going to be a rally which will last for years"
+- **Implication for traders**: If you don't understand this, you'll get prematurely bearish during a bull market and miss years of gains
+
+See curated note: [[../../Pradeep Bonde/12. Situational Awareness Guide/Situational Awareness Guide|SA Guide]]
 
 ## Full Transcript
 

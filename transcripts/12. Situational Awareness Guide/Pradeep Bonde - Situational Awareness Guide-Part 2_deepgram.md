@@ -20,11 +20,20 @@ tags:
 
 ## Summary
 
-- **Requirement**: The first thing which you need to understand about situational awareness is that the market has a positive bias. And that is the first lesson ... *The video says:* "The first thing which you need to understand about situational awareness is that the market has a positive bias. And that is the first lesson in situational awareness which you have to learn because a lot of time you hear that the market is going to go down. And so that's the first thing which you need to understand. Okay,..."
-- ****Trading** Rule**: This is what is going to happen, it is never going to come back, or it will take so many years. *The video says:* "This is what is going to happen, it is never going to come back, or it will take so many years."
-- **Critical Point**: This is very important to understand because your situational awareness is that most of the time the market is in upward tendency or it is ... *The video says:* "This is very important to understand because your situational awareness is that most of the time the market is in upward tendency or it is going to be going up. So it is always important to remember that bullish bias is the most prevalent thing in the stock market in The US stock market."
-- **Key Concept**: So there was very poor understanding of how to stabilize the economy or how to come out of a depression or how to goose up ... *The video says:* "So there was very poor understanding of how to stabilize the economy or how to come out of a depression or how to goose up the economy. And understanding that is very important because people become bearish, not because they are looking at the market."
-- ****Mean Reversion****: They are typically happened, like, and they are followed by some sort of a **mean reversion**. *The video says:* "They are typically happened, like, and they are followed by some sort of a **mean reversion**."
+- **Requirement**: The first thing which you need to understand about situational awareness is that the market has a positive bias. And that is the first lesson ... *The video says:* "The first thing which you need to understand about situational awareness is that the market has a positive bias."
+
+Part 2 establishes the foundational principle: the US stock market has a **bullish bias**. Key points:
+
+- **Historical data**: S&P 500 since 1926 — up in ~80 of 96 years; only 11 years down 10%+; only 5 truly bearish years
+- **Multi-year bearish streaks extremely rare post-1941**: Only 2–3 instances of back-to-back down years since Fed was established
+- **Most bear markets are 6–8 months**: Duration bear markets (18–24+ months) are exceptions, not the rule
+- **The ideological trap**: People become bearish from ideology (deficits, taxation, political views), not from market data — "ask him to get a mental health checkup done"
+- **Average return ~11.94%**: 30%+ years are rare and typically followed by mean reversion (suboptimal years or corrections)
+- **Pre-1941 vs. post-1941**: Before the Fed, bear markets were more severe and longer; after the Fed, corrections became shallower
+- **Practical rule**: "Keep buying the dips" should be your default SA posture; 90% of the time you should be bullish
+- **Key quote**: "There is 99 reason to be bullish, and there is only one reason to be bearish in the market most of the time"
+
+See curated note: [[../../Pradeep Bonde/12. Situational Awareness Guide/Situational Awareness Guide|SA Guide]]
 
 ## Full Transcript
 

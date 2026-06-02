@@ -20,7 +20,19 @@ tags:
 
 ## Summary
 
-- **Key Concept**: So understanding that and if you see during that time, there are a lot of the Chinese companies. So understanding theme is going to help ... *The video says:* "So understanding that and if you see during that time, there are a lot of the Chinese companies. So understanding theme is going to help you a lot."
+Part 12 covers **theme identification** — every bull market has a dominant theme. Key points:
+
+- **Every bull market has a theme**: The biggest moves come from stocks in the dominant theme
+- **COVID bull market (2020–2021)**: Work from home theme → Wayfair (furniture), Shopify (online stores), Overstock (trading/speculation), Zoom, Bitcoin/NFTs
+- **2002–2007 bull market**: Emerging markets theme → Chinese stocks (NetEase, Sina), commodities (dry ships), emerging market mutual funds up 150%
+- **2009–2014 bull market**: Turnarounds first (banks post-crisis), then Internet/fintech
+- **2023+ prediction**: Likely turnarounds again — tech stocks beaten down in 2022
+- **The theme runs further than logic suggests**: "There is no logic to why the NFTs and cryptocurrencies and work-from-home stocks made the kind of moves they made"
+- **Theme becomes apparent in first 2–3 months**: Once identified, ride any company in that industry/theme
+- **How to find themes**: Your scans will show thematic stocks consistently appearing in breakout lists
+- **Carvana example**: Used cars theme during COVID — no one would have predicted it, but the scans revealed it
+
+See curated note: [[../../Pradeep Bonde/12. Situational Awareness Guide/Situational Awareness Guide|SA Guide]]
 
 ## Full Transcript
 

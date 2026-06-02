@@ -20,8 +20,19 @@ tags:
 
 ## Summary
 
-- **Requirement**: You need to be bullish and need to remain bullish for months, years till there is real deterioration. Till you get tired, you have to ... *The video says:* "You need to be bullish and need to remain bullish for months, years till there is real deterioration. Till you get tired, you have to remember that it is a bull market."
-- ****Trading** Rule**: They're never going to come back. And they never believed in the rally, and the rally kept on going up. *The video says:* "They're never going to come back. And they never believed in the rally, and the rally kept on going up."
+Part 13 covers **the hardest skill: remaining bullish** through a bull market. Key points:
+
+- **The single most important thing in a bull market is to remain bullish** — not setups, not timing, but staying on the right side
+- **Premature bearishness is the greatest error**: Traders see first-leg stocks rally, think "this is over," go bearish — but second and third waves of stocks keep breaking out
+- **The Livermore "Old Turkey" reference**: From *Reminiscences of a Stock Operator* — the character who keeps saying "It's a bull market, it's a bull market" — captures the discipline required
+- **Bull markets last years**: After the 2009 bottom, the market went up for 13–14 years. After 2002, up for 5 years. Short corrections, then continued rallies.
+- **Bubbles vs. normal bull markets**: A 40% move in one year does NOT make a bubble. Bubbles form after 10–15 years of bull market when retail traders flood in
+- **The relay race**: First stocks rally and stop, then fresh stocks take over (Upstart, Affirm), then more — it's a continuous relay
+- **Opportunity cost of premature bearishness**: People who shorted in 2009 or went bearish in 2010, 2013, 2016, 2019 missed years of gains
+- **Key quote**: "You need to be bullish and need to remain bullish for months, years, till there is real deterioration. Till you get tired, you have to remember that it is a bull market."
+- **Bubble timing**: The bubble phase comes at the END of a long bull market (2021), not after one year of gains
+
+See curated note: [[../../Pradeep Bonde/12. Situational Awareness Guide/Situational Awareness Guide|SA Guide]]
 
 ## Full Transcript
 

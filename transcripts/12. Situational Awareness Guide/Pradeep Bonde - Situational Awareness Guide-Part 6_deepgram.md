@@ -20,10 +20,17 @@ tags:
 
 ## Summary
 
-- **Requirement**: In **order** to develop situational awareness, you need to understand certain basic things that the market has an upward tendency. Now you have to understand ... *The video says:* "In **order** to develop situational awareness, you need to understand certain basic things that the market has an upward tendency. Now you have to understand the setups on the indexes itself. And that's the clear tendency of a bearish market that everything is going to work together, and this is what you need to understand on a situational awareness point..."
-- **Key Concept**: Now, once you have a good understanding of all these things, right, you will be in a **position** to decide on a situational awareness on ... *The video says:* "Now, once you have a good understanding of all these things, right, you will be in a **position** to decide on a situational awareness on a larger scale, which is like in a fundamentally answering a question, are we in a bull market or a bearish market, right, because that is going to determine how you are going to play."
-- **Critical Point**: Now this is very important to understand in a bearish market. *The video says:* "Now this is very important to understand in a bearish market."
-- **Market **Condition****: And that day, if you have good **short** setups, which are breaking down from a **consolidation** or a momentum was to the downside, it's going ... *The video says:* "And that day, if you have good **short** setups, which are breaking down from a **consolidation** or a momentum was to the downside, it's going to work."
+Part 6 covers **bear market tendency #1: everything moves together**. Key points:
+
+- **In bull markets**: Individual stocks run independent of the market — a stock can go up even when the market is down for 5 days
+- **In bear markets**: All stocks move in tandem — correlation goes to 1.0. "Everything is going to run together"
+- **Practical implication**: Short setups only work when the **index itself is breaking down**. Shorting during a bounce = getting stopped out
+- **SPY breakdown sync rule**: When SPY is down 1.5%+, shorts tend to work for 3–4 days. Time your shorts with index breakdowns
+- **Bull market bounces**: Even in bear markets, counter-trend bounces have long setups that work for 3–4 days
+- **Historical examples** shown: Range expansion on indexes → shorts work; bounce periods → long setups work briefly
+- **Key takeaway**: In bear markets, you must time shorts with index breakdowns, especially when SPY down 1.5%+. Don't short just because "it's a bear market" — wait for the setup on the indexes themselves
+
+See curated note: [[../../Pradeep Bonde/12. Situational Awareness Guide/Situational Awareness Guide|SA Guide]]
 
 ## Full Transcript
 

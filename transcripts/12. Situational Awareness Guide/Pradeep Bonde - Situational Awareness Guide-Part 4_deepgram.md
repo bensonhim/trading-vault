@@ -20,9 +20,18 @@ tags:
 
 ## Summary
 
-- **Key Concept**: There is another market breadth daily tracking, which I do, and a little bit understanding of that is important for developing situational awareness. So these ... *The video says:* "There is another market breadth daily tracking, which I do, and a little bit understanding of that is important for developing situational awareness. So these mini cycles understanding is extremely important from situational awareness point of view."
-- **Requirement**: These are the core concepts or the core things which you need to monitor. And when it becomes excessive is when you have to be ... *The video says:* "These are the core concepts or the core things which you need to monitor. And when it becomes excessive is when you have to be cautious because that's where the profit taking zones is. Now you have to be starting to become bullish when they go down. So you have to be constantly thinking what the 20% study is showing..."
-- **Market **Condition****: And this is mini cycles of stocks going up a lot, lot of stock going up, followed by **consolidation** pullback, and they're getting hit is ... *The video says:* "And this is mini cycles of stocks going up a lot, lot of stock going up, followed by **consolidation** pullback, and they're getting hit is constant thing in any bullish market."
+Part 4 covers the **20% study** — a daily mini-cycle exhaustion detector. Key points:
+
+- **Study 20**: Every day, count stocks up/down 20%+ in a week — the number itself reveals mini-cycle exhaustion
+- **Excessive readings (150–300+ stocks up 20%+)**: Massive buying, but also a danger signal — stocks have run too far, buyers are exhausted, a pullback is imminent within 2–3 days
+- **When 20% is low**: That's when buying comes in — good time to become bullish
+- **When 20% is excessive**: Start closing positions, reducing exposure — profit-taking zone
+- **Same logic on downside**: 150–300+ stocks down 20%+ means shorts are working, but excessive bearishness leads to a bounce; shorts will get hit
+- **Mini-cycles are constant**: In any bull market, you get spurts of buying → exhaustion → consolidation → new spurt. In bear markets, selling → capitulation → bounce
+- **The psychology trap**: Traders increase risk when win rate is 90% (at peak 20% readings) instead of reducing — "when things are working for you, you think you are god's gift to trading, and then you get hit"
+- **Daily practice**: Look at the 20% study every day, ask what it's telling you about excessive bullishness or bearishness
+
+See curated note: [[../../Pradeep Bonde/12. Situational Awareness Guide/Situational Awareness Guide|SA Guide]]
 
 ## Full Transcript
 

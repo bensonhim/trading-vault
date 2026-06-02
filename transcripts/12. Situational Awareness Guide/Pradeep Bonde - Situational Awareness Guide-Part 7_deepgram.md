@@ -20,7 +20,16 @@ tags:
 
 ## Summary
 
-- **Requirement**: So in **order** to understand that, there are certain basic principles which you need to understand. Second is vicious counter **trend** rallies which can be ... *The video says:* "So in **order** to understand that, there are certain basic principles which you need to understand. Second is vicious counter **trend** rallies which can be tradable are the two things which you need to be really cognizant of if you want to develop situational awareness for a bearish spirit."
+Part 7 covers **bear market tendency #2: vicious counter-trend rallies**. Key points:
+
+- **Counter-trend rallies are a defining characteristic of bear markets**: In bull markets, dips are shallow because constant buying comes in. In bear markets, sudden V-shaped rallies happen from extreme oversold conditions
+- **These rallies can be massive**: 14–19% rallies within a bear market are shown; some last weeks or even months
+- **Tradable but dangerous**: These rallies are "very vicious and which can really make you a lot of money if you can time them," but they occur against a backdrop where "there is no reason to be bullish"
+- **Historical examples**: 2000–2002 and 2008–2009 both had multiple large counter-trend rallies before the final bottom was reached
+- **When they happen**: When the market becomes extremely oversold, pessimism peaks, and the 20%+ study shows very low readings — that's when tradable rallies emerge
+- **Two key bear market tendencies combined**: (1) Everything moves together, and (2) Vicious counter-trend rallies. "These are the two things which you need to be really cognizant of if you want to develop situational awareness for a bearish period"
+
+See curated note: [[../../Pradeep Bonde/12. Situational Awareness Guide/Situational Awareness Guide|SA Guide]]
 
 ## Full Transcript
 

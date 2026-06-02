@@ -20,8 +20,19 @@ tags:
 
 ## Summary
 
-- **Key Concept**: And in **order** to do that, what you need is you need certain understanding of basic tendencies of the market, and we've been looking at ... *The video says:* "And in **order** to do that, what you need is you need certain understanding of basic tendencies of the market, and we've been looking at some of the basic tendencies of the market."
-- **Requirement**: So, capitulation is one of the things which you need to be looking at. *The video says:* "So, capitulation is one of the things which you need to be looking at."
+Part 8 covers **capitulation** — how bear markets end. Key points:
+
+- **Bear markets end in capitulation**: "Everything which needs to be sold has been sold" — indiscriminate selling regardless of company quality
+- **Wall Street saying**: "When they raid the whorehouse, they don't only take the whores, they take the johns and they also take the piano player" — everything gets sold
+- **Capitulation signals to watch**:
+  - **T2108 going to single digits** (1–4% of stocks above 40-day MA)
+  - **Primary indicator going extreme** (stocks up 25% in a quarter below 200)
+- **After capitulation**: Not immediately, but sometimes within weeks or months, the market starts a new bull market that can last for multiple years
+- **Use Market Monitor to detect capitulation**: Both T2108 and the primary indicator show extreme readings at bottoms
+- **Change of SA posture**: When capitulation selling happens, shift your situational awareness to "likely there is a bottom in the market" and start looking for the birth of a new bull market
+- **Key quote**: "Capitulation ends bearish market"
+
+See curated note: [[../../Pradeep Bonde/12. Situational Awareness Guide/Situational Awareness Guide|SA Guide]]
 
 ## Full Transcript
 

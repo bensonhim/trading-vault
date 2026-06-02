@@ -21,7 +21,17 @@ tags:
 ## Summary
 
 - **Requirement**: You need to have a plan for all the contingencies, and that's exactly the same logic which you want to bring to **trading**. *The video says:* "You need to have a plan for all the contingencies, and that's exactly the same logic which you want to bring to **trading**."
-- **Key Concept**: And in **order** to develop situational awareness skills, there are certain basic understanding of market. There are certain basic understanding of cycles, basic understanding of ... *The video says:* "And in **order** to develop situational awareness skills, there are certain basic understanding of market. There are certain basic understanding of cycles, basic understanding of federal basic understanding which is required."
+
+Part 1 introduces situational awareness (SA) as a concept borrowed from aviation. Key points:
+
+- **Origin**: US Air Force pioneered SA after the Vietnam War — pilots were losing focus on surrounding planes and getting shot down
+- **Aviation analogy**: Before every flight, pilots hold a situational awareness meeting — turbulence, storms, fog, alternate airports. Traders must do the same before deploying capital
+- **SA is a filter on top of setups**: "Setups work in a particular situation. Setups do not work in vacuum."
+- **Benefits**: Lower drawdowns, higher win rate, better mental capital, correct risk calibration (aggressive when favorable, defensive when hostile)
+- **Framework preview**: Series will cover bullish vs. bearish markets, market cycles, Fed role, opportunity calibration
+- **SA is developed, not innate**: "Those who survive or those who prosper for many years, develop it"
+
+See curated note: [[../../Pradeep Bonde/12. Situational Awareness Guide/Situational Awareness Guide|SA Guide]]
 
 ## Full Transcript
 
