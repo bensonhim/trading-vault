@@ -20,7 +20,17 @@ tags:
 
 ## Summary
 
-- **Requirement**: Now here, what you need to understand is this particular figure, which is number of stocks of 50% in a month, if this figure goes ... *The video says:* "Now here, what you need to understand is this particular figure, which is number of stocks of 50% in a month, if this figure goes very high, now after COVID, everything changed."
+Part 5 covers the secondary monthly indicators — stocks up/down 25% and 50% in a month. Key points:
+
+- **Monthly 25% columns** are informational — show intensity of buying/selling (e.g., 2,759 stocks down 25% during COVID crash; ~1,100 stocks up 25% during COVID rebound)
+- **Monthly 50% columns** had historical signaling value: **pre-COVID**, when >20 stocks were up 50% in a month, a market pullback was likely within 2–3 days
+- Pradeep used the 50% threshold to **tighten stops and sell into profits** when it exceeded 20
+- **Post-COVID breakdown**: Retail traders entered en masse, extreme 50% readings no longer predicted pullbacks — readings can go very high with no correction
+- **Pradeep now ignores the 50% columns entirely** due to the post-COVID regime change
+- **Key quote**: "Secondary indicators are really for just information" — primary indicators remain the core tool
+- **Post-COVID note**: "Pre-COVID, if 20 stocks were up 50% in a month, it was very likely that you're going to get some sort of a pullback. Post-COVID, that equation has broken down."
+
+See curated note: [[../../Pradeep Bonde/11. Market Monitor Guide/Market Monitor Guide|MM Guide]]
 
 ## Full Transcript
 

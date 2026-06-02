@@ -41,7 +41,7 @@ The Market Monitor is a **market breadth-based timing tool** that answers three 
 
 ### 1.1 Data Source — TC2000 Scans
 
-The Market Monitor is not a black-box indicator. It is a **manually maintained spreadsheet** fed by daily TC2000 scan counts. Each evening, Pradeep runs a set of scans, records the counts, and enters them into the spreadsheet.
+The Market Monitor is not a black-box indicator. It is a **manually maintained spreadsheet** fed by daily TC2000 scan counts. Each evening (~8 PM), Pradeep runs a set of scans, records the counts, and enters them into the spreadsheet.
 
 | Scan | What It Measures | Breadth Category |
 |------|-----------------|-----------------|

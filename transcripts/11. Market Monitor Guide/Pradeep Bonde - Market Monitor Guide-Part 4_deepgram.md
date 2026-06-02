@@ -20,7 +20,20 @@ tags:
 
 ## Summary
 
-- **Requirement**: So to use this **indicator**, you have to use it like a green light, red light kind of **indicator**. *The video says:* "So to use this **indicator**, you have to use it like a green light, red light kind of **indicator**."
+Part 4 covers the **primary breadth indicator** — the most important column in the entire Market Monitor. Key points:
+
+- **Primary indicator** = stocks up 25% in a quarter vs. stocks down 25% in a quarter (65-day period)
+- **Traffic light philosophy**: Green = trade bullish breakouts aggressively; Red = avoid breakouts, look for shorts
+- **When primary is red**, breakouts have a **low success ratio** — few setups, poor follow-through
+- **Capitulation signal (<200)**: When stocks-up-25%-quarter drops below 200, it signals **extreme bearishness = extremely bullish** — capitulation selling
+- **March 2020 example**: Reading hit ~180, then massive rally followed (1,100, 900, 1,300 up-days)
+- **< 200 signal is rare** — sometimes only intraday; by end-of-day it may recover
+- **NOT a top-finding tool**: Using breadth to find tops leads to premature exits; excessive bullishness persists for years
+- **401(k) application**: Pradeep deploys capital when reading drops below 200–300; exits to cash when signal turns red after bull run — "I have been sitting in cash since November 2021"
+- **Asymmetric signal**: stocks-down-25%-quarter below 200 does NOT mean anything (at bull market starts, extreme down readings are normal); only the **up-side below 200** is the actionable capitulation signal
+- **Key quote**: "This is the core, hardcore information which you need in order to make a decision using the market monitor."
+
+See curated note: [[../../Pradeep Bonde/11. Market Monitor Guide/Market Monitor Guide|MM Guide]]
 
 ## Full Transcript
 

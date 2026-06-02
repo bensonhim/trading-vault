@@ -20,21 +20,18 @@ tags:
 
 ## Summary
 
-- And whenever it goes up dramatically, if you study the equation, if you study this, whenever number of stocks start going up dramatically, that should tell you that we are in a bubble kind of an environment.
-- If you see 2,009 numbers, you will see that this might be in a slightly different format, but like and if you see that the number of stocks information, might be around 6,000 stocks or something like that.
-- Whenever that has happened, that indicates that there has been a bubble in the market because IPOs are pushed into the market, and lower quality IPOs are pushed when there is lot of willing buyers.
-- Now whenever that has happened, what happens is that when number of IPOs or number of stocks **trading** in the market increases dramatically, it has resulted in a duration bearish market.
-- Whenever a lot of IPOs come in and dramatic increase, you had, like, around 5,000 shares, 5,000 companies in the market **trading**, and you suddenly have 7,000, which is like big jump.
-- Whenever that has happened in the past, what you're going to see is whenever that has happened in the past, that has resulted in the market having a duration bearish market.
-- When it has been like and it has been shown, historically, number of IPO activity, whenever it goes up dramatically, you had thousand share IPOs, between, like, in a 2,000.
-- Whenever this kind of a figures of, like, number of stocks **trading**, there's another post which you can see somewhere like and I if I can't find it, just drop.
-- And whenever those numbers go very low also, you'll see that from there, it takes a lot of years for the market to go to those high numbers.
-- So just knowing how many stocks are **trading** in the market, and if there's a dramatic increase, 2,000 more stocks started **trading** in 2021.
-- But, like, you know, PK has made a post where, like, in a he showed where, number of stocks where, like, in a has gone up dramatically.
-- When it became a bubble kind of an environment, whenever there is a bubble, when the bubble burst, you get a duration bearish market.
-- Similarly, there were higher numbers, and whenever there's high number, that indicates there is excessive bullishness in the market.
-- Now what happened is in 2021, this number went through the roof suddenly from five thousand before the start of COVID nineteen.
-- So, what you will see is that for many years, right, for many years, this figure has remained more or less constant, right?
+Part 7 explains the **number of stocks trading** as a bubble indicator. Key points:
+
+- **Total number of stocks trading** (e.g., ~6,974 in Wharton common stocks universe) is tracked in the Market Monitor
+- Historically, this number stayed **consistently around 5,000** year after year (companies IPO, merge, delist — baseline is ~5,000)
+- **2021 was a bubble event**: count surged from ~5,200 (pre-COVID) to ~7,000 — a jump of ~2,000 stocks, driven by ~1,000 IPOs (vs. normal <200–250 per year)
+- **IPO surges signal bubbles**: when low-quality IPOs are pushed into a market full of willing buyers, it indicates excessive bullishness and a bubble environment
+- **Historical pattern**: dramatic increases in stock count (dot-com 1999–2000, 2021) reliably preceded **duration bearish markets** lasting 18–24+ months
+- **Inverse is also true**: when stock counts drop very low, it takes years for the market to return to high numbers
+- **Key quote**: "Just knowing how many stocks are trading in the market, and if there's a dramatic increase... that was an indicator to you that we are going to have some sort of a big correction"
+- References a post by **PK** showing this historical data
+
+See curated note: [[../../Pradeep Bonde/11. Market Monitor Guide/Market Monitor Guide|MM Guide]]
 
 ## Full Transcript
 

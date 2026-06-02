@@ -20,8 +20,22 @@ tags:
 
 ## Summary
 
-- **Requirement**: And then you need to be ready to look at a turn. When it becomes excessively bearish, then you have to be careful and not ... *The video says:* "And then you need to be ready to look at a turn. When it becomes excessively bearish, then you have to be careful and not become excessively bearish because that is what leads to a turn in the market."
-- **Key Concept**: So, if you are serious about understanding this, look at the past data which has been there on the site, and try and find out ... *The video says:* "So, if you are serious about understanding this, look at the past data which has been there on the site, and try and find out when bottoms happen, what happens."
+Part 8 covers the **T2108 indicator** (Warden indicator) and the overall Market Monitor usage philosophy. Key points:
+
+- **T2108** = percentage of stocks trading above their 40-day moving average (e.g., 21.85% = below average)
+- **Below 20 = bearish market**; below 10 = **capitulation / major bottom signal**
+- **Historical bottoms at single digits**: 2008 bottom hit 1.6%; COVID bottom also single digit — capitulation selling required for market bottom
+- **T2108 is NOT used standalone** — Pradeep uses it in conjunction with the primary indicator (stocks up 25% in 65 days)
+- **Confluence signal**: Primary indicator below 200 + T2108 in single digits = extremely powerful bottom signal → bull market lasting 3–5 years
+- **Market Monitor is excellent for finding bottoms, NOT for finding tops**: excessive bullishness persists for years; tops form by diminishing participation, not by excessive breadth
+- **Key warning**: "If you use excessive bullishness to get out, that will be the greatest error you'll make" — T2108 above 90 just signals the start of a new bull market
+- **Practical usage framework**:
+  - Primary indicator green → trade bullish breakouts (most will work)
+  - Primary indicator red → trade bearish setups (shorts work well)
+  - Primary indicator + T2108 extremely bearish → prepare for turn, don't stay bearish
+- **Calibrate drawdown**: using Market Monitor as a layer above day-to-day trading decisions substantially reduces drawdown
+
+See curated note: [[../../Pradeep Bonde/11. Market Monitor Guide/Market Monitor Guide|MM Guide]]
 
 ## Full Transcript
 

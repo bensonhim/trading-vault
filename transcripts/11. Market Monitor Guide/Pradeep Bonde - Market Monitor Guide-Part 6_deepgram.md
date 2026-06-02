@@ -20,7 +20,16 @@ tags:
 
 ## Summary
 
-- ****Trading** Rule**: So it will always give you but it can give you a false signal also because here, it started going green, but the primary **indicator** ... *The video says:* "So it will always give you but it can give you a false signal also because here, it started going green, but the primary **indicator** never went green."
+Part 6 covers the 34×13 Fibonacci-inspired indicator — a faster but less reliable signal contributed by a community member. Key points:
+
+- **34×13 indicator**: Created by a Fibonacci-fan member using Fibonacci numbers — measures 13% move in 34 days, roughly half of the primary indicator (25% in 65 days)
+- **Faster signals but more false signals**: Can turn green while the primary indicator remains bearish — giving premature bullish signals
+- **Pradeep's verdict**: "Do I pay much attention to it? No." — considers it of limited practical use
+- **All secondary indicators** (34×13 included) are "there to add more color, but these are not important" — the **primary indicator columns are the only critical ones**
+- Traders can **ignore secondary indicators entirely** and still use the Market Monitor effectively
+- **Key quote**: "It can give you a false signal also because here, it started going green, but the primary indicator never went green."
+
+See curated note: [[../../Pradeep Bonde/11. Market Monitor Guide/Market Monitor Guide|MM Guide]]
 
 ## Full Transcript
 

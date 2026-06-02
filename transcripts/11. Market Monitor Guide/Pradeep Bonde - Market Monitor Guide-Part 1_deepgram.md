@@ -20,7 +20,19 @@ tags:
 
 ## Summary
 
-- **Requirement**: Now in **order** to use it, you need to understand what is the structural logic behind it. And once you understand the structural logic, what ... *The video says:* "Now in **order** to use it, you need to understand what is the structural logic behind it. And once you understand the structural logic, what you need to understand is how market breadth is calculated and how market breadth is used. So in this particular thing, first, what you need to do is in **order** to use market monitor, first,..."
+Part 1 introduces the Market Monitor architecture — how the data is generated and entered. Key points:
+
+- **Market Monitor** is a market breadth-based timing tool to determine bullish vs. bearish posture
+- Understanding the **structural logic** is prerequisite — specifically how breadth is calculated and used
+- Data is generated in **TC2000** via custom scans: stocks up/down 4%+ daily, stocks up/down 25% in 65 days (quarter), stocks up/down 25% in a month, stocks up/down 50% in a month, and stocks up/down ~13% in 34 days
+- Scan results are entered into a **spreadsheet manually each evening (~8 PM)**
+- All data is **market-derived** (not secondary indicators); it measures actual buying/selling flow
+- Best market timing models are historically based on market breadth — "this is not something which I had discovered"
+- Key threshold: **300 stocks** separates "high/normal" activity from "abnormal" intensity
+- This video is structural/setup — no trading signals yet; just data generation methodology
+- Part 2 will focus on the first two columns (4% breakout/breakdown)
+
+See curated note: [[../../Pradeep Bonde/11. Market Monitor Guide/Market Monitor Guide|MM Guide]]
 
 ## Full Transcript
 

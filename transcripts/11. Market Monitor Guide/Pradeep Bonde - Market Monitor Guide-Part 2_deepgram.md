@@ -20,7 +20,18 @@ tags:
 
 ## Summary
 
-- **Requirement**: So that's the first thing which you need to understand. *The video says:* "So that's the first thing which you need to understand."
+Part 2 covers the first two columns — 4% breakout and 4% breakdown — and the color coding system. Key points:
+
+- **First two columns**: Number of stocks up 4%+ and down 4%+ in a day — the rawest measure of daily buying/selling pressure
+- **Example day**: 82 stocks up 4%, 351 stocks down 4% — both entered into the spreadsheet nightly
+- **Color coding rules**: >300 stocks up 4% = dark green (abnormally high buying); <300 = light green (normal). >300 down = dark red (abnormally high selling); <300 = pink (normal)
+- **Cell background color** (green vs. red): determined by which side — up or down — has the higher count
+- **Yellow date** = half trading day (day after Thanksgiving, day before Christmas)
+- **Threshold = 300**: separates "normal" from "abnormally intense" buying/selling
+- **At market turns**: abnormally high figures appear — 1,000–1,700 range (e.g., post-March 2020 rally with 1,100+ days back-to-back)
+- **Core framing**: "Market monitor is trying to measure what is the underlying buying and selling pressure in the market"
+
+See curated note: [[../../Pradeep Bonde/11. Market Monitor Guide/Market Monitor Guide|MM Guide]]
 
 ## Full Transcript
 
