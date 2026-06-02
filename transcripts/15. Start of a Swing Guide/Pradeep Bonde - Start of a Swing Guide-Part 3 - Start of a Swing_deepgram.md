@@ -20,10 +20,7 @@ tags:
 
 ## Summary
 
-- **Key Concept**: I like the cleaner moves, but, like, you know, that might, like, any Some of you who've been around for some time understood the concept ... *The video says:* "I like the cleaner moves, but, like, you know, that might, like, any Some of you who've been around for some time understood the concept of start up a swing. So, like this, you build your understanding of moves, right? Having a clear, absolutely clear, crystal clear understanding of start of a swing and focusing only on the start of..."
-- **Requirement**: I mean, if you want to, like, do something like this 9,000,000 sugar babies, you need to give it low. You have to focus your ... *The video says:* "I mean, if you want to, like, do something like this 9,000,000 sugar babies, you need to give it low. You have to focus your energy on new kind of problems. And why do you need to look at this all the time? Exactly, you have to look at the left of the **chart**, right?"
-- **High **Probability****: You clearly understand certain startup swing have a high **probability** of working. *The video says:* "You clearly understand certain startup swing have a high **probability** of working."
-- ****Trading** Rule**: And you will also understand, right, and when you study hundreds of these that the third, fourth leg moves, never work out right in a ... *The video says:* "And you will also understand, right, and when you study hundreds of these that the third, fourth leg moves, never work out right in a basically."
+Live marking of SOS on 25 stocks across multiple sectors. The exercise trains your eye to recognize range expansion after consolidation. Key insights: cleaner setups work better, third and fourth leg moves never work out, you must study hundreds of examples. When you see a clear SOS after a tight consolidation, the probability of it working is high. Pradeep walks through chart after chart identifying: "is this a tradable SOS? Was there a consolidation before the breakout?" Stocks shown with first legs, second legs, and failed third legs. Important: even within a clean setup, context matters — look left at what preceded the move. Third/fourth leg attempts consistently fail.
 
 ## Full Transcript
 

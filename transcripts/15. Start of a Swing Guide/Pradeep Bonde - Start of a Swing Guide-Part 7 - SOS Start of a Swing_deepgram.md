@@ -20,10 +20,7 @@ tags:
 
 ## Summary
 
-- **Requirement**: If you want to become a swing trader, this is the absolute basic basic knowledge which you need to have in **order** to be a ... *The video says:* "If you want to become a swing trader, this is the absolute basic basic knowledge which you need to have in **order** to be a swing trader. And what is that basic basic knowledge which you need to have is that by a swing at the start of a swing. And where does a swing start and where does a..."
-- **Key Concept**: So this understanding of where is a start of a swing and only **trading** clearly identifiable start of a swing clearly identifiable start of a ... *The video says:* "So this understanding of where is a start of a swing and only **trading** clearly identifiable start of a swing clearly identifiable start of a swing. Now this level of basic understanding of swing, is this a start up of swing today? Now this particular understanding of SOS, which is like in a that's like the grammar of swing **trading**...."
-- **Market **Condition****: It might be a **consolidation** setup. *The video says:* "It might be a **consolidation** setup."
-- ****Trading** Rule**: And if you cannot get this concept right, don't **trade**. *The video says:* "And if you cannot get this concept right, don't **trade**."
+Reiteration and reinforcement of the SOS concept. This is "the grammar of swing trading" — the absolute basic knowledge required. If you cannot identify the start of a swing, don't trade. Only trade clearly identifiable SOS. Pradeep reviews member questions and common mistakes: buying extended stocks, ignoring the left side of the chart, confusing noise with SOS. The concept must be crystal clear — not ambiguous. "If you cannot get this concept right, don't trade." SOS can be a continuation setup, consolidation setup, or reversal. This session is shorter and serves as Q&A reinforcement.
 
 ## Full Transcript
 
