@@ -20,21 +20,18 @@ tags:
 
 ## Summary
 
-- Half of the day's **range**, even sometimes even lower than half of the day's **range** also works in this particular case because you're buying or you're **short** selling them near the end of the day.
-- But close stops and moving your stops aggressively every day to start locking in some of the profit is the key to being profitable in this particular **setup**.
-- Very close stops is what I would always recommend on big structure shot because the one which work, the next day immediately start going down.
-- After you put in a stop, after that next day if it goes down, then make sure that you are moving your stop to protect that day's profit.
-- If it is not, it's much better to just close the **trade** with a small profit or whatever small loss and go to the next **setup**.
-- Always remember, in this **setup**, if it is going to work, next day it will open negative and it will continue to go down.
-- So next day, if they're really weak, they your hypothesis is they'll continue to go down in a water quality climate.
-- So let's say that, like, this was a stock which you found, and you're looking at this particular stock on this day.
-- In fact, and the good ones which are really good, they are going to be, like, immediately down next day.
-- And then if it gaps down, it's much better, to, like, again, move your stop, to protect your profit.
-- So if you find a weak structure shot and you get into a weak structure shot, where to put a stop?
-- And especially if they gap down big, it's best to, like, and just take your profit and run.
-- I typically like to put my stops at half of this day's **range**, half of this day's **range**.
-- Because by very definition, this **setup**, if it is going to work, it immediately works.
-- So the stops, you keep moving to protect your profit, as they move in your **direction**.
+Part 3 covers stop placement and trade management for WSS — aggressive, tight, and immediate. Key points:
+
+- **Initial stop: half the entry day's range** above entry (e.g., if day's range is $3, stop is $1.50 above entry); even tighter works since you enter near end of day
+- **Philosophy: very tight stops** because valid setups work immediately — "by very definition, this setup, if it is going to work, it immediately works"
+- **Day 1 is the test**: If valid, stock opens negative and continues down; if it bounces back, close with a small profit or loss and move on
+- **Aggressive stop trailing**: Move stop every day to protect the previous day's profit — half of each subsequent day's range
+- **Gap-down = take profit**: "Especially if they gap down big, it's best to just take your profit and run"
+- **Typical hold: 3–5 days**; by Day 3, evaluate whether to exit
+- **Partial profit strategy**: "You can take partial profit and let partial run. But close stops and moving your stops aggressively every day to start locking in some of the profit is the key to being profitable in this particular setup."
+- **ASR note**: "water quality climate" = "waterfall decline"; "big structure shot" = "weak structure short"
+
+See curated note: [[../../Pradeep Bonde/10. Weak Structure Short Guide/Weak Structure Short Guide|WSS Guide]]
 
 ## Full Transcript
 

@@ -20,21 +20,17 @@ tags:
 
 ## Summary
 
-- Again, look for something which is not like an app 2.5% plus, and then keep looking for stocks which meet your definition of big structure shot, which is Niagara fall three days down continuously, then they have less than, to three days of bounce.
-- And those are the three places from which you can find either, like, in a basically TI 65 bearish or M 20 bearish or stocks which are down 20% plus in last five days.
-- These are the kind of stocks, something which is down 20% plus, and it still is near low, and it has a waterfall decline is what you're looking for.
-- Like in this particular case, you'll see that there's a waterfall decline and these two days but, like, this day was more than 2.5%.
-- If you want to **trade** watch list from a watch list to weak structure **short**, you can create a watch list for a weak structure **short**.
-- And one thing from which you can find this weak structure **short** is stocks which are down when you do this study, 20% plus down.
-- And so if there is something which has a down move and then there is a pause, then you put it on in a watch list right here.
-- So going through this list and creating a watch list is another way in which you can find weak structure **chart**.
-- So you start looking at stocks which are down less than 2.5% and see if they are weak structure **short**.
-- And the ways to create a watch list for a weak structure **short** will be using essentially two places.
-- In the case of M twenty bearish, you're looking for a stock which is basically what did I do?
-- There is a stock has gone down, waterfall decline, and it is having so there is two.
-- And those are the kind of things, which is best for finding weak structure **short**.
-- The other place where you can find weak structure **short** is M twenty bearish.
-- The third way, you can find weak structure **chart** and create a watch list.
+Part 4 explains how to build a Weak Structure Short watchlist from three scan sources. Key points:
+
+- **Three scan sources for WSS candidates**: (1) Stocks down 20%+ in last 5 days, (2) M20 bearish scan, (3) TI65 bearish scan
+- **Source 1 — Stocks down 20%+ in 5 days**: Filter for stocks still near lows with a waterfall decline; look for a 1–3 day pause/bounce under 2.5% per day
+- **Source 2 — M20 bearish scan**: Stocks down 20%+ from 30-day high; filter out stocks bouncing more than 2.5%, keep those with weak bounces
+- **Source 3 — TI65 bearish scan**: Stocks with negative momentum relative to 65-day average; again filter for minor bounces under 2.5% and verify N3/10, W3/2.5 pattern
+- **The 2.5% filter is universal**: Across all three sources, any stock bouncing more than 2.5% per day is disqualified — "this day was more than 2.5%, so it is not a weak structure short"
+- **Weekly watchlist workflow**: Scan these three sources, create a watchlist, and monitor for the entry signal (next negative day)
+- **ASR notes**: "app 2.5%" = "up 2.5%"; "big structure shot" = "weak structure short"; "weak structure chart" = "weak structure short"
+
+See curated note: [[../../Pradeep Bonde/10. Weak Structure Short Guide/Weak Structure Short Guide|WSS Guide]]
 
 ## Full Transcript
 

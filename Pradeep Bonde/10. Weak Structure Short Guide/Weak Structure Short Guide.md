@@ -104,9 +104,9 @@ The **combination bearish scan** (the standard momentum burst bearish scan) gene
 - 3+ consecutive red days (waterfall decline)
 - A minor pause/bounce of 1–3 days
 
-> "The easiest way to find these stocks is to just run your combination scan and visually identify a stock which has got three down days." — *Part 2*
+**Example:** CLVT would appear in the combination bearish scan on the exact day it qualifies as a WSS entry — waterfall decline done, weak bounce occurring, next negative day is the short signal.
 
-> "On this particular day, this stock would show up in your bearish combo scan... Or if you're looking for, say, CLVT... on the day on which there is a weak structure short." — *Part 2*
+> "The easiest way to find these stocks is to just run your combination scan and visually identify a stock which has got three down days." — *Part 2*
 
 ### 2.3 Secondary Method: 20%+ Decline in 5 Days
 

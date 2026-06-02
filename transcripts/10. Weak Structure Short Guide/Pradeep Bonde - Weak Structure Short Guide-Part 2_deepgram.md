@@ -20,7 +20,15 @@ tags:
 
 ## Summary
 
-- **Market **Condition****: Most of the time, these are stocks, which will also be down five days, like 20% plus, and then they will have a **consolidation**. *The video says:* "Most of the time, these are stocks, which will also be down five days, like 20% plus, and then they will have a **consolidation**."
+Part 2 explains how to find WSS setups — there is no dedicated scan, so use existing bearish scans and visually filter. Key points:
+
+- **No separate scan for WSS**: Use the existing **combination bearish scan** (momentum burst scan) and visually identify the N3/10, W3/2.5 pattern
+- **Primary method**: Run the combination bearish scan, look for 3+ consecutive down days with a minor pause/bounce
+- **Secondary method**: Scan for stocks **down 20%+ in the last 5 days** — most of these will also show the waterfall decline pattern
+- **CLVT example**: Would appear in the combination scan on the exact WSS entry day
+- **Pradeep's sourcing**: "I find almost all of my weak structure short by looking at either combination scan or looking at 20% plus down in five days"
+
+See curated note: [[../../Pradeep Bonde/10. Weak Structure Short Guide/Weak Structure Short Guide|WSS Guide]]
 
 ## Full Transcript
 

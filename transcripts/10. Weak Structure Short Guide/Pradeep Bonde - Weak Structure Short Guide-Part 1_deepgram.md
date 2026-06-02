@@ -20,7 +20,17 @@ tags:
 
 ## Summary
 
-- **Requirement**: In **order** to understand this particular, **setup**, you need to understand an acronym called Niagara 10 by three three by 10. You have to when ... *The video says:* "In **order** to understand this particular, **setup**, you need to understand an acronym called Niagara 10 by three three by 10. You have to when the next day is negative is when you shot."
+Part 1 defines the entire Weak Structure Short (WSS) setup with the acronym **N=3/10, W=3/2.5**. Key points:
+
+- **Niagara (waterfall decline)**: 3+ consecutive down days with no positive day in between, totaling at least 10% or $10 decline
+- **Weak bounce**: 1–3 days of bounce, each day up less than 2.5% — the weaker the bounce, the better (examples shown with bounces under 0.5%)
+- **Entry signal**: Short on the next negative day after the weak bounce, preferably **near end of day** to avoid intraday reversals
+- **Second leg mirrors first**: A $10 first decline often yields a ~$10 second decline; a 20–30% first drop often yields a similar second drop — provides a profit target framework
+- **End-of-day timing critical**: "You should short this near the end of the day because if you short it early, many times it will reverse"
+- **Acronym recap**: "Niagara 3×10, Weak 3×2.5" — the entire setup definition in one phrase
+- **ASR note**: "shot" = "short"; "big structure shot" = "weak structure short"; "Niagara 10 by three three by 10" = "N=3/10, W=3/2.5"
+
+See curated note: [[../../Pradeep Bonde/10. Weak Structure Short Guide/Weak Structure Short Guide|WSS Guide]]
 
 ## Full Transcript
 
