@@ -433,6 +433,14 @@ Pradeep outlines three approaches, from easiest to most advanced:
 
 ---
 
+## See Also
+
+- [[../../KB/Scans and Filters|Scans and Filters]] — PCF formulas, combo lists, liquidity filters, FMP API mapping
+- [[../../KB/Entries|Entries]] — all entry types compared: EP, DEP, SOS, ANT, Reversal, MB
+- [[../../KB/Short Side|Short Side]] — short selling setups, weak structure shorts, bearish momentum
+
+---
+
 ### Cross-References
 
 - [[../../transcripts/04. TI65/Pradeep Bonde - TI65 Guide-Part 1_deepgram|Part 1 Transcript]]

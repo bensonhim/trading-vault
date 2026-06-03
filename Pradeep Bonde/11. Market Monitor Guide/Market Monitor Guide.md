@@ -345,6 +345,15 @@ The single biggest benefit of the Market Monitor is **avoiding trades when they 
 9. **Excessive bearishness is bullish; excessive bullishness is NOT bearish** — The asymmetry is the hardest lesson to internalize.
 10. **Manual process, not automation** — Scans are run daily, counts entered manually, colors applied by spreadsheet rules. The discipline of doing it nightly is part of the edge.
 
+---
+
+## See Also
+
+- [[../../KB/Market Monitor|Market Monitor]] — daily process, weekend process, market condition classification, indicators
+- [[../../KB/Mentality|Mentality]] — trading psychology, discipline, and mindset for consistent execution
+
+---
+
 ## Cross-References
 
 - [[../../transcripts/11. Market Monitor Guide/|Transcripts (all 8 parts)]]

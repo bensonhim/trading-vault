@@ -199,6 +199,15 @@ Dollar breakout is NOT immune to bearish market conditions:
 
 ---
 
+## See Also
+
+- [[../../KB/Entries|Entries]] — all entry types compared: EP, DEP, SOS, ANT, Reversal, MB
+- [[../../KB/Stops|Stops]] — stop placement by setup type, width, management
+- [[../../KB/Trade Management|Trade Management]] — scaling in, scaling out, pyramiding, exit rules
+- [[../../KB/Common Mistakes|Common Mistakes]] — frequent errors traders make and how to avoid them
+
+---
+
 ### Cross-References
 
 - [[../../transcripts/03. Bullish Momentum Burst/Pradeep Bonde - Bullish Momentum Burst Guide-Section 7_deepgram|Full Transcript]]

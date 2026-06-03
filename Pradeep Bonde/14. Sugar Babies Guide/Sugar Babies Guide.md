@@ -206,6 +206,16 @@ Only trade Sugar Baby setups when the Market Monitor is bullish (primary indicat
 11. **Each Sugar Baby gives ~4 tradable setups per year** (long or short). The list refreshes but core names persist for months or years.
 12. **Sugar Babies can be integrated with Trade Ideas.** Create a watchlist of your Sugar Babies in TI, then add momentum alerts (e.g., "New High of Day") to catch breakouts automatically.
 
+---
+
+## See Also
+
+- [[../../KB/Entries|Entries]] — all entry types compared: EP, DEP, SOS, ANT, Reversal, MB
+- [[../../KB/Position Sizing|Position Sizing]] — how to size positions by setup type, account risk, and stop width
+- [[../../KB/Confluences|Confluences]] — when multiple setups align (DEP+SB, ANT+SOS, EP+Bucket 0)
+
+---
+
 ## Cross-References
 
 - [[../../transcripts/14. Sugar Babies Guide/|Transcripts (all 12 parts)]]

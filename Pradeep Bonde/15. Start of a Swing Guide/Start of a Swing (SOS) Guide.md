@@ -245,6 +245,16 @@ AND V >= 100000 (100K+ volume)
 11. **Start simple: SOS Continuation with 5 examples.** Master one type before adding others.
 12. **The 4% breakout and 9M volume are the two pillars.** 4% = price conviction. 9M = institutional participation. Together = high-probability SOS.
 
+---
+
+## See Also
+
+- [[../../KB/Entries|Entries]] — all entry types compared: EP, DEP, SOS, ANT, Reversal, MB
+- [[../../KB/Stops|Stops]] — stop placement by setup type, width, management
+- [[../../KB/Common Mistakes|Common Mistakes]] — frequent errors traders make and how to avoid them
+
+---
+
 ## Cross-References
 
 - [[../../transcripts/15. Start of a Swing Guide/|Transcripts (all 11 parts)]]

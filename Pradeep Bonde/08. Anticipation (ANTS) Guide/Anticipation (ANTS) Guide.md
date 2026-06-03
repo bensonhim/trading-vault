@@ -389,6 +389,14 @@ Pradeep draws an explicit parallel to Nicolas Darvas: "Darvas used to have a wat
 
 ---
 
+## See Also
+
+- [[../../KB/Entries|Entries]] — all entry types compared: EP, DEP, SOS, ANT, Reversal, MB
+- [[../../KB/Stops|Stops]] — stop placement by setup type, width, management
+- [[../../KB/Common Mistakes|Common Mistakes]] — frequent errors traders make and how to avoid them
+
+---
+
 ## Cross-References
 
 - [[01. How to Get Started/01. How to Get Started In Trading Guide-Part 1|How to Get Started — Market Monitor]] — confirmed bull market definition

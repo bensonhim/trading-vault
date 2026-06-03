@@ -232,6 +232,15 @@ While Pradeep does not cover position sizing or stop-placement mechanics for bea
 7. **The pause quality matters:** single-day pauses are best; multi-day pauses are inferior.
 8. **A minor bounce <2.5% is key:** larger bounces mean buyers are stepping in, reducing follow-through probability.
 
+---
+
+## See Also
+
+- [[../../KB/Short Side|Short Side]] — short selling setups, weak structure shorts, bearish momentum, broken business
+- [[../../KB/Common Mistakes|Common Mistakes]] — frequent errors traders make and how to avoid them
+
+---
+
 ## Cross-References
 
 - [[../../transcripts/09. Momentum Burst Bearish Guide/|Transcripts (all 5 parts)]]

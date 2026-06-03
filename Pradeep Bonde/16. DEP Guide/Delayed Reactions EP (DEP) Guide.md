@@ -344,6 +344,16 @@ DEP is specifically designed for traders who cannot watch the market all day:
 
 ---
 
+## See Also
+
+- [[../../KB/Entries|Entries]] — all entry types compared: EP, DEP, SOS, ANT, Reversal, MB
+- [[../../KB/Stops|Stops]] — stop placement by setup type, width, management
+- [[../../KB/Position Sizing|Position Sizing]] — how to size by setup type, account risk, and stop width
+- [[../../KB/Trade Management|Trade Management]] — scaling in, scaling out, pyramiding, exit rules
+- [[../../KB/Catalysts|Catalysts]] — catalyst types, lifespan, validation, what to skip
+
+---
+
 ## Key Quotes
 
 > *"DEP is an entry plus sizing tactic."*

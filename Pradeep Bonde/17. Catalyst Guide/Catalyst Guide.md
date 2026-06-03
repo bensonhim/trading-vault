@@ -335,6 +335,13 @@ The single biggest benefit of catalyst study:
 
 ---
 
+## See Also
+
+- [[../../KB/Catalysts|Catalysts]] — catalyst types, lifespan, validation, what to skip, bucket system
+- [[../../KB/Stock Selection|Stock Selection]] — fund ownership, buckets, institutional quality
+
+---
+
 ## Cross-References
 
 - [[13. Episodic Pivots Guide|EP 9M — The Foundation of Catalyst Trading]]

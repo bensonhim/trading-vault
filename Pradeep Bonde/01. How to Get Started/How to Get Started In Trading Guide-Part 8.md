@@ -318,6 +318,14 @@ Pradeep views Bitcoin as a **trading instrument** (short-term holds) rather than
 
 ---
 
+## See Also
+
+- [[../../KB/Mentality|Mentality]] — trading psychology, discipline, and mindset for consistent execution
+- [[../../KB/Position Sizing|Position Sizing]] — how to size positions by setup type, account risk, and stop width
+- [[../../KB/Common Mistakes|Common Mistakes]] — frequent errors traders make and how to avoid them
+
+---
+
 ## Cross-References
 
 | Part | Connection |

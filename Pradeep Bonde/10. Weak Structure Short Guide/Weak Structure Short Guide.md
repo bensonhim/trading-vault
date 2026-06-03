@@ -234,6 +234,15 @@ The 2.5% bounce ceiling serves as a **demand test**. If buyers were genuinely in
 9. **Watchlist construction:** Filter the three scan sources (20% in 5 days, M20 bearish, TI65 bearish) for minor bounces, then monitor weekly.
 10. **The setup reflects institutional liquidation:** The waterfall is a large seller exiting; the weak bounce proves no buyers exist to absorb the supply.
 
+---
+
+## See Also
+
+- [[../../KB/Short Side|Short Side]] — short selling setups, weak structure shorts, bearish momentum, broken business
+- [[../../KB/Stops|Stops]] — stop placement by setup type, width, management
+
+---
+
 ## Cross-References
 
 - [[../../transcripts/10. Weak Structure Short Guide/|Transcripts (all 4 parts)]]

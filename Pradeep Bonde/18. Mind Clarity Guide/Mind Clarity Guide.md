@@ -312,6 +312,13 @@ For one week, write down every time you considered a trade that didn't fit your 
 
 ---
 
+## See Also
+
+- [[../../KB/Mentality|Mentality]] — trading psychology, discipline, and mindset for consistent execution
+- [[../../KB/Common Mistakes|Common Mistakes]] — frequent errors traders make and how to avoid them
+
+---
+
 ## Cross-References
 
 - [[13. Episodic Pivots Guide|EP 9M — The Setup]]

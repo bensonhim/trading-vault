@@ -336,6 +336,16 @@ The catalyst must be so significant that it **redefines** the company's future:
 14. **Work the discovery window.** NTRT/MTRT means scanning pre-market and after-hours. The edge comes from identifying the candidate before the crowd.
 15. **EP is a patience game.** Most nights there are no candidates. When a perfect EP appears, you must recognize it and act with size.
 
+---
+
+## See Also
+
+- [[../../KB/Entries|Entries]] — all entry types compared: EP, DEP, SOS, ANT, Reversal, MB
+- [[../../KB/Catalysts|Catalysts]] — catalyst types, lifespan, validation, what to skip
+- [[../../KB/Stops|Stops]] — stop placement by setup type, width, management
+
+---
+
 ## Cross-References
 
 - [[../../transcripts/13. Episodic Pivots Guide/|Transcripts (all 6 parts)]]

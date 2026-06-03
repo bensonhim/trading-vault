@@ -406,6 +406,15 @@ Traders who became bearish in 2009, 2010, 2011, 2013, 2016, 2017, 2019 missed **
 14. **The hardest skill is remaining bullish.** Prematurely exiting a bull market because stocks "feel extended" is the greatest error. The market goes up for years.
 15. **Situational awareness is developed, not innate.** Study historical market data, track breadth daily, monitor the Fed, and review the 20% study. These are skills built through repetition.
 
+---
+
+## See Also
+
+- [[../../KB/Market Monitor|Market Monitor]] — daily process, weekend process, market condition classification, indicators
+- [[../../KB/Mentality|Mentality]] — trading psychology, discipline, and mindset for consistent execution
+
+---
+
 ## Cross-References
 
 - [[../../transcripts/12. Situational Awareness Guide/|Transcripts (all 13 parts)]]
