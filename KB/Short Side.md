@@ -51,13 +51,13 @@ tags: [kb, short-side, bearish, weak-structure, broken-business, shorts]
 
 ## Weak Structure Short (WSS)
 
-| Component | Requirement | Source |
-|-----------|------------|--------|
-| **Niagara (N)** | 3+ consecutive DOWN days with NO positive day | [[10. Weak Structure Short Guide\|WSS Part 1]] |
-| **3/10** | Decline at least 10% or $10 during waterfall | [[10. Weak Structure Short Guide\|WSS Part 1]] |
-| **Weak (W)** | 1–3 days of bounce, each day up < 2.5% | [[10. Weak Structure Short Guide\|WSS Part 3]] |
-| **Entry** | Short on next negative day after weak bounce | [[10. Weak Structure Short Guide\|WSS Part 3]] |
-| **Timing** | Near end of day — "if you short early, many times it will reverse" | [[10. Weak Structure Short Guide\|WSS Part 3]] |
+| Component       | Requirement                                                        | Source                                         |
+| --------------- | ------------------------------------------------------------------ | ---------------------------------------------- |
+| **Niagara (N)** | 3+ consecutive DOWN days with NO positive day                      | [[10. Weak Structure Short Guide\|WSS Part 1]] |
+| **3/10**        | Decline at least 10% or $10 during waterfall                       | [[10. Weak Structure Short Guide\|WSS Part 1]] |
+| **Weak (W)**    | 1–3 days of bounce, each day up < 2.5%                             | [[10. Weak Structure Short Guide\|WSS Part 3]] |
+| **Entry**       | Short on next negative day after weak bounce                       | [[10. Weak Structure Short Guide\|WSS Part 3]] |
+| **Timing**      | Near end of day — "if you short early, many times it will reverse" | [[10. Weak Structure Short Guide\|WSS Part 3]] |
 
 **Stop:** Half of entry day's range above entry. Move daily to protect profit.
 

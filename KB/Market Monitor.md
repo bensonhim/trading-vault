@@ -11,17 +11,17 @@ tags: [kb, market-monitor, daily-process, pre-market, watchlist, process]
 
 ## Daily Process Loop
 
-| Time | Activity | What To Do | Source |
-|------|----------|-----------|--------|
-| **Pre-market (08:30)** | Review after-hours movers | Check which stocks gapped up/down overnight; brief catalyst research | [[21. Process Guide\|Process — EP9M Daily]] |
-| **09:30** | Run EP 9M scan | Combo bullish/bearish scans, sort by volume | [[21. Process Guide\|Process — EP9M Daily]] |
-| **09:30–09:45** | First filter: SOS | Out of 10–20 EP 9M stocks, find 1–2 with SOS | [[21. Process Guide\|Process — EP9M Daily]] |
-| **09:45–10:00** | Enter early leaders | Buy SOS setups; stop at low of day | [[21. Process Guide\|Process — EP9M Daily]] |
-| **10:00–11:00** | Monitor expanding list | ~30–40 stocks by 10:00; ~60–70 by 11:00 | [[21. Process Guide\|Process — EP9M Daily]] |
-| **11:00–14:00** | Classify and decide | Cats, dogs, or liquid lava — trade or skip | [[21. Process Guide\|Process — EP9M Daily]] |
-| **14:00–15:30** | Anticipation / reversal prep | Run scans for tomorrow's anticipation setups | [[21. Process Guide\|Process — Create A Trading Process]] |
-| **15:30–16:00** | Reversal bullish entries | Run reversal scan, enter in last 2–5 minutes | [[22. Reversals Guide\|Reversals]] |
-| **Post-market** | DEP scan update | Sort DEP list by Max V25; update tomorrow's watchlist | [[16. DEP Guide\|DEP Part 4]] |
+| Time                   | Activity                     | What To Do                                                           | Source                                                    |
+| ---------------------- | ---------------------------- | -------------------------------------------------------------------- | --------------------------------------------------------- |
+| **Pre-market (08:30)** | Review after-hours movers    | Check which stocks gapped up/down overnight; brief catalyst research | [[21. Process Guide\|Process — EP9M Daily]]               |
+| **09:30**              | Run EP 9M scan               | Combo bullish/bearish scans, sort by volume                          | [[21. Process Guide\|Process — EP9M Daily]]               |
+| **09:30–09:45**        | First filter: SOS            | Out of 10–20 EP 9M stocks, find 1–2 with SOS                         | [[21. Process Guide\|Process — EP9M Daily]]               |
+| **09:45–10:00**        | Enter early leaders          | Buy SOS setups; stop at low of day                                   | [[21. Process Guide\|Process — EP9M Daily]]               |
+| **10:00–11:00**        | Monitor expanding list       | ~30–40 stocks by 10:00; ~60–70 by 11:00                              | [[21. Process Guide\|Process — EP9M Daily]]               |
+| **11:00–14:00**        | Classify and decide          | Cats, dogs, or liquid lava — trade or skip                           | [[21. Process Guide\|Process — EP9M Daily]]               |
+| **14:00–15:30**        | Anticipation / reversal prep | Run scans for tomorrow's anticipation setups                         | [[21. Process Guide\|Process — Create A Trading Process]] |
+| **15:30–16:00**        | Reversal bullish entries     | Run reversal scan, enter in last 2–5 minutes                         | [[22. Reversals Guide\|Reversals]]                        |
+| **Post-market**        | DEP scan update              | Sort DEP list by Max V25; update tomorrow's watchlist                | [[16. DEP Guide\|DEP Part 4]]                             |
 
 ## Weekend Process
 

@@ -17,17 +17,17 @@ tags: [kb, catalysts, setup-validation, news, earnings, story-stocks]
 
 ## Catalyst Types
 
-| Type | Lifespan | Examples | When to Size Big | When to Skip |
-|------|----------|----------|------------------|--------------|
-| **Secular Theme** | 10–30 years | AI (NVDA), EV, digital payments, drones, clean energy | Early in trend, multi-quarter hold | Late in trend, already up 500%+ |
-| **Cyclical / Turnaround** | 1–4 quarters | ANF, SNDK, bucket zero stocks | First 1–2 quarters of acceleration | After 4+ quarters, growth decelerating |
-| **Earnings Surprise** | 1–10 days | SMCI, SNDK, Intel | On big beat with guidance raise | Miss, or already priced in |
-| **Government Policy** | Months to years | Solar stocks, HSA providers, Obamacare insurers | When policy first announced | When policy is old news |
-| **Product Launch** | Days to weeks | Tesla, Ozempic (LLY, NVO) | Revolutionary product | Incremental update |
-| **Story / Fiction** | 1 day to 4 weeks | Oklo, QuantumScape, RGC, SMX | On 9M breakout with volume, plausible theme | After 2–3 legs, or 9M breakdown |
-| **Biotech** | 1 day to 1 week | ABVX, clinical trials | Only if you understand the drug | If you don't understand biotech |
-| **Analyst Action** | 1–2 days | Bank of America, Celsius | Influential analyst with reasoning | No-name analyst, already priced in |
-| **Liquid Lava** | 3–10 days | NVDA, large-cap tech | For size/liquidity only | Expecting 40%+ moves |
+| Type                      | Lifespan         | Examples                                              | When to Size Big                            | When to Skip                           |
+| ------------------------- | ---------------- | ----------------------------------------------------- | ------------------------------------------- | -------------------------------------- |
+| **Secular Theme**         | 10–30 years      | AI (NVDA), EV, digital payments, drones, clean energy | Early in trend, multi-quarter hold          | Late in trend, already up 500%+        |
+| **Cyclical / Turnaround** | 1–4 quarters     | ANF, SNDK, bucket zero stocks                         | First 1–2 quarters of acceleration          | After 4+ quarters, growth decelerating |
+| **Earnings Surprise**     | 1–10 days        | SMCI, SNDK, Intel                                     | On big beat with guidance raise             | Miss, or already priced in             |
+| **Government Policy**     | Months to years  | Solar stocks, HSA providers, Obamacare insurers       | When policy first announced                 | When policy is old news                |
+| **Product Launch**        | Days to weeks    | Tesla, Ozempic (LLY, NVO)                             | Revolutionary product                       | Incremental update                     |
+| **Story / Fiction**       | 1 day to 4 weeks | Oklo, QuantumScape, RGC, SMX                          | On 9M breakout with volume, plausible theme | After 2–3 legs, or 9M breakdown        |
+| **Biotech**               | 1 day to 1 week  | ABVX, clinical trials                                 | Only if you understand the drug             | If you don't understand biotech        |
+| **Analyst Action**        | 1–2 days         | Bank of America, Celsius                              | Influential analyst with reasoning          | No-name analyst, already priced in     |
+| **Liquid Lava**           | 3–10 days        | NVDA, large-cap tech                                  | For size/liquidity only                     | Expecting 40%+ moves                   |
 
 ## Catalyst Lifespan
 
