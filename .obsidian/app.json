@@ -3,5 +3,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "notes",
   "attachmentFolderPath": "resources",
-  "promptDelete": false
+  "promptDelete": false,
+  "showLineNumber": true
 }
