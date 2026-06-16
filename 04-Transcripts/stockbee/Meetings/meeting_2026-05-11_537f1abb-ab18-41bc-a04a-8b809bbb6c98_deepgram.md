@@ -1,0 +1,151 @@
+---
+title: "Meeting Transcript — meeting_2026-05-11_537f1abb-ab18-41bc-a04a-8b809bbb6c98"
+date: 2026-06-09
+tags: [transcript, en, deepgram, pradeep-bonde, meeting]
+---
+
+# Meeting Transcript
+
+Source: StockBee Meetings  
+Backend: deepgram  
+Date: 2026-06-09  
+
+---
+
+[00:13] Okay.
+[00:13] Time to look at our trade factory and the weekend watch list.
+[00:18] You had, like, an basically, that triggering right on it.
+[00:21] So you didn't have to do anything.
+[00:24] All that happened was the weekend watch list.
+[00:30] Microsoft is not GLW, b, Huawei, Sterling, all three of them, four of them.
+[00:38] So let's, I already did this work, and I'm going to go through my things which I selected based on the kind of things which I look for, which is, like, basically, either it is a if you 9,000,000.
+[00:56] Start of swing from a tight area and should be up three days in a row.
+[01:14] Right.
+[01:18] Yeah.
+[01:18] It was like an that's how you should find good setup.
+[01:23] Right?
+[01:24] So here, let's see.
+[01:27] Light.
+[01:28] That's a breakout right at a high price.
+[01:31] HP.
+[01:32] Again, coming out of a tight area.
+[01:35] Right b, which is, like, negative a day.
+[01:39] Also, less than 1% CRDO, another one which is coming out of a tightness, basically.
+[01:45] Right?
+[01:45] And a three days tight breaking out, basically.
+[01:48] Also, Sugarbaby, probably.
+[01:51] GLW, which is something which was in the watch list.
+[01:54] Right?
+[01:55] Basically.
+[01:56] WAVI, which is t h.
+[02:02] They said earnings today.
+[02:05] It is previously, it had a good catalyst also.
+[02:09] BW, another one of those, AI related team replay.
+[02:14] Heckler Mining, which is a p 9,000,000, right, in a tight day before the breakout.
+[02:20] And again, another tight day.
+[02:22] So high, that is again three two days, three days, and Shaq, which is a delayed reaction on the right end, basically.
+[02:32] So that's really it is.
+[02:34] And now time to look at things which are extended.
+[02:37] Right?
+[02:37] STX.
+[02:39] Where do you see, like, in a where the stress swing starting here on this?
+[02:43] Is this a start of a new swing or, like, in a yeah.
+[02:47] I mean, first leg, second leg, third leg, that will be a fourth leg.
+[02:51] Right?
+[02:52] And they can afford leg work.
+[02:53] Yes.
+[02:54] Only thing is do not attend this meeting anymore.
+[02:57] Right?
+[02:58] Because, if you are set up ideas to buy fourth leg of the the thing, you are on your own.
+[03:05] You should do your own meeting.
+[03:07] Right?
+[03:07] And, basically, right.
+[03:14] Basically.
+[03:14] Yeah.
+[03:21] Yeah.
+[03:21] Again, like any can you buy things like hood and all?
+[03:24] Right?
+[03:24] Yes.
+[03:25] But, realistically speaking, what is working currently, is like an AI and all.
+[03:31] Right?
+[03:32] And this is a stock which is yeah.
+[03:34] It means, like, if you want, like, there are a lot of stocks like this.
+[03:36] Right?
+[03:37] And, basically.
+[03:38] So stick to the team.
+[03:39] Stick to space AI.
+[03:41] Those are the teams.
+[03:42] Right?
+[03:42] And the team is dead.
+[03:43] Robinhood, earnings were also not so good.
+[03:46] But if you want, yeah, I mean, it's like it's a start of a swing.
+[03:48] That's it.
+[03:49] Right?
+[03:49] Right.
+[03:51] Right.
+[03:51] Right.
+[03:51] Yeah.
+[03:52] It had good earnings.
+[03:54] Really?
+[03:56] Miss, I don't understand what is the definition of good.
+[04:00] Right?
+[04:01] And, basically, this stock had good earnings.
+[04:06] Right?
+[04:06] Exactly.
+[04:08] Miss, like, an after growing in this kind of triple digit and all, it has slowed down from 100%.
+[04:15] It's going to be growing twenty zero nine and three percent.
+[04:22] But everybody has definition of good earnings.
+[04:25] So yeah.
+[04:26] Right?
+[04:27] Micro strategy.
+[04:37] Again, you've been barred from attending this meeting going forward because this is second day of a swing.
+[04:43] Right?
+[04:43] This is e p 9,000,000.
+[04:44] This is the second day of a swing.
+[04:46] So please, like, can I go find some other group which buys on two days, second day of a swing?
+[04:52] Right?
+[04:55] Right.
+[04:59] In for queue, I miss.
+[05:01] What do you basically have like, in a setups like this, right, and basically, which are in the sector, which are, like, benefiting from this thing, and then you want to go into something like, an FQ.
+[05:12] Yeah.
+[05:12] Means like an a what is it like?
+[05:15] And I don't know.
+[05:16] Right?
+[05:16] And I mean, so you might be doing something which is we don't understand.
+[05:20] Right?
+[05:21] So that's the thing.
+[05:22] So then if you are to and, then why are you asking why are you telling us today?
+[05:26] You want us to buy on a second day, third day?
+[05:28] That's even bit worse.
+[05:32] Right?
+[05:33] Okay.
+[05:34] So these are my list, and that's it.
+[05:37] And I will see you people sometime.
+[05:41] Right?
+[05:41] Right?
+[05:47] What was the best time in the morning?
+[05:48] Right?
+[05:49] And, basically, you can still buy.
+[05:53] Right?
+[05:54] And it means your stops will be wider now.
+[05:59] Lion for you.
+[06:00] I'm not even looking at reversal bullish here.
+[06:02] Right?
+[06:02] And that means, like, you know, you have a market which is going crazy like this.
+[06:06] Right?
+[06:06] And I do really need reversal, bullish, and anticipation.
+[06:09] Anticipation, whichever I have seen, they have not really worked very well.
+[06:14] So I'm not even looking at them.
+[06:15] Are they, like, when the market become choppy, when we are to really, like, in a struggle for money, we'll go back to looking at reversal bullish.
+[06:24] Right?
+[06:24] Basically.
+[06:25] So circle earnings is today.
+[06:28] Okay.
+[06:28] I didn't realize that.
+[06:29] So yeah.
+[06:38] Yeah.
+[06:40] Yeah.
+[06:40] Okay.
+[06:41] I will see you, soon.
+[06:44] Right now, basically?
+[06:49] Right.

@@ -1,0 +1,5604 @@
+{
+  "mm": {
+    "date": "2026-06-04",
+    "universe_count": 4724,
+    "breakout_4pct": 209,
+    "breakdown_4pct": 48,
+    "primary_up_65d": 1111,
+    "primary_down_65d": 303,
+    "monthly_25_up": 163,
+    "monthly_25_down": 66,
+    "monthly_50_up": 47,
+    "monthly_50_down": 2,
+    "fib_13_up": 1146,
+    "fib_13_down": 751,
+    "t2108_pct": 59.85,
+    "t2108_count": 2804,
+    "ratio_5day": null,
+    "ratio_10day": null,
+    "calculated_at": "2026-06-10T11:44:52.961219",
+    "method": "sqlite_cache",
+    "_source": "local_calc"
+  },
+  "dep": [
+    {
+      "ticker": "PMI",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 0.27,
+      "volume": 826295642,
+      "change_pct": 60.33,
+      "catalyst": "Broke out 2 days ago on 826,295,642 vol",
+      "days_since_setup": 2,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-02",
+        "max_vol_25d": 826295642,
+        "days_since": 2.0
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 235.74,
+      "volume": 180782900,
+      "change_pct": 4.39,
+      "catalyst": "Broke out 21 days ago on 180,782,900 vol",
+      "days_since_setup": 21,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-05-14",
+        "max_vol_25d": 289410624,
+        "days_since": 21.0
+      }
+    },
+    {
+      "ticker": "SPCE",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 4.72,
+      "volume": 74824500,
+      "change_pct": 10.02,
+      "catalyst": "Broke out 0 days ago on 74,824,500 vol",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-04",
+        "max_vol_25d": 286064100,
+        "days_since": 0.0
+      }
+    },
+    {
+      "ticker": "ONDS",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 13.25,
+      "volume": 248294700,
+      "change_pct": 22.69,
+      "catalyst": "Broke out 7 days ago on 248,294,700 vol",
+      "days_since_setup": 7,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-05-28",
+        "max_vol_25d": 248294700,
+        "days_since": 7.0
+      }
+    },
+    {
+      "ticker": "INTC",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 112.71,
+      "volume": 118928807,
+      "change_pct": 4.43,
+      "catalyst": "Broke out 1 days ago on 118,928,807 vol",
+      "days_since_setup": 1,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-03",
+        "max_vol_25d": 227681301,
+        "days_since": 1.0
+      }
+    },
+    {
+      "ticker": "F",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 17.44,
+      "volume": 154228200,
+      "change_pct": 4.74,
+      "catalyst": "Broke out 6 days ago on 154,228,200 vol",
+      "days_since_setup": 6,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-05-29",
+        "max_vol_25d": 216261200,
+        "days_since": 6.0
+      }
+    },
+    {
+      "ticker": "RGTI",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 26.88,
+      "volume": 74159600,
+      "change_pct": 4.88,
+      "catalyst": "Broke out 2 days ago on 74,159,600 vol",
+      "days_since_setup": 2,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-02",
+        "max_vol_25d": 204233224,
+        "days_since": 2.0
+      }
+    },
+    {
+      "ticker": "PLUG",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 3.78,
+      "volume": 115550700,
+      "change_pct": 14.2,
+      "catalyst": "Broke out 14 days ago on 115,550,700 vol",
+      "days_since_setup": 14,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-05-21",
+        "max_vol_25d": 196969900,
+        "days_since": 14.0
+      }
+    },
+    {
+      "ticker": "RXT",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 5.92,
+      "volume": 24283400,
+      "change_pct": 14.51,
+      "catalyst": "Broke out 3 days ago on 24,283,400 vol",
+      "days_since_setup": 3,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-01",
+        "max_vol_25d": 194434700,
+        "days_since": 3.0
+      }
+    },
+    {
+      "ticker": "TSLL",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 16.84,
+      "volume": 130349100,
+      "change_pct": 5.51,
+      "catalyst": "Broke out 22 days ago on 130,349,100 vol",
+      "days_since_setup": 22,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-05-13",
+        "max_vol_25d": 155128209,
+        "days_since": 22.0
+      }
+    },
+    {
+      "ticker": "HPE",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 56.15,
+      "volume": 153197800,
+      "change_pct": 19.47,
+      "catalyst": "Broke out 2 days ago on 153,197,800 vol",
+      "days_since_setup": 2,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-02",
+        "max_vol_25d": 153197800,
+        "days_since": 2.0
+      }
+    },
+    {
+      "ticker": "SOFI",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 18.22,
+      "volume": 150700713,
+      "change_pct": 7.37,
+      "catalyst": "Broke out 6 days ago on 150,700,713 vol",
+      "days_since_setup": 6,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-05-29",
+        "max_vol_25d": 150700713,
+        "days_since": 6.0
+      }
+    },
+    {
+      "ticker": "QUBT",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 12.24,
+      "volume": 30904202,
+      "change_pct": 7.18,
+      "catalyst": "Broke out 7 days ago on 30,904,202 vol",
+      "days_since_setup": 7,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-05-28",
+        "max_vol_25d": 141078800,
+        "days_since": 7.0
+      }
+    },
+    {
+      "ticker": "EOSE",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 9.42,
+      "volume": 26486704,
+      "change_pct": 5.02,
+      "catalyst": "Broke out 2 days ago on 26,486,704 vol",
+      "days_since_setup": 2,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-02",
+        "max_vol_25d": 129095400,
+        "days_since": 2.0
+      }
+    },
+    {
+      "ticker": "SMCI",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 50.17,
+      "volume": 54883700,
+      "change_pct": 7.02,
+      "catalyst": "Broke out 2 days ago on 54,883,700 vol",
+      "days_since_setup": 2,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-02",
+        "max_vol_25d": 127295700,
+        "days_since": 2.0
+      }
+    },
+    {
+      "ticker": "OPTU",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 1.16,
+      "volume": 125085600,
+      "change_pct": 76.24,
+      "catalyst": "Broke out 3 days ago on 125,085,600 vol",
+      "days_since_setup": 3,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-01",
+        "max_vol_25d": 125085600,
+        "days_since": 3.0
+      }
+    },
+    {
+      "ticker": "RDW",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 21.43,
+      "volume": 74963000,
+      "change_pct": 15.09,
+      "catalyst": "Broke out 0 days ago on 74,963,000 vol",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-04",
+        "max_vol_25d": 121289224,
+        "days_since": 0.0
+      }
+    },
+    {
+      "ticker": "AMC",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 1.96,
+      "volume": 35952300,
+      "change_pct": 7.1,
+      "catalyst": "Broke out 0 days ago on 35,952,300 vol",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-04",
+        "max_vol_25d": 116932700,
+        "days_since": 0.0
+      }
+    },
+    {
+      "ticker": "MRVL",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 290.79,
+      "volume": 112646200,
+      "change_pct": 32.52,
+      "catalyst": "Broke out 2 days ago on 112,646,200 vol",
+      "days_since_setup": 2,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-02",
+        "max_vol_25d": 115542800,
+        "days_since": 2.0
+      }
+    },
+    {
+      "ticker": "NVTS",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 30.84,
+      "volume": 112299145,
+      "change_pct": 19.26,
+      "catalyst": "Broke out 1 days ago on 112,299,145 vol",
+      "days_since_setup": 1,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-03",
+        "max_vol_25d": 112299145,
+        "days_since": 1.0
+      }
+    },
+    {
+      "ticker": "HIVE",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 4.76,
+      "volume": 53875000,
+      "change_pct": 5.31,
+      "catalyst": "Broke out 3 days ago on 53,875,000 vol",
+      "days_since_setup": 3,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-01",
+        "max_vol_25d": 111365907,
+        "days_since": 3.0
+      }
+    },
+    {
+      "ticker": "AAL",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 14.85,
+      "volume": 109912600,
+      "change_pct": 7.22,
+      "catalyst": "Broke out 9 days ago on 109,912,600 vol",
+      "days_since_setup": 9,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-05-26",
+        "max_vol_25d": 109912600,
+        "days_since": 9.0
+      }
+    },
+    {
+      "ticker": "TE",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 12.04,
+      "volume": 38998421,
+      "change_pct": 15.66,
+      "catalyst": "Broke out 2 days ago on 38,998,421 vol",
+      "days_since_setup": 2,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-02",
+        "max_vol_25d": 106933800,
+        "days_since": 2.0
+      }
+    },
+    {
+      "ticker": "BBAI",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 4.94,
+      "volume": 70108100,
+      "change_pct": 13.04,
+      "catalyst": "Broke out 7 days ago on 70,108,100 vol",
+      "days_since_setup": 7,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-05-28",
+        "max_vol_25d": 106670200,
+        "days_since": 7.0
+      }
+    },
+    {
+      "ticker": "STI",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 22.71,
+      "volume": 105652839,
+      "change_pct": 350.6,
+      "catalyst": "Broke out 0 days ago on 105,652,839 vol",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-04",
+        "max_vol_25d": 105652839,
+        "days_since": 0.0
+      }
+    },
+    {
+      "ticker": "SNAP",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 6.07,
+      "volume": 60188700,
+      "change_pct": 5.93,
+      "catalyst": "Broke out 0 days ago on 60,188,700 vol",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-04",
+        "max_vol_25d": 101982040,
+        "days_since": 0.0
+      }
+    },
+    {
+      "ticker": "TQQQ",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 81.95,
+      "volume": 62579633,
+      "change_pct": 5.28,
+      "catalyst": "Broke out 9 days ago on 62,579,633 vol",
+      "days_since_setup": 9,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-05-26",
+        "max_vol_25d": 93509107,
+        "days_since": 9.0
+      }
+    },
+    {
+      "ticker": "PLTR",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 156.54,
+      "volume": 92196609,
+      "change_pct": 9.21,
+      "catalyst": "Broke out 6 days ago on 92,196,609 vol",
+      "days_since_setup": 6,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-05-29",
+        "max_vol_25d": 92196609,
+        "days_since": 6.0
+      }
+    },
+    {
+      "ticker": "SOXL",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 280.54,
+      "volume": 49817248,
+      "change_pct": 5.34,
+      "catalyst": "Broke out 1 days ago on 49,817,248 vol",
+      "days_since_setup": 1,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-03",
+        "max_vol_25d": 91705600,
+        "days_since": 1.0
+      }
+    },
+    {
+      "ticker": "AMD",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 542.52,
+      "volume": 29411149,
+      "change_pct": 4.02,
+      "catalyst": "Broke out 1 days ago on 29,411,149 vol",
+      "days_since_setup": 1,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-03",
+        "max_vol_25d": 87732200,
+        "days_since": 1.0
+      }
+    },
+    {
+      "ticker": "PTON",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 6.4,
+      "volume": 18097006,
+      "change_pct": 5.96,
+      "catalyst": "Broke out 6 days ago on 18,097,006 vol",
+      "days_since_setup": 6,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-05-29",
+        "max_vol_25d": 85602105,
+        "days_since": 6.0
+      }
+    },
+    {
+      "ticker": "PATH",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 13.1,
+      "volume": 67981128,
+      "change_pct": 11.77,
+      "catalyst": "Broke out 3 days ago on 67,981,128 vol",
+      "days_since_setup": 3,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-01",
+        "max_vol_25d": 85009731,
+        "days_since": 3.0
+      }
+    },
+    {
+      "ticker": "MARA",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 13.15,
+      "volume": 51458005,
+      "change_pct": 5.71,
+      "catalyst": "Broke out 15 days ago on 51,458,005 vol",
+      "days_since_setup": 15,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-05-20",
+        "max_vol_25d": 82854242,
+        "days_since": 15.0
+      }
+    },
+    {
+      "ticker": "KWEB",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 30.59,
+      "volume": 81984900,
+      "change_pct": 4.94,
+      "catalyst": "Broke out 22 days ago on 81,984,900 vol",
+      "days_since_setup": 22,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-05-13",
+        "max_vol_25d": 81984900,
+        "days_since": 22.0
+      }
+    },
+    {
+      "ticker": "AVGO",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 481.57,
+      "volume": 38306700,
+      "change_pct": 4.7,
+      "catalyst": "Broke out 2 days ago on 38,306,700 vol",
+      "days_since_setup": 2,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-02",
+        "max_vol_25d": 80979446,
+        "days_since": 2.0
+      }
+    }
+  ],
+  "ep_9m": [
+    {
+      "ticker": "PAYO",
+      "setup_type": "EP_9M",
+      "priority": "highest",
+      "price": 6.39,
+      "volume": 51701920,
+      "change_pct": 24.32,
+      "catalyst": "Explosive breakout today",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Catalysts",
+        "Stops"
+      ],
+      "details": {
+        "symbol": "PAYO",
+        "price": 6.39,
+        "name": "Payoneer Global Inc.",
+        "change": 1.25,
+        "changesPercentage": 24.31907,
+        "exchange": "NASDAQ"
+      }
+    },
+    {
+      "ticker": "NUVL",
+      "setup_type": "EP_9M",
+      "priority": "highest",
+      "price": 123.25,
+      "volume": 51678614,
+      "change_pct": 39.28,
+      "catalyst": "Explosive breakout today",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Catalysts",
+        "Stops"
+      ],
+      "details": {
+        "symbol": "NUVL",
+        "price": 123.25,
+        "name": "Nuvalent, Inc.",
+        "change": 34.76,
+        "changesPercentage": 39.28127,
+        "exchange": "NASDAQ"
+      }
+    },
+    {
+      "ticker": "AAOI",
+      "setup_type": "EP_9M_Short",
+      "priority": "high",
+      "price": 162.88,
+      "volume": 26713626,
+      "change_pct": -17.17,
+      "catalyst": "Explosive breakout today",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Catalysts",
+        "Stops"
+      ],
+      "details": {
+        "symbol": "AAOI",
+        "price": 162.88,
+        "name": "Applied Optoelectronics, Inc.",
+        "change": -33.76,
+        "changesPercentage": -17.16843,
+        "exchange": "NASDAQ"
+      }
+    },
+    {
+      "ticker": "RGTZ",
+      "setup_type": "EP_9M",
+      "priority": "highest",
+      "price": 4.16,
+      "volume": 23010739,
+      "change_pct": 18.86,
+      "catalyst": "Explosive breakout today",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Catalysts",
+        "Stops"
+      ],
+      "details": {
+        "symbol": "RGTZ",
+        "price": 4.16,
+        "name": "Daily Target 2X Short RGTZ ETF",
+        "change": 0.66,
+        "changesPercentage": 18.85714,
+        "exchange": "NASDAQ"
+      }
+    },
+    {
+      "ticker": "SUNE",
+      "setup_type": "EP_9M_Short",
+      "priority": "high",
+      "price": 3.56,
+      "volume": 22164261,
+      "change_pct": -39.46,
+      "catalyst": "Explosive breakout today",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Catalysts",
+        "Stops"
+      ],
+      "details": {
+        "symbol": "SUNE",
+        "price": 3.56,
+        "name": "SUNation Energy Inc.",
+        "change": -2.32,
+        "changesPercentage": -39.45578,
+        "exchange": "NASDAQ"
+      }
+    },
+    {
+      "ticker": "ALHC",
+      "setup_type": "EP_9M",
+      "priority": "highest",
+      "price": 19.2,
+      "volume": 16311038,
+      "change_pct": 25.08,
+      "catalyst": "Explosive breakout today",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Catalysts",
+        "Stops"
+      ],
+      "details": {
+        "symbol": "ALHC",
+        "price": 19.2,
+        "name": "Alignment Healthcare, Inc.",
+        "change": 3.85,
+        "changesPercentage": 25.08143,
+        "exchange": "NASDAQ"
+      }
+    },
+    {
+      "ticker": "VELO",
+      "setup_type": "EP_9M",
+      "priority": "high",
+      "price": 19.43,
+      "volume": 9037715,
+      "change_pct": 19.72,
+      "catalyst": "Explosive breakout today",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Catalysts",
+        "Stops"
+      ],
+      "details": {
+        "symbol": "VELO",
+        "price": 19.43,
+        "name": "Velo3D, Inc.",
+        "change": 3.2,
+        "changesPercentage": 19.71657,
+        "exchange": "NASDAQ"
+      }
+    }
+  ],
+  "sos": [
+    {
+      "ticker": "STI",
+      "setup_type": "SOS",
+      "priority": "highest",
+      "price": 22.71,
+      "volume": 105652839,
+      "change_pct": 350.6,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 5.04
+      }
+    },
+    {
+      "ticker": "MRVL",
+      "setup_type": "SOS",
+      "priority": "high",
+      "price": 316.43,
+      "volume": 86903500,
+      "change_pct": 4.9,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 301.65
+      }
+    },
+    {
+      "ticker": "RDW",
+      "setup_type": "SOS",
+      "priority": "highest",
+      "price": 21.43,
+      "volume": 74963000,
+      "change_pct": 15.09,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 18.62
+      }
+    },
+    {
+      "ticker": "SPCE",
+      "setup_type": "SOS",
+      "priority": "highest",
+      "price": 4.72,
+      "volume": 74824500,
+      "change_pct": 10.02,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 4.29
+      }
+    },
+    {
+      "ticker": "SNAP",
+      "setup_type": "SOS",
+      "priority": "high",
+      "price": 6.07,
+      "volume": 60188700,
+      "change_pct": 5.93,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 5.73
+      }
+    },
+    {
+      "ticker": "BMNR",
+      "setup_type": "SOS",
+      "priority": "high",
+      "price": 17.89,
+      "volume": 50488400,
+      "change_pct": 5.86,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 16.9
+      }
+    },
+    {
+      "ticker": "OWL",
+      "setup_type": "SOS",
+      "priority": "high",
+      "price": 10.19,
+      "volume": 43875300,
+      "change_pct": 5.16,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 9.69
+      }
+    },
+    {
+      "ticker": "RXRX",
+      "setup_type": "SOS",
+      "priority": "highest",
+      "price": 3.8,
+      "volume": 38926307,
+      "change_pct": 9.51,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 3.47
+      }
+    },
+    {
+      "ticker": "HOOD",
+      "setup_type": "SOS",
+      "priority": "high",
+      "price": 88.33,
+      "volume": 31788600,
+      "change_pct": 6.61,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 82.85
+      }
+    },
+    {
+      "ticker": "PINS",
+      "setup_type": "SOS",
+      "priority": "high",
+      "price": 21.59,
+      "volume": 27526634,
+      "change_pct": 4.45,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 20.67
+      }
+    },
+    {
+      "ticker": "NCLH",
+      "setup_type": "SOS",
+      "priority": "high",
+      "price": 19.13,
+      "volume": 26857100,
+      "change_pct": 5.4,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 18.15
+      }
+    },
+    {
+      "ticker": "RKLB",
+      "setup_type": "SOS",
+      "priority": "high",
+      "price": 119.95,
+      "volume": 24826300,
+      "change_pct": 4.58,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 114.7
+      }
+    },
+    {
+      "ticker": "RCAT",
+      "setup_type": "SOS",
+      "priority": "high",
+      "price": 14.74,
+      "volume": 23041300,
+      "change_pct": 6.89,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 13.79
+      }
+    },
+    {
+      "ticker": "IOVA",
+      "setup_type": "SOS",
+      "priority": "highest",
+      "price": 4.38,
+      "volume": 22604329,
+      "change_pct": 15.57,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 3.79
+      }
+    },
+    {
+      "ticker": "MDT",
+      "setup_type": "SOS",
+      "priority": "high",
+      "price": 81.93,
+      "volume": 19849637,
+      "change_pct": 5.11,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 77.95
+      }
+    },
+    {
+      "ticker": "NWL",
+      "setup_type": "SOS",
+      "priority": "highest",
+      "price": 3.84,
+      "volume": 19820944,
+      "change_pct": 10.98,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 3.46
+      }
+    },
+    {
+      "ticker": "MRK",
+      "setup_type": "SOS",
+      "priority": "high",
+      "price": 120.26,
+      "volume": 15933945,
+      "change_pct": 4.85,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 114.7
+      }
+    },
+    {
+      "ticker": "AAOI",
+      "setup_type": "SOS",
+      "priority": "high",
+      "price": 202.89,
+      "volume": 14528800,
+      "change_pct": 10.22,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 184.07
+      }
+    },
+    {
+      "ticker": "ABT",
+      "setup_type": "SOS",
+      "priority": "high",
+      "price": 90.78,
+      "volume": 14153200,
+      "change_pct": 4.36,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 86.99
+      }
+    },
+    {
+      "ticker": "TEM",
+      "setup_type": "SOS",
+      "priority": "high",
+      "price": 52.26,
+      "volume": 13897312,
+      "change_pct": 10.0,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 47.51
+      }
+    }
+  ],
+  "reversal": [
+    {
+      "ticker": "PLUG",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 3.6,
+      "volume": 54025006.0,
+      "change_pct": null,
+      "catalyst": "2 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 2,
+        "candle_type": "doji",
+        "body": 0.02,
+        "lower_wick": 0.08,
+        "vol_vs_avg": 0.63
+      }
+    },
+    {
+      "ticker": "PFE",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 25.69,
+      "volume": 31272004.0,
+      "change_pct": null,
+      "catalyst": "6 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 6,
+        "candle_type": "doji",
+        "body": 0.02,
+        "lower_wick": 0.06,
+        "vol_vs_avg": 0.91
+      }
+    },
+    {
+      "ticker": "HL",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 16.83,
+      "volume": 19893100.0,
+      "change_pct": null,
+      "catalyst": "2 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 2,
+        "candle_type": "doji",
+        "body": 0.09,
+        "lower_wick": 0.25,
+        "vol_vs_avg": 1.24
+      }
+    },
+    {
+      "ticker": "TTD",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 21.03,
+      "volume": 19800500.0,
+      "change_pct": null,
+      "catalyst": "3 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 3,
+        "candle_type": "doji",
+        "body": 0.08,
+        "lower_wick": 0.41,
+        "vol_vs_avg": 0.83
+      }
+    },
+    {
+      "ticker": "PL",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 43.53,
+      "volume": 18990700.0,
+      "change_pct": null,
+      "catalyst": "2 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 2,
+        "candle_type": "doji",
+        "body": 0.3,
+        "lower_wick": 1.93,
+        "vol_vs_avg": 1.3
+      }
+    },
+    {
+      "ticker": "CLSK",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 16.78,
+      "volume": 18454018.0,
+      "change_pct": null,
+      "catalyst": "2 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 2,
+        "candle_type": "doji",
+        "body": 0.04,
+        "lower_wick": 0.45,
+        "vol_vs_avg": 0.73
+      }
+    },
+    {
+      "ticker": "SCHD",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 32.59,
+      "volume": 18235100.0,
+      "change_pct": null,
+      "catalyst": "4 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 4,
+        "candle_type": "doji",
+        "body": 0.02,
+        "lower_wick": 0.1,
+        "vol_vs_avg": 0.89
+      }
+    },
+    {
+      "ticker": "XLU",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 43.94,
+      "volume": 18216500.0,
+      "change_pct": null,
+      "catalyst": "6 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 6,
+        "candle_type": "doji",
+        "body": 0.07,
+        "lower_wick": 0.53,
+        "vol_vs_avg": 0.83
+      }
+    },
+    {
+      "ticker": "CCL",
+      "setup_type": "REVERSAL",
+      "priority": "medium",
+      "price": 27.85,
+      "volume": 17917521.0,
+      "change_pct": null,
+      "catalyst": "3 down days -- hammer exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 3,
+        "candle_type": "hammer",
+        "body": 0.21,
+        "lower_wick": 0.52,
+        "vol_vs_avg": 0.72
+      }
+    },
+    {
+      "ticker": "INFQ",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 16.95,
+      "volume": 16143600.0,
+      "change_pct": null,
+      "catalyst": "4 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 4,
+        "candle_type": "doji",
+        "body": 0.06,
+        "lower_wick": 0.31,
+        "vol_vs_avg": 0.53
+      }
+    },
+    {
+      "ticker": "GDX",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 86.4,
+      "volume": 13420224.0,
+      "change_pct": null,
+      "catalyst": "2 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 2,
+        "candle_type": "doji",
+        "body": 0.04,
+        "lower_wick": 0.73,
+        "vol_vs_avg": 0.64
+      }
+    },
+    {
+      "ticker": "USAR",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 27.1,
+      "volume": 13254600.0,
+      "change_pct": null,
+      "catalyst": "2 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 2,
+        "candle_type": "doji",
+        "body": 0.07,
+        "lower_wick": 0.75,
+        "vol_vs_avg": 0.72
+      }
+    },
+    {
+      "ticker": "LUMN",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 9.9,
+      "volume": 13172638.0,
+      "change_pct": null,
+      "catalyst": "3 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 3,
+        "candle_type": "doji",
+        "body": 0.05,
+        "lower_wick": 0.22,
+        "vol_vs_avg": 0.79
+      }
+    },
+    {
+      "ticker": "LUNR",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 33.63,
+      "volume": 12602100.0,
+      "change_pct": null,
+      "catalyst": "3 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 3,
+        "candle_type": "doji",
+        "body": 0.15,
+        "lower_wick": 1.72,
+        "vol_vs_avg": 0.52
+      }
+    },
+    {
+      "ticker": "XOM",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 152.04,
+      "volume": 11799400.0,
+      "change_pct": null,
+      "catalyst": "3 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 3,
+        "candle_type": "doji",
+        "body": 0.01,
+        "lower_wick": 1.1,
+        "vol_vs_avg": 0.73
+      }
+    },
+    {
+      "ticker": "FCX",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 69.69,
+      "volume": 11648611.0,
+      "change_pct": null,
+      "catalyst": "2 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 2,
+        "candle_type": "doji",
+        "body": 0.23,
+        "lower_wick": 0.64,
+        "vol_vs_avg": 0.97
+      }
+    },
+    {
+      "ticker": "SNOW",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 244.18,
+      "volume": 9532200.0,
+      "change_pct": null,
+      "catalyst": "2 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 2,
+        "candle_type": "doji",
+        "body": 0.12,
+        "lower_wick": 2.71,
+        "vol_vs_avg": 0.49
+      }
+    },
+    {
+      "ticker": "DKNG",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 25.37,
+      "volume": 9390820.0,
+      "change_pct": null,
+      "catalyst": "3 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 3,
+        "candle_type": "doji",
+        "body": 0.11,
+        "lower_wick": 0.31,
+        "vol_vs_avg": 0.65
+      }
+    },
+    {
+      "ticker": "ADT",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 6.74,
+      "volume": 9020846.0,
+      "change_pct": null,
+      "catalyst": "6 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 6,
+        "candle_type": "doji",
+        "body": 0.0,
+        "lower_wick": 0.07,
+        "vol_vs_avg": 0.91
+      }
+    },
+    {
+      "ticker": "CORZ",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 27.91,
+      "volume": 8833545.0,
+      "change_pct": null,
+      "catalyst": "2 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 2,
+        "candle_type": "doji",
+        "body": 0.07,
+        "lower_wick": 0.41,
+        "vol_vs_avg": 0.53
+      }
+    }
+  ],
+  "_catalysts": [
+    {
+      "ticker": "AVGO",
+      "date": "2026-06-04",
+      "earnings": {
+        "type": "earnings",
+        "date": "2026-06-03",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "fiscal_date": null,
+        "days_away": -1
+      },
+      "momentum": {
+        "ret_5d": -1.8,
+        "ret_10d": 0.28,
+        "volume_ratio": 3.5,
+        "momentum_score": 1
+      },
+      "catalyst_score": 6,
+      "catalyst_rating": "strong",
+      "notes": "Earnings -1d. "
+    },
+    {
+      "ticker": "TE",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 7.76,
+        "ret_10d": 34.02,
+        "volume_ratio": 0.94,
+        "momentum_score": 2
+      },
+      "catalyst_score": 2,
+      "catalyst_rating": "weak",
+      "notes": ""
+    },
+    {
+      "ticker": "SNAP",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 2.71,
+        "ret_10d": 8.01,
+        "volume_ratio": 1.36,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "QUBT",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": -8.58,
+        "ret_10d": 17.05,
+        "volume_ratio": 0.52,
+        "momentum_score": 1
+      },
+      "catalyst_score": 1,
+      "catalyst_rating": "weak",
+      "notes": ""
+    },
+    {
+      "ticker": "SOFI",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 1.06,
+        "ret_10d": 9.31,
+        "volume_ratio": 0.89,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "AMD",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 0.99,
+        "ret_10d": 16.9,
+        "volume_ratio": 0.78,
+        "momentum_score": 1
+      },
+      "catalyst_score": 1,
+      "catalyst_rating": "weak",
+      "notes": ""
+    },
+    {
+      "ticker": "OPTU",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 81.94,
+        "ret_10d": 68.87,
+        "volume_ratio": 1.81,
+        "momentum_score": 3
+      },
+      "catalyst_score": 3,
+      "catalyst_rating": "moderate",
+      "notes": ""
+    },
+    {
+      "ticker": "HL",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": -4.32,
+        "ret_10d": -2.04,
+        "volume_ratio": 1.23,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "INTC",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": -7.54,
+        "ret_10d": -6.04,
+        "volume_ratio": 0.57,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "HIVE",
+      "date": "2026-06-04",
+      "earnings": {
+        "type": "earnings",
+        "date": "2026-06-02",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "fiscal_date": null,
+        "days_away": -2
+      },
+      "momentum": {
+        "ret_5d": -1.8,
+        "ret_10d": 12.92,
+        "volume_ratio": 0.7,
+        "momentum_score": 0
+      },
+      "catalyst_score": 3,
+      "catalyst_rating": "moderate",
+      "notes": "Earnings -2d. "
+    },
+    {
+      "ticker": "XOM",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 3.46,
+        "ret_10d": -2.71,
+        "volume_ratio": 0.67,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "PATH",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 0.78,
+        "ret_10d": 8.36,
+        "volume_ratio": 1.0,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "CORZ",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 0.54,
+        "ret_10d": 20.41,
+        "volume_ratio": 0.53,
+        "momentum_score": 1
+      },
+      "catalyst_score": 1,
+      "catalyst_rating": "weak",
+      "notes": ""
+    },
+    {
+      "ticker": "HOOD",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 4.11,
+        "ret_10d": 16.59,
+        "volume_ratio": 1.24,
+        "momentum_score": 1
+      },
+      "catalyst_score": 1,
+      "catalyst_rating": "weak",
+      "notes": ""
+    },
+    {
+      "ticker": "PAYO",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 0.59,
+        "ret_10d": 3.43,
+        "volume_ratio": 1.35,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "RGTZ",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": null,
+        "ret_10d": null,
+        "volume_ratio": null,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "AAOI",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 20.04,
+        "ret_10d": 22.77,
+        "volume_ratio": 1.16,
+        "momentum_score": 3
+      },
+      "catalyst_score": 3,
+      "catalyst_rating": "moderate",
+      "notes": ""
+    },
+    {
+      "ticker": "LUMN",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": -7.48,
+        "ret_10d": 6.34,
+        "volume_ratio": 0.82,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "NVDA",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 2.06,
+        "ret_10d": -2.15,
+        "volume_ratio": 0.96,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "ALHC",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": -5.04,
+        "ret_10d": -9.54,
+        "volume_ratio": 0.95,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "KWEB",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 1.76,
+        "ret_10d": -3.52,
+        "volume_ratio": 0.36,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "RDW",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": -17.26,
+        "ret_10d": 45.09,
+        "volume_ratio": 1.3,
+        "momentum_score": 1
+      },
+      "catalyst_score": 1,
+      "catalyst_rating": "weak",
+      "notes": ""
+    },
+    {
+      "ticker": "PLUG",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": -12.62,
+        "ret_10d": 8.76,
+        "volume_ratio": 0.57,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "SPCE",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 4.19,
+        "ret_10d": 91.09,
+        "volume_ratio": 1.61,
+        "momentum_score": 1
+      },
+      "catalyst_score": 1,
+      "catalyst_rating": "weak",
+      "notes": ""
+    },
+    {
+      "ticker": "PL",
+      "date": "2026-06-04",
+      "earnings": {
+        "type": "earnings",
+        "date": "2026-06-04",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "fiscal_date": null,
+        "days_away": 0
+      },
+      "momentum": {
+        "ret_5d": -15.31,
+        "ret_10d": 2.04,
+        "volume_ratio": 1.68,
+        "momentum_score": 0
+      },
+      "catalyst_score": 5,
+      "catalyst_rating": "strong",
+      "notes": "Earnings TODAY. "
+    },
+    {
+      "ticker": "ABT",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 5.19,
+        "ret_10d": 2.72,
+        "volume_ratio": 1.18,
+        "momentum_score": 1
+      },
+      "catalyst_score": 1,
+      "catalyst_rating": "weak",
+      "notes": ""
+    },
+    {
+      "ticker": "EOSE",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": -10.12,
+        "ret_10d": 13.64,
+        "volume_ratio": 0.5,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "SUNE",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": null,
+        "ret_10d": null,
+        "volume_ratio": null,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "RKLB",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": -18.97,
+        "ret_10d": -10.67,
+        "volume_ratio": 0.79,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "NVTS",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 7.58,
+        "ret_10d": 33.41,
+        "volume_ratio": 1.02,
+        "momentum_score": 2
+      },
+      "catalyst_score": 2,
+      "catalyst_rating": "weak",
+      "notes": ""
+    },
+    {
+      "ticker": "BMNR",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": -7.06,
+        "ret_10d": -7.74,
+        "volume_ratio": 1.42,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "NCLH",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 4.65,
+        "ret_10d": 19.34,
+        "volume_ratio": 1.13,
+        "momentum_score": 1
+      },
+      "catalyst_score": 1,
+      "catalyst_rating": "weak",
+      "notes": ""
+    },
+    {
+      "ticker": "MRK",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 0.31,
+        "ret_10d": 6.42,
+        "volume_ratio": 1.81,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "VELO",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": -26.76,
+        "ret_10d": 1.73,
+        "volume_ratio": 0.97,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "RCAT",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 4.17,
+        "ret_10d": 64.88,
+        "volume_ratio": 1.29,
+        "momentum_score": 1
+      },
+      "catalyst_score": 1,
+      "catalyst_rating": "weak",
+      "notes": ""
+    },
+    {
+      "ticker": "RGTI",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": -10.62,
+        "ret_10d": 43.13,
+        "volume_ratio": 0.79,
+        "momentum_score": 1
+      },
+      "catalyst_score": 1,
+      "catalyst_rating": "weak",
+      "notes": ""
+    },
+    {
+      "ticker": "NUVL",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": -13.96,
+        "ret_10d": -8.11,
+        "volume_ratio": 1.2,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "ONDS",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": -9.66,
+        "ret_10d": 27.88,
+        "volume_ratio": 0.71,
+        "momentum_score": 1
+      },
+      "catalyst_score": 1,
+      "catalyst_rating": "weak",
+      "notes": ""
+    },
+    {
+      "ticker": "MARA",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": -1.35,
+        "ret_10d": 5.55,
+        "volume_ratio": 0.81,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "PINS",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 4.55,
+        "ret_10d": 14.78,
+        "volume_ratio": 1.35,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "CCL",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": -0.32,
+        "ret_10d": 6.99,
+        "volume_ratio": 0.62,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "XLU",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": -1.55,
+        "ret_10d": -1.28,
+        "volume_ratio": 0.82,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "PMI",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 113.0,
+        "ret_10d": 107.47,
+        "volume_ratio": 0.76,
+        "momentum_score": 3
+      },
+      "catalyst_score": 3,
+      "catalyst_rating": "moderate",
+      "notes": ""
+    },
+    {
+      "ticker": "SOXL",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 16.95,
+        "ret_10d": 51.67,
+        "volume_ratio": 1.03,
+        "momentum_score": 3
+      },
+      "catalyst_score": 3,
+      "catalyst_rating": "moderate",
+      "notes": ""
+    },
+    {
+      "ticker": "PTON",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 2.15,
+        "ret_10d": 19.34,
+        "volume_ratio": 0.46,
+        "momentum_score": 1
+      },
+      "catalyst_score": 1,
+      "catalyst_rating": "weak",
+      "notes": ""
+    },
+    {
+      "ticker": "RXRX",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 10.47,
+        "ret_10d": 28.38,
+        "volume_ratio": 2.08,
+        "momentum_score": 3
+      },
+      "catalyst_score": 3,
+      "catalyst_rating": "moderate",
+      "notes": ""
+    },
+    {
+      "ticker": "INFQ",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": -4.61,
+        "ret_10d": 51.61,
+        "volume_ratio": 0.71,
+        "momentum_score": 1
+      },
+      "catalyst_score": 1,
+      "catalyst_rating": "weak",
+      "notes": ""
+    },
+    {
+      "ticker": "USAR",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": -3.87,
+        "ret_10d": 20.07,
+        "volume_ratio": 0.76,
+        "momentum_score": 1
+      },
+      "catalyst_score": 1,
+      "catalyst_rating": "weak",
+      "notes": ""
+    },
+    {
+      "ticker": "SMCI",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 13.56,
+        "ret_10d": 40.17,
+        "volume_ratio": 0.68,
+        "momentum_score": 3
+      },
+      "catalyst_score": 3,
+      "catalyst_rating": "moderate",
+      "notes": ""
+    },
+    {
+      "ticker": "F",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": -7.87,
+        "ret_10d": 16.04,
+        "volume_ratio": 0.58,
+        "momentum_score": 1
+      },
+      "catalyst_score": 1,
+      "catalyst_rating": "weak",
+      "notes": ""
+    },
+    {
+      "ticker": "TQQQ",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 1.84,
+        "ret_10d": 11.38,
+        "volume_ratio": 0.86,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "RXT",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 15.26,
+        "ret_10d": 39.75,
+        "volume_ratio": 0.29,
+        "momentum_score": 3
+      },
+      "catalyst_score": 3,
+      "catalyst_rating": "moderate",
+      "notes": ""
+    },
+    {
+      "ticker": "TSLL",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": -10.73,
+        "ret_10d": -0.2,
+        "volume_ratio": 0.53,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "STI",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 379.11,
+        "ret_10d": 381.14,
+        "volume_ratio": 1979.73,
+        "momentum_score": 4
+      },
+      "catalyst_score": 4,
+      "catalyst_rating": "moderate",
+      "notes": ""
+    },
+    {
+      "ticker": "MDT",
+      "date": "2026-06-04",
+      "earnings": {
+        "type": "earnings",
+        "date": "2026-06-03",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "fiscal_date": null,
+        "days_away": -1
+      },
+      "momentum": {
+        "ret_5d": 8.42,
+        "ret_10d": 4.84,
+        "volume_ratio": 1.72,
+        "momentum_score": 1
+      },
+      "catalyst_score": 6,
+      "catalyst_rating": "strong",
+      "notes": "Earnings -1d. "
+    },
+    {
+      "ticker": "CLSK",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": -7.5,
+        "ret_10d": 8.96,
+        "volume_ratio": 0.75,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "DKNG",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 3.42,
+        "ret_10d": 1.44,
+        "volume_ratio": 0.69,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "ADT",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": -1.03,
+        "ret_10d": -3.44,
+        "volume_ratio": 0.7,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "SCHD",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": -0.12,
+        "ret_10d": 1.46,
+        "volume_ratio": 0.9,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "AAL",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": -9.22,
+        "ret_10d": 2.7,
+        "volume_ratio": 1.04,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "TTD",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": -0.57,
+        "ret_10d": 0.05,
+        "volume_ratio": 0.89,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "LUNR",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": -26.41,
+        "ret_10d": -0.12,
+        "volume_ratio": 0.72,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "TEM",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 1.89,
+        "ret_10d": 13.91,
+        "volume_ratio": 1.94,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "FCX",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 5.8,
+        "ret_10d": 14.49,
+        "volume_ratio": 0.88,
+        "momentum_score": 1
+      },
+      "catalyst_score": 1,
+      "catalyst_rating": "weak",
+      "notes": ""
+    },
+    {
+      "ticker": "NWL",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 7.56,
+        "ret_10d": 8.78,
+        "volume_ratio": 2.64,
+        "momentum_score": 1
+      },
+      "catalyst_score": 1,
+      "catalyst_rating": "weak",
+      "notes": ""
+    },
+    {
+      "ticker": "PFE",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": -1.72,
+        "ret_10d": -0.39,
+        "volume_ratio": 0.9,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "SNOW",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 2.08,
+        "ret_10d": 46.24,
+        "volume_ratio": 0.82,
+        "momentum_score": 1
+      },
+      "catalyst_score": 1,
+      "catalyst_rating": "weak",
+      "notes": ""
+    },
+    {
+      "ticker": "BBAI",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": -3.44,
+        "ret_10d": 16.91,
+        "volume_ratio": 0.84,
+        "momentum_score": 1
+      },
+      "catalyst_score": 1,
+      "catalyst_rating": "weak",
+      "notes": ""
+    },
+    {
+      "ticker": "OWL",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 2.62,
+        "ret_10d": 4.73,
+        "volume_ratio": 1.85,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "HPE",
+      "date": "2026-06-04",
+      "earnings": {
+        "type": "earnings",
+        "date": "2026-06-01",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "fiscal_date": null,
+        "days_away": -3
+      },
+      "momentum": {
+        "ret_5d": 40.51,
+        "ret_10d": 58.85,
+        "volume_ratio": 1.05,
+        "momentum_score": 3
+      },
+      "catalyst_score": 6,
+      "catalyst_rating": "strong",
+      "notes": "Earnings -3d. "
+    },
+    {
+      "ticker": "IOVA",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 1.86,
+        "ret_10d": 23.73,
+        "volume_ratio": 1.51,
+        "momentum_score": 1
+      },
+      "catalyst_score": 1,
+      "catalyst_rating": "weak",
+      "notes": ""
+    },
+    {
+      "ticker": "AMC",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 24.05,
+        "ret_10d": 28.95,
+        "volume_ratio": 1.16,
+        "momentum_score": 3
+      },
+      "catalyst_score": 3,
+      "catalyst_rating": "moderate",
+      "notes": ""
+    },
+    {
+      "ticker": "PLTR",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": -1.14,
+        "ret_10d": 3.32,
+        "volume_ratio": 0.96,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    },
+    {
+      "ticker": "MRVL",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": 54.48,
+        "ret_10d": 69.4,
+        "volume_ratio": 2.27,
+        "momentum_score": 3
+      },
+      "catalyst_score": 3,
+      "catalyst_rating": "moderate",
+      "notes": ""
+    },
+    {
+      "ticker": "GDX",
+      "date": "2026-06-04",
+      "earnings": null,
+      "momentum": {
+        "ret_5d": -0.89,
+        "ret_10d": 0.05,
+        "volume_ratio": 0.62,
+        "momentum_score": 0
+      },
+      "catalyst_score": 0,
+      "catalyst_rating": "none",
+      "notes": ""
+    }
+  ],
+  "dep_scored": [
+    {
+      "ticker": "HPE",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 56.15,
+      "volume": 153197800,
+      "change_pct": 19.47,
+      "catalyst": "Broke out 2 days ago on 153,197,800 vol",
+      "days_since_setup": 2,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-02",
+        "max_vol_25d": 153197800,
+        "days_since": 2.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "high",
+        "score": 0.977,
+        "rating": "A+",
+        "size_multiplier": 1.0,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "catalyst=strong",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 catalyst strong \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "AVGO",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 481.57,
+      "volume": 38306700,
+      "change_pct": 4.7,
+      "catalyst": "Broke out 2 days ago on 38,306,700 vol",
+      "days_since_setup": 2,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-02",
+        "max_vol_25d": 80979446,
+        "days_since": 2.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "high",
+        "score": 0.977,
+        "rating": "A+",
+        "size_multiplier": 1.0,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "catalyst=strong",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 catalyst strong \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "PMI",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 0.27,
+      "volume": 826295642,
+      "change_pct": 60.33,
+      "catalyst": "Broke out 2 days ago on 826,295,642 vol",
+      "days_since_setup": 2,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-02",
+        "max_vol_25d": 826295642,
+        "days_since": 2.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "medium",
+        "score": 0.733,
+        "rating": "B",
+        "size_multiplier": 0.5,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "catalyst=moderate",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 catalyst moderate \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "RXT",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 5.92,
+      "volume": 24283400,
+      "change_pct": 14.51,
+      "catalyst": "Broke out 3 days ago on 24,283,400 vol",
+      "days_since_setup": 3,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-01",
+        "max_vol_25d": 194434700,
+        "days_since": 3.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "medium",
+        "score": 0.733,
+        "rating": "B",
+        "size_multiplier": 0.5,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "catalyst=moderate",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 catalyst moderate \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "SMCI",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 50.17,
+      "volume": 54883700,
+      "change_pct": 7.02,
+      "catalyst": "Broke out 2 days ago on 54,883,700 vol",
+      "days_since_setup": 2,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-02",
+        "max_vol_25d": 127295700,
+        "days_since": 2.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "medium",
+        "score": 0.733,
+        "rating": "B",
+        "size_multiplier": 0.5,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "catalyst=moderate",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 catalyst moderate \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "OPTU",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 1.16,
+      "volume": 125085600,
+      "change_pct": 76.24,
+      "catalyst": "Broke out 3 days ago on 125,085,600 vol",
+      "days_since_setup": 3,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-01",
+        "max_vol_25d": 125085600,
+        "days_since": 3.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "medium",
+        "score": 0.733,
+        "rating": "B",
+        "size_multiplier": 0.5,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "catalyst=moderate",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 catalyst moderate \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "AMC",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 1.96,
+      "volume": 35952300,
+      "change_pct": 7.1,
+      "catalyst": "Broke out 0 days ago on 35,952,300 vol",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-04",
+        "max_vol_25d": 116932700,
+        "days_since": 0.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "medium",
+        "score": 0.733,
+        "rating": "B",
+        "size_multiplier": 0.5,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "catalyst=moderate",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 catalyst moderate \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "MRVL",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 290.79,
+      "volume": 112646200,
+      "change_pct": 32.52,
+      "catalyst": "Broke out 2 days ago on 112,646,200 vol",
+      "days_since_setup": 2,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-02",
+        "max_vol_25d": 115542800,
+        "days_since": 2.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "medium",
+        "score": 0.733,
+        "rating": "B",
+        "size_multiplier": 0.5,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "catalyst=moderate",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 catalyst moderate \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "HIVE",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 4.76,
+      "volume": 53875000,
+      "change_pct": 5.31,
+      "catalyst": "Broke out 3 days ago on 53,875,000 vol",
+      "days_since_setup": 3,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-01",
+        "max_vol_25d": 111365907,
+        "days_since": 3.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "medium",
+        "score": 0.733,
+        "rating": "B",
+        "size_multiplier": 0.5,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "catalyst=moderate",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 catalyst moderate \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "STI",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 22.71,
+      "volume": 105652839,
+      "change_pct": 350.6,
+      "catalyst": "Broke out 0 days ago on 105,652,839 vol",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-04",
+        "max_vol_25d": 105652839,
+        "days_since": 0.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "medium",
+        "score": 0.733,
+        "rating": "B",
+        "size_multiplier": 0.5,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "catalyst=moderate",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 catalyst moderate \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "SOXL",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 280.54,
+      "volume": 49817248,
+      "change_pct": 5.34,
+      "catalyst": "Broke out 1 days ago on 49,817,248 vol",
+      "days_since_setup": 1,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-03",
+        "max_vol_25d": 91705600,
+        "days_since": 1.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "medium",
+        "score": 0.733,
+        "rating": "B",
+        "size_multiplier": 0.5,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "catalyst=moderate",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 catalyst moderate \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "SPCE",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 4.72,
+      "volume": 74824500,
+      "change_pct": 10.02,
+      "catalyst": "Broke out 0 days ago on 74,824,500 vol",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-04",
+        "max_vol_25d": 286064100,
+        "days_since": 0.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.489,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 catalyst weak \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "ONDS",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 13.25,
+      "volume": 248294700,
+      "change_pct": 22.69,
+      "catalyst": "Broke out 7 days ago on 248,294,700 vol",
+      "days_since_setup": 7,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-05-28",
+        "max_vol_25d": 248294700,
+        "days_since": 7.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.489,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 catalyst weak \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "F",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 17.44,
+      "volume": 154228200,
+      "change_pct": 4.74,
+      "catalyst": "Broke out 6 days ago on 154,228,200 vol",
+      "days_since_setup": 6,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-05-29",
+        "max_vol_25d": 216261200,
+        "days_since": 6.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.489,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 catalyst weak \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "RGTI",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 26.88,
+      "volume": 74159600,
+      "change_pct": 4.88,
+      "catalyst": "Broke out 2 days ago on 74,159,600 vol",
+      "days_since_setup": 2,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-02",
+        "max_vol_25d": 204233224,
+        "days_since": 2.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.489,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 catalyst weak \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "QUBT",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 12.24,
+      "volume": 30904202,
+      "change_pct": 7.18,
+      "catalyst": "Broke out 7 days ago on 30,904,202 vol",
+      "days_since_setup": 7,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-05-28",
+        "max_vol_25d": 141078800,
+        "days_since": 7.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.489,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 catalyst weak \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "RDW",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 21.43,
+      "volume": 74963000,
+      "change_pct": 15.09,
+      "catalyst": "Broke out 0 days ago on 74,963,000 vol",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-04",
+        "max_vol_25d": 121289224,
+        "days_since": 0.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.489,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 catalyst weak \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "NVTS",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 30.84,
+      "volume": 112299145,
+      "change_pct": 19.26,
+      "catalyst": "Broke out 1 days ago on 112,299,145 vol",
+      "days_since_setup": 1,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-03",
+        "max_vol_25d": 112299145,
+        "days_since": 1.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.489,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 catalyst weak \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "TE",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 12.04,
+      "volume": 38998421,
+      "change_pct": 15.66,
+      "catalyst": "Broke out 2 days ago on 38,998,421 vol",
+      "days_since_setup": 2,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-02",
+        "max_vol_25d": 106933800,
+        "days_since": 2.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.489,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 catalyst weak \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "BBAI",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 4.94,
+      "volume": 70108100,
+      "change_pct": 13.04,
+      "catalyst": "Broke out 7 days ago on 70,108,100 vol",
+      "days_since_setup": 7,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-05-28",
+        "max_vol_25d": 106670200,
+        "days_since": 7.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.489,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 catalyst weak \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "AMD",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 542.52,
+      "volume": 29411149,
+      "change_pct": 4.02,
+      "catalyst": "Broke out 1 days ago on 29,411,149 vol",
+      "days_since_setup": 1,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-03",
+        "max_vol_25d": 87732200,
+        "days_since": 1.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.489,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 catalyst weak \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "PTON",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 6.4,
+      "volume": 18097006,
+      "change_pct": 5.96,
+      "catalyst": "Broke out 6 days ago on 18,097,006 vol",
+      "days_since_setup": 6,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-05-29",
+        "max_vol_25d": 85602105,
+        "days_since": 6.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.489,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 catalyst weak \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 235.74,
+      "volume": 180782900,
+      "change_pct": 4.39,
+      "catalyst": "Broke out 21 days ago on 180,782,900 vol",
+      "days_since_setup": 21,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-05-14",
+        "max_vol_25d": 289410624,
+        "days_since": 21.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.244,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "INTC",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 112.71,
+      "volume": 118928807,
+      "change_pct": 4.43,
+      "catalyst": "Broke out 1 days ago on 118,928,807 vol",
+      "days_since_setup": 1,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-03",
+        "max_vol_25d": 227681301,
+        "days_since": 1.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.244,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "PLUG",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 3.78,
+      "volume": 115550700,
+      "change_pct": 14.2,
+      "catalyst": "Broke out 14 days ago on 115,550,700 vol",
+      "days_since_setup": 14,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-05-21",
+        "max_vol_25d": 196969900,
+        "days_since": 14.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.244,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "TSLL",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 16.84,
+      "volume": 130349100,
+      "change_pct": 5.51,
+      "catalyst": "Broke out 22 days ago on 130,349,100 vol",
+      "days_since_setup": 22,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-05-13",
+        "max_vol_25d": 155128209,
+        "days_since": 22.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.244,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "SOFI",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 18.22,
+      "volume": 150700713,
+      "change_pct": 7.37,
+      "catalyst": "Broke out 6 days ago on 150,700,713 vol",
+      "days_since_setup": 6,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-05-29",
+        "max_vol_25d": 150700713,
+        "days_since": 6.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.244,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "EOSE",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 9.42,
+      "volume": 26486704,
+      "change_pct": 5.02,
+      "catalyst": "Broke out 2 days ago on 26,486,704 vol",
+      "days_since_setup": 2,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-02",
+        "max_vol_25d": 129095400,
+        "days_since": 2.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.244,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "AAL",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 14.85,
+      "volume": 109912600,
+      "change_pct": 7.22,
+      "catalyst": "Broke out 9 days ago on 109,912,600 vol",
+      "days_since_setup": 9,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-05-26",
+        "max_vol_25d": 109912600,
+        "days_since": 9.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.244,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "SNAP",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 6.07,
+      "volume": 60188700,
+      "change_pct": 5.93,
+      "catalyst": "Broke out 0 days ago on 60,188,700 vol",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-04",
+        "max_vol_25d": 101982040,
+        "days_since": 0.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.244,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "TQQQ",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 81.95,
+      "volume": 62579633,
+      "change_pct": 5.28,
+      "catalyst": "Broke out 9 days ago on 62,579,633 vol",
+      "days_since_setup": 9,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-05-26",
+        "max_vol_25d": 93509107,
+        "days_since": 9.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.244,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "PLTR",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 156.54,
+      "volume": 92196609,
+      "change_pct": 9.21,
+      "catalyst": "Broke out 6 days ago on 92,196,609 vol",
+      "days_since_setup": 6,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-05-29",
+        "max_vol_25d": 92196609,
+        "days_since": 6.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.244,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "PATH",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 13.1,
+      "volume": 67981128,
+      "change_pct": 11.77,
+      "catalyst": "Broke out 3 days ago on 67,981,128 vol",
+      "days_since_setup": 3,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-06-01",
+        "max_vol_25d": 85009731,
+        "days_since": 3.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.244,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "MARA",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 13.15,
+      "volume": 51458005,
+      "change_pct": 5.71,
+      "catalyst": "Broke out 15 days ago on 51,458,005 vol",
+      "days_since_setup": 15,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-05-20",
+        "max_vol_25d": 82854242,
+        "days_since": 15.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.244,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "KWEB",
+      "setup_type": "DEP",
+      "priority": "high",
+      "price": 30.59,
+      "volume": 81984900,
+      "change_pct": 4.94,
+      "catalyst": "Broke out 22 days ago on 81,984,900 vol",
+      "days_since_setup": 22,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Position Sizing",
+        "Trade Management",
+        "Catalysts"
+      ],
+      "details": {
+        "breakout_date": "2026-05-13",
+        "max_vol_25d": 81984900,
+        "days_since": 22.0
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.244,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG DEP in bullish regime \u2014 trend aligned"
+      }
+    }
+  ],
+  "ep_9m_scored": [
+    {
+      "ticker": "AAOI",
+      "setup_type": "EP_9M_Short",
+      "priority": "high",
+      "price": 162.88,
+      "volume": 26713626,
+      "change_pct": -17.17,
+      "catalyst": "Explosive breakout today",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Catalysts",
+        "Stops"
+      ],
+      "details": {
+        "symbol": "AAOI",
+        "price": 162.88,
+        "name": "Applied Optoelectronics, Inc.",
+        "change": -33.76,
+        "changesPercentage": -17.16843,
+        "exchange": "NASDAQ"
+      },
+      "signal": {
+        "direction": "neutral",
+        "confidence": "medium",
+        "score": 0.637,
+        "rating": "B",
+        "size_multiplier": 0.5,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "catalyst=moderate"
+        ],
+        "reasoning": "NEUTRAL EP_9M_Short in bullish regime \u2014 catalyst moderate"
+      }
+    },
+    {
+      "ticker": "PAYO",
+      "setup_type": "EP_9M",
+      "priority": "highest",
+      "price": 6.39,
+      "volume": 51701920,
+      "change_pct": 24.32,
+      "catalyst": "Explosive breakout today",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Catalysts",
+        "Stops"
+      ],
+      "details": {
+        "symbol": "PAYO",
+        "price": 6.39,
+        "name": "Payoneer Global Inc.",
+        "change": 1.25,
+        "changesPercentage": 24.31907,
+        "exchange": "NASDAQ"
+      },
+      "signal": {
+        "direction": "neutral",
+        "confidence": "low",
+        "score": 0.25,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=highest"
+        ],
+        "reasoning": "NEUTRAL EP_9M in bullish regime"
+      }
+    },
+    {
+      "ticker": "NUVL",
+      "setup_type": "EP_9M",
+      "priority": "highest",
+      "price": 123.25,
+      "volume": 51678614,
+      "change_pct": 39.28,
+      "catalyst": "Explosive breakout today",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Catalysts",
+        "Stops"
+      ],
+      "details": {
+        "symbol": "NUVL",
+        "price": 123.25,
+        "name": "Nuvalent, Inc.",
+        "change": 34.76,
+        "changesPercentage": 39.28127,
+        "exchange": "NASDAQ"
+      },
+      "signal": {
+        "direction": "neutral",
+        "confidence": "low",
+        "score": 0.25,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=highest"
+        ],
+        "reasoning": "NEUTRAL EP_9M in bullish regime"
+      }
+    },
+    {
+      "ticker": "RGTZ",
+      "setup_type": "EP_9M",
+      "priority": "highest",
+      "price": 4.16,
+      "volume": 23010739,
+      "change_pct": 18.86,
+      "catalyst": "Explosive breakout today",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Catalysts",
+        "Stops"
+      ],
+      "details": {
+        "symbol": "RGTZ",
+        "price": 4.16,
+        "name": "Daily Target 2X Short RGTZ ETF",
+        "change": 0.66,
+        "changesPercentage": 18.85714,
+        "exchange": "NASDAQ"
+      },
+      "signal": {
+        "direction": "neutral",
+        "confidence": "low",
+        "score": 0.25,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=highest"
+        ],
+        "reasoning": "NEUTRAL EP_9M in bullish regime"
+      }
+    },
+    {
+      "ticker": "ALHC",
+      "setup_type": "EP_9M",
+      "priority": "highest",
+      "price": 19.2,
+      "volume": 16311038,
+      "change_pct": 25.08,
+      "catalyst": "Explosive breakout today",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Catalysts",
+        "Stops"
+      ],
+      "details": {
+        "symbol": "ALHC",
+        "price": 19.2,
+        "name": "Alignment Healthcare, Inc.",
+        "change": 3.85,
+        "changesPercentage": 25.08143,
+        "exchange": "NASDAQ"
+      },
+      "signal": {
+        "direction": "neutral",
+        "confidence": "low",
+        "score": 0.25,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=highest"
+        ],
+        "reasoning": "NEUTRAL EP_9M in bullish regime"
+      }
+    },
+    {
+      "ticker": "SUNE",
+      "setup_type": "EP_9M_Short",
+      "priority": "high",
+      "price": 3.56,
+      "volume": 22164261,
+      "change_pct": -39.46,
+      "catalyst": "Explosive breakout today",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Catalysts",
+        "Stops"
+      ],
+      "details": {
+        "symbol": "SUNE",
+        "price": 3.56,
+        "name": "SUNation Energy Inc.",
+        "change": -2.32,
+        "changesPercentage": -39.45578,
+        "exchange": "NASDAQ"
+      },
+      "signal": {
+        "direction": "neutral",
+        "confidence": "low",
+        "score": 0.212,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high"
+        ],
+        "reasoning": "NEUTRAL EP_9M_Short in bullish regime"
+      }
+    },
+    {
+      "ticker": "VELO",
+      "setup_type": "EP_9M",
+      "priority": "high",
+      "price": 19.43,
+      "volume": 9037715,
+      "change_pct": 19.72,
+      "catalyst": "Explosive breakout today",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Catalysts",
+        "Stops"
+      ],
+      "details": {
+        "symbol": "VELO",
+        "price": 19.43,
+        "name": "Velo3D, Inc.",
+        "change": 3.2,
+        "changesPercentage": 19.71657,
+        "exchange": "NASDAQ"
+      },
+      "signal": {
+        "direction": "neutral",
+        "confidence": "low",
+        "score": 0.212,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high"
+        ],
+        "reasoning": "NEUTRAL EP_9M in bullish regime"
+      }
+    }
+  ],
+  "sos_scored": [
+    {
+      "ticker": "MDT",
+      "setup_type": "SOS",
+      "priority": "high",
+      "price": 81.93,
+      "volume": 19849637,
+      "change_pct": 5.11,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 77.95
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "high",
+        "score": 0.977,
+        "rating": "A+",
+        "size_multiplier": 1.0,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "catalyst=strong",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG SOS in bullish regime \u2014 catalyst strong \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "STI",
+      "setup_type": "SOS",
+      "priority": "highest",
+      "price": 22.71,
+      "volume": 105652839,
+      "change_pct": 350.6,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 5.04
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "high",
+        "score": 0.862,
+        "rating": "A",
+        "size_multiplier": 0.8,
+        "confluences": [
+          "regime=bullish",
+          "setup=highest",
+          "catalyst=moderate",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG SOS in bullish regime \u2014 catalyst moderate \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "RXRX",
+      "setup_type": "SOS",
+      "priority": "highest",
+      "price": 3.8,
+      "volume": 38926307,
+      "change_pct": 9.51,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 3.47
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "high",
+        "score": 0.862,
+        "rating": "A",
+        "size_multiplier": 0.8,
+        "confluences": [
+          "regime=bullish",
+          "setup=highest",
+          "catalyst=moderate",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG SOS in bullish regime \u2014 catalyst moderate \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "MRVL",
+      "setup_type": "SOS",
+      "priority": "high",
+      "price": 316.43,
+      "volume": 86903500,
+      "change_pct": 4.9,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 301.65
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "medium",
+        "score": 0.733,
+        "rating": "B",
+        "size_multiplier": 0.5,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "catalyst=moderate",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG SOS in bullish regime \u2014 catalyst moderate \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "AAOI",
+      "setup_type": "SOS",
+      "priority": "high",
+      "price": 202.89,
+      "volume": 14528800,
+      "change_pct": 10.22,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 184.07
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "medium",
+        "score": 0.733,
+        "rating": "B",
+        "size_multiplier": 0.5,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "catalyst=moderate",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG SOS in bullish regime \u2014 catalyst moderate \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "RDW",
+      "setup_type": "SOS",
+      "priority": "highest",
+      "price": 21.43,
+      "volume": 74963000,
+      "change_pct": 15.09,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 18.62
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "medium",
+        "score": 0.575,
+        "rating": "B",
+        "size_multiplier": 0.5,
+        "confluences": [
+          "regime=bullish",
+          "setup=highest",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG SOS in bullish regime \u2014 catalyst weak \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "SPCE",
+      "setup_type": "SOS",
+      "priority": "highest",
+      "price": 4.72,
+      "volume": 74824500,
+      "change_pct": 10.02,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 4.29
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "medium",
+        "score": 0.575,
+        "rating": "B",
+        "size_multiplier": 0.5,
+        "confluences": [
+          "regime=bullish",
+          "setup=highest",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG SOS in bullish regime \u2014 catalyst weak \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "IOVA",
+      "setup_type": "SOS",
+      "priority": "highest",
+      "price": 4.38,
+      "volume": 22604329,
+      "change_pct": 15.57,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 3.79
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "medium",
+        "score": 0.575,
+        "rating": "B",
+        "size_multiplier": 0.5,
+        "confluences": [
+          "regime=bullish",
+          "setup=highest",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG SOS in bullish regime \u2014 catalyst weak \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "NWL",
+      "setup_type": "SOS",
+      "priority": "highest",
+      "price": 3.84,
+      "volume": 19820944,
+      "change_pct": 10.98,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 3.46
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "medium",
+        "score": 0.575,
+        "rating": "B",
+        "size_multiplier": 0.5,
+        "confluences": [
+          "regime=bullish",
+          "setup=highest",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG SOS in bullish regime \u2014 catalyst weak \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "HOOD",
+      "setup_type": "SOS",
+      "priority": "high",
+      "price": 88.33,
+      "volume": 31788600,
+      "change_pct": 6.61,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 82.85
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.489,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG SOS in bullish regime \u2014 catalyst weak \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "NCLH",
+      "setup_type": "SOS",
+      "priority": "high",
+      "price": 19.13,
+      "volume": 26857100,
+      "change_pct": 5.4,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 18.15
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.489,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG SOS in bullish regime \u2014 catalyst weak \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "RCAT",
+      "setup_type": "SOS",
+      "priority": "high",
+      "price": 14.74,
+      "volume": 23041300,
+      "change_pct": 6.89,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 13.79
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.489,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG SOS in bullish regime \u2014 catalyst weak \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "ABT",
+      "setup_type": "SOS",
+      "priority": "high",
+      "price": 90.78,
+      "volume": 14153200,
+      "change_pct": 4.36,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 86.99
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.489,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG SOS in bullish regime \u2014 catalyst weak \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "SNAP",
+      "setup_type": "SOS",
+      "priority": "high",
+      "price": 6.07,
+      "volume": 60188700,
+      "change_pct": 5.93,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 5.73
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.244,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG SOS in bullish regime \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "BMNR",
+      "setup_type": "SOS",
+      "priority": "high",
+      "price": 17.89,
+      "volume": 50488400,
+      "change_pct": 5.86,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 16.9
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.244,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG SOS in bullish regime \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "OWL",
+      "setup_type": "SOS",
+      "priority": "high",
+      "price": 10.19,
+      "volume": 43875300,
+      "change_pct": 5.16,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 9.69
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.244,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG SOS in bullish regime \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "PINS",
+      "setup_type": "SOS",
+      "priority": "high",
+      "price": 21.59,
+      "volume": 27526634,
+      "change_pct": 4.45,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 20.67
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.244,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG SOS in bullish regime \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "RKLB",
+      "setup_type": "SOS",
+      "priority": "high",
+      "price": 119.95,
+      "volume": 24826300,
+      "change_pct": 4.58,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 114.7
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.244,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG SOS in bullish regime \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "MRK",
+      "setup_type": "SOS",
+      "priority": "high",
+      "price": 120.26,
+      "volume": 15933945,
+      "change_pct": 4.85,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 114.7
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.244,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG SOS in bullish regime \u2014 trend aligned"
+      }
+    },
+    {
+      "ticker": "TEM",
+      "setup_type": "SOS",
+      "priority": "high",
+      "price": 52.26,
+      "volume": 13897312,
+      "change_pct": 10.0,
+      "catalyst": "Range expansion breakout",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops",
+        "Common Mistakes"
+      ],
+      "details": {
+        "prev_close": 47.51
+      },
+      "signal": {
+        "direction": "long",
+        "confidence": "low",
+        "score": 0.244,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "trend_aligned"
+        ],
+        "reasoning": "LONG SOS in bullish regime \u2014 trend aligned"
+      }
+    }
+  ],
+  "reversal_scored": [
+    {
+      "ticker": "PL",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 43.53,
+      "volume": 18990700.0,
+      "change_pct": null,
+      "catalyst": "2 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 2,
+        "candle_type": "doji",
+        "body": 0.3,
+        "lower_wick": 1.93,
+        "vol_vs_avg": 1.3
+      },
+      "signal": {
+        "direction": "neutral",
+        "confidence": "high",
+        "score": 0.85,
+        "rating": "A",
+        "size_multiplier": 0.8,
+        "confluences": [
+          "regime=bullish",
+          "setup=high",
+          "catalyst=strong"
+        ],
+        "reasoning": "NEUTRAL REVERSAL in bullish regime \u2014 catalyst strong"
+      }
+    },
+    {
+      "ticker": "INFQ",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 16.95,
+      "volume": 16143600.0,
+      "change_pct": null,
+      "catalyst": "4 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 4,
+        "candle_type": "doji",
+        "body": 0.06,
+        "lower_wick": 0.31,
+        "vol_vs_avg": 0.53
+      },
+      "signal": {
+        "direction": "neutral",
+        "confidence": "low",
+        "score": 0.425,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high"
+        ],
+        "reasoning": "NEUTRAL REVERSAL in bullish regime \u2014 catalyst weak"
+      }
+    },
+    {
+      "ticker": "USAR",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 27.1,
+      "volume": 13254600.0,
+      "change_pct": null,
+      "catalyst": "2 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 2,
+        "candle_type": "doji",
+        "body": 0.07,
+        "lower_wick": 0.75,
+        "vol_vs_avg": 0.72
+      },
+      "signal": {
+        "direction": "neutral",
+        "confidence": "low",
+        "score": 0.425,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high"
+        ],
+        "reasoning": "NEUTRAL REVERSAL in bullish regime \u2014 catalyst weak"
+      }
+    },
+    {
+      "ticker": "FCX",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 69.69,
+      "volume": 11648611.0,
+      "change_pct": null,
+      "catalyst": "2 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 2,
+        "candle_type": "doji",
+        "body": 0.23,
+        "lower_wick": 0.64,
+        "vol_vs_avg": 0.97
+      },
+      "signal": {
+        "direction": "neutral",
+        "confidence": "low",
+        "score": 0.425,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high"
+        ],
+        "reasoning": "NEUTRAL REVERSAL in bullish regime \u2014 catalyst weak"
+      }
+    },
+    {
+      "ticker": "SNOW",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 244.18,
+      "volume": 9532200.0,
+      "change_pct": null,
+      "catalyst": "2 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 2,
+        "candle_type": "doji",
+        "body": 0.12,
+        "lower_wick": 2.71,
+        "vol_vs_avg": 0.49
+      },
+      "signal": {
+        "direction": "neutral",
+        "confidence": "low",
+        "score": 0.425,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high"
+        ],
+        "reasoning": "NEUTRAL REVERSAL in bullish regime \u2014 catalyst weak"
+      }
+    },
+    {
+      "ticker": "CORZ",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 27.91,
+      "volume": 8833545.0,
+      "change_pct": null,
+      "catalyst": "2 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 2,
+        "candle_type": "doji",
+        "body": 0.07,
+        "lower_wick": 0.41,
+        "vol_vs_avg": 0.53
+      },
+      "signal": {
+        "direction": "neutral",
+        "confidence": "low",
+        "score": 0.425,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high"
+        ],
+        "reasoning": "NEUTRAL REVERSAL in bullish regime \u2014 catalyst weak"
+      }
+    },
+    {
+      "ticker": "PLUG",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 3.6,
+      "volume": 54025006.0,
+      "change_pct": null,
+      "catalyst": "2 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 2,
+        "candle_type": "doji",
+        "body": 0.02,
+        "lower_wick": 0.08,
+        "vol_vs_avg": 0.63
+      },
+      "signal": {
+        "direction": "neutral",
+        "confidence": "low",
+        "score": 0.212,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high"
+        ],
+        "reasoning": "NEUTRAL REVERSAL in bullish regime"
+      }
+    },
+    {
+      "ticker": "PFE",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 25.69,
+      "volume": 31272004.0,
+      "change_pct": null,
+      "catalyst": "6 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 6,
+        "candle_type": "doji",
+        "body": 0.02,
+        "lower_wick": 0.06,
+        "vol_vs_avg": 0.91
+      },
+      "signal": {
+        "direction": "neutral",
+        "confidence": "low",
+        "score": 0.212,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high"
+        ],
+        "reasoning": "NEUTRAL REVERSAL in bullish regime"
+      }
+    },
+    {
+      "ticker": "HL",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 16.83,
+      "volume": 19893100.0,
+      "change_pct": null,
+      "catalyst": "2 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 2,
+        "candle_type": "doji",
+        "body": 0.09,
+        "lower_wick": 0.25,
+        "vol_vs_avg": 1.24
+      },
+      "signal": {
+        "direction": "neutral",
+        "confidence": "low",
+        "score": 0.212,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high"
+        ],
+        "reasoning": "NEUTRAL REVERSAL in bullish regime"
+      }
+    },
+    {
+      "ticker": "TTD",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 21.03,
+      "volume": 19800500.0,
+      "change_pct": null,
+      "catalyst": "3 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 3,
+        "candle_type": "doji",
+        "body": 0.08,
+        "lower_wick": 0.41,
+        "vol_vs_avg": 0.83
+      },
+      "signal": {
+        "direction": "neutral",
+        "confidence": "low",
+        "score": 0.212,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high"
+        ],
+        "reasoning": "NEUTRAL REVERSAL in bullish regime"
+      }
+    },
+    {
+      "ticker": "CLSK",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 16.78,
+      "volume": 18454018.0,
+      "change_pct": null,
+      "catalyst": "2 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 2,
+        "candle_type": "doji",
+        "body": 0.04,
+        "lower_wick": 0.45,
+        "vol_vs_avg": 0.73
+      },
+      "signal": {
+        "direction": "neutral",
+        "confidence": "low",
+        "score": 0.212,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high"
+        ],
+        "reasoning": "NEUTRAL REVERSAL in bullish regime"
+      }
+    },
+    {
+      "ticker": "SCHD",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 32.59,
+      "volume": 18235100.0,
+      "change_pct": null,
+      "catalyst": "4 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 4,
+        "candle_type": "doji",
+        "body": 0.02,
+        "lower_wick": 0.1,
+        "vol_vs_avg": 0.89
+      },
+      "signal": {
+        "direction": "neutral",
+        "confidence": "low",
+        "score": 0.212,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high"
+        ],
+        "reasoning": "NEUTRAL REVERSAL in bullish regime"
+      }
+    },
+    {
+      "ticker": "XLU",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 43.94,
+      "volume": 18216500.0,
+      "change_pct": null,
+      "catalyst": "6 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 6,
+        "candle_type": "doji",
+        "body": 0.07,
+        "lower_wick": 0.53,
+        "vol_vs_avg": 0.83
+      },
+      "signal": {
+        "direction": "neutral",
+        "confidence": "low",
+        "score": 0.212,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high"
+        ],
+        "reasoning": "NEUTRAL REVERSAL in bullish regime"
+      }
+    },
+    {
+      "ticker": "GDX",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 86.4,
+      "volume": 13420224.0,
+      "change_pct": null,
+      "catalyst": "2 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 2,
+        "candle_type": "doji",
+        "body": 0.04,
+        "lower_wick": 0.73,
+        "vol_vs_avg": 0.64
+      },
+      "signal": {
+        "direction": "neutral",
+        "confidence": "low",
+        "score": 0.212,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high"
+        ],
+        "reasoning": "NEUTRAL REVERSAL in bullish regime"
+      }
+    },
+    {
+      "ticker": "LUMN",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 9.9,
+      "volume": 13172638.0,
+      "change_pct": null,
+      "catalyst": "3 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 3,
+        "candle_type": "doji",
+        "body": 0.05,
+        "lower_wick": 0.22,
+        "vol_vs_avg": 0.79
+      },
+      "signal": {
+        "direction": "neutral",
+        "confidence": "low",
+        "score": 0.212,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high"
+        ],
+        "reasoning": "NEUTRAL REVERSAL in bullish regime"
+      }
+    },
+    {
+      "ticker": "LUNR",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 33.63,
+      "volume": 12602100.0,
+      "change_pct": null,
+      "catalyst": "3 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 3,
+        "candle_type": "doji",
+        "body": 0.15,
+        "lower_wick": 1.72,
+        "vol_vs_avg": 0.52
+      },
+      "signal": {
+        "direction": "neutral",
+        "confidence": "low",
+        "score": 0.212,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high"
+        ],
+        "reasoning": "NEUTRAL REVERSAL in bullish regime"
+      }
+    },
+    {
+      "ticker": "XOM",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 152.04,
+      "volume": 11799400.0,
+      "change_pct": null,
+      "catalyst": "3 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 3,
+        "candle_type": "doji",
+        "body": 0.01,
+        "lower_wick": 1.1,
+        "vol_vs_avg": 0.73
+      },
+      "signal": {
+        "direction": "neutral",
+        "confidence": "low",
+        "score": 0.212,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high"
+        ],
+        "reasoning": "NEUTRAL REVERSAL in bullish regime"
+      }
+    },
+    {
+      "ticker": "DKNG",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 25.37,
+      "volume": 9390820.0,
+      "change_pct": null,
+      "catalyst": "3 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 3,
+        "candle_type": "doji",
+        "body": 0.11,
+        "lower_wick": 0.31,
+        "vol_vs_avg": 0.65
+      },
+      "signal": {
+        "direction": "neutral",
+        "confidence": "low",
+        "score": 0.212,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high"
+        ],
+        "reasoning": "NEUTRAL REVERSAL in bullish regime"
+      }
+    },
+    {
+      "ticker": "ADT",
+      "setup_type": "REVERSAL",
+      "priority": "high",
+      "price": 6.74,
+      "volume": 9020846.0,
+      "change_pct": null,
+      "catalyst": "6 down days -- doji exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 6,
+        "candle_type": "doji",
+        "body": 0.0,
+        "lower_wick": 0.07,
+        "vol_vs_avg": 0.91
+      },
+      "signal": {
+        "direction": "neutral",
+        "confidence": "low",
+        "score": 0.212,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish",
+          "setup=high"
+        ],
+        "reasoning": "NEUTRAL REVERSAL in bullish regime"
+      }
+    },
+    {
+      "ticker": "CCL",
+      "setup_type": "REVERSAL",
+      "priority": "medium",
+      "price": 27.85,
+      "volume": 17917521.0,
+      "change_pct": null,
+      "catalyst": "3 down days -- hammer exhaustion candle",
+      "days_since_setup": null,
+      "kb_refs": [
+        "Entries",
+        "Stops"
+      ],
+      "details": {
+        "down_days": 3,
+        "candle_type": "hammer",
+        "body": 0.21,
+        "lower_wick": 0.52,
+        "vol_vs_avg": 0.72
+      },
+      "signal": {
+        "direction": "neutral",
+        "confidence": "low",
+        "score": 0.15,
+        "rating": "C",
+        "size_multiplier": 0.25,
+        "confluences": [
+          "regime=bullish"
+        ],
+        "reasoning": "NEUTRAL REVERSAL in bullish regime"
+      }
+    }
+  ]
+}
