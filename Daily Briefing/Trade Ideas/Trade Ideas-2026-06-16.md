@@ -1,20 +1,20 @@
 ---
-title: "Trade Ideas — 2026-06-15"
-date: 2026-06-15
+title: "Trade Ideas — 2026-06-16"
+date: 2026-06-16
 tags: [trade-ideas, setups, daily, bullish]
 regime: bullish
 primary_net: 534
 t2108: 49.37
 ---
 
-# Trade Ideas — 2026-06-15 🟢
+# Trade Ideas — 2026-06-16 🟢
 
-> [!tip] Bullish — 128 actionable, 251 watchlist
+> [!tip] Bullish — 245 actionable, 136 watchlist
 > Full playbook — size into A+ confluences, keep focus list tight.
 >
 > VWAP below = block long for DEP/SOS. EP 9M warns but doesn't block.
 
-📋 Full context: [[MM-2026-06-15|Market Monitor]] | [[Briefing-2026-06-15|Daily Briefing]]
+📋 Full context: [[MM-2026-06-16|Market Monitor]] | [[Briefing-2026-06-16|Daily Briefing]]
 
 ## Position Sizing
 
@@ -39,41 +39,47 @@ t2108: 49.37
 
 | Tier | Count | Meaning | Size Guide |
 |------|-------|---------|------------|
-| A+ | 2 | SB + setup + catalyst — size up to 50% | Up to 50% |
-| A | 47 | SB + setup — size up to 50% | Up to 50% |
+| A+ | 8 | SB + setup + catalyst — size up to 50% | Up to 50% |
+| A | 156 | SB + setup — size up to 50% | Up to 50% |
 | A- | 0 | SB + setup — size up to 50% | Up to 50% |
 | B+ | 10 | Setup + catalyst — normal size 25% | 25% normal |
-| B | 69 | Setup only — normal size 25% | 25% normal |
-| C | 251 | SB watchlist — no position yet | Watch only |
+| B | 71 | Setup only — normal size 25% | 25% normal |
+| C | 136 | SB watchlist — no position yet | Watch only |
 
 ## A+ Confluences — SB + setup + catalyst — size up to 50%
 *Size: Up to 50%*
 
 | # | Ticker | Setup | SB Rank | Entry | Stop | Width | VWAP | Shares | Pos USD | Risk HKD | Catalyst | Status |
 |---|--------|-------|---------|-------|------|-------|------|--------|---------|----------|----------|--------|
-| 1 | SOXL | 📈 SOS | #1 | $272.50 | $272.50 | 0.0% | $268.74 | 0 | $0 | HKD 3,000 |  | ✅ Ready |
-| 2 | RXT | 📈 SOS | #259 | $6.21 | $6.21 | 0.0% | $5.75 | 0 | $0 | HKD 3,000 |  | ✅ Ready |
+| 1 | SOXL | 📈 SOS | #1 | $272.50 | $272.50 | 0.0% | $268.74 | 0 | $0 | HKD 3,000 |  | 🚫 Blocked: BLOCKED: Below VWAP (no_data) — institutional selling |
+| 2 | MRNA | 🍬 SB | #76 | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
+| 3 | WDC | 🍬 SB | #80 | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
+| 4 | LRCX | 🍬 SB | #85 | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
+| 5 | KLAC | 🍬 SB | #107 | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
+| 6 | RR | 🍬 SB | #111 | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A | Earnings +2d.  | ✅ Ready |
+| 7 | NWL | 🍬 SB | #142 | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
+| 8 | RXT | 📈 SOS | #259 | $6.21 | $6.21 | 0.0% | $5.75 | 0 | $0 | HKD 3,000 |  | 🚫 Blocked: BLOCKED: Below VWAP (no_data) — institutional selling |
 
 ## A Confluences — SB + setup — size up to 50%
 *Size: Up to 50%*
 
 | # | Ticker | Setup | SB Rank | Entry | Stop | Width | VWAP | Shares | Pos USD | Risk HKD | Catalyst | Status |
 |---|--------|-------|---------|-------|------|-------|------|--------|---------|----------|----------|--------|
-| 1 | TSLL | 🔄 REVERSAL | #3 | $13.89 | $13.68 | 1.5% | $13.92 | 1,831 | $25,433 | HKD 3,000 |  | ✅ Ready |
-| 2 | OKLO | 🔭 ANT | #7 | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
-| 3 | WULF | 🔄 REVERSAL | #9 | $28.01 | $27.59 | 1.5% | $27.82 | 915 | $25,629 | HKD 3,000 |  | ✅ Ready |
-| 4 | CRWV | 📈 SOS | #20 | $117.03 | $117.03 | 0.0% | $105.83 | 0 | $0 | HKD 3,000 |  | ✅ Ready |
-| 5 | EOSE | 📈 SOS | #22 | $6.81 | $6.81 | 0.0% | $6.42 | 0 | $0 | HKD 3,000 |  | ✅ Ready |
-| 6 | BBAI | 🔄 REVERSAL | #24 | $3.96 | $3.90 | 1.5% | $4.13 | 6,410 | $25,384 | HKD 3,000 |  | ✅ Ready |
-| 7 | BE | 🔻 WSS | #30 | $273.51 | $281.72 | 3.0% | $274.38 | 46 | $12,581 | HKD 3,000 |  | ✅ Ready |
-| 8 | RXRX | 🔭 ANT | #31 | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
-| 9 | CDE | 📈 SOS | #34 | $18.79 | $18.79 | 0.0% | $18.68 | 0 | $0 | HKD 3,000 |  | ✅ Ready |
-| 10 | RUN | 🔻 WSS | #37 | $13.36 | $13.76 | 3.0% | $12.88 | 961 | $12,839 | HKD 3,000 |  | ✅ Ready |
-| 11 | LUMN | 🔭 ANT | #41 | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
-| 12 | ACHR | 📈 SOS | #42 | $5.32 | $5.48 | 3.0% | $5.46 | 2,403 | $12,784 | HKD 3,000 |  | ✅ Ready |
-| 13 | ETHA | 📈 SOS | #46 | $13.76 | $13.55 | 1.5% | $13.76 | 1,831 | $25,195 | HKD 3,000 |  | ✅ Ready |
-| 14 | MRVL | 🔭 ANT | #52 | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
-| 15 | INTC | 🔻 WSS | #53 | $112.71 | $116.09 | 3.0% | $129.16 | 113 | $12,736 | HKD 3,000 |  | ✅ Ready |
+| 1 | IREN | 🍬 SB | #2 | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
+| 2 | TSLL | 🔄 REVERSAL | #3 | $13.89 | $13.68 | 1.5% | $13.92 | 1,831 | $25,433 | HKD 3,000 |  | ✅ Ready |
+| 3 | RGTI | 🍬 SB | #4 | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
+| 4 | QBTS | 🍬 SB | #5 | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
+| 5 | APLD | 🍬 SB | #6 | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
+| 6 | OKLO | 🔭 ANT | #7 | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
+| 7 | NBIS | 🍬 SB | #8 | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
+| 8 | WULF | 🔄 REVERSAL | #9 | $28.01 | $27.59 | 1.5% | $27.82 | 915 | $25,629 | HKD 3,000 |  | ✅ Ready |
+| 9 | IONQ | 🍬 SB | #10 | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
+| 10 | RKLB | 🍬 SB | #11 | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
+| 11 | RIOT | 🍬 SB | #12 | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
+| 12 | CIFR | 🍬 SB | #13 | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
+| 13 | ASTS | 🍬 SB | #14 | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
+| 14 | AMDL | 🍬 SB | #15 | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
+| 15 | QUBT | 🍬 SB | #16 | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
 
 ## A- Confluences — None Today
 
@@ -85,62 +91,62 @@ No candidates in this tier.
 
 | # | Ticker | Setup | SB Rank | Entry | Stop | Width | VWAP | Shares | Pos USD | Risk HKD | Catalyst | Status |
 |---|--------|-------|---------|-------|------|-------|------|--------|---------|----------|----------|--------|
-| 1 | DEVS | 🎯 DEP | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A | Earnings TODAY.  | ✅ Ready |
-| 2 | CREG | 🎯 DEP | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
-| 3 | IVDA | 🎯 DEP | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
-| 4 | OBAI | 🎯 DEP | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
-| 5 | TDIC | 🚀 EP_9M | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
-| 6 | LPRO | 🚀 EP_9M | — | $3.11 | $2.83 | 9.0% | $2.17 | 1,373 | $4,270 | HKD 3,000 |  | ✅ Ready |
-| 7 | CRVO | 🚀 EP_9M | — | $4.52 | $4.52 | 0.0% | $2.52 | 0 | $0 | HKD 3,000 |  | ✅ Ready |
-| 8 | INHD | 🎯 DEP | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
-| 9 | GPUS | 🎯 DEP | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
-| 10 | OTLK | 🎯 DEP | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
+| 1 | OBAI | 🎯 DEP | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
+| 2 | INHD | 🎯 DEP | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
+| 3 | OTLK | 🎯 DEP | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
+| 4 | IVDA | 🎯 DEP | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
+| 5 | GPUS | 🎯 DEP | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
+| 6 | TDIC | 🚀 EP_9M | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
+| 7 | CRVO | 🚀 EP_9M | — | $4.52 | $4.52 | 0.0% | $2.52 | 0 | $0 | HKD 3,000 |  | 🚫 Blocked: BLOCKED: Below VWAP (no_data) — institutional selling |
+| 8 | DEVS | 🎯 DEP | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A | Earnings TODAY.  | ✅ Ready |
+| 9 | LPRO | 🚀 EP_9M | — | $3.11 | $2.83 | 9.0% | $2.17 | 1,373 | $4,270 | HKD 3,000 |  | ✅ Ready |
+| 10 | CREG | 🎯 DEP | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A |  | ✅ Ready |
 
 ## B Confluences — Setup only — normal size 25%
 *Size: 25%*
 
 | # | Ticker | Setup | SB Rank | Entry | Stop | Width | VWAP | Shares | Pos USD | Risk HKD | Status |
 |---|--------|-------|---------|-------|------|-------|------|--------|---------|----------|--------|
-| 1 | SGOV | 🔭 ANT | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A | ✅ Ready |
-| 2 | SCHP | 🔭 ANT | — | $26.57 | $26.17 | 1.5% | $26.57 | 961 | $25,534 | HKD 3,000 | ✅ Ready |
-| 3 | SBFM | 🎯 DEP | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A | ✅ Ready |
-| 4 | VWO | 🔄 REVERSAL | — | $60.84 | $59.93 | 1.5% | $60.87 | 422 | $25,674 | HKD 3,000 | ✅ Ready |
-| 5 | ALP | 🎯 DEP | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A | ✅ Ready |
-| 6 | MSFT | 🔭 ANT | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A | ✅ Ready |
-| 7 | RGTZ | 🚀 EP_9M | — | $3.51 | $3.51 | 0.0% | $2.98 | 0 | $0 | HKD 3,000 | ✅ Ready |
-| 8 | XLP | 🔭 ANT | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A | ✅ Ready |
-| 9 | NEE | 🔄 REVERSAL | — | $86.23 | $84.94 | 1.5% | $85.84 | 298 | $25,697 | HKD 3,000 | ✅ Ready |
-| 10 | SMTK | 🎯 DEP | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A | ✅ Ready |
-| 11 | LASE | 🎯 DEP | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A | ✅ Ready |
-| 12 | QUCY | 🎯 DEP | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A | ✅ Ready |
-| 13 | CHWY | 🔻 WSS | — | $19.98 | $20.58 | 3.0% | $19.51 | 641 | $12,807 | HKD 3,000 | ✅ Ready |
-| 14 | IJH | 🔭 ANT | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A | ✅ Ready |
-| 15 | WMT | 🔭 ANT | — | $118.90 | $122.47 | 3.0% | $120.16 | 107 | $12,722 | HKD 3,000 | ✅ Ready |
+| 1 | VRAX | 🎯 DEP | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A | ✅ Ready |
+| 2 | HYG | 🔭 ANT | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A | ✅ Ready |
+| 3 | COUR | 🔭 ANT | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A | ✅ Ready |
+| 4 | BND | 🔭 ANT | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A | ✅ Ready |
+| 5 | RGTZ | 🚀 EP_9M | — | $3.51 | $3.51 | 0.0% | $2.98 | 0 | $0 | HKD 3,000 | ✅ Ready |
+| 6 | VCSH | 🔭 ANT | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A | ✅ Ready |
+| 7 | SLBT | 🚀 EP_9M | — | $8.89 | $8.89 | 0.0% | $3.73 | 0 | $0 | HKD 3,000 | ✅ Ready |
+| 8 | CXAI | 🎯 DEP | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A | ✅ Ready |
+| 9 | TOVX | 🎯 DEP | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A | ✅ Ready |
+| 10 | HUN |  EP_9M_SHORT | — | $13.18 | $12.52 | 5.0% | $15.90 | 582 | $7,671 | HKD 3,000 | ✅ Ready |
+| 11 | AIM | 🎯 DEP | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A | ✅ Ready |
+| 12 | BSX | 🔻 WSS | — | $46.92 | $46.22 | 1.5% | $46.96 | 549 | $25,759 | HKD 3,000 | ✅ Ready |
+| 13 | MEHA | 🎯 DEP | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A | ✅ Ready |
+| 14 | JAAA | 🔭 ANT | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A | ✅ Ready |
+| 15 | CPRT | 🔭 ANT | — | $0.00 | $0.00 | 0.0% | N/A | N/A | N/A | N/A | ✅ Ready |
 
 ## Watch Only — Sugar Babies Without Active Setup
 
 | Ticker | SB Rank | Close | 52W High | Dist | Notes |
 |--------|---------|-------|-----------|------|-------|
-| IREN | #2 | $59.18 | $76.87 | 29.9% |  |
-| RGTI | #4 | $20.64 | $58.15 | 181.7% |  |
-| QBTS | #5 | $23.94 | $46.75 | 95.3% |  |
-| APLD | #6 | $46.27 | $50.73 | 9.6% |  |
-| NBIS | #8 | $265.10 | $278.84 | 5.2% |  |
-| IONQ | #10 | $56.06 | $84.64 | 51.0% |  |
-| RKLB | #11 | $104.63 | $151.00 | 44.3% |  |
-| RIOT | #12 | $27.42 | $28.94 | 5.5% |  |
-| CIFR | #13 | $26.21 | $28.62 | 9.2% |  |
-| ASTS | #14 | $82.25 | $133.86 | 62.7% |  |
-| AMDL | #15 | $75.30 | $78.00 | 3.6% |  |
-| QUBT | #16 | $10.12 | $25.84 | 155.3% |  |
-| CLSK | #17 | $17.26 | $23.61 | 36.8% |  |
-| HIMS | #18 | $31.47 | $70.43 | 123.8% |  |
-| MU | #19 | $1020.76 | $1110.40 | 8.8% |  |
-| SMR | #21 | $9.88 | $57.42 | 481.2% |  |
-| NVDL | #23 | $102.22 | $129.82 | 27.0% |  |
-| AG | #25 | $19.42 | $32.03 | 64.9% |  |
-| NVTS | #26 | $22.09 | $34.17 | 54.7% |  |
-| RCAT | #27 | $10.90 | $18.78 | 72.3% |  |
+| SATL | #151 | N/A | N/A | N/A |  |
+| NXE | #152 | N/A | N/A | N/A |  |
+| KSS | #153 | N/A | N/A | N/A |  |
+| DKNG | #155 | N/A | N/A | N/A |  |
+| ZETA | #156 | N/A | N/A | N/A |  |
+| TTD | #157 | N/A | N/A | N/A |  |
+| NEM | #158 | N/A | N/A | N/A |  |
+| HPE | #160 | N/A | N/A | N/A |  |
+| DELL | #161 | N/A | N/A | N/A |  |
+| CELH | #162 | N/A | N/A | N/A |  |
+| UWMC | #163 | N/A | N/A | N/A |  |
+| QXO | #164 | N/A | N/A | N/A |  |
+| EWY | #166 | N/A | N/A | N/A |  |
+| DAL | #167 | N/A | N/A | N/A |  |
+| UAA | #169 | N/A | N/A | N/A |  |
+| SILJ | #170 | N/A | N/A | N/A |  |
+| IOVA | #172 | N/A | N/A | N/A |  |
+| GME | #173 | N/A | N/A | N/A |  |
+| CRDO | #174 | N/A | N/A | N/A |  |
+| B | #175 | N/A | N/A | N/A |  |
 
 ## Setup Breakdown
 
@@ -150,8 +156,8 @@ No candidates in this tier.
 
 | # | Ticker | Change% | Volume | Rel Vol | VWAP | Entry | Stop | Width | Shares | Pos USD | Risk HKD | Status |
 |---|--------|---------|--------|---------|------|-------|------|-------|--------|---------|----------|--------|
-| 1 | CRVO | 82.3% | 199,721,988 |  | $2.52 | $4.52 | $4.52 | 0.0% | 0 | $0 | HKD 3,000 | ✅ Ready |
-| 2 | SOXL | -17.0% | 53,140,445 |  | $268.74 | $272.50 | $272.50 | 0.0% | 0 | $0 | HKD 3,000 | ✅ Ready |
+| 1 | CRVO | 82.3% | 199,721,988 |  | $2.52 | $4.52 | $4.52 | 0.0% | 0 | $0 | HKD 3,000 | 🚫 Blocked: BLOCKED: Below VWAP (no_data) — institutional selling |
+| 2 | SOXL | -17.0% | 53,140,445 |  | $268.74 | $272.50 | $272.50 | 0.0% | 0 | $0 | HKD 3,000 | 🚫 Blocked: BLOCKED: Below VWAP (no_data) — institutional selling |
 | 3 | SLBT | 167.0% | 32,656,389 |  | $3.73 | $8.89 | $8.89 | 0.0% | 0 | $0 | HKD 3,000 | ✅ Ready |
 | 4 | HSPT | 167.9% | 32,234,151 |  | $3.73 | $8.92 | $7.85 | 12.0% | 359 | $3,202 | HKD 3,000 | ✅ Ready |
 | 5 | LPRO | 48.1% | 27,705,540 |  | $2.17 | $3.11 | $2.83 | 9.0% | 1,373 | $4,270 | HKD 3,000 | ✅ Ready |
@@ -166,20 +172,20 @@ No candidates in this tier.
 
 | # | Ticker | Change% | Volume | Rel Vol | VWAP | Entry | Stop | Width | Shares | Pos USD | Risk HKD | Status |
 |---|--------|---------|--------|---------|------|-------|------|-------|--------|---------|----------|--------|
-| 1 | SPCX | 19.6% | 256,226,632 |  | $181.40 | $192.50 | $192.50 | 0.0% | 0 | $0 | HKD 3,000 | ✅ Ready |
-| 2 | BITO | 4.6% | 210,181,371 |  | $9.08 | $9.05 | $9.05 | 0.0% | 0 | $0 | HKD 3,000 | ✅ Ready |
-| 3 | CRVO | 84.5% | 199,721,988 |  | $2.52 | $4.52 | $4.52 | 0.0% | 0 | $0 | HKD 3,000 | ✅ Ready |
-| 4 | AAL | 4.9% | 133,093,749 |  | $15.53 | $15.71 | $15.71 | 0.0% | 0 | $0 | HKD 3,000 | ✅ Ready |
-| 5 | SOFI | 6.8% | 104,690,458 |  | $17.21 | $17.71 | $17.71 | 0.0% | 0 | $0 | HKD 3,000 | ✅ Ready |
-| 6 | RXT | 14.2% | 81,615,289 |  | $5.75 | $6.21 | $6.21 | 0.0% | 0 | $0 | HKD 3,000 | ✅ Ready |
-| 7 | OPEN | 7.0% | 63,142,850 |  | $4.66 | $4.75 | $4.75 | 0.0% | 0 | $0 | HKD 3,000 | ✅ Ready |
-| 8 | TQQQ | 9.1% | 58,607,257 |  | $83.78 | $84.59 | $84.59 | 0.0% | 0 | $0 | HKD 3,000 | ✅ Ready |
-| 9 | GRAB | 5.8% | 58,496,328 |  | $3.46 | $3.49 | $3.49 | 0.0% | 0 | $0 | HKD 3,000 | ✅ Ready |
-| 10 | KEEL | 6.3% | 57,164,763 |  | $5.81 | $5.94 | $5.94 | 0.0% | 0 | $0 | HKD 3,000 | ✅ Ready |
+| 1 | SPCX | 19.6% | 256,226,632 |  | $181.40 | $192.50 | $192.50 | 0.0% | 0 | $0 | HKD 3,000 | 🚫 Blocked: BLOCKED: Below VWAP (no_data) — institutional selling |
+| 2 | BITO | 4.6% | 210,181,371 |  | $9.08 | $9.05 | $9.05 | 0.0% | 0 | $0 | HKD 3,000 | 🚫 Blocked: BLOCKED: Below VWAP (no_data) — institutional selling |
+| 3 | CRVO | 84.5% | 199,721,988 |  | $2.52 | $4.52 | $4.52 | 0.0% | 0 | $0 | HKD 3,000 | 🚫 Blocked: BLOCKED: Below VWAP (no_data) — institutional selling |
+| 4 | AAL | 4.9% | 133,093,749 |  | $15.53 | $15.71 | $15.71 | 0.0% | 0 | $0 | HKD 3,000 | 🚫 Blocked: BLOCKED: Below VWAP (no_data) — institutional selling |
+| 5 | SOFI | 6.8% | 104,690,458 |  | $17.21 | $17.71 | $17.71 | 0.0% | 0 | $0 | HKD 3,000 | 🚫 Blocked: BLOCKED: Below VWAP (no_data) — institutional selling |
+| 6 | RXT | 14.2% | 81,615,289 |  | $5.75 | $6.21 | $6.21 | 0.0% | 0 | $0 | HKD 3,000 | 🚫 Blocked: BLOCKED: Below VWAP (no_data) — institutional selling |
+| 7 | OPEN | 7.0% | 63,142,850 |  | $4.66 | $4.75 | $4.75 | 0.0% | 0 | $0 | HKD 3,000 | 🚫 Blocked: BLOCKED: Below VWAP (no_data) — institutional selling |
+| 8 | TQQQ | 9.1% | 58,607,257 |  | $83.78 | $84.59 | $84.59 | 0.0% | 0 | $0 | HKD 3,000 | 🚫 Blocked: BLOCKED: Below VWAP (no_data) — institutional selling |
+| 9 | GRAB | 5.8% | 58,496,328 |  | $3.46 | $3.49 | $3.49 | 0.0% | 0 | $0 | HKD 3,000 | 🚫 Blocked: BLOCKED: Below VWAP (no_data) — institutional selling |
+| 10 | KEEL | 6.3% | 57,164,763 |  | $5.81 | $5.94 | $5.94 | 0.0% | 0 | $0 | HKD 3,000 | 🚫 Blocked: BLOCKED: Below VWAP (no_data) — institutional selling |
 | 11 | ACHR | 7.1% | 55,640,062 |  | $5.46 | $5.32 | $5.48 | 3.0% | 2,403 | $12,784 | HKD 3,000 | ✅ Ready |
 | 12 | IBIT | 4.7% | 52,951,400 |  | $37.80 | $37.74 | $37.17 | 1.5% | 674 | $25,437 | HKD 3,000 | ✅ Ready |
-| 13 | NU | 4.3% | 47,600,085 |  | $12.42 | $12.72 | $12.72 | 0.0% | 0 | $0 | HKD 3,000 | ✅ Ready |
-| 14 | CRWV | 16.4% | 41,524,609 |  | $105.83 | $117.03 | $117.03 | 0.0% | 0 | $0 | HKD 3,000 | ✅ Ready |
+| 13 | NU | 4.3% | 47,600,085 |  | $12.42 | $12.72 | $12.72 | 0.0% | 0 | $0 | HKD 3,000 | 🚫 Blocked: BLOCKED: Below VWAP (no_data) — institutional selling |
+| 14 | CRWV | 16.4% | 41,524,609 |  | $105.83 | $117.03 | $117.03 | 0.0% | 0 | $0 | HKD 3,000 | 🚫 Blocked: BLOCKED: Below VWAP (no_data) — institutional selling |
 | 15 | ETHA | 9.5% | 40,577,438 |  | $13.76 | $13.76 | $13.55 | 1.5% | 1,831 | $25,195 | HKD 3,000 | ✅ Ready |
 
 ### 🎯 DEP Watchlist
@@ -269,4 +275,4 @@ No candidates in this tier.
 ---
 *Auto-generated by Trading Radar Engine v2*
 *Risk: HKD 3,000/trade | Account: HKD 1,000,000 | USD/HKD: 7.8*
-*Back to [[Briefing-2026-06-15|Daily Briefing]]*
+*Back to [[Briefing-2026-06-16|Daily Briefing]]*
