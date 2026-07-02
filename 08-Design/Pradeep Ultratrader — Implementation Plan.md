@@ -18,7 +18,7 @@ tags: [design, pradeep-ultratrader, stockbee, implementation, plan]
 | 3 | SOS Rebuild | ✅ COMPLETE | `0582dc8` |
 | 4 | EP 9M Rebuild | ✅ COMPLETE | `0bafc6c` |
 | 5 | DEP Rebuild | ✅ COMPLETE | `246ac35` |
-| 6 | Intraday Daemon | ⏳ PENDING | — |
+| 6 | Intraday Daemon | ✅ COMPLETE | `7489004` |
 | 7 | Nightly Pipeline Integration | ⏳ PENDING | — |
 | 8 | OpenCode Agent Definition | ⏳ PENDING | — |
 | 9 | Trade Management | ⏳ PENDING | — |
@@ -302,7 +302,7 @@ Step 2:   Run all scans (using refreshed SB list)
 
 ---
 
-## Wave 6: Intraday Daemon ⏳ PENDING
+## Wave 6: Intraday Daemon ✅ COMPLETE
 
 ### 6.1 Intraday Runner
 **File:** `src/cli/intraday_runner.py` (new)
