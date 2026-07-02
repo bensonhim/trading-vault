@@ -16,9 +16,9 @@ tags: [design, pradeep-ultratrader, stockbee, implementation, plan]
 | 1 | Foundation | ✅ COMPLETE | `a5e9743` |
 | 2 | Sugar Baby Rebuild | ✅ COMPLETE | `567946e` |
 | 3 | SOS Rebuild | ✅ COMPLETE | `0582dc8` |
-| 4 | EP 9M Rebuild | ⏳ PENDING | — |
-| 5 | DEP Rebuild | ⏳ PENDING | — |
-| 6 | Intraday Daemon | ⏳ PENDING | — |
+| 4 | EP 9M Rebuild | ✅ COMPLETE | `0bafc6c` |
+| 5 | DEP Rebuild | ✅ COMPLETE | `246ac35` |
+| 6 | Intraday Daemon | ✅ COMPLETE | `7489004` |
 | 7 | Nightly Pipeline Integration | ⏳ PENDING | — |
 | 8 | OpenCode Agent Definition | ⏳ PENDING | — |
 | 9 | Trade Management | ⏳ PENDING | — |
@@ -239,7 +239,7 @@ Step 2:   Run all scans (using refreshed SB list)
 
 ---
 
-## Wave 4: EP 9M Rebuild ⏳ PENDING
+## Wave 4: EP 9M Rebuild ✅ COMPLETE
 
 ### 4.1 EP 9M Scan — Gap Detection + Magna 53
 **File:** `src/scans/ep_9m.py` (rewrite)
@@ -275,7 +275,7 @@ Step 2:   Run all scans (using refreshed SB list)
 
 ---
 
-## Wave 5: DEP Rebuild ⏳ PENDING
+## Wave 5: DEP Rebuild ✅ COMPLETE
 
 ### 5.1 DEP Scan — Require Valid Pullback
 **File:** `src/scans/dep.py` (rewrite)
@@ -302,7 +302,7 @@ Step 2:   Run all scans (using refreshed SB list)
 
 ---
 
-## Wave 6: Intraday Daemon ⏳ PENDING
+## Wave 6: Intraday Daemon ✅ COMPLETE
 
 ### 6.1 Intraday Runner
 **File:** `src/cli/intraday_runner.py` (new)
