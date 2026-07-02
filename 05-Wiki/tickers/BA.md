@@ -1,63 +1,83 @@
 ---
-title: "BA (Boeing Co.)"
-date: 2026-06-11
-tags: [tickers, wiki, enriched, pradeep-bonde, ep-9m-downside, catalyst]
-mention_count: 7
-sources_count: 5
-compilation_count: 2
-enriched: true
+title: "BA"
+date: 2026-07-02
+tags: [tickers, wiki, auto-compiled]
+mention_count: 22
+sources_count: 13
+compilation_count: 1
 promote: false
 ---
 
-# BA (Boeing Co.)
+# BA
 
-## Overview
+*Tickers — compiled from 22 mentions across 13 sources.*
 
-BA (Boeing) appears in Pradeep's sessions primarily as an **EP 9M downside example** — a stock where institutional selling is accelerating. It also serves as a **catalyst example** (service failure/accident as negative catalyst). The mentions are sparse but conceptually clear: BA represents the type of stock that triggers EP 9M downside signals, and its troubles are fundamental, not just technical.
+## Mentions
 
-## Key Mentions
+> [[../../04-Transcripts/stockbee/2026-05-15_9_15-am.md|2026-05-15_9_15-am]]: But we need to find something with catalyst, and I feel so bad like an that BA, that was a lollipop.
 
-### EP 9M Downside
-- **Meeting June 4**: > "EP 9M to the downside, like, BA or even Tesla, Rocket Lab, they're having follow-through." — BA as a downside EP 9M stock with continued selling pressure.
+> [[../../04-Transcripts/stockbee/2026-05-15_9_15-am.md|2026-05-15_9_15-am]]: And I mean, it's, like, for me to start, like, in a really hunting on the short side, unless there is something like BA, which had a catalyst kind of a thing, is to see a large number of EP 9,000,000 to the downside happening on a particular set of stocks, right, under which we don't seek as of now.
 
-### Catalyst Example
-- **Catalyst Guide Part 1**: > "Service failure or some sort of an accident or some sort of a failure, like, BA is a classic example of that." — BA used as the textbook example of a negative catalyst (aircraft accidents, quality failures).
+> [[../../04-Transcripts/stockbee/2026-05-18_9_15-am.md|2026-05-18_9_15-am]]: While, you p 9,000,000 to the downside, like, BA or even Tesla, Righetti, they're having follow through.
 
-### Fundamental Problems
-- > "BA has all this trouble." / "BA's problem is not that BA's problem is not like and it's gonna have a problem there." — Acknowledging deep fundamental issues.
+> [[../../04-Transcripts/stockbee/2026-06-04_3-pm.md|2026-06-04_3-pm]]: So currently, BA is being aggressively worked.
 
-### Intraday Observation
-- **Meeting May 18**: > "BA is being aggressively worked." — Unusual activity noted.
-- > "It tells you that BA, since the morning, has had 215 new high." — EP signal detected.
+> [[../../04-Transcripts/stockbee/2026-06-04_3-pm.md|2026-06-04_3-pm]]: It tells you that BA, since the morning, has had 215 new high.
 
-### False Positive
-- > "Botox is a big thing, but Victoria's a great and BA looks good, my friend." — Partial ASR artifact, but BA ticker reference is genuine.
+> [[../../04-Transcripts/stockbee/16. DEP Guide/Pradeep Bonde - DEP Guide-Part 7 - DEP and SB watchlist_deepgram.md|Pradeep Bonde - DEP Guide-Part 7 - DEP and SB watchlist_deepgram]]: And it's obviously Botox is a big thing, but Victoria's a great and BA looks good, my friend.
 
-## Context
+> [[../../04-Transcripts/stockbee/16. DEP Guide/Pradeep Bonde - DEP Guide-Part 7 - DEP and SB watchlist_deepgram.md|Pradeep Bonde - DEP Guide-Part 7 - DEP and SB watchlist_deepgram]]: BA, if it looks good to you, you don't understand, sir, the delayed reaction EP.
 
-| Setup Type | Evidence |
-|---|---|
-| EP 9M downside | Primary — institutional selling |
-| Negative catalyst | Aircraft failures/accidents |
-| SIPs watchlist | Not a regular |
-| Individual trade | None documented |
+> [[../../04-Transcripts/stockbee/17. Catalyst Guide/Pradeep Bonde - Catalyst Guide-Part 1 - Understanding Catalyst_deepgram.md|Pradeep Bonde - Catalyst Guide-Part 1 - Understanding Catalyst_deepgram]]: Service failure or some sort of an accident or some sort of a failure, like, BA is a classic example of that.
+
+> [[../../04-Transcripts/stockbee/18. Mind Clarity Guide/Pradeep Bonde - Mind Clarity Guide-Part 2 - Mind Clarity 9 million EP_deepgram.md|Pradeep Bonde - Mind Clarity Guide-Part 2 - Mind Clarity 9 million EP_deepgram]]: Like, unless there is a clear catalyst like BA, I thought, like, in a I mean, again, but what do you think and what the market does is also, like, you have to be always think, but, like, any I thought, like, Navea had a catalyst which was, like, catastrophic catalyst, but the market didn't consider that as a catastrophic catalyst.
+
+> [[../../04-Transcripts/stockbee/19. Deep Dive Guide/Pradeep Bonde - Deep Dive Guide-Part 1 - Reading X-Rays_deepgram.md|Pradeep Bonde - Deep Dive Guide-Part 1 - Reading X-Rays_deepgram]]: BA has all this trouble.
+
+> [[../../04-Transcripts/stockbee/19. Deep Dive Guide/Pradeep Bonde - Deep Dive Guide-Part 1 - Reading X-Rays_deepgram.md|Pradeep Bonde - Deep Dive Guide-Part 1 - Reading X-Rays_deepgram]]: 116, 260 because BA's problem is not that BA's problem is not like and it's gonna have a problem there.
+
+> [[../../04-Transcripts/stockbee/19. Deep Dive Guide/Pradeep Bonde - Deep Dive Guide-Part 1 - Reading X-Rays_deepgram.md|Pradeep Bonde - Deep Dive Guide-Part 1 - Reading X-Rays_deepgram]]: 116, 260 because BA's problem is not that BA's problem is not like and it's gonna have a problem there.
+
+> [[../../04-Transcripts/stockbee/21. Process Guide/Pradeep Bonde - Process Guide-Organize Like Crazy_deepgram.md|Pradeep Bonde - Process Guide-Organize Like Crazy_deepgram]]: I was pre committed to a trade like BA because it was something which is like a very low risk kind of a trade or I was precommitted to because, that was like an asshole.
+
+> [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-15_6ff2ac67-abde-4233-9d31-52e2d88fd0c0_deepgram.md|meeting_2026-05-15_6ff2ac67-abde-4233-9d31-52e2d88fd0c0_deepgram]]: But we need to find something with catalyst, and I feel so bad like an that BA, that was a lollipop.
+
+> [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-15_6ff2ac67-abde-4233-9d31-52e2d88fd0c0_deepgram.md|meeting_2026-05-15_6ff2ac67-abde-4233-9d31-52e2d88fd0c0_deepgram]]: And I mean, it's, like, for me to start, like, in a really hunting on the short side, unless there is something like BA, which had a catalyst kind of a thing, is to see a large number of EP 9,000,000 to the downside happening on a particular set of stocks, right, under which we don't seek as of now.
+
+> [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-18_9e3e74ea-7fc2-4fdc-aa97-b20867e5a04a_deepgram.md|meeting_2026-05-18_9e3e74ea-7fc2-4fdc-aa97-b20867e5a04a_deepgram]]: While, you p 9,000,000 to the downside, like, BA or even Tesla, Righetti, they're having follow through.
+
+> [[../../04-Transcripts/stockbee/Meetings/meeting_2026-06-04_8908770d-c324-4dd6-8027-d7671f8691e1_deepgram.md|meeting_2026-06-04_8908770d-c324-4dd6-8027-d7671f8691e1_deepgram]]: So currently, BA is being aggressively worked.
+
+> [[../../04-Transcripts/stockbee/Meetings/meeting_2026-06-04_8908770d-c324-4dd6-8027-d7671f8691e1_deepgram.md|meeting_2026-06-04_8908770d-c324-4dd6-8027-d7671f8691e1_deepgram]]: It tells you that BA, since the morning, has had 215 new high.
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-05-15.md|Session-2026-05-15]]: ### 6. Missed Opportunity: Boeing (BA)
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-05-15.md|Session-2026-05-15]]: > "That BA, that was a lollipop. An absolute lollipop, but I didn't really connect the dot yesterday."
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-05-18.md|Session-2026-05-18]]: > "None of the stocks which had EP 9M in recent days has had a follow-through. While EP 9M to the downside, like BA or even Tesla, Righetti, they're having follow through."
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-05-18.md|Session-2026-05-18]]: | [[BA]] | EP 9M short working |
 
 ## Related Concepts
 
-- [[05-Wiki/setups/EP|Episodic Pivots]] — EP 9M downside
-- [[05-Wiki/concepts/catalyst|Catalyst]] — Negative catalyst (service failure)
-- [[05-Wiki/tickers/TSLA|TSLA]] — Fellow EP 9M downside example
-- [[05-Wiki/tickers/RKLB|RKLB]] — Fellow EP 9M downside example
+*(To be enriched)*
 
 ## Contradictions & Gaps
 
-- "BA looks good" vs. "BA has all this trouble" — the "looks good" reference is from an ASR-transcribed casual remark, while the fundamental critique is consistent across sessions.
-- No documented trades or entry/exit points.
+*(To be detected)*
 
 ## Sources
 
-- [[Pradeep Bonde - DEP Guide-Part 7 - DEP and SB watchlist_deepgram]]
-- [[Pradeep Bonde - Catalyst Guide-Part 1 - Understanding Catalyst_deepgram]]
-- [[Pradeep Bonde - Deep Dive Guide-Part 1 - Reading X-Rays_deepgram]]
-- [[meeting_2026-05-18]]
-- [[meeting_2026-06-04]]
+- [[../04-Transcripts/stockbee/16. DEP Guide/Pradeep Bonde - DEP Guide-Part 7 - DEP and SB watchlist_deepgram.md|Pradeep Bonde - DEP Guide-Part 7 - DEP and SB watchlist_deepgram]]
+- [[../04-Transcripts/stockbee/17. Catalyst Guide/Pradeep Bonde - Catalyst Guide-Part 1 - Understanding Catalyst_deepgram.md|Pradeep Bonde - Catalyst Guide-Part 1 - Understanding Catalyst_deepgram]]
+- [[../04-Transcripts/stockbee/18. Mind Clarity Guide/Pradeep Bonde - Mind Clarity Guide-Part 2 - Mind Clarity 9 million EP_deepgram.md|Pradeep Bonde - Mind Clarity Guide-Part 2 - Mind Clarity 9 million EP_deepgram]]
+- [[../04-Transcripts/stockbee/19. Deep Dive Guide/Pradeep Bonde - Deep Dive Guide-Part 1 - Reading X-Rays_deepgram.md|Pradeep Bonde - Deep Dive Guide-Part 1 - Reading X-Rays_deepgram]]
+- [[../04-Transcripts/stockbee/2026-05-15_9_15-am.md|2026-05-15_9_15-am]]
+- [[../04-Transcripts/stockbee/2026-05-18_9_15-am.md|2026-05-18_9_15-am]]
+- [[../04-Transcripts/stockbee/2026-06-04_3-pm.md|2026-06-04_3-pm]]
+- [[../04-Transcripts/stockbee/21. Process Guide/Pradeep Bonde - Process Guide-Organize Like Crazy_deepgram.md|Pradeep Bonde - Process Guide-Organize Like Crazy_deepgram]]
+- [[../04-Transcripts/stockbee/Meetings/meeting_2026-05-15_6ff2ac67-abde-4233-9d31-52e2d88fd0c0_deepgram.md|meeting_2026-05-15_6ff2ac67-abde-4233-9d31-52e2d88fd0c0_deepgram]]
+- [[../04-Transcripts/stockbee/Meetings/meeting_2026-05-18_9e3e74ea-7fc2-4fdc-aa97-b20867e5a04a_deepgram.md|meeting_2026-05-18_9e3e74ea-7fc2-4fdc-aa97-b20867e5a04a_deepgram]]
+- [[../04-Transcripts/stockbee/Meetings/meeting_2026-06-04_8908770d-c324-4dd6-8027-d7671f8691e1_deepgram.md|meeting_2026-06-04_8908770d-c324-4dd6-8027-d7671f8691e1_deepgram]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-05-15.md|Session-2026-05-15]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-05-18.md|Session-2026-05-18]]

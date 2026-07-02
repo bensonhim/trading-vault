@@ -124,21 +124,45 @@ If a metric consistently deviates > tolerance for 5+ days, investigate:
 
 ```python
 def sugar_baby_score(ticker, history_1450d):
-    """Count how many times stock had 4% breakout + 9M+ volume in last 1450 days."""
-    count = 0
-    for day in history_1450d:
-        if day.return >= 0.04 and day.volume >= 9_000_000:
-            count += 1
-    return count
+    """Count how many times stock had 4% breakout + 9M+ volume in each timeframe."""
+    timeframes = [5, 10, 20, 50, 126, 252, 504, 756, 1450]
+    counts = {}
+    for tf in timeframes:
+        window = history_1450d[-tf:]
+        count = sum(1 for day in window if day.return_pct >= 4 and day.volume >= 8_900_000)
+        counts[tf] = count
+        # Min 3 hits required for 5d, 10d, 20d windows
+        if tf in (5, 10, 20) and count < 3:
+            counts[tf] = 0  # Disqualified
+    return counts
 ```
 
-### 4.2 Refresh Frequency
+### 4.2 Timeframes & Selection
 
-- **Weekly** (weekend): Full re-rank of all US stocks
-- **Daily**: Check which Sugar Babies are setting up (SOS/DEP/EP)
-- **Output**: Obsidian note with ranked list
+Based on Pradeep's TC2000 setup (Sugar Babies Guide Part 6, transcript line 109):
 
-### 4.3 Selection
+| Timeframe (days) | ~Calendar | Min Hits | Selection |
+|-----------------|-----------|----------|-----------|
+| 5 | 1 week | ≥ 3 | Top 20–30 |
+| 10 | 2 weeks | ≥ 3 | Top 20–30 |
+| 20 | 1 month | ≥ 3 | Top 20–30 |
+| 50 | 2.5 months | Top 20–30 | Top 20–30 |
+| 126 | 6 months | Top 20–30 | Top 20–30 |
+| 252 | 1 year | Top 20–30 | Top 20–30 |
+| 504 | 2 years | Top 20–30 | Top 20–30 |
+| 756 | 3 years | Top 20–30 | Top 20–30 |
+| 1,450 | 5.7 years (max) | Top 20–30 | Top 20–30 |
+
+Combine all flagged symbols into one master list (~87–90 names).
+Add ~30 "SugarMamas" (market cap >$10B) for institutional quality balance → ~143 total.
+
+### 4.4 Refresh Frequency
+
+- **Daily** (after market close): Re-rank + cross-reference with EP 9M and DEP scans
+- **Weekend**: Full review of master list composition
+- **Output**: Obsidian note with ranked list + overlap flags (🔥 SB+EP9M, 🔴 SB+DEP)
+
+### 4.5 Selection
 
 - Top 20–30 stocks = core watchlist
 - Top 60–150 stocks = expanded list

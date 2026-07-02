@@ -1,31 +1,28 @@
 ---
 title: "HOOD"
-date: 2026-06-11
+date: 2026-07-02
 tags: [tickers, wiki, auto-compiled]
-mention_count: 6
-sources_count: 6
+mention_count: 5
+sources_count: 4
 compilation_count: 1
 promote: false
 ---
 
 # HOOD
 
-*Tickers — compiled from 6 mentions across 6 sources.*
+*Tickers — compiled from 5 mentions across 4 sources.*
 
 ## Mentions
 
-> [02:54] USER, IRIN, TSTD, hood.
+> [[../../06-Daily/stockbee/Sessions/Session-2026-05-01.md|Session-2026-05-01]]: Contrast with [[HOOD]]: no clear catalyst for sustained downside — just a one-day pullback.
 
-> [17:28] We're not interested in Hood.
+> [[../../06-Daily/stockbee/Sessions/Session-2026-05-01.md|Session-2026-05-01]]: 10. **Shorts need clear catalysts**: Lululemon (broken business) and Accenture (lost contracts + AI threat) are proper short candidates. HOOD (no clear catalyst for sustained downside) is not.
 
-> [03:21] Again, like any can you buy things like hood and all?
+> [[../../06-Daily/stockbee/Sessions/Session-2026-05-11.md|Session-2026-05-11]]: On [[HOOD]] (Robinhood): earnings were slowing down, theme was wrong. Don't chase non-theme stocks just because they look like breakouts.
 
-> [48:42] Probably in hood.
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-11.md|Session-2026-06-11]]: | [[HOOD]] | Mentioned | Breakout candidate |
 
-> [40:47] Ford, Robin Hood.
-
-> And the theme is dead." On HOOD (Robinhood): earnings were slowing down, theme was wrong.
-
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-17.md|Session-2026-06-17]]: | **Setup** | Wrong setup inherently | Buying [[HOOD]] on day 5 of a swing — not an SOS |
 
 ## Related Concepts
 
@@ -37,9 +34,7 @@ promote: false
 
 ## Sources
 
-- [[2026-05-01_3-pm]]
-- [[2026-05-04_9_15-am]]
-- [[2026-05-11_3-pm]]
-- [[2026-05-19_9_15-am]]
-- [[2026-06-10_9_15-am]]
-- [[Session-2026-05-11]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-05-01.md|Session-2026-05-01]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-05-11.md|Session-2026-05-11]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-06-11.md|Session-2026-06-11]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-06-17.md|Session-2026-06-17]]

@@ -27,16 +27,16 @@ You **exit at the stop** and move on to the next setup.
 
 ## Stop Placement by Setup
 
-| Setup | Stop Placement | Width | Why This Level |
-|-------|---------------|-------|----------------|
-| **DEP** | Below tight consolidation (NOT low of day) | 0.5–2.5% (40¢–$1) | "Tight pants" — DEP's entire edge is the close stop |
-| **EP Day 1** | Low of the day (if known) or structural level | 8–20% (up to 40% for nano-caps) | Catalyst day is volatile; wide stop is the cost of entry |
-| **SOS** | Low of the day (preferred) or half of day | <2% on high-priced; wider on low-priced | If low breaks, the swing is invalidated |
-| **ANTS** | Below tight consolidation | <1% (40¢–$1 fixed) | Tight days → tight stop; if it breaks, setup is dead |
-| **Reversal** | At or just below open price / prior day close | 0.5–2.5% | Exhaustion pattern; if it fails, it fails fast |
-| **Sugar Baby** | Low of the day | Standard | Same as SOS — SB entries are SOS on Sugar Baby list |
-| **FHP / Dollar Breakout** | Low of the day (NOT half of day) | <2% ($1–$3 on $100+ stocks) | Think in dollars for high-priced stocks |
-| **WSS (short)** | Half of entry day's range above entry | Tight | Move daily; gap-down = take profit |
+| Setup                     | Stop Placement                                | Width                                   | Why This Level                                           |
+| ------------------------- | --------------------------------------------- | --------------------------------------- | -------------------------------------------------------- |
+| **DEP**                   | Below tight consolidation (NOT low of day)    | 0.5–2.5% (40¢–$1)                       | "Tight pants" — DEP's entire edge is the close stop      |
+| **EP Day 1**              | Low of the day (if known) or structural level | 8–20% (up to 40% for nano-caps)         | Catalyst day is volatile; wide stop is the cost of entry |
+| **SOS**                   | Low of the day (preferred) or half of day     | <2% on high-priced; wider on low-priced | If low breaks, the swing is invalidated                  |
+| **ANTS**                  | Below tight consolidation                     | <1% (40¢–$1 fixed)                      | Tight days → tight stop; if it breaks, setup is dead     |
+| **Reversal**              | At or just below open price / prior day close | 0.5–2.5%                                | Exhaustion pattern; if it fails, it fails fast           |
+| **Sugar Baby**            | Low of the day                                | Standard                                | Same as SOS — SB entries are SOS on Sugar Baby list      |
+| **FHP / Dollar Breakout** | Low of the day (NOT half of day)              | <2% ($1–$3 on $100+ stocks)             | Think in dollars for high-priced stocks                  |
+| **WSS (short)**           | Half of entry day's range above entry         | Tight                                   | Move daily; gap-down = take profit                       |
 
 ---
 
@@ -58,13 +58,13 @@ You **exit at the stop** and move on to the next setup.
 
 Every setup has a **structural invalidation level**. When that level breaks, the reason for the trade no longer exists:
 
-| Setup | Invalidation Level | What It Means |
-|-------|-------------------|----------------|
-| **SOS** | Low of the day | The swing didn't start — it was a false breakout |
-| **DEP** | Below tight consolidation | The pullback failed — stock going lower |
-| **ANTS** | Below tight consolidation | The compression failed — stock breaking down |
-| **Reversal** | Below open / prior close | The exhaustion was false — sellers still in control |
-| **EP Day 1** | Low of the day | The catalyst wasn't real or market rejected it |
+| Setup        | Invalidation Level        | What It Means                                       |
+| ------------ | ------------------------- | --------------------------------------------------- |
+| **SOS**      | Low of the day            | The swing didn't start — it was a false breakout    |
+| **DEP**      | Below tight consolidation | The pullback failed — stock going lower             |
+| **ANTS**     | Below tight consolidation | The compression failed — stock breaking down        |
+| **Reversal** | Below open / prior close  | The exhaustion was false — sellers still in control |
+| **EP Day 1** | Low of the day            | The catalyst wasn't real or market rejected it      |
 
 > *"We can put a stop at the low of this particular day because if this low of the day is invalidated, that means this setup is not going to work."*
 
@@ -74,26 +74,26 @@ Every setup has a **structural invalidation level**. When that level breaks, the
 
 ## Stop Management Progression
 
-| Stage | Action | Trigger | Source |
-|-------|--------|---------|--------|
-| **Entry** | Place stop at defined level | Before entering | Universal |
-| **First move** | Move to breakeven+ | Stock opens positive or moves 4–5% in 30 min | [[22. Reversals Guide]], [[08. Anticipation (ANTS) Guide]] |
-| **Profit building** | Tighten stop aggressively | Stock reaches 40–50% | [[16. DEP Guide]] |
-| **Home run** | Sell 80%, trail 20% | Stock reaches 100%+ | [[16. DEP Guide]], [[21. Process Guide]] |
-| **Time stop** | Kill trade | Day 3 midday for MB; day 4–5 for MB | [[Bullish Momentum Burst Guide-Section 1]] |
+| Stage               | Action                      | Trigger                                      | Source                                                     |
+| ------------------- | --------------------------- | -------------------------------------------- | ---------------------------------------------------------- |
+| **Entry**           | Place stop at defined level | Before entering                              | Universal                                                  |
+| **First move**      | Move to breakeven+          | Stock opens positive or moves 4–5% in 30 min | [[22. Reversals Guide]], [[08. Anticipation (ANTS) Guide]] |
+| **Profit building** | Tighten stop aggressively   | Stock reaches 40–50%                         | [[16. DEP Guide]]                                          |
+| **Home run**        | Sell 80%, trail 20%         | Stock reaches 100%+                          | [[16. DEP Guide]], [[21. Process Guide]]                   |
+| **Time stop**       | Kill trade                  | Day 3 midday for MB; day 4–5 for MB          | [[Bullish Momentum Burst Guide-Section 1]]                 |
 
 ---
 
 ## Breakeven Rules by Setup
 
-| Setup | When to Move to Breakeven | Buffer |
-|-------|--------------------------|--------|
-| **DEP** | As soon as stock shows life | Breakeven + $1 |
-| **ANTS** | Next morning if breakout; or 4–5% in 30 min | Breakeven |
-| **SOS** | Next morning if positive open | Breakeven |
-| **Reversal** | Set next morning; move on positive open | Breakeven |
-| **Sugar Baby** | Within 1 hour after entry | Breakeven |
-| **FHP** | After initial move | Breakeven + $1 |
+| Setup          | When to Move to Breakeven                   | Buffer         |
+| -------------- | ------------------------------------------- | -------------- |
+| **DEP**        | As soon as stock shows life                 | Breakeven + $1 |
+| **ANTS**       | Next morning if breakout; or 4–5% in 30 min | Breakeven      |
+| **SOS**        | Next morning if positive open               | Breakeven      |
+| **Reversal**   | Set next morning; move on positive open     | Breakeven      |
+| **Sugar Baby** | Within 1 hour after entry                   | Breakeven      |
+| **FHP**        | After initial move                          | Breakeven + $1 |
 
 > *"The first thing in the morning, if a stock opens positive, move your stop to breakeven."*
 
@@ -101,22 +101,22 @@ Every setup has a **structural invalidation level**. When that level breaks, the
 
 ## Gap-Down Handling
 
-| Scenario | Action | Why |
-|----------|--------|-----|
-| Stock gaps down below stop at open | Exit immediately, no questions | Thesis invalidated pre-market |
-| Stock gaps up too much pre-market | Skip the trade | Widened stop kills edge |
-| Overnight gap on short | Take profit and run | "If there is a gap down, immediately close the trade" |
+| Scenario                           | Action                         | Why                                                   |
+| ---------------------------------- | ------------------------------ | ----------------------------------------------------- |
+| Stock gaps down below stop at open | Exit immediately, no questions | Thesis invalidated pre-market                         |
+| Stock gaps up too much pre-market  | Skip the trade                 | Widened stop kills edge                               |
+| Overnight gap on short             | Take profit and run            | "If there is a gap down, immediately close the trade" |
 
 ---
 
 ## Retry Rules
 
-| Setup | Can You Retry? | Conditions |
-|-------|---------------|------------|
-| **DEP** | Up to 3 attempts | Only on genuine catalyst |
-| **Sugar Babies** | Do NOT re-enter | After stop-out, the setup is over |
+| Setup                            | Can You Retry?         | Conditions                                  |
+| -------------------------------- | ---------------------- | ------------------------------------------- |
+| **DEP**                          | Up to 3 attempts       | Only on genuine catalyst                    |
+| **Sugar Babies**                 | Do NOT re-enter        | After stop-out, the setup is over           |
 | **Short side (broken business)** | Multiple attempts okay | "Keep hammering" — the thesis remains valid |
-| **Catalyst-based** | Re-entry allowed | If a new catalyst forms |
+| **Catalyst-based**               | Re-entry allowed       | If a new catalyst forms                     |
 
 ---
 
@@ -136,12 +136,12 @@ Every setup has a **structural invalidation level**. When that level breaks, the
 
 > *"I am not a fan of mental stop. Mental stop basically means at some point you will not take the stop."*
 
-| Mental Trap | What Happens | The Fix |
-|------------|--------------|---------|
-| "It'll bounce back" | Stock continues to drop | Hard stop in system |
-| "I'll move the stop down a bit" | Small loss becomes big loss | Never widen the stop |
-| "I'll average down" | Small loss becomes catastrophic loss | Exit at stop; redeploy capital |
-| "I don't want to lock in the loss" | Loss gets bigger | The loss IS locked in — it's just not realized yet |
+| Mental Trap                        | What Happens                         | The Fix                                            |
+| ---------------------------------- | ------------------------------------ | -------------------------------------------------- |
+| "It'll bounce back"                | Stock continues to drop              | Hard stop in system                                |
+| "I'll move the stop down a bit"    | Small loss becomes big loss          | Never widen the stop                               |
+| "I'll average down"                | Small loss becomes catastrophic loss | Exit at stop; redeploy capital                     |
+| "I don't want to lock in the loss" | Loss gets bigger                     | The loss IS locked in — it's just not realized yet |
 
 **The stop is NOT a prediction of where the stock will go.** It's a **risk management tool** that limits your maximum loss. If you're right about the trade, the stop will never be hit. If you're wrong, the stop saves you from catastrophic loss.
 

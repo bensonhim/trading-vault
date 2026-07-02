@@ -68,19 +68,29 @@ Within last 25 days
 
 ## 4. Sugar Baby (Stock Selection)
 
-**What it finds:** Stocks with most 4% + 9M breakouts over 1,450 trading days
+**What it finds:** Stocks with most 4% + 9M breakouts over multiple timeframes
 
-**TC2000 Formula:**
+**TC2000 Formula (per timeframe):**
 ```
-CountThrough(C / C1 >= 1.04 AND V >= 8,900,000, 1450)
+CountThrough(C / C1 >= 1.04 AND V >= 8,900,000, TF)
 ```
+Where TF = 5, 10, 20, 50, 126, 252, 504, 756, 1450
+
+**Selection rules:**
+- Sort each timeframe column descending by count
+- Select top 20–30 per timeframe
+- For 5d, 10d, 20d: require minimum 3 hits (filter out one-hit wonders)
+- Combine all flagged symbols into one master list (~87–90 names)
+- Add ~30 "SugarMamas" (market cap >$10B) for balance → ~143 total
 
 **Notes:**
 - TC2000 `CountThrough` counts how many times condition was true over N days
 - Our implementation: SQL query counting breakout days per ticker
-- Top 150 ranked by count
+- 1,450 is the max available in TC2000 (1,500 doesn't work)
 - Sugar Baby is a STOCK SELECTION strategy, not a setup
 - Once identified, trade SOS/ANT/REVERSAL/EP on these stocks
+- Source: Sugar Babies Guide Part 6 (transcript line 109): "five days, ten days, twenty days, fifty days, one twenty six days, two fifty two, five zero four"
+- Min-3 rule from Part 6 (line 119): "all of these for five, ten, and twenty days, minimum reading should be three"
 
 ---
 
@@ -202,12 +212,12 @@ If counts differ significantly (>10%), check:
 | EP 9M | FMP biggest-gainers + volume filter | EasyScan: change% ≥ 4%, V ≥ 9M | Small |
 | SOS | SQL: C/C1 ≥ 1.04, V ≥ 9M | EasyScan: same formula | None |
 | DEP | SQL: 25d lookback, max volume | EasyScan: 25d lookback, V > V1 | Small |
-| Sugar Baby | SQL: count breakouts over ~400d | CountThrough(1450d) | Moderate* |
+| Sugar Baby | SQL: count breakouts over 5/10/20/50/126/252/504/756/1450 days | CountThrough per TF | Moderate* |
 | ANT | Momentum proxy + tight days | TI65 + tight days | Moderate |
 | WSS | Waterfall + weak bounce + magnitude | Same | Small |
 | Reversal | Hammer/doji + 3+ down days | Same + institutional filter | Small |
 
-*Sugar Baby gap due to our shorter lookback (~400d vs 1450d) for performance. Can be extended if needed.
+*Sugar Baby gap due to our shorter lookback (~400d vs 1450d) for performance. Can be extended if needed. Timeframes: 5, 10, 20, 50, 126, 252, 504, 756, 1450 (source: SB Guide Part 6). Min 3 hits for 5d/10d/20d.*
 
 ---
 

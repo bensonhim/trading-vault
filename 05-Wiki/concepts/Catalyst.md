@@ -1,119 +1,98 @@
 ---
 title: "Catalyst"
-date: 2026-06-14
+date: 2026-07-02
 tags: [concepts, wiki, auto-compiled]
-mention_count: 50
-sources_count: 7
+mention_count: 1465
+sources_count: 212
 compilation_count: 1
 promote: false
 ---
 
 # Catalyst
 
-*Concepts — compiled from 50 mentions across 7 sources.*
+*Concepts — compiled from 1465 mentions across 212 sources.*
 
 ## Mentions
 
-> Then I extended it to look at anything which is a catalyst.
+> [[../../03-Guides/stockbee/19. Deep Dive Guide.md|19. Deep Dive Guide]]: - [[Catalysts|Catalysts]] — catalyst types, lifespan, validation, what to skip, bucket system
 
-> > Series: Pradeep Bonde — Catalyst > Parts: 4 videos (Jan 2024 – Jan 2026) > Transcripts: ../transcripts/17.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: Within a catalyst-based framework, his hierarchy is:
 
-> Catalyst Guide/|Catalyst Guide Transcripts Stocks move based on catalysts — not chart patterns. > "Most of the major moves in any stocks are started by a catalyst.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: 1. **Revenue growth / real catalyst** (highest conviction)
 
-> If you don't have any understanding of catalyst, then you are just a village idiot." Every big move has a catalyst behind it.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: 2. **Themes / story catalyst**
 
-> The chart pattern is merely the footprint of that catalyst.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: - [[17. Catalyst Guide|Catalyst Guide — What Really Moves Stocks]]
 
-> If you know all three, you know: - Whether to trade it at all - How large a position to put on - How long to hold - Where to place your stop > "Your ability to understand which catalyst is going to make a big move — that is the edge." Every catalyst falls into one of three lifespan categories.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: - [[Catalysts|Catalysts]] — catalyst types, lifespan, validation, what to skip, bucket system
 
-> When you see a stock with crazy volume (100M+ shares) and no obvious earnings catalyst, dig for the story.
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: > "I always select the one which has the highest volume. First. So I go in the order in which the volume is. Or the one which has the clearest catalyst."
 
-> Fed is the mother of all catalysts." - Elections (Trump tax cuts), war, natural disasters - Usually shorter duration unless structural policy change Conclusion: If you only trade stocks with real earnings, you miss 90%+ of the biggest opportunities.
+> [[../../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]: | **CHWY** | Aug 2025 | Minor exhaustion with catalyst | Up 12% in 3–4 days; textbook template |
 
-> Volume is the market's voting machine on catalyst quality: > "Volume tells you how good the catalyst is.
+> [[../../03-Guides/stockbee/Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs.md|Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs]]: | Type | Catalyst | Frequency | Duration |
 
-> Volume tells you whether this is a significant catalyst or not." If a catalyst is valid and powerful, the stock won't give up gains immediately.
+> [[../../03-Guides/stockbee/Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs.md|Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs]]: - **Put on larger size** — you have confirmation the catalyst is real
 
-> If it collapses back to pre-catalyst levels, the catalyst was weak or fake.
+> [[../../03-Guides/stockbee/Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs.md|Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs]]: - Use AI tools (Perplexity, Gemini) to quickly analyze the catalyst once a candidate is identified
 
-> Ask: "What is the catalyst?" 3.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 4.md|How to Trade Breakouts Guide-Part 4]]: | Find significant catalyst | Highest V in 252 days | 5–10 candidates |
 
-> Document: catalyst type, magnitude, duration 4.
+> [[../../03-Guides/stockbee/04. TI65 Guide/04. TI65 Guide.md|04. TI65 Guide]]: 1. Stock has negative earnings or catalyst
 
-> Trace back: what catalyst started each move?
+> [[../../03-Guides/stockbee/06. DT Guide/06. DT Guide.md|06. DT Guide]]: | **Investor** | Good fit — use DT to find catalyst-driven stocks with momentum |
 
-> Very few focus on catalyst-based trading." Key principle: The stronger your catalyst conviction, the earlier you enter.
+> [[../../03-Guides/stockbee/06. DT Guide/06. DT Guide.md|06. DT Guide]]: #### Principle 4: Catalyst Matters
 
-> If you truly understand the catalyst, you don't need confirmation.
+> [[../../03-Guides/stockbee/09. Momentum Burst Bearish Guide/09. Momentum Burst Bearish Guide.md|09. Momentum Burst Bearish Guide]]: ### 1.5 Catalyst-Driven Short
 
-> > "If you understand catalyst, your job is to read the news, understand the catalyst, and enter it immediately.
+> [[../../03-Guides/stockbee/13. Episodic Pivots Guide/13. Episodic Pivots Guide.md|13. Episodic Pivots Guide]]: **Examples of catalysts:**
 
-> Deep Dive Guide|Deep Dive — Catalyst Validation Research > "Stocks move based on catalyst.
+> [[../../03-Guides/stockbee/13. Episodic Pivots Guide/13. Episodic Pivots Guide.md|13. Episodic Pivots Guide]]: - **Funds rush in** after the catalyst, creating a sustained uptrend
 
-> Most of the major moves in any stocks are started by a catalyst." > "If you don't have any understanding of catalyst, then you are just a village idiot." > "Volume tells you how good the catalyst is." > "Fed is your daddy...
+> [[../../03-Guides/stockbee/13. Episodic Pivots Guide/13. Episodic Pivots Guide.md|13. Episodic Pivots Guide]]: - $100B → $500B = **5× move** (nearly impossible in one catalyst)
 
-> Fed is the mother of all catalysts." > "Profitability doesn't matter.
+> [[../../03-Guides/stockbee/13. Episodic Pivots Guide/13. Episodic Pivots Guide.md|13. Episodic Pivots Guide]]: ### 7.4 Catalyst Must Change the Trajectory
 
-> Not third best." Compiled from 4-part Catalyst video series (Jan 2024 – Jan 2026).
+> [[../../03-Guides/stockbee/13. Episodic Pivots Guide/13. Episodic Pivots Guide.md|13. Episodic Pivots Guide]]: > "You're looking for a catalyst which is such a major catalyst that it is completely going to change the trajectory of that particular stock." — *Part 1*
 
-> Catalyst Guide/|Catalyst Guide Transcripts
+> [[../../03-Guides/stockbee/13. Episodic Pivots Guide/13. Episodic Pivots Guide.md|13. Episodic Pivots Guide]]: - [[Catalysts|Catalysts]] — catalyst types, lifespan, validation, what to skip
 
-> [10:01] You had Dell, like, in a breaking out, which is a real catalyst.
+> [[../../03-Guides/stockbee/15. Start of a Swing Guide/15. Start of a Swing Guide.md|15. Start of a Swing Guide]]: | 100%+ parabolic | 4%+ + 9M volume + catalyst |
 
-> [10:04] You had Intel breaking out, which is a real catalyst.
+> [[../../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]: | **More Time to Analyze** | Not everyone can judge a catalyst in real-time at 9:30 AM |
 
-> [07:05] Also, sometimes and there is a catalyst.
+> [[../../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]: | Stock already up 50%+ from catalyst day | Stock pulled back or consolidated near catalyst-day levels |
 
-> [07:12] There was a clear catalyst.
+> [[../../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]: ## Catalyst: The Non-Negotiable Requirement
 
-> [07:15] And then after, like, almost six months, the same catalyst and it goes.
+> [[../../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]: | Catalyst Type | Examples |
 
-> [07:40] And that, the catalyst is priced in, and maybe there is no more so they might wait for the next quarter.
+> [[../../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]: ### How to Research Catalysts
 
-> [14:02] Biotechnology, you buy them on the day of catalyst right at the open, and they make all their move in one day.
+> [[../../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]: | **No identifiable catalyst** | If you can't explain why the stock moved, skip it |
 
-> [20:11] If you have seen the post on the timeline, we we, I commented, other people also commented on that inclusion in an index is not a catalyst which works very well because every single one of these big funds, they are not fools.
+> [[../../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]: 3. **Go through list top-down**, research catalyst for each high-volume stock
 
-> [22:19] What you have is a age on a stock which has some catalyst, something story stock, right, on a e p 9,000,000 year in age.
+> [[../../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]: 6. **Remove stocks with no real catalyst** or where the move already happened
 
-> [04:00] Before, like, in a finally, some catalyst came in and it went a move.
+> [[../../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]: - Catalyst type
 
-> [13:16] There are no is there any stock with, Catalyst today, like, which is like an a must buy?
+> [[../../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]: | **First valid setup only** | Not second or third leg. The first pullback/consolidation after the catalyst. |
 
-> [18:40] It is, you know, consolidation consolidation requires a breakout and a catalyst.
+> [[../../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]: | **Volume validates catalyst** | 9M+ on catalyst day = market cares. |
 
-> [42:24] Catalyst is exhausted on that one.
+> [[../../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]: - [[Catalysts|Catalysts]] — catalyst types, lifespan, validation, what to skip
 
-> [52:07] This is a consolidation breakout unless there is a huge volume and catalyst.
+> [[../../03-Guides/stockbee/17. Catalyst Guide/17. Catalyst Guide.md|17. Catalyst Guide]]: # Catalyst Guide — Understanding What Really Moves Stocks
 
-> [69:53] That's not like, you know, something which is like and then the catalyst here is like, you know, this guy bought.
+> [[../../03-Guides/stockbee/17. Catalyst Guide/17. Catalyst Guide.md|17. Catalyst Guide]]: > **Transcripts:** `[[../transcripts/17. Catalyst Guide/|Catalyst Guide Transcripts]]`
 
-> [70:10] And open just like a same catalyst, and that open made a move of, like, in a 1700%.
+> [[../../03-Guides/stockbee/17. Catalyst Guide/17. Catalyst Guide.md|17. Catalyst Guide]]: **Stocks move based on catalysts — not chart patterns.**
 
-> [71:41] In our phase also, I took some pro like, and I took the profit, like, in a because I think at this, 32% move after, like, and it made this thing on a the kind of catalyst like this 64% is, like and I think that catalyst is now priced it.
+> [[../../03-Guides/stockbee/17. Catalyst Guide/17. Catalyst Guide.md|17. Catalyst Guide]]: ## The Three Dimensions of Every Catalyst
 
-> [72:35] All of them, like, the one which broke out with the clear catalyst, clear, setup.
-
-> [74:11] And I but, yeah, I mean, it's like and it's it is a stock which has like, and it's a, fighting firefighting star like, and it has both long and short fighting on it, are reasons like I mean, it's like it has a catalyst, I think, and it has a good catalyst also.
-
-> There is no game-changing catalyst.
-
-> What catalyst is there?" > "Fix your understanding of setup.
-
-> The SpaceX IPO dominated Wall Street's attention, but Pradeep dismissed the entire space theme as "fugazi" and "fantasy" — the real money was in semiconductors and real catalysts from yesterday.
-
-> They don't really have any follow-through." > "Biotechnology, you buy them on the day of catalyst right at the open, and they make all their move in one day.
-
-> SNDK, MU, Marvel, DELL breaking out — which is a real catalyst.
-
-> Biotechnology is anti-continuation — Buy on catalyst day at the open, sell same day.
-
-> If something didn't break out when everything else did, that's information — Snow and Okta failing to break out on June 11th is the market telling you the catalyst is priced in or the stock lacks conviction.
-
-> Space stocks are "fugazi" — Story stocks driven by SpaceX IPO hype, not real catalysts.
-
-> Real money is in semiconductors with real catalysts.
-
+> [[../../03-Guides/stockbee/17. Catalyst Guide/17. Catalyst Guide.md|17. Catalyst Guide]]: > *"Your ability to understand which catalyst is going to make a big move — that is the edge."*
 
 ## Related Concepts
 
@@ -125,10 +104,23 @@ promote: false
 
 ## Sources
 
-- [[14. Sugar Babies Guide]]
-- [[17. Catalyst Guide]]
-- [[2026-06-12_3-pm]]
-- [[2026-06-12_9_15-am]]
-- [[meeting_2026-05-22_0cdf07fa-1008-46c3-b433-e4ff0458f8f6_deepgram]]
-- [[Session-2026-06-09]]
-- [[Session-2026-06-12]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 4.md|How to Trade Breakouts Guide-Part 4]]
+- [[../03-Guides/stockbee/04. TI65 Guide/04. TI65 Guide.md|04. TI65 Guide]]
+- [[../03-Guides/stockbee/06. DT Guide/06. DT Guide.md|06. DT Guide]]
+- [[../03-Guides/stockbee/09. Momentum Burst Bearish Guide/09. Momentum Burst Bearish Guide.md|09. Momentum Burst Bearish Guide]]
+- [[../03-Guides/stockbee/13. Episodic Pivots Guide/13. Episodic Pivots Guide.md|13. Episodic Pivots Guide]]
+- [[../03-Guides/stockbee/15. Start of a Swing Guide/15. Start of a Swing Guide.md|15. Start of a Swing Guide]]
+- [[../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]
+- [[../03-Guides/stockbee/17. Catalyst Guide/17. Catalyst Guide.md|17. Catalyst Guide]]
+- [[../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]
+- [[../03-Guides/stockbee/19. Deep Dive Guide.md|19. Deep Dive Guide]]
+- [[../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]
+- [[../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]
+- [[../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]
+- [[../03-Guides/stockbee/Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs.md|Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs]]
+- [[../04-Transcripts/stockbee/02. How to Trade Breakouts/Pradeep Bonde - How to Trade Breakouts Guide-Part 3_deepgram.md|Pradeep Bonde - How to Trade Breakouts Guide-Part 3_deepgram]]
+- [[../04-Transcripts/stockbee/02. How to Trade Breakouts/Pradeep Bonde - How to Trade Breakouts Guide-Part 4_deepgram.md|Pradeep Bonde - How to Trade Breakouts Guide-Part 4_deepgram]]
+- [[../04-Transcripts/stockbee/02. How to Trade Breakouts/Pradeep Bonde - How to Trade Breakouts Guide-Part 6_deepgram.md|Pradeep Bonde - How to Trade Breakouts Guide-Part 6_deepgram]]
+- [[../04-Transcripts/stockbee/05. M20/Pradeep Bonde - M20 Guide-Part 5_deepgram.md|Pradeep Bonde - M20 Guide-Part 5_deepgram]]
+- [[../04-Transcripts/stockbee/06. DT/Pradeep Bonde - DT Guide-Part 4_deepgram.md|Pradeep Bonde - DT Guide-Part 4_deepgram]]
+- [[../04-Transcripts/stockbee/08. Anticipation (ANTS) Guide/Pradeep Bonde - ANTS Guide-Part 2_deepgram.md|Pradeep Bonde - ANTS Guide-Part 2_deepgram]]

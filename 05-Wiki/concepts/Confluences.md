@@ -53,7 +53,7 @@ Confluence determines two things simultaneously: **probability** (more likely to
 | **Target** | 40–300%+ | 30–40% in 2–3 days | Explosive, fast moves |
 
 **Workflow:**
-1. Run Sugar Baby selection (count 9M breakouts over 504/252/126/63/21/10/5 days)
+1. Run Sugar Baby selection (count 9M breakouts over 5, 10, 20, 50, 126, 252, 504, 756, 1,450 days)
 2. Run DEP scan
 3. Create combined watchlist
 4. Narrow to **max 5 stocks total**

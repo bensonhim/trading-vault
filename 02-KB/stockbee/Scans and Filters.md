@@ -15,7 +15,7 @@ tags: [kb, scans, filters, PCF, TC2000, formulas, watchlist, screening]
 |------|------------|---------|--------|--------|
 | **EP 9M** | `C/C1 >= 1.04 AND V >= V1 AND V >= 8,900,000` | Find today's explosive moves | ~10–20 stocks by 09:45; ~60–70 by 11:00 | [[21. Process Guide|Process EP9M]] |
 | **DEP** | `C/C1 >= 1.04 AND V >= 8,900,000` (last 25 days) | Find catalyst + pullback candidates | ~405–500 stocks | [[16. DEP Guide|DEP Part 1]] |
-| **Sugar Baby Count** | Same as EP 9M, Count Through 504/252/126/63/21/10/5 days | Find market's "madly in love" stocks | ~87–91 master list | [[14. Sugar Babies Guide|Sugar Babies Part 5]] |
+| **Sugar Baby Count** | Same as EP 9M, Count Through 1450/756/504/252/126/50/20/10/5 days | Find market's "madly in love" stocks | ~87–91 master list | [[14. Sugar Babies Guide|Sugar Babies Part 6]] |
 | **M20 Bullish** | `C >= 1.2 * MINC30 OR C >= MINC30 + 20` | Absolute anchored momentum | Variable; sort by negative NC for pullbacks | [[05. M20 Guide|M20 Part 2]] |
 | **TI65 Bullish** | `AVGC7 / AVGC65 >= 1.05` | Trend intensity | ~415 stocks; +3T = ~19 | [[04. TI65 Guide|TI65 Part 2]] |
 | **MDT Rank** | `C / AVGC126` | 126-day momentum ranking | Top 100–200 | [[07. MDT Guide|MDT]] |
@@ -36,10 +36,10 @@ tags: [kb, scans, filters, PCF, TC2000, formulas, watchlist, screening]
 
 ## Sugar Baby Process
 
-1. **Run Count Through** for each timeframe: 504, 252, 126, 63, 21, 10, 5 days
+1. **Run Count Through** for each timeframe: 5, 10, 20, 50, 126, 252, 504, 756, 1,450 days
 2. **Sort descending** by count
 3. **Select top 20–30** per timeframe
-4. **For 5-day and 10-day**: require minimum 3 hits
+4. **For 5-day, 10-day, and 20-day**: require minimum 3 hits
 5. **Flag all symbols** and combine into one master list (~90 stocks)
 6. **Trade only the ones that give a setup** — "When a Sugar Baby calls, you take the call"
 
@@ -77,7 +77,7 @@ Then apply 3T/2T filter on top.
 |-------------|-------------|-----------|
 | **EP 9M today** | `GET /stable/biggest-gainers` + `GET /stable/biggest-losers` | Filter: `changePercentage >= 4`, `volume >= 9M`, `price >= 3` |
 | **DEP (last 25 days)** | `GET /stable/company-screener` + `GET /stable/historical-price-eod/full` | Screener: `priceMoreThan=3`, `volumeMoreThan=9M`; then check 25-day history for 4% days |
-| **Sugar Baby Count** | `GET /stable/historical-price-eod/full` (504 days) | Count 4%+ days with 9M+ volume per stock |
+| **Sugar Baby Count** | `GET /stable/historical-price-eod/full` (1,450 days) | Count 4%+ days with 9M+ volume per stock per timeframe (5/10/20/50/126/252/504/756/1450) |
 | **Max V25** | `GET /stable/historical-price-eod/full` (25 days) | Find `max(volume)` per stock |
 | **Institutional filter** | `GET /stable/institutional-ownership/symbol-positions-summary` | Filter: `numberOfHolders >= 1000` |
 | **Bucket 0/1/2** | `GET /stable/income-statement-growth` | Filter: `growthRevenue > 0.39` |

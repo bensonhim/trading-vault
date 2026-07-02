@@ -1,75 +1,98 @@
 ---
 title: "Position Sizing"
-date: 2026-06-11
+date: 2026-07-02
 tags: [concepts, wiki, auto-compiled]
-mention_count: 28
-sources_count: 16
+mention_count: 167
+sources_count: 86
 compilation_count: 1
 promote: false
 ---
 
 # Position Sizing
 
-*Concepts — compiled from 28 mentions across 16 sources.*
+*Concepts — compiled from 167 mentions across 86 sources.*
 
 ## Mentions
 
-> [71:52] We are not considering the position size.
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: - **Sizing**: Fixed share counts (multiples of 1,000 or 5,000) for speed; mental math tells you the risk instantly
 
-> [72:52] You size the position size.
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: Classify for SIZING ONLY:
 
-> [72:56] Or we can do the position sizing accordingly.
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: - [ ] Position size: fixed share count (1K / 5K / 10K multiples)
 
-> [72:58] The position size, you take a smaller position size because, instead of doing 25, 30% of your account, you're doing only 5%.
+> [[../../03-Guides/stockbee/Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs.md|Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs]]: - **Position sizing:** Can go 100–170% of account on conviction plays
 
-> [04:57] Just normal position sizing.
+> [[../../03-Guides/stockbee/Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs.md|Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs]]: 4. **Size:** Determine conviction level → position size (20–170% of account)
 
-> [33:20] And then the risk reward yesterday, I could was like in a, the sizing becomes a issue.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 2.md|How to Get Started In Trading Guide-Part 2]]: **The critical trade-off:** The longer you hold, the more volatility you must absorb, and the smaller your position sizing must be. Smaller sizing = smaller returns. There is no free lunch.
 
-> [33:25] Yesterday, I had, like, in a much bigger sizing.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 6.md|How to Get Started In Trading Guide-Part 6]]: - A $3 stock, trader makes $500K in a day → position size was likely 1,000,000–2,000,000 shares (~$3M–$6M in capital)
 
-> [36:55] But, like, in a then your position size will be what?
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 7.md|How to Get Started In Trading Guide-Part 7]]: ### 3. Volatility + Position Size — The Trade-Off
 
-> [52:36] And I'm I if I want to get into something, I want to get in with a bigger position size versus people.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 7.md|How to Get Started In Trading Guide-Part 7]]: - **Smaller position sizes** → less volatility per position → but also less return
 
-> [53:27] If I want to become an investor, I would buy 1% position size and hold it for longer term.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md|How to Trade Breakouts Guide-Part 1]]: ### 6. Price-Based Risk Sizing
 
-> [71:44] But that position, I by position size, I'm managing this because I said, okay.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 5.md|How to Trade Breakouts Guide-Part 5]]: 5. **Position size up** when conviction is high (5–10% of account)
 
-> [71:54] So but I adjusted the position size accordingly.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 6.md|How to Trade Breakouts Guide-Part 6]]: 1. **Position size** — larger on widely held, smaller on neglected
 
-> [72:10] But I'm really, like, in a I just put in a position size kind of a situation.
+> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 1.md|Bullish Momentum Burst Guide-Section 1]]: | **Section 7** | Dollar Breakout Examples & Capital Efficiency | Live examples, position sizing math, risk/reward advantage |
 
-> [74:22] What they do is they manage by position size, right, and time stop.
+> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 2.md|Bullish Momentum Burst Guide-Section 2]]: | **Section 7** | Dollar Breakout Examples & Capital Efficiency | Live examples, position sizing math, risk/reward advantage |
 
-> [74:34] And this, do by position size.
+> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 3.md|Bullish Momentum Burst Guide-Section 3]]: | **Section 7** | Dollar Breakout Examples & Capital Efficiency | Live examples, position sizing math, risk/reward advantage |
 
-> [26:24] I always do fixed position sizing.
+> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 4.md|Bullish Momentum Burst Guide-Section 4]]: | **Section 7** | Dollar Breakout Examples & Capital Efficiency | Live examples, position sizing math, risk/reward advantage |
 
-> [43:42] You do your sizing by a setup.
+> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 4.md|Bullish Momentum Burst Guide-Section 4]]: ### 6. Position Sizing
 
-> [55:28] And whether it is tiny, big, or something, which is either you do larger positions, like research research and get in, like, with a big position size or, like, you do large number of trades.
+> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 4.md|Bullish Momentum Burst Guide-Section 4]]: 4. **Position sizing determines everything** — use the calculator; 3–4 positions maximum
 
-> [03:20] Or sizing the trade, three plus e p 9,000,000 breakdown.
+> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 5.md|Bullish Momentum Burst Guide-Section 5]]: | **Section 7** | Dollar Breakout Examples & Capital Efficiency | Live examples, position sizing math, risk/reward advantage |
 
-> [15:42] You manage the by position sizing.
+> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 6.md|Bullish Momentum Burst Guide-Section 6]]: | **Section 7** | Dollar Breakout Examples & Capital Efficiency | Live examples, position sizing math, risk/reward advantage |
 
-> [58:56] I would not be very aggressive in sizing or anything here because of the, drop king did work yesterday.
+> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 6.md|Bullish Momentum Burst Guide-Section 6]]: | **Position size** | 10–30% of account | **30–50%+** of account |
 
-> Position sizing by experience: 5% for beginners, 25%+ for experienced traders.
+> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 6.md|Bullish Momentum Burst Guide-Section 6]]: - In practice: 0.25% risk → 25–30% position size
 
-> The market is in a bull phase but many sectors are extended, making early breakouts prone to fading — a day where discipline about catalysts, earnings dates, and position sizing mattered more than finding setups, which were abundant but mostly in already-extended names.
+> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 7.md|Bullish Momentum Burst Guide-Section 7]]: | **Section 7** | Dollar Breakout Examples & Capital Efficiency | Live examples, position sizing math, risk/reward advantage |
 
-> When a participant pointed out BW was up 25%, Pradeep's response was about sizing, not avoidance: > "If you're telling me BW is up 25%, you adjust your size accordingly if you want to trade." > "In this market, things gap up fifty, sixty, 70%, and then still make move.
+> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 7.md|Bullish Momentum Burst Guide-Section 7]]: **Position sizing math:**
 
-> The conviction was there on catalyst, but the market extension tempered the sizing.
+> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 7.md|Bullish Momentum Burst Guide-Section 7]]: **The math:** If your half-range stop is 1.25% and you risk 1% of account, you can put 80% of your account in ONE trade. In practice, 0.25% risk per trade → 30–40% position size → 3–4 positions → total account risk of only 3–4%.
 
-> Different traders have different approaches: > "If I want to get into AMD, I want to put 70, 80, 100% of my account." Key principle: your position size must match your objective and risk tolerance.
+> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 7.md|Bullish Momentum Burst Guide-Section 7]]: 5. Position size aggressively (30–60% per trade at 0.25–1% risk)
 
-> Position sizing = stock quality: Institutional quality (5,000 funds) = can size up.
+> [[../../03-Guides/stockbee/07. MDT Guide/07. MDT Guide.md|07. MDT Guide]]: | **Larger accounts** | Position sizing works better with longer holds |
 
-> The exits are inherent to your setup." Q: Larger size on bigger-cap or smaller-cap? > "You do your sizing by setup.
+> [[../../03-Guides/stockbee/13. Episodic Pivots Guide/13. Episodic Pivots Guide.md|13. Episodic Pivots Guide]]: ### 4.5 Facebook Example: Sizing for Life-Changing Returns
 
+> [[../../03-Guides/stockbee/14. Sugar Babies Guide/14. Sugar Babies Guide.md|14. Sugar Babies Guide]]: ### 3.2 Position Sizing and Stop Management
+
+> [[../../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]: | **Position size** | Large — 3–4x what you'd use on catalyst day |
+
+> [[../../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]: | Position size | Small (10–20%) | Large (50–100%) |
+
+> [[../../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]: - [[Position Sizing|Position Sizing]] — how to size by setup type, account risk, and stop width
+
+> [[../../03-Guides/stockbee/17. Catalyst Guide/17. Catalyst Guide.md|17. Catalyst Guide]]: ## Position Sizing and Conviction
+
+> [[../../03-Guides/stockbee/17. Catalyst Guide/17. Catalyst Guide.md|17. Catalyst Guide]]: | Understanding Level | Position Size | Account Impact |
+
+> [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: ### Sizing: The Bridge
+
+> [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: Sizing is what moves you from 0.5–2% increments to 2–10% increments within the grinding path:
+
+> [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: | **Peeling** | Captures gains → enables sizing |
+
+> [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: 5. Sizing rules
+
+> [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: | **Position sizing** | Small | Large |
+
+> [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: ### The Sizing Equation
 
 ## Related Concepts
 
@@ -81,19 +104,23 @@ promote: false
 
 ## Sources
 
-- [[2026-05-01_9_15-am]]
-- [[2026-05-06_3-pm]]
-- [[2026-05-06_9_15-am]]
-- [[2026-05-13_3-pm]]
-- [[2026-05-20_9_15-am]]
-- [[2026-05-28_9_15-am]]
-- [[2026-06-01_3-pm]]
-- [[2026-06-05_3-pm]]
-- [[2026-06-10_3-pm]]
-- [[2026-06-10_9_15-am]]
-- [[Session-2026-05-07]]
-- [[Session-2026-05-11]]
-- [[Session-2026-05-13]]
-- [[Session-2026-05-20]]
-- [[Session-2026-05-28]]
-- [[Session-2026-06-01]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 2.md|How to Get Started In Trading Guide-Part 2]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 6.md|How to Get Started In Trading Guide-Part 6]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 7.md|How to Get Started In Trading Guide-Part 7]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md|How to Trade Breakouts Guide-Part 1]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 5.md|How to Trade Breakouts Guide-Part 5]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 6.md|How to Trade Breakouts Guide-Part 6]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 1.md|Bullish Momentum Burst Guide-Section 1]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 2.md|Bullish Momentum Burst Guide-Section 2]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 3.md|Bullish Momentum Burst Guide-Section 3]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 4.md|Bullish Momentum Burst Guide-Section 4]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 5.md|Bullish Momentum Burst Guide-Section 5]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 6.md|Bullish Momentum Burst Guide-Section 6]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 7.md|Bullish Momentum Burst Guide-Section 7]]
+- [[../03-Guides/stockbee/07. MDT Guide/07. MDT Guide.md|07. MDT Guide]]
+- [[../03-Guides/stockbee/13. Episodic Pivots Guide/13. Episodic Pivots Guide.md|13. Episodic Pivots Guide]]
+- [[../03-Guides/stockbee/14. Sugar Babies Guide/14. Sugar Babies Guide.md|14. Sugar Babies Guide]]
+- [[../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]
+- [[../03-Guides/stockbee/17. Catalyst Guide/17. Catalyst Guide.md|17. Catalyst Guide]]
+- [[../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]
+- [[../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]

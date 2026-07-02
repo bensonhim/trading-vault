@@ -37,7 +37,7 @@ Three+ edges:   Exceptional trade, maximum size
 | **Target** | 40–300%+ | 30–40% in 2–3 days | Explosive, fast moves |
 
 **Workflow:**
-1. Run Sugar Baby selection (count 9M breakouts over 504/252/126/63/21/10/5 days)
+1. Run Sugar Baby selection (count 9M breakouts over 5, 10, 20, 50, 126, 252, 504, 756, 1,450 days)
 2. Run DEP scan
 3. Create combined watchlist
 4. Narrow to **max 5 stocks total**
@@ -49,12 +49,12 @@ Three+ edges:   Exceptional trade, maximum size
 
 ### 2. Anticipation + SOS
 
-| Aspect | Anticipation | SOS | Combined |
-|--------|-------------|-----|----------|
-| **What** | Enter BEFORE breakout | First day of range expansion | ANT entry that becomes SOS |
-| **Edge** | Tiny stop (<1%) | Momentum confirmation | Best of both: close entry + momentum |
-| **When** | 2:58 PM day before | Next morning breakout | Overnight position that gaps up |
-| **Stop** | Below tight consolidation | Low of day | Already in profit before SOS triggers |
+| Aspect   | Anticipation              | SOS                          | Combined                              |
+| -------- | ------------------------- | ---------------------------- | ------------------------------------- |
+| **What** | Enter BEFORE breakout     | First day of range expansion | ANT entry that becomes SOS            |
+| **Edge** | Tiny stop (<1%)           | Momentum confirmation        | Best of both: close entry + momentum  |
+| **When** | 2:58 PM day before        | Next morning breakout        | Overnight position that gaps up       |
+| **Stop** | Below tight consolidation | Low of day                   | Already in profit before SOS triggers |
 
 **How it works:**
 - You place BSLO at 2:58 PM for a stock showing 3T tight days

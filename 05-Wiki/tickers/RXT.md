@@ -1,51 +1,98 @@
 ---
 title: "RXT"
-date: 2026-06-11
+date: 2026-07-02
 tags: [tickers, wiki, auto-compiled]
-mention_count: 17
-sources_count: 12
+mention_count: 43
+sources_count: 25
 compilation_count: 1
 promote: false
 ---
 
 # RXT
 
-*Tickers — compiled from 17 mentions across 12 sources.*
+*Tickers — compiled from 43 mentions across 25 sources.*
 
 ## Mentions
 
-> [50:38] I did, like, how did I find RXT?
+> [[../../04-Transcripts/stockbee/2026-05-09_Unknown.md|2026-05-09_Unknown]]: Then there'll be several of them, during a month, which will make, like, another kind of moves which you saw to, like, in a today, RXT writer, basically.
 
-> [24:40] And then Rxt.
+> [[../../04-Transcripts/stockbee/2026-05-09_Unknown.md|2026-05-09_Unknown]]: I did, like, how did I find RXT?
 
-> [50:45] NVIDIA, plug power, Vietnam, DSLR, Nokia, and RXT.
+> [[../../04-Transcripts/stockbee/2026-05-11_9_15-am.md|2026-05-11_9_15-am]]: NVIDIA, plug power, Vietnam, DSLR, Nokia, and RXT.
 
-> [19:30] And is it going into RXT, which is not like that stock has been going up for a couple of days.
+> [[../../04-Transcripts/stockbee/2026-05-12_3-pm.md|2026-05-12_3-pm]]: And is it going into RXT, which is not like that stock has been going up for a couple of days.
 
-> [34:41] The market you need a fresh supply of EPs, which are not been discovered by the market and which are new, like, say, probably this RXT, if it gets going.
+> [[../../04-Transcripts/stockbee/2026-05-12_9_15-am.md|2026-05-12_9_15-am]]: The market you need a fresh supply of EPs, which are not been discovered by the market and which are new, like, say, probably this RXT, if it gets going.
 
-> [43:43] The person who's asking me about Rxt right, Anil?
+> [[../../04-Transcripts/stockbee/2026-05-26_3-pm.md|2026-05-26_3-pm]]: And it is, like, in a basically flex, YO, AMT, RXT.
 
-> [43:47] Rxt, that is where here you should have bought it.
+> [[../../04-Transcripts/stockbee/2026-05-26_3-pm.md|2026-05-26_3-pm]]: RXT is the best out of that.
 
-> [34:55] And it is, like, in a basically flex, YO, AMT, RXT.
+> [[../../04-Transcripts/stockbee/2026-05-26_9_15-am.md|2026-05-26_9_15-am]]: And the RXT, you know?
 
-> [35:03] RXT is the best out of that.
+> [[../../04-Transcripts/stockbee/2026-05-27_9_15-am.md|2026-05-27_9_15-am]]: RXT sitting there while it's not super.
 
-> [66:46] And the RXT, you know?
+> [[../../04-Transcripts/stockbee/2026-05-28_9_15-am.md|2026-05-28_9_15-am]]: Otherwise, like in a RXT codecs.
 
-> [42:46] RXT sitting there while it's not super.
+> [[../../04-Transcripts/stockbee/2026-06-10_3-pm.md|2026-06-10_3-pm]]: So I think if RMI and RXT, which are clear catalyst, right, and that's and if you want to shot a video, maybe the one rest is not really something which I see anything.
 
-> [20:13] Otherwise, like in a RXT codecs.
+> [[../../04-Transcripts/stockbee/2026-06-10_3-pm.md|2026-06-10_3-pm]]: Regarding RXT, when I noticed this, it's already up above 20%.
 
-> [06:13] Rxt, I already put it there.
+> [[../../04-Transcripts/stockbee/transcript.md|transcript]]: So I think if RMI and RXT, which are clear catalyst, right, and that's and if you want to shot a video, maybe the one rest is not really something which I see anything.
 
-> [06:18] Rxt and VTS.
+> [[../../04-Transcripts/stockbee/transcript.md|transcript]]: Regarding RXT, when I noticed this, it's already up above 20%.
 
-> [27:25] Regarding RXT, when I noticed this, it's already up above 20%.
+> [[../../04-Transcripts/stockbee/14. Sugar Babies Guide/Pradeep Bonde - Sugar Babies Guide-Part 10 - Sugar Babies Deeper Look_deepgram.md|Pradeep Bonde - Sugar Babies Guide-Part 10 - Sugar Babies Deeper Look_deepgram]]: If you see, this RXT is a low priced one, but, right, another big one.
 
-> All these, this move and all, these are all printing exhaustion candles." RXT, COHR (Coherent) were flagged as exhaustion signals.
+> [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-09_f997eacc-05a0-4332-a1fb-e4abcd25295f_deepgram.md|meeting_2026-05-09_f997eacc-05a0-4332-a1fb-e4abcd25295f_deepgram]]: Then there'll be several of them, during a month, which will make, like, another kind of moves which you saw to, like, in a today, RXT writer, basically.
 
+> [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-09_f997eacc-05a0-4332-a1fb-e4abcd25295f_deepgram.md|meeting_2026-05-09_f997eacc-05a0-4332-a1fb-e4abcd25295f_deepgram]]: I did, like, how did I find RXT?
+
+> [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-11_83b682df-be42-445a-86f0-1e35883cd1e0_deepgram.md|meeting_2026-05-11_83b682df-be42-445a-86f0-1e35883cd1e0_deepgram]]: NVIDIA, plug power, Vietnam, DSLR, Nokia, and RXT.
+
+> [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-12_33549df1-ba3f-4060-9ef9-d0a5ba2d3a42_deepgram.md|meeting_2026-05-12_33549df1-ba3f-4060-9ef9-d0a5ba2d3a42_deepgram]]: And is it going into RXT, which is not like that stock has been going up for a couple of days.
+
+> [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-12_fb286cc9-8cd9-449d-8a3c-05a410b4ee97_deepgram.md|meeting_2026-05-12_fb286cc9-8cd9-449d-8a3c-05a410b4ee97_deepgram]]: The market you need a fresh supply of EPs, which are not been discovered by the market and which are new, like, say, probably this RXT, if it gets going.
+
+> [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-26_5b33c95d-3732-4357-9dff-e775e6762872_deepgram.md|meeting_2026-05-26_5b33c95d-3732-4357-9dff-e775e6762872_deepgram]]: And the RXT, you know?
+
+> [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-26_deeb04b7-ad02-49d3-bcbc-85d88f097d44_deepgram.md|meeting_2026-05-26_deeb04b7-ad02-49d3-bcbc-85d88f097d44_deepgram]]: And it is, like, in a basically flex, YO, AMT, RXT.
+
+> [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-26_deeb04b7-ad02-49d3-bcbc-85d88f097d44_deepgram.md|meeting_2026-05-26_deeb04b7-ad02-49d3-bcbc-85d88f097d44_deepgram]]: RXT is the best out of that.
+
+> [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-27_31f7d66e-9b6f-46cd-aa84-84b2458f19dc_deepgram.md|meeting_2026-05-27_31f7d66e-9b6f-46cd-aa84-84b2458f19dc_deepgram]]: RXT sitting there while it's not super.
+
+> [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-28_f6e4caec-00c3-4fb1-8971-720ad7851b3c_deepgram.md|meeting_2026-05-28_f6e4caec-00c3-4fb1-8971-720ad7851b3c_deepgram]]: Otherwise, like in a RXT codecs.
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-05-09.md|Session-2026-05-09]]: | [[RXT]] | AI science contract with [[AMD]] | +55% (day 1), continued day 2 | Classic SIPs — clear catalyst, huge short squeeze |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-05-09.md|Session-2026-05-09]]: | 3 | **Short interest** | Higher = better; 5+ days to cover is good. RXT had 22% of float short |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-05-09.md|Session-2026-05-09]]: - [[RXT]] continued its move on day 2 after the AMD AI contract catalyst
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-05-09.md|Session-2026-05-09]]: | **Fund-quality SIPs** | Institutional stocks with real catalysts | [[Rocket Lab]], Qualcomm, [[RXT]] | More liquid, less volatile, but still 20%+ moves possible |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-05-09.md|Session-2026-05-09]]: | AI contract / sector theme | Potentially multi-day | [[RXT]] + AMD AI deal |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-05-11.md|Session-2026-05-11]]: | [[RXT]] | Exhaustion signal | "Classic exhaustion signal" if it closes like that |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-05-11.md|Session-2026-05-11]]: [[RXT]], [[COHR]] (Coherent) were flagged as exhaustion signals. The pattern: extended stocks in AI/data center theme reaching parabolic extremes.
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-05-22.md|Session-2026-05-22]]: The sugar babies that broke out three days ago: [[ASTS]], [[NVTS]], [[SOUN]] (SoundHound), [[Carvana]], [[BTBT]], [[CLFK]], [[RXT]], [[SATL]] (Satellite Logic). Pradeep added Sugar Babies as a **fourth tab** in his scanning workflow, sorted by volume, for pre-market review.
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-10.md|Session-2026-06-10]]: | [[RXT]]            | EP 9M / Sugar Baby    | AI signs contract with AMD — clear catalyst. Tight structure. Story stock. Better than [[DELL]] because of tightness + catalyst.                                                            |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-10.md|Session-2026-06-10]]: **What is NOT a DEP** (correcting a member calling [[RXT]] a DEP):
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-10.md|Session-2026-06-10]]: [[RXT]] at $5.03 is a **story stock** that was on the verge of bankruptcy, then signed an AMD contract. It's not institutional quality (not owned by 1,000+ funds). It's an EP 9M / Sugar Baby — NOT a DEP.
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-10.md|Session-2026-06-10]]: 1. **Stock-specific catalyst** — earnings ([[AVGO]]), contracts ([[RXT]]/AMD)
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-10.md|Session-2026-06-10]]: 2. **DEP requires institutional quality**: Owned by 1,000+ funds, real catalyst within one month, first setup after catalyst. Story stocks like [[RXT]] at $5 are NOT DEP — they're EP 9M / Sugar Baby.
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-10.md|Session-2026-06-10]]: [[SNOW]] · [[RXT]] · [[AVGO]] · [[DELL]] · [[GLW]] · [[OKTA]] · [[NVDA]] · [[META]] · [[AMD]] · [[MSI]] · [[SHOP]] · [[CCL]] · [[NCLH]] · [[HON]] · [[TNA]] · [[IWM]] · [[SPX]] · [[COMP]] · [[BTC]] · [[LIII]]
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-17.md|Session-2026-06-17]]: | [[RXT]] | EP 9M with Palantir catalyst | Example of surprise — near-bankrupt company transforms |
 
 ## Related Concepts
 
@@ -57,15 +104,23 @@ promote: false
 
 ## Sources
 
-- [[2026-05-09_Unknown]]
-- [[2026-05-11_9_15-am]]
-- [[2026-05-12_3-pm]]
-- [[2026-05-12_9_15-am]]
-- [[2026-05-15_3-pm]]
-- [[2026-05-26_3-pm]]
-- [[2026-05-26_9_15-am]]
-- [[2026-05-27_9_15-am]]
-- [[2026-05-28_9_15-am]]
-- [[2026-06-10_3-pm]]
-- [[meeting_2026-05-09_f997eacc-05a0-4332-a1fb-e4abcd25295f_deepgram]]
-- [[Session-2026-05-11]]
+- [[../04-Transcripts/stockbee/14. Sugar Babies Guide/Pradeep Bonde - Sugar Babies Guide-Part 10 - Sugar Babies Deeper Look_deepgram.md|Pradeep Bonde - Sugar Babies Guide-Part 10 - Sugar Babies Deeper Look_deepgram]]
+- [[../04-Transcripts/stockbee/2026-05-09_Unknown.md|2026-05-09_Unknown]]
+- [[../04-Transcripts/stockbee/2026-05-11_9_15-am.md|2026-05-11_9_15-am]]
+- [[../04-Transcripts/stockbee/2026-05-12_3-pm.md|2026-05-12_3-pm]]
+- [[../04-Transcripts/stockbee/2026-05-12_9_15-am.md|2026-05-12_9_15-am]]
+- [[../04-Transcripts/stockbee/2026-05-26_3-pm.md|2026-05-26_3-pm]]
+- [[../04-Transcripts/stockbee/2026-05-26_9_15-am.md|2026-05-26_9_15-am]]
+- [[../04-Transcripts/stockbee/2026-05-27_9_15-am.md|2026-05-27_9_15-am]]
+- [[../04-Transcripts/stockbee/2026-05-28_9_15-am.md|2026-05-28_9_15-am]]
+- [[../04-Transcripts/stockbee/2026-06-10_3-pm.md|2026-06-10_3-pm]]
+- [[../04-Transcripts/stockbee/Meetings/meeting_2026-05-09_f997eacc-05a0-4332-a1fb-e4abcd25295f_deepgram.md|meeting_2026-05-09_f997eacc-05a0-4332-a1fb-e4abcd25295f_deepgram]]
+- [[../04-Transcripts/stockbee/Meetings/meeting_2026-05-11_83b682df-be42-445a-86f0-1e35883cd1e0_deepgram.md|meeting_2026-05-11_83b682df-be42-445a-86f0-1e35883cd1e0_deepgram]]
+- [[../04-Transcripts/stockbee/Meetings/meeting_2026-05-12_33549df1-ba3f-4060-9ef9-d0a5ba2d3a42_deepgram.md|meeting_2026-05-12_33549df1-ba3f-4060-9ef9-d0a5ba2d3a42_deepgram]]
+- [[../04-Transcripts/stockbee/Meetings/meeting_2026-05-12_fb286cc9-8cd9-449d-8a3c-05a410b4ee97_deepgram.md|meeting_2026-05-12_fb286cc9-8cd9-449d-8a3c-05a410b4ee97_deepgram]]
+- [[../04-Transcripts/stockbee/Meetings/meeting_2026-05-26_5b33c95d-3732-4357-9dff-e775e6762872_deepgram.md|meeting_2026-05-26_5b33c95d-3732-4357-9dff-e775e6762872_deepgram]]
+- [[../04-Transcripts/stockbee/Meetings/meeting_2026-05-26_deeb04b7-ad02-49d3-bcbc-85d88f097d44_deepgram.md|meeting_2026-05-26_deeb04b7-ad02-49d3-bcbc-85d88f097d44_deepgram]]
+- [[../04-Transcripts/stockbee/Meetings/meeting_2026-05-27_31f7d66e-9b6f-46cd-aa84-84b2458f19dc_deepgram.md|meeting_2026-05-27_31f7d66e-9b6f-46cd-aa84-84b2458f19dc_deepgram]]
+- [[../04-Transcripts/stockbee/Meetings/meeting_2026-05-28_f6e4caec-00c3-4fb1-8971-720ad7851b3c_deepgram.md|meeting_2026-05-28_f6e4caec-00c3-4fb1-8971-720ad7851b3c_deepgram]]
+- [[../04-Transcripts/stockbee/transcript.md|transcript]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-05-09.md|Session-2026-05-09]]
