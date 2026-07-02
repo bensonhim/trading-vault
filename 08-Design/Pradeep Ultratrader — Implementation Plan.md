@@ -19,7 +19,7 @@ tags: [design, pradeep-ultratrader, stockbee, implementation, plan]
 | 4 | EP 9M Rebuild | ✅ COMPLETE | `0bafc6c` |
 | 5 | DEP Rebuild | ✅ COMPLETE | `246ac35` |
 | 6 | Intraday Daemon | ✅ COMPLETE | `7489004` |
-| 7 | Nightly Pipeline Integration | ⏳ PENDING | — |
+| 7 | Nightly Pipeline Integration | ✅ COMPLETE | `ec12bc3` |
 | 8 | OpenCode Agent Definition | ⏳ PENDING | — |
 | 9 | Trade Management | ⏳ PENDING | — |
 | 10 | Testing & Deployment | ⏳ PENDING | — |
@@ -377,7 +377,7 @@ Tomorrow's watchlist: 5 DEP candidates, 3 ANTS candidates
 
 ---
 
-## Wave 7: Nightly Pipeline Integration ⏳ PENDING
+## Wave 7: Nightly Pipeline Integration ✅ COMPLETE
 
 ### 7.1 Nightly Runner — Full Sequence
 **File:** `src/cli/nightly_runner.py` (rewrite)
