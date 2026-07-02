@@ -17,7 +17,7 @@ tags: [design, pradeep-ultratrader, stockbee, implementation, plan]
 | 2 | Sugar Baby Rebuild | ✅ COMPLETE | `567946e` |
 | 3 | SOS Rebuild | ✅ COMPLETE | `0582dc8` |
 | 4 | EP 9M Rebuild | ✅ COMPLETE | `0bafc6c` |
-| 5 | DEP Rebuild | ⏳ PENDING | — |
+| 5 | DEP Rebuild | ✅ COMPLETE | `246ac35` |
 | 6 | Intraday Daemon | ⏳ PENDING | — |
 | 7 | Nightly Pipeline Integration | ⏳ PENDING | — |
 | 8 | OpenCode Agent Definition | ⏳ PENDING | — |
@@ -275,7 +275,7 @@ Step 2:   Run all scans (using refreshed SB list)
 
 ---
 
-## Wave 5: DEP Rebuild ⏳ PENDING
+## Wave 5: DEP Rebuild ✅ COMPLETE
 
 ### 5.1 DEP Scan — Require Valid Pullback
 **File:** `src/scans/dep.py` (rewrite)
