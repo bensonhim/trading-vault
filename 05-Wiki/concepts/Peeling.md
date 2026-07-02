@@ -1,35 +1,40 @@
 ---
 title: "Peeling"
-date: 2026-06-11
+date: 2026-07-02
 tags: [concepts, wiki, auto-compiled]
-mention_count: 8
-sources_count: 7
+mention_count: 11
+sources_count: 9
 compilation_count: 1
 promote: false
 ---
 
 # Peeling
 
-*Concepts — compiled from 8 mentions across 7 sources.*
+*Concepts — compiled from 11 mentions across 9 sources.*
 
 ## Mentions
 
-> [02:14] Overall, my plan of action remains slow and deliberate risk taking on a plus quality, AP 9,000,000, and delete reaction setups, selling into strength and peeling to account for anticipated volatility from headline risk.
+> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 4.md|Bullish Momentum Burst Guide-Section 4]]: ### 8. Advanced: Peeling (80/20 Profit-Taking)
 
-> [01:28] Overall, my plan of action is slow and deliberate risk taking on A plus quality, $9,000,000 and delayed reaction setups, selling into strength and peeling to account for anticipated volatility from headline risk.
+> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 4.md|Bullish Momentum Burst Guide-Section 4]]: - Risk of peeling too early or at wrong time
 
-> [01:34] Overall, my plan of action remains slow and deliberate risk taking on a plus quality, AP 9,000,000, and delayed reaction setups, selling into strength and peeling to account for anticipated volatility from headline risk.
+> [[../../04-Transcripts/stockbee/2026-05-14_9_15-am.md|2026-05-14_9_15-am]]: Chemical peeling.
 
-> [54:10] Chemical peeling.
+> [[../../04-Transcripts/stockbee/2026-06-11_9_15-am.md|2026-06-11_9_15-am]]: That age get magnified if you buy using certain criteria qualifying criteria, like only focus on linear, only buy, in the first few minutes, if you buy early, you in a breakout, and then it gets magnified if you do peeling and if you do things.
 
-> [01:17] Overall, my plan of action is slow and deliberate risk taking on A plus quality, AP 9,000,000 and delayed reaction setups, selling into strength and peeling to account for anticipated volatility from headline risk.
+> [[../../04-Transcripts/stockbee/03. Bullish Momentum Burst/Pradeep Bonde - Bullish Momentum Burst Guide-Section 4_deepgram.md|Pradeep Bonde - Bullish Momentum Burst Guide-Section 4_deepgram]]: So that is what is called as peeling a position.
 
-> [01:57] Overall, my plan of action is slow and deliberate risk taking on A plus quality, AP 9,000,000 and delayed reaction setups, settling into strength and peeling to account for anticipated volatility from headline risk.
+> [[../../04-Transcripts/stockbee/14. Sugar Babies Guide/Pradeep Bonde - Sugar Babies Guide-Part 1 - Sugar babies who pay sugar daddies_deepgram.md|Pradeep Bonde - Sugar Babies Guide-Part 1 - Sugar babies who pay sugar daddies_deepgram]]: I'm not looking at peeling sugar babies very rapidly.
 
-> [01:34] Overall, my plan of action is slow and deliberate risk taking on A plus quality, AP 9,000,000 in delayed reaction setups, selling into strength, and peeling into account for anticipated volatility from headline risk.
+> [[../../04-Transcripts/stockbee/16. DEP Guide/Pradeep Bonde - DEP Guide-Part 2 - How to find Delayed Reactions EP_deepgram.md|Pradeep Bonde - DEP Guide-Part 2 - How to find Delayed Reactions EP_deepgram]]: I'm not looking for peeling these kind of stocks.
 
-> [70:04] I my peeling strategy is again, peeling also people have a lot of misconception about peeling.
+> [[../../04-Transcripts/stockbee/18. Mind Clarity Guide/Pradeep Bonde - Mind Clarity Guide-Part 1 - Mind Clarity for traders_deepgram.md|Pradeep Bonde - Mind Clarity Guide-Part 1 - Mind Clarity for traders_deepgram]]: You also need to do peeling.
 
+> [[../../04-Transcripts/stockbee/18. Mind Clarity Guide/Pradeep Bonde - Mind Clarity Guide-Part 1 - Mind Clarity for traders_deepgram.md|Pradeep Bonde - Mind Clarity Guide-Part 1 - Mind Clarity for traders_deepgram]]: You need to do peeling.
+
+> [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-14_82cc7373-fb7d-4ea0-aab2-460a98910e1f_deepgram.md|meeting_2026-05-14_82cc7373-fb7d-4ea0-aab2-460a98910e1f_deepgram]]: Chemical peeling.
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-11.md|Session-2026-06-11]]: - **Peeling strategy**: Oversize to 75% of account, peel at 10% profit, let remainder ride
 
 ## Related Concepts
 
@@ -41,10 +46,12 @@ promote: false
 
 ## Sources
 
-- [[2026-05-07_9_15_AM]]
-- [[2026-05-12_9_15-am]]
-- [[2026-05-14_9_15-am]]
-- [[2026-05-19_9_15-am]]
-- [[2026-05-20_9_15-am]]
-- [[2026-05-21_9_15-am]]
-- [[2026-05-28_9_15-am]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 4.md|Bullish Momentum Burst Guide-Section 4]]
+- [[../04-Transcripts/stockbee/03. Bullish Momentum Burst/Pradeep Bonde - Bullish Momentum Burst Guide-Section 4_deepgram.md|Pradeep Bonde - Bullish Momentum Burst Guide-Section 4_deepgram]]
+- [[../04-Transcripts/stockbee/14. Sugar Babies Guide/Pradeep Bonde - Sugar Babies Guide-Part 1 - Sugar babies who pay sugar daddies_deepgram.md|Pradeep Bonde - Sugar Babies Guide-Part 1 - Sugar babies who pay sugar daddies_deepgram]]
+- [[../04-Transcripts/stockbee/16. DEP Guide/Pradeep Bonde - DEP Guide-Part 2 - How to find Delayed Reactions EP_deepgram.md|Pradeep Bonde - DEP Guide-Part 2 - How to find Delayed Reactions EP_deepgram]]
+- [[../04-Transcripts/stockbee/18. Mind Clarity Guide/Pradeep Bonde - Mind Clarity Guide-Part 1 - Mind Clarity for traders_deepgram.md|Pradeep Bonde - Mind Clarity Guide-Part 1 - Mind Clarity for traders_deepgram]]
+- [[../04-Transcripts/stockbee/2026-05-14_9_15-am.md|2026-05-14_9_15-am]]
+- [[../04-Transcripts/stockbee/2026-06-11_9_15-am.md|2026-06-11_9_15-am]]
+- [[../04-Transcripts/stockbee/Meetings/meeting_2026-05-14_82cc7373-fb7d-4ea0-aab2-460a98910e1f_deepgram.md|meeting_2026-05-14_82cc7373-fb7d-4ea0-aab2-460a98910e1f_deepgram]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-06-11.md|Session-2026-06-11]]

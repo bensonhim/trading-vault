@@ -1,77 +1,98 @@
 ---
 title: "Momentum Burst"
-date: 2026-06-11
+date: 2026-07-02
 tags: [concepts, wiki, auto-compiled]
-mention_count: 29
-sources_count: 17
+mention_count: 921
+sources_count: 245
 compilation_count: 1
 promote: false
 ---
 
 # Momentum Burst
 
-*Concepts — compiled from 29 mentions across 17 sources.*
+*Concepts — compiled from 921 mentions across 245 sources.*
 
 ## Mentions
 
-> [02:59] And, basically, secondary focus is momentum burst, and, anticipation reversal, which are the same setups.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: **Mutual Exclusivity Rule:** Remove Bucket Zero names from Bucket One; remove Bucket Zero + One names from Bucket Two. This produces three non-overlapping watchlists.
 
-> [21:14] And then she started doing the same thing, e p, p n I, and momentum burst and things like that.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: - Run **9M breakout scan** daily
 
-> [39:18] And, basically, if you read his thing in that interview, he clearly states, like, when he does momentum burst kind of a trading, what does he do?
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: - [[Bullish Momentum Burst Guide-Section 1|Bullish Momentum Burst Guide — BMB Setup]]
 
-> [40:08] People claiming that KQ no more risk trading like any momentum burst.
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: - **Exits**: 80/20 sell into strength; 3-5 day hold for momentum burst
 
-> [41:12] We are going through our momentum burst here.
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: | **Meta breakout** | Momentum burst | 2% breakout on mega-cap → 1.37% stop → can put 60% of account. High price + liquidity = large size, low risk |
 
-> [41:15] And a three to five days kind of a momentum burst.
+> [[../../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]: 3. **Trade only in the last 5–15 minutes.** Run the scan at 3:00–3:30 PM, but enter at 3:50–3:58. Waiting ensures the candle shape is confirmed.
 
-> [63:38] Is there a momentum burst in that stock?
+> [[../../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]: 4. **If it doesn't work the next day, move on.** Do not overstay. These are momentum burst trades, not long-term holds.
 
-> [37:24] If you're trading momentum burst, you don't need to.
+> [[../../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]: | **Hold time** | 3–5 days (momentum burst horizon) |
 
-> [56:47] Everything just plain momentum burst is also deep.
+> [[../../03-Guides/stockbee/23. Bearish Trading Guide.md|23. Bearish Trading Guide]]: - Sort your momentum ranking list (e.g., 25-day momentum) by **lowest momentum**
 
-> [22:52] I think whenever I see things like this, most of the time, my first reaction to this is, will it work as a momentum burst?
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 2.md|How to Get Started In Trading Guide-Part 2]]: - Position traders must **embrace** volatility. A 30–40% drawdown is normal. Jim Ruppel's service, for example, shows 30% gains followed by giving it all back.
 
-> [28:58] JLAD Science, that's just a plain old, momentum burst kind of a setup.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 2.md|How to Get Started In Trading Guide-Part 2]]: ### 7. Can You Combine Styles?
 
-> [23:24] And a momentum burst and e p 9,000,000.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 4.md|How to Get Started In Trading Guide-Part 4]]: ### 8. Start With ONE Setup — Momentum Burst
 
-> [06:55] So the secondary focus is momentum burst and send reversals.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 4.md|How to Get Started In Trading Guide-Part 4]]: - "I myself make 90% of my money on just trading momentum burst."
 
-> [81:36] So, but what happens is, like, in a people understand 10% or 20% of a setup, or they don't want to, like, in a what they want to do is take the setup idea of momentum burst, which is a three to five day setup idea from here.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]: - "It's no more even closely resembling what he was doing. But he was very successful."
 
-> [83:23] If you're holding a straight, which is momentum burst, you put a stop at low of the day or half of the day, right, and you exit on third day.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]: ### 12. Momentum Burst Doesn't Need Resistance
 
-> [18:00] Are you trading momentum burst?
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 7.md|How to Get Started In Trading Guide-Part 7]]: > "Within growth, I would do a combination of... new growth."
 
-> [18:09] If you are, like, in a male Ronan kind of a thing or if you are trading momentum burst, obviously, if you are 22% in two days, what do you do?
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 8.md|How to Get Started In Trading Guide-Part 8]]: - QQQ spent **15 years going nowhere** after the 2000 dot-com bubble
 
-> [32:20] And if it doesn't work in three days, like, and if it is momentum burst.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md|How to Trade Breakouts Guide-Part 1]]: > "When we use the term breakout, it means: percentage change today is greater than percentage change in last two to five days."
 
-> [38:58] Recommended with you, terms and acronym, or you will see in the guides also how to get started in trading, how to trade breakout, momentum burst, t I sixty five twenty two, and so on and so forth.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md|How to Trade Breakouts Guide-Part 1]]: | **Bottom bounce** | Downtrend → big range-expansion day up | 20–25% | 10–20 days |
 
-> [51:51] Plus, if you are using the things like an AP 9,000,000 momentum burst, this thing.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md|How to Trade Breakouts Guide-Part 1]]: #### B. Bottom Bounces
 
-> [00:53] My essay this morning is is cautious, expecting increased volatility following Friday's momentum burst to the downside as the market digested a stronger than expected May employment report, raising concerns that the Fed will raise interest rates soon.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md|How to Trade Breakouts Guide-Part 1]]: | Bottom bounce | 20–25% in 10–20 days | N/A |
 
-> [49:31] Mom burst momentum burst, which is like a 4% breakout or a dollar breakout.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md|How to Trade Breakouts Guide-Part 1]]: 2. **Three types:** continuation (2-leg), bottom bounce, consolidation breakout. Each has different profit potential and hold period.
 
-> [00:30] One is what is called as e p, e p nine, d p, SugarWavies, which are all for home runs, mini home runs, and then momentum burst, which is for singles.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md|How to Trade Breakouts Guide-Part 1]]: - Bottom bounce: 20–25% (10–20 days)
 
-> Secondary: Momentum Burst, Anticipation, Reversal.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 2.md|How to Trade Breakouts Guide-Part 2]]: ### 1. Three Types Reviewed — Bottom Bounce, Continuation, Consolidation
 
-> Pradeep addressed the misinformation swirling around KQ's methodology: > "He clearly states: when he does momentum burst trading, he sells in 3 to 5 days.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 2.md|How to Trade Breakouts Guide-Part 2]]: **Bottom bounce:**
 
-> People claiming KQ no longer trades momentum burst — it's all marketing for his book." A lengthy teaching moment on RMAX and EBAY: > "If they're going to buy eBay at $109, why would this stock go up after that?
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 2.md|How to Trade Breakouts Guide-Part 2]]: - Three data points vs. zero for bottom bounces
 
-> > "If you're going to trade momentum burst or any setup, buy the tightest pants possible.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 2.md|How to Trade Breakouts Guide-Part 2]]: | Bottom bounce | YES (somewhat) | Buying at start of potential new move. May have 2–3 legs. |
 
-> Momentum burst = 3-5 day hold.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 2.md|How to Trade Breakouts Guide-Part 2]]: **When do you find lots of bottom bounces?**
 
-> Q: Should I peel (take profits) or hold? > "Are you trading momentum burst?
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 2.md|How to Trade Breakouts Guide-Part 2]]: - By end of day: 1,700–2,000 stocks in combination scan
 
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 2.md|How to Trade Breakouts Guide-Part 2]]: 2. **Bottom bounces cluster at market bottoms.** Rare (once in 2 years). Consolidation breakouts cluster in late bull markets. Continuation breakouts happen all the time.
+
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 3.md|How to Trade Breakouts Guide-Part 3]]: | 1–4 weeks | Bottom bounce | Index components (more stable) |
+
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 3.md|How to Trade Breakouts Guide-Part 3]]: - React to breakout in real-time (or use combination scan)
+
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 3.md|How to Trade Breakouts Guide-Part 3]]: | **Bottom bounce** | Sort 521 stocks by worst YTD, build 50–60 list | Watch list for big up-day breakout | 1–4 weeks |
+
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 3.md|How to Trade Breakouts Guide-Part 3]]: - Bottom bounce → 1–4 weeks
+
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 3.md|How to Trade Breakouts Guide-Part 3]]: - Bottom bounce: Sort by worst momentum → 50–60 names
+
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 5.md|How to Trade Breakouts Guide-Part 5]]: > "By choice they are selecting not to trade certain kind of bottom bounces."
+
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 5.md|How to Trade Breakouts Guide-Part 5]]: - **Bottom bounces** — no stock near highs meets this criteria
+
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 5.md|How to Trade Breakouts Guide-Part 5]]: 8. **Combine with volume filter (Part 4) for working people.** Bucket Zero + highest volume in 252 days = very few stocks, very high conviction, hold longer.
+
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 6.md|How to Trade Breakouts Guide-Part 6]]: The breakout setup (bottom bounce / continuation / consolidation) is **unchanged**. What changes is:
+
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 6.md|How to Trade Breakouts Guide-Part 6]]: 2. Apply standard breakout scan (combination bullish)
 
 ## Related Concepts
 
@@ -83,20 +104,23 @@ promote: false
 
 ## Sources
 
-- [[2026-05-04_9_15-am]]
-- [[2026-05-07_3-pm]]
-- [[2026-05-11_9_15-am]]
-- [[2026-05-14_3-pm]]
-- [[2026-05-22_3-pm]]
-- [[2026-05-26_3-pm]]
-- [[2026-05-26_9_15-am]]
-- [[2026-05-28_9_15-am]]
-- [[2026-06-01_3-pm]]
-- [[2026-06-03_9_15-am]]
-- [[2026-06-08_9_15-am]]
-- [[2026-06-09_9_15-am]]
-- [[2026-06-10_3-pm]]
-- [[Session-2026-05-04]]
-- [[Session-2026-05-05]]
-- [[Session-2026-05-28]]
-- [[Session-2026-06-01]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 2.md|How to Get Started In Trading Guide-Part 2]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 4.md|How to Get Started In Trading Guide-Part 4]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 7.md|How to Get Started In Trading Guide-Part 7]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 8.md|How to Get Started In Trading Guide-Part 8]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md|How to Trade Breakouts Guide-Part 1]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 2.md|How to Trade Breakouts Guide-Part 2]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 3.md|How to Trade Breakouts Guide-Part 3]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 5.md|How to Trade Breakouts Guide-Part 5]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 6.md|How to Trade Breakouts Guide-Part 6]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 7.md|How to Trade Breakouts Guide-Part 7]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 1.md|Bullish Momentum Burst Guide-Section 1]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 2.md|Bullish Momentum Burst Guide-Section 2]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 3.md|Bullish Momentum Burst Guide-Section 3]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 4.md|Bullish Momentum Burst Guide-Section 4]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 5.md|Bullish Momentum Burst Guide-Section 5]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 6.md|Bullish Momentum Burst Guide-Section 6]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 7.md|Bullish Momentum Burst Guide-Section 7]]
+- [[../03-Guides/stockbee/04. TI65 Guide/04. TI65 Guide.md|04. TI65 Guide]]
+- [[../03-Guides/stockbee/05. M20 Guide/05. M20 Guide.md|05. M20 Guide]]

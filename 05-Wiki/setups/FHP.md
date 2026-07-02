@@ -1,87 +1,98 @@
 ---
 title: "FHP"
-date: 2026-06-11
+date: 2026-07-02
 tags: [setups, wiki, auto-compiled]
-mention_count: 34
-sources_count: 20
+mention_count: 384
+sources_count: 90
 compilation_count: 1
 promote: false
 ---
 
 # FHP
 
-*Setups — compiled from 34 mentions across 20 sources.*
+*Setups — compiled from 384 mentions across 90 sources.*
 
 ## Mentions
 
-> [18:39] This is like a low threshold, high priced stocks.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md|How to Trade Breakouts Guide-Part 1]]: **High-priced stocks vs low-priced stocks require different risk tolerance:**
 
-> [21:55] Crowd kind of things which are high priced and all.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md|How to Trade Breakouts Guide-Part 1]]: | **High-priced** ($50+) | 2–5% | 1–2.5% | 2.5% max risk per trade |
 
-> [54:42] It's like an so these are boring, high priced stocks, right, and those earnings here.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md|How to Trade Breakouts Guide-Part 1]]: **Why Pradeep focuses on high-priced stocks:**
 
-> [70:12] For high priced stocks, $550 and low priced stocks, eight to 20%.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md|How to Trade Breakouts Guide-Part 1]]: > "If I'm putting my stop at half of the day, that means typically breakout of 5% or less. And as a result, most of the things which I do is high priced."
 
-> [74:07] And I this is not something which I would get involved at all as a FHP.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md|How to Trade Breakouts Guide-Part 1]]: 7. **High-priced stocks = smaller risk.** If you want 2.5% risk, trade $50+ stocks. Sub-$10 stocks require 8–10% stops.
 
-> [74:18] And even if you are doing FHP, look for a tighter action.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 3.md|How to Trade Breakouts Guide-Part 3]]: - He selects **high-priced stocks** ($40+, often $300+ during 2020)
 
-> [52:11] FHP kind of a thing.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 3.md|How to Trade Breakouts Guide-Part 3]]: - "Because he's selecting high-priced stocks, he can hold this for that time period. If he was trading $5 or $6 stock, do you think he will be able to hold it for this kind of duration?"
 
-> [02:32] This is again, like, in a market reacted positively to earning high price stock FHP, Union Pacific.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 3.md|How to Trade Breakouts Guide-Part 3]]: | 3–6 weeks | Consolidation breakout | High-priced ($40+), lower volatility, liquid |
 
-> [02:59] If Chinese stocks are breaking out, so BABA and monolithic power, high priced stocks.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 3.md|How to Trade Breakouts Guide-Part 3]]: 2. **Dan Zanger's secret is not a ratio — it's the process.** High-priced stocks ($40+) → lower volatility → $1–2 stops → can hold for weeks. His average hold: 4–6 weeks, not months.
 
-> [49:23] What is the FSP scan, Volition, where it just see my video from last week where I explained what is the scan for FHP.
+> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 1.md|Bullish Momentum Burst Guide-Section 1]]: 2. **Duration:** 3–5 days for low-priced stocks, 6–12+ days for high-priced stocks
 
-> [49:31] And then there is no minus three dollar involved in FHP.
+> [[../../03-Guides/stockbee/05. M20 Guide/05. M20 Guide.md|05. M20 Guide]]: Or for high-priced stocks:
 
-> [29:57] Why do you want to do high priced stocks?
+> [[../../03-Guides/stockbee/05. M20 Guide/05. M20 Guide.md|05. M20 Guide]]: Or for high-priced stocks:
 
-> [30:10] So if I get into z scale as a FHP, right, it's already a 5%.
+> [[../../03-Guides/stockbee/05. M20 Guide/05. M20 Guide.md|05. M20 Guide]]: **Example:** AutoZone at $2,500. It only needs to go up $20 (less than 1%) to trigger M20. This is why high-priced stocks show up quickly in the **$20 version**.
 
-> [01:32] Now, basically, that looks like trying to break out, like, high priced stock.
+> [[../../03-Guides/stockbee/15. Start of a Swing Guide/15. Start of a Swing Guide.md|15. Start of a Swing Guide]]: | 9 | $ Breakout (FHP) | Dollar breakout for high-priced, low-volatility institutional stocks |
 
-> [46:55] High priced stock like in a FHP.
+> [[../../03-Guides/stockbee/15. Start of a Swing Guide/15. Start of a Swing Guide.md|15. Start of a Swing Guide]]: | 11 | Mind Clarity Dollar Breakout | FHP as stock selection; thinking in dollars, not percentages |
 
-> [01:04] There remained some selling in high priced stock.
+> [[../../03-Guides/stockbee/15. Start of a Swing Guide/15. Start of a Swing Guide.md|15. Start of a Swing Guide]]: ### 4.2 $ Breakout / FHP (Focus on High Priced)
 
-> [52:51] I'm not going to go into anything which is like an at least trades a million shares unless it's a high priced stock kind of a thing.
+> [[../../03-Guides/stockbee/15. Start of a Swing Guide/15. Start of a Swing Guide.md|15. Start of a Swing Guide]]: For **high-priced stocks ($60+)** with different behavior:
 
-> [18:23] It's a high priced stock.
+> [[../../03-Guides/stockbee/15. Start of a Swing Guide/15. Start of a Swing Guide.md|15. Start of a Swing Guide]]: **Characteristics of FHP stocks:**
 
-> [23:54] That's a high priced stock.
+> [[../../03-Guides/stockbee/15. Start of a Swing Guide/15. Start of a Swing Guide.md|15. Start of a Swing Guide]]: > "The advantage of high-priced stocks is very clear: moves persist, low risk, likelihood of getting shaken out is lower. Most people don't trade them because retail traders are not wired to think high-priced stocks." — *Part 9*
 
-> [34:49] So then you have two things which you can look at, like in a, caterpillar if you're looking for high priced stock, maybe.
+> [[../../03-Guides/stockbee/15. Start of a Swing Guide/15. Start of a Swing Guide.md|15. Start of a Swing Guide]]: **FHP as stock selection:**
 
-> [75:44] And it's a high priced stock.
+> [[../../03-Guides/stockbee/15. Start of a Swing Guide/15. Start of a Swing Guide.md|15. Start of a Swing Guide]]: 7. **$ Breakout / FHP is for high-priced stocks ($60+).** Institutional-dominated, linear moves, lower volatility. Sort by % change ascending to find lowest-risk entries.
 
-> [51:53] These are high priced stock.
+> [[../../03-Guides/stockbee/15. Start of a Swing Guide/15. Start of a Swing Guide.md|15. Start of a Swing Guide]]: 8. **Think in dollars, not percentages, for FHP.** "Risking $2 to make $10" is clearer than "risking 2% to make 10%."
 
-> [51:55] If you want to go FHP, I'm not really in a mood to get into those kind of thing, Cisco.
+> [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: | **FHP** (High-priced stocks) | Tighter % stops → larger size |
 
-> [58:53] And it's a breakout on a high priced stock.
+> [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: ## Part 13: Dollar Breakout FHP — Stock Selection for Grinding
 
-> [62:03] If you like those kind of stocks, yes, a high priced stock like we're making.
+> [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: ### FHP Definition
 
-> [62:46] It's just a FHP.
+> [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: **Focus on High Priced stocks** (>$60) as a **stock selection strategy** (not a setup). It exploits a structural inefficiency: retail ignores high-priced stocks, yet they offer superior risk/reward for grinding.
 
-> [62:48] And it's a FHP.
+> [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: ### Why FHP Works
 
-> [29:12] I know that's, high priced, this thing.
+> [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: | Characteristic | Low-Priced Stocks | High-Priced (FHP) |
 
-> [05:40] So built in size, FSS, focus on sales stars, organized like crazy, sips, stocks in play, focus on high priced stocks.
+> [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: - Naturally filters for high-priced stocks with momentum
 
-> [47:28] It's a high priced stock, like, and it's boring industry.
+> [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: ### FHP Examples
 
-> [43:02] So DXCM has a DXCM has a high priced stock, but, like, an eight was breaking out here, faded.
+> [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: Stock Selection (FHP → WHERE do I focus?)
 
-> [36:56] And a high priced also.
+> [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: ### FHP (Stock Selection)
 
-> It's working well — Pradeep holds a full position (not 80/20) because it's a high-priced, clean setup.
+> [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: ### 4. FHP Deep Dive
 
-> Now I'll move on and find something else." Only one stood out: MSI — not in AI, high-priced, clean setup.
+> [[../../04-Transcripts/stockbee/2026-05-01_3-pm.md|2026-05-01_3-pm]]: This is like a low threshold, high priced stocks.
 
+> [[../../04-Transcripts/stockbee/2026-05-01_3-pm.md|2026-05-01_3-pm]]: Crowd kind of things which are high priced and all.
+
+> [[../../04-Transcripts/stockbee/2026-05-01_3-pm.md|2026-05-01_3-pm]]: It says mind clarity FHP at 8PM.
+
+> [[../../04-Transcripts/stockbee/2026-05-01_9_15-am.md|2026-05-01_9_15-am]]: It's like an so these are boring, high priced stocks, right, and those earnings here.
+
+> [[../../04-Transcripts/stockbee/2026-05-01_9_15-am.md|2026-05-01_9_15-am]]: So this kind of, like, an FHP kind of stocks can also make a move, But, the market has more DEP and EPS kind of things here right away.
+
+> [[../../04-Transcripts/stockbee/2026-05-01_9_15-am.md|2026-05-01_9_15-am]]: For high priced stocks, $550 and low priced stocks, eight to 20%.
+
+> [[../../04-Transcripts/stockbee/2026-05-04_9_15-am.md|2026-05-04_9_15-am]]: There are ways to look at slower things like FHP or, like, institutional quality things and, get.
 
 ## Related Concepts
 
@@ -93,23 +104,23 @@ promote: false
 
 ## Sources
 
-- [[2026-05-01_3-pm]]
-- [[2026-05-01_9_15-am]]
-- [[2026-05-04_9_15-am]]
-- [[2026-05-05_3-pm]]
-- [[2026-05-06_3-pm]]
-- [[2026-05-07_9_15_AM]]
-- [[2026-05-13_3-pm]]
-- [[2026-05-14_3-pm]]
-- [[2026-05-19_9_15-am]]
-- [[2026-05-21_9_15-am]]
-- [[2026-05-22_3-pm]]
-- [[2026-05-26_3-pm]]
-- [[2026-05-26_9_15-am]]
-- [[2026-05-27_9_15-am]]
-- [[2026-06-01_3-pm]]
-- [[2026-06-03_9_15-am]]
-- [[2026-06-08_9_15-am]]
-- [[2026-06-10_3-pm]]
-- [[Session-2026-05-26]]
-- [[Session-2026-06-10]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md|How to Trade Breakouts Guide-Part 1]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 3.md|How to Trade Breakouts Guide-Part 3]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 1.md|Bullish Momentum Burst Guide-Section 1]]
+- [[../03-Guides/stockbee/05. M20 Guide/05. M20 Guide.md|05. M20 Guide]]
+- [[../03-Guides/stockbee/15. Start of a Swing Guide/15. Start of a Swing Guide.md|15. Start of a Swing Guide]]
+- [[../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]
+- [[../04-Transcripts/stockbee/01. How to Get Started/Pradeep Bonde - How to Get Started In Trading Guide-Part 6_deepgram.md|Pradeep Bonde - How to Get Started In Trading Guide-Part 6_deepgram]]
+- [[../04-Transcripts/stockbee/02. How to Trade Breakouts/Pradeep Bonde - How to Trade Breakouts Guide-Part 1_deepgram.md|Pradeep Bonde - How to Trade Breakouts Guide-Part 1_deepgram]]
+- [[../04-Transcripts/stockbee/02. How to Trade Breakouts/Pradeep Bonde - How to Trade Breakouts Guide-Part 2_deepgram.md|Pradeep Bonde - How to Trade Breakouts Guide-Part 2_deepgram]]
+- [[../04-Transcripts/stockbee/02. How to Trade Breakouts/Pradeep Bonde - How to Trade Breakouts Guide-Part 3_deepgram.md|Pradeep Bonde - How to Trade Breakouts Guide-Part 3_deepgram]]
+- [[../04-Transcripts/stockbee/02. How to Trade Breakouts/Pradeep Bonde - How to Trade Breakouts Guide-Part 7_deepgram.md|Pradeep Bonde - How to Trade Breakouts Guide-Part 7_deepgram]]
+- [[../04-Transcripts/stockbee/03. Bullish Momentum Burst/Pradeep Bonde - Bullish Momentum Burst Guide-Section 1_deepgram.md|Pradeep Bonde - Bullish Momentum Burst Guide-Section 1_deepgram]]
+- [[../04-Transcripts/stockbee/03. Bullish Momentum Burst/Pradeep Bonde - Bullish Momentum Burst Guide-Section 6_deepgram.md|Pradeep Bonde - Bullish Momentum Burst Guide-Section 6_deepgram]]
+- [[../04-Transcripts/stockbee/03. Bullish Momentum Burst/Pradeep Bonde - Bullish Momentum Burst Guide-Section 7_deepgram.md|Pradeep Bonde - Bullish Momentum Burst Guide-Section 7_deepgram]]
+- [[../04-Transcripts/stockbee/05. M20/Pradeep Bonde - M20 Guide-Part 2_deepgram.md|Pradeep Bonde - M20 Guide-Part 2_deepgram]]
+- [[../04-Transcripts/stockbee/05. M20/Pradeep Bonde - M20 Guide-Part 4_deepgram.md|Pradeep Bonde - M20 Guide-Part 4_deepgram]]
+- [[../04-Transcripts/stockbee/05. M20/Pradeep Bonde - M20 Guide-Part 6_deepgram.md|Pradeep Bonde - M20 Guide-Part 6_deepgram]]
+- [[../04-Transcripts/stockbee/14. Sugar Babies Guide/Pradeep Bonde - Sugar Babies Guide-Part 3 - Working People (part 2)_deepgram.md|Pradeep Bonde - Sugar Babies Guide-Part 3 - Working People (part 2)_deepgram]]
+- [[../04-Transcripts/stockbee/14. Sugar Babies Guide/Pradeep Bonde - Sugar Babies Guide-Part 4 - Working People (part 3)_deepgram.md|Pradeep Bonde - Sugar Babies Guide-Part 4 - Working People (part 3)_deepgram]]
+- [[../04-Transcripts/stockbee/15. Start of a Swing Guide/Pradeep Bonde - Start of a Swing Guide-Part 1 - Start of a Swing (2024)_deepgram.md|Pradeep Bonde - Start of a Swing Guide-Part 1 - Start of a Swing (2024)_deepgram]]

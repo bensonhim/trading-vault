@@ -1,93 +1,98 @@
 ---
 title: "Breakout"
-date: 2026-06-14
+date: 2026-07-02
 tags: [setups, wiki, auto-compiled]
-mention_count: 37
-sources_count: 6
+mention_count: 4221
+sources_count: 320
 compilation_count: 1
 promote: false
 ---
 
 # Breakout
 
-*Setups — compiled from 37 mentions across 6 sources.*
+*Setups — compiled from 4221 mentions across 320 sources.*
 
 ## Mentions
 
-> (2) Should I trade bullish breakouts or bearish shorts?
+> [[../../03-Guides/stockbee/19. Deep Dive Guide.md|19. Deep Dive Guide]]: | **7** | **20% Study** | Nearly all 20% moves started with a **4% breakout** on day one. | Foundation of Pradeep's signal set. |
 
-> you add up the five days of 4% breakout and divide that by the five days cumulative of down breakout." — Part 3 > "When the ratio is two, it tells you there's two times more buying happening than selling...
+> [[../../03-Guides/stockbee/19. Deep Dive Guide.md|19. Deep Dive Guide]]: - Was it a 4% breakout?
 
-> The primary indicator (quarterly 25% up/down) is the core signal — green = trade breakouts, red = trade shorts.
+> [[../../03-Guides/stockbee/19. Deep Dive Guide.md|19. Deep Dive Guide]]: Save the annotated image. Write 1–3 bullet observations per chart. Example: *"Start of swing = 4% breakout. Combo scan would have caught it. Below 50‑day MA. Neglected 3 months."*
 
-> The core concept: find stocks that have had the most 4% breakouts with 9M+ volume over a long lookback period (ideally 1,450 days in TC2000).
+> [[../../03-Guides/stockbee/19. Deep Dive Guide.md|19. Deep Dive Guide]]: - 90% of successful swings started with a 4% breakout.
 
-> at the time of their breakout, they have 9M volume.
+> [[../../03-Guides/stockbee/19. Deep Dive Guide.md|19. Deep Dive Guide]]: | **Morning mini dive** | Daily (first 15 min) | Review *20% study* and *50% study* in TC2000. Count how many started with 4% breakout. Note any new pattern. |
 
-> You'll see these stocks had three 9M breakouts in the last five days.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: If setup selection answers *"Where do I buy and sell?"*, stock selection answers *"What do I buy?"*. The same breakout on a random $15B slow-moving industrial will produce a 3% pop; the same breakout on a neglected sub-$1B story stock with 9M volume can produce a 50–200% move.
 
-> The core metric: 4% breakout + 9M volume, counted over 1,450 days.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: - Swing traders need themes, catalysts, and 9M breakouts.
 
-> You cannot always explain why — but you can measure it by counting breakouts.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: - Run **9M breakout scan** daily
 
-> [02:26] And but, yes, it is a breakout.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: > *"9M breakout is more important than whether there is earnings or sales. I select delayed reaction on stocks with 9M breakout because it automatically allows you to find thematic stocks."*
 
-> [05:04] And the all the breakouts which are viable was yesterday.
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: 1. Situational Awareness: answer the only question that matters — "Are breakouts likely to work?"
 
-> [05:27] Those good breakouts happened yesterday.
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: - Laser focus. Most breakouts happen in the first 15-20 minutes.
 
-> [09:49] And I and you had real breakouts happening yesterday.
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: | **Meta breakout** | Momentum burst | 2% breakout on mega-cap → 1.37% stop → can put 60% of account. High price + liquidity = large size, low risk |
 
-> [09:53] You had breakouts like this happening s and d k.
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: - [ ] Own recent trades: last 3-4 breakouts worked or failed?
 
-> [13:54] I don't even see a reason to get involved in most of these breakouts also because they're just not, like, in a really something yeah.
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: - [ ] Answer: "Are breakouts likely to work?" → Yes / Maybe / No
 
-> [32:37] And that's a good breakout like any maybe 9,000,000 yesterday.
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: | FOMO on random breakouts outside watch list | Watching scans instead of a curated list | Operate from watch list; accept missing random movers |
 
-> [39:12] That was also yesterday breakout.
+> [[../../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]: 9. **Process timing.** 3:30–4:00 PM is the ideal window because morning hours are for SIPs, EPs, and breakouts. Reversals fill the otherwise dead afternoon time.
 
-> [42:29] If you bought a new yesterday, yesterday was the breakout.
+> [[../../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]: > "When the market gets range bound, you can get frustrated and get chopped out by buying breakouts. Or you can shift your focus to trading something which is like a reversal."
 
-> [48:32] Everything starts breaking out in same day, and, like and if you blink, you're left like an a Okta is trying to make a breakout, but it's been a continuous disappointment.
+> [[../../03-Guides/stockbee/23. Bearish Trading Guide.md|23. Bearish Trading Guide]]: 3. **Use the afternoon and last hour for shorting.** Pradeep's morning is reserved for EPs, SIPs, and breakouts. Short execution is a second-half-of-day activity, often between 2 PM and 3:45 PM.
 
-> [51:58] This is a breakout, right, if you want to get into a continuation setup kind of a thing.
+> [[../../03-Guides/stockbee/23. Bearish Trading Guide.md|23. Bearish Trading Guide]]: | **9:30 AM – 10:30 AM** | Long breakouts, SIPs, EPs |
 
-> [62:40] Again, this is, like, an there is no breakout here, my friend.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 3.md|How to Get Started In Trading Guide-Part 3]]: | **Mark Minervini** | Anticipation (VCP), breakouts, pullbacks | Calls it "Volatility Contraction Pattern" |
 
-> [63:06] You are just like in a a see, there is no breakout.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 3.md|How to Get Started In Trading Guide-Part 3]]: | **Almost every swing trader on YouTube** | Breakouts or pullbacks on growth stocks | Different names, same core |
 
-> [01:51] Five hundred day and three hundred plus day breakouts working till you see negative breath thrust.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 3.md|How to Get Started In Trading Guide-Part 3]]: 2. **Anticipation** (buying in consolidation before the breakout)
 
-> [07:42] I think that Affirm is the one which, like and, obviously, it needs some sort of a breakout, right, and I too because it's a thing.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 3.md|How to Get Started In Trading Guide-Part 3]]: - **Can you buy breakouts?** If yes → master breakouts first. Everything else flows from there.
 
-> [08:22] Lot of them had a breakout yesterday.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 3.md|How to Get Started In Trading Guide-Part 3]]: **One thing at a time.** Make ONE setup work. Then add others. If you can make breakouts work, pullbacks and anticipation will naturally make sense later. They're all connected.
 
-> [09:41] And a lot of breakouts yesterday from Azure Webex.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 3.md|How to Get Started In Trading Guide-Part 3]]: Some people will **never** be able to buy breakouts. They see a stock up $9 (like Roku) and think "it's too late." That's personality, not skill. For them, pullbacks or anticipation is the path.
 
-> [18:36] Let's wait for a proper breakout and then go.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 3.md|How to Get Started In Trading Guide-Part 3]]: Conversely, people who say "you should never buy a breakout, always use a watchlist" are really saying: **"My personality can't react to a scan and buy something I haven't researched."** That's fine — but don't universalize your personality constraint as a trading law.
 
-> [21:38] And, basically means, if you want to do undercut and rally, I do have a scan which you can use, which is called low threshold breakout.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 3.md|How to Get Started In Trading Guide-Part 3]]: 1. **Pick ONE thing** (e.g., "swing trading breakouts")
 
-> [37:04] So I'm not fading now, but, like, in a this if it sticks, this breakout right away, it can, like, and I make a move.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 3.md|How to Get Started In Trading Guide-Part 3]]: Even **after** he was profitable, he kept thinking "somebody has got something else" and kept spending money looking for the secret — **there is no secret.** Every successful trader is doing breakouts, pullbacks, or anticipation.
 
-> [38:43] That's a good breakout.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 4.md|How to Get Started In Trading Guide-Part 4]]: **The principle:** Make ONE thing work first. Only then add others. If you try to learn breakouts, anticipation, pullbacks, and EPs all at once, you'll master none.
 
-> [42:31] All the good breakouts happened three days ago.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]: > "If you survey 100,000 swing traders or study the methods of 100,000 swing traders, the number one setup which will show up in most people's thing, vast majority, I would say like 90% of them will be breakout."
 
-> [64:34] It's got a nice breakout, Tesla.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]: | **Breakout** | High volume → stock makes new high → buy the move | ~90% of profitable traders |
 
-> [71:06] Do I hold any breakout?
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]: | **Anticipation** | Build a watchlist → watch for signals → enter when breakout conditions emerge | Some, but they still end up buying breakouts |
 
-> [73:52] And if it like, and it's a I would, I would like in a really become more aggressive on it if it has volume also today, up, like and if it becomes a 4% breakout with volume.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]: **What falls under anticipation, repackaged:** Flags, "watchlist then execute" methods. Pradeep's own anticipation setups are essentially watching for conditions and then buying the breakout signal — not predicting before it happens.
 
-> > "All the breakouts which were viable was yesterday.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]: ### 2. Breakout Is #1 — By a Massive Margin
 
-> Those good breakouts happened yesterday." > "Now we are just looking at the leftovers.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]: > "High volume breakout is the most widely used setup in the trading world. There is no other setup which is going to be as widely used as a high volume breakout."
 
-> You had real breakouts happening yesterday.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]: The basic high volume breakout is simple:
 
-> Yesterday was the day — After a broad breakout day, the next day offers slim pickings.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]: - You **buy the breakout** and **put a stop below the consolidation**
 
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]: > "Just make breakouts work. Make high volume breakout work. That's as simple as that."
+
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]: Breakouts don't need to be 100% accurate. Pradeep is explicit: **if 50% of your breakouts work and you put proper stops, you still make money.** There is nothing in trading that works 100% of the time. You don't need perfection. You need to be good enough at one thing.
+
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]: **Key nuance — breakout doesn't require an uptrend or resistance:**
 
 ## Related Concepts
 
@@ -99,9 +104,23 @@ promote: false
 
 ## Sources
 
-- [[11. Market Monitor Guide]]
-- [[14. Sugar Babies Guide]]
-- [[2026-06-12_3-pm]]
-- [[2026-06-12_9_15-am]]
-- [[meeting_2026-05-22_0cdf07fa-1008-46c3-b433-e4ff0458f8f6_deepgram]]
-- [[Session-2026-06-12]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 3.md|How to Get Started In Trading Guide-Part 3]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 4.md|How to Get Started In Trading Guide-Part 4]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 6.md|How to Get Started In Trading Guide-Part 6]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md|How to Trade Breakouts Guide-Part 1]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 2.md|How to Trade Breakouts Guide-Part 2]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 3.md|How to Trade Breakouts Guide-Part 3]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 4.md|How to Trade Breakouts Guide-Part 4]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 5.md|How to Trade Breakouts Guide-Part 5]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 6.md|How to Trade Breakouts Guide-Part 6]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 7.md|How to Trade Breakouts Guide-Part 7]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 1.md|Bullish Momentum Burst Guide-Section 1]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 2.md|Bullish Momentum Burst Guide-Section 2]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 3.md|Bullish Momentum Burst Guide-Section 3]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 4.md|Bullish Momentum Burst Guide-Section 4]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 5.md|Bullish Momentum Burst Guide-Section 5]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 6.md|Bullish Momentum Burst Guide-Section 6]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 7.md|Bullish Momentum Burst Guide-Section 7]]
+- [[../03-Guides/stockbee/04. TI65 Guide/04. TI65 Guide.md|04. TI65 Guide]]
+- [[../03-Guides/stockbee/05. M20 Guide/05. M20 Guide.md|05. M20 Guide]]

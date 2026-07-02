@@ -68,12 +68,12 @@ It IS about: **a stock that was barely moving (2–5 days of minor pullback) sud
 
 The answer determines your entire trade management:
 
-| Price Level | Typical Hold | What Happens After |
-|---|---|---|
-| **Below $40** | 3–5 days | Most common; overstaying gives back profits |
-| **$40–$100** | 5–7 days | Slightly longer; higher-priced stocks move slower percentage-wise |
-| **Above $100** | 6–10+ days | Slow movers in % terms but significant in $ terms |
-| **$500+** | 8–12 days | Very slow percentage, but $50–$300 dollar moves |
+| Price Level    | Typical Hold | What Happens After                                                |
+| -------------- | ------------ | ----------------------------------------------------------------- |
+| **Below $40**  | 3–5 days     | Most common; overstaying gives back profits                       |
+| **$40–$100**   | 5–7 days     | Slightly longer; higher-priced stocks move slower percentage-wise |
+| **Above $100** | 6–10+ days   | Slow movers in % terms but significant in $ terms                 |
+| **$500+**      | 8–12 days    | Very slow percentage, but $50–$300 dollar moves                   |
 
 > "Three to five days is the golden period for trading a momentum burst."
 
@@ -87,14 +87,14 @@ The answer determines your entire trade management:
 
 Expectations must be set before you trade:
 
-| Stock Price | Expected Move (3–5 days) | Practical Notes |
-|---|---|---|
-| **Below $10** | 20–40% | Most explosive; biotech/penny stocks can do 100%+ |
-| **$10–$40** | 8–20% | Sweet spot for percentage traders |
-| **$40–$100** | 5–15% | Moderate moves; better in dollar terms |
-| **$100+** | $10–$50 per share | Think in dollars, not %; 3–8% typical |
-| **$300+** | $30–$100 per share | Slow percentage, massive dollar moves |
-| **$500+** | $50–$300 per share | 8–12 day holds; AutoZone, Booking can do $100+ in 3 days |
+| Stock Price   | Expected Move (3–5 days) | Practical Notes                                          |
+| ------------- | ------------------------ | -------------------------------------------------------- |
+| **Below $10** | 20–40%                   | Most explosive; biotech/penny stocks can do 100%+        |
+| **$10–$40**   | 8–20%                    | Sweet spot for percentage traders                        |
+| **$40–$100**  | 5–15%                    | Moderate moves; better in dollar terms                   |
+| **$100+**     | $10–$50 per share        | Think in dollars, not %; 3–8% typical                    |
+| **$300+**     | $30–$100 per share       | Slow percentage, massive dollar moves                    |
+| **$500+**     | $50–$300 per share       | 8–12 day holds; AutoZone, Booking can do $100+ in 3 days |
 
 **Key insight:** Lower price = higher percentage but smaller dollars. Higher price = lower percentage but larger dollars. Know which game you're playing.
 

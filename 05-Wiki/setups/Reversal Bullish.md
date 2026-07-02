@@ -1,162 +1,126 @@
 ---
 title: "Reversal Bullish"
-date: 2026-06-11
-tags: [setups, wiki, reversal-bullish, counter-trend, exhaustion, sa, pradeep-bonde, en, deepgram]
-mention_count: 78
-sources_count: 29
-compilation_count: 2
-enriched: true
+date: 2026-07-02
+tags: [setups, wiki, auto-compiled]
+mention_count: 636
+sources_count: 154
+compilation_count: 1
+promote: false
 ---
 
 # Reversal Bullish
 
-> *"Can I make a living doing reversal bullish? No. They are supporting actors."*
+*Setups — compiled from 636 mentions across 154 sources.*
 
-Reversal Bullish is a **low-risk, high-probability mean-reversion swing setup** that buys into extreme selling exhaustion. It is Pradeep's **7th-priority setup** — a supporting actor, not the lead. The setup works best under specific market conditions and requires precise timing near the close.
+## Mentions
 
----
+> [[../../03-Guides/stockbee/19. Deep Dive Guide.md|19. Deep Dive Guide]]: Books, videos, and AI research summaries are **second‑hand information**. Only by seeing thousands of examples with your own eyes does your brain develop what psychologists call **encapsulation** — the automatic pattern recognition that lets you spot a start of a swing or a reversal bullish without conscious thought.
 
-## Definition
+> [[../../03-Guides/stockbee/19. Deep Dive Guide.md|19. Deep Dive Guide]]: | **Quarterly thematic dive** | Quarterly | Pick one setup (e.g., reversal bullish, delayed reaction EP, story stocks) and study 500+ examples exclusively for 48 hours. |
 
-A **Reversal Bullish** setup occurs when:
-1. A stock (or the market) has been in a sustained downtrend
-2. Breadth indicators show **extreme readings** (T2108 below 20, 4% breakdowns dominating)
-3. The stock shows **exhaustion** — selling is drying up
-4. You enter near the **close** (3:58 PM) on day 3–5 of selling
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: > *"If you are shooting a movie, do you decide the main character first or the side characters first? These are all side characters. Can I make a living just doing anticipation? No. Can I make a living doing reversal bullish? No."*
 
-It is a **counter-trend** play — you are betting that the selling is overdone and a bounce is imminent. It is NOT a bottom call; it is an exhaustion trade.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: 2. **Use the 2,500+ / 5,000+ fund lists**: These stocks don't require babysitting. Reversal bullish on JPM or VISA can be entered with a close stop and checked once a day.
 
-Key attributes:
-- **Entry time**: 3:50–3:58 PM (last 10 minutes of the day)
-- **Stop**: Below the day's low or structural level
-- **Duration**: 2–5 days for the bounce
-- **Conviction**: Lower than EP 9M — this is a secondary setup
-- **Market condition**: Works best after extreme selling days
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: - Begin reviewing reversal bullish and anticipation setups.
 
----
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: - Entries for reversal bullish, anticipation, and short setups.
 
-## Key Principles
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: | 2:30 PM | Reversal bullish scan prep | Candidates for 3:50 PM entry |
 
-### 1. Reversal Bullish Is a Supporting Actor, Not the Lead
+> [[../../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]: | 2 | [[Pradeep Bonde - Reversals Guide-Reversal Bullish_deepgram]] | Real-time scan review, prioritizing candidates, context matters, scan formula sharing |
 
-> *"Primary setup: EP 9M + momentum burst bullish. Everything else is secondary. Can I make a living just doing anticipation? No. Can I make a living doing reversal bullish? No. They are supporting actors."*
+> [[../../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]: | **ROOT** | Sept 2024 | Reversal bullish after waterfall decline | Bought in last 2 minutes; next day opened positive; stop moved to breakeven |
 
-Pradeep is explicit: you cannot build a trading career on reversal bullish alone. It supplements the primary setup but is not a standalone edge.
+> [[../../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]: | **ALGT** | 2025 | Catalyst + exhaustion | Perfect picture-perfect reversal bullish |
 
-### 2. The Best Ones Just Stand Out
+> [[../../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]: ### Reversal Bullish (Primary Scan)
 
-> *"The best ones just stand out. Whenever you see a good reversal bullish, it will just stand out… Same way, this setup, when it is perfect, right, it is just going to call you."*
+> [[../../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]: Pradeep also suggests creating a **"Reversal Bullish New"** variation and a **"Reversal Bearish"** scan, but he does not prioritize the bearish version because most of his capital is long.
 
-You don't need to search hard for reversal bullish candidates. When the setup is valid, it is visually obvious on the chart — extreme selling followed by exhaustion.
+> [[../../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]: | **3:30 PM – 4:00 PM** | **Reversal bullish** and anticipation entries |
 
-### 3. Requires Specific Market Conditions
+> [[../../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]: - [[Pradeep Bonde - Reversals Guide-Reversal Bullish_deepgram]]
 
-Reversal bullish works when:
-- The market has been in a **sustained downtrend** (not choppy)
-- **Breadth is extreme** — T2108 at very low levels, 4% breakdowns >> 4% breakouts
-- There is **exhaustion** — selling volume is declining, not accelerating
+> [[../../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]: - Guide 15 — SOS (Start of a Swing) — reversal bullish is conceptually a bullish SOS after exhaustion
 
-In choppy or trending-up markets, reversal bullish candidates are few and low quality:
+> [[../../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]: - Guide 12 — Delayed Reaction EP — many delayed reaction EP setups print as reversal bullish candles; Pradeep suggests running reversal scans on delayed-reaction watch lists
 
-> *"I really don't see anything which is, like, standing out as reversal bullish."*
+> [[../../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]: > "The best ones just stand out. Whenever you see a good reversal bullish, it will just stand out... Same way, this setup, when it is perfect, right, it is just going to call you. It is going to tell you, hey. Look at me. Look at me. Look at me."
 
-### 4. Entry Timing Is Everything
+> [[../../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]: Reversal bullish is a **low-risk, high-probability mean-reversion swing setup**. It is not about catching falling knives indiscriminately; it is about waiting for a **confirmed exhaustion pattern** (hammer/doji at the end of 3–5 days of selling) on **institutional-quality stocks**, and entering with a **sub-2.5% stop** in the **final minutes of the day**.
 
-> *"Entries for reversal bullish, anticipation, and short setups — typically enter between 3:50 PM and 3:58 PM."*
+> [[../../03-Guides/stockbee/23. Bearish Trading Guide.md|23. Bearish Trading Guide]]: 11. **Wait for a bounce before shorting an oversold market.** Never short into a waterfall. Wait for a counter-trend bounce, then short, essentially using the same anticipation logic as reversal bullish, but inverted.
 
-The entry window is **the last 10 minutes of the trading day**. This is not a morning setup. Entering earlier exposes you to continued selling; entering at the close gives you the lowest risk entry.
+> [[../../04-Transcripts/stockbee/2026-05-01_3-pm.md|2026-05-01_3-pm]]: So let's look at, like, in a reversal bullish and go from there.
 
-### 5. Never Short Into a Waterfall
+> [[../../04-Transcripts/stockbee/2026-05-01_3-pm.md|2026-05-01_3-pm]]: First, like, and I'm not really, like, in a, keen on as such, like, in a buying these, reversal bullish as such.
 
-> *"Never short into a waterfall. Wait for a counter-trend bounce, then short, essentially using the same anticipation logic as reversal bullish, but inverted."*
+> [[../../04-Transcripts/stockbee/2026-05-04_3-pm.md|2026-05-04_3-pm]]: So let's go and quickly do anticipation, bullish, and then we'll do reversal bullish right at, basically.
 
-The inverse principle also applies to the long side: never buy into a waterfall decline. Wait for signs of selling exhaustion before entering.
+> [[../../04-Transcripts/stockbee/2026-05-04_3-pm.md|2026-05-04_3-pm]]: So, let's go quickly do reversal bullish.
 
-### 6. SA (Situational Awareness) Is the Prerequisite
+> [[../../04-Transcripts/stockbee/2026-05-04_3-pm.md|2026-05-04_3-pm]]: I don't see anything which is reversal bullish here.
 
-Reversal bullish requires reading the market correctly. Without understanding the broader breadth context, you will enter too early or in the wrong environment. The market monitor — T2108, 4% studies, primary/secondary indicators — must confirm extreme conditions.
+> [[../../04-Transcripts/stockbee/2026-05-04_3-pm.md|2026-05-04_3-pm]]: Basically, where you have, like, in a couple of good a category anticipations that have no reversal bullish.
 
-### 7. Quality Over Frequency
+> [[../../04-Transcripts/stockbee/2026-05-06_3-pm.md|2026-05-06_3-pm]]: Let's quickly do, first reversal bullish and then anticipation, and then I will call it a day.
 
-Most days, there are **no valid reversal bullish setups**. Pradeep frequently says:
+> [[../../04-Transcripts/stockbee/2026-05-06_3-pm.md|2026-05-06_3-pm]]: Reversal bullish.
 
-> *"No need to look at reversal bullish. There is no reversal bullish."*
+> [[../../04-Transcripts/stockbee/2026-05-06_3-pm.md|2026-05-06_3-pm]]: In fact, it was a reversal bullish.
 
-This is not a daily setup. It appears perhaps once every few weeks when conditions align. Patience is essential.
+> [[../../04-Transcripts/stockbee/2026-05-07_3-pm.md|2026-05-07_3-pm]]: All the structuring reversal bullish, how will I know?
 
----
+> [[../../04-Transcripts/stockbee/2026-05-07_3-pm.md|2026-05-07_3-pm]]: And as a reversal bullish, the oil and gas stocks.
 
-## Timeline
+> [[../../04-Transcripts/stockbee/2026-05-11_3-pm.md|2026-05-11_3-pm]]: I'm not even looking at reversal bullish here.
 
-| Time | Action | Notes |
-|------|--------|-------|
-| 2:00–3:00 PM | Afternoon scan block | Review reversal bullish candidates |
-| 3:30–4:00 PM | Second execution window | Enter between 3:50–3:58 PM |
-| Day 2–5 | Monitor | Trail stops; sell into strength on bounce |
+> [[../../04-Transcripts/stockbee/2026-05-11_3-pm.md|2026-05-11_3-pm]]: And I do really need reversal, bullish, and anticipation.
 
----
+> [[../../04-Transcripts/stockbee/2026-05-11_3-pm.md|2026-05-11_3-pm]]: Are they, like, when the market become choppy, when we are to really, like, in a struggle for money, we'll go back to looking at reversal bullish.
 
-## Entry Checklist
+> [[../../04-Transcripts/stockbee/2026-05-11_9_15-am.md|2026-05-11_9_15-am]]: And it was a reversal bullish yesterday.
 
-- [ ] Market has been in sustained downtrend?
-- [ ] Breadth indicators at extremes (T2108 < 20, 4% breakdowns dominant)?
-- [ ] Stock showing exhaustion (declining selling volume)?
-- [ ] Entry at 3:58 PM on day 3–5 of selling?
-- [ ] Stop below day's low or structural level?
-- [ ] Position size: smaller than primary setups (this is a secondary trade)
+> [[../../04-Transcripts/stockbee/2026-05-11_9_15-am.md|2026-05-11_9_15-am]]: D p as defined by what is the setup or a continuation setup or a reversal bullish if you're doing something else.
 
----
+> [[../../04-Transcripts/stockbee/2026-05-12_3-pm.md|2026-05-12_3-pm]]: That's a reversal bullish if you want to look at.
+
+> [[../../04-Transcripts/stockbee/2026-05-12_3-pm.md|2026-05-12_3-pm]]: No need to look at reversal bullish.
+
+> [[../../04-Transcripts/stockbee/2026-05-12_3-pm.md|2026-05-12_3-pm]]: There is no reversal bullish.
+
+> [[../../04-Transcripts/stockbee/2026-05-13_3-pm.md|2026-05-13_3-pm]]: Reversal bullish.
+
+> [[../../04-Transcripts/stockbee/2026-05-14_3-pm.md|2026-05-14_3-pm]]: I really don't see anything which is, like, in a standing out as, reversal bullish.
 
 ## Related Concepts
 
-- [[05-Wiki/setups/EP9M|EP9M]] — primary setup; reversal is secondary
-- [[02-KB/stockbee/Market Monitor|Market Monitor]] — breadth extremes trigger reversal conditions
-- [[02-KB/stockbee/Entries|Entries]] — 3:58 PM entry timing
-- [[02-KB/stockbee/Stops|Stops]] — structural stop placement
-- [[02-KB/stockbee/Position Sizing|Position Sizing]] — smaller size for secondary setups
-- [[02-KB/stockbee/Confluences|Confluences]] — multiple signals aligning
-- [[22. Reversals Guide]] — full guide
-- [[05-Wiki/setups/Bearish Trading|Bearish Trading]] — bearish reversals share structural logic
-
----
+*(To be enriched)*
 
 ## Contradictions & Gaps
 
-1. **"No reversal bullish" vs. actively seeking them**: Pradeep frequently dismisses reversal bullish candidates on most days ("there is no reversal bullish"), yet has dedicated entire guide sections to it. The resolution: it is a rare setup that only appears under extreme conditions. When it's not there, don't force it.
-2. **Priority contradiction**: Reversal bullish is ranked 7th in priority, yet in extended/choppy markets with extreme selling, Pradeep pivots to it as a primary tool. Context determines priority.
-3. **Nvidia as reversal bullish candidate**: Pradeep has identified NVDA as a "very good candidate" for reversal bullish, contradicting the notion that only beaten-down stocks qualify. Large-cap quality names can also exhibit exhaustion patterns.
-4. **Time-of-day entry vs. intraday reversal**: The stated entry is 3:58 PM, but some reversal setups trigger intraday. The close-entry rule reduces risk but may miss the lowest price.
-
----
+*(To be detected)*
 
 ## Sources
 
-- [[KB/Confluences]]
-- [[Entries]]
-- [[Market Monitor]]
-- [[Mentality]]
-- [[Position Sizing]]
-- [[Stops]]
-- [[Trade Management]]
-- [[Trading Meeting Knowledge]]
-- [[19. Deep Dive Guide]]
-- [[20. Stock Selection Guide]]
-- [[21. Process Guide]]
-- [[22. Reversals Guide]]
-- [[23. Bearish Trading Guide]]
-- [[Meeting — Jun 01 (3 PM — 3 Pm 1527)]]
-- [[Meeting — Jun 02 (3 PM — 3 Pm 1528)]]
-- [[Meeting — Jun 03 (3 PM — 3 Pm 1530)]]
-- [[Meeting — Jun 04 (3 PM — 3 Pm 1532)]]
-- [[Meeting — Jun 05 (3 PM — 3 Pm 1534)]]
-- [[Meeting — Jun 08 (3 PM — 3 Pm 1536)]]
-- [[Meeting — Jun 09 (3 PM — 3 Pm 1538)]]
-- [[Meeting — Jun 09 (9_15 Am 1537)]]
-- [[Meeting — May 11 (3 PM — 3 Pm 1502)]]
-- [[Meeting — May 12 (3 PM — 3 Pm 1504)]]
-- [[Meeting — May 14 (3 PM — 3 Pm 1508)]]
-- [[Meeting — May 15 (3 PM — 3 Pm 1510)]]
-- [[Meeting — May 19 (3 PM — 3 Pm 1514)]]
-- [[Meeting — May 21 (3 PM — 3 Pm 1518)]]
-- [[Meeting — May 27 (3 PM — 3 Pm 1524)]]
-- [[Meeting — May 28 (3 PM — 3 Pm 1526)]]
+- [[../03-Guides/stockbee/19. Deep Dive Guide.md|19. Deep Dive Guide]]
+- [[../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]
+- [[../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]
+- [[../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]
+- [[../03-Guides/stockbee/23. Bearish Trading Guide.md|23. Bearish Trading Guide]]
+- [[../04-Transcripts/stockbee/02. How to Trade Breakouts/Pradeep Bonde - How to Trade Breakouts Guide-Part 3_deepgram.md|Pradeep Bonde - How to Trade Breakouts Guide-Part 3_deepgram]]
+- [[../04-Transcripts/stockbee/02. How to Trade Breakouts/Pradeep Bonde - How to Trade Breakouts Guide-Part 6_deepgram.md|Pradeep Bonde - How to Trade Breakouts Guide-Part 6_deepgram]]
+- [[../04-Transcripts/stockbee/14. Sugar Babies Guide/Pradeep Bonde - Sugar Babies Guide-Part 11 - Sugar Babies Revisited_deepgram.md|Pradeep Bonde - Sugar Babies Guide-Part 11 - Sugar Babies Revisited_deepgram]]
+- [[../04-Transcripts/stockbee/14. Sugar Babies Guide/Pradeep Bonde - Sugar Babies Guide-Part 5 - Simplify your life with Sugar Babies_deepgram.md|Pradeep Bonde - Sugar Babies Guide-Part 5 - Simplify your life with Sugar Babies_deepgram]]
+- [[../04-Transcripts/stockbee/14. Sugar Babies Guide/Pradeep Bonde - Sugar Babies Guide-Part 6 - How to find Sugar Babies_deepgram.md|Pradeep Bonde - Sugar Babies Guide-Part 6 - How to find Sugar Babies_deepgram]]
+- [[../04-Transcripts/stockbee/15. Start of a Swing Guide/Pradeep Bonde - Start of a Swing Guide-Part 10 - SOS Continuation_deepgram.md|Pradeep Bonde - Start of a Swing Guide-Part 10 - SOS Continuation_deepgram]]
+- [[../04-Transcripts/stockbee/15. Start of a Swing Guide/Pradeep Bonde - Start of a Swing Guide-Part 11 - Mind Clarity Dollar Breakout_deepgram.md|Pradeep Bonde - Start of a Swing Guide-Part 11 - Mind Clarity Dollar Breakout_deepgram]]
+- [[../04-Transcripts/stockbee/15. Start of a Swing Guide/Pradeep Bonde - Start of a Swing Guide-Part 4 - Start of a Swing_deepgram.md|Pradeep Bonde - Start of a Swing Guide-Part 4 - Start of a Swing_deepgram]]
+- [[../04-Transcripts/stockbee/15. Start of a Swing Guide/Pradeep Bonde - Start of a Swing Guide-Part 5 - Types of SOS_deepgram.md|Pradeep Bonde - Start of a Swing Guide-Part 5 - Types of SOS_deepgram]]
+- [[../04-Transcripts/stockbee/15. Start of a Swing Guide/Pradeep Bonde - Start of a Swing Guide-Part 6 - Tradable SOS_deepgram.md|Pradeep Bonde - Start of a Swing Guide-Part 6 - Tradable SOS_deepgram]]
+- [[../04-Transcripts/stockbee/16. DEP Guide/Pradeep Bonde - DEP Guide-Part 3 - Delayed Reactions EP watchlist_deepgram.md|Pradeep Bonde - DEP Guide-Part 3 - Delayed Reactions EP watchlist_deepgram]]
+- [[../04-Transcripts/stockbee/16. DEP Guide/Pradeep Bonde - DEP Guide-Part 5 - Delayed reaction EP_deepgram.md|Pradeep Bonde - DEP Guide-Part 5 - Delayed reaction EP_deepgram]]
+- [[../04-Transcripts/stockbee/16. DEP Guide/Pradeep Bonde - DEP Guide-Part 7 - DEP and SB watchlist_deepgram.md|Pradeep Bonde - DEP Guide-Part 7 - DEP and SB watchlist_deepgram]]
+- [[../04-Transcripts/stockbee/17. Catalyst Guide/Pradeep Bonde - Catalyst Guide-Part 3 - Understanding catalyst_deepgram.md|Pradeep Bonde - Catalyst Guide-Part 3 - Understanding catalyst_deepgram]]
+- [[../04-Transcripts/stockbee/18. Mind Clarity Guide/Pradeep Bonde - Mind Clarity Guide-Part 12 - Mind Clarity Delayed EP_deepgram.md|Pradeep Bonde - Mind Clarity Guide-Part 12 - Mind Clarity Delayed EP_deepgram]]

@@ -1,169 +1,98 @@
 ---
 title: "Breakeven"
-date: 2026-06-14
+date: 2026-07-02
 tags: [concepts, wiki, auto-compiled]
-mention_count: 75
-sources_count: 7
+mention_count: 12755
+sources_count: 380
 compilation_count: 1
 promote: false
 ---
 
 # Breakeven
 
-*Concepts — compiled from 75 mentions across 7 sources.*
+*Concepts — compiled from 12755 mentions across 380 sources.*
 
 ## Mentions
 
-> And when it is green, you should be looking at breakouts." — Part 4 When the number of stocks up 25% in a quarter drops below 200, it indicates capitulation — every stock that needed to be sold has been sold.
+> [[../../03-Guides/stockbee/19. Deep Dive Guide.md|19. Deep Dive Guide]]: > *"After COVID, if you want to find the biggest winner in the market for a given period of time, it is going to be stories... Story stocks is where big money is."*
 
-> If you use that to find a top, you're going to be prematurely getting out." — Part 4 > "Excessive bullishness doesn't lead to the market going down.
+> [[../../03-Guides/stockbee/19. Deep Dive Guide.md|19. Deep Dive Guide]]: Take a break, then revisit. You will see things you missed: tightness before breakout, a prior failed breakout, sector context, float size.
 
-> No." — Part 6 Pradeep's advice: All secondary indicators add color but can be ignored.
+> [[../../03-Guides/stockbee/19. Deep Dive Guide.md|19. Deep Dive Guide]]: - Below $10B cap and below $10 price appear frequently.
 
-> > "When it becomes excessively bearish, then you have to be careful and not become excessively bearish because that is what leads to a turn in the market.
+> [[../../03-Guides/stockbee/19. Deep Dive Guide.md|19. Deep Dive Guide]]: > *"Basically, you need to have a template in front of you to see if it is either a growth stock or it is going to be a turnaround or it is going to be a story."*
 
-> Sugar Babies can be integrated with Trade Ideas. Create a watchlist of your Sugar Babies in TI, then add momentum alerts (e.g., "New High of Day") to catch breakouts automatically.
+> [[../../03-Guides/stockbee/19. Deep Dive Guide.md|19. Deep Dive Guide]]: > *"Story stocks is where big money is. Story stocks should be your priority because they make big money."*
 
-> Massive premarket volume — signals retail interest > "If you are too logical and skeptical a person, you'll never be able to make money from story stocks because every story is so ridiculous." The single best indicator that a story has legs: 1.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: > *"Setup selection is the tools you select. Stock selection is the next part of the equation, which is very important because once you have a setup idea, what stock you're going to be using that on is going to determine whether you make big money or whether you make small money."*
 
-> The moment you see a big move, your first reaction should be: What's the catalyst?" 1.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: | **Quality** | Earning *stability* and *persistence*, low debt, high ROE/ROA | Best for multi-year holds (HEICO, Cintas, Ecolab, AutoZone) |
 
-> Your skills will be "thousands of miles ahead" of others > "There is no book which is going to teach you this...
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: | **Low Volatility** | Low beta | Reduces drawdowns in long-term portfolios; note: traders should do the *opposite* and chase high volatility |
 
-> 98% of trading books are about support/resistance." > "If you understand catalyst, your job is to read the news, understand the catalyst, and enter it immediately." > "Be the best trader of catalysts.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: | **Size** | Small-cap effect | Below $1B or below $10B makes the biggest moves |
 
-> [01:00] We'll give people one minute to come in case somebody is straggling, and my email will be full.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: | Market Phase | Best Vehicle Selection Strategy |
 
-> [02:45] This might be a delayed reaction.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: > *"Currently, the best is themes. Just story stocks. The more bullshit the story is, the more likely it works."*
 
-> [03:37] It's going to be explosion of demand for trad wipes now From the SpaceX employees.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: | Factor Based | **HEICO / Cintas / Ecolab / Aflac / RBC Bearings / FIX (Comfort Systems)** | Earning stability + persistence + low debt | Quality factor; best for 2–10 year holds with low volatility |
 
-> [06:17] There's going to be a boom boom boom boom boom.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: | Stock Selection Strategy | **Newegg (NEGG)** | A retailer with no coherent story | Still made 2,233% because retail / thematic frenzy trumps fundamentals in current phase |
 
-> [06:22] Multimillioners minted today, so they all will be, like, looking for Sugar babies and trad wipes.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: Check new additions/deletions monthly. A new name entering the 2,500+ list from below = institutional accumulation. A name dropping from the 5,000+ list = potential distribution.
 
-> [08:12] 23,000,000,000,000, economy going to be in space.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: For relative-strength stock selection within a beaten-down market:
 
-> [10:24] There is going to be a space economy.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: > *"The best way to find a theme is by stock characteristic: which stocks show up in 9M breakout."*
 
-> [11:56] You should be able to articulate.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: > *"Currently, the best vehicle selection strategy is themes. Bar none. The more bullshit the story is, the more likely it works."*
 
-> [11:58] If you're going to be buying something, you should be able to articulate clearly a reason why this should work, especially in a market which is going to be choppy, which is going to be, like, in a very choppy.
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: - **Psychosomatic factors**: being rested and focused.
 
-> [12:09] Can you articulate why you should be buying or shorting something?
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: **Organize before the bell**:
 
-> [14:06] Maybe Apple as a shot, because that might be the only thing.
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: - If *maybe* → selective size only on clear catalyst.
 
-> [14:20] That's it from me, and I'll be back talking to you people again about the same thing, how to make money buying stocks on third day of a breakout and Asking, answering your random question about what do you think of IBM?
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: - Typically enter between 3:50 PM and 3:58 PM.
 
-> [01:45] And this is why I'm not going to have any more boot camp in London because I will be so self conscious.
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: | **Rocket Lab** | Extended stock post-catalyst | Up 2400% since discovery, $72B cap → if buying, wait for 10:30 shakeout; don't chase |
 
-> [13:40] They tend to be one day and this is what, like, in a when you look at some of the things, this is what avoids you from getting into some of the crazy, things.
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: Exit: Sell into strength (80/20) or move stop to breakeven+ after gap
 
-> [21:04] This Goldman Sachs and all has actually a whole business of, like, in a warehousing stocks, which are likely to be added to the index and selling them to mutual fund, and they make, like, in a some, half a percent or 1% profit on that.
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: - [ ] Answer: "Are breakouts likely to work?" → Yes / Maybe / No
 
-> [24:14] And so this is not something which you want to be involved in.
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: - [ ] If Maybe → selective, catalyst-only, smaller size
 
-> [24:34] There can be, like, any competitive offers or there can be a the whole thing falls through.
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: - [ ] Stop rule: 2.5% / low of day / half of day (decided before open)
 
-> [25:07] So I would be just focused on e p 9,000,000 here.
+> [[../../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]: | Type | Description | Frequency | Best Use |
 
-> [30:48] I think that hyperliquid market might be the one which to look at.
+> [[../../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]: 1. **Exhaustion is prerequisite.** The setup is not a pullback; it is exhaustion at the end of a clear decline. The candle close must be near the high or have a long lower tail.
 
-> [31:20] I wouldn't be surprised if it goes up because the it's like I have never seen there are only two times in my life I have seen crazy, like, any things in the stock market.
+> [[../../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]: > "If I apply my total understanding and my talent, will I be able to find setups where with the wider stop we can make money? Yes. But does it appeal to me? The answer is no."
 
-> [32:11] This DRAM still, like, in a that I think any of that, thing might be still like it.
+> [[../../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]: - [[Short Side|Short Side]] — short selling setups, weak structure shorts, bearish momentum
 
-> [32:26] Right, Intraday, there might be a trade intraday.
+> [[../../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]: > "Visual is better than words. What am I looking for? FFM... I'm looking for an action where I can put in a tiny stop. As tiny a stop as possible. That's my whole idea of trading now, going forward in my life."
 
-> [33:12] And I wait for a setup even if you are going to be day trading it.
+> [[../../03-Guides/stockbee/23. Bearish Trading Guide.md|23. Bearish Trading Guide]]: # Guide 23 - Bearish Trading
 
-> [34:45] You don't expect every stock to be like, this thing.
+> [[../../03-Guides/stockbee/23. Bearish Trading Guide.md|23. Bearish Trading Guide]]: This guide covers both the **tactical short side** (how to find shorts in a neutral-to-bearish market) and the **strategic bear-market framework** (what happens when a recession-level catalyst drives sectors to zero, why sectors matter, and how traders can make "life-changing money" by treating the short side without emotional attachment).
 
-> [38:09] Another one, Copy all symbols to be 9,000,000.
+> [[../../03-Guides/stockbee/23. Bearish Trading Guide.md|23. Bearish Trading Guide]]: > "It might take a stock six months to make a 100% move, and it might take three days for that 100% move to be over."
 
-> [39:48] I wouldn't get involved in any of these because there will be a lot of volatility.
+> [[../../03-Guides/stockbee/23. Bearish Trading Guide.md|23. Bearish Trading Guide]]: In a bear market, **weak sectors get weaker**. During the 2008–2009 recession:
 
-> [40:48] If I had the knowledge to to figure out that thing, right, I wouldn't be sitting here.
+> [[../../03-Guides/stockbee/23. Bearish Trading Guide.md|23. Bearish Trading Guide]]: - **Retail / furniture / home goods** (Wayfair, Restoration Hardware) are especially vulnerable because import costs spike
 
-> [40:53] And I miss, I would be working for Goldman Sachs.
+> [[../../03-Guides/stockbee/23. Bearish Trading Guide.md|23. Bearish Trading Guide]]: > "Second legs become so easy to do it. Rather than trying to find the falling knife, wait for the bounce and then short the second leg."
 
-> [41:19] Man, like, and when I decide to understand all these things, I'm telling you, I'll be only dating PhD girls then.
+> [[../../03-Guides/stockbee/23. Bearish Trading Guide.md|23. Bearish Trading Guide]]: 5. **Always prioritize sectors under liquidation.** When a sector is being sold by institutions, the weakest stocks in that sector will fall the hardest and never recover.
 
-> [57:32] And it can be just like and sometimes, I meet people for one hour, right, and basically and they get it, Or they come for one boot camp, and they are, like, in a completely changed person.
+> [[../../03-Guides/stockbee/23. Bearish Trading Guide.md|23. Bearish Trading Guide]]: 6. **Second leg is easier than first leg.** The first leg may be noisy; the second leg is the clean trend.
 
-> [60:01] At the least, it's going to be choppy, basically.
-
-> [61:37] 12345, it'd be 9,000,000 to the downside, but, yeah, if you want to go there.
-
-> [63:21] That will be if at all, it is.
-
-> [63:23] It will be leg three.
-
-> [03:31] And so that's going to be fun.
-
-> [07:50] Peloton is going to be breaking, is going to be, like and I would not taste that.
-
-> [15:56] I didn't really see anything which was like in a really, earth shattering on that, but it just has a continuation setup might be like any.
-
-> [16:06] But lot of early moves, they tend to fade, so be careful also on that.
-
-> [19:06] If it sticks right and then that breakout, like, that might be something to look at.
-
-> [24:34] And bald people will be forced to have, like, an artificial Mohawk.
-
-> [28:03] I've been told I should not be, like, in a talking about sugar babies because there are some young kids whom are also on these meetings.
-
-> [28:15] And, basically, young kids should be playing video games.
-
-> [29:54] 12 year old should be not worried about making money.
-
-> [29:57] He should be worried about, like, any.
-
-> [32:31] But, obviously, the sound hound as a Sugarbaby probably, might be the one to keep an eye on.
-
-> [33:21] On a third day, my if you are trying to be aggressive, more likely that the next likely move on this thing will be next week.
-
-> [33:36] So I would just be and that I really should have, like, done that day.
-
-> [37:11] And I would like to see a e p nine, which it will end up happening, but the volume, if should be high on this one.
-
-> [39:39] In order to be, like, successful, you have to be under, like, any this thing.
-
-> [40:47] Before you can make money, you must be broke, desperate, and depressed.
-
-> [45:04] See, the market has become so fast, nowadays that, like, in a things, you have to be really, really, like, in a be fast in the moment.
-
-> [46:25] There's a way to, like, in a basically, configure, like, in configuration, there'll be a symbol list.
-
-> [52:19] Be ever pure computer system.
-
-> [52:31] I could do some work on this weekend, long weekend, to clarify, reclarify, or do some deep dive or do some, work, which you'll like and then, allow you to be a better trader after you come back on Monday.
-
-> [54:43] UICBB should be out.
-
-> [62:15] Online boot camps, the moment the boot camp is over, right, Indian people, bootleg is like they will be selling bootleg copies within, like, in a fifteen minutes of the boot camp getting over.
-
-> [62:41] They'll be like in a this thing.
-
-> [63:45] Means, at least if you're copying, you have to be little bit smarter.
-
-> [64:54] I you know, on more serious note, I don't think any the, idea behind the boot camp is not really something which can be done online.
-
-> [67:11] And just because the content is all over the place, doesn't matter that people are going to trade it the way it is should be traded and, like, an they are not necessarily going to understand also because they know half beat about something.
-
-> [77:33] But, again, I would be more confident and I would feel more if it becomes a green candle.
-
-> [77:48] So as long as you keep a stop, like and if you are going to be in MXL, I would put my stop here and see.
-
-> [77:54] And you might be lucky, or it might take this.
-
-> [78:16] What will be the best exit for our plan, for something like d x y z?
-
-> - Indices: Subdued; the market appeared to be "taking a weekend off" ahead of the World Series and SpaceX IPO - Assessment: Choppy environment.
-
-> They know what criteria the index is going to use." > "Goldman Sachs has a whole business of warehousing stocks likely to be added to the index and selling them to mutual funds for half a percent profit.
-
+> [[../../03-Guides/stockbee/23. Bearish Trading Guide.md|23. Bearish Trading Guide]]: 10. **Don't listen to billionaires calling bottoms.** In 2008, Kirk Kerkorian bought Ford at $10 and watched it drop to ~$1.50. Billionaires can afford to be wrong; traders cannot.
 
 ## Related Concepts
 
@@ -175,10 +104,23 @@ promote: false
 
 ## Sources
 
-- [[11. Market Monitor Guide]]
-- [[14. Sugar Babies Guide]]
-- [[17. Catalyst Guide]]
-- [[2026-06-12_3-pm]]
-- [[2026-06-12_9_15-am]]
-- [[meeting_2026-05-22_0cdf07fa-1008-46c3-b433-e4ff0458f8f6_deepgram]]
-- [[Session-2026-06-12]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 1.md|How to Get Started In Trading Guide-Part 1]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 2.md|How to Get Started In Trading Guide-Part 2]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 3.md|How to Get Started In Trading Guide-Part 3]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 4.md|How to Get Started In Trading Guide-Part 4]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 6.md|How to Get Started In Trading Guide-Part 6]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 7.md|How to Get Started In Trading Guide-Part 7]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 8.md|How to Get Started In Trading Guide-Part 8]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md|How to Trade Breakouts Guide-Part 1]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 2.md|How to Trade Breakouts Guide-Part 2]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 3.md|How to Trade Breakouts Guide-Part 3]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 4.md|How to Trade Breakouts Guide-Part 4]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 5.md|How to Trade Breakouts Guide-Part 5]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 6.md|How to Trade Breakouts Guide-Part 6]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 7.md|How to Trade Breakouts Guide-Part 7]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 1.md|Bullish Momentum Burst Guide-Section 1]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 2.md|Bullish Momentum Burst Guide-Section 2]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 3.md|Bullish Momentum Burst Guide-Section 3]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 4.md|Bullish Momentum Burst Guide-Section 4]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 5.md|Bullish Momentum Burst Guide-Section 5]]

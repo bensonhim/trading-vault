@@ -1,67 +1,98 @@
 ---
 title: "Stock Selection"
-date: 2026-06-11
+date: 2026-07-02
 tags: [concepts, wiki, auto-compiled]
-mention_count: 24
-sources_count: 12
+mention_count: 267
+sources_count: 84
 compilation_count: 1
 promote: false
 ---
 
 # Stock Selection
 
-*Concepts — compiled from 24 mentions across 12 sources.*
+*Concepts — compiled from 267 mentions across 84 sources.*
 
 ## Mentions
 
-> [58:51] Is to create buckets.
+> [[../../03-Guides/stockbee/19. Deep Dive Guide.md|19. Deep Dive Guide]]: Every stock that moves big falls into one of three X‑ray buckets:
 
-> [63:21] We need to create buckets.
+> [[../../03-Guides/stockbee/19. Deep Dive Guide.md|19. Deep Dive Guide]]: - [[Stock Selection|Stock Selection]] — fund ownership, buckets, institutional quality
 
-> [25:13] And a setup selection is the most important thing.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: # Guide 20 — Stock Selection
 
-> [25:17] Without set of selection, there is no tomorrow.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: > **Transcripts:** `[[../transcripts/20. Stock Selection Guide/|Stock Selection Guide Transcripts]]`
 
-> [12:41] That only works if you have a real age in stock selection.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: ### What Is Stock Selection?
 
-> [47:27] So once you've fixed your problem of setup, then start focusing on stock selection.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: | 1 | **Stock Selection Part 1** | Why does stock selection matter more than setup tinkering? | Setup is the foundation, but stock selection is where the velocity (and the money) lives. |
 
-> [47:34] If you don't have a setup, then just having stock selection doesn't really make sense.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: | 7 | **Stock Selection Strategies Part 1** | What are the specific filters to layer on top of any setup? | FSP, plastics, growth buckets, institutional quality, small caps, persistency, RS/momentum, valuation, IPO age, sugar babies. |
 
-> [01:21] Some selection, like an 89,000,000 is what I would focus on.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: ### 6. Select Your Primary Setup — Then Marry It to a Stock Selection Filter
 
-> [13:22] And at 07:00, stock selection.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: ### 7. Vehicle Selection Must Match Market Phase
 
-> [13:26] Once you have a setup, then you look for stock selection.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: The *dominant* stock-selection strategy changes with market cycles:
 
-> [68:41] So stock selection, it's like there.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: > *"If you don't want to trade too much and you want to buy something and hold for one year or two years, using a weekly chart is not going to help you. What is going to help you is you have to find a stock which is likely to go up for three to six months. Stock selection is the crux."*
 
-> [70:13] Some people, like and I have tried, and they, like and I don't because it is also lot of it is stock selection.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: - [[Stock Selection|Stock Selection]] — fund ownership, buckets, institutional quality
 
-> [81:18] So there is a logic for stock selection.
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: - Priority selection if multiple setups: (1) highest volume, (2) lowest capitalization.
 
-> [81:23] There is a logic for setup selection.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 1.md|How to Get Started In Trading Guide-Part 1]]: | **Part 8** | Tax-Advantaged Portfolio | 366-day holds, Nasdaq 100 selection, consumer > enterprise |
 
-> [81:29] There is logic for exit based on the setup ID and the stock selection ID.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 2.md|How to Get Started In Trading Guide-Part 2]]: | **Part 8** | Tax-Advantaged Portfolio | 366-day holds, Nasdaq 100 selection, consumer > enterprise |
 
-> [35:20] How to set up buckets?
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 3.md|How to Get Started In Trading Guide-Part 3]]: | **Part 8** | Tax-Advantaged Portfolio | 366-day holds, Nasdaq 100 selection, consumer > enterprise |
 
-> [35:38] And if you put, like, in a bucket or buckets, it should give you a block, bucket scan January 2026.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 4.md|How to Get Started In Trading Guide-Part 4]]: | **Part 8** | Tax-Advantaged Portfolio | 366-day holds, Nasdaq 100 selection, consumer > enterprise |
 
-> [15:46] Setup selection and setups is the key.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]: | **Part 8** | Tax-Advantaged Portfolio | 366-day holds, Nasdaq 100 selection, consumer > enterprise |
 
-> [15:59] Set up selection is key.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]: | **Model T** | Basic 1.5× volume breakout | You're on your own for scans, criteria, selection. Higher risk, but it works. |
 
-> Pradeep cautions: Manish's style is intuition-driven and difficult to replicate because much of it is implicit stock selection from consuming 500+ posts daily.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]: | **Part 4** | "Shameless copy" philosophy — Part 5 applies it to setup selection specifically |
 
-> Don't fight the market's theme selection.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 6.md|How to Get Started In Trading Guide-Part 6]]: | **Part 8** | Tax-Advantaged Portfolio | 366-day holds, Nasdaq 100 selection, consumer > enterprise |
 
-> Setup." > "Setup selection and setups is the key.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 7.md|How to Get Started In Trading Guide-Part 7]]: | **Part 8** | Tax-Advantaged Portfolio | 366-day holds, Nasdaq 100 selection, consumer > enterprise |
 
-> The environment was the problem, not the selection.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 8.md|How to Get Started In Trading Guide-Part 8]]: | **Part 8** | Tax-Advantaged Portfolio | 366-day holds, Nasdaq 100 selection, consumer > enterprise |
 
-> The environment was the headwind, not the selection.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 8.md|How to Get Started In Trading Guide-Part 8]]: ### 5. Specific 2021 Portfolio Selections
 
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md|How to Trade Breakouts Guide-Part 1]]: | **Part 5** | Vehicle Selection — Momentum | IBD 85-85-85 method, revenue momentum, Bucket Zero/One |
+
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md|How to Trade Breakouts Guide-Part 1]]: | **Part 6** | Vehicle Selection — Fund Ownership | 5 buckets by fund count, stability vs explosiveness |
+
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md|How to Trade Breakouts Guide-Part 1]]: | **Part 7** | Vehicle Selection — Youth | IPO age < 5 years, catching them young, sugar babies |
+
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 2.md|How to Trade Breakouts Guide-Part 2]]: | **Part 5** | Vehicle Selection — Momentum | IBD 85-85-85 method, revenue momentum, Bucket Zero/One |
+
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 2.md|How to Trade Breakouts Guide-Part 2]]: | **Part 6** | Vehicle Selection — Fund Ownership | 5 buckets by fund count, stability vs explosiveness |
+
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 2.md|How to Trade Breakouts Guide-Part 2]]: | **Part 7** | Vehicle Selection — Youth | IPO age < 5 years, catching them young, sugar babies |
+
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 3.md|How to Trade Breakouts Guide-Part 3]]: | **Part 5** | Vehicle Selection — Momentum | IBD 85-85-85 method, revenue momentum, Bucket Zero/One |
+
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 3.md|How to Trade Breakouts Guide-Part 3]]: | **Part 6** | Vehicle Selection — Fund Ownership | 5 buckets by fund count, stability vs explosiveness |
+
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 3.md|How to Trade Breakouts Guide-Part 3]]: | **Part 7** | Vehicle Selection — Youth | IPO age < 5 years, catching them young, sugar babies |
+
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 4.md|How to Trade Breakouts Guide-Part 4]]: | **Part 5** | Vehicle Selection — Momentum | IBD 85-85-85 method, revenue momentum, Bucket Zero/One |
+
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 4.md|How to Trade Breakouts Guide-Part 4]]: | **Part 6** | Vehicle Selection — Fund Ownership | 5 buckets by fund count, stability vs explosiveness |
+
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 4.md|How to Trade Breakouts Guide-Part 4]]: | **Part 7** | Vehicle Selection — Youth | IPO age < 5 years, catching them young, sugar babies |
+
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 5.md|How to Trade Breakouts Guide-Part 5]]: | **Part 5** | Vehicle Selection — Momentum | IBD 85-85-85 method, revenue momentum, Bucket Zero/One |
+
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 5.md|How to Trade Breakouts Guide-Part 5]]: | **Part 6** | Vehicle Selection — Fund Ownership | 5 buckets by fund count, stability vs explosiveness |
+
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 5.md|How to Trade Breakouts Guide-Part 5]]: | **Part 7** | Vehicle Selection — Youth | IPO age < 5 years, catching them young, sugar babies |
+
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 5.md|How to Trade Breakouts Guide-Part 5]]: The breakout setup (momentum burst) is only half the battle. **Vehicle selection** is equally critical:
 
 ## Related Concepts
 
@@ -73,15 +104,23 @@ promote: false
 
 ## Sources
 
-- [[2026-05-07_9_15_AM]]
-- [[2026-05-15_3-pm]]
-- [[2026-05-15_9_15-am]]
-- [[2026-05-19_9_15-am]]
-- [[2026-05-20_3-pm]]
-- [[2026-05-20_9_15-am]]
-- [[2026-05-28_9_15-am]]
-- [[2026-06-01_3-pm]]
-- [[2026-06-08_9_15-am]]
-- [[Session-2026-05-20]]
-- [[Session-2026-05-28]]
-- [[Session-2026-06-08]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 1.md|How to Get Started In Trading Guide-Part 1]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 2.md|How to Get Started In Trading Guide-Part 2]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 3.md|How to Get Started In Trading Guide-Part 3]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 4.md|How to Get Started In Trading Guide-Part 4]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 6.md|How to Get Started In Trading Guide-Part 6]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 7.md|How to Get Started In Trading Guide-Part 7]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 8.md|How to Get Started In Trading Guide-Part 8]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md|How to Trade Breakouts Guide-Part 1]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 2.md|How to Trade Breakouts Guide-Part 2]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 3.md|How to Trade Breakouts Guide-Part 3]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 4.md|How to Trade Breakouts Guide-Part 4]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 5.md|How to Trade Breakouts Guide-Part 5]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 6.md|How to Trade Breakouts Guide-Part 6]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 7.md|How to Trade Breakouts Guide-Part 7]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 1.md|Bullish Momentum Burst Guide-Section 1]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 2.md|Bullish Momentum Burst Guide-Section 2]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 3.md|Bullish Momentum Burst Guide-Section 3]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 4.md|Bullish Momentum Burst Guide-Section 4]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 5.md|Bullish Momentum Burst Guide-Section 5]]

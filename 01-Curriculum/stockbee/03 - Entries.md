@@ -13,13 +13,13 @@ tags: [class, lesson-03, entries, EP, SOS, DEP, ANTS, reversal, setup-types]
 
 ## The Five Entry Methods
 
-| # | Entry | When to Enter | Stop Width | Position Size | Key Rule |
-|---|-------|--------------|-----------|---------------|----------|
-| **1** | **EP 9M** | First 15 min on catalyst day | 8–20% (low of day) | 10–20% account | Seconds to decide; requires catalyst |
-| **2** | **SOS** | First 30 min; first day of breakout | 2–5% (low of day) | 3–5K shares | Buy day 1, NEVER day 2 or 3 |
-| **3** | **DEP** | Days 3–10 after catalyst | 0.5–2.5% (below consolidation) | 25–50%+ account | Closest stop = biggest size |
-| **4** | **ANTS** | 2:58 PM day BEFORE breakout | <1% (below tight days) | 10–20% account | Buy BEFORE breakout; BSLO order |
-| **5** | **Reversal** | 3:58–4:00 PM (last 2 min) | 0.5–2.5% (below open/prev close) | 5–20K shares | NEVER before 3:58 PM |
+| #     | Entry        | When to Enter                       | Stop Width                       | Position Size   | Key Rule                             |
+| ----- | ------------ | ----------------------------------- | -------------------------------- | --------------- | ------------------------------------ |
+| **1** | **EP 9M**    | First 15 min on catalyst day        | 8–20% (low of day)               | 10–20% account  | Seconds to decide; requires catalyst |
+| **2** | **SOS**      | First 30 min; first day of breakout | 2–5% (low of day)                | 3–5K shares     | Buy day 1, NEVER day 2 or 3          |
+| **3** | **DEP**      | Days 3–10 after catalyst            | 0.5–2.5% (below consolidation)   | 25–50%+ account | Closest stop = biggest size          |
+| **4** | **ANTS**     | 2:58 PM day BEFORE breakout         | <1% (below tight days)           | 10–20% account  | Buy BEFORE breakout; BSLO order      |
+| **5** | **Reversal** | 3:58–4:00 PM (last 2 min)           | 0.5–2.5% (below open/prev close) | 5–20K shares    | NEVER before 3:58 PM                 |
 
 ---
 

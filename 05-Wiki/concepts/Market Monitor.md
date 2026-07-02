@@ -1,85 +1,98 @@
 ---
 title: "Market Monitor"
-date: 2026-06-14
+date: 2026-07-02
 tags: [concepts, wiki, auto-compiled]
-mention_count: 33
-sources_count: 5
+mention_count: 1658
+sources_count: 331
 compilation_count: 1
 promote: false
 ---
 
 # Market Monitor
 
-*Concepts — compiled from 33 mentions across 5 sources.*
+*Concepts — compiled from 1658 mentions across 331 sources.*
 
 ## Mentions
 
-> > Speaker: Pradeep Bonde (StockBee) > Series: Market Monitor Guide (8 parts) > Transcripts: ../../transcripts/11.
+> [[../../03-Guides/stockbee/19. Deep Dive Guide.md|19. Deep Dive Guide]]: ## Guide Summary (7 Videos)
 
-> Market Monitor Guide/|Transcripts The Market Monitor is a market breadth-based timing tool that answers three critical questions: (1) Is money flowing into or out of the market?
+> [[../../03-Guides/stockbee/19. Deep Dive Guide.md|19. Deep Dive Guide]]: ## Common Mistakes to Avoid
 
-> At its core is the primary indicator — a quarterly breadth measure (stocks up 25% in 65 days) that functions as a traffic light: green = aggressive long, red = short.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: | **Momentum** | Price momentum or earnings momentum; use *offset* rankings (e.g., 63-day momentum offset by 25 days) to strip short-term mean reversion | Don't buy raw short-term leaders; buy the stock that *still* ranks high after the last month is excluded |
 
-> Market breadth works superbly for finding bottoms but fails for finding tops — excessive bullishness can persist for years.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: - [[05. M20 Guide|M20 Guide — 20% Study & Breadth]]
 
-> The Market Monitor is not a black-box indicator.
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: | 5. Organize Like Crazy (OLC) | Tools, entries, sizing, pre-commitment | "Is every element of my trading organized before the open?" |
 
-> > "All the Market Monitor data comes from this particular scan...
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: - Inputs: your own recent trade success rate, 20% study, Market Monitor.
 
-> the scans for this thing will be added below this video so that you can replicate the scan." — Part 1 Market breadth measures participation — how many stocks are moving, not just the index price.
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: - Enter → immediately place stop.
 
-> This is a well-known thing in the market that best market timing models are based on market breadth." — Part 1 The first two columns track the number of stocks up 4%+ and down 4%+ in a single day.
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: - [ ] Market Monitor: breadth, stage?
 
-> If you see something like this, you know the ratio is also going to be low." — Part 3 The primary indicator is the most important signal in the Market Monitor.
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: ## Common Mistakes
 
-> This is the primary breadth indicator.
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: - [[Market Monitor|Market Monitor]] — daily process, weekend process, market condition classification
 
-> Whenever I say primary breadth indicator is negative, that means I'm referring to these two columns." — Part 4 > "When it is red, you should avoid breakouts and look for shorts.
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: - [[../KB/Common Mistakes|Common Mistakes]] — frequent errors traders make and how to avoid them
 
-> > "Whenever you're using market breadth, always remember market breadth as a signal works very well at bearish bottoms.
+> [[../../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]: | **Minor exhaustion** | Small pullback in an uptrend, 3–5 days of mild selling | Common | Primary focus in current market regime |
 
-> Breadth captures participation, not narrowing.
+> [[../../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]: | **BLK** (BlackRock) | 2024 | Perfect hammer doji | Classic exhaustion bar; next day positive open |
 
-> The Market Monitor tracks the total number of US common stocks trading (e.g., 6,974).
+> [[../../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]: | **Entry signal** | Confirmed hammer / doji closing near high after 3–5+ days of selling |
 
-> It was added later to the Market Monitor as a confirmation tool.
+> [[../../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]: | **If it gap down** | Close immediately at open; consider gap-down as cost of doing business |
 
-> Those two then give you a powerful signal and bottoms which are formed at that stage tend to last for many years." — Part 8 The counterintuitive core of the Market Monitor: extreme bearishness is bullish, but extreme bullishness is not bearish.
+> [[../../03-Guides/stockbee/23. Bearish Trading Guide.md|23. Bearish Trading Guide]]: | **"Sugar babies" / story stocks** | Hot retail story stocks (e.g., quantum computing, AI, clean energy) have asymmetric downside when the story breaks |
 
-> If you short only when the Market Monitor is red, you'll find that the shorts work very well.
+> [[../../03-Guides/stockbee/23. Bearish Trading Guide.md|23. Bearish Trading Guide]]: - [[Market Monitor|Market Monitor]] — daily process, weekend process, market condition classification
 
-> And accordingly, you can drop your drawdown substantially by using Market Monitor." — Part 8 1.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 1.md|How to Get Started In Trading Guide-Part 1]]: Most people stumble into trading without asking why. Your objective determines *everything* — your strategy, time commitment, and whether you should even be trading. Be honest:
 
-> Market Monitor is a breadth-based timing tool — not a price indicator.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 1.md|How to Get Started In Trading Guide-Part 1]]: | $1K/day | Day trading only | Varies, but requires full-time commitment |
 
-> Market breadth works for bottoms, not tops — Excessive bullishness can persist for years.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 1.md|How to Get Started In Trading Guide-Part 1]]: ### 4. Time Commitment — Superhuman Effort for 2–5 Years
 
-> Tops form by narrowing participation, not breadth extremes.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 1.md|How to Get Started In Trading Guide-Part 1]]: - Dan Zenger didn't quit his swimming pool business until he made $17M
 
-> - Market Monitor — daily process, weekend process, market condition classification, indicators - Mentality — trading psychology, discipline, and mindset for consistent execution - ../../transcripts/11.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 1.md|How to Get Started In Trading Guide-Part 1]]: ### 6. Common Mistakes That Guarantee Failure
 
-> Market Monitor Guide/|Transcripts (all 8 parts) - Bullish Momentum Burst Guide — Section 5 (Market Monitor 25%+ threshold for BMB trading) - ../09.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 1.md|How to Get Started In Trading Guide-Part 1]]: - **Refusing to use recommended tools** — insisting on TradingView or Thinkorswim when you can't create your own scans, instead of just getting TC2000 and having all scans in place within 24 hours
 
-> Momentum Burst Bearish Guide/Momentum Burst Bearish Guide.md#4-consolidation-breakdowns-with-bearish-breadth|Momentum Burst Bearish Guide — Section 4 (consolidation breakdowns only work when primary indicator is red) - 05.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 1.md|How to Get Started In Trading Guide-Part 1]]: - Once you commit to a time frame, "very quickly things started to happen"
 
-> Only trade Sugar Baby setups when the Market Monitor is bullish (primary indicator above 200, ideally above 300).
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 2.md|How to Get Started In Trading Guide-Part 2]]: This is the most common outcome. Not because the methods don't work, but because **no expertise was built in any single area.**
 
-> Market Monitor Guide|Market Monitor Guide — only trade Sugar Babies when primary is bullish
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 3.md|How to Get Started In Trading Guide-Part 3]]: - **Not recommended:** AT&T (dying business), stocks that just started paying dividends
 
-> [00:32] Market monitor had a 300 plus green reading yesterday with improved margins across both primary and secondary indicators, which have returned green.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 3.md|How to Get Started In Trading Guide-Part 3]]: - **NeuroShell / NeuroCell** — neural network software from a full-page ad in Stocks & Commodities magazine. Cost $650 + data feed. His wife helped him try to figure it out. It just printed arrows on charts. **"None of that works."**
 
-> [01:56] And that means when you see in the market monitor a negative breath thrust.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 3.md|How to Get Started In Trading Guide-Part 3]]: ### 10. Commit and Stop Chasing — His $500K Education
 
-> [43:14] And, basically I I told you before that day itself that if I see a, range expansion on the index and I see a, breadth thrust, I'll be be bullish.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 3.md|How to Get Started In Trading Guide-Part 3]]: **The biggest time-waster he sees in his community:**
 
-> The session's central argument: focus on young momentum (stocks just beginning their move) rather than chasing old momentum (extended names), and use the confluence of extreme breadth readings + sugar baby signals to time entries.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 3.md|How to Get Started In Trading Guide-Part 3]]: **The truth:** "Simple thing works. I bought Roku, and Roku is up already $2 from my entry. That's it."
 
-> Sugar babies all calling on the same day = market confirmation — When multiple high-beta, catalyst stocks break out simultaneously, it confirms the bounce signal from breadth indicators.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 4.md|How to Get Started In Trading Guide-Part 4]]: Common mistake: trying to copy a trader's method but using different software.
 
-> The day after a massive breadth-driven breakout is not the day to buy — that is the session's radical claim.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]: **The 6-week timeline:** If you have a complete template from a proven trader, and you're committed, "probably six weeks to three months." Six weeks is the optimistic target.
 
-> - Breadth: Lack of FOMO at the open — a positive sign.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]: ### 9. Commit — Marry Your Setup
 
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]: 1. They waste your time exploring instead of committing
+
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 6.md|How to Get Started In Trading Guide-Part 6]]: - **Pullbacks** — common on 5-min, 3-min, 1-min timeframes
+
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 6.md|How to Get Started In Trading Guide-Part 6]]: ### 9. Recommended Day Trading Path for Beginners
+
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 6.md|How to Get Started In Trading Guide-Part 6]]: **NOT recommended for day trading beginners:** Chasing breakouts.
+
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 6.md|How to Get Started In Trading Guide-Part 6]]: 2. **Buy the most powerful vacuum** — go through every post, every video, every comment, every account they follow
+
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 7.md|How to Get Started In Trading Guide-Part 7]]: **The "Fixed Stars vs Meteors" framework** (from a book he recommends):
+
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 7.md|How to Get Started In Trading Guide-Part 7]]: - Bought second (flooded basement), learned from mistakes, fixed it
 
 ## Related Concepts
 
@@ -91,8 +104,23 @@ promote: false
 
 ## Sources
 
-- [[11. Market Monitor Guide]]
-- [[14. Sugar Babies Guide]]
-- [[meeting_2026-05-22_0cdf07fa-1008-46c3-b433-e4ff0458f8f6_deepgram]]
-- [[Session-2026-06-11]]
-- [[Session-2026-06-12]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 1.md|How to Get Started In Trading Guide-Part 1]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 2.md|How to Get Started In Trading Guide-Part 2]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 3.md|How to Get Started In Trading Guide-Part 3]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 4.md|How to Get Started In Trading Guide-Part 4]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 6.md|How to Get Started In Trading Guide-Part 6]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 7.md|How to Get Started In Trading Guide-Part 7]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 8.md|How to Get Started In Trading Guide-Part 8]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 3.md|How to Trade Breakouts Guide-Part 3]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 4.md|How to Trade Breakouts Guide-Part 4]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 6.md|How to Trade Breakouts Guide-Part 6]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 7.md|How to Trade Breakouts Guide-Part 7]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 1.md|Bullish Momentum Burst Guide-Section 1]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 2.md|Bullish Momentum Burst Guide-Section 2]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 3.md|Bullish Momentum Burst Guide-Section 3]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 4.md|Bullish Momentum Burst Guide-Section 4]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 5.md|Bullish Momentum Burst Guide-Section 5]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 6.md|Bullish Momentum Burst Guide-Section 6]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 7.md|Bullish Momentum Burst Guide-Section 7]]
+- [[../03-Guides/stockbee/04. TI65 Guide/04. TI65 Guide.md|04. TI65 Guide]]

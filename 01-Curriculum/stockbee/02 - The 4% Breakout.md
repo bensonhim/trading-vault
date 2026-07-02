@@ -115,7 +115,7 @@ Pradeep asked a simple question:
 
 > *"Which stocks do this 4%+ 9M+ breakout REPEATEDLY?"*
 
-That question gave birth to **Sugar Babies**. You count how many times in 1,450 days a stock has a 4%+ day with 9M+ volume. The top 20–30 per timeframe form your master list of ~90 stocks that are "madly in love" with the market.
+That question gave birth to **Sugar Babies**. You count how many times a stock has a 4%+ day with 9M+ volume across multiple timeframes (5, 10, 20, 50, 126, 252, 504, 756, 1,450 days). The top 20–30 per timeframe form your master list of ~90 stocks that are "madly in love" with the market.
 
 **These are your universe.** You don't scan 8,000 stocks. You trade SOS/DEP/ANTS **only on Sugar Babies** when possible.
 

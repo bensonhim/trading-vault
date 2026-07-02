@@ -1,61 +1,49 @@
 ---
-title: "LLY (Eli Lilly and Company)"
-date: 2026-06-11
-tags: [tickers, wiki, enriched, pradeep-bonde, mega-cap, must-own, sip]
-mention_count: 92
-sources_count: 48
-compilation_count: 2
-enriched: true
+title: "LLY"
+date: 2026-07-02
+tags: [tickers, wiki, auto-compiled]
+mention_count: 8
+sources_count: 7
+compilation_count: 1
 promote: false
 ---
 
-# LLY (Eli Lilly and Company)
+# LLY
 
-## Overview
+*Tickers — compiled from 8 mentions across 7 sources.*
 
-LLY (Eli Lilly) is a **mega-cap pharmaceutical** stock classified in Pradeep's **"must-own" tier** (5,000+ funds). It appears on virtually every daily SIPs watchlist during May–June 2026, making it one of the most persistent scan results. Like COUP, F, and KO, LLY's high mention count is primarily from **automated watchlist inclusion**, not individual trade analysis. The one substantive mention places LLY in the elite "must-own" category with MSFT, AAPL, AMZN, NVDA, GOOGL, META, V, MA, JPM, UNH, and AVGO.
+## Mentions
 
-## Key Mentions
+> [[../../03-Guides/stockbee/19. Deep Dive Guide.md|19. Deep Dive Guide]]: | **5** | **LLY** | Consistent high growth: 45, 45, 38, 54, 53. | Large‑cap growth that keeps re‑accelerating. |
 
-### Must-Own Tier
-- **Stock Selection Guide**: > "5,000+ funds: 'Must own' stocks. Currently ~10–12 names (MSFT, AAPL, AMZN, NVDA, GOOGL, META, **LLY**, V, MA, JPM, UNH, AVGO)." — LLY is one of ~12 stocks considered institutional must-owns.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: - **5,000+ funds**: "Must own" stocks. Currently ~10–12 names (MSFT, AAPL, AMZN, NVDA, GOOGL, META, LLY, V, MA, JPM, UNH, AVGO). These act as a **market-health gauge**: when they break down, the market is unhealthy; when they start making new highs, the turn is real.
 
-### Watchlist Persistence
-LLY appears in **every daily SIPs scan** from May 9 through June 9, 2026, consistently grouped with:
-- [[COUP]], [[F]], [[KO]], [[LOW]] (the core group)
-- [[GLW]], [[GOOG]], [[GOOGL]], [[NVDA]] (frequent additions)
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: | Fund Ownership | **LLY, JPM, V, MA, NVDA, AAPL, AMZN, META, MSFT, AVGO** | 5,000+ funds = must-own | When these break down, the market is unhealthy; when they rally, the turn is real |
 
-### Individual Commentary
-- Unlike some watchlist regulars, LLY has **very little individual commentary** from Pradeep. No specific chart analysis, entry points, or trade outcomes are documented.
-- The 92 mentions are almost entirely from watchlist ticker lists and summary tables.
+> [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: | LLY | 1–4% | Small | Multi-day swing |
 
-## Context
+> [[../../04-Transcripts/stockbee/19. Deep Dive Guide/Pradeep Bonde - Deep Dive Guide-Part 5 - X-Ray Reading_deepgram.md|Pradeep Bonde - Deep Dive Guide-Part 5 - X-Ray Reading_deepgram]]: LLY still worked.
 
-| Setup Type | Evidence |
-|---|---|
-| SIPs watchlist | Daily appearance — near 100% frequency |
-| Must-own tier | 5,000+ funds ownership |
-| EP/DEP | No evidence |
-| Individual trade | None documented |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-24.md|Session-2026-06-24]]: | [[LLY]] | One of the few holding |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-25.md|Session-2026-06-25]]: But if [[GOOG]] is going to go up, it will show up in EP 9M scans — react then, don't predict. The Anthropic founder naming [[Tempus AI]] and [[LLY]] (Eli Lilly) as the two AI beneficiaries was noted as a recurring narrative catalyst.
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-26.md|Session-2026-06-26]]: | [[LLY]] | News catalyst | European CHMP recommendation for chronic lymphocytic leukemia |
 
 ## Related Concepts
 
-- [[05-Wiki/concepts/fund-ownership|Fund Ownership]] — Must-own tier definition
-- [[05-Wiki/setups/SIPs|SIPs (Stocks in Play)]]
-- [[05-Wiki/tickers/COUP|COUP]] — Fellow persistent watchlist member
-- [[05-Wiki/tickers/KO|KO]] — Fellow persistent watchlist member
-- [[05-Wiki/tickers/NVDA|NVDA]] — Fellow must-own tier stock
+*(To be enriched)*
 
 ## Contradictions & Gaps
 
-- LLY's persistent watchlist presence suggests it consistently triggers scan criteria, but Pradeep never discusses actually trading it — possibly because mega-cap pharma stocks don't offer the volatility/move profile he seeks for swing trades.
-- The "must-own" label is about institutional portfolio construction, not trading setups.
+*(To be detected)*
 
 ## Sources
 
-- [[Stock Selection Guide]]
-- [[Trading Meeting Knowledge]]
-- [[Catalysts]]
-- [[Mind Clarity Guide]]
-- [[19. Deep Dive Guide]]
-- All daily meeting transcripts May 9 – June 9, 2026
+- [[../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]
+- [[../03-Guides/stockbee/19. Deep Dive Guide.md|19. Deep Dive Guide]]
+- [[../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]
+- [[../04-Transcripts/stockbee/19. Deep Dive Guide/Pradeep Bonde - Deep Dive Guide-Part 5 - X-Ray Reading_deepgram.md|Pradeep Bonde - Deep Dive Guide-Part 5 - X-Ray Reading_deepgram]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-06-24.md|Session-2026-06-24]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-06-25.md|Session-2026-06-25]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-06-26.md|Session-2026-06-26]]

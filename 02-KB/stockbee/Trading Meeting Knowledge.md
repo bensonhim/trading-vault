@@ -1,13 +1,13 @@
 ---
 title: "Trading Meeting Knowledge"
-date: 2026-06-16
+date: 2026-07-02
 tags: [knowledge, pradeep-bonde, meetings, methodology, market-monitor, evolving, trading]
 ---
 
 # Trading Meeting Knowledge
 
-> Living document compiled from 64 StockBee daily meeting transcripts (May 1 – Jun 10, 2026).
-> Last updated: **Tuesday, June 16, 2026**
+> Living document compiled from 86 StockBee daily meeting transcripts (May 1 – Jun 10, 2026).
+> Last updated: **Thursday, July 02, 2026**
 > This note distills **how Pradeep monitors the market** and **applies his trading methodology** in real-time.
 
 ---
@@ -136,26 +136,26 @@ From daily meeting commentary:
 
 Tickers repeatedly discussed across sessions (setup candidates, examples, or warnings):
 
-- [[EP]] — mentioned 444 times
-- [[DEP]] — mentioned 394 times
-- [[AI]] — mentioned 229 times
-- [[AMD]] — mentioned 114 times
-- [[GLW]] — mentioned 84 times
-- [[DP]] — mentioned 77 times
-- [[IPO]] — mentioned 77 times
-- [[SOS]] — mentioned 59 times
+- [[EP]] — mentioned 583 times
+- [[DEP]] — mentioned 467 times
+- [[AI]] — mentioned 283 times
+- [[SOS]] — mentioned 140 times
+- [[AMD]] — mentioned 124 times
+- [[DP]] — mentioned 96 times
+- [[GLW]] — mentioned 89 times
+- [[IPO]] — mentioned 82 times
+- [[SNDK]] — mentioned 60 times
+- [[FOMO]] — mentioned 56 times
+- [[NTRT]] — mentioned 56 times
 - [[NBS]] — mentioned 49 times
-- [[SNDK]] — mentioned 49 times
-- [[FOMO]] — mentioned 43 times
-- [[OPG]] — mentioned 41 times
-- [[US]] — mentioned 41 times
+- [[US]] — mentioned 47 times
+- [[OPG]] — mentioned 45 times
+- [[MTRT]] — mentioned 43 times
+- [[PM]] — mentioned 42 times
+- [[TXN]] — mentioned 38 times
 - [[IWM]] — mentioned 38 times
-- [[TXN]] — mentioned 35 times
-- [[PM]] — mentioned 31 times
-- [[CEO]] — mentioned 30 times
-- [[SMCI]] — mentioned 30 times
-- [[NTRT]] — mentioned 30 times
-- [[NBI]] — mentioned 29 times
+- [[CEO]] — mentioned 35 times
+- [[SMCI]] — mentioned 34 times
 
 ---
 
@@ -203,6 +203,17 @@ Tickers repeatedly discussed across sessions (setup candidates, examples, or war
 
 All daily session curated notes:
 
+- [[Session-2026-07-01.md|Session-2026-07-01]]
+- [[Session-2026-06-30.md|Session-2026-06-30]]
+- [[Session-2026-06-29.md|Session-2026-06-29]]
+- [[Session-2026-06-26.md|Session-2026-06-26]]
+- [[Session-2026-06-25.md|Session-2026-06-25]]
+- [[Session-2026-06-24.md|Session-2026-06-24]]
+- [[Session-2026-06-23.md|Session-2026-06-23]]
+- [[Session-2026-06-22.md|Session-2026-06-22]]
+- [[Session-2026-06-18.md|Session-2026-06-18]]
+- [[Session-2026-06-17.md|Session-2026-06-17]]
+- [[Session-2026-06-16.md|Session-2026-06-16]]
 - [[Session-2026-06-15.md|Session-2026-06-15]]
 - [[Session-2026-06-12.md|Session-2026-06-12]]
 - [[Session-2026-06-11.md|Session-2026-06-11]]
@@ -240,7 +251,7 @@ All daily session curated notes:
 
 | Date | Change |
 |------|--------|
-| 2026-06-16 | Initial creation from 64 meeting transcripts (May 1 – Jun 10, 2026) |
+| 2026-07-02 | Initial creation from 86 meeting transcripts (May 1 – Jun 10, 2026) |
 
 ---
 

@@ -135,9 +135,10 @@ Consumer Discretionary is king for Bucket 0/1 stocks because **products that cat
 Stock selection isn't just about filters — **the Sugar Baby list IS your pre-selected universe.**
 
 The Sugar Baby process:
-1. Run Count Through for 504/252/126/63/21/10/5 days
+1. Run Count Through for 5, 10, 20, 50, 126, 252, 504, 756, 1,450 days
 2. Sort descending by count per timeframe
 3. Select top 20–30 per timeframe
+4. For 5d, 10d, and 20d: require minimum 3 hits
 4. Flag all symbols → master list of ~90 stocks
 5. **Trade SOS/DEP/ANTS exclusively on this list when possible**
 

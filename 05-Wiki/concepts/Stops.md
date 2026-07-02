@@ -1,143 +1,98 @@
 ---
 title: "Stops"
-date: 2026-06-11
+date: 2026-07-02
 tags: [concepts, wiki, auto-compiled]
-mention_count: 62
-sources_count: 31
+mention_count: 245
+sources_count: 122
 compilation_count: 1
 promote: false
 ---
 
 # Stops
 
-*Concepts — compiled from 62 mentions across 31 sources.*
+*Concepts — compiled from 245 mentions across 122 sources.*
 
 ## Mentions
 
-> [14:35] I set up stop loss immediately.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: - Working people who cannot watch screens need persistent growers or high-fund-ownership names they can hold with wide stops.
 
-> [15:02] If you set start setting up type of stop loss, you will be in a much better position.
+> [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: - For stable large-account compounding → 2,500+/5,000+ fund names + close stops + larger size.
 
-> [16:20] Which stops.
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: | 9:35 AM | Shakeout观察; enter non-OPG setups | Stops placed instantly |
 
-> [22:27] But, again, look at your stops.
+> [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: | 4:00 PM | Close / manage stops | Day ends |
 
-> [22:29] And I stops are going to be much wider on this.
+> [[../../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]: - [[../KB/Stops|Stops]] — stop placement by setup type, width, management
 
-> [34:17] Just one more question on stop loss.
+> [[../../03-Guides/stockbee/23. Bearish Trading Guide.md|23. Bearish Trading Guide]]: | **Position sizing** | Fixed share sizing adjusted by liquidity; size smaller for wider stops |
 
-> [69:19] But, PG, when, like, QBTS and TXN are inside days today, so what should be the stops for them?
+> [[../../03-Guides/stockbee/Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs.md|Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs]]: - **Management:** Trail stops loosely at first, then aggressively once the stock begins reaching your price target
 
-> [69:27] It stops if there's what?
+> [[../../03-Guides/stockbee/Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs.md|Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs]]: 6. **Manage:** Move to break even quickly; trail stops based on conviction and price targets
 
-> [71:11] And if you're doing e p 9,000,000, you'll have to give it to more you'll need wider stops.
+> [[../../03-Guides/stockbee/Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs.md|Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs]]: So once it started making that kind of a move is when I started moving my stop. So I moved my stop here. Then I moved my stop here to the low of this day. Then I moved my stop to the low of this day.
 
-> [71:45] I think the I think the most common problem here is people trying to understand how to put a 2.5% stop loss on the position size.
+> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 4.md|How to Get Started In Trading Guide-Part 4]]: - How do they put stops?
 
-> [37:41] Anyway, just, make sure that you keep moving your stops.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md|How to Trade Breakouts Guide-Part 1]]: | **Part 2** | Mechanics & Timing | When breakouts happen, exit strategy, why MA stops fail |
 
-> [66:13] And then basically, like, in a, make a rule to, like, break even, like, remove your stops to break even.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md|How to Trade Breakouts Guide-Part 1]]: ### 5. Stop Placement
 
-> [20:13] Nvidia, you just like any may maybe it's like any, move your stops or take partial profit.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md|How to Trade Breakouts Guide-Part 1]]: 6. **Stops: low of day (or half day's range).** If the breakout is genuine, it won't violate the day's low. Half-day range is more aggressive but useful in bull markets.
 
-> [05:54] And it means your stops will be wider now.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md|How to Trade Breakouts Guide-Part 1]]: 7. **High-priced stocks = smaller risk.** If you want 2.5% risk, trade $50+ stocks. Sub-$10 stocks require 8–10% stops.
 
-> [36:32] So stops should be good.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 2.md|How to Trade Breakouts Guide-Part 2]]: | **Part 2** | Mechanics & Timing | When breakouts happen, exit strategy, why MA stops fail |
 
-> [00:38] Let's look at, like and I I really don't have anything which I think is, like, in a basically if you look at, like, any things, I as I said in the morning, like, in ad, everything put on very close stops, and I got stopped out.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 2.md|How to Trade Breakouts Guide-Part 2]]: - Buy Tesla at 09:35 with half-day stop = small risk, potential for full move
 
-> [13:51] I'm great, If if you have the stops, you should keep your stop.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 2.md|How to Trade Breakouts Guide-Part 2]]: ### 10. Moving Average Stops — Mathematically Don't Work
 
-> [16:37] After hours, if you are putting stops which move in after hours, you are going to get chopped.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 2.md|How to Trade Breakouts Guide-Part 2]]: - So the BETTER the trade, the WORSE your stop placement
 
-> [16:43] Stops after hours is not where the stops when you put stops, and they are only active unless you decide to make them active.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 2.md|How to Trade Breakouts Guide-Part 2]]: 2. **Price** — higher-priced stocks preferred (easier to manage risk with smaller % stops)
 
-> [16:52] You're going to get killed if you keep your stops active in after hours.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 3.md|How to Trade Breakouts Guide-Part 3]]: | **Part 2** | Mechanics & Timing | When breakouts happen, exit strategy, why MA stops fail |
 
-> [18:39] And you had to respect your stops.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 4.md|How to Trade Breakouts Guide-Part 4]]: | **Part 2** | Mechanics & Timing | When breakouts happen, exit strategy, why MA stops fail |
 
-> [37:27] Today morning, I came in with, like, any whatever I made my stops because I looked at all these 2,500, 5,000.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 5.md|How to Trade Breakouts Guide-Part 5]]: | **Part 2** | Mechanics & Timing | When breakouts happen, exit strategy, why MA stops fail |
 
-> [35:25] And not like any this thing is not relevant because gap then your stops will be very wide.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 6.md|How to Trade Breakouts Guide-Part 6]]: | **Part 2** | Mechanics & Timing | When breakouts happen, exit strategy, why MA stops fail |
 
-> [36:30] If you're putting tight stops, and if I start, like, in a widening my definition, I start putting stuff.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 7.md|How to Trade Breakouts Guide-Part 7]]: | **Part 2** | Mechanics & Timing | When breakouts happen, exit strategy, why MA stops fail |
 
-> [15:36] O and D is right, and and if you are just, like, in a waiting for these kind of things to enter after 30%, your stops will be much wider.
+> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 7.md|How to Trade Breakouts Guide-Part 7]]: - [[Stops|Stops]] — stop placement by setup type, width, management
 
-> [09:18] And, if, like, an, you tighten your stops or you reduce your exposure if the market is not in your favor.
+> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 2.md|Bullish Momentum Burst Guide-Section 2]]: | **Dollar breakout** | Stock up $0.90+ (closing minus opening) with volume > 100,000 | Higher-priced stocks ($40+), tighter stops |
 
-> [53:00] I would like in a, start, like, in a really tightening stops also or, like, an ass trim into, this thing.
+> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 2.md|Bullish Momentum Burst Guide-Section 2]]: | **L** | **Linearity** | First leg shows clean, persistent buying. No big selling candles. Orderly advance. Choppiness = wider stops needed, lower probability. |
 
-> [65:46] If you are trading means this mismatch between understanding this thing is the biggest problem why traders have problem with stops and why they are struggling.
+> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 4.md|Bullish Momentum Burst Guide-Section 4]]: ### 3. Stop Placement: A Progression
 
-> [68:13] And it means, again, this whole discussion which is happening on the timeline about exits, right, and stops.
+> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 4.md|Bullish Momentum Burst Guide-Section 4]]: ### 4. Hard Stops vs. Mental Stops
 
-> [76:46] And, basically, when you are trading this, shorter time period, three to five days holding period, because you are putting closer stops and all.
+> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 4.md|Bullish Momentum Burst Guide-Section 4]]: ### 5. TC2000 Stop Setup on Chart
 
-> [59:42] I'll put stops on all of them.
+> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 4.md|Bullish Momentum Burst Guide-Section 4]]: 3. **Hard stops during market hours only** — no mental stops, no after-hours exposure
 
-> [59:45] I push, put, like, aggressive stops.
+> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 5.md|Bullish Momentum Burst Guide-Section 5]]: **How to get 2.5–3% stops on 4% breakout:**
 
-> [60:13] You can fix the stops problem.
+> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 5.md|Bullish Momentum Burst Guide-Section 5]]: 3. Use half-of-day-range stops
 
-> [14:06] Instead of putting a stop loss, I sent it as a in the morning.
+> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 5.md|Bullish Momentum Burst Guide-Section 5]]: 5. **Combine with dollar breakout** for even tighter stops
 
-> [54:49] OPG, you cannot attach a stop loss.
+> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 7.md|Bullish Momentum Burst Guide-Section 7]]: | "Higher price = more risk" | Actually **less** volatile; tighter stops possible |
 
-> [54:51] There is no way to attach a stop loss to OPG.
+> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 7.md|Bullish Momentum Burst Guide-Section 7]]: 4. Enter with half-range stops (1–2.5% risk)
 
-> [00:30] People stops are where ten day moving average, twenty day moving average.
+> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 7.md|Bullish Momentum Burst Guide-Section 7]]: - [[Stops|Stops]] — stop placement by setup type, width, management
 
-> [04:21] When things reach twenty day moving average where people have stops.
+> [[../../03-Guides/stockbee/06. DT Guide/06. DT Guide.md|06. DT Guide]]: | **Stop loss** | Place at the **low of the box** |
 
-> [04:46] All of them are putting stops at twenty day moving average.
+> [[../../03-Guides/stockbee/08. Anticipation (ANTS) Guide/08. Anticipation (ANTS) Guide.md|08. Anticipation (ANTS) Guide]]: - **Lower-price stocks (<$10)** require wider stops because 0.4% on an $8 stock is just 1–2 cents — for these, adjust the filter to ±1% or ±1.5%
 
-> [66:19] If I buy something, I'm putting a tiny stops and trying to move to breakeven ASAP so that in case they fade, there's no, losses.
-
-> [08:12] Sometimes when this is open, that, TC two thousand stops working also.
-
-> [13:10] He stops asking me, is it a breakout?
-
-> That is the only reason why you enter." The Victoria's Secret Model analogy — on getting 2.5% stops: > "If you want to date a Victoria's Secret model, there are two ways.
-
-> Very clear, clean." On when to move stops to breakeven: > "If it goes 5–7–8% in my favor, I move the stop.
-
-> SIPs intraday with 2.5% stops = larger position possible.
-
-> Can we pre-place stops? This is common sense, but most traders don't systematize it.
-
-> Pradeep had moved stops aggressively because these were extended moves.
-
-> The key principle: > "You had to respect your stops." > "I had moved my stop very aggressively because it was 40% in two days.
-
-> If you look at things, as I said in the morning, everything was put on very close stops, and I got stopped out.
-
-> Retail is fully committed." Pradeep gave a clear warning about stops that trigger in after-hours: > "If you are putting stops which move in after hours, you are going to get chopped.
-
-> Respect your stops. All three open positions (NVIDIA, TXN, RocketLab) were stopped out.
-
-> After-hours stops = disaster. Only active stops during market hours; after-hours gaps will chop you out.
-
-> In chop: sell into strength, peel positions, use tight stops — don't let winners turn into losers - AM Transcript — May 19, 2026 - PM Transcript — May 19, 2026 (very short, ~5 min)
-
-> Magnitude vs. Duration move: > "The biggest problem why traders have problems with stops is the basic understanding between magnitude move and a duration move.
-
-> Catalyst setups get wider stops; technical setups get tighter stops. Know which type you're trading before you enter.
-
-> Instead of putting a stop loss, I sent it as a limit order in the morning." > "I just put, sent it as a limit order in a hurry while trying to adjust.
-
-> OPG (Opening Price Guarantee): Cannot attach a stop loss to an OPG order.
-
-> SNDK and the Moving Average Trap SNDK stops are at the 10-day and 20-day moving average.
-
-> > "People stops are where ten day moving average, twenty day moving average.
-
-> Perfect indicator." Everyone has stops at the 20-day moving average.
-
-> Move stops to breakeven ASAP in choppy markets — small profits or breakeven beats taking losses 9.
-
-> Waiting for confirmation means wider stops and lower reward.
-
+> [[../../03-Guides/stockbee/08. Anticipation (ANTS) Guide/08. Anticipation (ANTS) Guide.md|08. Anticipation (ANTS) Guide]]: - [[Stops|Stops]] — stop placement by setup type, width, management
 
 ## Related Concepts
 
@@ -149,34 +104,23 @@ promote: false
 
 ## Sources
 
-- [[2026-05-01_3-pm]]
-- [[2026-05-01_9_15-am]]
-- [[2026-05-04_9_15-am]]
-- [[2026-05-05_9_15-am]]
-- [[2026-05-07_3-pm]]
-- [[2026-05-11_3-pm]]
-- [[2026-05-11_9_15-am]]
-- [[2026-05-12_3-pm]]
-- [[2026-05-12_9_15-am]]
-- [[2026-05-13_3-pm]]
-- [[2026-05-14_3-pm]]
-- [[2026-05-18_9_15-am]]
-- [[2026-05-22_9_15-am]]
-- [[2026-05-28_9_15-am]]
-- [[2026-06-01_3-pm]]
-- [[2026-06-02_3-pm]]
-- [[2026-06-03_9_15-am]]
-- [[2026-06-05_3-pm]]
-- [[2026-06-09_9_15-am]]
-- [[2026-06-10_9_15-am]]
-- [[Session-2026-05-01]]
-- [[Session-2026-05-07]]
-- [[Session-2026-05-12]]
-- [[Session-2026-05-19]]
-- [[Session-2026-05-28]]
-- [[Session-2026-06-01]]
-- [[Session-2026-06-02]]
-- [[Session-2026-06-03]]
-- [[Session-2026-06-05]]
-- [[Session-2026-06-09]]
-- [[Session-2026-06-10]]
+- [[../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 4.md|How to Get Started In Trading Guide-Part 4]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md|How to Trade Breakouts Guide-Part 1]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 2.md|How to Trade Breakouts Guide-Part 2]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 3.md|How to Trade Breakouts Guide-Part 3]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 4.md|How to Trade Breakouts Guide-Part 4]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 5.md|How to Trade Breakouts Guide-Part 5]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 6.md|How to Trade Breakouts Guide-Part 6]]
+- [[../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 7.md|How to Trade Breakouts Guide-Part 7]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 2.md|Bullish Momentum Burst Guide-Section 2]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 4.md|Bullish Momentum Burst Guide-Section 4]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 5.md|Bullish Momentum Burst Guide-Section 5]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 7.md|Bullish Momentum Burst Guide-Section 7]]
+- [[../03-Guides/stockbee/06. DT Guide/06. DT Guide.md|06. DT Guide]]
+- [[../03-Guides/stockbee/08. Anticipation (ANTS) Guide/08. Anticipation (ANTS) Guide.md|08. Anticipation (ANTS) Guide]]
+- [[../03-Guides/stockbee/09. Momentum Burst Bearish Guide/09. Momentum Burst Bearish Guide.md|09. Momentum Burst Bearish Guide]]
+- [[../03-Guides/stockbee/10. Weak Structure Short Guide/10. Weak Structure Short Guide.md|10. Weak Structure Short Guide]]
+- [[../03-Guides/stockbee/13. Episodic Pivots Guide/13. Episodic Pivots Guide.md|13. Episodic Pivots Guide]]
+- [[../03-Guides/stockbee/14. Sugar Babies Guide/14. Sugar Babies Guide.md|14. Sugar Babies Guide]]
+- [[../03-Guides/stockbee/15. Start of a Swing Guide/15. Start of a Swing Guide.md|15. Start of a Swing Guide]]
+- [[../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]
