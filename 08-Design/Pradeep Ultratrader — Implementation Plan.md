@@ -16,7 +16,7 @@ tags: [design, pradeep-ultratrader, stockbee, implementation, plan]
 | 1 | Foundation | ✅ COMPLETE | `a5e9743` |
 | 2 | Sugar Baby Rebuild | ✅ COMPLETE | `567946e` |
 | 3 | SOS Rebuild | ✅ COMPLETE | `0582dc8` |
-| 4 | EP 9M Rebuild | ⏳ PENDING | — |
+| 4 | EP 9M Rebuild | ✅ COMPLETE | `0bafc6c` |
 | 5 | DEP Rebuild | ⏳ PENDING | — |
 | 6 | Intraday Daemon | ⏳ PENDING | — |
 | 7 | Nightly Pipeline Integration | ⏳ PENDING | — |
@@ -239,7 +239,7 @@ Step 2:   Run all scans (using refreshed SB list)
 
 ---
 
-## Wave 4: EP 9M Rebuild ⏳ PENDING
+## Wave 4: EP 9M Rebuild ✅ COMPLETE
 
 ### 4.1 EP 9M Scan — Gap Detection + Magna 53
 **File:** `src/scans/ep_9m.py` (rewrite)
