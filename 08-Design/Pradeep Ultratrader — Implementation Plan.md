@@ -20,7 +20,7 @@ tags: [design, pradeep-ultratrader, stockbee, implementation, plan]
 | 5 | DEP Rebuild | ✅ COMPLETE | `246ac35` |
 | 6 | Intraday Daemon | ✅ COMPLETE | `7489004` |
 | 7 | Nightly Pipeline Integration | ✅ COMPLETE | `ec12bc3` |
-| 8 | OpenCode Agent Definition | ⏳ PENDING | — |
+| 8 | OpenCode Agent Definition | ✅ COMPLETE | `1a061af` |
 | 9 | Trade Management | ⏳ PENDING | — |
 | 10 | Testing & Deployment | ⏳ PENDING | — |
 
@@ -414,7 +414,7 @@ Update templates to include:
 
 ---
 
-## Wave 8: OpenCode Agent Definition ⏳ PENDING
+## Wave 8: OpenCode Agent Definition ✅ COMPLETE
 
 ### 8.1 Agent Definition
 **File:** `.opencode/agents/pradeep-ultratrader.md` (new)
