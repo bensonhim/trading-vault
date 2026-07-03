@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08-Design/Pradeep Ultratrader — Design.md",
+                "file": "01-Curriculum/stockbee/04 - Stops.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pradeep Ultratrader — Design"
+              "title": "04 - Stops"
             }
           },
           {
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08-Design/Pradeep Ultratrader — Design.md",
+                "file": "01-Curriculum/stockbee/04 - Stops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pradeep Ultratrader — Design"
+              "title": "Backlinks for 04 - Stops"
             }
           },
           {
@@ -195,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,10 +210,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b26d531425bc4a2",
+  "active": "30889ab1b1cdb19e",
   "lastOpenFiles": [
-    "05-Wiki/tickers/NFLX.md",
     "06-Daily/stockbee/Sessions/Session-2026-07-02.md",
+    "08-Design/Pradeep Ultratrader — Design.md",
+    "05-Wiki/tickers/NFLX.md",
     "04-Transcripts/stockbee/2026-07-02_9_15-am.md",
     "04-Transcripts/stockbee/2026-07-02_9_15-am.json",
     "04-Transcripts/stockbee/2026-07-02_9_15-am.wav",
@@ -233,7 +235,6 @@
     "04-Transcripts/stockbee/2026-06-30_9_15-am.json",
     "04-Transcripts/stockbee/2026-06-30_3-pm.md",
     "08-Design/Pradeep Ultratrader — Implementation Plan.md",
-    "08-Design/Pradeep Ultratrader — Design.md",
     "08-Design/Pradeep Ultratrader — Technical Definitions.md",
     "06-Daily/stockbee/Briefing-2026-06-27.md",
     "08-Design/_Transcription Engine — Design Notes.md",
