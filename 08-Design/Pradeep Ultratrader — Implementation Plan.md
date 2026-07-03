@@ -22,7 +22,7 @@ tags: [design, pradeep-ultratrader, stockbee, implementation, plan]
 | 7 | Nightly Pipeline Integration | ✅ COMPLETE | `ec12bc3` |
 | 8 | OpenCode Agent Definition | ✅ COMPLETE | `1a061af` |
 | 9 | Trade Management | ✅ COMPLETE | `c596ad8` |
-| 10 | Testing & Deployment | ⏳ PENDING | — |
+| 10 | Testing & Deployment | ✅ COMPLETE | — |
 
 ---
 
@@ -483,7 +483,7 @@ Optional TypeScript tools for the agent:
 
 ---
 
-## Wave 10: Testing & Deployment ⏳ PENDING
+## Wave 10: Testing & Deployment ✅ COMPLETE
 
 ### 10.1 End-to-End Test
 - Run nightly pipeline on a trading day

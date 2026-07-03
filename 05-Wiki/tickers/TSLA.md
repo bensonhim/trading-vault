@@ -1,16 +1,16 @@
 ---
 title: "TSLA"
-date: 2026-07-02
+date: 2026-07-03
 tags: [tickers, wiki, auto-compiled]
-mention_count: 20
-sources_count: 9
+mention_count: 22
+sources_count: 10
 compilation_count: 1
 promote: false
 ---
 
 # TSLA
 
-*Tickers — compiled from 20 mentions across 9 sources.*
+*Tickers — compiled from 22 mentions across 10 sources.*
 
 ## Mentions
 
@@ -54,6 +54,10 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-06-24.md|Session-2026-06-24]]: 10. **Gap-down follow-through = correction, not just chop** — The PM session confirmed that dip buyers who bought yesterday's bounce are now trapped. The range-bound phase is transitioning into a proper pullback. Shorts ([[RGTI]], [[IONI]], [[TSLA]], Fuel Cell) are finally following through.
 
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]: | [[TSLA]] | Member chatter | No setup here; one-eyed king narrative |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]: | [[TSLA]] | Member chatter | No short; trappy stock |
+
 ## Related Concepts
 
 *(To be enriched)*
@@ -73,3 +77,4 @@ promote: false
 - [[../06-Daily/stockbee/Sessions/Session-2026-06-15.md|Session-2026-06-15]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-06-23.md|Session-2026-06-23]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-06-24.md|Session-2026-06-24]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]

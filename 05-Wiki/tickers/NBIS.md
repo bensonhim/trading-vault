@@ -1,16 +1,16 @@
 ---
 title: "NBIS"
-date: 2026-07-02
+date: 2026-07-03
 tags: [tickers, wiki, auto-compiled]
-mention_count: 46
-sources_count: 17
+mention_count: 47
+sources_count: 18
 compilation_count: 1
 promote: false
 ---
 
 # NBIS
 
-*Tickers — compiled from 46 mentions across 17 sources.*
+*Tickers — compiled from 47 mentions across 18 sources.*
 
 ## Mentions
 
@@ -41,6 +41,8 @@ promote: false
 > [[../../04-Transcripts/stockbee/2026-05-15_9_15-am.md|2026-05-15_9_15-am]]: Why don't you want to do something which is where there is an age, which is e p 9,000,000, find a setup with Catalyst, something like NBIS, which had a Catalyst couple of days ago, or, like, an ONDS or something rather than doing something which is, like, an outside of your expertise and where the probability of it working is very low.
 
 > [[../../04-Transcripts/stockbee/2026-05-15_9_15-am.md|2026-05-15_9_15-am]]: Based on the catalyst, you think that it is going to or, good example is NBIS.
+
+> [[../../04-Transcripts/stockbee/2026-07-02_9_15-am.md|2026-07-02_9_15-am]]: He was buying NBIS.
 
 > [[../../04-Transcripts/stockbee/14. Sugar Babies Guide/Pradeep Bonde - Sugar Babies Guide-Part 10 - Sugar Babies Deeper Look_deepgram.md|Pradeep Bonde - Sugar Babies Guide-Part 10 - Sugar Babies Deeper Look_deepgram]]: NBIS is based on our things.
 
@@ -92,8 +94,6 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-05-13.md|Session-2026-05-13]]: 5. Update the **long-term file** with markers (like ★★★★★ for NBIS)
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-13.md|Session-2026-05-13]]: ### NBIS: The Only Real Catalyst
-
 ## Related Concepts
 
 *(To be enriched)*
@@ -113,6 +113,7 @@ promote: false
 - [[../04-Transcripts/stockbee/2026-05-13_9_15-am.md|2026-05-13_9_15-am]]
 - [[../04-Transcripts/stockbee/2026-05-13_9_15_AM.md|2026-05-13_9_15_AM]]
 - [[../04-Transcripts/stockbee/2026-05-15_9_15-am.md|2026-05-15_9_15-am]]
+- [[../04-Transcripts/stockbee/2026-07-02_9_15-am.md|2026-07-02_9_15-am]]
 - [[../04-Transcripts/stockbee/21. Process Guide/Pradeep Bonde - Process Guide-EP9 Million Daily Process_deepgram.md|Pradeep Bonde - Process Guide-EP9 Million Daily Process_deepgram]]
 - [[../04-Transcripts/stockbee/Meetings/meeting_2026-05-13_8db5e63e-1562-4362-8e37-316a228efa08_deepgram.md|meeting_2026-05-13_8db5e63e-1562-4362-8e37-316a228efa08_deepgram]]
 - [[../04-Transcripts/stockbee/Meetings/meeting_2026-05-13_9c3299cf-f66d-448b-92e1-d04307fafb79_deepgram.md|meeting_2026-05-13_9c3299cf-f66d-448b-92e1-d04307fafb79_deepgram]]

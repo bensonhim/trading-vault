@@ -3,39 +3,39 @@
   "pages": {
     "Market Monitor": {
       "category": "concepts",
-      "source_hash": "aa80f3a5cd9efd4a",
+      "source_hash": "54215132bcc15cd5",
       "file": "05-Wiki\\concepts\\Market Monitor.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "Start of a Swing": {
       "category": "concepts",
-      "source_hash": "012863a4154284b5",
+      "source_hash": "6051cb8eabfe255b",
       "file": "05-Wiki\\concepts\\Start of a Swing.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "Breakout": {
       "category": "setups",
-      "source_hash": "5c90560909f0652e",
+      "source_hash": "4bca512c8fa24349",
       "file": "05-Wiki\\setups\\Breakout.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "Scans and Filters": {
       "category": "concepts",
       "source_hash": "902066ff9de98c7e",
       "file": "05-Wiki\\concepts\\Scans and Filters.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "Anticipation": {
       "category": "concepts",
-      "source_hash": "7066fd491196a866",
+      "source_hash": "edcfcf0aa2764724",
       "file": "05-Wiki\\concepts\\Anticipation.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "Sugar Baby": {
       "category": "setups",
-      "source_hash": "bb5f1baec74ab970",
+      "source_hash": "94fab5adf466e7f8",
       "file": "05-Wiki\\setups\\Sugar Baby.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "LOW": {
       "category": "tickers",
@@ -45,9 +45,9 @@
     },
     "Catalyst": {
       "category": "concepts",
-      "source_hash": "011b13d9a2d08fa8",
+      "source_hash": "d0320ba57620420b",
       "file": "05-Wiki\\concepts\\Catalyst.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "Catalyst Lifespan": {
       "category": "concepts",
@@ -57,99 +57,99 @@
     },
     "NVDA": {
       "category": "tickers",
-      "source_hash": "e97786adf6b4e901",
+      "source_hash": "0b864fb6098251fa",
       "file": "05-Wiki\\tickers\\NVDA.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "LLY": {
       "category": "tickers",
       "source_hash": "c0549855a41e19b5",
       "file": "05-Wiki\\tickers\\LLY.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "Process Mindset": {
       "category": "concepts",
       "source_hash": "c05b917bfd5cf491",
       "file": "05-Wiki\\concepts\\Process Mindset.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "Institutional Quality": {
       "category": "concepts",
       "source_hash": "19f188d188747fee",
       "file": "05-Wiki\\concepts\\Institutional Quality.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "EP9M": {
       "category": "setups",
-      "source_hash": "5fb387e468b008e2",
+      "source_hash": "e48eba001d34fed8",
       "file": "05-Wiki\\setups\\EP9M.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "Delayed Entry Point": {
       "category": "concepts",
       "source_hash": "aa2d086904084591",
       "file": "05-Wiki\\concepts\\Delayed Entry Point.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "Breakeven": {
       "category": "concepts",
-      "source_hash": "065e28b0809bbc51",
+      "source_hash": "2d89927739671914",
       "file": "05-Wiki\\concepts\\Breakeven.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "Deep Dive": {
       "category": "setups",
-      "source_hash": "2273c1684dc293c6",
+      "source_hash": "4c899ade5a3f1697",
       "file": "05-Wiki\\setups\\Deep Dive.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "Stock Selection": {
       "category": "concepts",
       "source_hash": "a8bf2ad57d5fa0e3",
       "file": "05-Wiki\\concepts\\Stock Selection.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "Entries": {
       "category": "concepts",
-      "source_hash": "8ba73377c4219f82",
+      "source_hash": "e9243af87376de47",
       "file": "05-Wiki\\concepts\\Entries.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "Position Sizing": {
       "category": "concepts",
-      "source_hash": "ff094e7d23f472cf",
+      "source_hash": "2925b46917405835",
       "file": "05-Wiki\\concepts\\Position Sizing.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "Momentum Burst": {
       "category": "concepts",
-      "source_hash": "b623c37dfde89486",
+      "source_hash": "d5b129624313ca45",
       "file": "05-Wiki\\concepts\\Momentum Burst.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "FOMO": {
       "category": "concepts",
       "source_hash": "eb5aff1cc2b82038",
       "file": "05-Wiki\\concepts\\FOMO.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "Episodic Pivot": {
       "category": "concepts",
-      "source_hash": "e9edc63ea089b571",
+      "source_hash": "ddfc1eb3ce5d4d7e",
       "file": "05-Wiki\\concepts\\Episodic Pivot.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "Chasing": {
       "category": "concepts",
-      "source_hash": "12d12e039018b756",
+      "source_hash": "f8a94aec0a7727b2",
       "file": "05-Wiki\\concepts\\Chasing.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "Stops": {
       "category": "concepts",
       "source_hash": "a990b703504be938",
       "file": "05-Wiki\\concepts\\Stops.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "Bullish Momentum Burst": {
       "category": "concepts",
@@ -165,21 +165,21 @@
     },
     "Mind Clarity": {
       "category": "concepts",
-      "source_hash": "d41f612561a31138",
+      "source_hash": "e744983ff3271b79",
       "file": "05-Wiki\\concepts\\Mind Clarity.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "Trade Management": {
       "category": "concepts",
-      "source_hash": "40a5d40be0e78a1a",
+      "source_hash": "760015ab00f0492a",
       "file": "05-Wiki\\concepts\\Trade Management.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "Peeling": {
       "category": "concepts",
       "source_hash": "123a6617042f413f",
       "file": "05-Wiki\\concepts\\Peeling.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "Confluences": {
       "category": "concepts",
@@ -189,51 +189,51 @@
     },
     "Tight Days": {
       "category": "concepts",
-      "source_hash": "981a724002d6794f",
+      "source_hash": "6d6618cfc552e32f",
       "file": "05-Wiki\\concepts\\Tight Days.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "Reversal Bullish": {
       "category": "setups",
-      "source_hash": "79395a02bcebb553",
+      "source_hash": "0f232f4d40605ace",
       "file": "05-Wiki\\setups\\Reversal Bullish.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "Bearish Trading": {
       "category": "setups",
       "source_hash": "9ca4f63c31e7a524",
       "file": "05-Wiki\\setups\\Bearish Trading.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "Broken Business": {
       "category": "concepts",
       "source_hash": "5f177f8831f966c4",
       "file": "05-Wiki\\concepts\\Broken Business.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "Weak Structure Short": {
       "category": "concepts",
       "source_hash": "fc3408086a1c84b9",
       "file": "05-Wiki\\concepts\\Weak Structure Short.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "FHP": {
       "category": "setups",
-      "source_hash": "52ff8b051fe1e30e",
+      "source_hash": "721c001ba5c58360",
       "file": "05-Wiki\\setups\\FHP.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "Dollar Breakout": {
       "category": "setups",
       "source_hash": "e4901537979c3713",
       "file": "05-Wiki\\setups\\Dollar Breakout.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "Deep Work": {
       "category": "concepts",
-      "source_hash": "11835dff9cd9abf9",
+      "source_hash": "b20ac87ab75d9985",
       "file": "05-Wiki\\concepts\\Deep Work.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "Momentum Burst Bearish": {
       "category": "concepts",
@@ -243,21 +243,21 @@
     },
     "Situational Awareness": {
       "category": "concepts",
-      "source_hash": "f09e08712f0020c9",
+      "source_hash": "1afaa9dacee7ea1f",
       "file": "05-Wiki\\concepts\\Situational Awareness.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "NBIS": {
       "category": "tickers",
-      "source_hash": "028560f6a31906ba",
+      "source_hash": "8b541cf64cbca6ac",
       "file": "05-Wiki\\tickers\\NBIS.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "AVGO": {
       "category": "tickers",
       "source_hash": "41cd7b8386714f71",
       "file": "05-Wiki\\tickers\\AVGO.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "KO": {
       "category": "tickers",
@@ -281,61 +281,61 @@
       "category": "tickers",
       "source_hash": "0068b479e01a3a91",
       "file": "05-Wiki\\tickers\\GOOG.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "GOOGL": {
       "category": "tickers",
       "source_hash": "105a6446d558ae0b",
       "file": "05-Wiki\\tickers\\GOOGL.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "AMD": {
       "category": "tickers",
-      "source_hash": "d296b7b95fdf23ab",
+      "source_hash": "63a711663db31662",
       "file": "05-Wiki\\tickers\\AMD.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "GLW": {
       "category": "tickers",
-      "source_hash": "ba4723da287b2f78",
+      "source_hash": "ea1e2032ca89f7ad",
       "file": "05-Wiki\\tickers\\GLW.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "META": {
       "category": "tickers",
-      "source_hash": "e660867be5bd5bc2",
+      "source_hash": "cba2df2b9dbc59cf",
       "file": "05-Wiki\\tickers\\META.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "HOOD": {
       "category": "tickers",
       "source_hash": "76a38b7277e11948",
       "file": "05-Wiki\\tickers\\HOOD.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "RXT": {
       "category": "tickers",
       "source_hash": "779c07cd8d64d4e2",
       "file": "05-Wiki\\tickers\\RXT.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "DELL": {
       "category": "tickers",
-      "source_hash": "7926034b33dde3f9",
+      "source_hash": "9a1aee6309164933",
       "file": "05-Wiki\\tickers\\DELL.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "AMZN": {
       "category": "tickers",
       "source_hash": "caf31970b326ba42",
       "file": "05-Wiki\\tickers\\AMZN.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "TSLA": {
       "category": "tickers",
-      "source_hash": "40c8d224273ace71",
+      "source_hash": "b0ab7449fb7b918e",
       "file": "05-Wiki\\tickers\\TSLA.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "DAL": {
       "category": "tickers",
@@ -351,45 +351,51 @@
     },
     "BA": {
       "category": "tickers",
-      "source_hash": "324e479f2c81ccd2",
+      "source_hash": "f179c6fd1677a511",
       "file": "05-Wiki\\tickers\\BA.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "MRVL": {
       "category": "tickers",
-      "source_hash": "0e3d35bd62538f83",
+      "source_hash": "21b594ce0891cf40",
       "file": "05-Wiki\\tickers\\MRVL.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "CRM": {
       "category": "tickers",
       "source_hash": "b6fad81a50857989",
       "file": "05-Wiki\\tickers\\CRM.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "PLTR": {
       "category": "tickers",
       "source_hash": "e9433432a1be7a44",
       "file": "05-Wiki\\tickers\\PLTR.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "AAPL": {
       "category": "tickers",
-      "source_hash": "569911d2e1657f96",
+      "source_hash": "d79c1440e6cc2bcc",
       "file": "05-Wiki\\tickers\\AAPL.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "MSFT": {
       "category": "tickers",
       "source_hash": "3c3340ee0a0c3b67",
       "file": "05-Wiki\\tickers\\MSFT.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
     },
     "Catalyst Play": {
       "category": "setups",
       "source_hash": "cd3131e945ea54cc",
       "file": "05-Wiki\\setups\\Catalyst Play.md",
-      "last_compiled": "2026-07-02T11:27:58.959854"
+      "last_compiled": "2026-07-03T11:14:44.602219"
+    },
+    "NFLX": {
+      "category": "tickers",
+      "source_hash": "e6127164bc8a36e9",
+      "file": "05-Wiki\\tickers\\NFLX.md",
+      "last_compiled": "2026-07-03T11:14:44.602219"
     }
   },
   "source_hashes": {
@@ -517,6 +523,8 @@
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-06-30_9_15-am.md": "1254035b547a8793",
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-07-01_3-pm.md": "c21a1c47995f7d33",
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-07-01_9_15-am.md": "e69c03bbbecbb35b",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-07-02_3-pm.md": "bbe5191910777c13",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-07-02_9_15-am.md": "3b3bd12099aaff01",
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs.md": "142d350edd04c444",
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\Chart Fanatics - Trading LIVE with the #1 Scalper in the WORLD (EXTREME Accuracy)_subs.md": "2f8d1544708bcb70",
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\MENTAL_CLARITY_SEARCH_RESULTS.md": "7fce0cc7dc0edc5b",
@@ -774,6 +782,7 @@
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-06-26.md": "5ce223a5009e5ba2",
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-06-29.md": "550597327ab0e55f",
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-06-30.md": "71d6fccce488cc94",
-    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-07-01.md": "2ee1570e0bb9781d"
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-07-01.md": "2ee1570e0bb9781d",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-07-02.md": "c9b02ffecab942e0"
   }
 }

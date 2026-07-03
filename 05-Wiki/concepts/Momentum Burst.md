@@ -1,16 +1,16 @@
 ---
 title: "Momentum Burst"
-date: 2026-07-02
+date: 2026-07-03
 tags: [concepts, wiki, auto-compiled]
-mention_count: 921
-sources_count: 245
+mention_count: 924
+sources_count: 247
 compilation_count: 1
 promote: false
 ---
 
 # Momentum Burst
 
-*Concepts — compiled from 921 mentions across 245 sources.*
+*Concepts — compiled from 924 mentions across 247 sources.*
 
 ## Mentions
 

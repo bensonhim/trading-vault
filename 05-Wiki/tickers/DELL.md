@@ -1,16 +1,16 @@
 ---
 title: "DELL"
-date: 2026-07-02
+date: 2026-07-03
 tags: [tickers, wiki, auto-compiled]
-mention_count: 31
-sources_count: 15
+mention_count: 32
+sources_count: 16
 compilation_count: 1
 promote: false
 ---
 
 # DELL
 
-*Tickers — compiled from 31 mentions across 15 sources.*
+*Tickers — compiled from 32 mentions across 16 sources.*
 
 ## Mentions
 
@@ -76,6 +76,8 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-07-01.md|Session-2026-07-01]]: | [[DELL]] | Start of swing from Sunday list | Held; stop placed around 142; slower follow-through |
 
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]: | [[DELL]] | Start of swing from Sunday list | Held with stop, but slower follow-through |
+
 ## Related Concepts
 
 *(To be enriched)*
@@ -101,3 +103,4 @@ promote: false
 - [[../06-Daily/stockbee/Sessions/Session-2026-06-29.md|Session-2026-06-29]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-06-30.md|Session-2026-06-30]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-07-01.md|Session-2026-07-01]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]
