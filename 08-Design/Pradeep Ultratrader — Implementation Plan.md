@@ -21,7 +21,7 @@ tags: [design, pradeep-ultratrader, stockbee, implementation, plan]
 | 6 | Intraday Daemon | ✅ COMPLETE | `7489004` |
 | 7 | Nightly Pipeline Integration | ✅ COMPLETE | `ec12bc3` |
 | 8 | OpenCode Agent Definition | ✅ COMPLETE | `1a061af` |
-| 9 | Trade Management | ⏳ PENDING | — |
+| 9 | Trade Management | ✅ COMPLETE | `c596ad8` |
 | 10 | Testing & Deployment | ⏳ PENDING | — |
 
 ---
@@ -460,7 +460,7 @@ Optional TypeScript tools for the agent:
 
 ---
 
-## Wave 9: Trade Management ⏳ PENDING
+## Wave 9: Trade Management ✅ COMPLETE
 
 ### 9.1 Trade Tracker
 **File:** `src/alerts/trade_recorder.py` (modify)
