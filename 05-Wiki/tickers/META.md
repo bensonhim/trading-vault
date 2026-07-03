@@ -1,16 +1,16 @@
 ---
 title: "META"
-date: 2026-07-02
+date: 2026-07-03
 tags: [tickers, wiki, auto-compiled]
-mention_count: 13
-sources_count: 8
+mention_count: 15
+sources_count: 9
 compilation_count: 1
 promote: false
 ---
 
 # META
 
-*Tickers — compiled from 13 mentions across 8 sources.*
+*Tickers — compiled from 15 mentions across 9 sources.*
 
 ## Mentions
 
@@ -40,6 +40,10 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-07-01.md|Session-2026-07-01]]: | [[META]] | Random breakout | No setup; management credibility problem |
 
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]: | [[META]] | Random breakout | No credibility in management; avoid |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]: | [[META]] | Random breakout | No setup; management credibility issue |
+
 ## Related Concepts
 
 *(To be enriched)*
@@ -58,3 +62,4 @@ promote: false
 - [[../06-Daily/stockbee/Sessions/Session-2026-06-10.md|Session-2026-06-10]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-06-24.md|Session-2026-06-24]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-07-01.md|Session-2026-07-01]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]

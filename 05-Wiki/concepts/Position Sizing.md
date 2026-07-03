@@ -1,16 +1,16 @@
 ---
 title: "Position Sizing"
-date: 2026-07-02
+date: 2026-07-03
 tags: [concepts, wiki, auto-compiled]
-mention_count: 167
-sources_count: 86
+mention_count: 168
+sources_count: 87
 compilation_count: 1
 promote: false
 ---
 
 # Position Sizing
 
-*Concepts — compiled from 167 mentions across 86 sources.*
+*Concepts — compiled from 168 mentions across 87 sources.*
 
 ## Mentions
 

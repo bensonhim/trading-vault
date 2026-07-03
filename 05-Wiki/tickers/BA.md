@@ -1,16 +1,16 @@
 ---
 title: "BA"
-date: 2026-07-02
+date: 2026-07-03
 tags: [tickers, wiki, auto-compiled]
-mention_count: 22
-sources_count: 13
+mention_count: 24
+sources_count: 15
 compilation_count: 1
 promote: false
 ---
 
 # BA
 
-*Tickers — compiled from 22 mentions across 13 sources.*
+*Tickers — compiled from 24 mentions across 15 sources.*
 
 ## Mentions
 
@@ -23,6 +23,8 @@ promote: false
 > [[../../04-Transcripts/stockbee/2026-06-04_3-pm.md|2026-06-04_3-pm]]: So currently, BA is being aggressively worked.
 
 > [[../../04-Transcripts/stockbee/2026-06-04_3-pm.md|2026-06-04_3-pm]]: It tells you that BA, since the morning, has had 215 new high.
+
+> [[../../04-Transcripts/stockbee/2026-07-02_9_15-am.md|2026-07-02_9_15-am]]: BA has a high priced stock.
 
 > [[../../04-Transcripts/stockbee/16. DEP Guide/Pradeep Bonde - DEP Guide-Part 7 - DEP and SB watchlist_deepgram.md|Pradeep Bonde - DEP Guide-Part 7 - DEP and SB watchlist_deepgram]]: And it's obviously Botox is a big thing, but Victoria's a great and BA looks good, my friend.
 
@@ -58,6 +60,8 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-05-18.md|Session-2026-05-18]]: | [[BA]] | EP 9M short working |
 
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]: | [[BA]] (Boeing) | High-priced platform / FHP | Possible tight setup, but needs catalyst |
+
 ## Related Concepts
 
 *(To be enriched)*
@@ -75,9 +79,11 @@ promote: false
 - [[../04-Transcripts/stockbee/2026-05-15_9_15-am.md|2026-05-15_9_15-am]]
 - [[../04-Transcripts/stockbee/2026-05-18_9_15-am.md|2026-05-18_9_15-am]]
 - [[../04-Transcripts/stockbee/2026-06-04_3-pm.md|2026-06-04_3-pm]]
+- [[../04-Transcripts/stockbee/2026-07-02_9_15-am.md|2026-07-02_9_15-am]]
 - [[../04-Transcripts/stockbee/21. Process Guide/Pradeep Bonde - Process Guide-Organize Like Crazy_deepgram.md|Pradeep Bonde - Process Guide-Organize Like Crazy_deepgram]]
 - [[../04-Transcripts/stockbee/Meetings/meeting_2026-05-15_6ff2ac67-abde-4233-9d31-52e2d88fd0c0_deepgram.md|meeting_2026-05-15_6ff2ac67-abde-4233-9d31-52e2d88fd0c0_deepgram]]
 - [[../04-Transcripts/stockbee/Meetings/meeting_2026-05-18_9e3e74ea-7fc2-4fdc-aa97-b20867e5a04a_deepgram.md|meeting_2026-05-18_9e3e74ea-7fc2-4fdc-aa97-b20867e5a04a_deepgram]]
 - [[../04-Transcripts/stockbee/Meetings/meeting_2026-06-04_8908770d-c324-4dd6-8027-d7671f8691e1_deepgram.md|meeting_2026-06-04_8908770d-c324-4dd6-8027-d7671f8691e1_deepgram]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-05-15.md|Session-2026-05-15]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-05-18.md|Session-2026-05-18]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]

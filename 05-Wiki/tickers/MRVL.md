@@ -1,16 +1,16 @@
 ---
 title: "MRVL"
-date: 2026-07-02
+date: 2026-07-03
 tags: [tickers, wiki, auto-compiled]
-mention_count: 19
-sources_count: 10
+mention_count: 20
+sources_count: 11
 compilation_count: 1
 promote: false
 ---
 
 # MRVL
 
-*Tickers — compiled from 19 mentions across 10 sources.*
+*Tickers — compiled from 20 mentions across 11 sources.*
 
 ## Mentions
 
@@ -52,6 +52,8 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-07-01.md|Session-2026-07-01]]: | [[MRVL]] (Marvel) | DEP from Sunday list | Already broke out Monday/Tuesday; too late now |
 
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]: | [[MRVL]] (Marvel) | DEP / catalyst | Member asked why it was a "hard break"; Pradeep explained catalyst lifespan and consolidation risk |
+
 ## Related Concepts
 
 *(To be enriched)*
@@ -72,3 +74,4 @@ promote: false
 - [[../06-Daily/stockbee/Sessions/Session-2026-06-25.md|Session-2026-06-25]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-06-30.md|Session-2026-06-30]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-07-01.md|Session-2026-07-01]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]
