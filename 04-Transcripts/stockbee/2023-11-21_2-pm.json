@@ -1,0 +1,6711 @@
+{
+  "segments": [
+    {
+      "start": 48.605003,
+      "end": 49.105003,
+      "text": "Okay."
+    },
+    {
+      "start": 49.405003,
+      "end": 57.27,
+      "text": "So let's look at TradeFactory and go from there."
+    },
+    {
+      "start": 61.33,
+      "end": 64.95,
+      "text": "Fairly straightforward equation once you have a TradeFactory."
+    },
+    {
+      "start": 65.17,
+      "end": 65.67,
+      "text": "Right?"
+    },
+    {
+      "start": 119.534996,
+      "end": 120.034996,
+      "text": "Okay."
+    },
+    {
+      "start": 120.41499,
+      "end": 125.235,
+      "text": "Let's look at the trade factory and then go from there."
+    },
+    {
+      "start": 146.58499,
+      "end": 148.365,
+      "text": "9 million EP combo LTV."
+    },
+    {
+      "start": 148.745,
+      "end": 163.77,
+      "text": "And And tomorrow is going to be almost a washout day most probably."
+    },
+    {
+      "start": 163.83,
+      "end": 164.15,
+      "text": "Right?"
+    },
+    {
+      "start": 164.15,
+      "end": 168.47,
+      "text": "Because tomorrow, is Wednesday, and Thursday, the market is off."
+    },
+    {
+      "start": 168.47,
+      "end": 173.31499,
+      "text": "So tomorrow, most of the day, we'll we'll start going very quick, early."
+    },
+    {
+      "start": 173.31499,
+      "end": 175.73499,
+      "text": "So you'll probably get half a day of action."
+    },
+    {
+      "start": 176.11499,
+      "end": 178.275,
+      "text": "So that's what, like, in a year, we're going to look at."
+    },
+    {
+      "start": 178.275,
+      "end": 178.775,
+      "text": "Right?"
+    },
+    {
+      "start": 178.995,
+      "end": 184.355,
+      "text": "So let's start, and let's clean up first the list anticipation also."
+    },
+    {
+      "start": 184.355,
+      "end": 186.375,
+      "text": "This is something which we had in anticipation."
+    },
+    {
+      "start": 188.47,
+      "end": 193.04999,
+      "text": "Where is the most of it is like in a gone into toilet."
+    },
+    {
+      "start": 193.75,
+      "end": 195.61,
+      "text": "Target that still looks good."
+    },
+    {
+      "start": 196.15,
+      "end": 198.48999,
+      "text": "So some of the things we can keep actually."
+    },
+    {
+      "start": 201.885,
+      "end": 202.385,
+      "text": "Okay."
+    },
+    {
+      "start": 203.72499,
+      "end": 207.42499,
+      "text": "Automatic was not really target looks really good."
+    },
+    {
+      "start": 208.44499,
+      "end": 210.065,
+      "text": "AGNC, it is here shifts."
+    },
+    {
+      "start": 210.605,
+      "end": 211.825,
+      "text": "We can take it out."
+    },
+    {
+      "start": 214.2,
+      "end": 219.26,
+      "text": "Dash will tower Texas Roadhouse."
+    },
+    {
+      "start": 219.8,
+      "end": 220.3,
+      "text": "Yeah."
+    },
+    {
+      "start": 225.56,
+      "end": 227.18001,
+      "text": "169 questions."
+    },
+    {
+      "start": 230.825,
+      "end": 233.145,
+      "text": "I stopped, like, and even looking at my email."
+    },
+    {
+      "start": 233.145,
+      "end": 238.365,
+      "text": "Looking at my email gives me panic attack nowadays."
+    },
+    {
+      "start": 240.265,
+      "end": 241.325,
+      "text": "Hey, Eiji."
+    },
+    {
+      "start": 242.28,
+      "end": 247.09999,
+      "text": "I do not know where is the guide for episodic pivot."
+    },
+    {
+      "start": 250.28,
+      "end": 250.78,
+      "text": "Man."
+    },
+    {
+      "start": 255.50499,
+      "end": 256.005,
+      "text": "Okay."
+    },
+    {
+      "start": 256.145,
+      "end": 261.345,
+      "text": "So we will start by looking at 9,000,000 EP first because that's my favorite method."
+    },
+    {
+      "start": 261.345,
+      "end": 261.845,
+      "text": "Right?"
+    },
+    {
+      "start": 264.625,
+      "end": 268.245,
+      "text": "I'm just still trying to figure out how did I miss this EP."
+    },
+    {
+      "start": 269.69998,
+      "end": 274.25998,
+      "text": "This is a EP which should have been, like, another one which one should have taken."
+    },
+    {
+      "start": 274.25998,
+      "end": 281.8,
+      "text": "Obviously, I would not have gone in with all my account, but that's something which I'm trying to figure out why I didn't do it."
+    },
+    {
+      "start": 283.005,
+      "end": 285.405,
+      "text": "Copy all symbols 3P9000000."
+    },
+    {
+      "start": 285.405,
+      "end": 285.64502,
+      "text": "Right?"
+    },
+    {
+      "start": 285.64502,
+      "end": 296.065,
+      "text": "And, basically again, please see my videos of recent days on solving your trading problem and also on copy."
+    },
+    {
+      "start": 296.20502,
+      "end": 296.52502,
+      "text": "Right?"
+    },
+    {
+      "start": 296.52502,
+      "end": 301.83,
+      "text": "And this is a MS Tesla as a liquid lava."
+    },
+    {
+      "start": 303.81,
+      "end": 305.66998,
+      "text": "It's also a continuation setup."
+    },
+    {
+      "start": 313.165,
+      "end": 314.125,
+      "text": "GPS is doing well."
+    },
+    {
+      "start": 314.125,
+      "end": 316.145,
+      "text": "Verizon has followed through GTX."
+    },
+    {
+      "start": 321.965,
+      "end": 324.765,
+      "text": "Literally, like, you know, the issues which we discussed every day."
+    },
+    {
+      "start": 324.765,
+      "end": 333.53,
+      "text": "Didn't we discuss yesterday eighty twenty, one should, like and I said, like, I'm going to do aggressively eighty twenty, in the afternoon meeting."
+    },
+    {
+      "start": 334.38998,
+      "end": 336.00998,
+      "text": "Did I or did I not discuss?"
+    },
+    {
+      "start": 338.94998,
+      "end": 339.34998,
+      "text": "Right?"
+    },
+    {
+      "start": 339.34998,
+      "end": 350.085,
+      "text": "And I said, like, I'm going to, like, and I get out of all these positions, MongoDB, Datadog, and all these, like, in a and do aggressive this thing."
+    },
+    {
+      "start": 350.385,
+      "end": 350.885,
+      "text": "Right?"
+    },
+    {
+      "start": 351.42502,
+      "end": 358.34003,
+      "text": "Now what part of that was in English and what part of it was in Russian that people, like, didn't understand that?"
+    },
+    {
+      "start": 361.68002,
+      "end": 369.46002,
+      "text": "E g, I didn't do eighty twenty because there is no clear guideline for when to do eighty twenty."
+    },
+    {
+      "start": 370.045,
+      "end": 372.86502,
+      "text": "And then I went very aggressive yesterday."
+    },
+    {
+      "start": 373.725,
+      "end": 376.625,
+      "text": "And then today, I took a big loss."
+    },
+    {
+      "start": 377.245,
+      "end": 381.02502,
+      "text": "Please, please, can I have a sub meeting?"
+    },
+    {
+      "start": 381.325,
+      "end": 381.825,
+      "text": "Yeah."
+    },
+    {
+      "start": 384.03998,
+      "end": 386.12,
+      "text": "Reven, I think and that should follow through."
+    },
+    {
+      "start": 386.12,
+      "end": 386.62,
+      "text": "Right?"
+    },
+    {
+      "start": 389.47998,
+      "end": 391.96,
+      "text": "8020, by default, you should do."
+    },
+    {
+      "start": 391.96,
+      "end": 396.115,
+      "text": "Especially, we've been discussing that this rally doesn't look like a normal rally."
+    },
+    {
+      "start": 396.115,
+      "end": 400.835,
+      "text": "It doesn't look like the kind of rally which you see when, like, you know, the market starts going up."
+    },
+    {
+      "start": 400.835,
+      "end": 401.335,
+      "text": "Right?"
+    },
+    {
+      "start": 402.115,
+      "end": 405.475,
+      "text": "To be or not to be kind of a eighty twenty kind of a thing."
+    },
+    {
+      "start": 405.475,
+      "end": 408.275,
+      "text": "We discussed multiple times in recent days."
+    },
+    {
+      "start": 408.275,
+      "end": 408.775,
+      "text": "Right?"
+    },
+    {
+      "start": 409.155,
+      "end": 409.475,
+      "text": "Yeah."
+    },
+    {
+      "start": 409.475,
+      "end": 422.72,
+      "text": "So but people don't take this meeting seriously."
+    },
+    {
+      "start": 422.72,
+      "end": 422.96,
+      "text": "Right?"
+    },
+    {
+      "start": 422.96,
+      "end": 424.58,
+      "text": "And they are here for just entertainment."
+    },
+    {
+      "start": 428.17502,
+      "end": 428.49503,
+      "text": "Okay."
+    },
+    {
+      "start": 428.49503,
+      "end": 438.195,
+      "text": "So combination bullish 100, we take off all of them into bullish work, and then we go to LTV bullish and look at LTV bullish."
+    },
+    {
+      "start": 440.095,
+      "end": 440.755,
+      "text": "Take this."
+    },
+    {
+      "start": 441.91,
+      "end": 444.47,
+      "text": "I was at my lawyer since morning."
+    },
+    {
+      "start": 444.47,
+      "end": 444.78998,
+      "text": "Right?"
+    },
+    {
+      "start": 444.78998,
+      "end": 446.49,
+      "text": "Why how will I trade ships?"
+    },
+    {
+      "start": 447.27,
+      "end": 453.84998,
+      "text": "I finished with my lawyer at around 12:00 or something like that and left from there."
+    },
+    {
+      "start": 454.315,
+      "end": 457.055,
+      "text": "So was there any chance for me to do sips today?"
+    },
+    {
+      "start": 459.51498,
+      "end": 460.01498,
+      "text": "Symbiotic."
+    },
+    {
+      "start": 460.555,
+      "end": 462.075,
+      "text": "That was the sips from today."
+    },
+    {
+      "start": 462.075,
+      "end": 462.235,
+      "text": "Right?"
+    },
+    {
+      "start": 462.235,
+      "end": 463.435,
+      "text": "And it still looks good."
+    },
+    {
+      "start": 463.435,
+      "end": 466.395,
+      "text": "I think and it it will end up becoming a 9,000,000."
+    },
+    {
+      "start": 466.395,
+      "end": 473.47,
+      "text": "Something I would keep an eye on as a delayed reaction to earnings kind of a setup."
+    },
+    {
+      "start": 473.47,
+      "end": 473.97,
+      "text": "Medtronic's."
+    },
+    {
+      "start": 478.83002,
+      "end": 479.79,
+      "text": "There's nothing like it."
+    },
+    {
+      "start": 479.79,
+      "end": 483.31,
+      "text": "The lawyer's meeting was just like in a signing of bunch of papers."
+    },
+    {
+      "start": 483.31,
+      "end": 486.785,
+      "text": "It's like similar to home contract."
+    },
+    {
+      "start": 486.785,
+      "end": 487.025,
+      "text": "Right?"
+    },
+    {
+      "start": 487.025,
+      "end": 497.845,
+      "text": "And then you just sign a bunch of papers, and then they file it in the court."
+    },
+    {
+      "start": 498.54498,
+      "end": 499.445,
+      "text": "That's all."
+    },
+    {
+      "start": 500.84,
+      "end": 503.18,
+      "text": "I don't understand why they don't do it remotely."
+    },
+    {
+      "start": 503.48,
+      "end": 508.04,
+      "text": "Like, during the COVID nineteen time, all the lawyers were doing it remotely."
+    },
+    {
+      "start": 508.04,
+      "end": 516.825,
+      "text": "Now they are gonna want you to come to their office and do yeah, to justify their bills."
+    },
+    {
+      "start": 516.825,
+      "end": 517.325,
+      "text": "Yes."
+    },
+    {
+      "start": 519.625,
+      "end": 524.205,
+      "text": "They'll send me a bill now for that one hour."
+    },
+    {
+      "start": 527.4,
+      "end": 528.62,
+      "text": "The last tours."
+    },
+    {
+      "start": 530.12,
+      "end": 531.18,
+      "text": "Ariston it."
+    },
+    {
+      "start": 536.28,
+      "end": 540.205,
+      "text": "Hourly billing charges is Kellogg."
+    },
+    {
+      "start": 553.02997,
+      "end": 553.27,
+      "text": "Yeah."
+    },
+    {
+      "start": 553.27,
+      "end": 554.25,
+      "text": "He's a liar."
+    },
+    {
+      "start": 555.02997,
+      "end": 556.33,
+      "text": "Naveed, he's a liar."
+    },
+    {
+      "start": 558.63,
+      "end": 559.37,
+      "text": "Can't tell."
+    },
+    {
+      "start": 560.95,
+      "end": 564.57,
+      "text": "It's hard to the rocks."
+    },
+    {
+      "start": 565.365,
+      "end": 575.765,
+      "text": "This rally just doesn't have the feel of, like, in a, good rallies have, like, in a formal return, but that's a very nice continuation more."
+    },
+    {
+      "start": 575.765,
+      "end": 576.005,
+      "text": "Right?"
+    },
+    {
+      "start": 576.005,
+      "end": 576.745,
+      "text": "An SWM?"
+    },
+    {
+      "start": 577.765,
+      "end": 583.02997,
+      "text": "That's like an a good continuation."
+    },
+    {
+      "start": 595.455,
+      "end": 609.715,
+      "text": "It doesn't have the feel of, like, in that aggressive buying and every dip getting bought and, like, in a FOMO."
+    },
+    {
+      "start": 610.4,
+      "end": 613.28,
+      "text": "This, like and it goes up for two days, then selling happens."
+    },
+    {
+      "start": 613.28,
+      "end": 618.8,
+      "text": "There is, like, an adjust not this is a setup for which there is some name."
+    },
+    {
+      "start": 618.8,
+      "end": 622.42,
+      "text": "I don't remember now, but there is some name for it."
+    },
+    {
+      "start": 627.40497,
+      "end": 629.585,
+      "text": "One guy is awake in this group."
+    },
+    {
+      "start": 631.565,
+      "end": 632.705,
+      "text": "Lock it more in."
+    },
+    {
+      "start": 647.51,
+      "end": 647.75,
+      "text": "Yeah."
+    },
+    {
+      "start": 647.75,
+      "end": 656.365,
+      "text": "It's hard to get, like, an so I'm doing some modifications and getting in large sizes, selling as quickly as possible."
+    },
+    {
+      "start": 656.425,
+      "end": 659.065,
+      "text": "So you got to still make the dollars."
+    },
+    {
+      "start": 659.065,
+      "end": 659.565,
+      "text": "Right?"
+    },
+    {
+      "start": 661.785,
+      "end": 667.565,
+      "text": "Now that I need to recover my losses from my divorce, I have to do some sizes."
+    },
+    {
+      "start": 671.29,
+      "end": 671.79,
+      "text": "MTD."
+    },
+    {
+      "start": 673.13,
+      "end": 675.31,
+      "text": "High price stock, I think."
+    },
+    {
+      "start": 684.28503,
+      "end": 686.065,
+      "text": "Hop up my assets."
+    },
+    {
+      "start": 686.125,
+      "end": 686.625,
+      "text": "Right?"
+    },
+    {
+      "start": 689.085,
+      "end": 690.145,
+      "text": "You lose a lot."
+    },
+    {
+      "start": 695.57996,
+      "end": 696.31995,
+      "text": "New Jersey."
+    },
+    {
+      "start": 697.18,
+      "end": 698.8,
+      "text": "So you lose 50%."
+    },
+    {
+      "start": 708.635,
+      "end": 709.53503,
+      "text": "And I'll see."
+    },
+    {
+      "start": 709.675,
+      "end": 709.995,
+      "text": "Yeah."
+    },
+    {
+      "start": 709.995,
+      "end": 719.695,
+      "text": "Miss, like, an this can work as a bottom bunches kind of a thing or a pullback or a delayed reaction, but and just high priced stocks are if I would like that."
+    },
+    {
+      "start": 738.385,
+      "end": 738.885,
+      "text": "ATG."
+    },
+    {
+      "start": 747.68,
+      "end": 749.28,
+      "text": "I lost the house."
+    },
+    {
+      "start": 749.28,
+      "end": 754.10004,
+      "text": "I lost my garden, which I'd spend so much, this thing right on a basically."
+    },
+    {
+      "start": 777.8,
+      "end": 779.26,
+      "text": "Going to miss the garden."
+    },
+    {
+      "start": 781.72003,
+      "end": 782.22003,
+      "text": "Garden."
+    },
+    {
+      "start": 787.25494,
+      "end": 787.495,
+      "text": "Okay."
+    },
+    {
+      "start": 787.495,
+      "end": 791.115,
+      "text": "Let's look at the very side of this equation and see."
+    },
+    {
+      "start": 795.415,
+      "end": 795.65497,
+      "text": "Yeah."
+    },
+    {
+      "start": 795.65497,
+      "end": 797.735,
+      "text": "But at first, I need to buy a house for that."
+    },
+    {
+      "start": 797.735,
+      "end": 798.235,
+      "text": "Right?"
+    },
+    {
+      "start": 798.375,
+      "end": 803.34,
+      "text": "And buying houses in this market, it will be the more suicidal thing which you can do."
+    },
+    {
+      "start": 805.88,
+      "end": 807.18,
+      "text": "Let's look at LTV."
+    },
+    {
+      "start": 809.0,
+      "end": 811.5,
+      "text": "Do you really want to buy a house in this market?"
+    },
+    {
+      "start": 812.76,
+      "end": 813.66,
+      "text": "I do not."
+    },
+    {
+      "start": 814.455,
+      "end": 817.275,
+      "text": "I'm going to buy a house when there is a blood on the street."
+    },
+    {
+      "start": 819.09503,
+      "end": 820.875,
+      "text": "And nobody wants to buy a house."
+    },
+    {
+      "start": 821.175,
+      "end": 829.14,
+      "text": "Palantir, I'm so happy I didn't fall for this Palantir thing because that capitalization makes me wonder always with Palantir."
+    },
+    {
+      "start": 829.14,
+      "end": 840.54,
+      "text": "Means I did buy Palantir and I did sell Palantir, here, but like in a and here but and here also I bought but like in a there's two big stocks."
+    },
+    {
+      "start": 840.54,
+      "end": 841.04,
+      "text": "Wow."
+    },
+    {
+      "start": 853.455,
+      "end": 853.61505,
+      "text": "No."
+    },
+    {
+      "start": 853.61505,
+      "end": 854.815,
+      "text": "House buying currently."
+    },
+    {
+      "start": 854.815,
+      "end": 859.555,
+      "text": "My only mission in life is to recur my losses, then I will think about."
+    },
+    {
+      "start": 860.22,
+      "end": 872.48,
+      "text": "Mission in life is to recur the losses and learn how to successfully."
+    },
+    {
+      "start": 883.015,
+      "end": 883.575,
+      "text": "Do this."
+    },
+    {
+      "start": 883.575,
+      "end": 884.075,
+      "text": "Right?"
+    },
+    {
+      "start": 906.295,
+      "end": 908.075,
+      "text": "That's my full time business nowadays."
+    },
+    {
+      "start": 919.59,
+      "end": 925.29004,
+      "text": "YPF ammonia, Dick's Sporting Good, Good, Toast."
+    },
+    {
+      "start": 928.87,
+      "end": 929.11,
+      "text": "Yes."
+    },
+    {
+      "start": 929.11,
+      "end": 930.25,
+      "text": "I also do Scotts."
+    },
+    {
+      "start": 940.355,
+      "end": 941.41504,
+      "text": "Joby Aviation."
+    },
+    {
+      "start": 973.12,
+      "end": 976.26,
+      "text": "Orange theory, I'm not really, like, any basically."
+    },
+    {
+      "start": 978.24005,
+      "end": 986.82,
+      "text": "I'm going to do something like orange theory, but, like, I just do weights and cardio cardio, basically walking."
+    },
+    {
+      "start": 987.995,
+      "end": 994.095,
+      "text": "Now next week onward, change my timing in the morning, so it's easier."
+    },
+    {
+      "start": 995.355,
+      "end": 996.735,
+      "text": "Morning time is better."
+    },
+    {
+      "start": 998.075,
+      "end": 1002.75,
+      "text": "Then it frees me up in the afternoon to pick up the chicks."
+    },
+    {
+      "start": 1022.565,
+      "end": 1023.865,
+      "text": "Jacobson Engineering."
+    },
+    {
+      "start": 1024.005,
+      "end": 1024.825,
+      "text": "I don't know."
+    },
+    {
+      "start": 1029.72,
+      "end": 1041.26,
+      "text": "Again, I'm going to do only a million shares traded because I need liquidity to to put shots, and I don't want to go into very illiquid stuff, but you are free to go into very illiquid stuff."
+    },
+    {
+      "start": 1048.005,
+      "end": 1049.785,
+      "text": "I only pick up light checks."
+    },
+    {
+      "start": 1050.325,
+      "end": 1051.465,
+      "text": "No heavy checks."
+    },
+    {
+      "start": 1061.1599,
+      "end": 1066.1399,
+      "text": "Light, blond, American chicks."
+    },
+    {
+      "start": 1079.215,
+      "end": 1079.715,
+      "text": "Okay."
+    },
+    {
+      "start": 1079.855,
+      "end": 1082.755,
+      "text": "So we looked at 1,000,000 plus kind of a thing."
+    },
+    {
+      "start": 1087.76,
+      "end": 1088.42,
+      "text": "3,000,000."
+    },
+    {
+      "start": 1089.76,
+      "end": 1096.5,
+      "text": "That's the only thing which looks like an to me worth taking a shot at right on the short side."
+    },
+    {
+      "start": 1102.315,
+      "end": 1107.515,
+      "text": "So here now once you have these many things, you don't just like in a go and put all their trades."
+    },
+    {
+      "start": 1107.515,
+      "end": 1108.015,
+      "text": "Right?"
+    },
+    {
+      "start": 1108.395,
+      "end": 1110.315,
+      "text": "Tesla yeah."
+    },
+    {
+      "start": 1110.315,
+      "end": 1113.535,
+      "text": "I mean, the first leg was like in here 20%."
+    },
+    {
+      "start": 1114.3401,
+      "end": 1119.9601,
+      "text": "$1.24 is the means, I don't have position in any one of these currently simmered symbiotic."
+    },
+    {
+      "start": 1120.5801,
+      "end": 1123.86,
+      "text": "I'll wait for a delayed reaction or things."
+    },
+    {
+      "start": 1124.18,
+      "end": 1127.4,
+      "text": "So I think and it's much better to be bought as a delayed reaction."
+    },
+    {
+      "start": 1127.54,
+      "end": 1129.695,
+      "text": "SWM, that looks good."
+    },
+    {
+      "start": 1129.695,
+      "end": 1132.655,
+      "text": "SPOC, it's a consolidation breakout."
+    },
+    {
+      "start": 1132.655,
+      "end": 1135.135,
+      "text": "You know my views on consolidation breakout."
+    },
+    {
+      "start": 1135.135,
+      "end": 1135.635,
+      "text": "Right?"
+    },
+    {
+      "start": 1135.855,
+      "end": 1138.4349,
+      "text": "Consolidation records have a low win rate."
+    },
+    {
+      "start": 1138.735,
+      "end": 1142.995,
+      "text": "So NOC, that looks good as a high price stock to me possible."
+    },
+    {
+      "start": 1143.91,
+      "end": 1146.47,
+      "text": "The and Riviera as a possible shot."
+    },
+    {
+      "start": 1146.47,
+      "end": 1148.5701,
+      "text": "So Symbiotic I'm removing from here."
+    },
+    {
+      "start": 1149.03,
+      "end": 1154.5701,
+      "text": "Tesla also, I'm not so sure I would take it like an it's it was a better buy here or yesterday."
+    },
+    {
+      "start": 1155.11,
+      "end": 1157.75,
+      "text": "So I would like and then not go into Tesla here."
+    },
+    {
+      "start": 1157.75,
+      "end": 1161.8949,
+      "text": "So So, essentially, you have one good idea there, like, in a basically right."
+    },
+    {
+      "start": 1162.355,
+      "end": 1166.135,
+      "text": "And high price stock, if you want to add on the short side, Rivian."
+    },
+    {
+      "start": 1167.5549,
+      "end": 1168.0549,
+      "text": "Probably."
+    },
+    {
+      "start": 1175.32,
+      "end": 1175.72,
+      "text": "No."
+    },
+    {
+      "start": 1175.72,
+      "end": 1179.08,
+      "text": "9,000,009 million works in any market condition."
+    },
+    {
+      "start": 1179.08,
+      "end": 1179.58,
+      "text": "Right?"
+    },
+    {
+      "start": 1181.24,
+      "end": 1183.72,
+      "text": "9,000,000 you do 9,000,000 for that reason."
+    },
+    {
+      "start": 1183.72,
+      "end": 1184.22,
+      "text": "Right?"
+    },
+    {
+      "start": 1191.665,
+      "end": 1191.9851,
+      "text": "No."
+    },
+    {
+      "start": 1191.9851,
+      "end": 1202.7051,
+      "text": "They gets they get scared, like, and I I met one chick and, like, we are talking for couple of weeks, and then, I didn't tell her what is my last name."
+    },
+    {
+      "start": 1202.7051,
+      "end": 1203.15,
+      "text": "Right?"
+    },
+    {
+      "start": 1203.15,
+      "end": 1207.01,
+      "text": "So finally, I told her and she went on social media and saw all these."
+    },
+    {
+      "start": 1207.23,
+      "end": 1208.4501,
+      "text": "She says you're too famous."
+    },
+    {
+      "start": 1209.39,
+      "end": 1210.4501,
+      "text": "Too much in limelight."
+    },
+    {
+      "start": 1214.35,
+      "end": 1216.77,
+      "text": "Chicks out weird like any of these things."
+    },
+    {
+      "start": 1217.1649,
+      "end": 1226.385,
+      "text": "Weird criterias."
+    },
+    {
+      "start": 1226.765,
+      "end": 1227.825,
+      "text": "What's she do?"
+    },
+    {
+      "start": 1228.6849,
+      "end": 1228.9249,
+      "text": "Good."
+    },
+    {
+      "start": 1228.9249,
+      "end": 1231.105,
+      "text": "Cold feet after that."
+    },
+    {
+      "start": 1238.85,
+      "end": 1240.6901,
+      "text": "Good that I came to know that early."
+    },
+    {
+      "start": 1240.6901,
+      "end": 1241.1901,
+      "text": "Right?"
+    },
+    {
+      "start": 1250.875,
+      "end": 1251.375,
+      "text": "Okay."
+    },
+    {
+      "start": 1253.5951,
+      "end": 1257.1951,
+      "text": "So SWM, that's the one which look at the only thing is a little bit."
+    },
+    {
+      "start": 1257.1951,
+      "end": 1257.435,
+      "text": "Yeah."
+    },
+    {
+      "start": 1257.435,
+      "end": 1258.3351,
+      "text": "But we'll see."
+    },
+    {
+      "start": 1259.275,
+      "end": 1267.4464,
+      "text": "Not a was a very good should have been a anticipation set up yesterday."
+    },
+    {
+      "start": 1267.4464,
+      "end": 1268.7797,
+      "text": "Zero one sent."
+    },
+    {
+      "start": 1268.7797,
+      "end": 1269.2241,
+      "text": "Wow."
+    },
+    {
+      "start": 1269.6686,
+      "end": 1275.8905,
+      "text": "Pradeep, so h w m was in in my, but it did do nothing."
+    },
+    {
+      "start": 1275.8905,
+      "end": 1280.0349,
+      "text": "So I guess to do, like, an eight is up?"
+    },
+    {
+      "start": 1280.495,
+      "end": 1280.6549,
+      "text": "No."
+    },
+    {
+      "start": 1280.6549,
+      "end": 1281.615,
+      "text": "I mean, now it did."
+    },
+    {
+      "start": 1281.615,
+      "end": 1283.135,
+      "text": "In in the morning, it didn't do anything."
+    },
+    {
+      "start": 1283.135,
+      "end": 1283.2949,
+      "text": "Yeah."
+    },
+    {
+      "start": 1283.2949,
+      "end": 1283.615,
+      "text": "Morning."
+    },
+    {
+      "start": 1283.615,
+      "end": 1286.115,
+      "text": "The market itself wasn't going down market."
+    },
+    {
+      "start": 1291.58,
+      "end": 1293.98,
+      "text": "Anticipation so much depends on the market."
+    },
+    {
+      "start": 1293.98,
+      "end": 1294.22,
+      "text": "Right?"
+    },
+    {
+      "start": 1294.22,
+      "end": 1296.5599,
+      "text": "Didn't the market start going down in the morning?"
+    },
+    {
+      "start": 1296.62,
+      "end": 1297.98,
+      "text": "I was at the largest place."
+    },
+    {
+      "start": 1297.98,
+      "end": 1303.5,
+      "text": "I was just looking on FinWiz, and I could see the, market was just like in a selling off."
+    },
+    {
+      "start": 1303.5,
+      "end": 1303.74,
+      "text": "Right?"
+    },
+    {
+      "start": 1303.74,
+      "end": 1305.4049,
+      "text": "And there's a lot of things would not work."
+    },
+    {
+      "start": 1305.4049,
+      "end": 1305.8049,
+      "text": "Right?"
+    },
+    {
+      "start": 1305.8049,
+      "end": 1307.8849,
+      "text": "And it it gapped down market gapped down."
+    },
+    {
+      "start": 1307.8849,
+      "end": 1318.0449,
+      "text": "So as a result, like, in a many of the things which could have worked didn't work because that's the problem with all the anticipation setups always."
+    },
+    {
+      "start": 1318.0449,
+      "end": 1318.5449,
+      "text": "Right?"
+    },
+    {
+      "start": 1319.4,
+      "end": 1323.4,
+      "text": "If you have too tight a stop, you get stopped out and then they make it."
+    },
+    {
+      "start": 1323.4,
+      "end": 1323.64,
+      "text": "Yeah."
+    },
+    {
+      "start": 1323.64,
+      "end": 1324.7001,
+      "text": "So that's the thing."
+    },
+    {
+      "start": 1326.68,
+      "end": 1328.3,
+      "text": "That's how the cookie crumbles."
+    },
+    {
+      "start": 1328.36,
+      "end": 1328.68,
+      "text": "Right?"
+    },
+    {
+      "start": 1328.68,
+      "end": 1332.14,
+      "text": "And so let's look at ants 15 and go from there."
+    },
+    {
+      "start": 1334.285,
+      "end": 1338.145,
+      "text": "That's why doing anticipation is a little bit frustrating exercise."
+    },
+    {
+      "start": 1339.5651,
+      "end": 1341.825,
+      "text": "So breakout is always, you know, very clearly."
+    },
+    {
+      "start": 1342.445,
+      "end": 1342.525,
+      "text": "K."
+    },
+    {
+      "start": 1342.525,
+      "end": 1343.405,
+      "text": "There is a breakout."
+    },
+    {
+      "start": 1343.405,
+      "end": 1343.905,
+      "text": "Right?"
+    },
+    {
+      "start": 1345.965,
+      "end": 1347.025,
+      "text": "Ran back holding."
+    },
+    {
+      "start": 1348.05,
+      "end": 1352.0701,
+      "text": "Again, this volume is the problem right in a basically zero."
+    },
+    {
+      "start": 1358.13,
+      "end": 1363.915,
+      "text": "Again, with today's action, it makes very difficult to take, anticipation set up."
+    },
+    {
+      "start": 1363.915,
+      "end": 1364.155,
+      "text": "Right?"
+    },
+    {
+      "start": 1364.155,
+      "end": 1375.92,
+      "text": "And because the market just doesn't have that, people coming out of the woodwork wanting to buy FOMO, institutional FOMO, that feel is not there."
+    },
+    {
+      "start": 1376.14,
+      "end": 1377.82,
+      "text": "So it's a stop and go rally."
+    },
+    {
+      "start": 1377.82,
+      "end": 1378.7999,
+      "text": "Stop and go rally."
+    },
+    {
+      "start": 1384.0599,
+      "end": 1384.2999,
+      "text": "Yeah."
+    },
+    {
+      "start": 1384.2999,
+      "end": 1387.575,
+      "text": "I would take if I'm taking it now, I would look at, like, an effort."
+    },
+    {
+      "start": 1387.975,
+      "end": 1389.2749,
+      "text": "Look at it this way."
+    },
+    {
+      "start": 1389.735,
+      "end": 1394.3949,
+      "text": "If it gives up half of the gains today, is it worth holding that threat?"
+    },
+    {
+      "start": 1398.215,
+      "end": 1398.375,
+      "text": "No."
+    },
+    {
+      "start": 1398.375,
+      "end": 1399.495,
+      "text": "So, basically, right?"
+    },
+    {
+      "start": 1399.495,
+      "end": 1407.9,
+      "text": "And the person who asked the question on the timeline, he is half of the day's stop on coin, got stopped out."
+    },
+    {
+      "start": 1407.9,
+      "end": 1411.12,
+      "text": "Was coin a good setup here to buy yesterday?"
+    },
+    {
+      "start": 1414.515,
+      "end": 1416.295,
+      "text": "Was it a good setup to buy?"
+    },
+    {
+      "start": 1416.355,
+      "end": 1422.675,
+      "text": "This is like in a if you had bought it here also, you would have got stopped on because it just doesn't have that, like, in a this thing."
+    },
+    {
+      "start": 1422.675,
+      "end": 1427.81,
+      "text": "So coinbase, like, like, wasn't really this thing."
+    },
+    {
+      "start": 1427.81,
+      "end": 1428.6901,
+      "text": "So that's the thing."
+    },
+    {
+      "start": 1428.6901,
+      "end": 1440.13,
+      "text": "If you buy at the wrong place, right, if you buy it at the wrong place, no stop is going to help you because, once you buy it at the wrong place, it doesn't really work."
+    },
+    {
+      "start": 1440.13,
+      "end": 1440.6101,
+      "text": "Right?"
+    },
+    {
+      "start": 1440.6101,
+      "end": 1445.215,
+      "text": "As against that, what was that small stock which I bought, like, in a two days ago?"
+    },
+    {
+      "start": 1447.195,
+      "end": 1453.295,
+      "text": "I closed it like an 80%, and later I got stopped out on that."
+    },
+    {
+      "start": 1454.075,
+      "end": 1455.215,
+      "text": "Was like an eight."
+    },
+    {
+      "start": 1455.675,
+      "end": 1456.175,
+      "text": "Oscar."
+    },
+    {
+      "start": 1456.235,
+      "end": 1456.735,
+      "text": "Right?"
+    },
+    {
+      "start": 1457.98,
+      "end": 1460.4,
+      "text": "Now was that a good pie point on that?"
+    },
+    {
+      "start": 1462.0599,
+      "end": 1462.5599,
+      "text": "Right?"
+    },
+    {
+      "start": 1463.66,
+      "end": 1466.48,
+      "text": "And if you put a stop at half of the day, did it work?"
+    },
+    {
+      "start": 1468.14,
+      "end": 1469.74,
+      "text": "And it made 8.8%."
+    },
+    {
+      "start": 1469.74,
+      "end": 1469.98,
+      "text": "Right?"
+    },
+    {
+      "start": 1469.98,
+      "end": 1474.595,
+      "text": "And then remaining position got stopped out today morning, but that's how it is."
+    },
+    {
+      "start": 1474.595,
+      "end": 1475.5549,
+      "text": "So you have to buy."
+    },
+    {
+      "start": 1475.5549,
+      "end": 1475.7949,
+      "text": "Right?"
+    },
+    {
+      "start": 1475.7949,
+      "end": 1476.195,
+      "text": "Right?"
+    },
+    {
+      "start": 1476.195,
+      "end": 1478.695,
+      "text": "And I mean, it's like the most fundamental thing."
+    },
+    {
+      "start": 1479.235,
+      "end": 1483.1549,
+      "text": "The reason why people have problem in trading is they're buying at the wrong time."
+    },
+    {
+      "start": 1483.1549,
+      "end": 1483.475,
+      "text": "Right?"
+    },
+    {
+      "start": 1483.475,
+      "end": 1487.4149,
+      "text": "And they're buying wrong place at the wrong time, wrong place."
+    },
+    {
+      "start": 1489.9801,
+      "end": 1490.2201,
+      "text": "Yeah."
+    },
+    {
+      "start": 1490.2201,
+      "end": 1493.02,
+      "text": "They are not working for three days, but they're working for two days."
+    },
+    {
+      "start": 1493.02,
+      "end": 1495.9,
+      "text": "So that's the thing our anticipation are working."
+    },
+    {
+      "start": 1495.9,
+      "end": 1500.7001,
+      "text": "So that's like an ACLSK was one of the better 9,000,000 from yesterday."
+    },
+    {
+      "start": 1500.7001,
+      "end": 1500.9401,
+      "text": "Right?"
+    },
+    {
+      "start": 1500.9401,
+      "end": 1506.495,
+      "text": "And again, just don't have the oomph to start going."
+    },
+    {
+      "start": 1506.715,
+      "end": 1508.335,
+      "text": "Freshpet is looking good."
+    },
+    {
+      "start": 1517.2101,
+      "end": 1519.13,
+      "text": "You had to buy at the start of a swing."
+    },
+    {
+      "start": 1519.13,
+      "end": 1521.0701,
+      "text": "That's the most fundamental thing."
+    },
+    {
+      "start": 1521.6901,
+      "end": 1524.8301,
+      "text": "Otherwise, you are gonna get stopped out multiple times."
+    },
+    {
+      "start": 1524.89,
+      "end": 1531.2301,
+      "text": "RPA, the signature volume signatures are so choppy on some of these stocks that I am not interested."
+    },
+    {
+      "start": 1543.025,
+      "end": 1544.145,
+      "text": "So here is the thing."
+    },
+    {
+      "start": 1544.145,
+      "end": 1544.625,
+      "text": "Right?"
+    },
+    {
+      "start": 1544.625,
+      "end": 1546.885,
+      "text": "I also bought Datadog two days ago."
+    },
+    {
+      "start": 1547.21,
+      "end": 1553.93,
+      "text": "And yesterday, I took 80% profit, and then I left remaining 20% with the stop."
+    },
+    {
+      "start": 1553.93,
+      "end": 1554.43,
+      "text": "Right?"
+    },
+    {
+      "start": 1555.05,
+      "end": 1559.79,
+      "text": "So was that a smart way if you are doing anticipation, especially if you are doing anticipation?"
+    },
+    {
+      "start": 1560.6649,
+      "end": 1564.1849,
+      "text": "Then, like, in a, you got a free money there."
+    },
+    {
+      "start": 1564.1849,
+      "end": 1564.5049,
+      "text": "Right?"
+    },
+    {
+      "start": 1564.5049,
+      "end": 1573.8049,
+      "text": "And as far as I was concerned, my, risk was zero on that trade because I bought it, as an anticipation, and it immediately went up next day."
+    },
+    {
+      "start": 1573.89,
+      "end": 1579.33,
+      "text": "So I'm going to always I'm going to always take that kind of a free money, 80%."
+    },
+    {
+      "start": 1579.33,
+      "end": 1579.65,
+      "text": "Right?"
+    },
+    {
+      "start": 1579.65,
+      "end": 1581.41,
+      "text": "And and it was, like, 10,000 shares."
+    },
+    {
+      "start": 1581.41,
+      "end": 1587.03,
+      "text": "So taking 2,000 80,000 shares and keeping 2,000 was a good decision."
+    },
+    {
+      "start": 1587.09,
+      "end": 1587.59,
+      "text": "Right?"
+    },
+    {
+      "start": 1587.895,
+      "end": 1596.475,
+      "text": "And, MongoDB also, like and I took, this thing out, and I still have, like, any remaining shares of MongoDB."
+    },
+    {
+      "start": 1597.015,
+      "end": 1603.1799,
+      "text": "But, if you think like that, it means, like, $80.20 can change your life if you can do that."
+    },
+    {
+      "start": 1603.1799,
+      "end": 1611.5199,
+      "text": "And, again, like, in a in a market where there is a stop and go rally, eighty twenty will save your ass, basically."
+    },
+    {
+      "start": 1612.46,
+      "end": 1621.4349,
+      "text": "It's not an easy, thing for many people to understand, to execute because the moment they are in a trade, what happens?"
+    },
+    {
+      "start": 1621.735,
+      "end": 1623.595,
+      "text": "And the trade goes in their favor."
+    },
+    {
+      "start": 1623.975,
+      "end": 1625.355,
+      "text": "Is they're hearing everywhere."
+    },
+    {
+      "start": 1625.415,
+      "end": 1626.635,
+      "text": "Let the trade run."
+    },
+    {
+      "start": 1627.255,
+      "end": 1629.515,
+      "text": "Nobody becomes rich by taking profit."
+    },
+    {
+      "start": 1629.655,
+      "end": 1630.155,
+      "text": "Right?"
+    },
+    {
+      "start": 1630.49,
+      "end": 1633.13,
+      "text": "So these are like in a very so they just like in air."
+    },
+    {
+      "start": 1633.13,
+      "end": 1638.25,
+      "text": "They start getting this, it's a nice setup actually."
+    },
+    {
+      "start": 1638.25,
+      "end": 1643.2101,
+      "text": "The volume is the, little bit of a problem, but it might still end up working right in this field."
+    },
+    {
+      "start": 1643.4501,
+      "end": 1648.385,
+      "text": "They start like in a believing in island dream."
+    },
+    {
+      "start": 1648.385,
+      "end": 1648.7051,
+      "text": "Right?"
+    },
+    {
+      "start": 1648.7051,
+      "end": 1649.4451,
+      "text": "And, basically."
+    },
+    {
+      "start": 1658.3201,
+      "end": 1662.88,
+      "text": "Eighty twenty is always, like, in a three sixty five days in a year."
+    },
+    {
+      "start": 1662.88,
+      "end": 1665.3,
+      "text": "Eighty twenty is a strategy."
+    },
+    {
+      "start": 1665.36,
+      "end": 1665.6,
+      "text": "Right?"
+    },
+    {
+      "start": 1665.6,
+      "end": 1671.4401,
+      "text": "And I miss, it's always the best to use eighty twenty."
+    },
+    {
+      "start": 1671.4401,
+      "end": 1671.9401,
+      "text": "Right?"
+    },
+    {
+      "start": 1673.185,
+      "end": 1674.545,
+      "text": "No matter what the rally is."
+    },
+    {
+      "start": 1674.545,
+      "end": 1674.785,
+      "text": "Right?"
+    },
+    {
+      "start": 1674.785,
+      "end": 1680.7251,
+      "text": "And the only difference is if it was a good rally, I would have done eighty twenty on a second day or a third day."
+    },
+    {
+      "start": 1680.8651,
+      "end": 1685.285,
+      "text": "If it is a choppy rally, then I do a eighty twenty on second day."
+    },
+    {
+      "start": 1685.3451,
+      "end": 1685.5851,
+      "text": "Right?"
+    },
+    {
+      "start": 1685.5851,
+      "end": 1686.245,
+      "text": "And, basically."
+    },
+    {
+      "start": 1694.46,
+      "end": 1694.62,
+      "text": "Yeah."
+    },
+    {
+      "start": 1694.62,
+      "end": 1698.38,
+      "text": "But you have to fundamentally marry eighty twenty."
+    },
+    {
+      "start": 1698.38,
+      "end": 1698.88,
+      "text": "Right?"
+    },
+    {
+      "start": 1700.015,
+      "end": 1707.795,
+      "text": "You can't be doing on and off eighty twenty and, like, can I get into means you have to really make it as a part of your this thing?"
+    },
+    {
+      "start": 1709.775,
+      "end": 1716.8501,
+      "text": "And, conceptually, if you understand eighty twenty, what you're doing is you're basically you have two trades."
+    },
+    {
+      "start": 1716.91,
+      "end": 1717.41,
+      "text": "Right?"
+    },
+    {
+      "start": 1717.71,
+      "end": 1722.03,
+      "text": "The 80% part is one trade and the 20% part is another trade."
+    },
+    {
+      "start": 1722.03,
+      "end": 1722.43,
+      "text": "Right?"
+    },
+    {
+      "start": 1722.43,
+      "end": 1727.63,
+      "text": "And the objective of that eighty twenty works only if you're doing reverse permitting."
+    },
+    {
+      "start": 1727.63,
+      "end": 1728.1101,
+      "text": "That is why."
+    },
+    {
+      "start": 1728.1101,
+      "end": 1728.6101,
+      "text": "Right?"
+    },
+    {
+      "start": 1728.67,
+      "end": 1734.5851,
+      "text": "Now if the 80% when you take it off, right, it finances the 20%."
+    },
+    {
+      "start": 1734.805,
+      "end": 1737.045,
+      "text": "And as a result, you increase your win rate."
+    },
+    {
+      "start": 1737.045,
+      "end": 1737.285,
+      "text": "Right?"
+    },
+    {
+      "start": 1737.285,
+      "end": 1743.685,
+      "text": "And if you did it right on Datadog or MongoDB, right, you took out 80%."
+    },
+    {
+      "start": 1743.685,
+      "end": 1749.54,
+      "text": "Was there any chance even if it gapped down that you'll be loss maker on the 20% position?"
+    },
+    {
+      "start": 1751.6,
+      "end": 1751.9199,
+      "text": "Yeah."
+    },
+    {
+      "start": 1751.9199,
+      "end": 1753.6799,
+      "text": "The 20% is by normal size."
+    },
+    {
+      "start": 1753.6799,
+      "end": 1753.9199,
+      "text": "Right?"
+    },
+    {
+      "start": 1753.9199,
+      "end": 1757.44,
+      "text": "And, basically so that's what it is."
+    },
+    {
+      "start": 1757.44,
+      "end": 1757.94,
+      "text": "Right?"
+    },
+    {
+      "start": 1763.5651,
+      "end": 1766.525,
+      "text": "I'm always trying to increase my size."
+    },
+    {
+      "start": 1766.525,
+      "end": 1766.765,
+      "text": "Right?"
+    },
+    {
+      "start": 1766.765,
+      "end": 1770.305,
+      "text": "And then the market lit look little bit better to me two days ago."
+    },
+    {
+      "start": 1770.4451,
+      "end": 1772.285,
+      "text": "So I was trying to increase my size."
+    },
+    {
+      "start": 1772.285,
+      "end": 1772.785,
+      "text": "Right?"
+    },
+    {
+      "start": 1773.805,
+      "end": 1775.105,
+      "text": "Miss, how do you make money?"
+    },
+    {
+      "start": 1775.6599,
+      "end": 1776.48,
+      "text": "Big money."
+    },
+    {
+      "start": 1776.5399,
+      "end": 1776.7,
+      "text": "Right?"
+    },
+    {
+      "start": 1776.7,
+      "end": 1781.4199,
+      "text": "And how am I going to recover my losses from my divorce is by doing some size."
+    },
+    {
+      "start": 1781.4199,
+      "end": 1781.9199,
+      "text": "Right?"
+    },
+    {
+      "start": 1783.74,
+      "end": 1788.14,
+      "text": "I'm not looking at what percentage profit you I'm not looking at what percentage profit."
+    },
+    {
+      "start": 1788.14,
+      "end": 1788.38,
+      "text": "Right?"
+    },
+    {
+      "start": 1788.38,
+      "end": 1791.285,
+      "text": "And then you have to look at, like, in a your risk reward."
+    },
+    {
+      "start": 1791.345,
+      "end": 1791.845,
+      "text": "Right?"
+    },
+    {
+      "start": 1792.145,
+      "end": 1797.745,
+      "text": "For me, if I bought Datadog two days ago, yesterday, with a zero risk."
+    },
+    {
+      "start": 1797.745,
+      "end": 1797.985,
+      "text": "Right?"
+    },
+    {
+      "start": 1797.985,
+      "end": 1801.745,
+      "text": "And then because in the morning, it started going up."
+    },
+    {
+      "start": 1801.745,
+      "end": 1804.005,
+      "text": "So my risk my stop is breakeven."
+    },
+    {
+      "start": 1804.145,
+      "end": 1804.645,
+      "text": "Right?"
+    },
+    {
+      "start": 1804.89,
+      "end": 1806.89,
+      "text": "Any profit is, like, in a good profit."
+    },
+    {
+      "start": 1806.89,
+      "end": 1807.13,
+      "text": "Right?"
+    },
+    {
+      "start": 1807.13,
+      "end": 1813.49,
+      "text": "And, basically, our MongoDB for that matter, zero risk and you get, like, in a so much money."
+    },
+    {
+      "start": 1813.49,
+      "end": 1814.41,
+      "text": "So you sell."
+    },
+    {
+      "start": 1814.41,
+      "end": 1814.73,
+      "text": "Right?"
+    },
+    {
+      "start": 1814.73,
+      "end": 1816.3301,
+      "text": "And it it's not percentage."
+    },
+    {
+      "start": 1816.3301,
+      "end": 1821.335,
+      "text": "If you start looking at percentage, you're going to go into because high price stocks will be different."
+    },
+    {
+      "start": 1821.335,
+      "end": 1822.855,
+      "text": "Low price stock will be different."
+    },
+    {
+      "start": 1822.855,
+      "end": 1823.355,
+      "text": "Right?"
+    },
+    {
+      "start": 1825.655,
+      "end": 1841.13,
+      "text": "But it works like in a once you do start doing eighty twenty, the default means, like, in a doing of larger size is when that eighty twenty starts making real difference to the account."
+    },
+    {
+      "start": 1841.13,
+      "end": 1841.29,
+      "text": "Right?"
+    },
+    {
+      "start": 1841.29,
+      "end": 1848.425,
+      "text": "And it basically means I had, like, in a such a big position in MongoDB or in that, booking."
+    },
+    {
+      "start": 1848.4851,
+      "end": 1848.805,
+      "text": "Right?"
+    },
+    {
+      "start": 1848.805,
+      "end": 1853.785,
+      "text": "Or even for that matter, it wasn't a small position in, this thing."
+    },
+    {
+      "start": 1855.765,
+      "end": 1856.265,
+      "text": "Datadog."
+    },
+    {
+      "start": 1856.7251,
+      "end": 1863.6001,
+      "text": "As a result doing eighty twenty, that 88% is like an additional money which you're making on that trade."
+    },
+    {
+      "start": 1863.6001,
+      "end": 1864.0801,
+      "text": "Right?"
+    },
+    {
+      "start": 1864.0801,
+      "end": 1866.3201,
+      "text": "It's a completely you have to think through these things."
+    },
+    {
+      "start": 1866.3201,
+      "end": 1866.64,
+      "text": "Right?"
+    },
+    {
+      "start": 1866.64,
+      "end": 1877.185,
+      "text": "And it took me six months to perfect that eighty twenty strategy from where I started originally using it and where I became really comfortable and figured out, k."
+    },
+    {
+      "start": 1877.185,
+      "end": 1877.685,
+      "text": "Look."
+    },
+    {
+      "start": 1878.625,
+      "end": 1882.885,
+      "text": "Why you need to do reverse pyramiding and all kinds of things on that strategy?"
+    },
+    {
+      "start": 1885.585,
+      "end": 1891.34,
+      "text": "But so many people on this site have learned that strategy now and they changed their trading."
+    },
+    {
+      "start": 1891.34,
+      "end": 1891.58,
+      "text": "Right?"
+    },
+    {
+      "start": 1891.58,
+      "end": 1898.7999,
+      "text": "And whether they are day traders or whether they are soon traders and everybody is now talking about billing and eighty twenty and all."
+    },
+    {
+      "start": 1898.805,
+      "end": 1899.045,
+      "text": "Right?"
+    },
+    {
+      "start": 1899.045,
+      "end": 1906.245,
+      "text": "And, like, everybody's talking on this Twitter and all about, situational awareness and all."
+    },
+    {
+      "start": 1906.245,
+      "end": 1906.5651,
+      "text": "Right?"
+    },
+    {
+      "start": 1906.5651,
+      "end": 1907.525,
+      "text": "Where did they learn that?"
+    },
+    {
+      "start": 1907.525,
+      "end": 1909.8451,
+      "text": "Reverse pyramidting people are talking about now."
+    },
+    {
+      "start": 1909.8451,
+      "end": 1911.305,
+      "text": "Where did they learn that?"
+    },
+    {
+      "start": 1913.86,
+      "end": 1914.18,
+      "text": "Yeah."
+    },
+    {
+      "start": 1914.18,
+      "end": 1920.1,
+      "text": "You know, good market if the market was like a thing, I would do eighty twenty on a third day on a swing trade."
+    },
+    {
+      "start": 1920.1,
+      "end": 1920.3401,
+      "text": "Right?"
+    },
+    {
+      "start": 1920.3401,
+      "end": 1923.86,
+      "text": "And then because I want to extract as much from the trade as possible."
+    },
+    {
+      "start": 1923.86,
+      "end": 1924.36,
+      "text": "Right?"
+    },
+    {
+      "start": 1937.3201,
+      "end": 1941.16,
+      "text": "Even if you take a normal size and do eighty twenty, it will still work."
+    },
+    {
+      "start": 1941.16,
+      "end": 1941.4,
+      "text": "Right?"
+    },
+    {
+      "start": 1941.4,
+      "end": 1946.38,
+      "text": "And but then then what is happening is the stop portion."
+    },
+    {
+      "start": 1946.76,
+      "end": 1947.0801,
+      "text": "Right?"
+    },
+    {
+      "start": 1947.0801,
+      "end": 1949.0801,
+      "text": "And I say, let's look at it this way."
+    },
+    {
+      "start": 1949.0801,
+      "end": 1949.5801,
+      "text": "Right?"
+    },
+    {
+      "start": 1950.365,
+      "end": 1955.645,
+      "text": "So you have 80%, which is one trade, and you have a 20%, which is a second trade."
+    },
+    {
+      "start": 1955.645,
+      "end": 1955.885,
+      "text": "Right?"
+    },
+    {
+      "start": 1955.885,
+      "end": 1961.3251,
+      "text": "And, basically now why this works this way is like this 80 is four times."
+    },
+    {
+      "start": 1961.3251,
+      "end": 1961.485,
+      "text": "Right?"
+    },
+    {
+      "start": 1961.485,
+      "end": 1963.7251,
+      "text": "And I'm it's like and then the ratio is four is to one."
+    },
+    {
+      "start": 1963.7251,
+      "end": 1964.2251,
+      "text": "Right?"
+    },
+    {
+      "start": 1967.66,
+      "end": 1969.02,
+      "text": "The ratio is four is two one."
+    },
+    {
+      "start": 1969.02,
+      "end": 1969.18,
+      "text": "Right?"
+    },
+    {
+      "start": 1969.18,
+      "end": 1973.76,
+      "text": "And, basically so supposing I put in 100 k in a trade."
+    },
+    {
+      "start": 1973.9,
+      "end": 1974.4,
+      "text": "Right?"
+    },
+    {
+      "start": 1975.3401,
+      "end": 1976.38,
+      "text": "In total capital."
+    },
+    {
+      "start": 1976.38,
+      "end": 1976.88,
+      "text": "Right?"
+    },
+    {
+      "start": 1977.42,
+      "end": 1985.115,
+      "text": "Originally, if I have 100 k as an account, right, and, basically, what will be my trade size for a 100 k account?"
+    },
+    {
+      "start": 1985.255,
+      "end": 1987.015,
+      "text": "Typically, it would have been 20 k."
+    },
+    {
+      "start": 1987.015,
+      "end": 1987.515,
+      "text": "Right?"
+    },
+    {
+      "start": 1991.81,
+      "end": 1998.61,
+      "text": "And, if I do the $80.20 on 20 k, then the remaining portion which is left is so small."
+    },
+    {
+      "start": 1998.61,
+      "end": 1998.85,
+      "text": "Right?"
+    },
+    {
+      "start": 1998.85,
+      "end": 2001.67,
+      "text": "And it doesn't really make sense to keep that 20%."
+    },
+    {
+      "start": 2001.89,
+      "end": 2009.225,
+      "text": "So instead of doing 20,000 like any of this thing, when I started doing it, first, though, like, I didn't start with $80.20."
+    },
+    {
+      "start": 2009.445,
+      "end": 2012.425,
+      "text": "I first started doing $50.50."
+    },
+    {
+      "start": 2013.365,
+      "end": 2013.765,
+      "text": "Right?"
+    },
+    {
+      "start": 2013.765,
+      "end": 2016.585,
+      "text": "But then the equation doesn't work if you do fifty fifty."
+    },
+    {
+      "start": 2016.645,
+      "end": 2024.93,
+      "text": "Because if you're just taking 50% of the profit, the 50% portion can still gap down or go down, and you can lose money on the overall trade."
+    },
+    {
+      "start": 2024.93,
+      "end": 2025.17,
+      "text": "Right?"
+    },
+    {
+      "start": 2025.17,
+      "end": 2026.7101,
+      "text": "So then I started experimenting."
+    },
+    {
+      "start": 2027.01,
+      "end": 2028.7101,
+      "text": "And this is how you develop strategies."
+    },
+    {
+      "start": 2028.8501,
+      "end": 2029.25,
+      "text": "Right?"
+    },
+    {
+      "start": 2029.25,
+      "end": 2031.03,
+      "text": "So I made the sixty forty."
+    },
+    {
+      "start": 2031.4901,
+      "end": 2033.805,
+      "text": "Still, the equation is not in your favor."
+    },
+    {
+      "start": 2033.805,
+      "end": 2035.265,
+      "text": "Then I made 75."
+    },
+    {
+      "start": 2035.325,
+      "end": 2037.745,
+      "text": "Ultimately, I reached seventy five twenty five."
+    },
+    {
+      "start": 2038.045,
+      "end": 2040.125,
+      "text": "And still, the equation yeah."
+    },
+    {
+      "start": 2040.125,
+      "end": 2045.565,
+      "text": "Means the equation is in your favor, but, like, then finally when I reached eighty twenty, I realized, look at it."
+    },
+    {
+      "start": 2045.565,
+      "end": 2048.84,
+      "text": "This is the magic number."
+    },
+    {
+      "start": 2049.3,
+      "end": 2049.8,
+      "text": "Right?"
+    },
+    {
+      "start": 2050.26,
+      "end": 2057.4602,
+      "text": "Then I realized, you look at it, the stop portion which you are keeping then 20% or 20 k's, then you're just keeping 4,000."
+    },
+    {
+      "start": 2057.4602,
+      "end": 2057.9602,
+      "text": "Right?"
+    },
+    {
+      "start": 2058.1,
+      "end": 2062.04,
+      "text": "That 4,000, yeah, it can go up, but it doesn't really make a big difference."
+    },
+    {
+      "start": 2062.335,
+      "end": 2068.9949,
+      "text": "And that's when one day, I just like and I had this epiphany, right, like that Italian dude."
+    },
+    {
+      "start": 2070.335,
+      "end": 2073.635,
+      "text": "Wasn't he Italian dude who, like and I ran out of the tub?"
+    },
+    {
+      "start": 2075.23,
+      "end": 2076.37,
+      "text": "What was his name?"
+    },
+    {
+      "start": 2077.31,
+      "end": 2077.81,
+      "text": "Eureka."
+    },
+    {
+      "start": 2077.9502,
+      "end": 2078.35,
+      "text": "Eureka."
+    },
+    {
+      "start": 2078.35,
+      "end": 2082.27,
+      "text": "He said, like, in a he was trying to look at the weight of a gold, this thing."
+    },
+    {
+      "start": 2082.27,
+      "end": 2082.51,
+      "text": "Right?"
+    },
+    {
+      "start": 2082.51,
+      "end": 2083.01,
+      "text": "Archimedes."
+    },
+    {
+      "start": 2083.79,
+      "end": 2096.4749,
+      "text": "So one day, I can just had this epiphany that if I do eighty twenty, right, what will happen is the 80% of that thing is going to make sure that the 20% is never loss making."
+    },
+    {
+      "start": 2096.4749,
+      "end": 2100.4749,
+      "text": "That 20% is original trade I would anyway put as a swing trade."
+    },
+    {
+      "start": 2100.4749,
+      "end": 2100.9548,
+      "text": "Right?"
+    },
+    {
+      "start": 2100.9548,
+      "end": 2105.24,
+      "text": "So now what happens is, like, say, you put in a trade."
+    },
+    {
+      "start": 2105.24,
+      "end": 2105.74,
+      "text": "Right?"
+    },
+    {
+      "start": 2105.8,
+      "end": 2115.24,
+      "text": "And let's stay say, essentially, you're taking 100% of your account sometimes on this kind of trades then."
+    },
+    {
+      "start": 2115.24,
+      "end": 2115.48,
+      "text": "Right?"
+    },
+    {
+      "start": 2115.48,
+      "end": 2120.9248,
+      "text": "And that means, obviously, it's a dangerous game, but if you can do this successfully in the right market condition."
+    },
+    {
+      "start": 2120.9248,
+      "end": 2121.4248,
+      "text": "Right?"
+    },
+    {
+      "start": 2121.805,
+      "end": 2131.265,
+      "text": "So 80% of the portion so the mark say it goes up like in a, let's look at like in a MongoDB."
+    },
+    {
+      "start": 2131.565,
+      "end": 2132.065,
+      "text": "Right?"
+    },
+    {
+      "start": 2132.28,
+      "end": 2133.96,
+      "text": "So this one went up 4%."
+    },
+    {
+      "start": 2133.96,
+      "end": 2134.46,
+      "text": "Right?"
+    },
+    {
+      "start": 2135.48,
+      "end": 2138.44,
+      "text": "4% or something at its high, like, in a basically."
+    },
+    {
+      "start": 2138.44,
+      "end": 2138.76,
+      "text": "Right?"
+    },
+    {
+      "start": 2138.76,
+      "end": 2142.28,
+      "text": "And so let's assume that kid go goes up, say, 5%."
+    },
+    {
+      "start": 2142.28,
+      "end": 2142.78,
+      "text": "Right?"
+    },
+    {
+      "start": 2143.56,
+      "end": 2146.7,
+      "text": "So how much is your overall capital gone up by?"
+    },
+    {
+      "start": 2151.5251,
+      "end": 2152.0852,
+      "text": "2%."
+    },
+    {
+      "start": 2152.0852,
+      "end": 2152.5852,
+      "text": "Right?"
+    },
+    {
+      "start": 2154.245,
+      "end": 2155.0452,
+      "text": "Or 4%."
+    },
+    {
+      "start": 2155.0452,
+      "end": 2155.5452,
+      "text": "Right?"
+    },
+    {
+      "start": 2156.3252,
+      "end": 2157.145,
+      "text": "4%."
+    },
+    {
+      "start": 2157.685,
+      "end": 2163.69,
+      "text": "Now the 20% portion you're keeping and the 20% portion, let's say, makes 10%."
+    },
+    {
+      "start": 2164.47,
+      "end": 2164.8699,
+      "text": "Right?"
+    },
+    {
+      "start": 2164.8699,
+      "end": 2168.49,
+      "text": "So you got 2% profit on your overall capital."
+    },
+    {
+      "start": 2168.5498,
+      "end": 2168.8699,
+      "text": "Right?"
+    },
+    {
+      "start": 2168.8699,
+      "end": 2172.17,
+      "text": "So in total trade has made 6% profit."
+    },
+    {
+      "start": 2172.47,
+      "end": 2179.615,
+      "text": "Now if I was not doing eighty twenty, the same thread would have made me a profit of only 2%."
+    },
+    {
+      "start": 2179.615,
+      "end": 2180.115,
+      "text": "Right?"
+    },
+    {
+      "start": 2180.415,
+      "end": 2185.395,
+      "text": "So eighty twenty changes the equation dramatically when you do reverse parametering."
+    },
+    {
+      "start": 2185.455,
+      "end": 2190.195,
+      "text": "But, again, to do reverse parametering, what is it that you need to do?"
+    },
+    {
+      "start": 2190.415,
+      "end": 2191.395,
+      "text": "What do you need?"
+    },
+    {
+      "start": 2196.87,
+      "end": 2197.1902,
+      "text": "Size."
+    },
+    {
+      "start": 2197.1902,
+      "end": 2197.6902,
+      "text": "Right?"
+    },
+    {
+      "start": 2197.99,
+      "end": 2198.49,
+      "text": "Size."
+    },
+    {
+      "start": 2202.7102,
+      "end": 2207.7651,
+      "text": "And size, and you need to be very good at selecting the equality setup."
+    },
+    {
+      "start": 2207.985,
+      "end": 2210.465,
+      "text": "And you need to get like, any you need to do size."
+    },
+    {
+      "start": 2210.465,
+      "end": 2211.685,
+      "text": "You need to do fee."
+    },
+    {
+      "start": 2211.905,
+      "end": 2216.7852,
+      "text": "Because if you do eighty twenty and if you're not doing fee and you're putting 10% listing."
+    },
+    {
+      "start": 2216.7852,
+      "end": 2217.2852,
+      "text": "Right?"
+    },
+    {
+      "start": 2217.425,
+      "end": 2221.6301,
+      "text": "But the more than that, what you need is really the balls."
+    },
+    {
+      "start": 2224.4102,
+      "end": 2224.81,
+      "text": "Right?"
+    },
+    {
+      "start": 2224.81,
+      "end": 2232.33,
+      "text": "To do this, then you can just figure out how this game changes once you try and do this."
+    },
+    {
+      "start": 2232.33,
+      "end": 2248.855,
+      "text": "And especially when you get a good bull move of, like, in a six to seven weeks, and if you can, like, can you just do, 88, 10 rates like this, you get, like, an you turbocharge your returns."
+    },
+    {
+      "start": 2248.855,
+      "end": 2249.1748,
+      "text": "Right?"
+    },
+    {
+      "start": 2249.1748,
+      "end": 2253.92,
+      "text": "And and plus, you turbocharge, but at the time same time, your risk is so low."
+    },
+    {
+      "start": 2253.92,
+      "end": 2254.16,
+      "text": "Right?"
+    },
+    {
+      "start": 2254.16,
+      "end": 2256.16,
+      "text": "And because you are taking the 80% off."
+    },
+    {
+      "start": 2256.16,
+      "end": 2256.56,
+      "text": "Right?"
+    },
+    {
+      "start": 2256.56,
+      "end": 2258.5,
+      "text": "Because you're taking the 80% off."
+    },
+    {
+      "start": 2259.04,
+      "end": 2260.8,
+      "text": "And there are variations of this."
+    },
+    {
+      "start": 2260.8,
+      "end": 2261.04,
+      "text": "Right?"
+    },
+    {
+      "start": 2261.04,
+      "end": 2262.42,
+      "text": "And if you see Manis."
+    },
+    {
+      "start": 2262.48,
+      "end": 2262.98,
+      "text": "Right?"
+    },
+    {
+      "start": 2264.345,
+      "end": 2266.905,
+      "text": "At Manis, what is he doing?"
+    },
+    {
+      "start": 2266.905,
+      "end": 2269.405,
+      "text": "He's taking that 80% off same day."
+    },
+    {
+      "start": 2269.865,
+      "end": 2270.1848,
+      "text": "Right?"
+    },
+    {
+      "start": 2270.1848,
+      "end": 2277.02,
+      "text": "So, essentially, what he's doing is he's putting a trade, which is day trade plus a swing trade together."
+    },
+    {
+      "start": 2277.32,
+      "end": 2279.8801,
+      "text": "I also sometimes take it same day off."
+    },
+    {
+      "start": 2279.8801,
+      "end": 2280.3801,
+      "text": "Right?"
+    },
+    {
+      "start": 2280.6802,
+      "end": 2287.02,
+      "text": "But as a result of this, doing it this way and, obviously, once you're putting in size, then only this makes sense."
+    },
+    {
+      "start": 2287.8,
+      "end": 2289.48,
+      "text": "Every trade is two trades."
+    },
+    {
+      "start": 2289.48,
+      "end": 2289.98,
+      "text": "Right?"
+    },
+    {
+      "start": 2292.115,
+      "end": 2293.4749,
+      "text": "Every trade is a two trade."
+    },
+    {
+      "start": 2293.4749,
+      "end": 2306.76,
+      "text": "But the this being $80.20, this trade then finances like, in the worst case scenario on the in this particular case, your 10 person portion got stopped out for a breakeven."
+    },
+    {
+      "start": 2306.9001,
+      "end": 2307.3,
+      "text": "Right?"
+    },
+    {
+      "start": 2307.3,
+      "end": 2310.9001,
+      "text": "You made only zero, but still you'd be ending up with what profit?"
+    },
+    {
+      "start": 2310.9001,
+      "end": 2311.62,
+      "text": "4%."
+    },
+    {
+      "start": 2311.62,
+      "end": 2312.12,
+      "text": "Right?"
+    },
+    {
+      "start": 2312.5,
+      "end": 2315.06,
+      "text": "So that's the beauty of doing eighty twenty."
+    },
+    {
+      "start": 2315.06,
+      "end": 2318.355,
+      "text": "So these are all means, like, you have to really think through this."
+    },
+    {
+      "start": 2318.435,
+      "end": 2320.675,
+      "text": "It took me six months to figure this equation out."
+    },
+    {
+      "start": 2320.675,
+      "end": 2320.915,
+      "text": "Right?"
+    },
+    {
+      "start": 2320.915,
+      "end": 2329.715,
+      "text": "And basically and get comfortable and then to put those kind of sizes and go in big."
+    },
+    {
+      "start": 2329.715,
+      "end": 2330.195,
+      "text": "Right?"
+    },
+    {
+      "start": 2330.195,
+      "end": 2332.195,
+      "text": "And, kind of a thing."
+    },
+    {
+      "start": 2332.195,
+      "end": 2335.08,
+      "text": "And that's why because I do eighty twenty."
+    },
+    {
+      "start": 2335.54,
+      "end": 2338.92,
+      "text": "If you do eighty twenty with a 10 per 8% stop."
+    },
+    {
+      "start": 2339.46,
+      "end": 2339.96,
+      "text": "Right?"
+    },
+    {
+      "start": 2340.58,
+      "end": 2343.38,
+      "text": "Again, this works if you can do very close stop."
+    },
+    {
+      "start": 2343.38,
+      "end": 2343.6199,
+      "text": "Right?"
+    },
+    {
+      "start": 2343.6199,
+      "end": 2352.9749,
+      "text": "And if you do this with the 8% stop, there is a 80% probability that you are going to be a blow you're going to blow up your account."
+    },
+    {
+      "start": 2357.195,
+      "end": 2357.695,
+      "text": "Right?"
+    },
+    {
+      "start": 2357.9949,
+      "end": 2361.135,
+      "text": "What stop do I put in when I do this eighty twenty?"
+    },
+    {
+      "start": 2365.73,
+      "end": 2367.11,
+      "text": "Two point five or less."
+    },
+    {
+      "start": 2367.25,
+      "end": 2367.75,
+      "text": "Right?"
+    },
+    {
+      "start": 2367.81,
+      "end": 2369.59,
+      "text": "2.5% or less."
+    },
+    {
+      "start": 2370.61,
+      "end": 2371.11,
+      "text": "Right?"
+    },
+    {
+      "start": 2381.695,
+      "end": 2382.015,
+      "text": "Yeah."
+    },
+    {
+      "start": 2382.015,
+      "end": 2383.455,
+      "text": "So scaling in yeah."
+    },
+    {
+      "start": 2383.455,
+      "end": 2387.4,
+      "text": "I mean, it's like an it depends on, like, in a whether you want to scale in or not."
+    },
+    {
+      "start": 2387.5598,
+      "end": 2395.4,
+      "text": "But whether you scale in or scale out, right, and then ultimately, it's the mind clarity which you have to have."
+    },
+    {
+      "start": 2395.4,
+      "end": 2395.9,
+      "text": "Right?"
+    },
+    {
+      "start": 2396.8398,
+      "end": 2413.0051,
+      "text": "You have to have the mind clarity about this, because one trade quickly then moves your account by if it is a good like, and if you get, like, in a really good, like, not a on the sometimes you get, like, on the 80%, like, you know, you get 10%."
+    },
+    {
+      "start": 2413.0051,
+      "end": 2413.5051,
+      "text": "Right?"
+    },
+    {
+      "start": 2413.565,
+      "end": 2417.725,
+      "text": "Now if you get 10% on 80%, then you're moving your account by 8%."
+    },
+    {
+      "start": 2417.725,
+      "end": 2418.12,
+      "text": "Right?"
+    },
+    {
+      "start": 2418.28,
+      "end": 2422.36,
+      "text": "And then the additional 20% is going to give you 20% supposing."
+    },
+    {
+      "start": 2422.36,
+      "end": 2422.86,
+      "text": "Right?"
+    },
+    {
+      "start": 2424.28,
+      "end": 2425.9001,
+      "text": "Then what happens to the equation?"
+    },
+    {
+      "start": 2425.9602,
+      "end": 2430.7002,
+      "text": "If this happens, then in one trade, what you've done is you moved your account."
+    },
+    {
+      "start": 2436.085,
+      "end": 2436.585,
+      "text": "Alright."
+    },
+    {
+      "start": 2436.805,
+      "end": 2441.925,
+      "text": "So, this trailing stop."
+    },
+    {
+      "start": 2441.925,
+      "end": 2442.2449,
+      "text": "Yeah."
+    },
+    {
+      "start": 2442.2449,
+      "end": 2443.445,
+      "text": "You can do trailing stop."
+    },
+    {
+      "start": 2443.445,
+      "end": 2444.885,
+      "text": "You can do all of those things."
+    },
+    {
+      "start": 2444.885,
+      "end": 2445.125,
+      "text": "Right?"
+    },
+    {
+      "start": 2445.125,
+      "end": 2458.1602,
+      "text": "And, basically, so as a result of this, basically, what happens is, few trades then, like, in a under right circumstances quickly dry your account up, basically."
+    },
+    {
+      "start": 2458.1602,
+      "end": 2458.48,
+      "text": "Right?"
+    },
+    {
+      "start": 2458.48,
+      "end": 2463.2852,
+      "text": "So, obviously, this requires in order to do this, you need to have fee."
+    },
+    {
+      "start": 2463.2852,
+      "end": 2466.485,
+      "text": "You need to have, like, an a really good, this thing."
+    },
+    {
+      "start": 2466.485,
+      "end": 2466.985,
+      "text": "Right?"
+    },
+    {
+      "start": 2467.0452,
+      "end": 2474.085,
+      "text": "But if you can do this successfully, then you turbocharge and with a very low risk."
+    },
+    {
+      "start": 2474.085,
+      "end": 2474.585,
+      "text": "Right?"
+    },
+    {
+      "start": 2477.7,
+      "end": 2481.94,
+      "text": "My risk is still two I can I can put a stop of 2.5%?"
+    },
+    {
+      "start": 2481.94,
+      "end": 2482.44,
+      "text": "Right?"
+    },
+    {
+      "start": 2483.46,
+      "end": 2484.2,
+      "text": "Or less."
+    },
+    {
+      "start": 2485.3801,
+      "end": 2488.9001,
+      "text": "But my overall account risk can be less than 1%."
+    },
+    {
+      "start": 2488.9001,
+      "end": 2489.4001,
+      "text": "Right?"
+    },
+    {
+      "start": 2489.495,
+      "end": 2491.435,
+      "text": "Or it can be 1.5%."
+    },
+    {
+      "start": 2496.855,
+      "end": 2497.355,
+      "text": "Right?"
+    },
+    {
+      "start": 2498.055,
+      "end": 2498.855,
+      "text": "Here is the thing."
+    },
+    {
+      "start": 2498.855,
+      "end": 2499.175,
+      "text": "Right?"
+    },
+    {
+      "start": 2499.175,
+      "end": 2501.355,
+      "text": "And here is a good example of that booking."
+    },
+    {
+      "start": 2502.215,
+      "end": 2502.715,
+      "text": "Right?"
+    },
+    {
+      "start": 2503.415,
+      "end": 2503.915,
+      "text": "Yeah."
+    },
+    {
+      "start": 2507.26,
+      "end": 2511.18,
+      "text": "I found this right in a because I always look at high priced stocks."
+    },
+    {
+      "start": 2511.18,
+      "end": 2511.68,
+      "text": "Right?"
+    },
+    {
+      "start": 2511.9,
+      "end": 2514.8599,
+      "text": "So my stop on this was not even 2.5%."
+    },
+    {
+      "start": 2514.8599,
+      "end": 2517.66,
+      "text": "My stop was less than 1% on this particular stock."
+    },
+    {
+      "start": 2517.66,
+      "end": 2518.16,
+      "text": "Right?"
+    },
+    {
+      "start": 2518.545,
+      "end": 2525.105,
+      "text": "And then I had, like, an 80% of my account in this particular stock."
+    },
+    {
+      "start": 2525.105,
+      "end": 2525.605,
+      "text": "Right?"
+    },
+    {
+      "start": 2525.905,
+      "end": 2536.96,
+      "text": "And next day, when it went up a lot, like and it went up from my, entry to went up almost like in a, several, from my entry which was here."
+    },
+    {
+      "start": 2537.02,
+      "end": 2537.34,
+      "text": "Right?"
+    },
+    {
+      "start": 2537.34,
+      "end": 2542.86,
+      "text": "And it went up like in a around almost like in a around $80.90 dollars."
+    },
+    {
+      "start": 2542.86,
+      "end": 2545.02,
+      "text": "So I took 80% off."
+    },
+    {
+      "start": 2545.02,
+      "end": 2545.42,
+      "text": "Right?"
+    },
+    {
+      "start": 2545.42,
+      "end": 2556.575,
+      "text": "And I kept the 20%, and I got next time morning when it gapped up, I like and I closed that position in that gap of right and then so 80% of the account was there on one trade."
+    },
+    {
+      "start": 2557.5151,
+      "end": 2558.575,
+      "text": "What was the risk?"
+    },
+    {
+      "start": 2558.875,
+      "end": 2560.875,
+      "text": "The risk was even less than 1%."
+    },
+    {
+      "start": 2560.875,
+      "end": 2561.115,
+      "text": "Right?"
+    },
+    {
+      "start": 2561.115,
+      "end": 2562.975,
+      "text": "And the risk was not even 1%."
+    },
+    {
+      "start": 2563.65,
+      "end": 2564.15,
+      "text": "Right?"
+    },
+    {
+      "start": 2570.21,
+      "end": 2582.525,
+      "text": "So, EJ, when you say total account, do you mean to say the total amount of capital you are putting to that particular trade in booking, or are you saying the total capital you have in your trading account?"
+    },
+    {
+      "start": 2582.905,
+      "end": 2585.145,
+      "text": "So if I had, like, say, $1,000,000."
+    },
+    {
+      "start": 2585.145,
+      "end": 2585.645,
+      "text": "Right?"
+    },
+    {
+      "start": 2585.705,
+      "end": 2586.105,
+      "text": "Mhmm."
+    },
+    {
+      "start": 2586.105,
+      "end": 2588.605,
+      "text": "800,000 out of that was on booking."
+    },
+    {
+      "start": 2588.665,
+      "end": 2589.225,
+      "text": "On booking."
+    },
+    {
+      "start": 2589.225,
+      "end": 2589.705,
+      "text": "Oh, okay."
+    },
+    {
+      "start": 2589.705,
+      "end": 2590.105,
+      "text": "Got it."
+    },
+    {
+      "start": 2590.105,
+      "end": 2590.345,
+      "text": "Okay."
+    },
+    {
+      "start": 2590.345,
+      "end": 2593.385,
+      "text": "So, in this case of MongoDB, I didn't realize."
+    },
+    {
+      "start": 2593.385,
+      "end": 2593.885,
+      "text": "Right?"
+    },
+    {
+      "start": 2594.27,
+      "end": 2606.69,
+      "text": "I put an order for MongoDB as just a I didn't even realize I'm taking sometimes, like and I'm not even paying attention because I just didn't look at the volume on MongoDB when I put in that anticipation thread."
+    },
+    {
+      "start": 2606.8298,
+      "end": 2609.425,
+      "text": "And I put in thread across two accounts."
+    },
+    {
+      "start": 2609.425,
+      "end": 2609.665,
+      "text": "Right?"
+    },
+    {
+      "start": 2609.665,
+      "end": 2611.605,
+      "text": "So it was, like, 5,005."
+    },
+    {
+      "start": 2611.825,
+      "end": 2614.325,
+      "text": "So I ended up buying 10,000 shares of MongoDB."
+    },
+    {
+      "start": 2614.4648,
+      "end": 2614.9648,
+      "text": "Right?"
+    },
+    {
+      "start": 2615.425,
+      "end": 2628.32,
+      "text": "And then when I realized in the night, I saw that, like, I am gone above my, this thing also because 5,000 shares above 391 stocks is a lot of money."
+    },
+    {
+      "start": 2628.32,
+      "end": 2628.82,
+      "text": "Right?"
+    },
+    {
+      "start": 2629.4402,
+      "end": 2634.0,
+      "text": "So, like, I was but next day, it just paid out."
+    },
+    {
+      "start": 2634.0,
+      "end": 2634.5,
+      "text": "Right?"
+    },
+    {
+      "start": 2634.7852,
+      "end": 2641.0452,
+      "text": "It just pay, paid next day because, so I took out 80% next day, and then I kept the 20%."
+    },
+    {
+      "start": 2641.2651,
+      "end": 2645.0452,
+      "text": "And then the 20%, I had to stop on."
+    },
+    {
+      "start": 2645.5051,
+      "end": 2650.18,
+      "text": "And fortunately, that stuff got hit."
+    },
+    {
+      "start": 2650.4,
+      "end": 2651.7,
+      "text": "So this is the thing."
+    },
+    {
+      "start": 2653.0398,
+      "end": 2657.8398,
+      "text": "Miss, like, bought it like on this day, and I sold 80% on this day."
+    },
+    {
+      "start": 2657.8398,
+      "end": 2658.3398,
+      "text": "Right?"
+    },
+    {
+      "start": 2659.68,
+      "end": 2662.2651,
+      "text": "So again Friday."
+    },
+    {
+      "start": 2662.2651,
+      "end": 2662.5051,
+      "text": "Right?"
+    },
+    {
+      "start": 2662.5051,
+      "end": 2665.165,
+      "text": "You bought it on a Friday or as an anticipation."
+    },
+    {
+      "start": 2665.625,
+      "end": 2665.865,
+      "text": "Yeah."
+    },
+    {
+      "start": 2665.865,
+      "end": 2666.8452,
+      "text": "As an anticipation."
+    },
+    {
+      "start": 2666.985,
+      "end": 2667.3052,
+      "text": "Yeah."
+    },
+    {
+      "start": 2667.3052,
+      "end": 2667.465,
+      "text": "Yeah."
+    },
+    {
+      "start": 2667.465,
+      "end": 2667.7852,
+      "text": "Okay."
+    },
+    {
+      "start": 2667.7852,
+      "end": 2668.185,
+      "text": "Got it."
+    },
+    {
+      "start": 2668.185,
+      "end": 2668.925,
+      "text": "Thank you."
+    },
+    {
+      "start": 2670.5051,
+      "end": 2684.68,
+      "text": "But, so I was on margin actually on this part because of this trade because I had, this thing also, MongoDB also, and I had, like, an a, this thing also, Datadog also, which I bought as a anticipation set up."
+    },
+    {
+      "start": 2684.68,
+      "end": 2689.72,
+      "text": "As a result of that, I want us on a margin this I mean, it's like an and I had other trades also."
+    },
+    {
+      "start": 2689.72,
+      "end": 2690.22,
+      "text": "Right?"
+    },
+    {
+      "start": 2690.625,
+      "end": 2696.945,
+      "text": "I had drop king and I had, like, an at GPS gap and a couple of other trades."
+    },
+    {
+      "start": 2696.945,
+      "end": 2699.125,
+      "text": "So as a result, I was at margin, they see."
+    },
+    {
+      "start": 2699.505,
+      "end": 2701.205,
+      "text": "But what did it do to the returns?"
+    },
+    {
+      "start": 2709.6199,
+      "end": 2709.78,
+      "text": "Okay."
+    },
+    {
+      "start": 2709.78,
+      "end": 2715.94,
+      "text": "Liar to liar fees like in a not even like in a, that's like in a small potato."
+    },
+    {
+      "start": 2715.94,
+      "end": 2716.0999,
+      "text": "Right?"
+    },
+    {
+      "start": 2716.0999,
+      "end": 2722.045,
+      "text": "And it pay probably paid for one fourth of my house probably as in when I decide to buy a house."
+    },
+    {
+      "start": 2724.7449,
+      "end": 2728.4248,
+      "text": "Lot of fees are worth for lot dealers charge you what fees?"
+    },
+    {
+      "start": 2728.4248,
+      "end": 2732.025,
+      "text": "They are just like it is not like an it's not or chatting."
+    },
+    {
+      "start": 2732.025,
+      "end": 2736.3801,
+      "text": "In this process, we lost our thought and, we lost our chain of thinking."
+    },
+    {
+      "start": 2736.3801,
+      "end": 2738.4802,
+      "text": "So I'm going to redo this entire thing."
+    },
+    {
+      "start": 2738.86,
+      "end": 2744.3801,
+      "text": "Let me do this this way so that it is easier, and I don't duplicate the effort."
+    },
+    {
+      "start": 2744.3801,
+      "end": 2745.76,
+      "text": "So let's take ads."
+    },
+    {
+      "start": 2747.275,
+      "end": 2749.435,
+      "text": "Anyway, I'm not going to put an ad straight today."
+    },
+    {
+      "start": 2749.435,
+      "end": 2749.755,
+      "text": "Right?"
+    },
+    {
+      "start": 2749.755,
+      "end": 2754.155,
+      "text": "It doesn't make sense considering what happened today, and no buying is coming in."
+    },
+    {
+      "start": 2754.155,
+      "end": 2759.035,
+      "text": "So I'm not going to put an ad straight, but just you must do your work irrespective of that."
+    },
+    {
+      "start": 2759.035,
+      "end": 2759.535,
+      "text": "Right?"
+    },
+    {
+      "start": 2760.795,
+      "end": 2768.44,
+      "text": "So, I would say that don't do things like this till you understand."
+    },
+    {
+      "start": 2768.5,
+      "end": 2769.0,
+      "text": "Right?"
+    },
+    {
+      "start": 2769.7,
+      "end": 2772.84,
+      "text": "It's not a means like an these are advanced techniques."
+    },
+    {
+      "start": 2774.02,
+      "end": 2777.7,
+      "text": "If you don't understand, it can also ruin your life also."
+    },
+    {
+      "start": 2777.7,
+      "end": 2778.2,
+      "text": "Right?"
+    },
+    {
+      "start": 2779.5051,
+      "end": 2784.0051,
+      "text": "But for those who mastered this game, that's how you then, like, in in few trades."
+    },
+    {
+      "start": 2787.665,
+      "end": 2790.225,
+      "text": "I don't I don't even use that IV grid and all."
+    },
+    {
+      "start": 2790.225,
+      "end": 2792.945,
+      "text": "Like, I don't even know what that IV grid and all is."
+    },
+    {
+      "start": 2792.945,
+      "end": 2793.185,
+      "text": "Right?"
+    },
+    {
+      "start": 2793.185,
+      "end": 2796.22,
+      "text": "And I I don't even look at like that."
+    },
+    {
+      "start": 2800.1199,
+      "end": 2811.415,
+      "text": "And because I do fix size, sometimes, like, I lose perspective in terms of you don't even look at, okay, how much and you put in an order, and then you'll suddenly realize, you know, shit."
+    },
+    {
+      "start": 2811.415,
+      "end": 2814.855,
+      "text": "This one is like in a 4,000,000 or 5,000,000."
+    },
+    {
+      "start": 2814.855,
+      "end": 2815.175,
+      "text": "Right?"
+    },
+    {
+      "start": 2815.175,
+      "end": 2825.29,
+      "text": "And, especially when you put in an order on things like in a 2,000 shares of, like, in a, booking and all, it can, like, in a be a lot of money."
+    },
+    {
+      "start": 2825.29,
+      "end": 2825.79,
+      "text": "Right?"
+    },
+    {
+      "start": 2829.29,
+      "end": 2831.55,
+      "text": "8020, I started doing, like, an f."
+    },
+    {
+      "start": 2832.65,
+      "end": 2833.87,
+      "text": "So six years ago."
+    },
+    {
+      "start": 2834.495,
+      "end": 2837.5352,
+      "text": "But on that margin, you would have had to pay quite a bit of interest, isn't it?"
+    },
+    {
+      "start": 2837.5352,
+      "end": 2839.375,
+      "text": "Or What interest is there on margin?"
+    },
+    {
+      "start": 2839.375,
+      "end": 2840.495,
+      "text": "It is one day interest."
+    },
+    {
+      "start": 2840.495,
+      "end": 2840.895,
+      "text": "Right?"
+    },
+    {
+      "start": 2840.895,
+      "end": 2843.295,
+      "text": "I mean It's like an hour."
+    },
+    {
+      "start": 2843.295,
+      "end": 2846.0352,
+      "text": "How much is the interest on margin in IB?"
+    },
+    {
+      "start": 2846.2551,
+      "end": 2847.135,
+      "text": "3% only."
+    },
+    {
+      "start": 2847.135,
+      "end": 2848.195,
+      "text": "22%."
+    },
+    {
+      "start": 2848.335,
+      "end": 2852.3,
+      "text": "Not it's like any more than that, but it's not like any and it's for one day."
+    },
+    {
+      "start": 2852.3,
+      "end": 2852.54,
+      "text": "Right."
+    },
+    {
+      "start": 2852.54,
+      "end": 2852.7002,
+      "text": "Yeah."
+    },
+    {
+      "start": 2852.7002,
+      "end": 2858.7202,
+      "text": "So you don't even like an it's not even like an worth your time to think about that."
+    },
+    {
+      "start": 2869.755,
+      "end": 2878.66,
+      "text": "I'm trying to get in couple of times like in a means, like, four or five times I got in on margin in this, rally in like the last couple of days."
+    },
+    {
+      "start": 2878.72,
+      "end": 2883.2798,
+      "text": "I'm trying to get in as much capital as to work as possible, but it's not been easy."
+    },
+    {
+      "start": 2883.2798,
+      "end": 2883.7798,
+      "text": "Right?"
+    },
+    {
+      "start": 2884.5598,
+      "end": 2885.8599,
+      "text": "So that's the thing basically."
+    },
+    {
+      "start": 2886.64,
+      "end": 2895.9849,
+      "text": "So just the confidence to put in like in a going that is, you know, lacking because the market is stop and go."
+    },
+    {
+      "start": 2895.9849,
+      "end": 2896.4849,
+      "text": "Right?"
+    },
+    {
+      "start": 2908.45,
+      "end": 2908.69,
+      "text": "Yeah."
+    },
+    {
+      "start": 2908.69,
+      "end": 2910.31,
+      "text": "If you know your stuff, exactly."
+    },
+    {
+      "start": 2910.466,
+      "end": 2918.71,
+      "text": "It's like an that's how people always like an whenever you hear people making big returns."
+    },
+    {
+      "start": 2918.77,
+      "end": 2919.27,
+      "text": "Right?"
+    },
+    {
+      "start": 2923.675,
+      "end": 2929.835,
+      "text": "It's always going to be that they put in some big, size."
+    },
+    {
+      "start": 2929.835,
+      "end": 2929.995,
+      "text": "Right?"
+    },
+    {
+      "start": 2929.995,
+      "end": 2937.9202,
+      "text": "And, basically, so that's why I did this video many days ago."
+    },
+    {
+      "start": 2937.9202,
+      "end": 2938.1602,
+      "text": "Right?"
+    },
+    {
+      "start": 2938.1602,
+      "end": 2951.1648,
+      "text": "And then when I look at those some of those videos, I can't even believe that, like, in a, when it comes to making, how much weight I lost from this video to today."
+    },
+    {
+      "start": 2951.1648,
+      "end": 2951.4048,
+      "text": "Right?"
+    },
+    {
+      "start": 2951.4048,
+      "end": 2954.765,
+      "text": "And if you look at I can't even look at myself, like, in a nowadays."
+    },
+    {
+      "start": 2954.765,
+      "end": 2955.885,
+      "text": "I need to read a lot."
+    },
+    {
+      "start": 2955.9648,
+      "end": 2960.7048,
+      "text": "To making money in the market, the most important thing is size."
+    },
+    {
+      "start": 2961.59,
+      "end": 2962.73,
+      "text": "Size matters."
+    },
+    {
+      "start": 2963.43,
+      "end": 2969.21,
+      "text": "Contrary to what you might have heard, size is very important if you want explosive returns."
+    },
+    {
+      "start": 2969.75,
+      "end": 2980.595,
+      "text": "Whenever you're doing swing trading or even position trading, if the size of your positions is very small, you're not going to move your account very fast."
+    },
+    {
+      "start": 2980.7349,
+      "end": 2984.835,
+      "text": "So important thing in order to make account move is size."
+    },
+    {
+      "start": 2985.055,
+      "end": 2989.7148,
+      "text": "And so let's look at this size in terms of how it impacts your returns."
+    },
+    {
+      "start": 2990.0,
+      "end": 2994.9,
+      "text": "And, in order to do that, let me show you my screen and then we go from there."
+    },
+    {
+      "start": 2995.2,
+      "end": 3018.905,
+      "text": "So, essentially, whenever you're doing swing trading, what happens is that, if you're taking a trade and in the trade, when you're taking, if, say, let's say, you're putting 5% of your capital, so you have 100,000 and you're just putting 5,000 at risk."
+    },
+    {
+      "start": 3019.3652,
+      "end": 3019.8652,
+      "text": "Right?"
+    },
+    {
+      "start": 3020.12,
+      "end": 3029.74,
+      "text": "Now what is going to happen is if this is a swing trade and supposing it goes up 20%, your overall account is gonna move by 1% only."
+    },
+    {
+      "start": 3030.6,
+      "end": 3031.1,
+      "text": "Right?"
+    },
+    {
+      "start": 3031.8,
+      "end": 3038.305,
+      "text": "And in that case, you're not really moving the account."
+    },
+    {
+      "start": 3038.365,
+      "end": 3052.06,
+      "text": "Now the same straight some other trader takes the same trade, but instead of putting in 5% of his capital, if he puts in, say, 25% of his capital at risk, so that will be 25,000."
+    },
+    {
+      "start": 3052.28,
+      "end": 3059.02,
+      "text": "So when you have 25,000 at risk and there's a 20%, you're going to move your account by 5%."
+    },
+    {
+      "start": 3059.6401,
+      "end": 3073.915,
+      "text": "Now if there is another trader and he goes really aggressive and puts in 50% of his account on that same trade, right, what you're going to do, what you're going to look at is the account will move 10%."
+    },
+    {
+      "start": 3074.2952,
+      "end": 3089.3398,
+      "text": "So whenever you hear people making big returns, all of which check their size, okay, check their size, size is extremely important in the market for your explosive returns."
+    },
+    {
+      "start": 3089.9949,
+      "end": 3100.4949,
+      "text": "And whenever you're trading setups where you're high conviction and if you're high conviction and if you're not putting in big amount of capital, then you're not going to make big amount of returns."
+    },
+    {
+      "start": 3101.275,
+      "end": 3109.01,
+      "text": "Now there is one way of doing size and which is like basically increasing your per trade risk."
+    },
+    {
+      "start": 3109.55,
+      "end": 3118.7449,
+      "text": "There are other ways to increase size and those other ways typically involve you going into margins."
+    },
+    {
+      "start": 3120.085,
+      "end": 3127.945,
+      "text": "Now, whenever you have margins, margins allow you to do a larger size positions and as a result of that, you can have higher returns."
+    },
+    {
+      "start": 3128.165,
+      "end": 3133.43,
+      "text": "Now, if you have a large account, many brokers are going to allow you portfolio margin."
+    },
+    {
+      "start": 3133.73,
+      "end": 3137.03,
+      "text": "Portfolio margin is higher than the normal margin."
+    },
+    {
+      "start": 3137.33,
+      "end": 3142.21,
+      "text": "In US markets, normal margins is typically double your capital."
+    },
+    {
+      "start": 3142.21,
+      "end": 3146.15,
+      "text": "So if you have 100,000, you'll be able to trade 200,000 overnight."
+    },
+    {
+      "start": 3146.4548,
+      "end": 3151.895,
+      "text": "But if you have a portfolio margin, portfolio margin is typically available for a larger account."
+    },
+    {
+      "start": 3151.895,
+      "end": 3157.515,
+      "text": "Then supposing you have a 1,000,000 account with a portfolio margin, you might be able to trade 5,000,000."
+    },
+    {
+      "start": 3160.83,
+      "end": 3168.1902,
+      "text": "As the margin increases, the leverage increases and, as a result, you can make bigger amount of money."
+    },
+    {
+      "start": 3168.1902,
+      "end": 3173.1501,
+      "text": "So, if you want to increase your returns, you have to think about size."
+    },
+    {
+      "start": 3173.1501,
+      "end": 3185.385,
+      "text": "Now, in order to do size, it's very important that you have setups where you have a very high conviction or you have a methodology or you have a setup where your stops are not very wide."
+    },
+    {
+      "start": 3185.385,
+      "end": 3197.66,
+      "text": "Because if you are going to take bigger size positions and bigger size risk and your stops are just, like, 20%, 25%, then your chances of blowing up are very high."
+    },
+    {
+      "start": 3197.72,
+      "end": 3202.8599,
+      "text": "But if your stops are very close, then you can take a bigger size position."
+    },
+    {
+      "start": 3203.135,
+      "end": 3210.755,
+      "text": "And in order to get bigger size, positions or in order to get stops closer, you need to then time the entry very precisely."
+    },
+    {
+      "start": 3210.895,
+      "end": 3214.755,
+      "text": "If you can time an entry very precisely, then you can put a close stops."
+    },
+    {
+      "start": 3214.815,
+      "end": 3216.115,
+      "text": "So think about this."
+    },
+    {
+      "start": 3216.18,
+      "end": 3218.92,
+      "text": "In order to increase size, you need to have higher conviction."
+    },
+    {
+      "start": 3218.98,
+      "end": 3223.54,
+      "text": "You need to have positions which are larger than typically which you take."
+    },
+    {
+      "start": 3223.54,
+      "end": 3229.48,
+      "text": "And the third thing is to find situations where your stop is very close so you can take larger size."
+    },
+    {
+      "start": 3231.2249,
+      "end": 3238.585,
+      "text": "In certain kinds of trades, like episodic pivot, there is a very strong catalyst for that particular move."
+    },
+    {
+      "start": 3238.585,
+      "end": 3246.8901,
+      "text": "In this kind of trades, if you are taking very small sizes, then you are suboptimizing those kind of situations."
+    },
+    {
+      "start": 3247.51,
+      "end": 3256.075,
+      "text": "If you have very high conviction on an idea and if you can put in larger size positions, then what will happen is that you'll make more money."
+    },
+    {
+      "start": 3256.075,
+      "end": 3262.0151,
+      "text": "So one of the ways of increasing your returns is to increase the size of your swing positions."
+    },
+    {
+      "start": 3262.635,
+      "end": 3272.9402,
+      "text": "If you're trading with just 10% of your capital per swings, you can increase it to 25% of your account, then you will find that you can increase, your returns very dramatically."
+    },
+    {
+      "start": 3273.48,
+      "end": 3277.1,
+      "text": "So that's one way of increasing your size."
+    },
+    {
+      "start": 3277.4001,
+      "end": 3281.6401,
+      "text": "The other way of increasing returns is by doing number of trades."
+    },
+    {
+      "start": 3281.6401,
+      "end": 3287.475,
+      "text": "If you're doing 100 trades in a year, you are doing less size in terms of number of trades."
+    },
+    {
+      "start": 3287.615,
+      "end": 3295.955,
+      "text": "If you're doing 500 trades, if you're doing 800 trades, you're doing thousand trades, then your returns increases because it's, again, the size principle."
+    },
+    {
+      "start": 3296.0151,
+      "end": 3305.56,
+      "text": "Because if you're just making one or 2% per trade and you're just making 100 trades, right, you're not you're not make going to make money, but you're not going to make dramatic money."
+    },
+    {
+      "start": 3305.56,
+      "end": 3316.125,
+      "text": "But when you increase your size in terms of number of trades, 500 trades, thousand trades in a year, then what is happens is that your returns will increase dramatically."
+    },
+    {
+      "start": 3316.825,
+      "end": 3328.4448,
+      "text": "A combination of doing large allocation per trade and doing large number of trades is the explosive formula for making big returns."
+    },
+    {
+      "start": 3328.8,
+      "end": 3335.3,
+      "text": "So, if you are looking to make big money in the market, always remember size matters."
+    },
+    {
+      "start": 3336.0,
+      "end": 3344.9849,
+      "text": "Grow your size, grow your confidence, and once you grow your confidence and you have more confidence in your setup, go for size."
+    },
+    {
+      "start": 3345.2249,
+      "end": 3353.885,
+      "text": "You may not go on every trade with a big size, but whenever there's a high conviction trade, always try and go with bigger size."
+    },
+    {
+      "start": 3354.105,
+      "end": 3361.32,
+      "text": "Bigger size is equal to higher returns, and this is just mathematical truth, which is not going to change."
+    },
+    {
+      "start": 3361.38,
+      "end": 3365.64,
+      "text": "So when it comes to stock market, size does matter."
+    },
+    {
+      "start": 3366.58,
+      "end": 3388.59,
+      "text": "So, if you think through what I said in that video and if you really reflect on that and then design strategies, then you will selectively do or whatever, like or or if you are perfect in your setup, then you'll always try and put larger size."
+    },
+    {
+      "start": 3388.59,
+      "end": 3391.57,
+      "text": "It may not be just 10 of your account, 20%."
+    },
+    {
+      "start": 3391.79,
+      "end": 3393.31,
+      "text": "That is going to change the equation."
+    },
+    {
+      "start": 3393.31,
+      "end": 3393.6301,
+      "text": "Right?"
+    },
+    {
+      "start": 3393.6301,
+      "end": 3399.17,
+      "text": "And people like in a Monis and all does 2,500, 3,000 trades in a year."
+    },
+    {
+      "start": 3399.23,
+      "end": 3405.395,
+      "text": "So if it does 2,500 or 3,000 trades in a year, the sheer number of trades makes so much difference."
+    },
+    {
+      "start": 3405.395,
+      "end": 3405.635,
+      "text": "Right?"
+    },
+    {
+      "start": 3405.635,
+      "end": 3410.275,
+      "text": "And, basically, I think there are a lot of stocks with just like and this 49,000 and all."
+    },
+    {
+      "start": 3410.275,
+      "end": 3420.3599,
+      "text": "So I'm just going to eliminate all of those which are less than 100,000 so that, like, any we don't really look at them because they don't have enough liquidity to get excited about."
+    },
+    {
+      "start": 3420.3599,
+      "end": 3426.38,
+      "text": "I would actually eliminate at this stage anything which is less than 300 k because we're looking at anticipation."
+    },
+    {
+      "start": 3426.5999,
+      "end": 3430.975,
+      "text": "It's difficult to find good this thing on those kind of things."
+    },
+    {
+      "start": 3430.975,
+      "end": 3436.995,
+      "text": "So if you remove that, looking at around $3.51, why is the $3.51 stocks are there in anticipation?"
+    },
+    {
+      "start": 3437.135,
+      "end": 3445.3398,
+      "text": "I I doubt is this the right thing we are looking at or we are looking at something totally random, wrong things."
+    },
+    {
+      "start": 3451.64,
+      "end": 3455.16,
+      "text": "But it means all of these things, did I start?"
+    },
+    {
+      "start": 3455.16,
+      "end": 3455.88,
+      "text": "They were no."
+    },
+    {
+      "start": 3455.88,
+      "end": 3456.1199,
+      "text": "Right?"
+    },
+    {
+      "start": 3456.1199,
+      "end": 3461.795,
+      "text": "And I came to those conclusion after trading for and doing it successfully for twenty four years."
+    },
+    {
+      "start": 3461.795,
+      "end": 3461.955,
+      "text": "Right?"
+    },
+    {
+      "start": 3461.955,
+      "end": 3472.775,
+      "text": "And, basically, so it's always like in a there is there are a lot of things which you learn by staying in the game."
+    },
+    {
+      "start": 3473.315,
+      "end": 3480.8801,
+      "text": "And then those things start making sense or those things make your life easy."
+    },
+    {
+      "start": 3481.6602,
+      "end": 3494.6948,
+      "text": "So And that's why this is such a fascinating infinitely fascinating, fascinating game."
+    },
+    {
+      "start": 3494.6948,
+      "end": 3494.9348,
+      "text": "Right?"
+    },
+    {
+      "start": 3494.9348,
+      "end": 3510.5698,
+      "text": "And, basically, It can miss like any you're if you are one of the thinking kind of a trader like me, then you can keep thinking about so many things."
+    },
+    {
+      "start": 3510.5698,
+      "end": 3510.81,
+      "text": "Right?"
+    },
+    {
+      "start": 3510.81,
+      "end": 3512.67,
+      "text": "And then you find so many tactics."
+    },
+    {
+      "start": 3513.21,
+      "end": 3517.4749,
+      "text": "And then with lesser number of trades, you can make money and things like that."
+    },
+    {
+      "start": 3517.4749,
+      "end": 3517.9749,
+      "text": "Right?"
+    },
+    {
+      "start": 3518.755,
+      "end": 3530.295,
+      "text": "But we have to be it's like an you have to have the passion for this game and also the aptitude and mental capacity to do this kind of work."
+    },
+    {
+      "start": 3532.73,
+      "end": 3535.3699,
+      "text": "In fact, in a every beginner should do eighty twenty."
+    },
+    {
+      "start": 3535.3699,
+      "end": 3535.61,
+      "text": "Right?"
+    },
+    {
+      "start": 3535.61,
+      "end": 3543.61,
+      "text": "Even if he's doing a small size, if he does eighty twenty, he's going to do do much better than just doing the conventional way people are telling them."
+    },
+    {
+      "start": 3543.61,
+      "end": 3544.11,
+      "text": "Right?"
+    },
+    {
+      "start": 3544.685,
+      "end": 3547.825,
+      "text": "Every beginner trader should learn how to do eighty twenty."
+    },
+    {
+      "start": 3550.605,
+      "end": 3551.105,
+      "text": "Right?"
+    },
+    {
+      "start": 3553.005,
+      "end": 3555.665,
+      "text": "Every beginner trader should go on Twitter."
+    },
+    {
+      "start": 3556.765,
+      "end": 3562.27,
+      "text": "Today, Twitter has the best education on stock trading, and it's free."
+    },
+    {
+      "start": 3562.73,
+      "end": 3563.23,
+      "text": "Right?"
+    },
+    {
+      "start": 3563.29,
+      "end": 3566.73,
+      "text": "All these people telling you, I don't go in social media and all."
+    },
+    {
+      "start": 3566.73,
+      "end": 3566.97,
+      "text": "Yeah."
+    },
+    {
+      "start": 3566.97,
+      "end": 3571.71,
+      "text": "I mean, it's like in a that's the best free education I live on."
+    },
+    {
+      "start": 3571.85,
+      "end": 3572.35,
+      "text": "Right?"
+    },
+    {
+      "start": 3572.895,
+      "end": 3574.435,
+      "text": "You don't go on social media?"
+    },
+    {
+      "start": 3575.215,
+      "end": 3578.895,
+      "text": "You should go and get, like, in a psychologist to examine your this thing."
+    },
+    {
+      "start": 3578.895,
+      "end": 3579.055,
+      "text": "Right?"
+    },
+    {
+      "start": 3579.055,
+      "end": 3582.035,
+      "text": "And the social media has the Twitter has the best education."
+    },
+    {
+      "start": 3582.095,
+      "end": 3585.315,
+      "text": "The some of the best traders are putting out things on Twitter."
+    },
+    {
+      "start": 3585.375,
+      "end": 3586.7551,
+      "text": "And you don't use Twitter?"
+    },
+    {
+      "start": 3587.5598,
+      "end": 3591.66,
+      "text": "For some reason, right, I am sitting in my cave, and I'm going to be a good trader."
+    },
+    {
+      "start": 3592.28,
+      "end": 3593.0999,
+      "text": "All the best."
+    },
+    {
+      "start": 3594.28,
+      "end": 3602.215,
+      "text": "So much time and effort you can save by just looking at other people's, what they're saying, and then just, like, any using some of their ideas."
+    },
+    {
+      "start": 3602.215,
+      "end": 3603.815,
+      "text": "Like, so why do I go on Twitter?"
+    },
+    {
+      "start": 3603.815,
+      "end": 3608.695,
+      "text": "Because it's the best education, free education, which you can find currently."
+    },
+    {
+      "start": 3608.695,
+      "end": 3609.195,
+      "text": "Right?"
+    },
+    {
+      "start": 3610.7751,
+      "end": 3617.8298,
+      "text": "But different people learn differently, and some people are very slow learners, some people are very fast learner."
+    },
+    {
+      "start": 3617.97,
+      "end": 3627.105,
+      "text": "And the people who are slow learners or something, then that's or they are like in a just like in a plotters, then they say, this is the way it should be done."
+    },
+    {
+      "start": 3627.185,
+      "end": 3627.505,
+      "text": "Yeah."
+    },
+    {
+      "start": 3627.505,
+      "end": 3629.285,
+      "text": "But that works for you."
+    },
+    {
+      "start": 3629.345,
+      "end": 3631.825,
+      "text": "But that's not how everybody should do it."
+    },
+    {
+      "start": 3631.825,
+      "end": 3632.325,
+      "text": "Right?"
+    },
+    {
+      "start": 3640.95,
+      "end": 3645.11,
+      "text": "That voice which is given is so wrong to traders, so wrong."
+    },
+    {
+      "start": 3645.11,
+      "end": 3647.19,
+      "text": "But, hey, who am I to change the world?"
+    },
+    {
+      "start": 3647.19,
+      "end": 3649.51,
+      "text": "I I'm just one nobody."
+    },
+    {
+      "start": 3649.51,
+      "end": 3650.01,
+      "text": "Right?"
+    },
+    {
+      "start": 3650.55,
+      "end": 3652.81,
+      "text": "Couple of days more and this will set up nicely."
+    },
+    {
+      "start": 3666.345,
+      "end": 3668.105,
+      "text": "Every trade, you should do eighty twenty."
+    },
+    {
+      "start": 3668.105,
+      "end": 3668.265,
+      "text": "Right?"
+    },
+    {
+      "start": 3668.265,
+      "end": 3670.9849,
+      "text": "And I means like in a that which is going to change."
+    },
+    {
+      "start": 3670.9849,
+      "end": 3677.04,
+      "text": "It's like all the professional traders will come to this site, and they adopted this principle of eighty twenty."
+    },
+    {
+      "start": 3677.04,
+      "end": 3677.52,
+      "text": "Right?"
+    },
+    {
+      "start": 3677.52,
+      "end": 3680.4,
+      "text": "And then beginner traders comes in and somebody gives them advice."
+    },
+    {
+      "start": 3680.4,
+      "end": 3681.6,
+      "text": "Don't do it as a beginner."
+    },
+    {
+      "start": 3681.6,
+      "end": 3684.16,
+      "text": "I mean, it's like an it can change your life."
+    },
+    {
+      "start": 3684.16,
+      "end": 3684.66,
+      "text": "Right?"
+    },
+    {
+      "start": 3689.8848,
+      "end": 3690.9248,
+      "text": "But advice is free."
+    },
+    {
+      "start": 3690.9248,
+      "end": 3691.4248,
+      "text": "Right?"
+    },
+    {
+      "start": 3691.6448,
+      "end": 3697.7449,
+      "text": "And beginners, like and everybody is giving them advice and most of the time, the advice which is given to beginner is wrong advice."
+    },
+    {
+      "start": 3698.92,
+      "end": 3700.2,
+      "text": "It's yesterday I was screaming."
+    },
+    {
+      "start": 3700.2,
+      "end": 3700.44,
+      "text": "Right?"
+    },
+    {
+      "start": 3700.44,
+      "end": 3702.28,
+      "text": "I'm going to do eighty twenty eighty twenty."
+    },
+    {
+      "start": 3702.28,
+      "end": 3702.78,
+      "text": "Right?"
+    },
+    {
+      "start": 3702.92,
+      "end": 3704.04,
+      "text": "Did anybody listen?"
+    },
+    {
+      "start": 3704.04,
+      "end": 3704.36,
+      "text": "No."
+    },
+    {
+      "start": 3704.36,
+      "end": 3704.68,
+      "text": "Right?"
+    },
+    {
+      "start": 3704.68,
+      "end": 3705.34,
+      "text": "And, basically."
+    },
+    {
+      "start": 3725.19,
+      "end": 3730.57,
+      "text": "Different people learn a different and different people have different personalities."
+    },
+    {
+      "start": 3730.71,
+      "end": 3733.27,
+      "text": "So some people like bargain hunting."
+    },
+    {
+      "start": 3733.27,
+      "end": 3736.65,
+      "text": "Some people like momentum trading is not for everybody."
+    },
+    {
+      "start": 3736.71,
+      "end": 3737.21,
+      "text": "Right?"
+    },
+    {
+      "start": 3737.645,
+      "end": 3739.405,
+      "text": "Not everybody can do momentum trading."
+    },
+    {
+      "start": 3739.405,
+      "end": 3742.125,
+      "text": "Buying breakout is, like, very traumatic for some people."
+    },
+    {
+      "start": 3742.125,
+      "end": 3742.625,
+      "text": "Right?"
+    },
+    {
+      "start": 3747.565,
+      "end": 3749.325,
+      "text": "You don't have to learn it hard way."
+    },
+    {
+      "start": 3749.325,
+      "end": 3750.925,
+      "text": "You can learn it simple ways."
+    },
+    {
+      "start": 3750.925,
+      "end": 3753.72,
+      "text": "The simple way to learn is to just copy."
+    },
+    {
+      "start": 3753.72,
+      "end": 3754.22,
+      "text": "Right?"
+    },
+    {
+      "start": 3756.76,
+      "end": 3758.3801,
+      "text": "Simple way to learn is to copy."
+    },
+    {
+      "start": 3760.76,
+      "end": 3767.08,
+      "text": "I mean, do you think the the Indians, the Chinese, they're masters of copying other people's thing."
+    },
+    {
+      "start": 3767.08,
+      "end": 3767.58,
+      "text": "Right?"
+    },
+    {
+      "start": 3768.145,
+      "end": 3771.785,
+      "text": "I was talking to somebody and he says, oh, Indian economy is so great."
+    },
+    {
+      "start": 3771.785,
+      "end": 3772.525,
+      "text": "This, that."
+    },
+    {
+      "start": 3772.7449,
+      "end": 3775.145,
+      "text": "He says, like, you know, so many start ups are starting."
+    },
+    {
+      "start": 3775.145,
+      "end": 3775.385,
+      "text": "Right?"
+    },
+    {
+      "start": 3775.385,
+      "end": 3776.285,
+      "text": "I said, yeah."
+    },
+    {
+      "start": 3776.425,
+      "end": 3784.97,
+      "text": "They're just copying, seamlessly copying American models and they're, is there any original thinking or they're just shamelessly copying the models."
+    },
+    {
+      "start": 3784.97,
+      "end": 3785.21,
+      "text": "Right?"
+    },
+    {
+      "start": 3785.21,
+      "end": 3786.65,
+      "text": "And yeah."
+    },
+    {
+      "start": 3786.65,
+      "end": 3791.3699,
+      "text": "We have a cell phone company mobile phone company in India, which is now creating mobile phone."
+    },
+    {
+      "start": 3791.3699,
+      "end": 3791.6099,
+      "text": "Yeah."
+    },
+    {
+      "start": 3791.6099,
+      "end": 3793.07,
+      "text": "Did you invent mobile phone?"
+    },
+    {
+      "start": 3794.33,
+      "end": 3799.635,
+      "text": "Millions of years ago or thousands of years ago, you invented zero, and you just keep talking about that zero."
+    },
+    {
+      "start": 3799.635,
+      "end": 3801.315,
+      "text": "But did you invent mobile phone?"
+    },
+    {
+      "start": 3801.315,
+      "end": 3801.815,
+      "text": "No."
+    },
+    {
+      "start": 3802.0352,
+      "end": 3802.435,
+      "text": "Right?"
+    },
+    {
+      "start": 3802.435,
+      "end": 3803.415,
+      "text": "You just copy."
+    },
+    {
+      "start": 3803.5552,
+      "end": 3806.195,
+      "text": "You're just copying everything, right, and passing on."
+    },
+    {
+      "start": 3806.195,
+      "end": 3807.7952,
+      "text": "And that too low quality copy."
+    },
+    {
+      "start": 3807.7952,
+      "end": 3808.195,
+      "text": "Right?"
+    },
+    {
+      "start": 3808.195,
+      "end": 3809.315,
+      "text": "Everything is a copy."
+    },
+    {
+      "start": 3809.315,
+      "end": 3815.3298,
+      "text": "But, same way, it is gonna save you, like, the Chinese, the Koreans, they just copy."
+    },
+    {
+      "start": 3815.3298,
+      "end": 3815.73,
+      "text": "Right?"
+    },
+    {
+      "start": 3815.73,
+      "end": 3820.3699,
+      "text": "The Japanese also copied, but they did a better job of copying than anybody else."
+    },
+    {
+      "start": 3820.3699,
+      "end": 3822.3699,
+      "text": "That's why the Japanese economy grew."
+    },
+    {
+      "start": 3822.3699,
+      "end": 3822.8699,
+      "text": "Right?"
+    },
+    {
+      "start": 3827.875,
+      "end": 3845.87,
+      "text": "The Chinese have become so good at copying that, like, in a most of the, Diwali thing, Diwali is a Indian festival, but most of the even the, Diwali firecrackers, the, lights which are used and all, they're all like you know, they all come from China today."
+    },
+    {
+      "start": 3846.49,
+      "end": 3851.55,
+      "text": "The Indians cannot even copy, compete with the Chinese, in that market currently."
+    },
+    {
+      "start": 3852.09,
+      "end": 3853.61,
+      "text": "So it's that's how it is."
+    },
+    {
+      "start": 3853.61,
+      "end": 3854.11,
+      "text": "Right?"
+    },
+    {
+      "start": 3857.795,
+      "end": 3859.015,
+      "text": "Everything is a copy."
+    },
+    {
+      "start": 3860.9949,
+      "end": 3869.095,
+      "text": "But then somebody tells you, you go and sit in a cave and do your own thing and, like, in a instead of copying and then yeah."
+    },
+    {
+      "start": 3869.315,
+      "end": 3870.455,
+      "text": "And people listen."
+    },
+    {
+      "start": 3871.05,
+      "end": 3872.4102,
+      "text": "You can make this game simple."
+    },
+    {
+      "start": 3872.4102,
+      "end": 3873.6301,
+      "text": "You can make it complicated."
+    },
+    {
+      "start": 3873.6902,
+      "end": 3874.1902,
+      "text": "Right?"
+    },
+    {
+      "start": 3881.05,
+      "end": 3883.85,
+      "text": "This requires one or two days, but it's a good nice setup."
+    },
+    {
+      "start": 3883.85,
+      "end": 3884.09,
+      "text": "Right?"
+    },
+    {
+      "start": 3884.09,
+      "end": 3885.915,
+      "text": "And so so much of buying has come in here."
+    },
+    {
+      "start": 3885.915,
+      "end": 3886.155,
+      "text": "Right?"
+    },
+    {
+      "start": 3886.155,
+      "end": 3890.635,
+      "text": "And that's everything is a copy."
+    },
+    {
+      "start": 3890.635,
+      "end": 3890.955,
+      "text": "Right?"
+    },
+    {
+      "start": 3890.955,
+      "end": 3892.095,
+      "text": "And they just copy."
+    },
+    {
+      "start": 3898.41,
+      "end": 3899.63,
+      "text": "Aimlessly copies."
+    },
+    {
+      "start": 3900.89,
+      "end": 3902.51,
+      "text": "That's the best strategy in life."
+    },
+    {
+      "start": 3912.115,
+      "end": 3932.4102,
+      "text": "And then later, you just like and then create your own variation of that or, like, a If it was that cricket game, like, in a how much how much they have shamelessly copied the American format here?"
+    },
+    {
+      "start": 3932.4102,
+      "end": 3934.49,
+      "text": "Did you the you are dancing girls."
+    },
+    {
+      "start": 3934.49,
+      "end": 3940.995,
+      "text": "You had, like, music playing in the, this thing and all those breaks and all, like, where did they learn from?"
+    },
+    {
+      "start": 3941.2952,
+      "end": 3949.0752,
+      "text": "Was that how it was like in Mahabharata or, like, in a in Ramayana that, you had, like, in a, cheerleaders during the war?"
+    },
+    {
+      "start": 3949.5698,
+      "end": 3949.89,
+      "text": "Cheerleading?"
+    },
+    {
+      "start": 3949.89,
+      "end": 3952.6099,
+      "text": "Wearing skimpily clad to this thing?"
+    },
+    {
+      "start": 3952.6099,
+      "end": 3953.97,
+      "text": "Was it a Indian innovation?"
+    },
+    {
+      "start": 3953.97,
+      "end": 3954.47,
+      "text": "No."
+    },
+    {
+      "start": 3954.93,
+      "end": 3955.25,
+      "text": "Right?"
+    },
+    {
+      "start": 3955.25,
+      "end": 3956.47,
+      "text": "It is just a copy."
+    },
+    {
+      "start": 3957.01,
+      "end": 3958.13,
+      "text": "Shamelessly copied."
+    },
+    {
+      "start": 3958.13,
+      "end": 3958.63,
+      "text": "Right?"
+    },
+    {
+      "start": 3961.665,
+      "end": 3962.165,
+      "text": "Yeah."
+    },
+    {
+      "start": 3962.865,
+      "end": 3964.245,
+      "text": "And then, like, an yeah."
+    },
+    {
+      "start": 3964.305,
+      "end": 3966.565,
+      "text": "We are, like, you know, doing this and all, like, yeah."
+    },
+    {
+      "start": 3968.625,
+      "end": 3969.125,
+      "text": "Yeah."
+    },
+    {
+      "start": 3971.185,
+      "end": 3972.805,
+      "text": "Copy paste of, like, exactly."
+    },
+    {
+      "start": 3972.865,
+      "end": 3973.365,
+      "text": "Right?"
+    },
+    {
+      "start": 3996.4949,
+      "end": 3998.035,
+      "text": "It's all copy paste."
+    },
+    {
+      "start": 4023.615,
+      "end": 4027.395,
+      "text": "So tomorrow is, like, in a really light trading day, I think."
+    },
+    {
+      "start": 4028.0151,
+      "end": 4029.075,
+      "text": "So we'll see."
+    },
+    {
+      "start": 4029.935,
+      "end": 4031.555,
+      "text": "Not much might happen tomorrow."
+    },
+    {
+      "start": 4032.88,
+      "end": 4038.1,
+      "text": "Or everything will happen in the first one hour, and then it will just come to a standstill."
+    },
+    {
+      "start": 4038.32,
+      "end": 4040.34,
+      "text": "That can also happen most of the time."
+    },
+    {
+      "start": 4052.9849,
+      "end": 4053.9648,
+      "text": "Quantum power."
+    },
+    {
+      "start": 4056.025,
+      "end": 4057.1648,
+      "text": "It's a nice one."
+    },
+    {
+      "start": 4057.7048,
+      "end": 4059.4849,
+      "text": "First, like, tight."
+    },
+    {
+      "start": 4073.915,
+      "end": 4077.195,
+      "text": "I'm telling you, if you look at it tomorrow, there is not much going to happen."
+    },
+    {
+      "start": 4077.195,
+      "end": 4087.055,
+      "text": "I'm not because of the market condition, I'm not going to take a see anticipation set up right in a so but it does look good, like, in a target."
+    },
+    {
+      "start": 4089.2,
+      "end": 4091.2,
+      "text": "If it closes like this, that's a buy."
+    },
+    {
+      "start": 4091.2,
+      "end": 4091.44,
+      "text": "Right?"
+    },
+    {
+      "start": 4091.44,
+      "end": 4094.16,
+      "text": "And it's not it's not even a anticipation set up here."
+    },
+    {
+      "start": 4094.16,
+      "end": 4095.0598,
+      "text": "It's a breakout."
+    },
+    {
+      "start": 4095.68,
+      "end": 4095.92,
+      "text": "Right?"
+    },
+    {
+      "start": 4095.92,
+      "end": 4097.36,
+      "text": "And it's a low threshold breakout."
+    },
+    {
+      "start": 4097.36,
+      "end": 4098.82,
+      "text": "Delayed reaction to earnings."
+    },
+    {
+      "start": 4101.6,
+      "end": 4103.14,
+      "text": "Delayed reaction to earnings."
+    },
+    {
+      "start": 4123.87,
+      "end": 4135.005,
+      "text": "I have no skills in speculating about Nvidia, earnings, and I think and I, NVIDIA has rallied into earnings."
+    },
+    {
+      "start": 4135.005,
+      "end": 4135.245,
+      "text": "Right?"
+    },
+    {
+      "start": 4135.245,
+      "end": 4138.705,
+      "text": "So that's not a game which I am master of."
+    },
+    {
+      "start": 4138.845,
+      "end": 4143.325,
+      "text": "I do things where I can, like, make easy money."
+    },
+    {
+      "start": 4143.325,
+      "end": 4143.565,
+      "text": "Right?"
+    },
+    {
+      "start": 4143.565,
+      "end": 4145.025,
+      "text": "And that's a difficult trade."
+    },
+    {
+      "start": 4145.1,
+      "end": 4146.14,
+      "text": "I don't have skills."
+    },
+    {
+      "start": 4146.14,
+      "end": 4149.52,
+      "text": "I don't go where it's difficult."
+    },
+    {
+      "start": 4149.98,
+      "end": 4150.48,
+      "text": "Right?"
+    },
+    {
+      "start": 4152.62,
+      "end": 4157.5,
+      "text": "It's like in every aspect of my life, I find easy games."
+    },
+    {
+      "start": 4157.5,
+      "end": 4158.0,
+      "text": "Right?"
+    },
+    {
+      "start": 4159.185,
+      "end": 4163.445,
+      "text": "When I started dating earlier, I was, like, in a trying to date Indian woman."
+    },
+    {
+      "start": 4163.8247,
+      "end": 4165.7646,
+      "text": "I found that's a very difficult game."
+    },
+    {
+      "start": 4166.2246,
+      "end": 4166.7246,
+      "text": "Right?"
+    },
+    {
+      "start": 4166.7847,
+      "end": 4168.165,
+      "text": "So I changed my strategy."
+    },
+    {
+      "start": 4171.105,
+      "end": 4172.3047,
+      "text": "And now I have no problem."
+    },
+    {
+      "start": 4172.3047,
+      "end": 4172.8047,
+      "text": "Right?"
+    },
+    {
+      "start": 4176.0103,
+      "end": 4177.71,
+      "text": "That's a very nice setup also."
+    },
+    {
+      "start": 4184.17,
+      "end": 4185.21,
+      "text": "Do this easy thing."
+    },
+    {
+      "start": 4185.21,
+      "end": 4185.45,
+      "text": "Right?"
+    },
+    {
+      "start": 4185.45,
+      "end": 4188.1846,
+      "text": "And leave the difficult rates to somebody else to figure out."
+    },
+    {
+      "start": 4188.1846,
+      "end": 4188.3447,
+      "text": "Right?"
+    },
+    {
+      "start": 4188.3447,
+      "end": 4190.425,
+      "text": "I have no idea what will happen to Nvidia."
+    },
+    {
+      "start": 4190.425,
+      "end": 4192.425,
+      "text": "I don't know how to play that Nvidia again."
+    },
+    {
+      "start": 4192.425,
+      "end": 4192.925,
+      "text": "Right?"
+    },
+    {
+      "start": 4193.385,
+      "end": 4200.2646,
+      "text": "So I'm just going to do simple things where I don't have to use my brains and do the things."
+    },
+    {
+      "start": 4200.2646,
+      "end": 4200.7646,
+      "text": "Right?"
+    },
+    {
+      "start": 4204.65,
+      "end": 4205.93,
+      "text": "Earliest point of entry."
+    },
+    {
+      "start": 4205.93,
+      "end": 4206.81,
+      "text": "What is that question?"
+    },
+    {
+      "start": 4206.81,
+      "end": 4216.17,
+      "text": "I can't even understand what is that earliest point of entry like an if I see a stock, I just like an if I see that setup is good, I go."
+    },
+    {
+      "start": 4216.17,
+      "end": 4216.67,
+      "text": "Right?"
+    },
+    {
+      "start": 4217.235,
+      "end": 4220.6147,
+      "text": "And if the market conditions are right, I always want to go big."
+    },
+    {
+      "start": 4220.915,
+      "end": 4232.295,
+      "text": "There's nothing which I want to do, which is not because I always want to put in big size because didn't I just show you the video?"
+    },
+    {
+      "start": 4232.355,
+      "end": 4232.855,
+      "text": "Right?"
+    },
+    {
+      "start": 4236.33,
+      "end": 4236.73,
+      "text": "I know."
+    },
+    {
+      "start": 4236.73,
+      "end": 4241.79,
+      "text": "What I meant was when you're in the trade, what is the and you you're gonna take the 80%."
+    },
+    {
+      "start": 4241.93,
+      "end": 4245.15,
+      "text": "At what point what is the earliest point at which you take that 80%?"
+    },
+    {
+      "start": 4245.45,
+      "end": 4245.95,
+      "text": "Off?"
+    },
+    {
+      "start": 4247.055,
+      "end": 4247.855,
+      "text": "Of of the trade."
+    },
+    {
+      "start": 4247.855,
+      "end": 4250.7554,
+      "text": "When you're in the trade, you say that you take 80% out."
+    },
+    {
+      "start": 4250.975,
+      "end": 4252.915,
+      "text": "So I just show you showed you examples."
+    },
+    {
+      "start": 4252.975,
+      "end": 4253.2153,
+      "text": "Right?"
+    },
+    {
+      "start": 4253.2153,
+      "end": 4259.25,
+      "text": "On a booking, I was, like, in this trade on this day, and I took 80% off next day."
+    },
+    {
+      "start": 4259.41,
+      "end": 4259.65,
+      "text": "Right?"
+    },
+    {
+      "start": 4259.65,
+      "end": 4261.51,
+      "text": "And 20% on this thing."
+    },
+    {
+      "start": 4261.57,
+      "end": 4266.15,
+      "text": "In the case of Datadog, right, I was in this trade on this day."
+    },
+    {
+      "start": 4266.29,
+      "end": 4271.49,
+      "text": "So I took the 80% off yesterday because the market has not been, and it was a free money."
+    },
+    {
+      "start": 4271.49,
+      "end": 4274.79,
+      "text": "And then I made my 20%, and I got stopped around 20%."
+    },
+    {
+      "start": 4275.285,
+      "end": 4291.5703,
+      "text": "And on MongoDB, right, I put my 80% on this day, and I took my 80% on this day, because it was too much money actually on MongoDB, like, in a 4%, or some, kind of a I think 4% plus kind of a thing."
+    },
+    {
+      "start": 4291.71,
+      "end": 4294.85,
+      "text": "So I took my money, and then I got stopped out on the repeating."
+    },
+    {
+      "start": 4294.91,
+      "end": 4295.41,
+      "text": "Right?"
+    },
+    {
+      "start": 4296.43,
+      "end": 4303.825,
+      "text": "And now this market conditions, situational awareness as I've been saying, I think and I'm saying it in English so some of you don't understand."
+    },
+    {
+      "start": 4304.125,
+      "end": 4308.845,
+      "text": "I should say it in Chinese or Korean that this rally doesn't look like the typical rally."
+    },
+    {
+      "start": 4308.845,
+      "end": 4310.5254,
+      "text": "That's why I'm taking it on a second day."
+    },
+    {
+      "start": 4310.5254,
+      "end": 4311.0254,
+      "text": "Right?"
+    },
+    {
+      "start": 4311.165,
+      "end": 4320.39,
+      "text": "If the situational awareness was like, you look at it, this rally has really got legs, promo, all over, I would have taken my 80% off on something like this on a second or third day."
+    },
+    {
+      "start": 4320.77,
+      "end": 4321.25,
+      "text": "Right?"
+    },
+    {
+      "start": 4321.25,
+      "end": 4324.79,
+      "text": "So there is no graph hard and fast rule."
+    },
+    {
+      "start": 4324.85,
+      "end": 4330.245,
+      "text": "And sometimes what happens is, like, say, I see something like here."
+    },
+    {
+      "start": 4330.5454,
+      "end": 4336.705,
+      "text": "I took a position here, and I got into this very fast early in the morning because there's some news."
+    },
+    {
+      "start": 4336.705,
+      "end": 4337.825,
+      "text": "It was a stock in play."
+    },
+    {
+      "start": 4337.825,
+      "end": 4338.325,
+      "text": "Right?"
+    },
+    {
+      "start": 4338.3853,
+      "end": 4341.0454,
+      "text": "And I had a big position, and then it went crazy."
+    },
+    {
+      "start": 4341.44,
+      "end": 4350.02,
+      "text": "And then I sold 80% because it's so much like an in one day, it made a move of, like, almost like an 88%, right, or like an 6% or something."
+    },
+    {
+      "start": 4350.08,
+      "end": 4351.28,
+      "text": "And I sold 80%."
+    },
+    {
+      "start": 4351.28,
+      "end": 4354.34,
+      "text": "I kept the 20% with the stop, and I got stopped out on that position."
+    },
+    {
+      "start": 4354.7446,
+      "end": 4355.945,
+      "text": "It depends on yeah."
+    },
+    {
+      "start": 4355.945,
+      "end": 4358.425,
+      "text": "It exactly it depends on SA and stock behavior."
+    },
+    {
+      "start": 4358.425,
+      "end": 4358.925,
+      "text": "Right?"
+    },
+    {
+      "start": 4361.625,
+      "end": 4367.62,
+      "text": "So I the thing is you people are trying to create rules which are like any fast rules."
+    },
+    {
+      "start": 4367.62,
+      "end": 4368.12,
+      "text": "Right?"
+    },
+    {
+      "start": 4368.74,
+      "end": 4370.18,
+      "text": "You're trying to create a rule."
+    },
+    {
+      "start": 4370.18,
+      "end": 4371.8804,
+      "text": "What I go by is guideline."
+    },
+    {
+      "start": 4371.9404,
+      "end": 4372.4404,
+      "text": "Right?"
+    },
+    {
+      "start": 4374.66,
+      "end": 4376.5,
+      "text": "So, yeah, it's not an absolute rule."
+    },
+    {
+      "start": 4376.5,
+      "end": 4376.74,
+      "text": "Right?"
+    },
+    {
+      "start": 4376.74,
+      "end": 4381.145,
+      "text": "And I miss you get into a trade and then it just where goes crazy in your favor."
+    },
+    {
+      "start": 4381.145,
+      "end": 4381.225,
+      "text": "Right?"
+    },
+    {
+      "start": 4381.225,
+      "end": 4382.765,
+      "text": "And I miss, like, Target."
+    },
+    {
+      "start": 4383.305,
+      "end": 4384.9053,
+      "text": "I had a big position in Target."
+    },
+    {
+      "start": 4384.9053,
+      "end": 4385.0654,
+      "text": "Right?"
+    },
+    {
+      "start": 4385.0654,
+      "end": 4388.825,
+      "text": "And I bought it as a OPG, and it just went in my favor like crazy."
+    },
+    {
+      "start": 4388.825,
+      "end": 4389.325,
+      "text": "Right?"
+    },
+    {
+      "start": 4390.745,
+      "end": 4397.78,
+      "text": "And I thought because it, like and the total gap and everything was around 18% that this will not immediately have follow through."
+    },
+    {
+      "start": 4397.78,
+      "end": 4401.96,
+      "text": "So I just took my 80%, made my stop really close, and I got stopped out."
+    },
+    {
+      "start": 4402.02,
+      "end": 4407.32,
+      "text": "Now as a delayed reaction, I can get into this trade if I want to, but I'm not going to do big size."
+    },
+    {
+      "start": 4407.5396,
+      "end": 4410.1196,
+      "text": "Why I'm not doing a big size on, today?"
+    },
+    {
+      "start": 4410.575,
+      "end": 4414.575,
+      "text": "I'm not doing the kind of size which I would like to do on target today."
+    },
+    {
+      "start": 4414.575,
+      "end": 4416.1753,
+      "text": "I I bought target just now."
+    },
+    {
+      "start": 4416.1753,
+      "end": 4418.6753,
+      "text": "But, like, am I going to do a big size on target?"
+    },
+    {
+      "start": 4423.7397,
+      "end": 4423.98,
+      "text": "Hello?"
+    },
+    {
+      "start": 4423.98,
+      "end": 4425.5996,
+      "text": "I'm talking to dead bodies."
+    },
+    {
+      "start": 4425.98,
+      "end": 4426.48,
+      "text": "Please."
+    },
+    {
+      "start": 4427.02,
+      "end": 4428.48,
+      "text": "Gomez, wake up."
+    },
+    {
+      "start": 4428.6196,
+      "end": 4431.0396,
+      "text": "Why am I not going to do a big size here?"
+    },
+    {
+      "start": 4435.355,
+      "end": 4437.6753,
+      "text": "Because one market condition."
+    },
+    {
+      "start": 4437.6753,
+      "end": 4441.595,
+      "text": "Second, like, tomorrow is like I'm telling you since morning."
+    },
+    {
+      "start": 4441.595,
+      "end": 4441.915,
+      "text": "Right?"
+    },
+    {
+      "start": 4441.915,
+      "end": 4443.915,
+      "text": "Tomorrow, hardly anything is going to happen."
+    },
+    {
+      "start": 4443.915,
+      "end": 4445.1953,
+      "text": "Thursday, market is closed."
+    },
+    {
+      "start": 4445.1953,
+      "end": 4447.7554,
+      "text": "Friday, you have, like, in a, half day."
+    },
+    {
+      "start": 4447.7554,
+      "end": 4448.2554,
+      "text": "Right?"
+    },
+    {
+      "start": 4448.48,
+      "end": 4454.9,
+      "text": "So do you want to take, like, in a do you want to put, like, in a do I want to go on margin in a situation like this?"
+    },
+    {
+      "start": 4456.96,
+      "end": 4457.44,
+      "text": "No."
+    },
+    {
+      "start": 4457.44,
+      "end": 4457.84,
+      "text": "Right?"
+    },
+    {
+      "start": 4457.84,
+      "end": 4459.76,
+      "text": "So I put a smaller position size."
+    },
+    {
+      "start": 4459.76,
+      "end": 4463.36,
+      "text": "So that's what is called as situational awareness."
+    },
+    {
+      "start": 4463.36,
+      "end": 4463.86,
+      "text": "Right?"
+    },
+    {
+      "start": 4464.615,
+      "end": 4468.075,
+      "text": "So as a result, like, in a to to is tomorrow half day?"
+    },
+    {
+      "start": 4468.535,
+      "end": 4469.035,
+      "text": "Yeah."
+    },
+    {
+      "start": 4470.215,
+      "end": 4473.095,
+      "text": "The rally doesn't look like what I want it to look right away."
+    },
+    {
+      "start": 4473.095,
+      "end": 4474.215,
+      "text": "That's one of the reason."
+    },
+    {
+      "start": 4474.215,
+      "end": 4478.41,
+      "text": "Then, like, in a today, like, in a it's a negative day."
+    },
+    {
+      "start": 4478.87,
+      "end": 4484.0903,
+      "text": "And I thought, like, in a when I was at the lawyer's office, I thought, like, the deep buyers will come in aggressively."
+    },
+    {
+      "start": 4484.5503,
+      "end": 4486.15,
+      "text": "I don't see deep buyers coming in."
+    },
+    {
+      "start": 4486.15,
+      "end": 4488.89,
+      "text": "So those are factors, which is called situational awareness."
+    },
+    {
+      "start": 4488.95,
+      "end": 4489.45,
+      "text": "Right?"
+    },
+    {
+      "start": 4489.825,
+      "end": 4498.3853,
+      "text": "So where will I take a profit is a function of situational awareness and also is a function of, like, in a the stock what it does after I put in that size."
+    },
+    {
+      "start": 4498.3853,
+      "end": 4498.8853,
+      "text": "Right?"
+    },
+    {
+      "start": 4499.425,
+      "end": 4501.205,
+      "text": "I'm always looking for free money."
+    },
+    {
+      "start": 4502.145,
+      "end": 4502.645,
+      "text": "Right?"
+    },
+    {
+      "start": 4512.0103,
+      "end": 4513.45,
+      "text": "I don't know how much it gapped up."
+    },
+    {
+      "start": 4513.45,
+      "end": 4519.685,
+      "text": "I was not there, so I didn't do it like in a but, Symbiotic was one of the SIPs which I would have looked at like an embassy."
+    },
+    {
+      "start": 4523.505,
+      "end": 4523.905,
+      "text": "Yeah."
+    },
+    {
+      "start": 4523.905,
+      "end": 4525.185,
+      "text": "It was a good buy here."
+    },
+    {
+      "start": 4525.185,
+      "end": 4525.505,
+      "text": "Right?"
+    },
+    {
+      "start": 4525.505,
+      "end": 4530.18,
+      "text": "And I basically made a good move, and it was also like an year."
+    },
+    {
+      "start": 4531.44,
+      "end": 4532.56,
+      "text": "It's bucket one."
+    },
+    {
+      "start": 4532.56,
+      "end": 4534.8,
+      "text": "I'd marked it and all, but yeah."
+    },
+    {
+      "start": 4534.8,
+      "end": 4535.78,
+      "text": "Now it's late."
+    },
+    {
+      "start": 4545.745,
+      "end": 4545.825,
+      "text": "Yeah."
+    },
+    {
+      "start": 4545.825,
+      "end": 4547.265,
+      "text": "The buyers are not coming in."
+    },
+    {
+      "start": 4547.265,
+      "end": 4552.305,
+      "text": "Plus, like in a you people are going to look at m m and you're looking at index action to figure that out."
+    },
+    {
+      "start": 4552.305,
+      "end": 4552.805,
+      "text": "Right?"
+    },
+    {
+      "start": 4552.945,
+      "end": 4555.345,
+      "text": "But I lived through twenty four years of trading."
+    },
+    {
+      "start": 4555.345,
+      "end": 4555.845,
+      "text": "Right?"
+    },
+    {
+      "start": 4556.625,
+      "end": 4563.9097,
+      "text": "So based on that, I see that rally and I don't see, this rally, like, having we see it."
+    },
+    {
+      "start": 4563.9097,
+      "end": 4565.9097,
+      "text": "Like, one of the things is it gapped up too much."
+    },
+    {
+      "start": 4565.9097,
+      "end": 4566.15,
+      "text": "Right?"
+    },
+    {
+      "start": 4566.15,
+      "end": 4569.03,
+      "text": "It didn't start with the classical bottom bounce also."
+    },
+    {
+      "start": 4569.03,
+      "end": 4571.025,
+      "text": "So there are a lot of these factors which came in."
+    },
+    {
+      "start": 4571.025,
+      "end": 4573.105,
+      "text": "So you couldn't take the bottom bounce on those days."
+    },
+    {
+      "start": 4573.105,
+      "end": 4573.585,
+      "text": "Right?"
+    },
+    {
+      "start": 4573.585,
+      "end": 4575.685,
+      "text": "So that's what, like, in a basically which happens."
+    },
+    {
+      "start": 4576.065,
+      "end": 4586.37,
+      "text": "So it doesn't have the real, like, in a panicky buying which comes in and six hundred, seven hundred days followed by like, and I don't you see this?"
+    },
+    {
+      "start": 4586.37,
+      "end": 4591.81,
+      "text": "Like, can I have how many people are actually looked at market monitor data when market turns?"
+    },
+    {
+      "start": 4591.81,
+      "end": 4592.31,
+      "text": "Right?"
+    },
+    {
+      "start": 4592.37,
+      "end": 4603.025,
+      "text": "If you look at 2020 as an example of a market turn, you will see what happened once March 10 or something the market started going up."
+    },
+    {
+      "start": 4603.025,
+      "end": 4603.525,
+      "text": "Right?"
+    },
+    {
+      "start": 4604.065,
+      "end": 4604.725,
+      "text": "What happened?"
+    },
+    {
+      "start": 4607.265,
+      "end": 4607.505,
+      "text": "Yeah."
+    },
+    {
+      "start": 4607.505,
+      "end": 4608.545,
+      "text": "Six May."
+    },
+    {
+      "start": 4608.545,
+      "end": 4609.105,
+      "text": "09/30."
+    },
+    {
+      "start": 4609.105,
+      "end": 4609.9253,
+      "text": "Eleven hundred."
+    },
+    {
+      "start": 4610.0303,
+      "end": 4613.5503,
+      "text": "Thirteen hundred day followed by September by August."
+    },
+    {
+      "start": 4613.5503,
+      "end": 4614.43,
+      "text": "05/2030."
+    },
+    {
+      "start": 4614.43,
+      "end": 4615.23,
+      "text": "03/2020."
+    },
+    {
+      "start": 4615.23,
+      "end": 4615.87,
+      "text": "March."
+    },
+    {
+      "start": 4615.87,
+      "end": 4616.43,
+      "text": "1500."
+    },
+    {
+      "start": 4616.43,
+      "end": 4617.39,
+      "text": "05/1950."
+    },
+    {
+      "start": 4617.39,
+      "end": 4618.21,
+      "text": "1,100."
+    },
+    {
+      "start": 4618.5103,
+      "end": 4622.6904,
+      "text": "That's what is called as a formal and institutional stampede."
+    },
+    {
+      "start": 4623.47,
+      "end": 4623.5503,
+      "text": "Right?"
+    },
+    {
+      "start": 4623.5503,
+      "end": 4624.0503,
+      "text": "Stampede."
+    },
+    {
+      "start": 4624.6553,
+      "end": 4627.075,
+      "text": "Do you see this kind of a behavior in this rally?"
+    },
+    {
+      "start": 4627.535,
+      "end": 4633.7954,
+      "text": "Then, like, you had back to back 1,500, 1,100, 700, 992, 300."
+    },
+    {
+      "start": 4634.335,
+      "end": 4636.835,
+      "text": "You had, like, an in combination scan."
+    },
+    {
+      "start": 4636.89,
+      "end": 4639.0503,
+      "text": "We are getting 1,500 stocks."
+    },
+    {
+      "start": 4639.0503,
+      "end": 4639.5503,
+      "text": "Right?"
+    },
+    {
+      "start": 4640.0103,
+      "end": 4643.0703,
+      "text": "By, like, in a 10:00, there is to be 800 stocks."
+    },
+    {
+      "start": 4643.45,
+      "end": 4645.29,
+      "text": "That is what, like, in a rally looks like."
+    },
+    {
+      "start": 4645.29,
+      "end": 4645.45,
+      "text": "Right?"
+    },
+    {
+      "start": 4645.45,
+      "end": 4647.0703,
+      "text": "And, basically, it was a stampede."
+    },
+    {
+      "start": 4647.5303,
+      "end": 4651.705,
+      "text": "That is why we dropped if those of you are around, that is why we dropped LTV."
+    },
+    {
+      "start": 4651.7646,
+      "end": 4652.2446,
+      "text": "Right?"
+    },
+    {
+      "start": 4652.2446,
+      "end": 4657.705,
+      "text": "That's why we dropped lot of things because that's why where I added that additional condition of 2%."
+    },
+    {
+      "start": 4657.8447,
+      "end": 4659.445,
+      "text": "Because this look at this."
+    },
+    {
+      "start": 4659.445,
+      "end": 4661.385,
+      "text": "Means, are you people blind?"
+    },
+    {
+      "start": 4661.405,
+      "end": 4664.59,
+      "text": "Don't you look at, like, house rally start?"
+    },
+    {
+      "start": 4664.65,
+      "end": 4665.71,
+      "text": "This was a stampede."
+    },
+    {
+      "start": 4666.09,
+      "end": 4669.85,
+      "text": "Institutions were killing themselves to get into, the market."
+    },
+    {
+      "start": 4669.85,
+      "end": 4670.35,
+      "text": "Right?"
+    },
+    {
+      "start": 4670.49,
+      "end": 4672.25,
+      "text": "See, 2009 bottom."
+    },
+    {
+      "start": 4672.25,
+      "end": 4672.49,
+      "text": "Right?"
+    },
+    {
+      "start": 4672.49,
+      "end": 4677.71,
+      "text": "And when two thousand nine bottom on March 10, like and I see what happened."
+    },
+    {
+      "start": 4678.725,
+      "end": 4680.085,
+      "text": "1,700 stocks."
+    },
+    {
+      "start": 4680.085,
+      "end": 4681.2847,
+      "text": "Next day, two ninety eight."
+    },
+    {
+      "start": 4681.2847,
+      "end": 4682.2446,
+      "text": "1,300 stock."
+    },
+    {
+      "start": 4682.2446,
+      "end": 4683.045,
+      "text": "Two sixty six."
+    },
+    {
+      "start": 4683.045,
+      "end": 4684.005,
+      "text": "Six twenty one."
+    },
+    {
+      "start": 4684.005,
+      "end": 4684.965,
+      "text": "Nine seventy three."
+    },
+    {
+      "start": 4684.965,
+      "end": 4685.7646,
+      "text": "Three seventy five."
+    },
+    {
+      "start": 4685.7646,
+      "end": 4686.405,
+      "text": "1,300."
+    },
+    {
+      "start": 4686.405,
+      "end": 4687.125,
+      "text": "Five forty three."
+    },
+    {
+      "start": 4687.125,
+      "end": 4688.185,
+      "text": "Nine twenty four."
+    },
+    {
+      "start": 4688.405,
+      "end": 4689.3047,
+      "text": "That's stamped."
+    },
+    {
+      "start": 4689.3647,
+      "end": 4689.8647,
+      "text": "Right?"
+    },
+    {
+      "start": 4690.005,
+      "end": 4691.445,
+      "text": "And 1,500 stocks."
+    },
+    {
+      "start": 4691.445,
+      "end": 4692.665,
+      "text": "What do you see here?"
+    },
+    {
+      "start": 4695.27,
+      "end": 4697.27,
+      "text": "Two positive day followed by selling."
+    },
+    {
+      "start": 4697.27,
+      "end": 4699.75,
+      "text": "One positive day followed by two days of selling."
+    },
+    {
+      "start": 4699.75,
+      "end": 4700.8896,
+      "text": "Does this look same?"
+    },
+    {
+      "start": 4701.27,
+      "end": 4703.77,
+      "text": "Fifteen hundred day followed by nothing."
+    },
+    {
+      "start": 4703.9097,
+      "end": 4704.9497,
+      "text": "There is no stamping."
+    },
+    {
+      "start": 4704.9497,
+      "end": 4707.3696,
+      "text": "Nobody's coming to buy aggressively."
+    },
+    {
+      "start": 4707.4297,
+      "end": 4707.67,
+      "text": "Right?"
+    },
+    {
+      "start": 4707.67,
+      "end": 4710.045,
+      "text": "Do you see this looks similar to the other thing?"
+    },
+    {
+      "start": 4713.165,
+      "end": 4715.265,
+      "text": "You have a data from 2007."
+    },
+    {
+      "start": 4715.8047,
+      "end": 4717.485,
+      "text": "If you just go and look at this."
+    },
+    {
+      "start": 4717.485,
+      "end": 4717.725,
+      "text": "Right?"
+    },
+    {
+      "start": 4717.725,
+      "end": 4722.125,
+      "text": "And you're going to see what it it doesn't even look and feel like that."
+    },
+    {
+      "start": 4722.125,
+      "end": 4722.3647,
+      "text": "Right?"
+    },
+    {
+      "start": 4722.3647,
+      "end": 4733.31,
+      "text": "And it means those of you been around, like, 2008, 2009, if you ran a 4% record scan by, like, in a 10:00, 11:00, you'll have 400 stocks showing up."
+    },
+    {
+      "start": 4735.13,
+      "end": 4735.63,
+      "text": "Right?"
+    },
+    {
+      "start": 4742.525,
+      "end": 4746.8447,
+      "text": "It doesn't matter what is the reason why there is a slow buying or a slow selling."
+    },
+    {
+      "start": 4746.8447,
+      "end": 4747.3447,
+      "text": "Right?"
+    },
+    {
+      "start": 4747.965,
+      "end": 4749.3447,
+      "text": "Do I care about that?"
+    },
+    {
+      "start": 4749.485,
+      "end": 4751.985,
+      "text": "What I care about is making money."
+    },
+    {
+      "start": 4752.08,
+      "end": 4759.54,
+      "text": "And for making money, is this the situation where I want to, like, in a put in very aggressive position then if it is not looking like that?"
+    },
+    {
+      "start": 4759.92,
+      "end": 4760.24,
+      "text": "Right?"
+    },
+    {
+      "start": 4760.24,
+      "end": 4762.48,
+      "text": "Whatever might be the reason, I don't care."
+    },
+    {
+      "start": 4762.48,
+      "end": 4762.98,
+      "text": "Right?"
+    },
+    {
+      "start": 4763.36,
+      "end": 4769.985,
+      "text": "All that I am trying to answer the question is, is it the market where three day swings are working?"
+    },
+    {
+      "start": 4769.985,
+      "end": 4772.065,
+      "text": "Is it the where I can go aggressively?"
+    },
+    {
+      "start": 4772.065,
+      "end": 4772.565,
+      "text": "Right?"
+    },
+    {
+      "start": 4772.625,
+      "end": 4775.4253,
+      "text": "And rest is all for just academic purpose."
+    },
+    {
+      "start": 4775.4253,
+      "end": 4775.9253,
+      "text": "Right?"
+    },
+    {
+      "start": 4776.93,
+      "end": 4778.21,
+      "text": "So that's the thing, basically."
+    },
+    {
+      "start": 4778.21,
+      "end": 4781.73,
+      "text": "It's it's a very qualitatively it's it has nothing."
+    },
+    {
+      "start": 4781.73,
+      "end": 4787.6704,
+      "text": "It has no it doesn't really look like an a the kind of rallies which you get out bottom kind of a thing."
+    },
+    {
+      "start": 4787.97,
+      "end": 4790.85,
+      "text": "It just doesn't have the look and feel of that kind of a thing."
+    },
+    {
+      "start": 4790.85,
+      "end": 4794.755,
+      "text": "Here, at least, you had, like, a back to back buying for five days."
+    },
+    {
+      "start": 4794.755,
+      "end": 4795.155,
+      "text": "Right?"
+    },
+    {
+      "start": 4795.155,
+      "end": 4800.375,
+      "text": "That's why swings work very well, but this just doesn't have that."
+    },
+    {
+      "start": 4801.235,
+      "end": 4807.98,
+      "text": "It's been like an adjust Here, at least we had, like, back to back buying, then swings work."
+    },
+    {
+      "start": 4807.98,
+      "end": 4809.04,
+      "text": "Otherwise, you're not."
+    },
+    {
+      "start": 4818.875,
+      "end": 4821.4546,
+      "text": "And that's what you need to, like and I understand."
+    },
+    {
+      "start": 4821.5146,
+      "end": 4827.275,
+      "text": "You look in the market conditions are not the same, so that's why I'm not playing the same game."
+    },
+    {
+      "start": 4827.275,
+      "end": 4827.5146,
+      "text": "Right?"
+    },
+    {
+      "start": 4827.5146,
+      "end": 4830.68,
+      "text": "And I you don't play the same game and go aggressive."
+    },
+    {
+      "start": 4830.7397,
+      "end": 4835.2197,
+      "text": "And especially on a holiday shortened week, do I want to get aggressive?"
+    },
+    {
+      "start": 4835.2197,
+      "end": 4835.54,
+      "text": "No."
+    },
+    {
+      "start": 4835.54,
+      "end": 4841.985,
+      "text": "I think in all this discussion, we lost track of, like, in all these, anticipation setups, but there are a couple of them."
+    },
+    {
+      "start": 4841.985,
+      "end": 4842.145,
+      "text": "Right?"
+    },
+    {
+      "start": 4842.145,
+      "end": 4844.7847,
+      "text": "And, basically but not really a car category."
+    },
+    {
+      "start": 4844.7847,
+      "end": 4846.8047,
+      "text": "This is not really a category."
+    },
+    {
+      "start": 4847.105,
+      "end": 4853.205,
+      "text": "This is also a d r, axed."
+    },
+    {
+      "start": 4855.72,
+      "end": 4859.42,
+      "text": "So let's just take the one which look really, really good."
+    },
+    {
+      "start": 4860.2,
+      "end": 4861.74,
+      "text": "Prox, that's too much."
+    },
+    {
+      "start": 4862.12,
+      "end": 4865.66,
+      "text": "Why is it doing that?"
+    },
+    {
+      "start": 4865.72,
+      "end": 4871.645,
+      "text": "Let me just copy all of this back to anticipation and clean it up there."
+    },
+    {
+      "start": 4874.8247,
+      "end": 4877.625,
+      "text": "So the rally just doesn't have that same thing."
+    },
+    {
+      "start": 4877.625,
+      "end": 4883.965,
+      "text": "So if the rally doesn't look same and if I continue to trade this rally with the same rule, what is going to happen?"
+    },
+    {
+      "start": 4890.4004,
+      "end": 4894.08,
+      "text": "Madness is doing the same thing when you know that it is not really going to work."
+    },
+    {
+      "start": 4894.08,
+      "end": 4894.3203,
+      "text": "Right?"
+    },
+    {
+      "start": 4894.3203,
+      "end": 4901.775,
+      "text": "And, basically so this those are the kind of things which are the thing through in the market."
+    },
+    {
+      "start": 4901.775,
+      "end": 4905.855,
+      "text": "Like, this target is actually actually breaking out, so it's no more, this thing."
+    },
+    {
+      "start": 4905.855,
+      "end": 4910.1147,
+      "text": "Minotone is also Dell agency three g I."
+    },
+    {
+      "start": 4910.83,
+      "end": 4917.55,
+      "text": "It just doesn't have the look and feel of, like, an exactly the same."
+    },
+    {
+      "start": 4917.55,
+      "end": 4917.87,
+      "text": "Right?"
+    },
+    {
+      "start": 4917.87,
+      "end": 4919.39,
+      "text": "And you do in personal life."
+    },
+    {
+      "start": 4919.39,
+      "end": 4919.55,
+      "text": "Right?"
+    },
+    {
+      "start": 4919.55,
+      "end": 4925.745,
+      "text": "And you meet a date and you know in five minutes, right, That this is not what I'm looking for."
+    },
+    {
+      "start": 4925.745,
+      "end": 4926.245,
+      "text": "Right?"
+    },
+    {
+      "start": 4926.4653,
+      "end": 4931.345,
+      "text": "Then you have to endure the one hour of sitting if it is a dinner date or something."
+    },
+    {
+      "start": 4931.345,
+      "end": 4931.825,
+      "text": "Right?"
+    },
+    {
+      "start": 4931.825,
+      "end": 4937.365,
+      "text": "Till the waiter gets the menu and till he gets your order and you are, like, so uncomfortable."
+    },
+    {
+      "start": 4937.825,
+      "end": 4938.325,
+      "text": "Right?"
+    },
+    {
+      "start": 4947.23,
+      "end": 4952.9897,
+      "text": "Don't you figure out in five or ten minutes first five minutes that there is spark or no spark?"
+    },
+    {
+      "start": 4952.9897,
+      "end": 4954.69,
+      "text": "Those of you who've been through this?"
+    },
+    {
+      "start": 4994.885,
+      "end": 4995.705,
+      "text": "Any questions?"
+    },
+    {
+      "start": 5004.35,
+      "end": 5008.0503,
+      "text": "I do walking dates in the garden."
+    },
+    {
+      "start": 5009.31,
+      "end": 5009.95,
+      "text": "That's easy."
+    },
+    {
+      "start": 5009.95,
+      "end": 5010.45,
+      "text": "Right?"
+    },
+    {
+      "start": 5012.235,
+      "end": 5015.375,
+      "text": "You also know whether they're really fit or not then that way."
+    },
+    {
+      "start": 5015.915,
+      "end": 5022.975,
+      "text": "That, like and it tells you whether they are hopping or puffing or, like, you know, they actually can walk 10,000 steps."
+    },
+    {
+      "start": 5023.1147,
+      "end": 5023.6147,
+      "text": "Right?"
+    },
+    {
+      "start": 5024.5547,
+      "end": 5025.0547,
+      "text": "Okay."
+    },
+    {
+      "start": 5025.35,
+      "end": 5026.95,
+      "text": "I have a question, Pradeep."
+    },
+    {
+      "start": 5026.95,
+      "end": 5027.45,
+      "text": "Sorry."
+    },
+    {
+      "start": 5028.15,
+      "end": 5034.25,
+      "text": "I think last week, you said something in the essence that by the time they become leaders, they are extended."
+    },
+    {
+      "start": 5034.31,
+      "end": 5036.17,
+      "text": "It's more of a methodology question."
+    },
+    {
+      "start": 5036.39,
+      "end": 5036.89,
+      "text": "Mhmm."
+    },
+    {
+      "start": 5037.5103,
+      "end": 5042.405,
+      "text": "But as we know, the market has a bullish bullish bias, not at the moment."
+    },
+    {
+      "start": 5042.465,
+      "end": 5043.185,
+      "text": "But Mhmm."
+    },
+    {
+      "start": 5043.185,
+      "end": 5062.13,
+      "text": "So my question is, how come you don't care about leaders and lacking stocks, like, maybe separate for because for me personally, I have an easier time sorting things out when I can sort them out in what in a watch list or in general in list to keep a track of what's working and what isn't working."
+    },
+    {
+      "start": 5063.8853,
+      "end": 5065.0254,
+      "text": "So what is the question?"
+    },
+    {
+      "start": 5065.085,
+      "end": 5066.065,
+      "text": "I don't know."
+    },
+    {
+      "start": 5066.5254,
+      "end": 5069.8853,
+      "text": "So how come you don't care about leaders and lacking stocks?"
+    },
+    {
+      "start": 5069.8853,
+      "end": 5075.105,
+      "text": "Because you said by the time they are leaders, they are extended, and you don't care about buying breakouts."
+    },
+    {
+      "start": 5075.8853,
+      "end": 5080.9897,
+      "text": "Unless I buy breakouts, if they meet my two inch criteria, and I want to buy a breakout, which is on the first leg."
+    },
+    {
+      "start": 5080.9897,
+      "end": 5081.4897,
+      "text": "Right?"
+    },
+    {
+      "start": 5082.35,
+      "end": 5086.93,
+      "text": "The stocks which people talk about, like, in a most of them are so extended."
+    },
+    {
+      "start": 5086.9897,
+      "end": 5087.23,
+      "text": "Right?"
+    },
+    {
+      "start": 5087.23,
+      "end": 5092.13,
+      "text": "And then, basically, by the time, people consider like, in a classic example of that is Palantir."
+    },
+    {
+      "start": 5092.27,
+      "end": 5092.77,
+      "text": "Right?"
+    },
+    {
+      "start": 5092.955,
+      "end": 5098.555,
+      "text": "Yesterday, I saw everybody saying Palantir is finally breaking out and the IBD kind of people are putting in position."
+    },
+    {
+      "start": 5098.555,
+      "end": 5099.055,
+      "text": "Right?"
+    },
+    {
+      "start": 5099.115,
+      "end": 5105.19,
+      "text": "Now how well is that strategy going to work versus, like, you bought Palantir on a 9,000,000 breakout here."
+    },
+    {
+      "start": 5105.27,
+      "end": 5105.51,
+      "text": "Right?"
+    },
+    {
+      "start": 5105.51,
+      "end": 5109.21,
+      "text": "Or you bought a Palantir here where it was not considered a market leader."
+    },
+    {
+      "start": 5109.27,
+      "end": 5111.53,
+      "text": "The RS line was not making a new high."
+    },
+    {
+      "start": 5112.63,
+      "end": 5115.93,
+      "text": "Means can you make money using that methodology?"
+    },
+    {
+      "start": 5116.71,
+      "end": 5117.21,
+      "text": "Yes."
+    },
+    {
+      "start": 5117.765,
+      "end": 5124.345,
+      "text": "Can you make more money by finding the stocks early and selling to those people who are buying through market leader?"
+    },
+    {
+      "start": 5126.645,
+      "end": 5127.145,
+      "text": "Yes."
+    },
+    {
+      "start": 5127.605,
+      "end": 5129.625,
+      "text": "So then which game do you want to play?"
+    },
+    {
+      "start": 5130.245,
+      "end": 5131.465,
+      "text": "The second one, obviously."
+    },
+    {
+      "start": 5132.31,
+      "end": 5135.4497,
+      "text": "So there are three three ways to make money in the market."
+    },
+    {
+      "start": 5136.07,
+      "end": 5138.73,
+      "text": "Do you know what are the three ways to make money in the market?"
+    },
+    {
+      "start": 5142.71,
+      "end": 5144.4897,
+      "text": "I probably should, but I don't."
+    },
+    {
+      "start": 5154.605,
+      "end": 5155.645,
+      "text": "Release the video."
+    },
+    {
+      "start": 5155.645,
+      "end": 5156.145,
+      "text": "Right?"
+    },
+    {
+      "start": 5156.3647,
+      "end": 5157.745,
+      "text": "The doc should be out."
+    },
+    {
+      "start": 5163.18,
+      "end": 5168.8003,
+      "text": "Where is that like?"
+    },
+    {
+      "start": 5174.22,
+      "end": 5176.48,
+      "text": "Can't find that video when I want to find it."
+    },
+    {
+      "start": 5179.265,
+      "end": 5180.625,
+      "text": "What's wrong with Google?"
+    },
+    {
+      "start": 5180.625,
+      "end": 5199.77,
+      "text": "Like, in a What have I told you since the first day you stepped into my office?"
+    },
+    {
+      "start": 5203.765,
+      "end": 5209.525,
+      "text": "This is the this is like an a $1,000,000,000 worth advice for traders."
+    },
+    {
+      "start": 5209.605,
+      "end": 5212.825,
+      "text": "I told you since the first day you stepped into my office."
+    },
+    {
+      "start": 5214.165,
+      "end": 5216.905,
+      "text": "There are three ways to make a living in this business."
+    },
+    {
+      "start": 5217.285,
+      "end": 5220.69,
+      "text": "The first, be smarter, or cheat."
+    },
+    {
+      "start": 5221.3896,
+      "end": 5221.63,
+      "text": "No."
+    },
+    {
+      "start": 5221.63,
+      "end": 5222.53,
+      "text": "I don't cheat."
+    },
+    {
+      "start": 5223.63,
+      "end": 5232.21,
+      "text": "And although I like to think we have some pretty smart people in this building, it sure is a hell of a lot easier to just be first."
+    },
+    {
+      "start": 5233.23,
+      "end": 5237.625,
+      "text": "Sell it all today."
+    },
+    {
+      "start": 5237.685,
+      "end": 5240.725,
+      "text": "It's not even So what are the three ways to make money?"
+    },
+    {
+      "start": 5240.725,
+      "end": 5241.465,
+      "text": "Be first."
+    },
+    {
+      "start": 5241.765,
+      "end": 5243.225,
+      "text": "Be smart or cheat."
+    },
+    {
+      "start": 5243.8447,
+      "end": 5249.145,
+      "text": "Do you think the people who wait for it to become a true market leader, they are first?"
+    },
+    {
+      "start": 5252.4097,
+      "end": 5252.9097,
+      "text": "No."
+    },
+    {
+      "start": 5253.21,
+      "end": 5255.9497,
+      "text": "Then then why are you married to that methodology?"
+    },
+    {
+      "start": 5257.53,
+      "end": 5259.3696,
+      "text": "I have I've not really been married to it."
+    },
+    {
+      "start": 5259.3696,
+      "end": 5273.125,
+      "text": "I think the point for me, I wouldn't take a trade like Palantir, but many many stocks who eventually will end up bleeding, at some point, they will end up consolidating, but they're still performing better."
+    },
+    {
+      "start": 5273.125,
+      "end": 5281.65,
+      "text": "Like, what can I for instance, with Mara and Riot, you chose Mara over Riot because the stock was performing better?"
+    },
+    {
+      "start": 5281.65,
+      "end": 5290.3896,
+      "text": "It's not a market leader, but it's it's still two stocks in the same category, but one is performing better than the other."
+    },
+    {
+      "start": 5291.525,
+      "end": 5296.7646,
+      "text": "I remember we we both both of us took a trade, like, I think it's four days ago, something like that."
+    },
+    {
+      "start": 5296.885,
+      "end": 5297.445,
+      "text": "Tomorrow here."
+    },
+    {
+      "start": 5297.445,
+      "end": 5297.685,
+      "text": "Right?"
+    },
+    {
+      "start": 5297.685,
+      "end": 5298.165,
+      "text": "And Yeah."
+    },
+    {
+      "start": 5298.165,
+      "end": 5298.665,
+      "text": "Exactly."
+    },
+    {
+      "start": 5299.045,
+      "end": 5299.3647,
+      "text": "Yeah."
+    },
+    {
+      "start": 5299.3647,
+      "end": 5302.565,
+      "text": "But, like, in a that is because it is a sugar baby."
+    },
+    {
+      "start": 5302.565,
+      "end": 5303.065,
+      "text": "Right?"
+    },
+    {
+      "start": 5303.6504,
+      "end": 5303.89,
+      "text": "Yeah."
+    },
+    {
+      "start": 5303.89,
+      "end": 5305.6504,
+      "text": "It has nothing to do with anything."
+    },
+    {
+      "start": 5305.6504,
+      "end": 5306.1504,
+      "text": "Right?"
+    },
+    {
+      "start": 5306.37,
+      "end": 5310.85,
+      "text": "Essentially, whatever question you're asking tells me that you're very confused about setups."
+    },
+    {
+      "start": 5310.85,
+      "end": 5311.35,
+      "text": "Right?"
+    },
+    {
+      "start": 5311.49,
+      "end": 5313.41,
+      "text": "Our clear understanding about setup."
+    },
+    {
+      "start": 5313.41,
+      "end": 5313.91,
+      "text": "Right?"
+    },
+    {
+      "start": 5313.97,
+      "end": 5318.77,
+      "text": "Here is a example of Palantir or, like, let's go to Datadog, for example."
+    },
+    {
+      "start": 5318.77,
+      "end": 5319.27,
+      "text": "Right?"
+    },
+    {
+      "start": 5320.3447,
+      "end": 5323.7246,
+      "text": "Will the IBD kind of people buy Datadog on this particular day?"
+    },
+    {
+      "start": 5324.025,
+      "end": 5324.525,
+      "text": "Never."
+    },
+    {
+      "start": 5324.8247,
+      "end": 5325.3047,
+      "text": "Never."
+    },
+    {
+      "start": 5325.3047,
+      "end": 5325.8047,
+      "text": "Right?"
+    },
+    {
+      "start": 5326.025,
+      "end": 5328.445,
+      "text": "Did I buy Datadog on this particular day?"
+    },
+    {
+      "start": 5328.665,
+      "end": 5329.165,
+      "text": "Yes."
+    },
+    {
+      "start": 5329.545,
+      "end": 5330.045,
+      "text": "Why?"
+    },
+    {
+      "start": 5330.105,
+      "end": 5332.7446,
+      "text": "Because it was in a 9,000,000 record scan."
+    },
+    {
+      "start": 5332.7446,
+      "end": 5333.22,
+      "text": "Right?"
+    },
+    {
+      "start": 5333.3804,
+      "end": 5336.2803,
+      "text": "So their definition of a setup is very different."
+    },
+    {
+      "start": 5336.74,
+      "end": 5339.16,
+      "text": "They are all excited about Datadog here."
+    },
+    {
+      "start": 5340.02,
+      "end": 5340.52,
+      "text": "Right?"
+    },
+    {
+      "start": 5341.14,
+      "end": 5344.3403,
+      "text": "Their definition of market leader is it is setting up."
+    },
+    {
+      "start": 5344.3403,
+      "end": 5349.195,
+      "text": "It has made this whatever cup with a small handle, and they're buying it here."
+    },
+    {
+      "start": 5349.675,
+      "end": 5350.175,
+      "text": "Right?"
+    },
+    {
+      "start": 5350.5547,
+      "end": 5351.935,
+      "text": "So that is their setup."
+    },
+    {
+      "start": 5352.395,
+      "end": 5356.395,
+      "text": "And that is why many of them have win rates which are very low win rates."
+    },
+    {
+      "start": 5356.395,
+      "end": 5356.895,
+      "text": "Right?"
+    },
+    {
+      "start": 5357.355,
+      "end": 5360.875,
+      "text": "And, but that is their way of thinking."
+    },
+    {
+      "start": 5360.875,
+      "end": 5361.0347,
+      "text": "Right?"
+    },
+    {
+      "start": 5361.0347,
+      "end": 5365.32,
+      "text": "And what was a better entry on Datadog was better entry was on this day."
+    },
+    {
+      "start": 5365.32,
+      "end": 5365.82,
+      "text": "Right?"
+    },
+    {
+      "start": 5365.96,
+      "end": 5374.06,
+      "text": "Because it was like in a, just a swing or a delayed reaction to earnings or a better entry was on this day now and then sell it to them basically."
+    },
+    {
+      "start": 5374.12,
+      "end": 5374.44,
+      "text": "Right?"
+    },
+    {
+      "start": 5374.44,
+      "end": 5377.245,
+      "text": "So there are there are many ways to make money."
+    },
+    {
+      "start": 5377.4053,
+      "end": 5381.9053,
+      "text": "They are married to a particular way where they're looking for a market leader and things like that."
+    },
+    {
+      "start": 5381.9653,
+      "end": 5392.065,
+      "text": "But, selling market leaders to them is more profitable strategy than joining them and doing the thing which they are doing according to me."
+    },
+    {
+      "start": 5392.6597,
+      "end": 5393.0596,
+      "text": "Okay."
+    },
+    {
+      "start": 5393.0596,
+      "end": 5396.26,
+      "text": "I think, I understand your point from last week much better now."
+    },
+    {
+      "start": 5396.26,
+      "end": 5396.76,
+      "text": "Thanks."
+    },
+    {
+      "start": 5396.9,
+      "end": 5397.1396,
+      "text": "Yeah."
+    },
+    {
+      "start": 5397.1396,
+      "end": 5397.6396,
+      "text": "Yeah."
+    },
+    {
+      "start": 5398.0195,
+      "end": 5398.7397,
+      "text": "Okay, guys."
+    },
+    {
+      "start": 5398.7397,
+      "end": 5399.38,
+      "text": "I need to go."
+    },
+    {
+      "start": 5399.38,
+      "end": 5400.7397,
+      "text": "I need to go to the gym."
+    },
+    {
+      "start": 5400.7397,
+      "end": 5406.885,
+      "text": "I will go to the gym and build my muscles because picking up chicks requires muscles."
+    },
+    {
+      "start": 5406.945,
+      "end": 5407.265,
+      "text": "Right?"
+    },
+    {
+      "start": 5407.265,
+      "end": 5411.045,
+      "text": "So I'm going and doing that, and then I'll see you tomorrow morning."
+    }
+  ],
+  "language": "en",
+  "backend": "deepgram"
+}
