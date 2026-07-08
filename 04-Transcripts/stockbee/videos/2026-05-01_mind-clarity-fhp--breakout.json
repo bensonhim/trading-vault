@@ -1,0 +1,4471 @@
+{
+  "segments": [
+    {
+      "start": 42.495,
+      "end": 42.975,
+      "text": "Okay."
+    },
+    {
+      "start": 42.975,
+      "end": 47.714996,
+      "text": "So let's look at FHP or focus on high priced stock."
+    },
+    {
+      "start": 48.335,
+      "end": 57.829998,
+      "text": "So What is FHP?"
+    },
+    {
+      "start": 58.93,
+      "end": 61.989998,
+      "text": "And FHP is a stock selection strategy."
+    },
+    {
+      "start": 63.01,
+      "end": 67.99,
+      "text": "So it is a strategy to select stock which are going to trade."
+    },
+    {
+      "start": 71.375,
+      "end": 82.195,
+      "text": "And what it does is it focuses on stocks, which have a price mostly above, above $60."
+    },
+    {
+      "start": 85.56,
+      "end": 86.06,
+      "text": "Right."
+    },
+    {
+      "start": 87.08,
+      "end": 91.4,
+      "text": "And which show up in your scan of dollar breakout."
+    },
+    {
+      "start": 91.4,
+      "end": 99.465004,
+      "text": "So the bullish dollar breakout Scan looks for a stock."
+    },
+    {
+      "start": 101.285,
+      "end": 109.705,
+      "text": "Close minus close price minus open price is greater than or equal to 90¢."
+    },
+    {
+      "start": 110.899994,
+      "end": 113.399994,
+      "text": "So the stock is from its open."
+    },
+    {
+      "start": 115.06,
+      "end": 117.0,
+      "text": "Is up 90¢ plus."
+    },
+    {
+      "start": 120.899994,
+      "end": 121.399994,
+      "text": "Bearish."
+    },
+    {
+      "start": 127.365,
+      "end": 127.865,
+      "text": "Stock."
+    },
+    {
+      "start": 129.125,
+      "end": 130.265,
+      "text": "You're looking at."
+    },
+    {
+      "start": 133.845,
+      "end": 134.345,
+      "text": "Open."
+    },
+    {
+      "start": 135.765,
+      "end": 136.825,
+      "text": "Minus close."
+    },
+    {
+      "start": 138.18001,
+      "end": 141.88,
+      "text": "Being greater than or equal to 90¢."
+    },
+    {
+      "start": 146.34001,
+      "end": 146.42001,
+      "text": "Right."
+    },
+    {
+      "start": 146.42001,
+      "end": 154.18501,
+      "text": "Now when you have high priced stocks, what happens with high priced stocks is high price stocks have a different behavior."
+    },
+    {
+      "start": 156.16501,
+      "end": 161.38501,
+      "text": "Not all of them, most of them, high price stock, behave differently."
+    },
+    {
+      "start": 167.20001,
+      "end": 176.58,
+      "text": "And that key behavior on high priced stock, which makes them attractive from a trading point of view, is that they are low volatility."
+    },
+    {
+      "start": 183.835,
+      "end": 193.79,
+      "text": "They are low volatility, and then they have more linear moves."
+    },
+    {
+      "start": 199.84999,
+      "end": 202.98999,
+      "text": "Moves tend to be longer."
+    },
+    {
+      "start": 210.405,
+      "end": 231.89,
+      "text": "And one of the most important element of, like, you know, basically, this thing, a high priced stock, why they make this attractive is that their trading is dominated by institutions."
+    },
+    {
+      "start": 238.285,
+      "end": 242.765,
+      "text": "Institutions, Dharma, are, like, you know, they, they they are dominated."
+    },
+    {
+      "start": 242.765,
+      "end": 245.08499,
+      "text": "Like, you know, they're trading, most of the time."
+    },
+    {
+      "start": 245.08499,
+      "end": 245.325,
+      "text": "Right?"
+    },
+    {
+      "start": 245.325,
+      "end": 261.30002,
+      "text": "And, obviously, you can have high priced stock which is currently in play, and it can trade like a low priced stock, like any a stock like, say, currently, NBI is a recent day care high price, but they trade like a, low priced stocks also."
+    },
+    {
+      "start": 261.30002,
+      "end": 267.535,
+      "text": "But, like, this is one of the benefit which you have of, do, like this stocks."
+    },
+    {
+      "start": 267.535,
+      "end": 292.80002,
+      "text": "So as a result of this, it is allows you to select stock, which have a tendency for low volatility moves, and that is, that, basically, so bearish is correct."
+    },
+    {
+      "start": 292.80002,
+      "end": 293.30002,
+      "text": "Okay?"
+    },
+    {
+      "start": 297.955,
+      "end": 299.395,
+      "text": "Do not challenge the math."
+    },
+    {
+      "start": 299.395,
+      "end": 299.79498,
+      "text": "Right?"
+    },
+    {
+      "start": 299.79498,
+      "end": 302.115,
+      "text": "The open minus close is greater than 97."
+    },
+    {
+      "start": 302.115,
+      "end": 303.63498,
+      "text": "This is not close minus open."
+    },
+    {
+      "start": 303.63498,
+      "end": 303.875,
+      "text": "Right?"
+    },
+    {
+      "start": 303.875,
+      "end": 305.235,
+      "text": "And so Yes."
+    },
+    {
+      "start": 305.235,
+      "end": 306.85498,
+      "text": "And now can I yes?"
+    },
+    {
+      "start": 307.955,
+      "end": 308.455,
+      "text": "Okay."
+    },
+    {
+      "start": 310.0,
+      "end": 310.5,
+      "text": "Okay."
+    },
+    {
+      "start": 311.91998,
+      "end": 314.34,
+      "text": "I believe."
+    },
+    {
+      "start": 314.4,
+      "end": 314.72,
+      "text": "Mhmm."
+    },
+    {
+      "start": 314.72,
+      "end": 315.12,
+      "text": "K."
+    },
+    {
+      "start": 315.12,
+      "end": 322.96,
+      "text": "So select stocks which have institutional quality and which have this kind of a price."
+    },
+    {
+      "start": 322.96,
+      "end": 325.57498,
+      "text": "So what kind of stocks show up in this kind of a thing?"
+    },
+    {
+      "start": 325.79498,
+      "end": 326.995,
+      "text": "And what is the benefit?"
+    },
+    {
+      "start": 326.995,
+      "end": 336.055,
+      "text": "If you go through a deep dive on high priced stocks, you'll find, right, the, this thing."
+    },
+    {
+      "start": 337.77,
+      "end": 346.73,
+      "text": "I dropped maths when I went to college, but, like, when I was in school, I think I had, like, an a 100 out of 100 in, maths."
+    },
+    {
+      "start": 346.73,
+      "end": 347.23,
+      "text": "Okay?"
+    },
+    {
+      "start": 347.53,
+      "end": 354.125,
+      "text": "So when you look at, like, and I say, what I did is, like, this is universal city of Brighton, basically."
+    },
+    {
+      "start": 354.125,
+      "end": 358.525,
+      "text": "So it's basically US Commerce stock, American deposit receipt without the ETFs."
+    },
+    {
+      "start": 358.525,
+      "end": 358.76498,
+      "text": "Right?"
+    },
+    {
+      "start": 358.76498,
+      "end": 366.05,
+      "text": "And I sorted it by, there is a liquidity filter of 100,000 here, and I sorted it by price."
+    },
+    {
+      "start": 366.05,
+      "end": 376.93,
+      "text": "When you look at these particular stocks, right, and I and when you look at the moves in these stocks, right, and what you will see is that, when there is a start of a swing."
+    },
+    {
+      "start": 376.93,
+      "end": 377.43,
+      "text": "Right?"
+    },
+    {
+      "start": 380.365,
+      "end": 381.985,
+      "text": "Is this a start of a swing?"
+    },
+    {
+      "start": 387.485,
+      "end": 391.82498,
+      "text": "Now what percentage was this start of a swing?"
+    },
+    {
+      "start": 392.69,
+      "end": 394.38998,
+      "text": "1.63%."
+    },
+    {
+      "start": 394.93,
+      "end": 395.43,
+      "text": "Right?"
+    },
+    {
+      "start": 396.21,
+      "end": 398.13,
+      "text": "The previous day was a negative day."
+    },
+    {
+      "start": 398.13,
+      "end": 399.65,
+      "text": "So that is not a start of a swing."
+    },
+    {
+      "start": 399.65,
+      "end": 399.81,
+      "text": "Right?"
+    },
+    {
+      "start": 399.81,
+      "end": 401.25,
+      "text": "And this is the start of a swing."
+    },
+    {
+      "start": 401.25,
+      "end": 401.75,
+      "text": "Right?"
+    },
+    {
+      "start": 401.97,
+      "end": 406.21503,
+      "text": "So 1.63%, The stock is up."
+    },
+    {
+      "start": 406.21503,
+      "end": 406.535,
+      "text": "Right?"
+    },
+    {
+      "start": 406.535,
+      "end": 411.195,
+      "text": "And, basically, this is where you can get these stops of 2%, and 2.5%."
+    },
+    {
+      "start": 411.33502,
+      "end": 419.50998,
+      "text": "Now this particular stock, after that 1.63% move, right, and I went up for next four to five days."
+    },
+    {
+      "start": 419.81,
+      "end": 425.56998,
+      "text": "And here, if you bought it here, your stop was around 55 or 58 or $60."
+    },
+    {
+      "start": 425.56998,
+      "end": 425.72998,
+      "text": "Right?"
+    },
+    {
+      "start": 425.72998,
+      "end": 427.16998,
+      "text": "It was up 56."
+    },
+    {
+      "start": 427.16998,
+      "end": 428.28998,
+      "text": "So $56."
+    },
+    {
+      "start": 428.28998,
+      "end": 428.78998,
+      "text": "Right?"
+    },
+    {
+      "start": 429.09,
+      "end": 434.755,
+      "text": "And it made 277 below per se $277 more."
+    },
+    {
+      "start": 434.755,
+      "end": 436.85498,
+      "text": "Percentage term, the move is very small."
+    },
+    {
+      "start": 437.155,
+      "end": 450.44,
+      "text": "But in dollar's term like, similarly, if you go and look at this stock, and what you'll see is that, like, in a downside?"
+    },
+    {
+      "start": 453.62003,
+      "end": 454.58002,
+      "text": "$1.95."
+    },
+    {
+      "start": 454.58002,
+      "end": 463.945,
+      "text": "So for those of you who understand your maths and think through this, it is one of the thing which can open up a lot of possibilities for you."
+    },
+    {
+      "start": 463.945,
+      "end": 465.96503,
+      "text": "This is the start of a swing to the downside."
+    },
+    {
+      "start": 466.505,
+      "end": 466.74503,
+      "text": "Right?"
+    },
+    {
+      "start": 466.74503,
+      "end": 468.98502,
+      "text": "This swing is 3.05."
+    },
+    {
+      "start": 468.98502,
+      "end": 469.225,
+      "text": "Right?"
+    },
+    {
+      "start": 469.225,
+      "end": 475.47,
+      "text": "And, basically, now if you look at the swing before that, right, this is a start up swing."
+    },
+    {
+      "start": 475.47,
+      "end": 477.25,
+      "text": "Very good continuation setup."
+    },
+    {
+      "start": 478.43,
+      "end": 482.45,
+      "text": "Now how much is that stock up in percentage term?"
+    },
+    {
+      "start": 485.07,
+      "end": 485.71002,
+      "text": "1%."
+    },
+    {
+      "start": 485.71002,
+      "end": 486.21002,
+      "text": "Right?"
+    },
+    {
+      "start": 486.67,
+      "end": 490.22498,
+      "text": "So the risk is here."
+    },
+    {
+      "start": 490.76498,
+      "end": 492.60498,
+      "text": "Your risk is 41."
+    },
+    {
+      "start": 492.60498,
+      "end": 496.28497,
+      "text": "In three, four days, the stock goes $125."
+    },
+    {
+      "start": 496.28497,
+      "end": 497.485,
+      "text": "That's three times your risk."
+    },
+    {
+      "start": 497.485,
+      "end": 497.985,
+      "text": "Right?"
+    },
+    {
+      "start": 498.365,
+      "end": 507.38,
+      "text": "So you will see that whenever you are trading with high priced stocks, and you can go through multiple of these to try and understand this for yourself."
+    },
+    {
+      "start": 507.44,
+      "end": 509.6,
+      "text": "Like, it's something which you have to understand."
+    },
+    {
+      "start": 509.6,
+      "end": 510.1,
+      "text": "Right?"
+    },
+    {
+      "start": 510.72,
+      "end": 513.12,
+      "text": "When, like, these stocks break out."
+    },
+    {
+      "start": 513.12,
+      "end": 513.62,
+      "text": "Right?"
+    },
+    {
+      "start": 514.32,
+      "end": 520.825,
+      "text": "They don't break out, because they're like in a retail traders are not really into this kind of stock."
+    },
+    {
+      "start": 520.825,
+      "end": 523.725,
+      "text": "These are like in a stocks which are institutionally driven."
+    },
+    {
+      "start": 524.745,
+      "end": 527.88,
+      "text": "This is something which is in play kind of a thing currently."
+    },
+    {
+      "start": 527.88,
+      "end": 529.24,
+      "text": "The sector is hot."
+    },
+    {
+      "start": 529.24,
+      "end": 529.72003,
+      "text": "That's why."
+    },
+    {
+      "start": 529.72003,
+      "end": 533.32,
+      "text": "But, like, if you see, like, this particular setup here."
+    },
+    {
+      "start": 533.32,
+      "end": 533.56,
+      "text": "Right?"
+    },
+    {
+      "start": 533.56,
+      "end": 537.16003,
+      "text": "And if you see, this was, like, a clean breakout."
+    },
+    {
+      "start": 537.16003,
+      "end": 538.52,
+      "text": "3.68%."
+    },
+    {
+      "start": 538.52,
+      "end": 538.68,
+      "text": "Right?"
+    },
+    {
+      "start": 538.68,
+      "end": 541.33496,
+      "text": "And before that, the stock is down."
+    },
+    {
+      "start": 541.33496,
+      "end": 541.57495,
+      "text": "Right?"
+    },
+    {
+      "start": 541.57495,
+      "end": 553.17,
+      "text": "And, basically, so swings on these kind of stocks are going to be ups, various like, you know, you can find swings or you can find trades, which are going to give you."
+    },
+    {
+      "start": 553.41,
+      "end": 556.38995,
+      "text": "Obviously, these are all stocks nowadays which are, like, in play."
+    },
+    {
+      "start": 556.45,
+      "end": 557.73,
+      "text": "So they are not like anybody."
+    },
+    {
+      "start": 557.73,
+      "end": 559.35,
+      "text": "If you see something like Transdigam."
+    },
+    {
+      "start": 559.57,
+      "end": 559.81,
+      "text": "Right?"
+    },
+    {
+      "start": 559.81,
+      "end": 561.35,
+      "text": "And then you'll see that in Transdigam."
+    },
+    {
+      "start": 562.13,
+      "end": 568.935,
+      "text": "When it breaks out or breaks down, the swings will be off, like, in a basically 2.16%."
+    },
+    {
+      "start": 568.935,
+      "end": 569.435,
+      "text": "Right?"
+    },
+    {
+      "start": 570.455,
+      "end": 572.23505,
+      "text": "This breakout is 3%."
+    },
+    {
+      "start": 572.375,
+      "end": 572.875,
+      "text": "Right?"
+    },
+    {
+      "start": 573.09503,
+      "end": 591.70996,
+      "text": "And, also, you get this very good, what you call, anticipation setups on this kind of stocks where if you enter them in anticipation, your risk is just like in a $1 or less than $1 because it is up or down 49¢."
+    },
+    {
+      "start": 591.70996,
+      "end": 592.20996,
+      "text": "Right?"
+    },
+    {
+      "start": 592.58997,
+      "end": 596.535,
+      "text": "And for that kind of a risk, you can make $97."
+    },
+    {
+      "start": 596.915,
+      "end": 605.975,
+      "text": "So they have a very different trading profile than low price stocks."
+    },
+    {
+      "start": 606.275,
+      "end": 615.35004,
+      "text": "And if you understand that, then you can find opportunities which other people don't want to trade, like most people in trading world."
+    },
+    {
+      "start": 615.35004,
+      "end": 615.59,
+      "text": "Right?"
+    },
+    {
+      "start": 615.59,
+      "end": 618.65,
+      "text": "And unless somebody has really thought through these things."
+    },
+    {
+      "start": 619.11,
+      "end": 620.63,
+      "text": "They are scared of high price stock."
+    },
+    {
+      "start": 620.63,
+      "end": 620.79,
+      "text": "Right?"
+    },
+    {
+      "start": 620.79,
+      "end": 623.595,
+      "text": "And a high price stocks is something they stay away from."
+    },
+    {
+      "start": 623.915,
+      "end": 629.69495,
+      "text": "Whenever I, in meeting, I recommend some stock which is, like, at a $3, $5."
+    },
+    {
+      "start": 630.15497,
+      "end": 635.27496,
+      "text": "I get, like, any, emails from people who's you're so nice."
+    },
+    {
+      "start": 635.27496,
+      "end": 639.31,
+      "text": "I go, like, any you get this stock and it, like, an event of an all."
+    },
+    {
+      "start": 639.31,
+      "end": 639.55,
+      "text": "Right?"
+    },
+    {
+      "start": 639.55,
+      "end": 646.02997,
+      "text": "And, basically but if you if I mention any high priced stocks, people stay away from it."
+    },
+    {
+      "start": 646.02997,
+      "end": 646.52997,
+      "text": "Why?"
+    },
+    {
+      "start": 646.67,
+      "end": 659.635,
+      "text": "Because traders, most of the retail traders, right, and they don't want to trade these kind of stocks which break out with this kind of price points, like, in a because that's like in a they can't even imagine themselves."
+    },
+    {
+      "start": 659.85504,
+      "end": 665.315,
+      "text": "Most of you will be, like, in a how many of you would buy a stock which is thousand dollars, right, in a basically?"
+    },
+    {
+      "start": 666.63,
+      "end": 667.35004,
+      "text": "That's the thing."
+    },
+    {
+      "start": 667.35004,
+      "end": 667.59,
+      "text": "Right?"
+    },
+    {
+      "start": 667.59,
+      "end": 680.83496,
+      "text": "And so this is a hidden opportunity in the market because of the psychological barrier traders have against high priced stocks."
+    },
+    {
+      "start": 680.83496,
+      "end": 689.795,
+      "text": "Because traders have a barrier to high priced stock, what happens is that these kind of opportunities, they don't really look for."
+    },
+    {
+      "start": 689.795,
+      "end": 693.555,
+      "text": "And as a result, Costco is a very good example of this kind of a stock."
+    },
+    {
+      "start": 693.555,
+      "end": 694.055,
+      "text": "Right?"
+    },
+    {
+      "start": 695.4,
+      "end": 705.56,
+      "text": "So if you look at, like, in a basically, Costco and Costco will give you multiple opportunities in a year like this."
+    },
+    {
+      "start": 705.56,
+      "end": 705.8,
+      "text": "Right?"
+    },
+    {
+      "start": 705.8,
+      "end": 706.78,
+      "text": "And this is a breakout."
+    },
+    {
+      "start": 707.56,
+      "end": 708.06,
+      "text": "Right?"
+    },
+    {
+      "start": 708.685,
+      "end": 712.145,
+      "text": "And what is the, value like in it?"
+    },
+    {
+      "start": 712.525,
+      "end": 716.04504,
+      "text": "That's 22.49% breakout."
+    },
+    {
+      "start": 716.04504,
+      "end": 716.28503,
+      "text": "Right?"
+    },
+    {
+      "start": 716.28503,
+      "end": 717.245,
+      "text": "And that's the breakout."
+    },
+    {
+      "start": 717.245,
+      "end": 717.565,
+      "text": "Right?"
+    },
+    {
+      "start": 717.565,
+      "end": 726.2,
+      "text": "And then then one of the other thing which you'll notice in the high priced stock is because, they tend to have these swings which are more than five to six days."
+    },
+    {
+      "start": 726.2,
+      "end": 736.44,
+      "text": "Like, many high priced stocks will have swings of not three to five days, but five to ten days because, the this trading is dominated by institutional players."
+    },
+    {
+      "start": 736.44,
+      "end": 736.68,
+      "text": "Right?"
+    },
+    {
+      "start": 736.68,
+      "end": 738.38,
+      "text": "And institutional players dominate."
+    },
+    {
+      "start": 738.805,
+      "end": 744.885,
+      "text": "Now here so your risk on this particular thing, if you put your stop at low of the day is $21."
+    },
+    {
+      "start": 744.885,
+      "end": 745.385,
+      "text": "Right?"
+    },
+    {
+      "start": 745.765,
+      "end": 748.98505,
+      "text": "And, it goes up, like, $107."
+    },
+    {
+      "start": 750.16504,
+      "end": 758.43,
+      "text": "And because your risk is small in terms of, like, percentage, the amount of capital which you can put in at risk is much higher."
+    },
+    {
+      "start": 759.13,
+      "end": 759.63,
+      "text": "Right?"
+    },
+    {
+      "start": 759.69,
+      "end": 763.61,
+      "text": "So if you look at these kind of opportunities like, look at Eli Lilly."
+    },
+    {
+      "start": 763.61,
+      "end": 763.93,
+      "text": "Right?"
+    },
+    {
+      "start": 763.93,
+      "end": 775.805,
+      "text": "Eli Lilly's, moves swings start with, like, an here it was a four percent, but lot of the moves and, Eli Lilly are going to start with a very, this thing."
+    },
+    {
+      "start": 775.805,
+      "end": 782.56,
+      "text": "If the stock is in play, like, light is currently in play, like, it's a hot sector and things, then it will trade like normal stock."
+    },
+    {
+      "start": 782.56,
+      "end": 787.3,
+      "text": "But if you have, like, any stocks, which are, like, in a very boring Goldman Sachs and company."
+    },
+    {
+      "start": 787.36,
+      "end": 787.86,
+      "text": "Right?"
+    },
+    {
+      "start": 787.92,
+      "end": 790.88,
+      "text": "Here, this is a breakout on Goldman Sachs and company."
+    },
+    {
+      "start": 790.88,
+      "end": 791.12,
+      "text": "Right?"
+    },
+    {
+      "start": 791.12,
+      "end": 796.765,
+      "text": "Very orderly, proper, breakout on Goldman Sachs and Company."
+    },
+    {
+      "start": 796.765,
+      "end": 797.265,
+      "text": "Right?"
+    },
+    {
+      "start": 801.885,
+      "end": 802.945,
+      "text": "What's the percentage?"
+    },
+    {
+      "start": 803.085,
+      "end": 804.54504,
+      "text": "2.62%."
+    },
+    {
+      "start": 805.325,
+      "end": 805.825,
+      "text": "Right?"
+    },
+    {
+      "start": 806.28503,
+      "end": 826.29504,
+      "text": "So, the advantage of these high priced stock is very clear that because the moves persist and it is low risk and your likelihood of having, like, any getting shaken out and all are lower on this kind of stocks because most people don't trade and they're like, you know, they're this thing."
+    },
+    {
+      "start": 826.435,
+      "end": 832.85504,
+      "text": "It gives you an opportunity to find this opportunity with a very low risk, basically."
+    },
+    {
+      "start": 833.315,
+      "end": 833.815,
+      "text": "Right?"
+    },
+    {
+      "start": 834.03503,
+      "end": 835.395,
+      "text": "KC General Store."
+    },
+    {
+      "start": 835.395,
+      "end": 835.895,
+      "text": "Right?"
+    },
+    {
+      "start": 836.03,
+      "end": 838.11,
+      "text": "Breakout is 202%."
+    },
+    {
+      "start": 838.11,
+      "end": 838.35004,
+      "text": "Right?"
+    },
+    {
+      "start": 838.35004,
+      "end": 841.39,
+      "text": "And then this breakout is 1.44%."
+    },
+    {
+      "start": 841.39,
+      "end": 841.79004,
+      "text": "Right?"
+    },
+    {
+      "start": 841.79004,
+      "end": 844.99,
+      "text": "Here, this breakout is 2.3 seven percent."
+    },
+    {
+      "start": 844.99,
+      "end": 845.15,
+      "text": "Right?"
+    },
+    {
+      "start": 845.15,
+      "end": 849.79004,
+      "text": "And from that percent, like, and I say, look at it dollar reward terms."
+    },
+    {
+      "start": 849.79004,
+      "end": 853.95496,
+      "text": "If you risk $17, you're going to make $47."
+    },
+    {
+      "start": 854.095,
+      "end": 854.595,
+      "text": "Right?"
+    },
+    {
+      "start": 855.535,
+      "end": 864.175,
+      "text": "So this is a opportunity in the market for those of you who can psychologically get over this problem of price."
+    },
+    {
+      "start": 864.175,
+      "end": 864.65497,
+      "text": "Right?"
+    },
+    {
+      "start": 864.65497,
+      "end": 872.60004,
+      "text": "Because these stocks are something which allows you because your stops are closer, you can put a bigger amount at risk."
+    },
+    {
+      "start": 872.60004,
+      "end": 873.10004,
+      "text": "Right?"
+    },
+    {
+      "start": 873.64,
+      "end": 875.24005,
+      "text": "Walmart like, you know, there are a bunch of these."
+    },
+    {
+      "start": 875.24005,
+      "end": 875.48004,
+      "text": "Right?"
+    },
+    {
+      "start": 875.48004,
+      "end": 877.96,
+      "text": "And, basically, which, trade very well."
+    },
+    {
+      "start": 877.96,
+      "end": 878.2,
+      "text": "Right?"
+    },
+    {
+      "start": 878.2,
+      "end": 889.855,
+      "text": "And, and once you have once you start focusing on them, you will see these opportunities where they are going to have these breakdowns or breakouts, which are going to be really tiny."
+    },
+    {
+      "start": 889.855,
+      "end": 895.38,
+      "text": "And as a result of that, or for that matter, even yesterday, TXN was a good example."
+    },
+    {
+      "start": 895.38,
+      "end": 898.42,
+      "text": "It showed up in a scan early because it's a high priced stock."
+    },
+    {
+      "start": 898.42,
+      "end": 898.74,
+      "text": "Right?"
+    },
+    {
+      "start": 898.74,
+      "end": 904.1,
+      "text": "Now, basically now, obviously, it had more than 4% breakout yesterday, but, like, in a this is the thing."
+    },
+    {
+      "start": 904.1,
+      "end": 904.6,
+      "text": "Right?"
+    },
+    {
+      "start": 905.94,
+      "end": 908.9,
+      "text": "Liquidity is like in a how much liquidity do we need?"
+    },
+    {
+      "start": 909.06,
+      "end": 910.82,
+      "text": "It is a function of your size."
+    },
+    {
+      "start": 910.82,
+      "end": 910.98,
+      "text": "Right?"
+    },
+    {
+      "start": 910.98,
+      "end": 914.315,
+      "text": "And, basically now RBC breakout."
+    },
+    {
+      "start": 914.315,
+      "end": 914.555,
+      "text": "Right?"
+    },
+    {
+      "start": 914.555,
+      "end": 921.035,
+      "text": "And, basically and you can do a smaller size, but you lot more money goes into that because of the price of the stock."
+    },
+    {
+      "start": 921.035,
+      "end": 921.355,
+      "text": "Right?"
+    },
+    {
+      "start": 921.355,
+      "end": 932.26996,
+      "text": "And sometimes I buy just 100 shares of some of these high priced stocks, but 100 shares of this can still make a difference because 100 shares can still make $56,000."
+    },
+    {
+      "start": 932.26996,
+      "end": 932.76996,
+      "text": "Right?"
+    },
+    {
+      "start": 933.06995,
+      "end": 934.61,
+      "text": "So think about this."
+    },
+    {
+      "start": 935.23,
+      "end": 942.635,
+      "text": "Dear is a good example of a high priced stocks, which is not something which most of the people are going to be interested in."
+    },
+    {
+      "start": 942.77496,
+      "end": 962.24,
+      "text": "So FHP is a stock selection strategy where you are selecting stocks with the inherent tendency of slow, persistent moves because of the specific characteristic of that particular stock where lot of people don't want to get involved."
+    },
+    {
+      "start": 962.24,
+      "end": 974.285,
+      "text": "So when you get a range expansion and a breakout, that breakout can give you an ability to risk small amount of money or have a very close stop and then still make money."
+    },
+    {
+      "start": 974.665,
+      "end": 975.165,
+      "text": "Right?"
+    },
+    {
+      "start": 975.945,
+      "end": 981.945,
+      "text": "And this is the advantage of this particular thing which allows you."
+    },
+    {
+      "start": 981.945,
+      "end": 983.645,
+      "text": "So this is a stock selection."
+    },
+    {
+      "start": 983.705,
+      "end": 984.205,
+      "text": "Right?"
+    },
+    {
+      "start": 984.265,
+      "end": 985.325,
+      "text": "What is the setup?"
+    },
+    {
+      "start": 985.43,
+      "end": 988.41,
+      "text": "The setups which you use is start up a swing, obviously."
+    },
+    {
+      "start": 988.79,
+      "end": 993.35,
+      "text": "There's nothing in this trading which works by buying on a third day."
+    },
+    {
+      "start": 993.35,
+      "end": 995.91,
+      "text": "So it doesn't really like any that is given."
+    },
+    {
+      "start": 995.91,
+      "end": 996.38995,
+      "text": "Right?"
+    },
+    {
+      "start": 996.38995,
+      "end": 999.19,
+      "text": "And you can have a SOS, just SOS."
+    },
+    {
+      "start": 999.19,
+      "end": 1000.81,
+      "text": "You can have SOS continuation."
+    },
+    {
+      "start": 1002.16504,
+      "end": 1010.265,
+      "text": "You can have most of the time, SOS itself is more than enough for me or SOS consolidation breakout writer, basically."
+    },
+    {
+      "start": 1011.445,
+      "end": 1021.86,
+      "text": "And you can, like, adjust focus, or you can have a anticipation setup, or you can have a reversal bullish on this."
+    },
+    {
+      "start": 1021.92,
+      "end": 1024.64,
+      "text": "And especially when you're doing reversal bullish also."
+    },
+    {
+      "start": 1024.64,
+      "end": 1025.14,
+      "text": "Right?"
+    },
+    {
+      "start": 1025.2,
+      "end": 1033.755,
+      "text": "If you're doing it on a low price stocks versus you're doing it on a high price stocks, your risk reward is significant because why is your risk reward significant?"
+    },
+    {
+      "start": 1034.135,
+      "end": 1041.895,
+      "text": "Because what happens is when you have a reversal bullish on stocks like this, next day because the reversal bullish you're buying at $3.58."
+    },
+    {
+      "start": 1041.895,
+      "end": 1045.96,
+      "text": "Next day, because of their high price, they're going to go up $10, $12."
+    },
+    {
+      "start": 1045.96,
+      "end": 1046.28,
+      "text": "Right?"
+    },
+    {
+      "start": 1046.28,
+      "end": 1055.48,
+      "text": "And and so you can make so much money because they're just like in a, like this, this was a reversal bullish."
+    },
+    {
+      "start": 1055.48,
+      "end": 1060.265,
+      "text": "Next day, right, the stock went up some $5 or $6."
+    },
+    {
+      "start": 1060.265,
+      "end": 1060.505,
+      "text": "Right?"
+    },
+    {
+      "start": 1060.505,
+      "end": 1062.845,
+      "text": "And I, so so many times like here."
+    },
+    {
+      "start": 1063.0651,
+      "end": 1063.225,
+      "text": "Right?"
+    },
+    {
+      "start": 1063.225,
+      "end": 1064.4451,
+      "text": "And I reversal bullish."
+    },
+    {
+      "start": 1064.585,
+      "end": 1068.745,
+      "text": "And next day, the stock went up almost $12 before, like, any giving of gains."
+    },
+    {
+      "start": 1068.745,
+      "end": 1069.225,
+      "text": "Right?"
+    },
+    {
+      "start": 1069.225,
+      "end": 1072.17,
+      "text": "So these for anything which you do."
+    },
+    {
+      "start": 1072.17,
+      "end": 1072.33,
+      "text": "Right?"
+    },
+    {
+      "start": 1072.33,
+      "end": 1076.51,
+      "text": "And here also, like, you know, the stock went up almost like in a $9 before reversing."
+    },
+    {
+      "start": 1076.89,
+      "end": 1093.565,
+      "text": "It gives you an ability to, find stocks which are basically going to give you significant advantage in terms of what you risk versus what you can get."
+    },
+    {
+      "start": 1093.565,
+      "end": 1096.445,
+      "text": "And you can put bigger size into play."
+    },
+    {
+      "start": 1096.445,
+      "end": 1102.9601,
+      "text": "And especially for those of you who are going to buy a breakout near the low, We are the near the close."
+    },
+    {
+      "start": 1103.42,
+      "end": 1106.88,
+      "text": "Now you have a choice of buying a breakout, which is of 20."
+    },
+    {
+      "start": 1107.5801,
+      "end": 1124.575,
+      "text": "And if if you buy a breakout, which is of 20%, what it is going to happen is that you are going to be putting in, very small you can only put in a small amount of money in that breakout because your stop is wider."
+    },
+    {
+      "start": 1124.575,
+      "end": 1127.615,
+      "text": "You're buying near the low or you're buying, breakout."
+    },
+    {
+      "start": 1127.615,
+      "end": 1127.9349,
+      "text": "Right?"
+    },
+    {
+      "start": 1127.9349,
+      "end": 1133.8201,
+      "text": "And then so as a result of this, supposing your stop is 20%, how much can you put in?"
+    },
+    {
+      "start": 1134.6001,
+      "end": 1135.1001,
+      "text": "Right?"
+    },
+    {
+      "start": 1135.16,
+      "end": 1144.38,
+      "text": "If you're risking 1% and, you're buying a $12 stock and your stop is 10, you can only risk 6% of your account."
+    },
+    {
+      "start": 1145.185,
+      "end": 1145.685,
+      "text": "Right?"
+    },
+    {
+      "start": 1146.0651,
+      "end": 1157.685,
+      "text": "Now supposing you have a stock and which is at 102 and your stop is 100, then how much account can you put in for the same 1% risk?"
+    },
+    {
+      "start": 1160.95,
+      "end": 1161.45,
+      "text": "Right?"
+    },
+    {
+      "start": 1162.55,
+      "end": 1165.91,
+      "text": "That's 51%, where you up account you can put in."
+    },
+    {
+      "start": 1165.91,
+      "end": 1166.41,
+      "text": "Right?"
+    },
+    {
+      "start": 1166.47,
+      "end": 1178.745,
+      "text": "And as the price of the stock goes up, like, supposing you have $306 stock and it is breaking out, and there was a tightness before it, and your stop is 302 supposing."
+    },
+    {
+      "start": 1178.805,
+      "end": 1179.305,
+      "text": "Right?"
+    },
+    {
+      "start": 1179.605,
+      "end": 1181.155,
+      "text": "Then how much can you put it?"
+    },
+    {
+      "start": 1187.14,
+      "end": 1187.64,
+      "text": "Right."
+    },
+    {
+      "start": 1188.4199,
+      "end": 1211.635,
+      "text": "So this allows you, right, to get into these kind of opportunities where you can make find these opportunities, right, with a low risk kind of a situation and, make put lot of money to, at risk also."
+    },
+    {
+      "start": 1211.635,
+      "end": 1211.795,
+      "text": "Right?"
+    },
+    {
+      "start": 1211.795,
+      "end": 1215.63,
+      "text": "And, basically, with a closed top and move your account."
+    },
+    {
+      "start": 1215.63,
+      "end": 1215.89,
+      "text": "Right?"
+    },
+    {
+      "start": 1215.89,
+      "end": 1216.71,
+      "text": "And SITM."
+    },
+    {
+      "start": 1216.93,
+      "end": 1217.17,
+      "text": "Right?"
+    },
+    {
+      "start": 1217.17,
+      "end": 1217.99,
+      "text": "And the breakouts."
+    },
+    {
+      "start": 1218.69,
+      "end": 1224.47,
+      "text": "That was also, like and it's not really some of these semiconductor stocks are too volatile currently."
+    },
+    {
+      "start": 1225.09,
+      "end": 1232.075,
+      "text": "But if you see the non semiconductor stocks, you'll see opportunities, like SHW."
+    },
+    {
+      "start": 1232.455,
+      "end": 1233.595,
+      "text": "Let's look at SHW."
+    },
+    {
+      "start": 1233.735,
+      "end": 1234.0549,
+      "text": "Right?"
+    },
+    {
+      "start": 1234.0549,
+      "end": 1235.035,
+      "text": "And Sherwin William."
+    },
+    {
+      "start": 1235.335,
+      "end": 1237.755,
+      "text": "When it, like, in a, has breakouts."
+    },
+    {
+      "start": 1237.815,
+      "end": 1238.0549,
+      "text": "Right?"
+    },
+    {
+      "start": 1238.0549,
+      "end": 1240.455,
+      "text": "And then the breakouts are seldom 4% breakouts."
+    },
+    {
+      "start": 1240.455,
+      "end": 1240.955,
+      "text": "Right?"
+    },
+    {
+      "start": 1241.095,
+      "end": 1250.39,
+      "text": "You'll get, like, in a perfect setups, continuation, or anything, and you'll be able to enter with one percent risk or 2% risk many times."
+    },
+    {
+      "start": 1250.39,
+      "end": 1250.63,
+      "text": "Right?"
+    },
+    {
+      "start": 1250.63,
+      "end": 1260.405,
+      "text": "And, basically so, there is, like, an this big advantage which you have, like and especially when you do anticipation also."
+    },
+    {
+      "start": 1260.465,
+      "end": 1263.425,
+      "text": "If you focus on high priced stocks, you're gonna make more money."
+    },
+    {
+      "start": 1263.425,
+      "end": 1263.665,
+      "text": "Right?"
+    },
+    {
+      "start": 1263.665,
+      "end": 1265.125,
+      "text": "And you basically see here."
+    },
+    {
+      "start": 1265.505,
+      "end": 1266.705,
+      "text": "This is a perfect setup."
+    },
+    {
+      "start": 1266.705,
+      "end": 1266.945,
+      "text": "Right?"
+    },
+    {
+      "start": 1266.945,
+      "end": 1267.605,
+      "text": "An SHW."
+    },
+    {
+      "start": 1267.745,
+      "end": 1269.905,
+      "text": "This is one of the stocks which I trade a lot."
+    },
+    {
+      "start": 1269.905,
+      "end": 1276.54,
+      "text": "Like, in all these high priced stocks, I keep track of all these top 300 stocks by price for this reason."
+    },
+    {
+      "start": 1277.0,
+      "end": 1277.24,
+      "text": "Right?"
+    },
+    {
+      "start": 1277.24,
+      "end": 1280.54,
+      "text": "This is a one point, is this a breakout clear breakout?"
+    },
+    {
+      "start": 1287.345,
+      "end": 1287.845,
+      "text": "Right?"
+    },
+    {
+      "start": 1288.065,
+      "end": 1289.0249,
+      "text": "What is your risk?"
+    },
+    {
+      "start": 1289.0249,
+      "end": 1289.765,
+      "text": "Tell me."
+    },
+    {
+      "start": 1290.225,
+      "end": 1291.585,
+      "text": "Your risk is $5."
+    },
+    {
+      "start": 1291.585,
+      "end": 1293.825,
+      "text": "In percentage term, 1.86%."
+    },
+    {
+      "start": 1293.825,
+      "end": 1295.585,
+      "text": "So let's take this as an example."
+    },
+    {
+      "start": 1295.585,
+      "end": 1296.085,
+      "text": "Right?"
+    },
+    {
+      "start": 1296.225,
+      "end": 1309.25,
+      "text": "Here, the open is 273, low is 272, and February is, say let's say you're, like, in a really terrible, and you entered it near the low, like, near the end of the day."
+    },
+    {
+      "start": 1309.25,
+      "end": 1318.005,
+      "text": "And 278 is your entry, and 272 is your this thing, you can still put 46% of your account."
+    },
+    {
+      "start": 1318.865,
+      "end": 1319.365,
+      "text": "Alright?"
+    },
+    {
+      "start": 1323.9401,
+      "end": 1340.585,
+      "text": "And so you will see that you get these kind of setups, a galler on these high priced stocks, which are, like, basically and anticipation terms also."
+    },
+    {
+      "start": 1340.585,
+      "end": 1343.625,
+      "text": "It helps you a lot if you're doing a higher price anticipation."
+    },
+    {
+      "start": 1343.625,
+      "end": 1362.05,
+      "text": "In fact, and if you want, to really improve your, risk reward on anticipation, if you just like, you know, focus more on high priced stocks, that equation itself works so much in your favor because these high priced stocks, make this kind of, like, an, this thing."
+    },
+    {
+      "start": 1362.05,
+      "end": 1362.29,
+      "text": "Right?"
+    },
+    {
+      "start": 1362.29,
+      "end": 1362.93,
+      "text": "I know I see."
+    },
+    {
+      "start": 1362.93,
+      "end": 1372.535,
+      "text": "So here, on a high price stock, right, the requirement is what?"
+    },
+    {
+      "start": 1372.995,
+      "end": 1376.295,
+      "text": "It should show up in a dollar breakout scan."
+    },
+    {
+      "start": 1377.0751,
+      "end": 1378.515,
+      "text": "The dollar breakout scan."
+    },
+    {
+      "start": 1378.515,
+      "end": 1379.015,
+      "text": "Right?"
+    },
+    {
+      "start": 1379.86,
+      "end": 1385.24,
+      "text": "So once it shows up in a dollar breakout scan, I'm looking at start of a swing."
+    },
+    {
+      "start": 1385.7799,
+      "end": 1396.825,
+      "text": "And I want to start of a swing with some sort of a tightness before it, Right?"
+    },
+    {
+      "start": 1396.825,
+      "end": 1406.4249,
+      "text": "Which is a, which is like in a always like in a something which you are looking for because that gives you, very good entry."
+    },
+    {
+      "start": 1406.4249,
+      "end": 1406.6649,
+      "text": "Right?"
+    },
+    {
+      "start": 1406.6649,
+      "end": 1408.9249,
+      "text": "And you want some tightness, right, you know, basically."
+    },
+    {
+      "start": 1409.37,
+      "end": 1418.65,
+      "text": "So these opportunities, and even, you get very good risk reward on the short side also on these kind of setups."
+    },
+    {
+      "start": 1418.65,
+      "end": 1418.89,
+      "text": "Right?"
+    },
+    {
+      "start": 1418.89,
+      "end": 1424.8251,
+      "text": "And then Lululemon for that matter was like an not really like an it Was a dollar breakout only."
+    },
+    {
+      "start": 1424.8251,
+      "end": 1424.9851,
+      "text": "Right?"
+    },
+    {
+      "start": 1424.9851,
+      "end": 1427.7251,
+      "text": "And it wasn't even like in a basically here."
+    },
+    {
+      "start": 1428.1051,
+      "end": 1428.3451,
+      "text": "Right?"
+    },
+    {
+      "start": 1428.3451,
+      "end": 1432.3651,
+      "text": "And this was 3%, but, like, in a in the morning, it was like in a dollar."
+    },
+    {
+      "start": 1432.425,
+      "end": 1441.59,
+      "text": "And then, like, in a for risking even for that date, risking around $3, you're getting around this thing."
+    },
+    {
+      "start": 1442.21,
+      "end": 1442.71,
+      "text": "Right?"
+    },
+    {
+      "start": 1444.45,
+      "end": 1457.075,
+      "text": "So you are going to find once you change your it's it's like in a basically there are many ways to make money in the market."
+    },
+    {
+      "start": 1457.075,
+      "end": 1457.395,
+      "text": "Right?"
+    },
+    {
+      "start": 1457.395,
+      "end": 1460.695,
+      "text": "There are different, opportunities."
+    },
+    {
+      "start": 1460.835,
+      "end": 1464.275,
+      "text": "Or if you go in the casino, there are different kinds of slot machines."
+    },
+    {
+      "start": 1464.275,
+      "end": 1467.5549,
+      "text": "There are different types of, roulette tables and whatever."
+    },
+    {
+      "start": 1467.5549,
+      "end": 1471.2999,
+      "text": "I am not a a casino person, so I don't really know those things."
+    },
+    {
+      "start": 1471.2999,
+      "end": 1472.84,
+      "text": "But, like, there are different opportunities."
+    },
+    {
+      "start": 1473.1399,
+      "end": 1473.6399,
+      "text": "Right?"
+    },
+    {
+      "start": 1473.94,
+      "end": 1478.84,
+      "text": "Same way in the market, there is an opportunity to make money with low priced stocks."
+    },
+    {
+      "start": 1482.9651,
+      "end": 1486.5851,
+      "text": "You have an opportunity to trade these story stocks."
+    },
+    {
+      "start": 1487.525,
+      "end": 1497.045,
+      "text": "You have to the opportunity to take trade, like, in a high wall, ADR, stocks, or ATR, ADR, whatever you people like."
+    },
+    {
+      "start": 1497.045,
+      "end": 1497.2051,
+      "text": "Right?"
+    },
+    {
+      "start": 1497.2051,
+      "end": 1510.54,
+      "text": "But you have an opportunity to make money from a stock which has extremely low volatility and more linear moves and which most of the retail traders are not going to be playing."
+    },
+    {
+      "start": 1510.54,
+      "end": 1520.635,
+      "text": "So you know that when there is a move happening in something like Costco or something like this, who are the players who are playing this kind of moves?"
+    },
+    {
+      "start": 1520.855,
+      "end": 1524.1549,
+      "text": "Who do you think is going to be playing CDW?"
+    },
+    {
+      "start": 1524.375,
+      "end": 1524.695,
+      "text": "Right?"
+    },
+    {
+      "start": 1524.695,
+      "end": 1533.09,
+      "text": "Or, like, in that, there's a company called, it's not liquid enough to trade too much, but, TPL."
+    },
+    {
+      "start": 1533.09,
+      "end": 1533.59,
+      "text": "Right?"
+    },
+    {
+      "start": 1534.0499,
+      "end": 1535.65,
+      "text": "Texas Pacific land."
+    },
+    {
+      "start": 1535.65,
+      "end": 1535.8099,
+      "text": "Right?"
+    },
+    {
+      "start": 1535.8099,
+      "end": 1538.37,
+      "text": "And, basically, see, how will it rates?"
+    },
+    {
+      "start": 1538.37,
+      "end": 1538.87,
+      "text": "Right?"
+    },
+    {
+      "start": 1539.985,
+      "end": 1542.1449,
+      "text": "3% breakout, and it keeps going."
+    },
+    {
+      "start": 1542.1449,
+      "end": 1544.8049,
+      "text": "And if you like, can I just focus on this?"
+    },
+    {
+      "start": 1545.0249,
+      "end": 1547.9049,
+      "text": "From time to time, it has this per kind of moves."
+    },
+    {
+      "start": 1547.9049,
+      "end": 1549.0449,
+      "text": "AutoZone, O'Reilly."
+    },
+    {
+      "start": 1549.345,
+      "end": 1550.965,
+      "text": "Now O'Reilly has split."
+    },
+    {
+      "start": 1551.6649,
+      "end": 1559.94,
+      "text": "Before O'Reilly split, O'Reilly's price was O'Reilly did a big split somewhere, last year or something."
+    },
+    {
+      "start": 1559.94,
+      "end": 1560.1799,
+      "text": "Right?"
+    },
+    {
+      "start": 1560.1799,
+      "end": 1561.86,
+      "text": "And it did a big, split."
+    },
+    {
+      "start": 1561.86,
+      "end": 1562.8999,
+      "text": "You'll see it somewhere."
+    },
+    {
+      "start": 1562.8999,
+      "end": 1563.0599,
+      "text": "Right?"
+    },
+    {
+      "start": 1563.0599,
+      "end": 1565.38,
+      "text": "And it they split 15 is to one."
+    },
+    {
+      "start": 1565.38,
+      "end": 1565.88,
+      "text": "Right?"
+    },
+    {
+      "start": 1566.4349,
+      "end": 1568.615,
+      "text": "So current price is 100."
+    },
+    {
+      "start": 1569.1549,
+      "end": 1572.2949,
+      "text": "So 15 times like, the price was 1,500 on O'Reilly."
+    },
+    {
+      "start": 1572.6749,
+      "end": 1584.36,
+      "text": "And O'Reilly would show you a setup which is like this, which will be a 2%, and you're risking, say, $5 and you're making, $15."
+    },
+    {
+      "start": 1584.36,
+      "end": 1584.6,
+      "text": "Right?"
+    },
+    {
+      "start": 1584.6,
+      "end": 1586.44,
+      "text": "And that kind of ID, this thing."
+    },
+    {
+      "start": 1586.44,
+      "end": 1589.74,
+      "text": "Now they split it, but look at booking for that matter."
+    },
+    {
+      "start": 1592.275,
+      "end": 1592.435,
+      "text": "Right?"
+    },
+    {
+      "start": 1592.435,
+      "end": 1598.515,
+      "text": "Booking, many times, you are going to have a breakout in bookings, which is going to be very, very small percentage breakout."
+    },
+    {
+      "start": 1598.515,
+      "end": 1599.015,
+      "text": "Right?"
+    },
+    {
+      "start": 1599.0751,
+      "end": 1605.66,
+      "text": "And the stock will make a move, of, like, in a multiple dollars, like, you know, basically on this."
+    },
+    {
+      "start": 1605.66,
+      "end": 1608.7201,
+      "text": "All these stocks, again, booking has done a split."
+    },
+    {
+      "start": 1608.9401,
+      "end": 1616.8,
+      "text": "Earlier, booking was my one of the stocks which I used to always monitor, but it did 25 to one, thing, right, in a split now."
+    },
+    {
+      "start": 1617.5,
+      "end": 1618.62,
+      "text": "O'Reilly did a split."
+    },
+    {
+      "start": 1618.62,
+      "end": 1620.38,
+      "text": "So that's the thing with this stock."
+    },
+    {
+      "start": 1620.38,
+      "end": 1626.135,
+      "text": "But if you look at it, means this stock used to be trading at $3,000 prespilate."
+    },
+    {
+      "start": 1626.995,
+      "end": 1627.495,
+      "text": "Right?"
+    },
+    {
+      "start": 1627.7151,
+      "end": 1630.535,
+      "text": "Prespilate, it was trading at around $3,000."
+    },
+    {
+      "start": 1630.915,
+      "end": 1640.78,
+      "text": "So you could get, like, in a 300, 400, 600 points move with a risking $50 or $40 sometime on this kind of stocks."
+    },
+    {
+      "start": 1641.0801,
+      "end": 1678.235,
+      "text": "So this is an opportunity which exist for those who want to see, the less crowded trade and you want to get Good risk reward, or you want to do, like, in a trading, like, in a your lifestyle forces you to trade later in the day before the close, then focus on high priced stocks."
+    },
+    {
+      "start": 1679.175,
+      "end": 1696.64,
+      "text": "And this particular thing, can be something which can, like, give you a lot of opportunities because the if you focus on the top 300 stocks by price, you can see that there are enough opportunities in a year on these kind of high priced stocks."
+    },
+    {
+      "start": 1697.1,
+      "end": 1699.36,
+      "text": "So the setups will remain same."
+    },
+    {
+      "start": 1699.58,
+      "end": 1717.93,
+      "text": "Setups will be SOS SOS continuation, SOS consolidation, or a reversal or anticip and for anticipation, high priced stocks, there is if they work, they're going to give you the best risk reward because you're, like, in a selecting stock, which is up or down less than 40¢."
+    },
+    {
+      "start": 1717.93,
+      "end": 1718.25,
+      "text": "Right?"
+    },
+    {
+      "start": 1718.25,
+      "end": 1720.3501,
+      "text": "And and it's priced at $300."
+    },
+    {
+      "start": 1720.5701,
+      "end": 1729.455,
+      "text": "If even if it has, like, an 1%, 2% move for $40, 40¢, or 50¢ risk, you're going to to get $5, $6, $10."
+    },
+    {
+      "start": 1729.695,
+      "end": 1734.975,
+      "text": "How many low price stocks are ever going to give you that kind of a risk reward and anticipation setup?"
+    },
+    {
+      "start": 1734.975,
+      "end": 1735.635,
+      "text": "Tell me."
+    },
+    {
+      "start": 1739.615,
+      "end": 1740.115,
+      "text": "Right."
+    },
+    {
+      "start": 1746.7999,
+      "end": 1749.76,
+      "text": "SOS is a very large term for start up or swing."
+    },
+    {
+      "start": 1749.76,
+      "end": 1750.26,
+      "text": "Right?"
+    },
+    {
+      "start": 1750.64,
+      "end": 1755.22,
+      "text": "Start up or swing is you're buying on the first day of a range expansion."
+    },
+    {
+      "start": 1755.92,
+      "end": 1760.105,
+      "text": "Now not every SOS is a setup."
+    },
+    {
+      "start": 1760.485,
+      "end": 1768.265,
+      "text": "You qualify SOS by using a SOS continuation, right, or SOS consolidation and and so reversal."
+    },
+    {
+      "start": 1769.045,
+      "end": 1771.625,
+      "text": "So that is the way to look at it, basically."
+    },
+    {
+      "start": 1771.685,
+      "end": 1772.185,
+      "text": "Right?"
+    },
+    {
+      "start": 1772.725,
+      "end": 1782.16,
+      "text": "Now, obviously, my preference is to find higher priced stocks and look for these kind of opportunities."
+    },
+    {
+      "start": 1782.46,
+      "end": 1782.78,
+      "text": "Why?"
+    },
+    {
+      "start": 1782.78,
+      "end": 1786.64,
+      "text": "Because it allows me to put lot more capital at work."
+    },
+    {
+      "start": 1786.78,
+      "end": 1787.1,
+      "text": "Right?"
+    },
+    {
+      "start": 1787.1,
+      "end": 1795.3251,
+      "text": "And if I see something like this, I know I can put in, even a small, like, in a I can put 50% because the risk is so low."
+    },
+    {
+      "start": 1795.385,
+      "end": 1795.885,
+      "text": "Right?"
+    },
+    {
+      "start": 1796.8251,
+      "end": 1799.885,
+      "text": "So that is what, like, in a basically yeah."
+    },
+    {
+      "start": 1801.465,
+      "end": 1806.6,
+      "text": "In order to prioritize, you first, like, in a you you they all show up in your scan."
+    },
+    {
+      "start": 1806.6,
+      "end": 1806.84,
+      "text": "Right?"
+    },
+    {
+      "start": 1806.84,
+      "end": 1809.74,
+      "text": "And earlier, I used to run this scan separately."
+    },
+    {
+      "start": 1809.88,
+      "end": 1810.12,
+      "text": "Right?"
+    },
+    {
+      "start": 1810.12,
+      "end": 1812.94,
+      "text": "And I used to run 4% breakout scan separately."
+    },
+    {
+      "start": 1814.0399,
+      "end": 1814.12,
+      "text": "Right?"
+    },
+    {
+      "start": 1814.12,
+      "end": 1823.535,
+      "text": "And I used to run dollar breakout scan separately and then look at them separately, but then, it's a duplication of effort."
+    },
+    {
+      "start": 1823.535,
+      "end": 1827.615,
+      "text": "So the combination scan is just a combination of these two scans."
+    },
+    {
+      "start": 1827.615,
+      "end": 1827.935,
+      "text": "Right?"
+    },
+    {
+      "start": 1827.935,
+      "end": 1830.175,
+      "text": "So they show up in your, thing."
+    },
+    {
+      "start": 1830.175,
+      "end": 1830.415,
+      "text": "Right?"
+    },
+    {
+      "start": 1830.415,
+      "end": 1831.395,
+      "text": "How do you prioritize?"
+    },
+    {
+      "start": 1831.695,
+      "end": 1838.41,
+      "text": "The easiest way to prioritize FHP is when you run a combination scan, what is your objective?"
+    },
+    {
+      "start": 1838.41,
+      "end": 1843.2101,
+      "text": "Your objective is to look for those stocks which are going to be making this or where you can have a stop."
+    },
+    {
+      "start": 1843.2101,
+      "end": 1854.815,
+      "text": "Like and if you sort by percentage, you'll typically see the higher price stocks will be the one which will have these kind of things."
+    },
+    {
+      "start": 1854.815,
+      "end": 1855.0549,
+      "text": "Right?"
+    },
+    {
+      "start": 1855.0549,
+      "end": 1867.0901,
+      "text": "And then they that's where you'll see, this, FHP kind of plays most of the time because, that's where you're looking for these 2% or 1% or, some of these kind of breakouts."
+    },
+    {
+      "start": 1867.15,
+      "end": 1867.4701,
+      "text": "Right?"
+    },
+    {
+      "start": 1867.4701,
+      "end": 1881.575,
+      "text": "And so and that's a way of finding low risk opportunity and risking a larger portion of your account on a trade, basically."
+    },
+    {
+      "start": 1881.715,
+      "end": 1882.215,
+      "text": "Right?"
+    },
+    {
+      "start": 1882.9149,
+      "end": 1886.355,
+      "text": "So, it doesn't matter."
+    },
+    {
+      "start": 1886.355,
+      "end": 1889.1549,
+      "text": "These stocks are not necessarily moving based on theme."
+    },
+    {
+      "start": 1889.1549,
+      "end": 1889.3949,
+      "text": "Right?"
+    },
+    {
+      "start": 1889.3949,
+      "end": 1897.1499,
+      "text": "And if you're looking at theme and all, then you just go buy, like, any those stocks which are in theme, they are not going to give you 2.5% opportunity."
+    },
+    {
+      "start": 1897.2899,
+      "end": 1897.5299,
+      "text": "Right?"
+    },
+    {
+      "start": 1897.5299,
+      "end": 1916.7151,
+      "text": "And then the stocks which are not, really boring stocks, West Connection, right, another what's that, what's that company which, provides uniform to companies which, like, did a merger?"
+    },
+    {
+      "start": 1916.775,
+      "end": 1918.4551,
+      "text": "So now they are, like, in a Syntas."
+    },
+    {
+      "start": 1918.4551,
+      "end": 1918.6951,
+      "text": "Right?"
+    },
+    {
+      "start": 1918.6951,
+      "end": 1919.8151,
+      "text": "And they look at Syntas."
+    },
+    {
+      "start": 1919.8151,
+      "end": 1920.3151,
+      "text": "Right?"
+    },
+    {
+      "start": 1920.59,
+      "end": 1934.43,
+      "text": "This is not a stock which is like an a you'll see that will have moves, which will last like in a breakdowns, breakdowns, which will be like in a, with 2% or 1%, 1.76 breakdown."
+    },
+    {
+      "start": 1934.43,
+      "end": 1934.835,
+      "text": "Right?"
+    },
+    {
+      "start": 1934.835,
+      "end": 1935.575,
+      "text": "In a year."
+    },
+    {
+      "start": 1935.635,
+      "end": 1940.835,
+      "text": "This breakdown was like an at least be it has become more volatile after it did a, buyout."
+    },
+    {
+      "start": 1940.835,
+      "end": 1949.94,
+      "text": "But before that, you'll see that many times, Hintas would make this five, six, seven days move, through, this thing."
+    },
+    {
+      "start": 1949.94,
+      "end": 1950.18,
+      "text": "Right?"
+    },
+    {
+      "start": 1950.18,
+      "end": 1955.86,
+      "text": "And, basically, or, like, in a the these are boring stock."
+    },
+    {
+      "start": 1955.86,
+      "end": 1956.1,
+      "text": "Right?"
+    },
+    {
+      "start": 1956.1,
+      "end": 1958.66,
+      "text": "And these are they were, like, in a iron mountain."
+    },
+    {
+      "start": 1958.66,
+      "end": 1958.9,
+      "text": "Right?"
+    },
+    {
+      "start": 1958.9,
+      "end": 1963.665,
+      "text": "And this is not a stock which you would ever be, like, in a coming across or things like this."
+    },
+    {
+      "start": 1963.665,
+      "end": 1963.905,
+      "text": "Right?"
+    },
+    {
+      "start": 1963.905,
+      "end": 1965.8251,
+      "text": "And I did see it on this day."
+    },
+    {
+      "start": 1965.8251,
+      "end": 1966.145,
+      "text": "Right?"
+    },
+    {
+      "start": 1966.145,
+      "end": 1969.5851,
+      "text": "And but the earnings was, like, an so I didn't really get involved."
+    },
+    {
+      "start": 1969.5851,
+      "end": 1971.265,
+      "text": "But look at this breakout."
+    },
+    {
+      "start": 1971.265,
+      "end": 1971.5851,
+      "text": "Right?"
+    },
+    {
+      "start": 1971.5851,
+      "end": 1973.925,
+      "text": "And it was that a start up swing good breakout?"
+    },
+    {
+      "start": 1974.47,
+      "end": 1977.53,
+      "text": "And it was just like in a 1.8, 69%."
+    },
+    {
+      "start": 1978.39,
+      "end": 1978.89,
+      "text": "Right?"
+    },
+    {
+      "start": 1979.51,
+      "end": 1982.63,
+      "text": "So IBD 200 and all, you don't need for this."
+    },
+    {
+      "start": 1982.63,
+      "end": 1986.71,
+      "text": "These stocks, we are buying not based on earning sales or anything."
+    },
+    {
+      "start": 1986.71,
+      "end": 1986.9501,
+      "text": "Right?"
+    },
+    {
+      "start": 1986.9501,
+      "end": 1993.2151,
+      "text": "And these are stocks which you are basically buying based on high price and start up a swing."
+    },
+    {
+      "start": 1993.2151,
+      "end": 1993.375,
+      "text": "Right?"
+    },
+    {
+      "start": 1993.375,
+      "end": 1994.035,
+      "text": "And, basically."
+    },
+    {
+      "start": 2011.91,
+      "end": 2013.1901,
+      "text": "I just set my stop."
+    },
+    {
+      "start": 2013.1901,
+      "end": 2016.17,
+      "text": "Even for my anything which I buy, I don't babysit."
+    },
+    {
+      "start": 2016.23,
+      "end": 2016.47,
+      "text": "Right?"
+    },
+    {
+      "start": 2016.47,
+      "end": 2020.575,
+      "text": "I I haven't looked at a three minute chart or a one minute chart."
+    },
+    {
+      "start": 2021.355,
+      "end": 2029.115,
+      "text": "Probably, like, in a if at all, if I looked at it, it was just like, you know, something stocks in play, and I was looking at quick dollar."
+    },
+    {
+      "start": 2029.115,
+      "end": 2035.0901,
+      "text": "Otherwise, on my position, like TXN, when I bought it, did I look at, like, an I don't even know."
+    },
+    {
+      "start": 2035.0901,
+      "end": 2035.25,
+      "text": "Right?"
+    },
+    {
+      "start": 2035.25,
+      "end": 2038.15,
+      "text": "And I just like an you don't need to babysit them."
+    },
+    {
+      "start": 2038.37,
+      "end": 2038.87,
+      "text": "Right?"
+    },
+    {
+      "start": 2038.93,
+      "end": 2040.39,
+      "text": "They just like an a here."
+    },
+    {
+      "start": 2040.4501,
+      "end": 2044.2101,
+      "text": "Also, like, this was so you don't need to babysit your positions like an a."
+    },
+    {
+      "start": 2044.2101,
+      "end": 2045.0901,
+      "text": "That's why you do this."
+    },
+    {
+      "start": 2045.0901,
+      "end": 2045.5901,
+      "text": "Right?"
+    },
+    {
+      "start": 2051.715,
+      "end": 2053.095,
+      "text": "Again, you're confusing."
+    },
+    {
+      "start": 2053.235,
+      "end": 2053.555,
+      "text": "Right?"
+    },
+    {
+      "start": 2053.555,
+      "end": 2056.515,
+      "text": "And this is just FSP is just based on price."
+    },
+    {
+      "start": 2056.515,
+      "end": 2057.015,
+      "text": "Right?"
+    },
+    {
+      "start": 2057.875,
+      "end": 2062.855,
+      "text": "You don't need to do any other additional thing, like any plastics or anything for this."
+    },
+    {
+      "start": 2063.075,
+      "end": 2065.24,
+      "text": "It is just based on price."
+    },
+    {
+      "start": 2065.38,
+      "end": 2065.54,
+      "text": "Right?"
+    },
+    {
+      "start": 2065.54,
+      "end": 2067.88,
+      "text": "And the price is the important thing here."
+    },
+    {
+      "start": 2068.74,
+      "end": 2068.82,
+      "text": "Right?"
+    },
+    {
+      "start": 2068.82,
+      "end": 2069.56,
+      "text": "That's all."
+    },
+    {
+      "start": 2069.7,
+      "end": 2071.16,
+      "text": "You don't make it complicated."
+    },
+    {
+      "start": 2071.3,
+      "end": 2072.98,
+      "text": "That's the biggest problem for all of you."
+    },
+    {
+      "start": 2072.98,
+      "end": 2073.22,
+      "text": "Right?"
+    },
+    {
+      "start": 2073.22,
+      "end": 2075.7952,
+      "text": "And anything which is simple, you want to complicate it."
+    },
+    {
+      "start": 2075.7952,
+      "end": 2075.955,
+      "text": "Right?"
+    },
+    {
+      "start": 2075.955,
+      "end": 2077.5752,
+      "text": "And I which is very easy."
+    },
+    {
+      "start": 2078.0352,
+      "end": 2094.23,
+      "text": "You just like in a, and this you will see that one of the proponent of this strategy or the how did I learn about this strategy Whereas, primarily, the person who is a great proponent of this strategy is, like, in a Dan's anger."
+    },
+    {
+      "start": 2095.41,
+      "end": 2095.91,
+      "text": "Right?"
+    },
+    {
+      "start": 2099.73,
+      "end": 2101.51,
+      "text": "You only trades high priced stocks."
+    },
+    {
+      "start": 2103.375,
+      "end": 2103.5352,
+      "text": "Right?"
+    },
+    {
+      "start": 2103.5352,
+      "end": 2105.235,
+      "text": "Do I use 20% study?"
+    },
+    {
+      "start": 2105.695,
+      "end": 2105.855,
+      "text": "Yes."
+    },
+    {
+      "start": 2105.855,
+      "end": 2109.935,
+      "text": "Everything which I do has been I've been doing for twenty five or twenty six years."
+    },
+    {
+      "start": 2109.935,
+      "end": 2110.435,
+      "text": "Right?"
+    },
+    {
+      "start": 2111.695,
+      "end": 2114.195,
+      "text": "For twenty six years, I've been brushing my teeth."
+    },
+    {
+      "start": 2114.51,
+      "end": 2115.8699,
+      "text": "I'm doing the same thing."
+    },
+    {
+      "start": 2115.8699,
+      "end": 2116.0698,
+      "text": "Right?"
+    },
+    {
+      "start": 2116.0698,
+      "end": 2120.13,
+      "text": "And a dollar bullish, dollar breakout, this 20% study."
+    },
+    {
+      "start": 2120.3499,
+      "end": 2120.5898,
+      "text": "Right?"
+    },
+    {
+      "start": 2120.5898,
+      "end": 2123.65,
+      "text": "And you're looking at stock which make 20%, 20%."
+    },
+    {
+      "start": 2123.71,
+      "end": 2124.75,
+      "text": "All these are same thing."
+    },
+    {
+      "start": 2124.75,
+      "end": 2125.25,
+      "text": "Right?"
+    },
+    {
+      "start": 2125.47,
+      "end": 2133.5452,
+      "text": "The same boring shit which you do day in and day out is when you'd discovers, like, in a then you find these kind of opportunities."
+    },
+    {
+      "start": 2133.6052,
+      "end": 2134.0452,
+      "text": "Right?"
+    },
+    {
+      "start": 2134.485,
+      "end": 2137.7651,
+      "text": "When there is a high price stock, you can find these kind of opportunities."
+    },
+    {
+      "start": 2137.7651,
+      "end": 2141.48,
+      "text": "But you have to be aware of the concept."
+    },
+    {
+      "start": 2141.78,
+      "end": 2148.1199,
+      "text": "And once you are aware of the concept and once you start looking at those, then you will find these opportunities."
+    },
+    {
+      "start": 2148.34,
+      "end": 2152.34,
+      "text": "If you are not aware of, then you don't even look at these kind of things."
+    },
+    {
+      "start": 2152.34,
+      "end": 2152.58,
+      "text": "Right?"
+    },
+    {
+      "start": 2152.58,
+      "end": 2154.84,
+      "text": "And, basically so that's how it is."
+    },
+    {
+      "start": 2160.4248,
+      "end": 2162.6648,
+      "text": "Obviously, essay matters for anything."
+    },
+    {
+      "start": 2162.6648,
+      "end": 2162.9048,
+      "text": "Right?"
+    },
+    {
+      "start": 2162.9048,
+      "end": 2167.7048,
+      "text": "And, basically, it matters for anything except for e p 9,000,000."
+    },
+    {
+      "start": 2167.7048,
+      "end": 2167.9448,
+      "text": "Right?"
+    },
+    {
+      "start": 2167.9448,
+      "end": 2171.84,
+      "text": "And because there is a different logic to e p 9,000,000, which I explained last week."
+    },
+    {
+      "start": 2172.86,
+      "end": 2177.6,
+      "text": "Here, you will need if market is going down, the scans are self adjusting."
+    },
+    {
+      "start": 2177.74,
+      "end": 2180.9402,
+      "text": "If the market is going down, you're going to see a lot more short setups."
+    },
+    {
+      "start": 2180.9402,
+      "end": 2181.4402,
+      "text": "Right?"
+    },
+    {
+      "start": 2182.62,
+      "end": 2183.6802,
+      "text": "Does leg matter?"
+    },
+    {
+      "start": 2183.74,
+      "end": 2189.245,
+      "text": "Again, unfortunately, right, and, basically, it does matter."
+    },
+    {
+      "start": 2189.3052,
+      "end": 2189.8052,
+      "text": "Right?"
+    },
+    {
+      "start": 2190.8252,
+      "end": 2195.725,
+      "text": "Because just tell me in just like in a as a curiosity."
+    },
+    {
+      "start": 2196.425,
+      "end": 2196.925,
+      "text": "Right?"
+    },
+    {
+      "start": 2197.945,
+      "end": 2208.6401,
+      "text": "How many times you have seen a third leg of a move make a move and continue to, what is the percentage of stock whose third leg of a move goes on to make a big move?"
+    },
+    {
+      "start": 2214.965,
+      "end": 2224.245,
+      "text": "And if you have been doing the 50% study or if you're looking at, like, an even a stock which makes a 300% move will make that move in less than, two legs."
+    },
+    {
+      "start": 2224.245,
+      "end": 2224.745,
+      "text": "Right?"
+    },
+    {
+      "start": 2229.18,
+      "end": 2229.58,
+      "text": "Right."
+    },
+    {
+      "start": 2229.58,
+      "end": 2231.18,
+      "text": "So there it doesn't really matter."
+    },
+    {
+      "start": 2231.18,
+      "end": 2231.34,
+      "text": "Right?"
+    },
+    {
+      "start": 2231.34,
+      "end": 2239.425,
+      "text": "And, basically so I don't know what is this fascination people have about buying extended stocks."
+    },
+    {
+      "start": 2239.5051,
+      "end": 2239.665,
+      "text": "Right?"
+    },
+    {
+      "start": 2239.665,
+      "end": 2242.325,
+      "text": "And that seems to be the people's main strategy."
+    },
+    {
+      "start": 2242.7852,
+      "end": 2243.0251,
+      "text": "Right?"
+    },
+    {
+      "start": 2243.0251,
+      "end": 2249.5051,
+      "text": "And which is like in a unfortunately, very difficult to understand, or I'm too dumb to understand."
+    },
+    {
+      "start": 2249.5051,
+      "end": 2249.745,
+      "text": "K."
+    },
+    {
+      "start": 2249.745,
+      "end": 2254.705,
+      "text": "What is this thing about, like, in a extended stocks, people are so fascinated about."
+    },
+    {
+      "start": 2254.705,
+      "end": 2255.205,
+      "text": "Right?"
+    },
+    {
+      "start": 2256.92,
+      "end": 2258.7798,
+      "text": "So for when do I enter?"
+    },
+    {
+      "start": 2258.92,
+      "end": 2260.0398,
+      "text": "As and when I see."
+    },
+    {
+      "start": 2260.0398,
+      "end": 2260.5398,
+      "text": "Right?"
+    },
+    {
+      "start": 2261.5598,
+      "end": 2263.66,
+      "text": "Unlike you people, I don't have the constraint."
+    },
+    {
+      "start": 2264.1199,
+      "end": 2265.88,
+      "text": "I I do this as a full time thing."
+    },
+    {
+      "start": 2265.88,
+      "end": 2266.0398,
+      "text": "Right?"
+    },
+    {
+      "start": 2266.0398,
+      "end": 2268.52,
+      "text": "And I don't have a constraint only to look at end of the day."
+    },
+    {
+      "start": 2268.52,
+      "end": 2282.75,
+      "text": "But if I was, like, in a for some reason, right, and I, I got a job in JPMorgan Chase, right, under the woman who are, like, and I want to have, like, an sex with their subordinate."
+    },
+    {
+      "start": 2282.97,
+      "end": 2287.21,
+      "text": "Then in that case, I will be anyway, if I join there, they will not allow me to trade."
+    },
+    {
+      "start": 2287.21,
+      "end": 2288.35,
+      "text": "That's a different story."
+    },
+    {
+      "start": 2288.49,
+      "end": 2301.1948,
+      "text": "But then if I had to do it at the end of the day, I would look at, things like reversal bullish on high priced stocks, and I would look at, high priced stocks only."
+    },
+    {
+      "start": 2303.655,
+      "end": 2304.155,
+      "text": "Right?"
+    },
+    {
+      "start": 2309.27,
+      "end": 2310.8901,
+      "text": "So it's there is opportunity."
+    },
+    {
+      "start": 2311.27,
+      "end": 2312.1501,
+      "text": "It's up to you."
+    },
+    {
+      "start": 2312.1501,
+      "end": 2312.55,
+      "text": "Right?"
+    },
+    {
+      "start": 2312.55,
+      "end": 2321.9849,
+      "text": "And then for those of you there are so many, StackMe members who are having, like, an are, like, an some of the members who are having a lot of time, they're getting stopped out."
+    },
+    {
+      "start": 2321.9849,
+      "end": 2328.645,
+      "text": "They were, like, in a complaining all the time, pre trading, and I recommended to them to just trade high priced stocks."
+    },
+    {
+      "start": 2329.025,
+      "end": 2333.505,
+      "text": "And some of them have completely given up trading, low priced stock."
+    },
+    {
+      "start": 2333.505,
+      "end": 2339.02,
+      "text": "They're just trading high priced stocks, and they are very happy because, you can get these opportunities."
+    },
+    {
+      "start": 2339.24,
+      "end": 2342.12,
+      "text": "You can enter, later in the day and things like that."
+    },
+    {
+      "start": 2342.12,
+      "end": 2342.44,
+      "text": "Right?"
+    },
+    {
+      "start": 2342.44,
+      "end": 2350.76,
+      "text": "And, basically so, it is it doesn't matter if you're $10,000 or you're a thousand dollars."
+    },
+    {
+      "start": 2350.76,
+      "end": 2351.26,
+      "text": "Right?"
+    },
+    {
+      "start": 2351.32,
+      "end": 2352.575,
+      "text": "You can buy one share."
+    },
+    {
+      "start": 2352.575,
+      "end": 2352.9749,
+      "text": "Right?"
+    },
+    {
+      "start": 2352.9749,
+      "end": 2356.4148,
+      "text": "It's it's it's a risk reward which matters, right, ultimately."
+    },
+    {
+      "start": 2356.655,
+      "end": 2357.535,
+      "text": "How does it matter?"
+    },
+    {
+      "start": 2357.535,
+      "end": 2369.51,
+      "text": "What is the obviously, if your account size is large, then, like, you know, this is why I don't get excited about this $5 and $3 stocks because, like and I saw that day XRX."
+    },
+    {
+      "start": 2369.6501,
+      "end": 2370.1501,
+      "text": "Right?"
+    },
+    {
+      "start": 2370.85,
+      "end": 2371.35,
+      "text": "Yeah."
+    },
+    {
+      "start": 2371.73,
+      "end": 2383.925,
+      "text": "I mean, it's like in a in order to make a a move my account, how many shares of XRS I will have to buy to make a, like, in a meaningful, dent on the account."
+    },
+    {
+      "start": 2389.745,
+      "end": 2392.405,
+      "text": "Even a 100,000 shares is going to be how much?"
+    },
+    {
+      "start": 2392.7852,
+      "end": 2394.5452,
+      "text": "100,000 shares, 200,000."
+    },
+    {
+      "start": 2394.5452,
+      "end": 2395.0452,
+      "text": "Right?"
+    },
+    {
+      "start": 2395.26,
+      "end": 2397.9,
+      "text": "It's not even like and I'll have to buy million shares of this."
+    },
+    {
+      "start": 2397.9,
+      "end": 2398.22,
+      "text": "Right?"
+    },
+    {
+      "start": 2398.22,
+      "end": 2400.78,
+      "text": "And then and then the risk correspondingly is higher."
+    },
+    {
+      "start": 2400.78,
+      "end": 2401.02,
+      "text": "Right?"
+    },
+    {
+      "start": 2401.02,
+      "end": 2412.015,
+      "text": "And then while I can put a million dollar, or I can put a $5,000,000 position very easily on a stock which is priced like this and still sleep at night."
+    },
+    {
+      "start": 2412.015,
+      "end": 2412.175,
+      "text": "Right?"
+    },
+    {
+      "start": 2412.175,
+      "end": 2414.355,
+      "text": "And because it has the high price."
+    },
+    {
+      "start": 2420.415,
+      "end": 2426.8,
+      "text": "Pradeep, when you enter a high price stock earlier on, you typically have a stop low of the day."
+    },
+    {
+      "start": 2426.8,
+      "end": 2427.12,
+      "text": "Mhmm."
+    },
+    {
+      "start": 2427.12,
+      "end": 2435.04,
+      "text": "If you're entering a high price example of, like, a high price stock, and it is like an I entered it early, and my stop was low of the day, basically."
+    },
+    {
+      "start": 2435.04,
+      "end": 2435.54,
+      "text": "Right?"
+    },
+    {
+      "start": 2438.415,
+      "end": 2440.2551,
+      "text": "That was like and then what was the price?"
+    },
+    {
+      "start": 2440.2551,
+      "end": 2442.995,
+      "text": "$2.72.94 that day."
+    },
+    {
+      "start": 2450.6501,
+      "end": 2456.83,
+      "text": "If you're entering end of day, do you still keep the stop at the low of the day, or would you choose half of the day?"
+    },
+    {
+      "start": 2457.1301,
+      "end": 2473.7449,
+      "text": "Most of the time because the range of these stocks is so small that it may makes sense to, like, can you put it at, low of the day because your, this thing is like an the range itself or the breakouts will be 1% or 1.5% or something like that."
+    },
+    {
+      "start": 2473.7449,
+      "end": 2477.6848,
+      "text": "So it makes sense to keep it at low of the day till the next day at least."
+    },
+    {
+      "start": 2477.825,
+      "end": 2482.22,
+      "text": "And then once the, structure is, like, you can move it right, basically."
+    },
+    {
+      "start": 2483.56,
+      "end": 2484.38,
+      "text": "Thank you."
+    },
+    {
+      "start": 2494.1348,
+      "end": 2496.855,
+      "text": "So, I don't think it is a question of, like, any account size."
+    },
+    {
+      "start": 2496.855,
+      "end": 2501.515,
+      "text": "It's a question of, some people I know don't mind buying breakouts."
+    },
+    {
+      "start": 2501.575,
+      "end": 2504.1348,
+      "text": "Like, somebody today, he asked me."
+    },
+    {
+      "start": 2504.1348,
+      "end": 2504.535,
+      "text": "Right?"
+    },
+    {
+      "start": 2504.535,
+      "end": 2509.8,
+      "text": "And he bought this, stock, right, at the end of the day."
+    },
+    {
+      "start": 2509.8,
+      "end": 2514.3599,
+      "text": "Now if he buys this at the end of the day, right, his risk is around 15%."
+    },
+    {
+      "start": 2514.3599,
+      "end": 2514.8599,
+      "text": "Right?"
+    },
+    {
+      "start": 2515.16,
+      "end": 2515.4,
+      "text": "Yeah."
+    },
+    {
+      "start": 2515.4,
+      "end": 2523.375,
+      "text": "But but, like, in a, this stock then needs to make, like, in a really 50% to justify that kind of a risk."
+    },
+    {
+      "start": 2523.375,
+      "end": 2523.6152,
+      "text": "Right?"
+    },
+    {
+      "start": 2524.375,
+      "end": 2531.7751,
+      "text": "So there is, like, an a while, you can also find opportunities, which is, like, in a low risk."
+    },
+    {
+      "start": 2531.7751,
+      "end": 2540.46,
+      "text": "Obviously, this is, again, this is for somebody as the graphics for with this, I put it really right at it."
+    },
+    {
+      "start": 2541.0,
+      "end": 2557.7048,
+      "text": "Somebody who who you have to be willing to, like, in a knot then, like, in a get promo about these other stocks which are making big moves, somebody who's, like, in a peaceful, who has, like, in a got, like, in a who doesn't want to get into knife fights."
+    },
+    {
+      "start": 2557.925,
+      "end": 2560.9648,
+      "text": "When you trade these very active stocks and all, it's a knife fight."
+    },
+    {
+      "start": 2560.9648,
+      "end": 2561.4648,
+      "text": "Right?"
+    },
+    {
+      "start": 2562.15,
+      "end": 2563.69,
+      "text": "Things can happen very quickly."
+    },
+    {
+      "start": 2563.75,
+      "end": 2565.45,
+      "text": "Here, this is very slow game."
+    },
+    {
+      "start": 2565.91,
+      "end": 2571.8499,
+      "text": "You can you don't have even, put a market order to buy almost all my high priced stocks."
+    },
+    {
+      "start": 2571.99,
+      "end": 2580.2349,
+      "text": "Prices, I will buy using either a mid price as a, thing in, IB or just a limit order."
+    },
+    {
+      "start": 2580.695,
+      "end": 2585.415,
+      "text": "And some because, like, in a sometimes, it's like and it takes time to think."
+    },
+    {
+      "start": 2585.415,
+      "end": 2585.9749,
+      "text": "That's it."
+    },
+    {
+      "start": 2585.9749,
+      "end": 2586.4749,
+      "text": "Right?"
+    },
+    {
+      "start": 2587.015,
+      "end": 2587.515,
+      "text": "Yes."
+    },
+    {
+      "start": 2588.31,
+      "end": 2588.81,
+      "text": "Namaste."
+    },
+    {
+      "start": 2591.59,
+      "end": 2601.05,
+      "text": "Today, I'm going to be performing Tibetan sound healing practice."
+    },
+    {
+      "start": 2601.35,
+      "end": 2601.85,
+      "text": "Right?"
+    },
+    {
+      "start": 2602.205,
+      "end": 2605.825,
+      "text": "And then while you're doing that, you just, like, any find these opportunities."
+    },
+    {
+      "start": 2606.125,
+      "end": 2606.625,
+      "text": "Right?"
+    },
+    {
+      "start": 2611.005,
+      "end": 2615.005,
+      "text": "If it hits my stop, then I'll be, like, you know, looking at it."
+    },
+    {
+      "start": 2615.005,
+      "end": 2615.165,
+      "text": "Right?"
+    },
+    {
+      "start": 2615.165,
+      "end": 2616.305,
+      "text": "I need to cut it."
+    },
+    {
+      "start": 2619.01,
+      "end": 2621.49,
+      "text": "Again, same question you people keep asking."
+    },
+    {
+      "start": 2621.49,
+      "end": 2621.99,
+      "text": "Right?"
+    },
+    {
+      "start": 2623.49,
+      "end": 2629.99,
+      "text": "Generically, right, fee is what I like."
+    },
+    {
+      "start": 2635.995,
+      "end": 2636.495,
+      "text": "Right?"
+    },
+    {
+      "start": 2640.235,
+      "end": 2641.535,
+      "text": "Think of it like this."
+    },
+    {
+      "start": 2641.675,
+      "end": 2650.5498,
+      "text": "If I go on a date, I want to start kissing the girl as early as possible in the date."
+    },
+    {
+      "start": 2653.49,
+      "end": 2653.99,
+      "text": "Right?"
+    },
+    {
+      "start": 2654.2898,
+      "end": 2657.8298,
+      "text": "This is this why is this fee important?"
+    },
+    {
+      "start": 2659.49,
+      "end": 2659.8098,
+      "text": "Yeah."
+    },
+    {
+      "start": 2659.8098,
+      "end": 2663.025,
+      "text": "Some of the stock, trades are going to fade on you."
+    },
+    {
+      "start": 2663.265,
+      "end": 2668.325,
+      "text": "But over a sample of 100 trades, fee is always going to be an advantage in life."
+    },
+    {
+      "start": 2668.785,
+      "end": 2669.285,
+      "text": "Right?"
+    },
+    {
+      "start": 2669.585,
+      "end": 2670.9648,
+      "text": "Fee is a life advantage."
+    },
+    {
+      "start": 2671.7449,
+      "end": 2682.6501,
+      "text": "Like, in a it's just like in a if you just think through, it's like in a that is the biggest advantage, in, life."
+    },
+    {
+      "start": 2682.6501,
+      "end": 2682.8901,
+      "text": "Right?"
+    },
+    {
+      "start": 2682.8901,
+      "end": 2688.01,
+      "text": "And to be first writer, basically, or, like, in a entering early."
+    },
+    {
+      "start": 2688.01,
+      "end": 2688.51,
+      "text": "Right?"
+    },
+    {
+      "start": 2688.6501,
+      "end": 2688.97,
+      "text": "Yeah."
+    },
+    {
+      "start": 2688.97,
+      "end": 2694.685,
+      "text": "Some of them are going to fade on you, but, like, in a it's, it's the one which works compensate for the one which fades."
+    },
+    {
+      "start": 2694.685,
+      "end": 2695.185,
+      "text": "Right?"
+    },
+    {
+      "start": 2695.485,
+      "end": 2697.9448,
+      "text": "So there is always a right at it."
+    },
+    {
+      "start": 2698.525,
+      "end": 2702.205,
+      "text": "And that's what, like, in a so fee, these are tactics."
+    },
+    {
+      "start": 2702.205,
+      "end": 2702.445,
+      "text": "Right?"
+    },
+    {
+      "start": 2702.445,
+      "end": 2704.365,
+      "text": "And this is fee is not a strategy."
+    },
+    {
+      "start": 2704.365,
+      "end": 2705.085,
+      "text": "It's a tactic."
+    },
+    {
+      "start": 2705.085,
+      "end": 2705.405,
+      "text": "Right?"
+    },
+    {
+      "start": 2705.405,
+      "end": 2710.13,
+      "text": "And which is like an there is a reason why you do it."
+    },
+    {
+      "start": 2710.13,
+      "end": 2710.6099,
+      "text": "Right?"
+    },
+    {
+      "start": 2710.6099,
+      "end": 2711.8298,
+      "text": "Or sell into strength."
+    },
+    {
+      "start": 2713.8098,
+      "end": 2714.45,
+      "text": "That's a tactic."
+    },
+    {
+      "start": 2714.45,
+      "end": 2714.77,
+      "text": "Right?"
+    },
+    {
+      "start": 2714.77,
+      "end": 2715.99,
+      "text": "Or do eighty twenty."
+    },
+    {
+      "start": 2716.21,
+      "end": 2717.19,
+      "text": "That's a tactic."
+    },
+    {
+      "start": 2717.5698,
+      "end": 2718.45,
+      "text": "Those are tactics."
+    },
+    {
+      "start": 2718.45,
+      "end": 2718.69,
+      "text": "Right?"
+    },
+    {
+      "start": 2718.69,
+      "end": 2721.73,
+      "text": "And those are tactics to for achieving certain purpose."
+    },
+    {
+      "start": 2721.73,
+      "end": 2721.89,
+      "text": "Right?"
+    },
+    {
+      "start": 2721.89,
+      "end": 2722.63,
+      "text": "And, basically."
+    },
+    {
+      "start": 2728.655,
+      "end": 2730.9749,
+      "text": "That's why I use mid price or limit orders."
+    },
+    {
+      "start": 2730.9749,
+      "end": 2731.4749,
+      "text": "Right?"
+    },
+    {
+      "start": 2732.015,
+      "end": 2734.355,
+      "text": "That's why I use mid price and limit order."
+    },
+    {
+      "start": 2734.7349,
+      "end": 2737.4548,
+      "text": "Mid price, limit order, that's the reason probably why you do it."
+    },
+    {
+      "start": 2737.4548,
+      "end": 2737.9548,
+      "text": "Right?"
+    },
+    {
+      "start": 2738.36,
+      "end": 2744.36,
+      "text": "You don't, like, gonna get into these high priced stocks, gunslinging, and, like, you know, go and do a market order."
+    },
+    {
+      "start": 2744.36,
+      "end": 2744.6,
+      "text": "No."
+    },
+    {
+      "start": 2744.6,
+      "end": 2745.56,
+      "text": "You watch them."
+    },
+    {
+      "start": 2745.56,
+      "end": 2747.32,
+      "text": "And you have the time to watch them."
+    },
+    {
+      "start": 2747.32,
+      "end": 2747.48,
+      "text": "Right?"
+    },
+    {
+      "start": 2747.48,
+      "end": 2752.28,
+      "text": "And you don't have to be, like, in a running into them and going and, like, in a this thing."
+    },
+    {
+      "start": 2752.28,
+      "end": 2752.44,
+      "text": "Right?"
+    },
+    {
+      "start": 2752.44,
+      "end": 2760.4148,
+      "text": "And you just see, wait for them, like, in a you see, once you identify them, it's not like and these are not sexy stocks."
+    },
+    {
+      "start": 2760.4148,
+      "end": 2760.655,
+      "text": "Right?"
+    },
+    {
+      "start": 2760.655,
+      "end": 2764.335,
+      "text": "And nobody's going to come and get excited about Lockheed Martin here."
+    },
+    {
+      "start": 2764.335,
+      "end": 2764.835,
+      "text": "Right?"
+    },
+    {
+      "start": 2765.2148,
+      "end": 2770.05,
+      "text": "How people are going to, like and at the moment, they don't even scan for this kind of stocks."
+    },
+    {
+      "start": 2770.27,
+      "end": 2786.405,
+      "text": "Almost all of the people who are, like, in a nowadays, of Scandinavian origin or who learned from Scandinavian guy, they don't even are going to scan for something like this because their filters are going to be, some ADR, ATR, and things like that."
+    },
+    {
+      "start": 2786.405,
+      "end": 2786.645,
+      "text": "Right?"
+    },
+    {
+      "start": 2786.645,
+      "end": 2790.325,
+      "text": "So how many people are going to be, like, excited about a breakout like this?"
+    },
+    {
+      "start": 2790.325,
+      "end": 2791.065,
+      "text": "Tell me."
+    },
+    {
+      "start": 2797.67,
+      "end": 2798.17,
+      "text": "Nobody."
+    },
+    {
+      "start": 2798.23,
+      "end": 2798.63,
+      "text": "Right?"
+    },
+    {
+      "start": 2798.63,
+      "end": 2802.73,
+      "text": "So, so that's the opportunity in the market, right, or here."
+    },
+    {
+      "start": 2802.87,
+      "end": 2806.07,
+      "text": "You get a 1.49% breakout."
+    },
+    {
+      "start": 2806.07,
+      "end": 2806.545,
+      "text": "Right?"
+    },
+    {
+      "start": 2807.025,
+      "end": 2809.4448,
+      "text": "So you're risking around, like, any $6."
+    },
+    {
+      "start": 2809.7449,
+      "end": 2813.1848,
+      "text": "And in three to four days, it makes 13 to $14."
+    },
+    {
+      "start": 2813.1848,
+      "end": 2813.505,
+      "text": "Right?"
+    },
+    {
+      "start": 2813.505,
+      "end": 2815.265,
+      "text": "So, think about it."
+    },
+    {
+      "start": 2815.265,
+      "end": 2820.0,
+      "text": "We are to it means all these things unless you think about it, it doesn't make sense."
+    },
+    {
+      "start": 2820.0,
+      "end": 2821.36,
+      "text": "You get a 1% breakout."
+    },
+    {
+      "start": 2821.36,
+      "end": 2821.6,
+      "text": "Right?"
+    },
+    {
+      "start": 2821.6,
+      "end": 2826.72,
+      "text": "And I shots on this kind of high priced stocks, you get 2% risk."
+    },
+    {
+      "start": 2826.72,
+      "end": 2835.315,
+      "text": "If you are saying that I want to, find opportunities with 2.5% or less risk, Can you find them in the kind of stock?"
+    },
+    {
+      "start": 2835.315,
+      "end": 2844.535,
+      "text": "Can you find a 2.5% or less kind of an opportunity, in a hot stock like SND care unless you go on a lower time frame."
+    },
+    {
+      "start": 2844.675,
+      "end": 2854.3801,
+      "text": "And that also because SNDK is high price this principle, this FHP as a strategy works very well on a, lower time frame as a day trade also."
+    },
+    {
+      "start": 2854.3801,
+      "end": 2854.7002,
+      "text": "Right?"
+    },
+    {
+      "start": 2854.7002,
+      "end": 2865.645,
+      "text": "And, basically, because you can find a 2.5% or less kind of a stop on a lower time frame on SNDK, and the reason why is because it's high priced stocks."
+    },
+    {
+      "start": 2865.645,
+      "end": 2868.5251,
+      "text": "So this breakout is point 81%."
+    },
+    {
+      "start": 2868.5251,
+      "end": 2871.485,
+      "text": "If you have five dollar stock, this breakout will be 4%."
+    },
+    {
+      "start": 2871.485,
+      "end": 2871.985,
+      "text": "Right?"
+    },
+    {
+      "start": 2874.685,
+      "end": 2880.54,
+      "text": "So you're going to find this kind of opportunity even on a high price stock intraday."
+    },
+    {
+      "start": 2880.54,
+      "end": 2884.7,
+      "text": "So once you understand the logic, I mean, it's you have to understand the logic."
+    },
+    {
+      "start": 2884.7,
+      "end": 2885.02,
+      "text": "Okay."
+    },
+    {
+      "start": 2885.02,
+      "end": 2886.38,
+      "text": "Look and that's the thing."
+    },
+    {
+      "start": 2886.38,
+      "end": 2886.88,
+      "text": "Right?"
+    },
+    {
+      "start": 2891.165,
+      "end": 2894.925,
+      "text": "Miss crowd, does this really look like a breakout to you?"
+    },
+    {
+      "start": 2894.925,
+      "end": 2897.085,
+      "text": "Does this look like a range expansion to you?"
+    },
+    {
+      "start": 2897.085,
+      "end": 2900.365,
+      "text": "Like, any the stock is not closing near the high."
+    },
+    {
+      "start": 2900.365,
+      "end": 2903.0698,
+      "text": "It just looks like in a consolidation only."
+    },
+    {
+      "start": 2903.0698,
+      "end": 2903.23,
+      "text": "Right?"
+    },
+    {
+      "start": 2903.23,
+      "end": 2909.63,
+      "text": "And so, means, like and I don't want to, just get there is gapped up."
+    },
+    {
+      "start": 2909.63,
+      "end": 2909.8699,
+      "text": "Right?"
+    },
+    {
+      "start": 2909.8699,
+      "end": 2914.5898,
+      "text": "And there's no need to get involved in something where the I don't I'm not very comfortable."
+    },
+    {
+      "start": 2914.5898,
+      "end": 2914.8298,
+      "text": "Right?"
+    },
+    {
+      "start": 2914.8298,
+      "end": 2917.885,
+      "text": "And, basically, It doesn't look like a range expansion also."
+    },
+    {
+      "start": 2917.885,
+      "end": 2918.125,
+      "text": "Right?"
+    },
+    {
+      "start": 2918.125,
+      "end": 2933.8699,
+      "text": "So why would I get involved in something which does Non US players and all."
+    },
+    {
+      "start": 2933.8699,
+      "end": 2943.07,
+      "text": "I frankly don't know why, it's like an I don't really have understanding of your market, so, find something which will work for you."
+    },
+    {
+      "start": 2943.07,
+      "end": 2947.975,
+      "text": "There are many I have given you n number of ways to make money."
+    },
+    {
+      "start": 2947.975,
+      "end": 2948.215,
+      "text": "Right?"
+    },
+    {
+      "start": 2948.215,
+      "end": 2950.695,
+      "text": "And, basically, you can, like, trade ships."
+    },
+    {
+      "start": 2950.695,
+      "end": 2954.215,
+      "text": "You can trade, like, in a low price stock, high price stock."
+    },
+    {
+      "start": 2954.215,
+      "end": 2956.5352,
+      "text": "You can trade, like, in a momentum stock."
+    },
+    {
+      "start": 2956.5352,
+      "end": 2958.215,
+      "text": "So decide what works for you."
+    },
+    {
+      "start": 2958.215,
+      "end": 2958.715,
+      "text": "Right?"
+    },
+    {
+      "start": 2962.3198,
+      "end": 2963.04,
+      "text": "Why I choose?"
+    },
+    {
+      "start": 2963.04,
+      "end": 2966.66,
+      "text": "Because, you want to see a momentum, right, from the open."
+    },
+    {
+      "start": 2967.28,
+      "end": 2969.3,
+      "text": "You want to see a momentum from the open."
+    },
+    {
+      "start": 2970.48,
+      "end": 2979.7048,
+      "text": "If a stock gaps up and it starts fading, it is still going to show you, right, in a start, which is like this, today."
+    },
+    {
+      "start": 2979.7048,
+      "end": 2980.2048,
+      "text": "Right?"
+    },
+    {
+      "start": 2981.785,
+      "end": 2986.8,
+      "text": "It's still if it gaps up and it starts fading, you're still going to see it in your scan."
+    },
+    {
+      "start": 2986.8,
+      "end": 2987.12,
+      "text": "Right?"
+    },
+    {
+      "start": 2987.12,
+      "end": 2991.6401,
+      "text": "And then you're still seeing it, but it's not like in a basically, or like in a for that matter."
+    },
+    {
+      "start": 2992.08,
+      "end": 2998.32,
+      "text": "While, when you specify dollar, it's only going to show you stocks, which are like in a meeting your criteria."
+    },
+    {
+      "start": 2998.32,
+      "end": 2998.82,
+      "text": "Right?"
+    },
+    {
+      "start": 2999.565,
+      "end": 3000.285,
+      "text": "It doesn't matter."
+    },
+    {
+      "start": 3000.285,
+      "end": 3000.525,
+      "text": "Right?"
+    },
+    {
+      "start": 3000.525,
+      "end": 3004.145,
+      "text": "And you can play around with the scan if you don't if you don't like anything."
+    },
+    {
+      "start": 3009.165,
+      "end": 3009.405,
+      "text": "Right?"
+    },
+    {
+      "start": 3009.405,
+      "end": 3016.22,
+      "text": "Anything which has triple ETF and all is not going to be the kind of stocks which you want to trade with the FHP as a strategy."
+    },
+    {
+      "start": 3016.28,
+      "end": 3016.6,
+      "text": "Right?"
+    },
+    {
+      "start": 3016.6,
+      "end": 3018.12,
+      "text": "Because these stocks yeah."
+    },
+    {
+      "start": 3018.12,
+      "end": 3019.74,
+      "text": "Microsoft, I can understand."
+    },
+    {
+      "start": 3019.8,
+      "end": 3027.4001,
+      "text": "But, like, in a something which is, like, in a very popular stock, it doesn't make sense, like, in a really getting into."
+    },
+    {
+      "start": 3027.4001,
+      "end": 3027.56,
+      "text": "Right?"
+    },
+    {
+      "start": 3027.56,
+      "end": 3031.0752,
+      "text": "And if I get into Microsoft, it's 7% risk with the double."
+    },
+    {
+      "start": 3031.0752,
+      "end": 3031.235,
+      "text": "Right?"
+    },
+    {
+      "start": 3031.235,
+      "end": 3034.595,
+      "text": "And so it defeats my purpose of having, this thing."
+    },
+    {
+      "start": 3034.595,
+      "end": 3034.8352,
+      "text": "Right?"
+    },
+    {
+      "start": 3034.8352,
+      "end": 3046.1602,
+      "text": "And I I made that mistake that day on Nvidia, and I realized that mistake, on that day instead of, I had a position in Nvidia, and I took, like, in a proxy Nvidia."
+    },
+    {
+      "start": 3046.62,
+      "end": 3054.62,
+      "text": "But if I'd instead of putting the money in Nvidia, if I'd put the same amount, like, I could have gone, completely in Nvidia itself."
+    },
+    {
+      "start": 3054.62,
+      "end": 3057.84,
+      "text": "I would have made more money, right, and basically so dollar terms."
+    },
+    {
+      "start": 3062.115,
+      "end": 3063.4749,
+      "text": "Managing stops is same."
+    },
+    {
+      "start": 3063.4749,
+      "end": 3063.795,
+      "text": "Right?"
+    },
+    {
+      "start": 3063.795,
+      "end": 3065.395,
+      "text": "You put a stop at low of the day."
+    },
+    {
+      "start": 3065.395,
+      "end": 3065.555,
+      "text": "Right?"
+    },
+    {
+      "start": 3065.555,
+      "end": 3072.115,
+      "text": "And, basically so there is nothing we like, you're not looking at intraday or, like, you're not looking five minute and things like that."
+    },
+    {
+      "start": 3072.115,
+      "end": 3072.615,
+      "text": "Right?"
+    },
+    {
+      "start": 3076.6602,
+      "end": 3087.125,
+      "text": "So this is a strategy for those of you who can think for yourself and who can, like, any do some deep dive and look at."
+    },
+    {
+      "start": 3087.125,
+      "end": 3092.2449,
+      "text": "And those of you who really want to, like, kinda find this, piece in life."
+    },
+    {
+      "start": 3092.2449,
+      "end": 3092.565,
+      "text": "Right?"
+    },
+    {
+      "start": 3092.565,
+      "end": 3097.865,
+      "text": "And not like in a the doing something like sieves, story stock, biotech."
+    },
+    {
+      "start": 3098.7249,
+      "end": 3101.7102,
+      "text": "This is like in a this is a very fast cape."
+    },
+    {
+      "start": 3101.7102,
+      "end": 3101.87,
+      "text": "Right?"
+    },
+    {
+      "start": 3101.87,
+      "end": 3105.33,
+      "text": "And I it's there's a lot of money in it, but it's a different skill."
+    },
+    {
+      "start": 3105.3901,
+      "end": 3112.4302,
+      "text": "It's like an you need to be really fit in terms of trading, like, you need to be on top of those things."
+    },
+    {
+      "start": 3112.4302,
+      "end": 3112.9302,
+      "text": "Right?"
+    },
+    {
+      "start": 3113.07,
+      "end": 3118.025,
+      "text": "This is for those of you who are, like, in a into a different zone."
+    },
+    {
+      "start": 3118.965,
+      "end": 3119.465,
+      "text": "Right?"
+    },
+    {
+      "start": 3119.7651,
+      "end": 3126.905,
+      "text": "The kind of people who are, like, in a go and buy food organic."
+    },
+    {
+      "start": 3127.045,
+      "end": 3130.2651,
+      "text": "You look for on the label, does it say organic chicken?"
+    },
+    {
+      "start": 3130.45,
+      "end": 3133.27,
+      "text": "Not only organic, but it was also free range."
+    },
+    {
+      "start": 3133.57,
+      "end": 3137.43,
+      "text": "You go to these stores like in a whole food market."
+    },
+    {
+      "start": 3137.73,
+      "end": 3140.3901,
+      "text": "You like in a don't use a soap."
+    },
+    {
+      "start": 3140.85,
+      "end": 3146.195,
+      "text": "You use some Australian goat milk, bar."
+    },
+    {
+      "start": 3147.5352,
+      "end": 3153.375,
+      "text": "You're like in a drink some, herbal tea, or, like, any things like that."
+    },
+    {
+      "start": 3153.375,
+      "end": 3153.615,
+      "text": "Right?"
+    },
+    {
+      "start": 3153.615,
+      "end": 3167.25,
+      "text": "And, basically means most this is a good strategy for most women, especially the European kinds who stay in US."
+    },
+    {
+      "start": 3178.895,
+      "end": 3187.06,
+      "text": "And there are enough trades in this to find opportunities because, it's not like, you know, something where you are going to have shortage of opportunities."
+    },
+    {
+      "start": 3187.2,
+      "end": 3187.7,
+      "text": "Okay?"
+    },
+    {
+      "start": 3188.0,
+      "end": 3190.98,
+      "text": "So any question related to FHP, right, in a FHP?"
+    },
+    {
+      "start": 3191.68,
+      "end": 3195.62,
+      "text": "I also did a video about FHP at the beginning of the year sometime back."
+    },
+    {
+      "start": 3196.64,
+      "end": 3206.195,
+      "text": "I think, Shankar wrote some summary of it somewhere I see, like, an there must be some FHP video earlier also."
+    },
+    {
+      "start": 3206.195,
+      "end": 3206.695,
+      "text": "Right?"
+    },
+    {
+      "start": 3208.835,
+      "end": 3234.335,
+      "text": "If you want to focus on finding more anticipation in FHP, what I do is, like and in the morning, when I'm going through my delayed reaction and just sort it by price and just look for stocks top 100 or 300 stocks because if something is setting up, then, it makes your entry even better."
+    },
+    {
+      "start": 3234.335,
+      "end": 3234.575,
+      "text": "Right?"
+    },
+    {
+      "start": 3234.575,
+      "end": 3241.155,
+      "text": "And, basically, so that's how, like, you know, you can find more opportunities in the high priced stocks."
+    },
+    {
+      "start": 3244.095,
+      "end": 3244.595,
+      "text": "Right."
+    },
+    {
+      "start": 3248.12,
+      "end": 3248.62,
+      "text": "Explore."
+    },
+    {
+      "start": 3248.76,
+      "end": 3255.8,
+      "text": "This is a, option for working people, option for those who buy at 04:00 or, like, 03:58 or something like that."
+    },
+    {
+      "start": 3255.8,
+      "end": 3256.04,
+      "text": "Right?"
+    },
+    {
+      "start": 3256.04,
+      "end": 3262.875,
+      "text": "And then you get, like, any of this kind of records, which are, like, in a 2%, $17 risk kind of a thing."
+    },
+    {
+      "start": 3262.875,
+      "end": 3263.2349,
+      "text": "Right?"
+    },
+    {
+      "start": 3263.2349,
+      "end": 3268.155,
+      "text": "And, again, the quality of setup in terms of tightness before setup and all those are given."
+    },
+    {
+      "start": 3268.155,
+      "end": 3268.395,
+      "text": "Right?"
+    },
+    {
+      "start": 3268.395,
+      "end": 3269.5352,
+      "text": "And that's always good."
+    },
+    {
+      "start": 3271.7551,
+      "end": 3278.0498,
+      "text": "Shorts also, I like especially for shots, it gives you a lot of low risk kind of sorting opportunities."
+    },
+    {
+      "start": 3278.0498,
+      "end": 3280.47,
+      "text": "So I like shorting high priced stocks."
+    },
+    {
+      "start": 3280.5298,
+      "end": 3281.89,
+      "text": "Generally, I like high priced stocks."
+    },
+    {
+      "start": 3281.89,
+      "end": 3282.0498,
+      "text": "Right?"
+    },
+    {
+      "start": 3282.0498,
+      "end": 3287.8098,
+      "text": "You know, basically, that's like in a my focus."
+    },
+    {
+      "start": 3287.8098,
+      "end": 3291.75,
+      "text": "I don't really get involved in this low priced stocks, much."
+    },
+    {
+      "start": 3293.2449,
+      "end": 3293.7449,
+      "text": "Right."
+    },
+    {
+      "start": 3295.2449,
+      "end": 3295.9849,
+      "text": "Any questions?"
+    },
+    {
+      "start": 3303.005,
+      "end": 3303.825,
+      "text": "No question."
+    },
+    {
+      "start": 3306.42,
+      "end": 3306.74,
+      "text": "Yeah."
+    },
+    {
+      "start": 3306.74,
+      "end": 3309.8,
+      "text": "Means for a day trading also, I had a variation of this."
+    },
+    {
+      "start": 3310.02,
+      "end": 3326.245,
+      "text": "I don't day trade nowadays, but when I used to do, I had this variation of this where I used to focus on stocks, which were up $3 plus, right, from the open and 300 k plus volume in the first fifteen minutes."
+    },
+    {
+      "start": 3329.1052,
+      "end": 3340.31,
+      "text": "Because if some stock is up $3 plus on 300 k volume in the first fifteen minutes, what is going to have is during the day, it is at least going to have a range of 6 to $10."
+    },
+    {
+      "start": 3340.31,
+      "end": 3340.81,
+      "text": "Right?"
+    },
+    {
+      "start": 3341.27,
+      "end": 3347.99,
+      "text": "So if it is going to have a range of 6 to $210, if I can find a low risk country, I can make couple of dollars."
+    },
+    {
+      "start": 3347.99,
+      "end": 3348.49,
+      "text": "Right?"
+    },
+    {
+      "start": 3348.845,
+      "end": 3353.6448,
+      "text": "So three by 300 was a strategy which I traded, when I was young."
+    },
+    {
+      "start": 3353.6448,
+      "end": 3353.805,
+      "text": "Right?"
+    },
+    {
+      "start": 3353.805,
+      "end": 3366.03,
+      "text": "And, basically Again, it's like an iterate FHP as a strategy."
+    },
+    {
+      "start": 3366.25,
+      "end": 3371.37,
+      "text": "Don't confuse it with, like, an Sugar Babies and all the other things."
+    },
+    {
+      "start": 3371.37,
+      "end": 3371.61,
+      "text": "Right?"
+    },
+    {
+      "start": 3371.61,
+      "end": 3377.23,
+      "text": "And the the moment you get into Sugar Babies, it defeats the very purpose of FHP."
+    },
+    {
+      "start": 3377.8252,
+      "end": 3378.3252,
+      "text": "Right?"
+    },
+    {
+      "start": 3379.1052,
+      "end": 3384.5652,
+      "text": "Because the moment you get into Sugarbabies, you're talking about highly volatile stock."
+    },
+    {
+      "start": 3385.985,
+      "end": 3389.185,
+      "text": "So there, if it's a different world."
+    },
+    {
+      "start": 3389.185,
+      "end": 3389.425,
+      "text": "Right?"
+    },
+    {
+      "start": 3389.425,
+      "end": 3392.945,
+      "text": "And it's a very high risk kind of a explosive moves kind of thing."
+    },
+    {
+      "start": 3392.945,
+      "end": 3393.445,
+      "text": "Right?"
+    },
+    {
+      "start": 3397.18,
+      "end": 3397.5,
+      "text": "Okay."
+    },
+    {
+      "start": 3397.5,
+      "end": 3398.72,
+      "text": "So that's the thing."
+    },
+    {
+      "start": 3402.22,
+      "end": 3404.5598,
+      "text": "The good material about day trading and scalping."
+    },
+    {
+      "start": 3407.395,
+      "end": 3408.515,
+      "text": "I'm not a day trader."
+    },
+    {
+      "start": 3408.515,
+      "end": 3408.6748,
+      "text": "Right?"
+    },
+    {
+      "start": 3408.6748,
+      "end": 3420.75,
+      "text": "And I that's not something which, I would be, confident, like, any talking about, but, like, any I would say that there are some good videos on day trading that people had told me that, they found them very useful."
+    },
+    {
+      "start": 3420.91,
+      "end": 3421.07,
+      "text": "Right?"
+    },
+    {
+      "start": 3421.07,
+      "end": 3424.93,
+      "text": "And, basically, and that is, day trading here."
+    },
+    {
+      "start": 3425.87,
+      "end": 3426.37,
+      "text": "Right?"
+    },
+    {
+      "start": 3431.15,
+      "end": 3435.57,
+      "text": "Make money at least for us how to make money using one day moment or making money using dollar scale."
+    },
+    {
+      "start": 3436.245,
+      "end": 3436.745,
+      "text": "Right."
+    },
+    {
+      "start": 3439.205,
+      "end": 3447.125,
+      "text": "So there's no need to exclude sugar babies from FHP."
+    },
+    {
+      "start": 3447.125,
+      "end": 3447.3652,
+      "text": "Right?"
+    },
+    {
+      "start": 3447.3652,
+      "end": 3452.3599,
+      "text": "And you're looking for, 1%, two percent's, breakout."
+    },
+    {
+      "start": 3452.3599,
+      "end": 3452.52,
+      "text": "Right?"
+    },
+    {
+      "start": 3452.52,
+      "end": 3457.88,
+      "text": "And when you're looking for 1%, 2% breakout, you're automatically not going to find those kind of stocks."
+    },
+    {
+      "start": 3457.88,
+      "end": 3458.1199,
+      "text": "Right?"
+    },
+    {
+      "start": 3458.1199,
+      "end": 3460.1199,
+      "text": "And you're gonna find only these boring stocks."
+    },
+    {
+      "start": 3460.1199,
+      "end": 3460.6199,
+      "text": "Right?"
+    },
+    {
+      "start": 3460.76,
+      "end": 3462.935,
+      "text": "You don't have to do anything special to do that."
+    },
+    {
+      "start": 3462.935,
+      "end": 3463.175,
+      "text": "Right?"
+    },
+    {
+      "start": 3463.175,
+      "end": 3466.715,
+      "text": "And here, comments breaks out with 2.207%."
+    },
+    {
+      "start": 3468.0552,
+      "end": 3468.5552,
+      "text": "Correct?"
+    },
+    {
+      "start": 3476.5298,
+      "end": 3477.0298,
+      "text": "Okay."
+    },
+    {
+      "start": 3477.17,
+      "end": 3479.8298,
+      "text": "I will see some of you people tomorrow."
+    },
+    {
+      "start": 3481.01,
+      "end": 3498.445,
+      "text": "And, I highly recommend if you are going to try attempting this, go through the top 300 stocks by price and look at Mark SLS, see where what was the percentage moves, what is the percentage, how many days the move last and all."
+    },
+    {
+      "start": 3498.445,
+      "end": 3502.225,
+      "text": "There is nothing like that, which is unless you can do write an intro."
+    },
+    {
+      "start": 3504.4302,
+      "end": 3504.6702,
+      "text": "Yeah."
+    },
+    {
+      "start": 3504.6702,
+      "end": 3508.6702,
+      "text": "I would take a trade, which is a four see, these are all different methods."
+    },
+    {
+      "start": 3508.6702,
+      "end": 3511.01,
+      "text": "I would take a 4% breakout."
+    },
+    {
+      "start": 3511.47,
+      "end": 3513.3901,
+      "text": "I'll take a dollar breakout."
+    },
+    {
+      "start": 3513.3901,
+      "end": 3513.6301,
+      "text": "Right?"
+    },
+    {
+      "start": 3513.6301,
+      "end": 3516.9102,
+      "text": "And, basically, the risk and how much money I can put in varies."
+    },
+    {
+      "start": 3516.9102,
+      "end": 3517.1501,
+      "text": "Right?"
+    },
+    {
+      "start": 3517.1501,
+      "end": 3518.565,
+      "text": "And I will take a EP nine."
+    },
+    {
+      "start": 3518.805,
+      "end": 3520.025,
+      "text": "I'll take a DEP."
+    },
+    {
+      "start": 3520.4849,
+      "end": 3522.085,
+      "text": "I'll take a ants."
+    },
+    {
+      "start": 3522.085,
+      "end": 3523.305,
+      "text": "Anything I will take."
+    },
+    {
+      "start": 3523.685,
+      "end": 3526.805,
+      "text": "It's only, like, anywhere can I put in lot of money at risk?"
+    },
+    {
+      "start": 3526.805,
+      "end": 3527.305,
+      "text": "Right?"
+    },
+    {
+      "start": 3528.085,
+      "end": 3539.29,
+      "text": "If something is gaps of 50% and it is up 70% for the day, and if I'm buying it, can I put in, like, in a lot more at risk, or can I put in, more on FHP?"
+    },
+    {
+      "start": 3539.29,
+      "end": 3539.6902,
+      "text": "Right?"
+    },
+    {
+      "start": 3539.6902,
+      "end": 3540.59,
+      "text": "That's the thing."
+    },
+    {
+      "start": 3543.4502,
+      "end": 3547.31,
+      "text": "Very few biotechs are going to make it to FHP."
+    },
+    {
+      "start": 3547.4502,
+      "end": 3547.6902,
+      "text": "Right?"
+    },
+    {
+      "start": 3547.6902,
+      "end": 3555.905,
+      "text": "The only biotech which will make it to FHP will be probably BIIB, which anyway is a institutional quality real biotech."
+    },
+    {
+      "start": 3555.905,
+      "end": 3556.145,
+      "text": "Right?"
+    },
+    {
+      "start": 3556.145,
+      "end": 3563.52,
+      "text": "And that's the only I think, and there are only two real, probably biotech or, Amaja, Amgen or Gilead Science."
+    },
+    {
+      "start": 3564.24,
+      "end": 3565.92,
+      "text": "These are like an established companies."
+    },
+    {
+      "start": 3565.92,
+      "end": 3567.36,
+      "text": "They are not like any flop."
+    },
+    {
+      "start": 3567.36,
+      "end": 3567.6,
+      "text": "Right?"
+    },
+    {
+      "start": 3567.6,
+      "end": 3578.24,
+      "text": "And they are not, something which is like in a complete, I we give patients in Brazil some drug, and they develop six packs in six weeks kind of stocks."
+    },
+    {
+      "start": 3578.24,
+      "end": 3578.74,
+      "text": "Right?"
+    },
+    {
+      "start": 3578.895,
+      "end": 3582.175,
+      "text": "So here, like, you know, you see this perfect example."
+    },
+    {
+      "start": 3582.175,
+      "end": 3582.675,
+      "text": "Right?"
+    },
+    {
+      "start": 3582.735,
+      "end": 3587.615,
+      "text": "One point seven two percent, breakout, and it makes a move of $10."
+    },
+    {
+      "start": 3587.615,
+      "end": 3588.115,
+      "text": "Right?"
+    },
+    {
+      "start": 3589.135,
+      "end": 3589.635,
+      "text": "Yeah."
+    },
+    {
+      "start": 3595.5498,
+      "end": 3595.71,
+      "text": "Yeah."
+    },
+    {
+      "start": 3595.71,
+      "end": 3596.21,
+      "text": "Okay."
+    },
+    {
+      "start": 3597.0698,
+      "end": 3598.45,
+      "text": "I will see you people."
+    },
+    {
+      "start": 3598.5898,
+      "end": 3601.95,
+      "text": "Don't keep asking me when will the video of this will be loaded."
+    },
+    {
+      "start": 3601.95,
+      "end": 3602.19,
+      "text": "Right?"
+    },
+    {
+      "start": 3602.19,
+      "end": 3617.1748,
+      "text": "On the when I do these videos after 03:00 and all, like, in a they go into some black hole sometimes, and then, it takes time to load them, but they'll be loaded at some stage."
+    },
+    {
+      "start": 3617.1748,
+      "end": 3617.6748,
+      "text": "Right?"
+    },
+    {
+      "start": 3624.8901,
+      "end": 3632.9102,
+      "text": "When the Iranian decide to allow all ships to go through, right, and I that's when the video will be, uploaded."
+    },
+    {
+      "start": 3632.97,
+      "end": 3633.47,
+      "text": "Right?"
+    }
+  ],
+  "language": "en",
+  "backend": "deepgram"
+}

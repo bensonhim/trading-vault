@@ -1,0 +1,2411 @@
+{
+  "segments": [
+    {
+      "start": 39.43,
+      "end": 39.75,
+      "text": "Okay."
+    },
+    {
+      "start": 39.75,
+      "end": 46.505,
+      "text": "I think there's some confusion because when I did the link by mistake, I made it Monday, but it is Saturday."
+    },
+    {
+      "start": 46.565,
+      "end": 46.805,
+      "text": "Right?"
+    },
+    {
+      "start": 46.805,
+      "end": 48.585,
+      "text": "And I changed that just now."
+    },
+    {
+      "start": 48.885,
+      "end": 55.705,
+      "text": "So let's give people a couple of minutes in case they want to come, and then we will start."
+    },
+    {
+      "start": 79.205,
+      "end": 79.705,
+      "text": "Okay."
+    },
+    {
+      "start": 79.765,
+      "end": 101.365,
+      "text": "So, basically, if, you're looking at, the four one k kind of longer term investment kind of thing, the best time to, get invested is when the market is weak or the one of the indicator which tell you the market is weak is thirty two one zero eight."
+    },
+    {
+      "start": 101.365,
+      "end": 126.575,
+      "text": "The t two one zero eight is basically a warden proprietary indicator, which looks at percentage of stocks above forty day price moving average and which is basically looking at the NYC stock, which are percentage of a forty day moving average."
+    },
+    {
+      "start": 126.575,
+      "end": 129.715,
+      "text": "Now, obviously, you can also do this for all stocks."
+    },
+    {
+      "start": 130.33499,
+      "end": 145.47,
+      "text": "And if you want to do it for all stocks, all that you like to do is like and you like to means, like, can you basically, create some sort of a scan, right, which you can create your own, like, an s, this thing you can create."
+    },
+    {
+      "start": 146.25,
+      "end": 147.39001,
+      "text": "So US stocks."
+    },
+    {
+      "start": 148.17001,
+      "end": 148.41,
+      "text": "Right?"
+    },
+    {
+      "start": 148.41,
+      "end": 149.31001,
+      "text": "Nothing else."
+    },
+    {
+      "start": 149.85,
+      "end": 164.21501,
+      "text": "Use common stocks and add a condition and right formula saying that c is above average c 40."
+    },
+    {
+      "start": 164.94,
+      "end": 167.9,
+      "text": "So if you create something like this, it will be for all stocks."
+    },
+    {
+      "start": 167.9,
+      "end": 168.14,
+      "text": "Right?"
+    },
+    {
+      "start": 168.14,
+      "end": 197.95,
+      "text": "And when you create something like this, what you are going to get is you're going to get, We create something like this."
+    },
+    {
+      "start": 197.95,
+      "end": 206.55501,
+      "text": "If we create, what you get is for others all the time."
+    },
+    {
+      "start": 207.015,
+      "end": 212.875,
+      "text": "You get 1,310 stocks, which are above forty day moving average."
+    },
+    {
+      "start": 215.49,
+      "end": 216.61,
+      "text": "I've received 40."
+    },
+    {
+      "start": 216.61,
+      "end": 216.93,
+      "text": "Right?"
+    },
+    {
+      "start": 216.93,
+      "end": 218.79,
+      "text": "And so that's what you get."
+    },
+    {
+      "start": 219.17,
+      "end": 223.25,
+      "text": "And then what you have to look at is the total stocks."
+    },
+    {
+      "start": 223.25,
+      "end": 227.35,
+      "text": "So total stocks are 6,403."
+    },
+    {
+      "start": 228.20999,
+      "end": 240.305,
+      "text": "So six four zero three divided by what is the number of stocks here?"
+    },
+    {
+      "start": 248.81999,
+      "end": 250.04,
+      "text": "One three one zero."
+    },
+    {
+      "start": 256.435,
+      "end": 262.615,
+      "text": "So you're looking, just a very good way to say."
+    },
+    {
+      "start": 266.595,
+      "end": 268.775,
+      "text": "One three one zero divided by?"
+    },
+    {
+      "start": 269.07,
+      "end": 280.03,
+      "text": "So you're looking at around 80% of the stocks are below their forty day moving average because this is 20%."
+    },
+    {
+      "start": 280.03,
+      "end": 280.27002,
+      "text": "Right?"
+    },
+    {
+      "start": 280.27002,
+      "end": 285.495,
+      "text": "So if this is 20%, that means 80% of the stocks are below their forty day moving average."
+    },
+    {
+      "start": 287.395,
+      "end": 289.715,
+      "text": "And you can do this multiple ways."
+    },
+    {
+      "start": 290.035,
+      "end": 294.695,
+      "text": "And if I had to rework the market monitor, I would do something like this."
+    },
+    {
+      "start": 295.555,
+      "end": 300.71,
+      "text": "And I would like just create series of ratios like this, average c 20."
+    },
+    {
+      "start": 300.71,
+      "end": 300.95,
+      "text": "Right?"
+    },
+    {
+      "start": 300.95,
+      "end": 304.23,
+      "text": "And if you look at average c 20, you'll get a faster signal."
+    },
+    {
+      "start": 304.23,
+      "end": 304.47,
+      "text": "Right?"
+    },
+    {
+      "start": 304.47,
+      "end": 305.66998,
+      "text": "And it kind of thing."
+    },
+    {
+      "start": 305.66998,
+      "end": 314.445,
+      "text": "So you can do five day, twenty days, and also, as you can see here, then it is, like, in a 1280 and things like that you can create."
+    },
+    {
+      "start": 314.445,
+      "end": 314.765,
+      "text": "Right?"
+    },
+    {
+      "start": 314.765,
+      "end": 321.42502,
+      "text": "And, obviously, creating this kind of models is easy, but historical data is what you need to write."
+    },
+    {
+      "start": 321.97998,
+      "end": 332.63998,
+      "text": "So you get 80% of the stocks currently are basically so 80% if you look at the total market."
+    },
+    {
+      "start": 333.74,
+      "end": 345.605,
+      "text": "But the most important stocks in the market, that is why the, that time when Wharton created these indicators, this was like an the Wharton, brothers is a old company."
+    },
+    {
+      "start": 345.605,
+      "end": 345.845,
+      "text": "Right?"
+    },
+    {
+      "start": 345.845,
+      "end": 355.6,
+      "text": "And the Wharton brothers have been around since I think and when was the Wadden Brothers started?"
+    },
+    {
+      "start": 362.53998,
+      "end": 363.81998,
+      "text": "1991."
+    },
+    {
+      "start": 363.81998,
+      "end": 364.31998,
+      "text": "Right?"
+    },
+    {
+      "start": 365.615,
+      "end": 366.57498,
+      "text": "I think so."
+    },
+    {
+      "start": 366.57498,
+      "end": 367.715,
+      "text": "Or something like that."
+    },
+    {
+      "start": 369.055,
+      "end": 370.735,
+      "text": "Nineteen eighty eight nineteen eighty eight."
+    },
+    {
+      "start": 370.735,
+      "end": 370.975,
+      "text": "Right?"
+    },
+    {
+      "start": 370.975,
+      "end": 374.275,
+      "text": "And at that time, Nasdaq was not such a big market."
+    },
+    {
+      "start": 374.495,
+      "end": 377.155,
+      "text": "So 1988 is when, they started."
+    },
+    {
+      "start": 377.66998,
+      "end": 391.50998,
+      "text": "So and that time, the whole, thing was dominated by these, market breadth indicators like mac Macmillan in, summation index and, there are, like, arms of breadth index and things like that."
+    },
+    {
+      "start": 391.50998,
+      "end": 400.705,
+      "text": "So the Wharton brothers created their own series of these t two indicators, which are basically most of them are breadth based indicator."
+    },
+    {
+      "start": 400.705,
+      "end": 400.94498,
+      "text": "Right?"
+    },
+    {
+      "start": 400.94498,
+      "end": 404.54498,
+      "text": "And you have percentage of two channel below forty day moving average."
+    },
+    {
+      "start": 404.54498,
+      "end": 405.26498,
+      "text": "How many stocks?"
+    },
+    {
+      "start": 405.26498,
+      "end": 410.91,
+      "text": "32 per percent of the stocks are two channel percent channel below and things like that."
+    },
+    {
+      "start": 410.91,
+      "end": 411.41,
+      "text": "Right?"
+    },
+    {
+      "start": 412.11,
+      "end": 417.16998,
+      "text": "So they created this, absolute breadth indicator and Trump based breadth indicator."
+    },
+    {
+      "start": 417.23,
+      "end": 419.09,
+      "text": "These are all breadth indicator, basically."
+    },
+    {
+      "start": 419.71,
+      "end": 421.16998,
+      "text": "All of them are breadth indicator."
+    },
+    {
+      "start": 422.085,
+      "end": 422.585,
+      "text": "Right?"
+    },
+    {
+      "start": 422.885,
+      "end": 426.665,
+      "text": "Your percent of stocks about two hundred day moving average and things like that."
+    },
+    {
+      "start": 427.205,
+      "end": 451.265,
+      "text": "But what you need to know is when, the way these indicators work is so, the bearish levels below 20 are bullish."
+    },
+    {
+      "start": 453.965,
+      "end": 455.02502,
+      "text": "They are bullish."
+    },
+    {
+      "start": 457.725,
+      "end": 460.465,
+      "text": "That is the information which Brett provides you."
+    },
+    {
+      "start": 461.72998,
+      "end": 465.75,
+      "text": "But higher levels, like levels of 80, is not bearish."
+    },
+    {
+      "start": 466.61,
+      "end": 484.495,
+      "text": "And that is the fundamental thing which you have to understand about breadth indicators that high readings in breadth are not really bearish because high readings in breadth, typically tends to transition into multi months, multi year, that you'll see in t two and zero eight also."
+    },
+    {
+      "start": 486.555,
+      "end": 492.65,
+      "text": "The high will be reached within, like, in a month or so after a bull market starts."
+    },
+    {
+      "start": 493.11002,
+      "end": 502.25,
+      "text": "Right here, like, in a it's almost reached, like, in a high of around 70 or 80, and it will continue to be like that for a long period of time."
+    },
+    {
+      "start": 502.47,
+      "end": 506.25,
+      "text": "Same way when you had, like, an this, thing here."
+    },
+    {
+      "start": 508.815,
+      "end": 510.975,
+      "text": "A correction in, COVID nineteen time."
+    },
+    {
+      "start": 510.975,
+      "end": 516.735,
+      "text": "If you just, like, an exited when it became 80, you'd have lost so much money."
+    },
+    {
+      "start": 516.735,
+      "end": 520.175,
+      "text": "So it is not like any it is only useful t two and zero."
+    },
+    {
+      "start": 520.175,
+      "end": 523.3,
+      "text": "It has no day to day, x, use."
+    },
+    {
+      "start": 523.3,
+      "end": 528.04004,
+      "text": "It is only useful when it goes into extremely bearish territory."
+    },
+    {
+      "start": 528.10004,
+      "end": 538.02496,
+      "text": "Rest of the time, I see all kinds of people doing all kinds of technical analysis, putting support resistance, and, like, this thing, it doesn't really work that way."
+    },
+    {
+      "start": 538.165,
+      "end": 541.305,
+      "text": "It's only when the market is really extremely oversold."
+    },
+    {
+      "start": 541.765,
+      "end": 551.43,
+      "text": "Any readings which are in below 80 below 20 indicate that the market is in a oversold condition."
+    },
+    {
+      "start": 551.49,
+      "end": 565.195,
+      "text": "Whenever the market is in a oversold condition, based on the history of the market since the, S and P started, every single one of the time, it has bounced back, and it has made a new high and went on to, do the thing."
+    },
+    {
+      "start": 565.195,
+      "end": 586.61,
+      "text": "So you have a backdrop currently to the market, which is, my backdrop to the market is that, we are in a secular bull market, which started in 2009."
+    },
+    {
+      "start": 588.19,
+      "end": 592.865,
+      "text": "There was a couple of corrections in this."
+    },
+    {
+      "start": 595.325,
+      "end": 608.85,
+      "text": "You had a cyclical correction during COVID, but we are still in a, secular bull market."
+    },
+    {
+      "start": 608.85,
+      "end": 611.49,
+      "text": "Secular bull market last twenty to twenty five years."
+    },
+    {
+      "start": 612.44995,
+      "end": 614.55,
+      "text": "They don't, like, break very easily."
+    },
+    {
+      "start": 615.08997,
+      "end": 627.285,
+      "text": "So so if you look at, like, you know, this bull market, it started in 2009, and this secular bull market is still going on."
+    },
+    {
+      "start": 628.385,
+      "end": 633.22,
+      "text": "This is, like, seventeen year or eighteen year seventeen year old bull market now."
+    },
+    {
+      "start": 633.52,
+      "end": 639.46,
+      "text": "And the last regular bull market before that was also like an like that, basically."
+    },
+    {
+      "start": 641.76,
+      "end": 657.335,
+      "text": "You see, when you look at, like, in a, time frame like this, right, and I said, sir, it's almost like any from here to here, this was, like, a more than that, and because this is just giving you spy from, like, in the 1987."
+    },
+    {
+      "start": 657.555,
+      "end": 666.46,
+      "text": "You don't have data from it, but this was almost like another twenty year secular bull market punctuated by some, cyclical bear market."
+    },
+    {
+      "start": 666.46,
+      "end": 668.14,
+      "text": "So we are in a secular bull market."
+    },
+    {
+      "start": 668.14,
+      "end": 673.04004,
+      "text": "So in a secular bull market, where we have a cyclical correction."
+    },
+    {
+      "start": 673.18005,
+      "end": 675.2,
+      "text": "This is a cyclical correction currently."
+    },
+    {
+      "start": 676.865,
+      "end": 681.445,
+      "text": "And it is not even a major correction because as of now, this is just around 6%."
+    },
+    {
+      "start": 682.145,
+      "end": 692.93,
+      "text": "So it might end up, by, end of this, selling period, or it may not even reach beyond 6% because, most corrections tend to be around 8%."
+    },
+    {
+      "start": 692.93,
+      "end": 698.19,
+      "text": "So this gives you an opportunity to get into, for our own case."
+    },
+    {
+      "start": 698.33,
+      "end": 699.07,
+      "text": "Good opportunity."
+    },
+    {
+      "start": 699.53,
+      "end": 707.765,
+      "text": "So for that, which funds so there are, like, as I said last time also, there are two elements to the four zero one k strategy."
+    },
+    {
+      "start": 708.385,
+      "end": 711.02496,
+      "text": "And that also is for those who understand this."
+    },
+    {
+      "start": 711.02496,
+      "end": 711.265,
+      "text": "Right?"
+    },
+    {
+      "start": 711.265,
+      "end": 717.985,
+      "text": "And if you don't understand, your best bet is to just put money in, index funds and forget about it."
+    },
+    {
+      "start": 717.985,
+      "end": 719.505,
+      "text": "If you understand, there are two elements."
+    },
+    {
+      "start": 719.505,
+      "end": 720.725,
+      "text": "One is market timing."
+    },
+    {
+      "start": 724.79004,
+      "end": 730.17004,
+      "text": "So market timing is now turning bullish, or it is giving you signal."
+    },
+    {
+      "start": 731.11005,
+      "end": 734.09,
+      "text": "And, obviously, the signal is not just going below 20."
+    },
+    {
+      "start": 734.15,
+      "end": 745.575,
+      "text": "After it goes below 20, what you're looking for is some sort of a breath thrust, which will be indicated by a thousand plus day or series of, big days, maybe 1,500 day or something like that."
+    },
+    {
+      "start": 745.575,
+      "end": 746.075,
+      "text": "Okay?"
+    },
+    {
+      "start": 746.135,
+      "end": 748.855,
+      "text": "So that's the signal, basically, after it goes oversold."
+    },
+    {
+      "start": 748.855,
+      "end": 752.15,
+      "text": "And, typically, when it goes below 20, it tends to overshoot."
+    },
+    {
+      "start": 752.15,
+      "end": 756.57,
+      "text": "So I would not be surprised if this tends, goes, even more negative."
+    },
+    {
+      "start": 756.95,
+      "end": 758.79,
+      "text": "So then you're looking for a bright signal."
+    },
+    {
+      "start": 758.79,
+      "end": 759.43,
+      "text": "So that is there."
+    },
+    {
+      "start": 759.43,
+      "end": 763.93,
+      "text": "Then the other thing is mutual fund selection, which which mutual funds to select."
+    },
+    {
+      "start": 768.755,
+      "end": 778.31,
+      "text": "And in order to select the mutual funds, what you look at is you look at five year, three year, one year, and YTD."
+    },
+    {
+      "start": 779.17,
+      "end": 788.95,
+      "text": "And look at the one which has a consistent record of, five year, three years, or one year at YTD, and then select amongst the top three."
+    },
+    {
+      "start": 791.055,
+      "end": 801.075,
+      "text": "So you will if you currently do this particular thing for the fidelity funds, which is where most of my work is."
+    },
+    {
+      "start": 804.15,
+      "end": 818.73,
+      "text": "So if you go to Fidelity, right, and if you go to Fidelity and news and research and go to mutual funds, and then once you have mutual funds, funds speaks from Fidelity with 349 funds."
+    },
+    {
+      "start": 819.09503,
+      "end": 821.655,
+      "text": "So you look for, like, an you have life of funds."
+    },
+    {
+      "start": 821.655,
+      "end": 821.895,
+      "text": "Right?"
+    },
+    {
+      "start": 821.895,
+      "end": 825.515,
+      "text": "And if you look at life of funds, you the Fidelity water sustainability."
+    },
+    {
+      "start": 825.655,
+      "end": 836.31,
+      "text": "I don't know why it is showing, but, like, FSELX is the one which is, like, in a basically showing the best in, like, this thing."
+    },
+    {
+      "start": 837.73,
+      "end": 839.91,
+      "text": "Here, you have large cap MS vessel."
+    },
+    {
+      "start": 840.29,
+      "end": 845.75,
+      "text": "This is a meet Morgan Stanley mutual fund, which is 16.27."
+    },
+    {
+      "start": 845.97,
+      "end": 853.08496,
+      "text": "Then you have, like, FSCL, which is, like, in a number number three, fifteen point seventy nine, right, and a life of one."
+    },
+    {
+      "start": 853.625,
+      "end": 855.225,
+      "text": "So then you go to ten years."
+    },
+    {
+      "start": 855.225,
+      "end": 857.64496,
+      "text": "When you go to ten years, what do you see?"
+    },
+    {
+      "start": 858.105,
+      "end": 863.96497,
+      "text": "These two top three are, like, in a fidelity peaks, but, like, you forget that this is the total low universe."
+    },
+    {
+      "start": 864.2,
+      "end": 865.64,
+      "text": "So which one is number two?"
+    },
+    {
+      "start": 865.64,
+      "end": 871.56,
+      "text": "F s e l x, f s p t x, 15.79, 14.38."
+    },
+    {
+      "start": 871.56,
+      "end": 871.8,
+      "text": "Right?"
+    },
+    {
+      "start": 871.8,
+      "end": 872.27997,
+      "text": "Basically."
+    },
+    {
+      "start": 872.27997,
+      "end": 875.1,
+      "text": "So those are the one which are, like, in ten years."
+    },
+    {
+      "start": 875.56,
+      "end": 876.92,
+      "text": "32%, 23."
+    },
+    {
+      "start": 876.92,
+      "end": 880.935,
+      "text": "And see the spread between the number one and number two can be 10%."
+    },
+    {
+      "start": 880.935,
+      "end": 882.635,
+      "text": "So FSC, Alex."
+    },
+    {
+      "start": 882.935,
+      "end": 885.335,
+      "text": "So is there miss, you know this."
+    },
+    {
+      "start": 885.335,
+      "end": 888.455,
+      "text": "If you know this, you know, which is your pick going to be here."
+    },
+    {
+      "start": 888.455,
+      "end": 888.935,
+      "text": "Right?"
+    },
+    {
+      "start": 888.935,
+      "end": 894.26996,
+      "text": "In the top four, like, this is Alpine precious metal fund in last five years because the gold was doing well."
+    },
+    {
+      "start": 894.26996,
+      "end": 898.75,
+      "text": "But, based on history of gold funds, it's not in lifetime funds."
+    },
+    {
+      "start": 898.75,
+      "end": 900.26996,
+      "text": "It's not in the top three."
+    },
+    {
+      "start": 900.26996,
+      "end": 903.97,
+      "text": "Ever, it's always like any so five years."
+    },
+    {
+      "start": 904.43,
+      "end": 906.61,
+      "text": "Again, you'll see FSC LX."
+    },
+    {
+      "start": 906.91,
+      "end": 914.495,
+      "text": "Three years, you have these gold stocks which are dominating, but amongst that, the one which is persistent is FSC LX."
+    },
+    {
+      "start": 914.635,
+      "end": 921.49,
+      "text": "If you see one year, you're going to find again, like, any there'll be gold stocks which will be but FSC LX is the one."
+    },
+    {
+      "start": 921.70996,
+      "end": 927.55,
+      "text": "So if you are looking at YTD, obviously, YTD now because there is a correction, these things would have gone down."
+    },
+    {
+      "start": 927.55,
+      "end": 948.985,
+      "text": "But your choice of funds at this stage, if you're looking at, like, any going if you're looking at doing something, I would say your choice of funds is what the three one they are showing are the one which are the your choice of funds because you have the if you want to do this gold, silver, those kind also, Fidelity Global Commodity Stock Fund, which is YTD 16.47."
+    },
+    {
+      "start": 949.32996,
+      "end": 953.91,
+      "text": "Fidelity SelectTech Hardware, FDCPX, which is 15.4, and FSCLX."
+    },
+    {
+      "start": 954.45,
+      "end": 966.495,
+      "text": "The best according to me, if you're just doing one fund here is going to be, drum roll, please, f s e l x."
+    },
+    {
+      "start": 967.515,
+      "end": 968.015,
+      "text": "Alright."
+    },
+    {
+      "start": 968.075,
+      "end": 979.54004,
+      "text": "Because that is the one which has the consistent and persistent tendency to make moves for the last ten years, five years, three years, or even one year kind of a thing."
+    },
+    {
+      "start": 979.54004,
+      "end": 984.68,
+      "text": "If you are sec second choice is Fidelity SelectTech Hardware Fund, FTCPX."
+    },
+    {
+      "start": 985.94,
+      "end": 986.26,
+      "text": "Right?"
+    },
+    {
+      "start": 986.26,
+      "end": 992.385,
+      "text": "FDCPX and third choices f f g c x, which actually Fidelity does this work for you also."
+    },
+    {
+      "start": 992.385,
+      "end": 994.705,
+      "text": "You don't have to even use your presence to do it."
+    },
+    {
+      "start": 994.705,
+      "end": 995.745,
+      "text": "And those are the three."
+    },
+    {
+      "start": 995.745,
+      "end": 1005.69,
+      "text": "This is going to cover mostly, this is like an egg this will cover the international market because international market is lot more dominated by the commodity cycle."
+    },
+    {
+      "start": 1005.69,
+      "end": 1007.13,
+      "text": "So that is the one."
+    },
+    {
+      "start": 1007.29,
+      "end": 1014.43,
+      "text": "Then f f t c p x and f out of this, I would select FSC LCX, FDCPX as the primary."
+    },
+    {
+      "start": 1014.73,
+      "end": 1020.275,
+      "text": "FSC LCX, if you just want to do one, if you want to do two, FACLCX plus FDCPX."
+    },
+    {
+      "start": 1020.41504,
+      "end": 1022.11505,
+      "text": "If you want to do three, three."
+    },
+    {
+      "start": 1022.895,
+      "end": 1023.875,
+      "text": "And that's it."
+    },
+    {
+      "start": 1025.375,
+      "end": 1029.475,
+      "text": "You will you and you will see international are still like YTD."
+    },
+    {
+      "start": 1029.535,
+      "end": 1032.87,
+      "text": "You'll still stay China region, emerging markets."
+    },
+    {
+      "start": 1033.33,
+      "end": 1035.97,
+      "text": "They are still there in the top 10 or top five."
+    },
+    {
+      "start": 1035.97,
+      "end": 1036.2899,
+      "text": "Right?"
+    },
+    {
+      "start": 1036.2899,
+      "end": 1045.59,
+      "text": "And so those are the market, which, these are the funds which I would look at at this stage, when the market now there are two ways you can do this."
+    },
+    {
+      "start": 1046.025,
+      "end": 1048.8451,
+      "text": "One is, like, an you can either wait for the signal."
+    },
+    {
+      "start": 1049.385,
+      "end": 1051.865,
+      "text": "When the signal happens, they'll be like an hour."
+    },
+    {
+      "start": 1051.865,
+      "end": 1058.4451,
+      "text": "You wait for or you start dollar cost averaging into FSELX."
+    },
+    {
+      "start": 1059.75,
+      "end": 1062.81,
+      "text": "But in that case, you have to be willing to take some hit."
+    },
+    {
+      "start": 1063.11,
+      "end": 1068.5701,
+      "text": "You might end up taking some for five to 6% hit if a dollar cost average into FSELX."
+    },
+    {
+      "start": 1069.43,
+      "end": 1080.6951,
+      "text": "And if you do that, every time this has happened since, like, in 2009, you will see that what happens."
+    },
+    {
+      "start": 1090.21,
+      "end": 1099.03,
+      "text": "So this blue line is the, S and P 500, and you see FSC LX."
+    },
+    {
+      "start": 1099.49,
+      "end": 1103.1349,
+      "text": "So that's the spread, you are going to look at, basically."
+    },
+    {
+      "start": 1103.595,
+      "end": 1120.8,
+      "text": "How about a critical growth of, like, an if you had bought, like, an or a period of, like, an essay, ten years, twenty years, or something, you'll see what would have happened versus what would happen with this FSC LX."
+    },
+    {
+      "start": 1120.8,
+      "end": 1125.22,
+      "text": "So FSC LX, by far, is the best, choice for you."
+    },
+    {
+      "start": 1125.6,
+      "end": 1134.335,
+      "text": "If you want to do this, always remember, like, in a, this is something which is like an for those who understand what you're doing."
+    },
+    {
+      "start": 1134.335,
+      "end": 1134.835,
+      "text": "Right?"
+    },
+    {
+      "start": 1134.895,
+      "end": 1141.235,
+      "text": "Now FDCPX is a new fund which this year has started outperforming the market."
+    },
+    {
+      "start": 1141.86,
+      "end": 1144.1799,
+      "text": "This is something which is a tech hardware portfolio."
+    },
+    {
+      "start": 1144.1799,
+      "end": 1145.72,
+      "text": "You know why it is outperforming."
+    },
+    {
+      "start": 1145.86,
+      "end": 1146.1,
+      "text": "Right?"
+    },
+    {
+      "start": 1146.1,
+      "end": 1150.84,
+      "text": "Because, the AI investment is leading to tech hardware."
+    },
+    {
+      "start": 1151.7,
+      "end": 1163.665,
+      "text": "Software stocks are gone down, but hardware stocks are going up because, which funds are here, which company, Samsung, Western Digital, Cisco, Ariston, Apple, and all these, Dell."
+    },
+    {
+      "start": 1163.665,
+      "end": 1166.3251,
+      "text": "So this is a fund which has come in recently."
+    },
+    {
+      "start": 1166.465,
+      "end": 1167.4451,
+      "text": "This year, it started."
+    },
+    {
+      "start": 1167.8251,
+      "end": 1170.785,
+      "text": "Normally, it doesn't really outperform what they started."
+    },
+    {
+      "start": 1170.785,
+      "end": 1174.96,
+      "text": "So that is a play on the secular trend on AI."
+    },
+    {
+      "start": 1174.96,
+      "end": 1176.16,
+      "text": "So these are the two."
+    },
+    {
+      "start": 1176.16,
+      "end": 1179.78,
+      "text": "And you have Fidelity Global Commodity Stock Fund, which has started."
+    },
+    {
+      "start": 1180.24,
+      "end": 1181.36,
+      "text": "Again, it had a breakout."
+    },
+    {
+      "start": 1181.36,
+      "end": 1181.6,
+      "text": "Right?"
+    },
+    {
+      "start": 1181.6,
+      "end": 1186.34,
+      "text": "And over a period of time, it just broke out, this year."
+    },
+    {
+      "start": 1187.025,
+      "end": 1201.8451,
+      "text": "But I think and for me, personally, I would like and I'd rather go into something like a emerging market or China funds if I want to get into emerging, international kind of a thing because the China fund also is just about breaking out now."
+    },
+    {
+      "start": 1202.3099,
+      "end": 1202.59,
+      "text": "Right?"
+    },
+    {
+      "start": 1202.59,
+      "end": 1205.0299,
+      "text": "It for last one year, it has broken out."
+    },
+    {
+      "start": 1205.0299,
+      "end": 1209.45,
+      "text": "So that is the one which I would look at if I had to personally do this."
+    },
+    {
+      "start": 1210.3099,
+      "end": 1210.8099,
+      "text": "Right."
+    },
+    {
+      "start": 1212.1499,
+      "end": 1212.97,
+      "text": "Any questions?"
+    },
+    {
+      "start": 1214.1499,
+      "end": 1214.97,
+      "text": "Easy peasy."
+    },
+    {
+      "start": 1215.19,
+      "end": 1229.495,
+      "text": "Just like in a it took me fifteen, twenty minutes to explain, but, like, in terms of actually doing, on a weekend, you just go and look at, like, an f t two one zero eight, fifty one zero eight is not below, 20."
+    },
+    {
+      "start": 1230.04,
+      "end": 1238.62,
+      "text": "Go and play golf or do whatever you want to do or, like, any go shopping with your girlfriend or wife to Van Clipper and Arpil."
+    },
+    {
+      "start": 1239.56,
+      "end": 1251.505,
+      "text": "And then, like, when it goes below t two and zero, just look at the five year tenure and go into most of the time, FSC LX is the one which is always going to be there."
+    },
+    {
+      "start": 1251.505,
+      "end": 1252.005,
+      "text": "Right?"
+    },
+    {
+      "start": 1252.465,
+      "end": 1253.365,
+      "text": "And that's it."
+    },
+    {
+      "start": 1255.8501,
+      "end": 1270.0349,
+      "text": "And then once you buy something like this, this if this becomes a bearish, like, an this becomes extremely oversold and it comes in, you have twelve to eighteen months before, looking at, like, an exiting."
+    },
+    {
+      "start": 1270.1749,
+      "end": 1270.6749,
+      "text": "Right?"
+    },
+    {
+      "start": 1276.575,
+      "end": 1278.335,
+      "text": "International market is here only."
+    },
+    {
+      "start": 1278.335,
+      "end": 1278.495,
+      "text": "Right?"
+    },
+    {
+      "start": 1278.495,
+      "end": 1279.375,
+      "text": "Everything is here."
+    },
+    {
+      "start": 1279.375,
+      "end": 1286.0599,
+      "text": "There is nothing like any basically, everything is in this mutual, YTD or one year gainers."
+    },
+    {
+      "start": 1286.0599,
+      "end": 1286.38,
+      "text": "Right?"
+    },
+    {
+      "start": 1286.38,
+      "end": 1289.04,
+      "text": "And everything is here, basically."
+    },
+    {
+      "start": 1289.1,
+      "end": 1294.32,
+      "text": "Now this year, if you see, this is ranked by YTD, which is, like, first three months."
+    },
+    {
+      "start": 1294.38,
+      "end": 1295.205,
+      "text": "What do you see?"
+    },
+    {
+      "start": 1295.845,
+      "end": 1297.845,
+      "text": "Fidelity Global Commodity Stock Fund."
+    },
+    {
+      "start": 1297.845,
+      "end": 1304.9049,
+      "text": "That's the one which which stocks are in this Fidelity Global Stock Fund is like an exxonmobil, CTVA."
+    },
+    {
+      "start": 1305.5249,
+      "end": 1306.725,
+      "text": "So that's the oil play."
+    },
+    {
+      "start": 1306.725,
+      "end": 1306.965,
+      "text": "Right?"
+    },
+    {
+      "start": 1306.965,
+      "end": 1310.66,
+      "text": "If you are doing the oil play, then why did this fund is going up?"
+    },
+    {
+      "start": 1310.66,
+      "end": 1311.54,
+      "text": "You can also look at."
+    },
+    {
+      "start": 1311.54,
+      "end": 1311.9401,
+      "text": "Right?"
+    },
+    {
+      "start": 1311.9401,
+      "end": 1313.4,
+      "text": "Which is, like, oil is going."
+    },
+    {
+      "start": 1314.26,
+      "end": 1320.52,
+      "text": "But, the one which are, like, in a secular trend are FSC LX and FDCPAX."
+    },
+    {
+      "start": 1320.98,
+      "end": 1322.5,
+      "text": "Remaining are, like, you can see here."
+    },
+    {
+      "start": 1322.5,
+      "end": 1322.8201,
+      "text": "Right?"
+    },
+    {
+      "start": 1322.8201,
+      "end": 1324.735,
+      "text": "T Rowe Price Era Fund."
+    },
+    {
+      "start": 1324.735,
+      "end": 1325.0549,
+      "text": "Yeah."
+    },
+    {
+      "start": 1325.0549,
+      "end": 1326.175,
+      "text": "You can go into it."
+    },
+    {
+      "start": 1326.175,
+      "end": 1330.195,
+      "text": "You can see which China region, right, and emerging market funds."
+    },
+    {
+      "start": 1330.335,
+      "end": 1331.695,
+      "text": "Federally emerging market."
+    },
+    {
+      "start": 1331.695,
+      "end": 1333.855,
+      "text": "So these are the four countries which are doing well."
+    },
+    {
+      "start": 1333.855,
+      "end": 1334.355,
+      "text": "Right?"
+    },
+    {
+      "start": 1336.87,
+      "end": 1346.07,
+      "text": "Where you come out of fund after, like, any, say, sixteen, seventeen, eighteen months, like and if this bloom I like, any of this, it will be similar to this."
+    },
+    {
+      "start": 1346.07,
+      "end": 1346.3099,
+      "text": "Right?"
+    },
+    {
+      "start": 1346.3099,
+      "end": 1352.025,
+      "text": "And it will, like, gonna keep going up for, like, any probably eighteen months or so, or even more."
+    },
+    {
+      "start": 1352.425,
+      "end": 1363.965,
+      "text": "So till till there is a bread deterioration in the market monitor, till you see series of 300, 400, 500 in the market monitor, you don't get out."
+    },
+    {
+      "start": 1365.26,
+      "end": 1368.08,
+      "text": "Still, you see significant bread deterioration."
+    },
+    {
+      "start": 1368.46,
+      "end": 1368.96,
+      "text": "Right?"
+    },
+    {
+      "start": 1369.34,
+      "end": 1372.1599,
+      "text": "You don't get out till you see significant bread deterioration."
+    },
+    {
+      "start": 1372.78,
+      "end": 1381.875,
+      "text": "So when you get the primary indicator going bearish, after significant selling is when one or two days after that is when you say, get out."
+    },
+    {
+      "start": 1381.875,
+      "end": 1383.235,
+      "text": "Till that, you hold."
+    },
+    {
+      "start": 1383.235,
+      "end": 1389.895,
+      "text": "This signal will remain valid for a for a for for this signal was valid for almost, like, an how many?"
+    },
+    {
+      "start": 1390.115,
+      "end": 1391.795,
+      "text": "Like, almost, like, in a one year."
+    },
+    {
+      "start": 1391.795,
+      "end": 1392.295,
+      "text": "Right?"
+    },
+    {
+      "start": 1393.19,
+      "end": 1397.21,
+      "text": "And then again, wait for t two one zero eight to go down and then do it."
+    },
+    {
+      "start": 1405.325,
+      "end": 1407.085,
+      "text": "This is for people who understand this."
+    },
+    {
+      "start": 1407.085,
+      "end": 1407.405,
+      "text": "Right?"
+    },
+    {
+      "start": 1407.405,
+      "end": 1426.75,
+      "text": "If you don't understand, then your best strategy is just do dollar cost average into index Once if you can't do this, don't really try also."
+    },
+    {
+      "start": 1427.0499,
+      "end": 1437.265,
+      "text": "And if you have Vanguard, if Vanguard or TIA serve for your, like, any, choices in terms of that's where your account is."
+    },
+    {
+      "start": 1437.265,
+      "end": 1438.4651,
+      "text": "Don't even try this."
+    },
+    {
+      "start": 1438.4651,
+      "end": 1440.0651,
+      "text": "This is not going to work in Vanguard."
+    },
+    {
+      "start": 1440.0651,
+      "end": 1440.5651,
+      "text": "Okay?"
+    },
+    {
+      "start": 1441.3451,
+      "end": 1447.8251,
+      "text": "Because Vanguard has a minimum ninety days hold period for mutual funds."
+    },
+    {
+      "start": 1447.8251,
+      "end": 1449.025,
+      "text": "So this is not going to work."
+    },
+    {
+      "start": 1452.51,
+      "end": 1457.97,
+      "text": "Means the what I look at on a supposing, like, and then now this signal comes in breadth happens."
+    },
+    {
+      "start": 1458.0299,
+      "end": 1458.19,
+      "text": "Right?"
+    },
+    {
+      "start": 1458.19,
+      "end": 1459.57,
+      "text": "And then what will I do?"
+    },
+    {
+      "start": 1459.7899,
+      "end": 1462.0299,
+      "text": "Every week, same thing I'm going to do."
+    },
+    {
+      "start": 1462.0299,
+      "end": 1462.5299,
+      "text": "Right?"
+    },
+    {
+      "start": 1462.83,
+      "end": 1465.5249,
+      "text": "I'll doubt there is no market signal."
+    },
+    {
+      "start": 1465.5249,
+      "end": 1465.6849,
+      "text": "Right?"
+    },
+    {
+      "start": 1465.6849,
+      "end": 1468.985,
+      "text": "And if there are two points to it, market, signal."
+    },
+    {
+      "start": 1469.2849,
+      "end": 1470.6649,
+      "text": "So is bread deteriorating?"
+    },
+    {
+      "start": 1470.965,
+      "end": 1471.465,
+      "text": "No."
+    },
+    {
+      "start": 1471.7649,
+      "end": 1472.085,
+      "text": "Right?"
+    },
+    {
+      "start": 1472.085,
+      "end": 1473.3849,
+      "text": "So bread not deteriorating."
+    },
+    {
+      "start": 1474.005,
+      "end": 1475.225,
+      "text": "So what do you do?"
+    },
+    {
+      "start": 1475.365,
+      "end": 1477.065,
+      "text": "You go to VanClip and RPL."
+    },
+    {
+      "start": 1478.7201,
+      "end": 1479.2201,
+      "text": "Right?"
+    },
+    {
+      "start": 1480.56,
+      "end": 1482.8,
+      "text": "If the bridge start deteriorating, then you'll get out."
+    },
+    {
+      "start": 1482.8,
+      "end": 1483.04,
+      "text": "Right?"
+    },
+    {
+      "start": 1483.04,
+      "end": 1486.7401,
+      "text": "But at the same time, the second thing is fund selection."
+    },
+    {
+      "start": 1489.865,
+      "end": 1493.165,
+      "text": "So fund selection, what are you going to do on a weekly basis?"
+    },
+    {
+      "start": 1493.9451,
+      "end": 1495.005,
+      "text": "You rang the funds."
+    },
+    {
+      "start": 1495.625,
+      "end": 1500.365,
+      "text": "Now your funds are still in the top three or top three, so you don't do anything."
+    },
+    {
+      "start": 1500.985,
+      "end": 1509.36,
+      "text": "If you see us, new fund starts to emerge like in the last year, or some beginning of last year."
+    },
+    {
+      "start": 1509.36,
+      "end": 1512.96,
+      "text": "Now this year beginning of this year, I'm seeing a new fund emerge here."
+    },
+    {
+      "start": 1512.96,
+      "end": 1513.46,
+      "text": "Right?"
+    },
+    {
+      "start": 1513.68,
+      "end": 1518.435,
+      "text": "That new funds, which I just showed you, is the FDCPAX."
+    },
+    {
+      "start": 1519.135,
+      "end": 1523.9551,
+      "text": "So when I saw FDCPAX starting to come, I moved some money into FDCPAX."
+    },
+    {
+      "start": 1524.975,
+      "end": 1525.475,
+      "text": "Right?"
+    },
+    {
+      "start": 1525.6951,
+      "end": 1527.555,
+      "text": "I started moving money into FDCPAX."
+    },
+    {
+      "start": 1527.855,
+      "end": 1535.67,
+      "text": "Last year, I found that emerging market or the international market started coming in the top three."
+    },
+    {
+      "start": 1536.05,
+      "end": 1541.11,
+      "text": "So I moved into, like, in fact, international markets were number one last year."
+    },
+    {
+      "start": 1541.17,
+      "end": 1542.93,
+      "text": "So I moved into the last market."
+    },
+    {
+      "start": 1542.93,
+      "end": 1546.985,
+      "text": "So you're continuously looking at this ranking and making a decision."
+    },
+    {
+      "start": 1546.985,
+      "end": 1547.145,
+      "text": "Right?"
+    },
+    {
+      "start": 1547.145,
+      "end": 1548.205,
+      "text": "And that's it."
+    },
+    {
+      "start": 1549.145,
+      "end": 1577.065,
+      "text": "So if you see, like, an essay, you got in and after three months, for whatever reason, right, you see that, like, an, say let's say, like, in a you see that, some, like, Eastern European fund comes in as number one, so then you know."
+    },
+    {
+      "start": 1577.065,
+      "end": 1577.565,
+      "text": "Right?"
+    },
+    {
+      "start": 1577.865,
+      "end": 1582.445,
+      "text": "And when you keep an eye on this, you can immediately spot if something new came in."
+    },
+    {
+      "start": 1583.3049,
+      "end": 1595.86,
+      "text": "Like, when the gold and silver started going up, you would have seen in your weekly task that, like, in a they rank because you're doing what you're doing, you're just ranking funds by relative strength."
+    },
+    {
+      "start": 1595.86,
+      "end": 1596.34,
+      "text": "Right?"
+    },
+    {
+      "start": 1596.34,
+      "end": 1605.895,
+      "text": "When you're doing ranking by YTD or one year, you're doing ranking by relative strength, and you are being in the relative strength, highest relative strength category."
+    },
+    {
+      "start": 1605.895,
+      "end": 1606.395,
+      "text": "Right?"
+    },
+    {
+      "start": 1607.575,
+      "end": 1608.635,
+      "text": "That's how it works."
+    },
+    {
+      "start": 1619.42,
+      "end": 1632.845,
+      "text": "So FSCLCX is the one which is, like, an added if you don't have, like, any mutual funds as a this thing, then obviously, so the worst performing is Fidelity Select fintech portfolio."
+    },
+    {
+      "start": 1633.3049,
+      "end": 1639.145,
+      "text": "So all the people who do contrary indication and all, then they look at it and they get into it."
+    },
+    {
+      "start": 1639.145,
+      "end": 1643.14,
+      "text": "But, like, I don't really believe in that, because it's much better."
+    },
+    {
+      "start": 1643.14,
+      "end": 1649.06,
+      "text": "I have seen this, sometime they work, but it, secular trends there are secular trends."
+    },
+    {
+      "start": 1649.06,
+      "end": 1650.68,
+      "text": "They don't really work immediately."
+    },
+    {
+      "start": 1650.74,
+      "end": 1654.26,
+      "text": "They don't this can remain in the bottom for three years or something."
+    },
+    {
+      "start": 1654.26,
+      "end": 1660.3151,
+      "text": "So if you want to do something like that, I would rather go into something which is three years bottom and look at things."
+    },
+    {
+      "start": 1660.535,
+      "end": 1661.035,
+      "text": "K?"
+    },
+    {
+      "start": 1661.735,
+      "end": 1664.555,
+      "text": "Not like any just, this thing."
+    },
+    {
+      "start": 1669.76,
+      "end": 1703.42,
+      "text": "And I wouldn't even have, like, an if the It's much better to most of the time, you are going to unless there is a change which happens."
+    },
+    {
+      "start": 1703.42,
+      "end": 1703.66,
+      "text": "Right?"
+    },
+    {
+      "start": 1703.66,
+      "end": 1706.24,
+      "text": "And last year, there was a change which happened."
+    },
+    {
+      "start": 1706.38,
+      "end": 1710.875,
+      "text": "Now for so many years, China was underperforming the market."
+    },
+    {
+      "start": 1710.875,
+      "end": 1711.115,
+      "text": "Right?"
+    },
+    {
+      "start": 1711.115,
+      "end": 1715.215,
+      "text": "Our international markets were underperforming The US market."
+    },
+    {
+      "start": 1715.515,
+      "end": 1718.3151,
+      "text": "But then whatever happened, you know what has happened."
+    },
+    {
+      "start": 1718.3151,
+      "end": 1718.555,
+      "text": "Right?"
+    },
+    {
+      "start": 1718.555,
+      "end": 1736.1,
+      "text": "And then all the, in the last eighteen months, all the international markets, or the international countries, they were like in a somebody came and kicked them in the face."
+    },
+    {
+      "start": 1736.855,
+      "end": 1741.4451,
+      "text": "So if somebody comes and kicks you in the face, what do you do?"
+    },
+    {
+      "start": 1752.42,
+      "end": 1756.8201,
+      "text": "You go and, like, in a start building muscles."
+    },
+    {
+      "start": 1756.8201,
+      "end": 1759.38,
+      "text": "You start, like, in a investing in your economy."
+    },
+    {
+      "start": 1759.38,
+      "end": 1760.76,
+      "text": "You clean up your act."
+    },
+    {
+      "start": 1761.4601,
+      "end": 1770.5249,
+      "text": "So all the companies, the Europeans, the Chinese, the Indians, everybody, just started, like, making the necessary changes."
+    },
+    {
+      "start": 1770.985,
+      "end": 1777.485,
+      "text": "The need for change was not failed by the international market because they were just riding the hotels of America."
+    },
+    {
+      "start": 1779.065,
+      "end": 1781.8401,
+      "text": "Then Trump came in and kicked their ass."
+    },
+    {
+      "start": 1781.8401,
+      "end": 1782.3401,
+      "text": "Right?"
+    },
+    {
+      "start": 1782.64,
+      "end": 1785.38,
+      "text": "So when their their ass was kicked, what did they do?"
+    },
+    {
+      "start": 1785.6001,
+      "end": 1791.38,
+      "text": "They just made, like, any changes to their economy, and as a result, they started growing faster than The US."
+    },
+    {
+      "start": 1791.6001,
+      "end": 1791.92,
+      "text": "Right?"
+    },
+    {
+      "start": 1791.92,
+      "end": 1799.575,
+      "text": "If you are Canada and somebody came and kicked you in the face, what are you going to do?"
+    },
+    {
+      "start": 1799.575,
+      "end": 1801.7549,
+      "text": "You're going to say, oh, I'm like Gandhi."
+    },
+    {
+      "start": 1801.975,
+      "end": 1803.6549,
+      "text": "You kicked me in the ass."
+    },
+    {
+      "start": 1803.6549,
+      "end": 1807.115,
+      "text": "Please kick me in the front also, or you're going to do something about it?"
+    },
+    {
+      "start": 1813.86,
+      "end": 1814.9,
+      "text": "You do something about it."
+    },
+    {
+      "start": 1814.9,
+      "end": 1815.2201,
+      "text": "Right?"
+    },
+    {
+      "start": 1815.2201,
+      "end": 1819.9401,
+      "text": "So all these international countries have done something about it because they've done something about it."
+    },
+    {
+      "start": 1819.9401,
+      "end": 1822.935,
+      "text": "As a result, their economy is growing faster than The US economy."
+    },
+    {
+      "start": 1823.175,
+      "end": 1828.555,
+      "text": "If their economy is going faster than The US economy, what do you think is going to happen to their stock market?"
+    },
+    {
+      "start": 1834.935,
+      "end": 1836.375,
+      "text": "Their stock market is doing better."
+    },
+    {
+      "start": 1836.375,
+      "end": 1836.875,
+      "text": "Right?"
+    },
+    {
+      "start": 1836.935,
+      "end": 1838.87,
+      "text": "And that how do you know this?"
+    },
+    {
+      "start": 1838.87,
+      "end": 1840.33,
+      "text": "You didn't need to know this."
+    },
+    {
+      "start": 1840.39,
+      "end": 1847.0499,
+      "text": "When you did the ranking last year, like, to now, FDCPX has started showing up suddenly."
+    },
+    {
+      "start": 1847.4299,
+      "end": 1853.005,
+      "text": "FDCPX was not show like, if you see this fund, hasn't outperformed the market for many years."
+    },
+    {
+      "start": 1853.005,
+      "end": 1853.245,
+      "text": "Right?"
+    },
+    {
+      "start": 1853.245,
+      "end": 1855.825,
+      "text": "And it was, like, an outperforming, but not significantly."
+    },
+    {
+      "start": 1856.205,
+      "end": 1860.7649,
+      "text": "Suddenly, something happened here, and this fund has overtaken everything else."
+    },
+    {
+      "start": 1860.7649,
+      "end": 1863.505,
+      "text": "Why do you think FDCAPX is overtaken?"
+    },
+    {
+      "start": 1864.51,
+      "end": 1865.71,
+      "text": "Secular trend started."
+    },
+    {
+      "start": 1865.71,
+      "end": 1865.87,
+      "text": "Right?"
+    },
+    {
+      "start": 1865.87,
+      "end": 1869.57,
+      "text": "And the companies are, like, in a scrambling to get hardware."
+    },
+    {
+      "start": 1869.95,
+      "end": 1874.61,
+      "text": "And, the biggest beneficiary of beneficiary of that is Samsung Electronics."
+    },
+    {
+      "start": 1875.15,
+      "end": 1879.01,
+      "text": "So Samsung Electronics, Western Digital, these are the companies which are benefiting."
+    },
+    {
+      "start": 1879.245,
+      "end": 1881.245,
+      "text": "As a result of this, this fund came in."
+    },
+    {
+      "start": 1881.245,
+      "end": 1882.6849,
+      "text": "So you you know."
+    },
+    {
+      "start": 1882.6849,
+      "end": 1885.245,
+      "text": "You don't need to understand the economy to do this."
+    },
+    {
+      "start": 1885.245,
+      "end": 1890.705,
+      "text": "All that you're doing is when you rank, the information will come on the top automatically."
+    },
+    {
+      "start": 1893.34,
+      "end": 1893.58,
+      "text": "Yes."
+    },
+    {
+      "start": 1893.58,
+      "end": 1895.34,
+      "text": "There is a limitation in terms of this."
+    },
+    {
+      "start": 1895.34,
+      "end": 1906.775,
+      "text": "You cannot do it on a weekly basis or things like that because, even in Fidelity, there is a limitation in how many, turns you can do in one fund in a year."
+    },
+    {
+      "start": 1907.715,
+      "end": 1910.935,
+      "text": "And in fidelity also, you need to hold a fund for thirty days."
+    },
+    {
+      "start": 1912.1951,
+      "end": 1915.475,
+      "text": "You cannot just, like and you keep doing this weekly or things like that."
+    },
+    {
+      "start": 1915.475,
+      "end": 1915.975,
+      "text": "Okay?"
+    },
+    {
+      "start": 1916.915,
+      "end": 1924.14,
+      "text": "Four turns, is the in the same funds, you cannot do more than four turns in a year."
+    },
+    {
+      "start": 1924.14,
+      "end": 1925.4401,
+      "text": "So that's also limitation."
+    },
+    {
+      "start": 1925.58,
+      "end": 1926.08,
+      "text": "Right?"
+    },
+    {
+      "start": 1926.86,
+      "end": 1937.0751,
+      "text": "And if you don't have all these restrictions and, you don't have these problems of, like, an a you need to you can buy anything, then, obviously, you know what to buy."
+    },
+    {
+      "start": 1937.0751,
+      "end": 1937.395,
+      "text": "Right?"
+    },
+    {
+      "start": 1937.395,
+      "end": 1944.035,
+      "text": "And what is your best bet if you don't have this problem of, like, you need to only buy these mutual funds or things like that?"
+    },
+    {
+      "start": 1944.035,
+      "end": 1945.3351,
+      "text": "What is your best bet?"
+    },
+    {
+      "start": 1947.4,
+      "end": 1947.9,
+      "text": "Socksell."
+    },
+    {
+      "start": 1949.3201,
+      "end": 1949.8201,
+      "text": "Semiconductor."
+    },
+    {
+      "start": 1950.28,
+      "end": 1950.52,
+      "text": "Right?"
+    },
+    {
+      "start": 1950.52,
+      "end": 1954.14,
+      "text": "And, basically, Socksell is three times the same semiconductor."
+    },
+    {
+      "start": 1954.28,
+      "end": 1955.3401,
+      "text": "It's more risky."
+    },
+    {
+      "start": 1955.48,
+      "end": 1959.4,
+      "text": "But Socksell, if you have the understanding and if you have the guts."
+    },
+    {
+      "start": 1959.4,
+      "end": 1959.9,
+      "text": "Right?"
+    },
+    {
+      "start": 1960.04,
+      "end": 1967.255,
+      "text": "Socksell, here in April, from there, Socksell made a move of 731."
+    },
+    {
+      "start": 1968.4349,
+      "end": 1969.975,
+      "text": "Socksell and t q q."
+    },
+    {
+      "start": 1973.155,
+      "end": 1974.615,
+      "text": "Socksell and t q q."
+    },
+    {
+      "start": 1975.27,
+      "end": 1983.29,
+      "text": "Because if you do this, as, like, an essay, university of seniors, ETF."
+    },
+    {
+      "start": 1983.35,
+      "end": 1983.67,
+      "text": "Right?"
+    },
+    {
+      "start": 1983.67,
+      "end": 1990.365,
+      "text": "And, you select the more liquid one with 1,000,000, and you go to, say, yearly growth."
+    },
+    {
+      "start": 1990.365,
+      "end": 1990.865,
+      "text": "Right?"
+    },
+    {
+      "start": 1992.285,
+      "end": 1998.7051,
+      "text": "But, obviously, you have to know how to do that because what is going to happen is you're going to, live through lot more volatility."
+    },
+    {
+      "start": 1998.845,
+      "end": 1999.345,
+      "text": "Right?"
+    },
+    {
+      "start": 1999.485,
+      "end": 2003.805,
+      "text": "If you do ten years, this is like and you're looking at ten years growth."
+    },
+    {
+      "start": 2005.26,
+      "end": 2007.28,
+      "text": "So which one is in the top?"
+    },
+    {
+      "start": 2007.34,
+      "end": 2012.3,
+      "text": "G the Bitcoin is in the top, but the number two is TQQ and Soxel."
+    },
+    {
+      "start": 2012.3,
+      "end": 2012.8,
+      "text": "Right?"
+    },
+    {
+      "start": 2013.18,
+      "end": 2024.245,
+      "text": "And, the, if you do five years, what you're going to see is, like, in a silver and gold are there, because of the in the last two, three years, they're done."
+    },
+    {
+      "start": 2024.245,
+      "end": 2034.54,
+      "text": "But Saksal is still be like, over a period of time, you are going to see Saksal always and TQQ are the two best, which you have the choice of if you when you have a choice of doing this."
+    },
+    {
+      "start": 2034.54,
+      "end": 2035.04,
+      "text": "Right?"
+    },
+    {
+      "start": 2035.74,
+      "end": 2037.6,
+      "text": "Sock cell and TQQ."
+    },
+    {
+      "start": 2041.74,
+      "end": 2043.52,
+      "text": "So TQQ, Sock cell."
+    },
+    {
+      "start": 2043.9,
+      "end": 2052.425,
+      "text": "TQQ, if it goes to, like, an a TQQ from that, but the volatility which you have to live through is going to be tremendous."
+    },
+    {
+      "start": 2052.485,
+      "end": 2052.885,
+      "text": "Okay?"
+    },
+    {
+      "start": 2053.205,
+      "end": 2057.685,
+      "text": "It means, like, in a the volatility here is 15% or 20%."
+    },
+    {
+      "start": 2057.685,
+      "end": 2064.16,
+      "text": "You need a stops which will be like in a in the region of 25% if you want to hold it through the move."
+    },
+    {
+      "start": 2065.42,
+      "end": 2068.0,
+      "text": "Will require stops of around 30% probably."
+    },
+    {
+      "start": 2073.9,
+      "end": 2075.5,
+      "text": "37% it came down."
+    },
+    {
+      "start": 2075.5,
+      "end": 2075.74,
+      "text": "Right?"
+    },
+    {
+      "start": 2075.74,
+      "end": 2077.5999,
+      "text": "So this is not for faint of hearts."
+    },
+    {
+      "start": 2085.615,
+      "end": 2085.855,
+      "text": "Okay."
+    },
+    {
+      "start": 2085.855,
+      "end": 2086.095,
+      "text": "Okay."
+    },
+    {
+      "start": 2086.095,
+      "end": 2086.835,
+      "text": "Any questions?"
+    },
+    {
+      "start": 2093.04,
+      "end": 2094.3135,
+      "text": "No questions."
+    },
+    {
+      "start": 2095.36,
+      "end": 2097.7002,
+      "text": "I will see you people sometime."
+    },
+    {
+      "start": 2101.76,
+      "end": 2102.6401,
+      "text": "Ask question now."
+    },
+    {
+      "start": 2102.6401,
+      "end": 2103.84,
+      "text": "Don't send me emails."
+    },
+    {
+      "start": 2103.84,
+      "end": 2104.0,
+      "text": "Right?"
+    },
+    {
+      "start": 2104.0,
+      "end": 2105.6,
+      "text": "And I'm not going to go through emails."
+    },
+    {
+      "start": 2105.6,
+      "end": 2112.285,
+      "text": "I have, like, an some, how many 110 emails pending currently to respond to."
+    },
+    {
+      "start": 2112.905,
+      "end": 2115.325,
+      "text": "So if you have a question, don't be shy."
+    },
+    {
+      "start": 2116.025,
+      "end": 2120.445,
+      "text": "Summon the courage, and don't be shy to ask now."
+    },
+    {
+      "start": 2121.09,
+      "end": 2121.59,
+      "text": "Right?"
+    },
+    {
+      "start": 2121.81,
+      "end": 2125.9102,
+      "text": "You send me email, 110 emails, you are going to be 111."
+    },
+    {
+      "start": 2126.2102,
+      "end": 2131.11,
+      "text": "So I'm not going to get back to you till, like, in a probably another one month."
+    },
+    {
+      "start": 2135.325,
+      "end": 2144.225,
+      "text": "So, Eji, one question about, trading the with your four zero one k if you don't have the restrictions."
+    },
+    {
+      "start": 2145.325,
+      "end": 2152.56,
+      "text": "Do you like to take profits as it goes to a certain target and then trail the rest?"
+    },
+    {
+      "start": 2153.58,
+      "end": 2153.9001,
+      "text": "Yeah."
+    },
+    {
+      "start": 2153.9001,
+      "end": 2166.965,
+      "text": "You will do all that, like and, basically, especially the easy way to look at it this way is that when it dislocates like this, right, another, you'll probably be looking at around if it works."
+    },
+    {
+      "start": 2166.965,
+      "end": 2167.205,
+      "text": "Right?"
+    },
+    {
+      "start": 2167.205,
+      "end": 2168.665,
+      "text": "And then you're looking at around."
+    },
+    {
+      "start": 2169.445,
+      "end": 2173.765,
+      "text": "Once it goes beyond a particular threshold, you can keep moving structural stops."
+    },
+    {
+      "start": 2173.765,
+      "end": 2174.0051,
+      "text": "Right?"
+    },
+    {
+      "start": 2174.0051,
+      "end": 2176.77,
+      "text": "And so once it breaks out here, you move your stop here."
+    },
+    {
+      "start": 2176.77,
+      "end": 2179.03,
+      "text": "Once it breaks out, you move your stop here."
+    },
+    {
+      "start": 2179.09,
+      "end": 2185.6702,
+      "text": "Every time it goes sideways and breaks out from it successfully, give it two or three days and move the stop, here."
+    },
+    {
+      "start": 2186.37,
+      "end": 2186.77,
+      "text": "Right?"
+    },
+    {
+      "start": 2186.77,
+      "end": 2189.57,
+      "text": "That way, then another consolidation happens."
+    },
+    {
+      "start": 2189.57,
+      "end": 2190.21,
+      "text": "It corrects."
+    },
+    {
+      "start": 2190.21,
+      "end": 2192.725,
+      "text": "Move your stop and so on and so forth."
+    },
+    {
+      "start": 2192.725,
+      "end": 2195.765,
+      "text": "At some stage, you're going to get stopped out on that."
+    },
+    {
+      "start": 2195.765,
+      "end": 2197.205,
+      "text": "Here, you would get stopped out."
+    },
+    {
+      "start": 2197.205,
+      "end": 2197.525,
+      "text": "Right?"
+    },
+    {
+      "start": 2197.525,
+      "end": 2199.705,
+      "text": "Or, like, you know, you'll get stopped out."
+    },
+    {
+      "start": 2199.845,
+      "end": 2201.525,
+      "text": "At this stage, you'll get stopped out."
+    },
+    {
+      "start": 2201.525,
+      "end": 2212.6099,
+      "text": "Then structural stops is the way to do it, basically, which is what, like, another that that was kind of a stops, which is a box, and you would put a stop below the, box."
+    },
+    {
+      "start": 2214.3499,
+      "end": 2214.75,
+      "text": "Perfect."
+    },
+    {
+      "start": 2214.75,
+      "end": 2215.49,
+      "text": "Thank you."
+    },
+    {
+      "start": 2215.55,
+      "end": 2216.05,
+      "text": "Okay."
+    },
+    {
+      "start": 2217.645,
+      "end": 2220.045,
+      "text": "But remember, this is risky also."
+    },
+    {
+      "start": 2220.045,
+      "end": 2220.285,
+      "text": "Right?"
+    },
+    {
+      "start": 2220.285,
+      "end": 2222.945,
+      "text": "If you don't know what you're doing, it can be risky."
+    },
+    {
+      "start": 2223.0051,
+      "end": 2223.5051,
+      "text": "Okay?"
+    },
+    {
+      "start": 2223.725,
+      "end": 2226.625,
+      "text": "So keep in mind that something like this can also happen."
+    },
+    {
+      "start": 2227.0051,
+      "end": 2228.465,
+      "text": "Something like this can happen."
+    },
+    {
+      "start": 2232.54,
+      "end": 2237.12,
+      "text": "Why don't more companies offers, self directed brokerage accounts?"
+    },
+    {
+      "start": 2237.5,
+      "end": 2244.4001,
+      "text": "Do you know, there are the which is the two most, paying profession in this country?"
+    },
+    {
+      "start": 2244.905,
+      "end": 2247.885,
+      "text": "Three most paying profession in this country are which?"
+    },
+    {
+      "start": 2248.425,
+      "end": 2253.325,
+      "text": "Do you have any idea which three most paying professions are in this country are?"
+    },
+    {
+      "start": 2257.39,
+      "end": 2258.45,
+      "text": "One is politics."
+    },
+    {
+      "start": 2260.91,
+      "end": 2261.41,
+      "text": "Right?"
+    },
+    {
+      "start": 2261.71,
+      "end": 2266.85,
+      "text": "Second is Wall Street, and third is lawyers."
+    },
+    {
+      "start": 2270.505,
+      "end": 2271.005,
+      "text": "Right?"
+    },
+    {
+      "start": 2272.585,
+      "end": 2286.45,
+      "text": "So companies have a fiduciary responsibility to not offer very, risky strategies to the employees so they can get sued."
+    },
+    {
+      "start": 2286.51,
+      "end": 2292.51,
+      "text": "Because it is your problem you create bought into some stock and it went to zero, but lawyer will come and say, hey."
+    },
+    {
+      "start": 2292.51,
+      "end": 2292.8298,
+      "text": "Go."
+    },
+    {
+      "start": 2292.8298,
+      "end": 2293.65,
+      "text": "Let's go."
+    },
+    {
+      "start": 2293.71,
+      "end": 2295.15,
+      "text": "Caterpillar is a big company."
+    },
+    {
+      "start": 2295.15,
+      "end": 2296.13,
+      "text": "Let's sue it."
+    },
+    {
+      "start": 2296.155,
+      "end": 2298.235,
+      "text": "Or, like, in a Google is a big company."
+    },
+    {
+      "start": 2298.235,
+      "end": 2304.0151,
+      "text": "So as a result of these, companies try to protect their ass because companies try to protect their ass."
+    },
+    {
+      "start": 2305.435,
+      "end": 2313.5,
+      "text": "They offer you the least what how do you protect your ass if you're a company then to offer the most boring options."
+    },
+    {
+      "start": 2317.56,
+      "end": 2319.48,
+      "text": "It's all like in a target debt fund."
+    },
+    {
+      "start": 2319.48,
+      "end": 2319.98,
+      "text": "Right?"
+    },
+    {
+      "start": 2320.28,
+      "end": 2328.955,
+      "text": "So they offer you target debt funds or they offer you safest funds, because and as you would know."
+    },
+    {
+      "start": 2328.955,
+      "end": 2329.195,
+      "text": "Right?"
+    },
+    {
+      "start": 2329.195,
+      "end": 2333.995,
+      "text": "And then most of the lawyers are also they don't just stay in their lane."
+    },
+    {
+      "start": 2333.995,
+      "end": 2334.235,
+      "text": "Right?"
+    },
+    {
+      "start": 2334.235,
+      "end": 2343.4202,
+      "text": "And then most of the politicians are previous lawyers, and most of Wall Streeters are either lawyers or quantum physics or some math geniuses."
+    },
+    {
+      "start": 2343.56,
+      "end": 2344.06,
+      "text": "Right?"
+    },
+    {
+      "start": 2344.52,
+      "end": 2348.06,
+      "text": "So the lawyers dictate what you can do and what you cannot do in this country."
+    },
+    {
+      "start": 2348.28,
+      "end": 2351.0,
+      "text": "That's the simplest explanation to why this happened this way."
+    },
+    {
+      "start": 2351.0,
+      "end": 2351.5,
+      "text": "Right?"
+    },
+    {
+      "start": 2357.325,
+      "end": 2357.805,
+      "text": "Okay."
+    },
+    {
+      "start": 2357.805,
+      "end": 2359.105,
+      "text": "I will see you people."
+    },
+    {
+      "start": 2359.885,
+      "end": 2366.705,
+      "text": "FSE, like, semiconductor or, like, your best bet is here, the Fidelity hardware."
+    },
+    {
+      "start": 2368.38,
+      "end": 2382.2551,
+      "text": "Three best bets, semiconductor, second, tech hard hardware, and third is SANCSUS."
+    },
+    {
+      "start": 2383.435,
+      "end": 2385.695,
+      "text": "That means global markets, SANCSUS."
+    }
+  ],
+  "language": "en",
+  "backend": "deepgram"
+}
