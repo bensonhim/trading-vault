@@ -1,16 +1,16 @@
 ---
 title: "LLY"
-date: 2026-07-03
+date: 2026-07-08
 tags: [tickers, wiki, auto-compiled]
-mention_count: 8
-sources_count: 7
+mention_count: 28
+sources_count: 15
 compilation_count: 1
 promote: false
 ---
 
 # LLY
 
-*Tickers — compiled from 8 mentions across 7 sources.*
+*Tickers — compiled from 28 mentions across 15 sources.*
 
 ## Mentions
 
@@ -22,7 +22,47 @@ promote: false
 
 > [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: | LLY | 1–4% | Small | Multi-day swing |
 
+> [[../../04-Transcripts/stockbee/2023-11-09_9-am.md|2023-11-09_9-am]]: I am in LLY from, like, in a what do you think of LLY?
+
+> [[../../04-Transcripts/stockbee/2023-11-09_9-am.md|2023-11-09_9-am]]: I am in LLY from, like, in a what do you think of LLY?
+
+> [[../../04-Transcripts/stockbee/2023-11-09_9-am.md|2023-11-09_9-am]]: LLY was a buy here.
+
+> [[../../04-Transcripts/stockbee/2023-11-09_9-am.md|2023-11-09_9-am]]: I have a position from LLY, which I bought on that day, and I'm still holding that position.
+
+> [[../../04-Transcripts/stockbee/2023-11-09_9-am.md|2023-11-09_9-am]]: If you are going to buy LLY here, you have zero understanding of setups.
+
+> [[../../04-Transcripts/stockbee/2023-11-09_9-am.md|2023-11-09_9-am]]: And if you're asking LLY, what do you think?
+
+> [[../../04-Transcripts/stockbee/2023-11-09_9-am.md|2023-11-09_9-am]]: Now here, you see, Duolingo SM you don't see anything here, but these stocks are already of Duolingo SMCA, LLY, like an Nvidia.
+
+> [[../../04-Transcripts/stockbee/2023-11-28_11-am.md|2023-11-28_11-am]]: And I had a big profit on, LLY.
+
+> [[../../04-Transcripts/stockbee/2025-01-14_10-am.md|2025-01-14_10-am]]: So that's why LLY was like in a this is but I think, you know, this is not just one day move because there is always there's there was a 9,000,000 breakdown here during the earning season.
+
+> [[../../04-Transcripts/stockbee/2025-01-14_10-am.md|2025-01-14_10-am]]: Signet and LLY.
+
+> [[../../04-Transcripts/stockbee/2026-01-05_3-pm.md|2026-01-05_3-pm]]: So it is something which is a clear catalyst for both these stocks, LLY and GPCR, basically.
+
+> [[../../04-Transcripts/stockbee/2026-01-15_9_15-am.md|2026-01-15_9_15-am]]: Like an LLY on intraday.
+
+> [[../../04-Transcripts/stockbee/2026-01-21_3-pm.md|2026-01-21_3-pm]]: So well, I mean, it's again, like, an LLY, is this is, like, an $82 89 per move.
+
+> [[../../04-Transcripts/stockbee/2026-01-21_3-pm.md|2026-01-21_3-pm]]: You look at LLY.
+
+> [[../../04-Transcripts/stockbee/2026-02-04_9_15-am.md|2026-02-04_9_15-am]]: [117:32] LLY LLY LLY.
+
+> [[../../04-Transcripts/stockbee/2026-02-04_9_15-am.md|2026-02-04_9_15-am]]: [117:32] LLY LLY LLY.
+
+> [[../../04-Transcripts/stockbee/2026-02-04_9_15-am.md|2026-02-04_9_15-am]]: [117:32] LLY LLY LLY.
+
+> [[../../04-Transcripts/stockbee/2026-02-04_9_15-am.md|2026-02-04_9_15-am]]: [117:36] What happens to LLY after this?
+
 > [[../../04-Transcripts/stockbee/19. Deep Dive Guide/Pradeep Bonde - Deep Dive Guide-Part 5 - X-Ray Reading_deepgram.md|Pradeep Bonde - Deep Dive Guide-Part 5 - X-Ray Reading_deepgram]]: LLY still worked.
+
+> [[../../04-Transcripts/stockbee/videos/2026-02-04_x-ray-reading.md|2026-02-04_x-ray-reading]]: You look at LLY.
+
+> [[../../04-Transcripts/stockbee/videos/2026-02-04_x-ray-reading.md|2026-02-04_x-ray-reading]]: [114:32] LLY still worked.
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-06-24.md|Session-2026-06-24]]: | [[LLY]] | One of the few holding |
 
@@ -44,6 +84,14 @@ promote: false
 - [[../03-Guides/stockbee/19. Deep Dive Guide.md|19. Deep Dive Guide]]
 - [[../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]
 - [[../04-Transcripts/stockbee/19. Deep Dive Guide/Pradeep Bonde - Deep Dive Guide-Part 5 - X-Ray Reading_deepgram.md|Pradeep Bonde - Deep Dive Guide-Part 5 - X-Ray Reading_deepgram]]
+- [[../04-Transcripts/stockbee/2023-11-09_9-am.md|2023-11-09_9-am]]
+- [[../04-Transcripts/stockbee/2023-11-28_11-am.md|2023-11-28_11-am]]
+- [[../04-Transcripts/stockbee/2025-01-14_10-am.md|2025-01-14_10-am]]
+- [[../04-Transcripts/stockbee/2026-01-05_3-pm.md|2026-01-05_3-pm]]
+- [[../04-Transcripts/stockbee/2026-01-15_9_15-am.md|2026-01-15_9_15-am]]
+- [[../04-Transcripts/stockbee/2026-01-21_3-pm.md|2026-01-21_3-pm]]
+- [[../04-Transcripts/stockbee/2026-02-04_9_15-am.md|2026-02-04_9_15-am]]
+- [[../04-Transcripts/stockbee/videos/2026-02-04_x-ray-reading.md|2026-02-04_x-ray-reading]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-06-24.md|Session-2026-06-24]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-06-25.md|Session-2026-06-25]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-06-26.md|Session-2026-06-26]]

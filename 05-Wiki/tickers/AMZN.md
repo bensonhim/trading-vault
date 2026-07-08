@@ -1,6 +1,6 @@
 ---
 title: "AMZN"
-date: 2026-07-03
+date: 2026-07-08
 tags: [tickers, wiki, auto-compiled]
 mention_count: 12
 sources_count: 11

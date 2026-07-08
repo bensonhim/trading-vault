@@ -1,16 +1,16 @@
 ---
 title: "Scans and Filters"
-date: 2026-07-03
+date: 2026-07-08
 tags: [concepts, wiki, auto-compiled]
-mention_count: 213
-sources_count: 127
+mention_count: 497
+sources_count: 299
 compilation_count: 1
 promote: false
 ---
 
 # Scans and Filters
 
-*Concepts — compiled from 213 mentions across 127 sources.*
+*Concepts — compiled from 497 mentions across 299 sources.*
 
 ## Mentions
 
@@ -92,7 +92,7 @@ promote: false
 
 > [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: - Naturally filters for high-priced stocks with momentum
 
-> [[../../04-Transcripts/stockbee/2026-05-01_3-pm.md|2026-05-01_3-pm]]: Stock scans used daily.
+> [[../../04-Transcripts/stockbee/2023-11-03_11-am.md|2023-11-03_11-am]]: You have to have the scans in place.
 
 ## Related Concepts
 

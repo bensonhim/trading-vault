@@ -1,16 +1,16 @@
 ---
 title: "Mind Clarity"
-date: 2026-07-03
+date: 2026-07-08
 tags: [concepts, wiki, auto-compiled]
-mention_count: 560
-sources_count: 150
+mention_count: 1323
+sources_count: 439
 compilation_count: 1
 promote: false
 ---
 
 # Mind Clarity
 
-*Concepts — compiled from 560 mentions across 150 sources.*
+*Concepts — compiled from 1323 mentions across 439 sources.*
 
 ## Mentions
 
@@ -90,9 +90,9 @@ promote: false
 
 > [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: *Compiled from 13-part Mind Clarity video series (Jan 2024 – May 2026). All transcript references: `[[../transcripts/18. Mind Clarity Guide/|Mind Clarity Transcripts]]`*
 
-> [[../../04-Transcripts/stockbee/2026-05-01_3-pm.md|2026-05-01_3-pm]]: Mind clarity about the setup.
+> [[../../04-Transcripts/stockbee/2023-11-01_2-pm.md|2023-11-01_2-pm]]: And, you know, the mind's eye goes to the 8% near 8%, mortgage rate, which which could have, you know, pretty significant effect on housing.
 
-> [[../../04-Transcripts/stockbee/2026-05-01_3-pm.md|2026-05-01_3-pm]]: Crystal clear mind clarity.
+> [[../../04-Transcripts/stockbee/2023-11-03_2-pm.md|2023-11-03_2-pm]]: And, basically, so you just little bit of mind clarity about linearity is such an essential skill.
 
 ## Related Concepts
 

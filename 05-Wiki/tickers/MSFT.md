@@ -1,22 +1,24 @@
 ---
 title: "MSFT"
-date: 2026-07-03
+date: 2026-07-08
 tags: [tickers, wiki, auto-compiled]
-mention_count: 16
-sources_count: 10
+mention_count: 17
+sources_count: 11
 compilation_count: 1
 promote: false
 ---
 
 # MSFT
 
-*Tickers — compiled from 16 mentions across 10 sources.*
+*Tickers — compiled from 17 mentions across 11 sources.*
 
 ## Mentions
 
 > [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: - **5,000+ funds**: "Must own" stocks. Currently ~10–12 names (MSFT, AAPL, AMZN, NVDA, GOOGL, META, LLY, V, MA, JPM, UNH, AVGO). These act as a **market-health gauge**: when they break down, the market is unhealthy; when they start making new highs, the turn is real.
 
 > [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: | Fund Ownership | **LLY, JPM, V, MA, NVDA, AAPL, AMZN, META, MSFT, AVGO** | 5,000+ funds = must-own | When these break down, the market is unhealthy; when they rally, the turn is real |
+
+> [[../../04-Transcripts/stockbee/2023-11-16_2-pm.md|2023-11-16_2-pm]]: Microsoft at MSFT.
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-05-01.md|Session-2026-05-01]]: | [[GOOG]] / [[MSFT]] | Good earnings for large caps, but they typically digest and make 8–15% moves. Not game-changing for this style |
 
@@ -57,6 +59,7 @@ promote: false
 ## Sources
 
 - [[../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]
+- [[../04-Transcripts/stockbee/2023-11-16_2-pm.md|2023-11-16_2-pm]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-05-01.md|Session-2026-05-01]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-05-07.md|Session-2026-05-07]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-05-28.md|Session-2026-05-28]]

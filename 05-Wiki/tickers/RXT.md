@@ -1,16 +1,16 @@
 ---
 title: "RXT"
-date: 2026-07-03
+date: 2026-07-08
 tags: [tickers, wiki, auto-compiled]
-mention_count: 43
-sources_count: 25
+mention_count: 44
+sources_count: 26
 compilation_count: 1
 promote: false
 ---
 
 # RXT
 
-*Tickers — compiled from 43 mentions across 25 sources.*
+*Tickers — compiled from 44 mentions across 26 sources.*
 
 ## Mentions
 
@@ -64,6 +64,8 @@ promote: false
 
 > [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-28_f6e4caec-00c3-4fb1-8971-720ad7851b3c_deepgram.md|meeting_2026-05-28_f6e4caec-00c3-4fb1-8971-720ad7851b3c_deepgram]]: Otherwise, like in a RXT codecs.
 
+> [[../../04-Transcripts/stockbee/videos/2026-05-16_sugar-babies-deeper-look.md|2026-05-16_sugar-babies-deeper-look]]: If you see, this RXT is a low priced one, but, right, another big one.
+
 > [[../../06-Daily/stockbee/Sessions/Session-2026-05-09.md|Session-2026-05-09]]: | [[RXT]] | AI science contract with [[AMD]] | +55% (day 1), continued day 2 | Classic SIPs — clear catalyst, huge short squeeze |
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-05-09.md|Session-2026-05-09]]: | 3 | **Short interest** | Higher = better; 5+ days to cover is good. RXT had 22% of float short |
@@ -91,8 +93,6 @@ promote: false
 > [[../../06-Daily/stockbee/Sessions/Session-2026-06-10.md|Session-2026-06-10]]: 2. **DEP requires institutional quality**: Owned by 1,000+ funds, real catalyst within one month, first setup after catalyst. Story stocks like [[RXT]] at $5 are NOT DEP — they're EP 9M / Sugar Baby.
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-06-10.md|Session-2026-06-10]]: [[SNOW]] · [[RXT]] · [[AVGO]] · [[DELL]] · [[GLW]] · [[OKTA]] · [[NVDA]] · [[META]] · [[AMD]] · [[MSI]] · [[SHOP]] · [[CCL]] · [[NCLH]] · [[HON]] · [[TNA]] · [[IWM]] · [[SPX]] · [[COMP]] · [[BTC]] · [[LIII]]
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-17.md|Session-2026-06-17]]: | [[RXT]] | EP 9M with Palantir catalyst | Example of surprise — near-bankrupt company transforms |
 
 ## Related Concepts
 
@@ -123,4 +123,4 @@ promote: false
 - [[../04-Transcripts/stockbee/Meetings/meeting_2026-05-27_31f7d66e-9b6f-46cd-aa84-84b2458f19dc_deepgram.md|meeting_2026-05-27_31f7d66e-9b6f-46cd-aa84-84b2458f19dc_deepgram]]
 - [[../04-Transcripts/stockbee/Meetings/meeting_2026-05-28_f6e4caec-00c3-4fb1-8971-720ad7851b3c_deepgram.md|meeting_2026-05-28_f6e4caec-00c3-4fb1-8971-720ad7851b3c_deepgram]]
 - [[../04-Transcripts/stockbee/transcript.md|transcript]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-05-09.md|Session-2026-05-09]]
+- [[../04-Transcripts/stockbee/videos/2026-05-16_sugar-babies-deeper-look.md|2026-05-16_sugar-babies-deeper-look]]

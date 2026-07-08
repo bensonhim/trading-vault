@@ -1,13 +1,13 @@
 ---
 title: "Trading Meeting Knowledge"
-date: 2026-07-03
+date: 2026-07-08
 tags: [knowledge, pradeep-bonde, meetings, methodology, market-monitor, evolving, trading]
 ---
 
 # Trading Meeting Knowledge
 
-> Living document compiled from 88 StockBee daily meeting transcripts (May 1 – Jun 10, 2026).
-> Last updated: **Friday, July 03, 2026**
+> Living document compiled from 643 StockBee daily meeting transcripts (May 1 – Jun 10, 2026).
+> Last updated: **Wednesday, July 08, 2026**
 > This note distills **how Pradeep monitors the market** and **applies his trading methodology** in real-time.
 
 ---
@@ -37,21 +37,21 @@ tags: [knowledge, pradeep-bonde, meetings, methodology, market-monitor, evolving
 
 ### Session-Specific Observations
 
-> "So let's look at, like, in a basically, combination bullish."
+> "So let's look at it says bearish FOMC."
 
-> "Let's, like, and then look at, the bullish."
+> "Trade factor 9,000,000 AP combo bullish combo bearish."
 
-> "T2108 has to be less than 20."
+> "It's a reversal bully setup, which is like an here, reversal bullish."
 
-> "It's a very choppy stock."
+> "And not been going through reversal bullish scan, but it was in the reversal bullish scan yesterday."
 
-> "So let's look at, like, in a reversal bullish and go from there."
+> "Let's look at LTV Bullish also here."
 
-> "First, like, and I'm not really, like, in a, keen on as such, like, in a buying these, reversal bullish as such."
+> "You should put that example as a example of a reversal bullish."
 
-> "This my primary setup idea this double trouble doesn't work."
+> "Copy all symbols to bearish work."
 
-> "But, like, in a my primary setup idea here, which I trade, like, in a currently, is e p 9,000,000 and delayed e p and continuation."
+> "And when we go, we can also look at l two b bearish."
 
 ---
 
@@ -136,26 +136,26 @@ From daily meeting commentary:
 
 Tickers repeatedly discussed across sessions (setup candidates, examples, or warnings):
 
-- [[EP]] — mentioned 591 times
-- [[DEP]] — mentioned 478 times
-- [[AI]] — mentioned 292 times
-- [[SOS]] — mentioned 150 times
-- [[AMD]] — mentioned 125 times
-- [[DP]] — mentioned 96 times
-- [[GLW]] — mentioned 90 times
-- [[IPO]] — mentioned 82 times
-- [[SNDK]] — mentioned 61 times
-- [[FOMO]] — mentioned 56 times
-- [[NTRT]] — mentioned 56 times
-- [[NBS]] — mentioned 51 times
-- [[US]] — mentioned 47 times
-- [[OPG]] — mentioned 45 times
-- [[PM]] — mentioned 43 times
-- [[MTRT]] — mentioned 43 times
-- [[TXN]] — mentioned 38 times
-- [[IWM]] — mentioned 38 times
-- [[CEO]] — mentioned 35 times
-- [[TC]] — mentioned 35 times
+- [[EP]] — mentioned 2477 times
+- [[AI]] — mentioned 943 times
+- [[AMD]] — mentioned 616 times
+- [[DEP]] — mentioned 538 times
+- [[AM]] — mentioned 399 times
+- [[SMCI]] — mentioned 393 times
+- [[LTV]] — mentioned 379 times
+- [[IPO]] — mentioned 360 times
+- [[IWM]] — mentioned 299 times
+- [[TQQ]] — mentioned 287 times
+- [[OPG]] — mentioned 284 times
+- [[TNA]] — mentioned 268 times
+- [[FOMO]] — mentioned 267 times
+- [[NTRT]] — mentioned 267 times
+- [[PM]] — mentioned 258 times
+- [[US]] — mentioned 239 times
+- [[SOS]] — mentioned 210 times
+- [[COVID]] — mentioned 172 times
+- [[DNA]] — mentioned 168 times
+- [[MTRT]] — mentioned 165 times
 
 ---
 
@@ -163,39 +163,39 @@ Tickers repeatedly discussed across sessions (setup candidates, examples, or war
 
 ### On Market Conditions
 
-> "So let's look at, like, in a basically, combination bullish."
+> "So let's look at it says bearish FOMC."
 
-> "Let's, like, and then look at, the bullish."
+> "Trade factor 9,000,000 AP combo bullish combo bearish."
 
-> "T2108 has to be less than 20."
+> "It's a reversal bully setup, which is like an here, reversal bullish."
 
-> "It's a very choppy stock."
+> "And not been going through reversal bullish scan, but it was in the reversal bullish scan yesterday."
 
-> "So let's look at, like, in a reversal bullish and go from there."
+> "Let's look at LTV Bullish also here."
 
 ### On Setups & Entries
 
-> "I think I would wait for a delayed reaction, but, like and if you want, it's not really any game changing catalyst or anything."
+> "And yesterday, it was a very good reversal setup."
 
-> "I mean, it's like I mean, that's a low threshold breakout."
+> "But from a setup perspective, in the sense, it doesn't fall under the same criteria for continuation or of WSS or any It's a it's a reversal bully setup."
 
-> "This is more like a delayed reaction."
+> "It's a reversal bully setup, which is like an here, reversal bullish."
 
-> "I would just wait for a delayed reaction."
+> "And not been going through reversal bullish scan, but it was in the reversal bullish scan yesterday."
 
-> "It might set up as a delayed reaction or, like, you know, something later."
+> "So it was a reversal bully setup."
 
 ### On Risk & Psychology
 
-> "If you're 9,000,000, but, like, an eighth, if you like, and nobody's stopping you."
+> "Somebody asked me also where to put a stop also than that."
 
-> "I set up stop loss immediately."
+> "It's it's a small risk which you are taking that that next day that stock might gap down, but I'm willing to live with that risk."
 
-> "If you set start setting up type of stop loss, you will be in a much better position."
+> "It's the same risk which you take when you go on the road that you are going to be hit by another car."
 
-> "We are putting stop at high of the day."
+> "But does that stop you from going on the road?"
 
-> "Like and if you put stop out high of the day, you're going to get stopped out."
+> "And that risk is not very high."
 
 ---
 
@@ -252,7 +252,7 @@ All daily session curated notes:
 
 | Date | Change |
 |------|--------|
-| 2026-07-03 | Initial creation from 88 meeting transcripts (May 1 – Jun 10, 2026) |
+| 2026-07-08 | Initial creation from 643 meeting transcripts (May 1 – Jun 10, 2026) |
 
 ---
 

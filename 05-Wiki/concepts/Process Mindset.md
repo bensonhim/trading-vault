@@ -1,16 +1,16 @@
 ---
 title: "Process Mindset"
-date: 2026-07-03
+date: 2026-07-08
 tags: [concepts, wiki, auto-compiled]
-mention_count: 501
-sources_count: 113
+mention_count: 1191
+sources_count: 302
 compilation_count: 1
 promote: false
 ---
 
 # Process Mindset
 
-*Concepts — compiled from 501 mentions across 113 sources.*
+*Concepts — compiled from 1191 mentions across 302 sources.*
 
 ## Mentions
 

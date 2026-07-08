@@ -1,55 +1,76 @@
 ---
-title: "DAL (Delta Air Lines)"
-date: 2026-06-11
-tags: [tickers, wiki, enriched, pradeep-bonde, airline, setup-quality, ep-9m]
-mention_count: 5
-sources_count: 3
-compilation_count: 2
-enriched: true
+title: "DAL"
+date: 2026-07-08
+tags: [tickers, wiki, auto-compiled]
+mention_count: 20
+sources_count: 10
+compilation_count: 1
 promote: false
 ---
 
-# DAL (Delta Air Lines)
+# DAL
 
-## Overview
+*Tickers — compiled from 20 mentions across 10 sources.*
 
-DAL (Delta Air Lines) appears in a **small number of sessions** with two distinct contexts: (1) as a **setup quality comparison** against [[LUV]] (Southwest Airlines), where DAL is the inferior example, and (2) as an **EP 9M downside** stock showing institutional selling. The mentions are sparse but conceptually important for understanding Pradeep's setup quality framework.
+## Mentions
 
-## Key Mentions
+> [[../../04-Transcripts/stockbee/2024-01-11_9-am.md|2024-01-11_9-am]]: The this is what is also telling me where earnings have came in Bank of America, JPMorgan, DAL.
 
-### Setup Quality — Inferior to LUV
-- **Meeting June 9**: > "Love looks better than Dal in terms of, like, at least convincing." — LUV > DAL in setup quality.
-- > "So Okta, Dal, and Love, those are the two which, like, gonna look good." — Both airlines mentioned as potential setups.
-- > "About Dal and Love." — Discussing both as watchlist candidates.
+> [[../../04-Transcripts/stockbee/2024-01-19_11-am.md|2024-01-19_11-am]]: But, like, DAL looks better than United Airline.
 
-### EP 9M Downside
-- **Mind Clarity Guide Part 6**: > "You had, like, DAL, you had CCL, all of the EP 9M." — DAL showing EP 9M downside signal = institutional selling.
+> [[../../04-Transcripts/stockbee/2024-01-19_11-am.md|2024-01-19_11-am]]: To me, it was a 9,000,000 breakout yesterday, so I didn't really go for I went for DAL.
 
-### False Positive
-- > "Some dal chawal eating and all" — ASR artifact; "dal" = lentils in Hindi, not the ticker.
+> [[../../04-Transcripts/stockbee/2024-01-19_11-am.md|2024-01-19_11-am]]: Either, like, I'll make money in DAL.
 
-## Context
+> [[../../04-Transcripts/stockbee/2024-01-19_11-am.md|2024-01-19_11-am]]: Once I had SMCI in and it started working is when I looked at DAL, and I got into DAL because it was there on my computer, and I had already put in DAL as a thing to watch kind of a thing.
 
-| Setup Type | Evidence |
-|---|---|
-| EP 9M downside | Institutional selling signal |
-| Setup quality | Inferior to LUV — not closing near highs |
-| Airline sector | Grouped with LUV, CCL |
-| Actual trade | None documented |
+> [[../../04-Transcripts/stockbee/2024-01-19_11-am.md|2024-01-19_11-am]]: Once I had SMCI in and it started working is when I looked at DAL, and I got into DAL because it was there on my computer, and I had already put in DAL as a thing to watch kind of a thing.
+
+> [[../../04-Transcripts/stockbee/2024-01-19_11-am.md|2024-01-19_11-am]]: Once I had SMCI in and it started working is when I looked at DAL, and I got into DAL because it was there on my computer, and I had already put in DAL as a thing to watch kind of a thing.
+
+> [[../../04-Transcripts/stockbee/2025-01-15_2-pm.md|2025-01-15_2-pm]]: DAL was a consolidation breakout.
+
+> [[../../04-Transcripts/stockbee/2025-07-10_9_15-am.md|2025-07-10_9_15-am]]: So in terms of other SIPs, DAL, Delta earnings, and it's moving the industry.
+
+> [[../../04-Transcripts/stockbee/2025-07-10_9_15-am.md|2025-07-10_9_15-am]]: Obviously, some of them, like, DAL and, the collateral will be UL and things like that.
+
+> [[../../04-Transcripts/stockbee/2025-07-10_9_15-am.md|2025-07-10_9_15-am]]: And I think and probably also, the best reaction to DAL or to earnings has been eight to 9% historically.
+
+> [[../../04-Transcripts/stockbee/2025-07-10_9_15-am.md|2025-07-10_9_15-am]]: It's a very good pattern because it's like in a, the stock is like in a not but but like in a there is nothing, in DAL, which is like in a really terribly exciting in terms of, like, in a earnings, but like in a, it's neglected for two months.
+
+> [[../../04-Transcripts/stockbee/2025-07-10_9_15-am.md|2025-07-10_9_15-am]]: And I on something same thing like an between AL and DAL, I would select DAL because it has immediate catalyst.
+
+> [[../../04-Transcripts/stockbee/2025-07-10_9_15-am.md|2025-07-10_9_15-am]]: And I on something same thing like an between AL and DAL, I would select DAL because it has immediate catalyst.
+
+> [[../../04-Transcripts/stockbee/2025-07-14_2-pm.md|2025-07-14_2-pm]]: I think that DAL has a delayed reaction.
+
+> [[../../04-Transcripts/stockbee/2026-02-25_9_15-am.md|2026-02-25_9_15-am]]: Nutrien, DAL, CRH, TransMedics, Webex and Core.
+
+> [[../../04-Transcripts/stockbee/2026-05-27_3-pm.md|2026-05-27_3-pm]]: You had, like, DAL, you had CCL, all of the n e p nine million.
+
+> [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-27_e2fe97ec-52f8-4ada-8bf2-336b06e17700_deepgram.md|meeting_2026-05-27_e2fe97ec-52f8-4ada-8bf2-336b06e17700_deepgram]]: You had, like, DAL, you had CCL, all of the n e p nine million.
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-05-20.md|Session-2026-05-20]]: | [[DAL]] (Delta) | Lower oil = airline profitability | Clear airline ETF breakout |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-05-21.md|Session-2026-05-21]]: | Airlines (JETS, DAL, etc.)       | Based on Iran/oil rumor                             | Speculative, tricky unless long-term hold                                |
 
 ## Related Concepts
 
-- [[05-Wiki/setups/EP|Episodic Pivots]] — EP 9M downside
-- [[05-Wiki/concepts/setup-quality|Setup Quality]] — DAL as inferior example
-- [[05-Wiki/tickers/LUV|LUV]] — Superior setup comparison
+*(To be enriched)*
 
 ## Contradictions & Gaps
 
-- Very few mentions (5) with one being a clear false positive (Hindi word "dal").
-- No documented trades or specific price levels.
+*(To be detected)*
 
 ## Sources
 
-- [[Pradeep Bonde - Mind Clarity Guide-Part 6 - Mind Clarity Momentum Burst SOS_deepgram]]
-- [[meeting_2026-05-27_e2fe97ec]]
-- [[meeting_2026-06-09_67b0dba7]]
+- [[../04-Transcripts/stockbee/2024-01-11_9-am.md|2024-01-11_9-am]]
+- [[../04-Transcripts/stockbee/2024-01-19_11-am.md|2024-01-19_11-am]]
+- [[../04-Transcripts/stockbee/2025-01-15_2-pm.md|2025-01-15_2-pm]]
+- [[../04-Transcripts/stockbee/2025-07-10_9_15-am.md|2025-07-10_9_15-am]]
+- [[../04-Transcripts/stockbee/2025-07-14_2-pm.md|2025-07-14_2-pm]]
+- [[../04-Transcripts/stockbee/2026-02-25_9_15-am.md|2026-02-25_9_15-am]]
+- [[../04-Transcripts/stockbee/2026-05-27_3-pm.md|2026-05-27_3-pm]]
+- [[../04-Transcripts/stockbee/Meetings/meeting_2026-05-27_e2fe97ec-52f8-4ada-8bf2-336b06e17700_deepgram.md|meeting_2026-05-27_e2fe97ec-52f8-4ada-8bf2-336b06e17700_deepgram]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-05-20.md|Session-2026-05-20]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-05-21.md|Session-2026-05-21]]

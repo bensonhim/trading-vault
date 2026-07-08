@@ -1,16 +1,16 @@
 ---
 title: "AVGO"
-date: 2026-07-03
+date: 2026-07-08
 tags: [tickers, wiki, auto-compiled]
-mention_count: 80
-sources_count: 45
+mention_count: 177
+sources_count: 101
 compilation_count: 1
 promote: false
 ---
 
 # AVGO
 
-*Tickers — compiled from 80 mentions across 45 sources.*
+*Tickers — compiled from 177 mentions across 101 sources.*
 
 ## Mentions
 
@@ -22,77 +22,77 @@ promote: false
 
 > [[../../03-Guides/stockbee/17. Catalyst Guide/17. Catalyst Guide.md|17. Catalyst Guide]]: | **AI / Machine Learning** | 2023–2033+ | Nvidia, AMD, SMCI, AVGO |
 
-> [[../../04-Transcripts/stockbee/2026-05-05_3-pm.md|2026-05-05_3-pm]]: AVGO, again, like, it's EP 9,000,000, and it is in a sector and in everything is going up right and in that sector.
+> [[../../04-Transcripts/stockbee/2023-12-26_2-pm.md|2023-12-26_2-pm]]: How does AVGO looks?
 
-> [[../../04-Transcripts/stockbee/2026-05-12_9_15-am.md|2026-05-12_9_15-am]]: AVGO, Taiwan semi, US error, meta, power six solution.
+> [[../../04-Transcripts/stockbee/2024-01-08_2-pm.md|2024-01-08_2-pm]]: AVGO, very high priced.
 
-> [[../../04-Transcripts/stockbee/2026-05-12_9_15-am.md|2026-05-12_9_15-am]]: AVGO is the same thing.
+> [[../../04-Transcripts/stockbee/2024-01-18_11-am.md|2024-01-18_11-am]]: Sir, this, AVGO, showed up after, like, I think it was, up, like, I think, $6 Mhmm.
 
-> [[../../04-Transcripts/stockbee/2026-05-13_9_15-am.md|2026-05-13_9_15-am]]: Same thing with AVGO.
+> [[../../04-Transcripts/stockbee/2024-01-18_11-am.md|2024-01-18_11-am]]: I got into Palo Alto Network, AVGO, and this, and all of them faded.
 
-> [[../../04-Transcripts/stockbee/2026-05-13_9_15-am.md|2026-05-13_9_15-am]]: AVGO comes out and does a blowout earnings.
+> [[../../04-Transcripts/stockbee/2024-01-18_11-am.md|2024-01-18_11-am]]: But, again, I'm not saying buy, AVGO because I to me, it's a gap up, right, and kind of a thing.
 
-> [[../../04-Transcripts/stockbee/2026-05-13_9_15_AM.md|2026-05-13_9_15_AM]]: Same thing with AVGO.
+> [[../../04-Transcripts/stockbee/2024-01-18_2-pm.md|2024-01-18_2-pm]]: But, like, an I also got into AVGO on this day.
 
-> [[../../04-Transcripts/stockbee/2026-05-13_9_15_AM.md|2026-05-13_9_15_AM]]: AVGO comes out and does a blowout earnings.
+> [[../../04-Transcripts/stockbee/2024-01-24_11-am.md|2024-01-24_11-am]]: AVGO, I would I would not even get into something like AVGO here.
 
-> [[../../04-Transcripts/stockbee/2026-05-15_3-pm.md|2026-05-15_3-pm]]: What happened to AVGO?
+> [[../../04-Transcripts/stockbee/2024-01-24_11-am.md|2024-01-24_11-am]]: AVGO, I would I would not even get into something like AVGO here.
 
-> [[../../04-Transcripts/stockbee/2026-05-18_9_15-am.md|2026-05-18_9_15-am]]: The only stocks which are leading were these Intel, AVGO, arms.
+> [[../../04-Transcripts/stockbee/2024-08-01_2-pm.md|2024-08-01_2-pm]]: This Apple also that's like I don't think it is going to it's like an Adobe now, we start CRM, Nvidia, AVGO, Meta Meta.
 
-> [[../../04-Transcripts/stockbee/2026-05-18_9_15-am.md|2026-05-18_9_15-am]]: And I see things which looked very good like AVGO, they're fading.
+> [[../../04-Transcripts/stockbee/2024-08-05_10-am.md|2024-08-05_10-am]]: Tesla, AMD, Apple, AVGO, TSM, fifty two, Nvidia, Nvidia, Microsoft, Google, all the bounces.
 
-> [[../../04-Transcripts/stockbee/2026-05-22_3-pm.md|2026-05-22_3-pm]]: This AVGO had a 9,000,000 EP.
+> [[../../04-Transcripts/stockbee/2024-08-06_10-am.md|2024-08-06_10-am]]: Is there far, l l y v, JPMorgan Chase, AVGO, Microsoft, UnitedHealth, Mark, CRM, Nvidia, Apple, Adobe, Amazon.
 
-> [[../../04-Transcripts/stockbee/2026-05-26_3-pm.md|2026-05-26_3-pm]]: And I told you about AVGO also in the morning.
+> [[../../04-Transcripts/stockbee/2025-01-02_10-am.md|2025-01-02_10-am]]: And then sorted by volume, NVIDIA, less, hello QBTS, freeware, q q q, AVGO.
 
-> [[../../04-Transcripts/stockbee/2026-05-26_3-pm.md|2026-05-26_3-pm]]: I explained my logic for AVGO.
+> [[../../04-Transcripts/stockbee/2025-01-03_10-am.md|2025-01-03_10-am]]: But as I said in the morning, do I have I AVGO still looks good.
 
-> [[../../04-Transcripts/stockbee/2026-05-26_9_15-am.md|2026-05-26_9_15-am]]: AVGO is a sugar baby.
+> [[../../04-Transcripts/stockbee/2025-01-03_2-pm.md|2025-01-03_2-pm]]: So AVGO, this has a real catalyst.
 
-> [[../../04-Transcripts/stockbee/2026-05-26_9_15-am.md|2026-05-26_9_15-am]]: That's the one which is like an the one which I would be definitely interested out of this AVGO.
+> [[../../04-Transcripts/stockbee/2025-01-03_2-pm.md|2025-01-03_2-pm]]: Any breakout here is a buy for especially working people and all stocks like Google, AVGO, Rubrik, CRDO.
 
-> [[../../04-Transcripts/stockbee/2026-05-27_9_15-am.md|2026-05-27_9_15-am]]: And, basically, because it, like and it keeps on, getting you, like, yesterday, AVGO.
+> [[../../04-Transcripts/stockbee/2025-01-03_2-pm.md|2025-01-03_2-pm]]: And AVGO has immediate catalyst.
 
-> [[../../04-Transcripts/stockbee/2026-05-28_9_15-am.md|2026-05-28_9_15-am]]: GLW, right, on a Intel, AVGO, coherent, Google, Oracle.
+> [[../../04-Transcripts/stockbee/2025-01-03_9-am.md|2025-01-03_9-am]]: So this is my watch list, restoration hardware, AVGO, Wix, Google, right, and then Marvel, which is already a breakout.
 
-> [[../../04-Transcripts/stockbee/2026-06-09_9_15-am.md|2026-06-09_9_15-am]]: Is there information in that, this AVGO potential shot, right, and it has a DEP shot, basically?
+> [[../../04-Transcripts/stockbee/2025-01-06_10-am.md|2025-01-06_10-am]]: AVGO, which was like what I told you, it that is the first thing which, like, in the gap up, like, I bought, when it, like, in in the morning.
 
-> [[../../04-Transcripts/stockbee/2026-06-10_3-pm.md|2026-06-10_3-pm]]: And AVGO has a catalyst.
+> [[../../04-Transcripts/stockbee/2025-01-06_10-am.md|2025-01-06_10-am]]: MSTO, I'm say holding and I'm say holding AVGO.
 
-> [[../../04-Transcripts/stockbee/2026-06-10_3-pm.md|2026-06-10_3-pm]]: And what is the catalyst for all these stocks going down currently, AMD or AVGO?
+> [[../../04-Transcripts/stockbee/2025-01-06_10-am.md|2025-01-06_10-am]]: My, this thing, AVGO, it was at my, like, any if I I'd posted AVGO as my anticipation setup last night only itself, I think.
 
-> [[../../04-Transcripts/stockbee/2026-06-10_9_15-am.md|2026-06-10_9_15-am]]: So now we're gonna CG, why are you calling AVGO as a sharp now after three days of, down days?
+> [[../../04-Transcripts/stockbee/2025-01-06_10-am.md|2025-01-06_10-am]]: My, this thing, AVGO, it was at my, like, any if I I'd posted AVGO as my anticipation setup last night only itself, I think.
 
-> [[../../04-Transcripts/stockbee/2026-06-16_3-pm.md|2026-06-16_3-pm]]: That AVGO might work.
+> [[../../04-Transcripts/stockbee/2025-01-06_10-am.md|2025-01-06_10-am]]: See this AVGO now?
 
-> [[../../04-Transcripts/stockbee/2026-06-16_3-pm.md|2026-06-16_3-pm]]: I think that AVGO might work.
+> [[../../04-Transcripts/stockbee/2025-01-06_2-pm.md|2025-01-06_2-pm]]: Where's the AVGO?
 
-> [[../../04-Transcripts/stockbee/2026-06-16_3-pm.md|2026-06-16_3-pm]]: But, it's again, in terms of catalyst, the catalyst on AVGO is not something which is like an okay.
+> [[../../04-Transcripts/stockbee/2025-01-06_2-pm.md|2025-01-06_2-pm]]: And in the between AVGO and Google, I selected to get into AVGO.
 
-> [[../../04-Transcripts/stockbee/2026-06-25_9_15-am.md|2026-06-25_9_15-am]]: So there are a lot of these kind of, things which can happen, like in a AVGO earning also.
+> [[../../04-Transcripts/stockbee/2025-01-06_2-pm.md|2025-01-06_2-pm]]: And in the between AVGO and Google, I selected to get into AVGO.
 
-> [[../../04-Transcripts/stockbee/2026-06-25_9_15-am.md|2026-06-25_9_15-am]]: There are so much buildup on AVGO earnings, and that thing gapped up.
+> [[../../04-Transcripts/stockbee/2025-01-06_2-pm.md|2025-01-06_2-pm]]: I would still keep AVGO as a delayed reaction watch.
 
-> [[../../04-Transcripts/stockbee/transcript.md|transcript]]: And AVGO has a catalyst.
+> [[../../04-Transcripts/stockbee/2025-01-06_2-pm.md|2025-01-06_2-pm]]: So, AVGO, which was on my watch list, I thought, like, and it is, like, ready to break out as soon as, I I bought it in the morning, sold it 80%, 90%, rest of it, like, got stopped out.
 
-> [[../../04-Transcripts/stockbee/transcript.md|transcript]]: And what is the catalyst for all these stocks going down currently, AMD or AVGO?
+> [[../../04-Transcripts/stockbee/2025-01-06_2-pm.md|2025-01-06_2-pm]]: Western Digital, AVGO, TQQ short, CRDO short.
 
-> [[../../04-Transcripts/stockbee/16. DEP Guide/Pradeep Bonde - DEP Guide-Part 4 - Delayed Reactions Daily Process_deepgram.md|Pradeep Bonde - DEP Guide-Part 4 - Delayed Reactions Daily Process_deepgram]]: I think the AVGO and all, they might have the same, thing.
+> [[../../04-Transcripts/stockbee/2025-01-06_9-am.md|2025-01-06_9-am]]: So what is happening is, like and if you read this, this particular thing, has got, there is a big news today, which is why AVGO and the tech, SockCell and all are capping up and that big news today is basically that big news is, the earnings for the Foxconn came in and the earnings for Foxconn is like in a way very good right and so if you see, you'll see stocks to watch Monday, AMD, Nvidia, US Steel, Plug Power, right?
 
-> [[../../04-Transcripts/stockbee/16. DEP Guide/Pradeep Bonde - DEP Guide-Part 4 - Delayed Reactions Daily Process_deepgram.md|Pradeep Bonde - DEP Guide-Part 4 - Delayed Reactions Daily Process_deepgram]]: That's why AVGO is will be on my list of stocks.
+> [[../../04-Transcripts/stockbee/2025-01-06_9-am.md|2025-01-06_9-am]]: Nvidia is to up AMD, Micron Technology, AVGO also client.
 
-> [[../../04-Transcripts/stockbee/16. DEP Guide/Pradeep Bonde - DEP Guide-Part 4 - Delayed Reactions Daily Process_deepgram.md|Pradeep Bonde - DEP Guide-Part 4 - Delayed Reactions Daily Process_deepgram]]: I'm going to put these stickers NBO and, AVGO On my IV interface, I already put it on IV interface.
+> [[../../04-Transcripts/stockbee/2025-01-06_9-am.md|2025-01-06_9-am]]: Even AVGO is an example of sales stars.
 
-> [[../../04-Transcripts/stockbee/18. Mind Clarity Guide/Pradeep Bonde - Mind Clarity Guide-Part 6 - Mind Clarity Momentum Burst SOS_deepgram.md|Pradeep Bonde - Mind Clarity Guide-Part 6 - Mind Clarity Momentum Burst SOS_deepgram]]: And after a delay, it made a move or, like, AVGO had a positive catalyst.
+> [[../../04-Transcripts/stockbee/2025-01-06_9-am.md|2025-01-06_9-am]]: Three tight days or two tight days, like, AVGO was on my list because it had three tight days.
 
-> [[../../04-Transcripts/stockbee/20. Stock Selection Guide/Pradeep Bonde - Stock Selection Guide-Fund Ownership_deepgram.md|Pradeep Bonde - Stock Selection Guide-Fund Ownership_deepgram]]: So, if you see WellRock Capital, you will see in the WellRock Capital, if they buy something, so what he owns, on Celestica, Applovin, Nvidia, Meta, Roblox, AVGO, BE, Amazon.
+> [[../../04-Transcripts/stockbee/2025-01-07_10-am.md|2025-01-07_10-am]]: Amazon, AVGO, QQQ, food, CLSK, MicroStrategy, BTBT, IWM, Lunar Initiative.
 
-> [[../../04-Transcripts/stockbee/22. Reversals Guide/Pradeep Bonde - Reversals Guide-How to Find and Trade Reversals_deepgram.md|Pradeep Bonde - Reversals Guide-How to Find and Trade Reversals_deepgram]]: AVGO is a good example.
+> [[../../04-Transcripts/stockbee/2025-01-08_10-am.md|2025-01-08_10-am]]: I think I'm a I still, in watching AVGO for possible delayed reaction.
 
-> [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-12_fb286cc9-8cd9-449d-8a3c-05a410b4ee97_deepgram.md|meeting_2026-05-12_fb286cc9-8cd9-449d-8a3c-05a410b4ee97_deepgram]]: AVGO, Taiwan semi, US error, meta, power six solution.
+> [[../../04-Transcripts/stockbee/2025-01-08_2-pm.md|2025-01-08_2-pm]]: This AVGO, I still think AVGO has a potential, right, and basically, it gapped up too much and made too much move.
 
-> [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-12_fb286cc9-8cd9-449d-8a3c-05a410b4ee97_deepgram.md|meeting_2026-05-12_fb286cc9-8cd9-449d-8a3c-05a410b4ee97_deepgram]]: AVGO is the same thing.
+> [[../../04-Transcripts/stockbee/2025-01-08_2-pm.md|2025-01-08_2-pm]]: This AVGO, I still think AVGO has a potential, right, and basically, it gapped up too much and made too much move.
 
 ## Related Concepts
 
@@ -110,17 +110,17 @@ promote: false
 - [[../04-Transcripts/stockbee/16. DEP Guide/Pradeep Bonde - DEP Guide-Part 4 - Delayed Reactions Daily Process_deepgram.md|Pradeep Bonde - DEP Guide-Part 4 - Delayed Reactions Daily Process_deepgram]]
 - [[../04-Transcripts/stockbee/18. Mind Clarity Guide/Pradeep Bonde - Mind Clarity Guide-Part 6 - Mind Clarity Momentum Burst SOS_deepgram.md|Pradeep Bonde - Mind Clarity Guide-Part 6 - Mind Clarity Momentum Burst SOS_deepgram]]
 - [[../04-Transcripts/stockbee/20. Stock Selection Guide/Pradeep Bonde - Stock Selection Guide-Fund Ownership_deepgram.md|Pradeep Bonde - Stock Selection Guide-Fund Ownership_deepgram]]
-- [[../04-Transcripts/stockbee/2026-05-05_3-pm.md|2026-05-05_3-pm]]
-- [[../04-Transcripts/stockbee/2026-05-12_9_15-am.md|2026-05-12_9_15-am]]
-- [[../04-Transcripts/stockbee/2026-05-13_9_15-am.md|2026-05-13_9_15-am]]
-- [[../04-Transcripts/stockbee/2026-05-13_9_15_AM.md|2026-05-13_9_15_AM]]
-- [[../04-Transcripts/stockbee/2026-05-15_3-pm.md|2026-05-15_3-pm]]
-- [[../04-Transcripts/stockbee/2026-05-18_9_15-am.md|2026-05-18_9_15-am]]
-- [[../04-Transcripts/stockbee/2026-05-22_3-pm.md|2026-05-22_3-pm]]
-- [[../04-Transcripts/stockbee/2026-05-26_3-pm.md|2026-05-26_3-pm]]
-- [[../04-Transcripts/stockbee/2026-05-26_9_15-am.md|2026-05-26_9_15-am]]
-- [[../04-Transcripts/stockbee/2026-05-27_9_15-am.md|2026-05-27_9_15-am]]
-- [[../04-Transcripts/stockbee/2026-05-28_9_15-am.md|2026-05-28_9_15-am]]
-- [[../04-Transcripts/stockbee/2026-06-09_9_15-am.md|2026-06-09_9_15-am]]
-- [[../04-Transcripts/stockbee/2026-06-10_3-pm.md|2026-06-10_3-pm]]
-- [[../04-Transcripts/stockbee/2026-06-10_9_15-am.md|2026-06-10_9_15-am]]
+- [[../04-Transcripts/stockbee/2023-12-26_2-pm.md|2023-12-26_2-pm]]
+- [[../04-Transcripts/stockbee/2024-01-08_2-pm.md|2024-01-08_2-pm]]
+- [[../04-Transcripts/stockbee/2024-01-18_11-am.md|2024-01-18_11-am]]
+- [[../04-Transcripts/stockbee/2024-01-18_2-pm.md|2024-01-18_2-pm]]
+- [[../04-Transcripts/stockbee/2024-01-24_11-am.md|2024-01-24_11-am]]
+- [[../04-Transcripts/stockbee/2024-08-01_2-pm.md|2024-08-01_2-pm]]
+- [[../04-Transcripts/stockbee/2024-08-05_10-am.md|2024-08-05_10-am]]
+- [[../04-Transcripts/stockbee/2024-08-06_10-am.md|2024-08-06_10-am]]
+- [[../04-Transcripts/stockbee/2025-01-02_10-am.md|2025-01-02_10-am]]
+- [[../04-Transcripts/stockbee/2025-01-03_10-am.md|2025-01-03_10-am]]
+- [[../04-Transcripts/stockbee/2025-01-03_2-pm.md|2025-01-03_2-pm]]
+- [[../04-Transcripts/stockbee/2025-01-03_9-am.md|2025-01-03_9-am]]
+- [[../04-Transcripts/stockbee/2025-01-06_10-am.md|2025-01-06_10-am]]
+- [[../04-Transcripts/stockbee/2025-01-06_2-pm.md|2025-01-06_2-pm]]

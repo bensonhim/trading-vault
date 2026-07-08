@@ -1,18 +1,20 @@
 ---
 title: "MRVL"
-date: 2026-07-03
+date: 2026-07-08
 tags: [tickers, wiki, auto-compiled]
-mention_count: 20
-sources_count: 11
+mention_count: 21
+sources_count: 12
 compilation_count: 1
 promote: false
 ---
 
 # MRVL
 
-*Tickers — compiled from 20 mentions across 11 sources.*
+*Tickers — compiled from 21 mentions across 12 sources.*
 
 ## Mentions
+
+> [[../../04-Transcripts/stockbee/videos/2026-03-08_momentum-watchlist.md|2026-03-08_momentum-watchlist]]: Like, say, let's say, like, an MRVL had a catalyst.
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-05-01.md|Session-2026-05-01]]: | [[MRVL]] | Fourth day of a move. "Where were you during the move?" No setup left |
 
@@ -52,7 +54,7 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-07-01.md|Session-2026-07-01]]: | [[MRVL]] (Marvel) | DEP from Sunday list | Already broke out Monday/Tuesday; too late now |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]: | [[MRVL]] (Marvel) | DEP / catalyst | Member asked why it was a "hard break"; Pradeep explained catalyst lifespan and consolidation risk |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]: | [[MRVL]] (Marvel)                         | DEP / catalyst                          | Member asked why it was a "hard break"; Pradeep explained catalyst lifespan and consolidation risk |
 
 ## Related Concepts
 
@@ -64,6 +66,7 @@ promote: false
 
 ## Sources
 
+- [[../04-Transcripts/stockbee/videos/2026-03-08_momentum-watchlist.md|2026-03-08_momentum-watchlist]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-05-01.md|Session-2026-05-01]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-05-05.md|Session-2026-05-05]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-05-13.md|Session-2026-05-13]]

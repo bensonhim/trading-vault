@@ -1,16 +1,16 @@
 ---
 title: "Weak Structure Short"
-date: 2026-07-03
+date: 2026-07-08
 tags: [concepts, wiki, auto-compiled]
-mention_count: 90
-sources_count: 46
+mention_count: 350
+sources_count: 199
 compilation_count: 1
 promote: false
 ---
 
 # Weak Structure Short
 
-*Concepts — compiled from 90 mentions across 46 sources.*
+*Concepts — compiled from 350 mentions across 199 sources.*
 
 ## Mentions
 
@@ -46,53 +46,53 @@ promote: false
 
 > [[../../03-Guides/stockbee/10. Weak Structure Short Guide/10. Weak Structure Short Guide.md|10. Weak Structure Short Guide]]: | "big structure shot" | **weak structure short** | ASR mishearing of "weak" as "big" |
 
-> [[../../04-Transcripts/stockbee/2026-05-09_Unknown.md|2026-05-09_Unknown]]: This news was not if you have some, like and if you have some kind of a a news source, you would know.
+> [[../../04-Transcripts/stockbee/2023-11-14_2-pm.md|2023-11-14_2-pm]]: Who's the genius who's looking for, like, a weak structure shot?
 
-> [[../../04-Transcripts/stockbee/2026-05-09_Unknown.md|2026-05-09_Unknown]]: So premarket volume news, short interest themes.
+> [[../../04-Transcripts/stockbee/2023-11-16_11-am.md|2023-11-16_11-am]]: CRK, which look like a weak structure shot.
 
-> [[../../04-Transcripts/stockbee/2026-05-09_Unknown.md|2026-05-09_Unknown]]: I don't watch news, so I don't know.
+> [[../../04-Transcripts/stockbee/2023-11-20_11-am.md|2023-11-20_11-am]]: And, basically, investor business daily news, Seeking Alpha.
 
-> [[../../04-Transcripts/stockbee/2026-05-20_3-pm.md|2026-05-20_3-pm]]: Somebody already knows something.
+> [[../../04-Transcripts/stockbee/2023-11-27_2-pm.md|2023-11-27_2-pm]]: Now we are looking for a weak structure shot.
 
-> [[../../04-Transcripts/stockbee/2026-06-10_3-pm.md|2026-06-10_3-pm]]: Weak structure shot.
+> [[../../04-Transcripts/stockbee/2023-11-27_2-pm.md|2023-11-27_2-pm]]: Weak structure shot.
 
-> [[../../04-Transcripts/stockbee/2026-06-10_3-pm.md|2026-06-10_3-pm]]: Basically, that's like a very good a weak structure shot kind of a setup.
+> [[../../04-Transcripts/stockbee/2023-11-29_11-am.md|2023-11-29_11-am]]: The only thing which I don't watch is, like, in a Fox News, so I didn't see Fox News.
 
-> [[../../04-Transcripts/stockbee/2026-06-10_9_15-am.md|2026-06-10_9_15-am]]: It's not a a very, weak structure shot.
+> [[../../04-Transcripts/stockbee/2023-11-30_2-pm.md|2023-11-30_2-pm]]: Nothing in weak structure shot.
 
-> [[../../04-Transcripts/stockbee/2026-06-22_3-pm.md|2026-06-22_3-pm]]: No one artist is no news story.
+> [[../../04-Transcripts/stockbee/2023-12-04_9-am.md|2023-12-04_9-am]]: Last three weeks, I'm doing things on, weak structure shot.
 
-> [[../../04-Transcripts/stockbee/2026-06-22_9_15-am.md|2026-06-22_9_15-am]]: That's, like, almost like a weak structure shot kind of a thing.
+> [[../../04-Transcripts/stockbee/2023-12-06_11-am.md|2023-12-06_11-am]]: But that is not something which is today's news, so I don't know why it is going up.
 
-> [[../../04-Transcripts/stockbee/2026-06-23_9_15-am.md|2026-06-23_9_15-am]]: And the woman knows something.
+> [[../../04-Transcripts/stockbee/2023-12-12_2-pm.md|2023-12-12_2-pm]]: So I'm looking for a weak structure shot here.
 
-> [[../../04-Transcripts/stockbee/2026-06-26_3-pm.md|2026-06-26_3-pm]]: So if you did, like, any NTRT, MTRT today, most of the news site had this news.
+> [[../../04-Transcripts/stockbee/2023-12-14_2-pm.md|2023-12-14_2-pm]]: If I had to take a shot, the only shot which I'm interested in is weak structure shot.
 
-> [[../../04-Transcripts/stockbee/2026-06-30_3-pm.md|2026-06-30_3-pm]]: If tomorrow's setup show up, we buy them.
+> [[../../04-Transcripts/stockbee/2023-12-18_11-am.md|2023-12-18_11-am]]: I prefer weak structure shot.
 
-> [[../../04-Transcripts/stockbee/2026-07-01_9_15-am.md|2026-07-01_9_15-am]]: Apple, a m t, AWS spy.
+> [[../../04-Transcripts/stockbee/2023-12-21_9-am.md|2023-12-21_9-am]]: I'm going to take, a weak structure shot or something which had a, like, it is something like Oracle.
 
-> [[../../04-Transcripts/stockbee/transcript.md|transcript]]: Weak structure shot.
+> [[../../04-Transcripts/stockbee/2023-12-22_2-pm.md|2023-12-22_2-pm]]: Is is that weak structure shot?
 
-> [[../../04-Transcripts/stockbee/transcript.md|transcript]]: Basically, that's like a very good a weak structure shot kind of a setup.
+> [[../../04-Transcripts/stockbee/2023-12-22_2-pm.md|2023-12-22_2-pm]]: Is it very, very close to weak structure shot?
 
-> [[../../04-Transcripts/stockbee/01. How to Get Started/Pradeep Bonde - How to Get Started In Trading Guide-Part 6_deepgram.md|Pradeep Bonde - How to Get Started In Trading Guide-Part 6_deepgram]]: Weak structure short.
+> [[../../04-Transcripts/stockbee/2023-12-22_2-pm.md|2023-12-22_2-pm]]: That's not even remotely what I would call a weak structure shot.
 
-> [[../../04-Transcripts/stockbee/01. How to Get Started/Pradeep Bonde - How to Get Started In Trading Guide-Part 6_deepgram.md|Pradeep Bonde - How to Get Started In Trading Guide-Part 6_deepgram]]: Weak structure short.
+> [[../../04-Transcripts/stockbee/2023-12-22_2-pm.md|2023-12-22_2-pm]]: That's but, like, it's not a weak structure shot currently out there.
 
-> [[../../04-Transcripts/stockbee/01. How to Get Started/Pradeep Bonde - How to Get Started In Trading Guide-Part 6_deepgram.md|Pradeep Bonde - How to Get Started In Trading Guide-Part 6_deepgram]]: I found weak structure short by essentially looking at mystery traders' method.
+> [[../../04-Transcripts/stockbee/2023-12-26_2-pm.md|2023-12-26_2-pm]]: Either it is parabolic shot or a weak structure shot or what else is there on the short side?
 
-> [[../../04-Transcripts/stockbee/01. How to Get Started/Pradeep Bonde - How to Get Started In Trading Guide-Part 6_deepgram.md|Pradeep Bonde - How to Get Started In Trading Guide-Part 6_deepgram]]: And I used this idea to develop weak structure.
+> [[../../04-Transcripts/stockbee/2023-12-28_11-am.md|2023-12-28_11-am]]: It's not even remotely weak structure shot.
 
-> [[../../04-Transcripts/stockbee/02. How to Trade Breakouts/Pradeep Bonde - How to Trade Breakouts Guide-Part 6_deepgram.md|Pradeep Bonde - How to Trade Breakouts Guide-Part 6_deepgram]]: Sometimes it shows sometimes it doesn't show.
+> [[../../04-Transcripts/stockbee/2023-12-28_2-pm.md|2023-12-28_2-pm]]: That's the kind of thing which is called the weak structure chart.
 
-> [[../../04-Transcripts/stockbee/03. Bullish Momentum Burst/Pradeep Bonde - Bullish Momentum Burst Guide-Section 2_deepgram.md|Pradeep Bonde - Bullish Momentum Burst Guide-Section 2_deepgram]]: So understand, look, 4% breakout does shows stocks starting to show up.
+> [[../../04-Transcripts/stockbee/2023-12-29_2-pm.md|2023-12-29_2-pm]]: This is hardly 2%, so it's not a weak structure shot, but PayPal of, the 60 c.
 
-> [[../../04-Transcripts/stockbee/04. TI65/Pradeep Bonde - TI65 Guide-How to profit from TI65_deepgram.md|Pradeep Bonde - TI65 Guide-How to profit from TI65_deepgram]]: Or if you want to do anticipation of weak structure shot, where are you going to find them?
+> [[../../04-Transcripts/stockbee/2023-12-29_9-am.md|2023-12-29_9-am]]: Now you have to know what news started this group.
 
-> [[../../04-Transcripts/stockbee/05. M20/Pradeep Bonde - M20 Guide-Part 4_deepgram.md|Pradeep Bonde - M20 Guide-Part 4_deepgram]]: And then if this bounce fails, then you want to so you want to create a watch list for a weak structure short.
+> [[../../04-Transcripts/stockbee/2023-12-29_9-am.md|2023-12-29_9-am]]: [127:12] She knows something.
 
-> [[../../04-Transcripts/stockbee/05. M20/Pradeep Bonde - M20 Guide-Part 4_deepgram.md|Pradeep Bonde - M20 Guide-Part 4_deepgram]]: This is weak structure short.
+> [[../../04-Transcripts/stockbee/2023-12-29_9-am.md|2023-12-29_9-am]]: [133:18] Would I enter WSS end of the day?
 
 ## Related Concepts
 

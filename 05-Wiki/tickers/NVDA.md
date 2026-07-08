@@ -1,16 +1,16 @@
 ---
 title: "NVDA"
-date: 2026-07-03
+date: 2026-07-08
 tags: [tickers, wiki, auto-compiled]
-mention_count: 47
-sources_count: 24
+mention_count: 48
+sources_count: 25
 compilation_count: 1
 promote: false
 ---
 
 # NVDA
 
-*Tickers — compiled from 47 mentions across 24 sources.*
+*Tickers — compiled from 48 mentions across 25 sources.*
 
 ## Mentions
 
@@ -21,6 +21,8 @@ promote: false
 > [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: | Factor Based | **TSLA / NVDA / Palantir / Goldman retail basket** | Retail-sentiment factor | Since COVID, retail-sentiment basket outperforms all other factor baskets |
 
 > [[../../03-Guides/stockbee/09. Momentum Burst Bearish Guide/09. Momentum Burst Bearish Guide.md|09. Momentum Burst Bearish Guide]]: In bearish markets, individual stocks move in near-perfect correlation with SPY. When SPY drops 1.5%+ in a day, almost all stocks — AMD, NVDA, AMZN, GOOGL — break down simultaneously.
+
+> [[../../04-Transcripts/stockbee/2026-01-02_9_15-am.md|2026-01-02_9_15-am]]: NVDA is 4,600,000,000,000.
 
 > [[../../04-Transcripts/stockbee/2026-05-15_9_15-am.md|2026-05-15_9_15-am]]: Do we have more SLV, NVDA, Tesla, DRAM, MicroStrategy AI.
 
@@ -92,8 +94,6 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-06-16.md|Session-2026-06-16]]: | [[NVDA]] | Third day, "just cannot get going" | Despite good catalyst, not moving |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-24.md|Session-2026-06-24]]: | [[NVDA]] | Was going up; now rolling over |
-
 ## Related Concepts
 
 *(To be enriched)*
@@ -107,6 +107,7 @@ promote: false
 - [[../03-Guides/stockbee/09. Momentum Burst Bearish Guide/09. Momentum Burst Bearish Guide.md|09. Momentum Burst Bearish Guide]]
 - [[../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]
 - [[../04-Transcripts/stockbee/15. Start of a Swing Guide/Pradeep Bonde - Start of a Swing Guide-Part 3 - Start of a Swing_deepgram.md|Pradeep Bonde - Start of a Swing Guide-Part 3 - Start of a Swing_deepgram]]
+- [[../04-Transcripts/stockbee/2026-01-02_9_15-am.md|2026-01-02_9_15-am]]
 - [[../04-Transcripts/stockbee/2026-05-15_9_15-am.md|2026-05-15_9_15-am]]
 - [[../04-Transcripts/stockbee/Meetings/meeting_2026-05-15_6ff2ac67-abde-4233-9d31-52e2d88fd0c0_deepgram.md|meeting_2026-05-15_6ff2ac67-abde-4233-9d31-52e2d88fd0c0_deepgram]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-05-04.md|Session-2026-05-04]]
@@ -123,4 +124,3 @@ promote: false
 - [[../06-Daily/stockbee/Sessions/Session-2026-06-04.md|Session-2026-06-04]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-06-09.md|Session-2026-06-09]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-06-10.md|Session-2026-06-10]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-06-16.md|Session-2026-06-16]]

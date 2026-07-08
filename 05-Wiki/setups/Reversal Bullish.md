@@ -1,16 +1,16 @@
 ---
 title: "Reversal Bullish"
-date: 2026-07-03
+date: 2026-07-08
 tags: [setups, wiki, auto-compiled]
-mention_count: 648
-sources_count: 157
+mention_count: 1316
+sources_count: 354
 compilation_count: 1
 promote: false
 ---
 
 # Reversal Bullish
 
-*Setups — compiled from 648 mentions across 157 sources.*
+*Setups — compiled from 1316 mentions across 354 sources.*
 
 ## Mentions
 
@@ -52,47 +52,47 @@ promote: false
 
 > [[../../03-Guides/stockbee/23. Bearish Trading Guide.md|23. Bearish Trading Guide]]: 11. **Wait for a bounce before shorting an oversold market.** Never short into a waterfall. Wait for a counter-trend bounce, then short, essentially using the same anticipation logic as reversal bullish, but inverted.
 
-> [[../../04-Transcripts/stockbee/2026-05-01_3-pm.md|2026-05-01_3-pm]]: So let's look at, like, in a reversal bullish and go from there.
+> [[../../04-Transcripts/stockbee/2023-11-01_11-am.md|2023-11-01_11-am]]: It's a reversal bully setup, which is like an here, reversal bullish.
 
-> [[../../04-Transcripts/stockbee/2026-05-01_3-pm.md|2026-05-01_3-pm]]: First, like, and I'm not really, like, in a, keen on as such, like, in a buying these, reversal bullish as such.
+> [[../../04-Transcripts/stockbee/2023-11-01_11-am.md|2023-11-01_11-am]]: And not been going through reversal bullish scan, but it was in the reversal bullish scan yesterday.
 
-> [[../../04-Transcripts/stockbee/2026-05-04_3-pm.md|2026-05-04_3-pm]]: So let's go and quickly do anticipation, bullish, and then we'll do reversal bullish right at, basically.
+> [[../../04-Transcripts/stockbee/2023-11-01_11-am.md|2023-11-01_11-am]]: You should put that example as a example of a reversal bullish.
 
-> [[../../04-Transcripts/stockbee/2026-05-04_3-pm.md|2026-05-04_3-pm]]: So, let's go quickly do reversal bullish.
+> [[../../04-Transcripts/stockbee/2023-11-01_11-am.md|2023-11-01_11-am]]: How reliable is a reversal bullish setup?
 
-> [[../../04-Transcripts/stockbee/2026-05-04_3-pm.md|2026-05-04_3-pm]]: I don't see anything which is reversal bullish here.
+> [[../../04-Transcripts/stockbee/2023-11-01_11-am.md|2023-11-01_11-am]]: Reversal bullish is a very reliable setup.
 
-> [[../../04-Transcripts/stockbee/2026-05-04_3-pm.md|2026-05-04_3-pm]]: Basically, where you have, like, in a couple of good a category anticipations that have no reversal bullish.
+> [[../../04-Transcripts/stockbee/2023-11-01_11-am.md|2023-11-01_11-am]]: I mean, it's like in a reversal bullish.
 
-> [[../../04-Transcripts/stockbee/2026-05-06_3-pm.md|2026-05-06_3-pm]]: Let's quickly do, first reversal bullish and then anticipation, and then I will call it a day.
+> [[../../04-Transcripts/stockbee/2023-11-01_11-am.md|2023-11-01_11-am]]: Again, that should have been in reversal bullish.
 
-> [[../../04-Transcripts/stockbee/2026-05-06_3-pm.md|2026-05-06_3-pm]]: Reversal bullish.
+> [[../../04-Transcripts/stockbee/2023-11-01_11-am.md|2023-11-01_11-am]]: That was in reversal bullish.
 
-> [[../../04-Transcripts/stockbee/2026-05-06_3-pm.md|2026-05-06_3-pm]]: In fact, it was a reversal bullish.
+> [[../../04-Transcripts/stockbee/2023-11-01_11-am.md|2023-11-01_11-am]]: So do you know there is a reversal bullish scan also?
 
-> [[../../04-Transcripts/stockbee/2026-05-07_3-pm.md|2026-05-07_3-pm]]: All the structuring reversal bullish, how will I know?
+> [[../../04-Transcripts/stockbee/2023-11-01_11-am.md|2023-11-01_11-am]]: It says so it was a perfect reversal bullish, setup.
 
-> [[../../04-Transcripts/stockbee/2026-05-07_3-pm.md|2026-05-07_3-pm]]: And as a reversal bullish, the oil and gas stocks.
+> [[../../04-Transcripts/stockbee/2023-11-01_11-am.md|2023-11-01_11-am]]: Even this and there must have been reversal bullish set up also.
 
-> [[../../04-Transcripts/stockbee/2026-05-11_3-pm.md|2026-05-11_3-pm]]: I'm not even looking at reversal bullish here.
+> [[../../04-Transcripts/stockbee/2023-11-01_11-am.md|2023-11-01_11-am]]: Reversal bullish.
 
-> [[../../04-Transcripts/stockbee/2026-05-11_3-pm.md|2026-05-11_3-pm]]: And I do really need reversal, bullish, and anticipation.
+> [[../../04-Transcripts/stockbee/2023-11-01_11-am.md|2023-11-01_11-am]]: Mister reversal bearish is a setup which falls in the reversal bullish and reversal bearish as a setup idea falls into the category of same kind of a thing, which is anticipation.
 
-> [[../../04-Transcripts/stockbee/2026-05-11_3-pm.md|2026-05-11_3-pm]]: Are they, like, when the market become choppy, when we are to really, like, in a struggle for money, we'll go back to looking at reversal bullish.
+> [[../../04-Transcripts/stockbee/2023-11-01_11-am.md|2023-11-01_11-am]]: The idea behind reversal bullish is to buy it before the close end of the close.
 
-> [[../../04-Transcripts/stockbee/2026-05-11_9_15-am.md|2026-05-11_9_15-am]]: And it was a reversal bullish yesterday.
+> [[../../04-Transcripts/stockbee/2023-11-01_11-am.md|2023-11-01_11-am]]: If it is a reversal bullish, I would buy it like any other day in which it shows up in the scan.
 
-> [[../../04-Transcripts/stockbee/2026-05-11_9_15-am.md|2026-05-11_9_15-am]]: D p as defined by what is the setup or a continuation setup or a reversal bullish if you're doing something else.
+> [[../../04-Transcripts/stockbee/2023-11-01_2-pm.md|2023-11-01_2-pm]]: Reversal bullish scan parameters.
 
-> [[../../04-Transcripts/stockbee/2026-05-12_3-pm.md|2026-05-12_3-pm]]: That's a reversal bullish if you want to look at.
+> [[../../04-Transcripts/stockbee/2023-11-01_2-pm.md|2023-11-01_2-pm]]: So here, reversal bullish combo scan.
 
-> [[../../04-Transcripts/stockbee/2026-05-12_3-pm.md|2026-05-12_3-pm]]: No need to look at reversal bullish.
+> [[../../04-Transcripts/stockbee/2023-11-01_2-pm.md|2023-11-01_2-pm]]: Let's look at reversal bullish here quickly to see which I have not been using because it's like an how many setups do you want to trade kind of a thing situation.
 
-> [[../../04-Transcripts/stockbee/2026-05-12_3-pm.md|2026-05-12_3-pm]]: There is no reversal bullish.
+> [[../../04-Transcripts/stockbee/2023-11-01_2-pm.md|2023-11-01_2-pm]]: Either it should have been bought yesterday as a reversal bullish or like so we'll wait for a continuation setups.
 
-> [[../../04-Transcripts/stockbee/2026-05-13_3-pm.md|2026-05-13_3-pm]]: Reversal bullish.
+> [[../../04-Transcripts/stockbee/2023-11-07_2-pm.md|2023-11-07_2-pm]]: You want to do reversal bullish.
 
-> [[../../04-Transcripts/stockbee/2026-05-14_3-pm.md|2026-05-14_3-pm]]: I really don't see anything which is, like, in a standing out as, reversal bullish.
+> [[../../04-Transcripts/stockbee/2023-11-07_2-pm.md|2023-11-07_2-pm]]: I should not go and look for some bottom bounce or, like, an or, some reversal bullish or something.
 
 ## Related Concepts
 

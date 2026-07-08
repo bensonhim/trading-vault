@@ -1,0 +1,3951 @@
+{
+  "segments": [
+    {
+      "start": 56.67,
+      "end": 57.17,
+      "text": "Okay."
+    },
+    {
+      "start": 58.19,
+      "end": 67.835,
+      "text": "So let's look at, like, another most important thing, from a stock selection point of view and that is factor based stock selection."
+    },
+    {
+      "start": 67.895,
+      "end": 85.35,
+      "text": "Factor based stock selection is what institutional players hedge funds, mutual funds, quantitative hedge funds do and which is to use a mathematical technique to find what is the factor or factor analysis."
+    },
+    {
+      "start": 85.41,
+      "end": 103.705,
+      "text": "Some of you might have done quant, some of you who have done mathematics or statistics will know Factor analysis is a technique which is used to identify what factors drive performance or what factors really it's a common technique, in mathematics."
+    },
+    {
+      "start": 104.005,
+      "end": 104.244995,
+      "text": "Right?"
+    },
+    {
+      "start": 104.244995,
+      "end": 120.18,
+      "text": "And, we used to use it a lot, in marketing because, you know, marketing supposing you have you have a detergent and, you want to know, what factors consumer take into consideration while selecting a detergent."
+    },
+    {
+      "start": 120.935,
+      "end": 134.315,
+      "text": "So then you go and interview customers or, like, you find a database of customers who bought detergents and then, like, can I do a cross tabulation in terms of con in terms of factors?"
+    },
+    {
+      "start": 134.375,
+      "end": 145.42,
+      "text": "Is it, like, an a are they buying based on age, sex, income, geography, they are like an a occupation and things like that."
+    },
+    {
+      "start": 145.56,
+      "end": 159.375,
+      "text": "So accordingly, you can isolate what is the factor which is like an leading to a particular detergent being selected by customers or like toothpaste right and basically."
+    },
+    {
+      "start": 159.375,
+      "end": 170.20999,
+      "text": "So factor based investing is really how all the hedge funds, CONFERS, work unless they are like discretionary."
+    },
+    {
+      "start": 171.15,
+      "end": 175.25,
+      "text": "They are even the mutual funds are going to select or the ETFs."
+    },
+    {
+      "start": 175.715,
+      "end": 177.39499,
+      "text": "They select stocks based on this."
+    },
+    {
+      "start": 177.39499,
+      "end": 180.135,
+      "text": "And let's look at some of those techniques which they use."
+    },
+    {
+      "start": 180.515,
+      "end": 182.375,
+      "text": "Primarily, they look for two things."
+    },
+    {
+      "start": 182.515,
+      "end": 182.83499,
+      "text": "Right?"
+    },
+    {
+      "start": 182.83499,
+      "end": 189.17499,
+      "text": "Even they try and look for isolating factors, which is what factors lead to high returns?"
+    },
+    {
+      "start": 190.38,
+      "end": 190.62,
+      "text": "Yeah."
+    },
+    {
+      "start": 190.62,
+      "end": 192.22,
+      "text": "That's one way of looking at it."
+    },
+    {
+      "start": 192.22,
+      "end": 200.48,
+      "text": "Look, what factor is going to explain a stock which is going to, make a big return for the defined period?"
+    },
+    {
+      "start": 201.26,
+      "end": 204.4,
+      "text": "The second factor is risk."
+    },
+    {
+      "start": 204.54,
+      "end": 204.78,
+      "text": "Right?"
+    },
+    {
+      "start": 204.78,
+      "end": 221.75,
+      "text": "Because there is always from an institutional point of view, they are not only looking for like an absolute returns, their primary job if you're a risk, if you're like an looking at, as an institutional payer or you are doing other people money."
+    },
+    {
+      "start": 221.97,
+      "end": 224.77,
+      "text": "If you are doing other people money what is your primary concern?"
+    },
+    {
+      "start": 224.77,
+      "end": 227.09001,
+      "text": "Primary concern is not to lose money also, right?"
+    },
+    {
+      "start": 227.09001,
+      "end": 249.0,
+      "text": "Because, risk is where becomes important this is why you will see that the people who can do lot of money for themselves when they start doing money for others, they cannot, they don't do the same thing, right, for others because, the risk profile of others money is different from the price profile of money which you are doing your own money, right?"
+    },
+    {
+      "start": 249.56,
+      "end": 255.96,
+      "text": "So those are the two definite factors or those are the things which people look for when looking at factors."
+    },
+    {
+      "start": 255.96,
+      "end": 260.62,
+      "text": "So what are the factors and what factors are used by institutions?"
+    },
+    {
+      "start": 260.92,
+      "end": 267.18503,
+      "text": "These are basically, these factors are used by hedge funds, cons funds, mutual funds."
+    },
+    {
+      "start": 273.165,
+      "end": 276.68503,
+      "text": "Institutional players like the big players, right, Goldman Sachs and all."
+    },
+    {
+      "start": 276.68503,
+      "end": 278.945,
+      "text": "They are all going to use this kind of thing."
+    },
+    {
+      "start": 279.11,
+      "end": 285.13,
+      "text": "And they primarily divide factors into two categories, some which are high return factor and the other is low risk factor."
+    },
+    {
+      "start": 285.27,
+      "end": 295.505,
+      "text": "Now these factors currently what you're looking at, these are all for investment, right?"
+    },
+    {
+      "start": 296.125,
+      "end": 309.25998,
+      "text": "These are investment factors that means they are looking for investment or holding the positions for couple of months or for a certain period of time, right?"
+    },
+    {
+      "start": 309.25998,
+      "end": 310.96,
+      "text": "And these are investment factors."
+    },
+    {
+      "start": 311.41998,
+      "end": 327.16498,
+      "text": "And then we'll look at, the trading factors maybe in a different session because those are completely different when you're looking at holding a stock for a few minutes to few days or to few hours the factors are totally different, right?"
+    },
+    {
+      "start": 327.38498,
+      "end": 331.945,
+      "text": "So, what factors, do they look at value factors, right?"
+    },
+    {
+      "start": 331.945,
+      "end": 337.38,
+      "text": "Stocks which are really cheap related to fundamentals, they tend to do well."
+    },
+    {
+      "start": 337.38,
+      "end": 344.6,
+      "text": "So, what institutions do or many quant funds do is they create a basket of stocks which based on valuations are cheap."
+    },
+    {
+      "start": 344.74002,
+      "end": 352.69498,
+      "text": "So, So they will hold a basket of stocks which are cheap and they will short a basket of stocks which are, over valued."
+    },
+    {
+      "start": 353.155,
+      "end": 353.655,
+      "text": "Right?"
+    },
+    {
+      "start": 353.955,
+      "end": 371.835,
+      "text": "And what do they use to determine this, the classical value are investing factors like price to earnings, price to book, price to sales, enterprise value, EBITDA, free cash flow and accruals."
+    },
+    {
+      "start": 372.855,
+      "end": 392.13,
+      "text": "Accruals, what it means in real means like for simple English, those who want to know is like and basically, the accruals is like something which is basically what is your, total profits to cash flow, right?"
+    },
+    {
+      "start": 394.27,
+      "end": 396.29,
+      "text": "Or net earnings to cash flow, basically."
+    },
+    {
+      "start": 397.07,
+      "end": 406.715,
+      "text": "So if, cash flow is greater than the I mean, the cash flow is there, then that is something which is a valuable company."
+    },
+    {
+      "start": 406.715,
+      "end": 412.395,
+      "text": "If you're like in a career, your cash flow is negative, then that means, like, you're just burning money."
+    },
+    {
+      "start": 412.395,
+      "end": 412.555,
+      "text": "Right?"
+    },
+    {
+      "start": 412.555,
+      "end": 418.61,
+      "text": "And a core view is a good example of a stock, which has a negative accruals currently."
+    },
+    {
+      "start": 418.61,
+      "end": 419.11,
+      "text": "Right?"
+    },
+    {
+      "start": 419.81,
+      "end": 420.31,
+      "text": "CRWV."
+    },
+    {
+      "start": 421.49,
+      "end": 429.885,
+      "text": "The stock has a negative accruals because what they're doing is they're basically burning more money than that they are making."
+    },
+    {
+      "start": 429.885,
+      "end": 434.285,
+      "text": "And this is why the stock after IPO, after a brief rally went down."
+    },
+    {
+      "start": 434.285,
+      "end": 434.785,
+      "text": "Right?"
+    },
+    {
+      "start": 435.165,
+      "end": 437.165,
+      "text": "Many stocks in the market will be like that."
+    },
+    {
+      "start": 437.325,
+      "end": 440.92502,
+      "text": "So they have negative accruals, basically, what is called as a negative accruals."
+    },
+    {
+      "start": 440.92502,
+      "end": 441.42502,
+      "text": "Right?"
+    },
+    {
+      "start": 442.99,
+      "end": 448.99,
+      "text": "So this is one factor which is used value factor, very, very popular amongst the institutional quality of institutional players."
+    },
+    {
+      "start": 448.99,
+      "end": 456.61,
+      "text": "The reason why value factor is the most number one used factor is because they consider value factor as a low risk factor."
+    },
+    {
+      "start": 457.44498,
+      "end": 471.84998,
+      "text": "So this is classified as a low risk factor because when you buy a valuation, based kind of a stock, the probability of, like, an if it has a extremely, like, an, extreme value kind of a component, right?"
+    },
+    {
+      "start": 471.84998,
+      "end": 478.81,
+      "text": "And the probability of the losing money is much lower as long as they continue to hold that particular stock."
+    },
+    {
+      "start": 478.81,
+      "end": 482.43,
+      "text": "So it's a it's called a low risk factor, low risk."
+    },
+    {
+      "start": 482.49,
+      "end": 489.955,
+      "text": "And this is why like value investing is such a major part of, the investment field."
+    },
+    {
+      "start": 489.955,
+      "end": 490.115,
+      "text": "Right?"
+    },
+    {
+      "start": 490.115,
+      "end": 497.475,
+      "text": "And basically, so then the next factor, which is widely used is momentum factor, right?"
+    },
+    {
+      "start": 497.475,
+      "end": 510.31,
+      "text": "Momentum is basically price momentum or earnings momentum, which is speeds or earnings being revised up by, the company or by analyst."
+    },
+    {
+      "start": 510.93,
+      "end": 514.23,
+      "text": "And in price factor, there is also mean reversion factor."
+    },
+    {
+      "start": 514.505,
+      "end": 523.46497,
+      "text": "And whenever they are using price momentum and the institutional player always use price momentum as three by one or 12 by one."
+    },
+    {
+      "start": 523.46497,
+      "end": 543.42004,
+      "text": "What does that three by one or 12 by one means is when they rank stocks by momentum, they don't take into consideration the last one month price percent change or the last one month's momentum ranking or they offset it by one month and the reason that is done is because the short term momentum is mean reverting."
+    },
+    {
+      "start": 543.935,
+      "end": 561.27997,
+      "text": "So if a stock is ranked very highly by short term momentum more likely that it is going to be reverting that is why they give you, this is called an offset of one month and the way to do it, here you can do this in, our way also momentum momentum ranking."
+    },
+    {
+      "start": 561.27997,
+      "end": 561.77997,
+      "text": "Right?"
+    },
+    {
+      "start": 561.83997,
+      "end": 567.19995,
+      "text": "If you, see the ranking, you can offset it by one month."
+    },
+    {
+      "start": 567.19995,
+      "end": 567.69995,
+      "text": "Right?"
+    },
+    {
+      "start": 568.16,
+      "end": 572.01996,
+      "text": "So here, six months momentum offset by one month."
+    },
+    {
+      "start": 573.165,
+      "end": 585.745,
+      "text": "This is six months offset by one month and you can do the same thing for a one year momentum in order to create or you can create the same thing for a three months momentum."
+    },
+    {
+      "start": 586.75,
+      "end": 588.53,
+      "text": "This is a three months momentum."
+    },
+    {
+      "start": 588.99005,
+      "end": 599.33,
+      "text": "And if you want to create a offset momentum, that means like an AU, are ranking by something which is like in the last three months and not taking into consideration current."
+    },
+    {
+      "start": 599.63495,
+      "end": 603.815,
+      "text": "All that you need to do is duplicate this and change this."
+    },
+    {
+      "start": 605.795,
+      "end": 607.475,
+      "text": "63 by 25."
+    },
+    {
+      "start": 607.475,
+      "end": 610.13495,
+      "text": "So you're offsetting the momentum by one month."
+    },
+    {
+      "start": 610.51495,
+      "end": 614.82,
+      "text": "C 25, that means you are calculating it a month ago."
+    },
+    {
+      "start": 615.68,
+      "end": 618.82,
+      "text": "C 25 by 63.25."
+    },
+    {
+      "start": 622.16,
+      "end": 632.855,
+      "text": "And when you do this, what you will see is that, when you go and look at, like, stocks, say in your sense, you can't do it by 63.525."
+    },
+    {
+      "start": 633.15497,
+      "end": 638.435,
+      "text": "What you're going to see is this stock was ranked very high a month ago."
+    },
+    {
+      "start": 638.435,
+      "end": 638.935,
+      "text": "Right?"
+    },
+    {
+      "start": 638.995,
+      "end": 647.42,
+      "text": "Now, if you're doing a momentum by just like in a, of, this thing, this is not ranked very high."
+    },
+    {
+      "start": 647.42,
+      "end": 657.835,
+      "text": "So this is, it is offset because the star, market has a tendency in momentum when you study momentum, short term momentum is mean reverting."
+    },
+    {
+      "start": 657.835,
+      "end": 663.275,
+      "text": "That means like an if a stock has a three months momentum, too much momentum, it is likely to mean revert."
+    },
+    {
+      "start": 663.275,
+      "end": 668.73004,
+      "text": "So, in order to take that mean revert and kind of effect out, that's why they use that."
+    },
+    {
+      "start": 668.73004,
+      "end": 668.97003,
+      "text": "Right?"
+    },
+    {
+      "start": 668.97003,
+      "end": 681.05005,
+      "text": "And, basically, it's a very common technique, something which is like in a, whenever you're doing momentum, if a stock has a very high momentum, that momentum is not sustainable, and it is more likely to mean revert."
+    },
+    {
+      "start": 681.05005,
+      "end": 689.195,
+      "text": "So, when you rank by this and the stock, which is still holding up, is the one, which then they focus on."
+    },
+    {
+      "start": 689.195,
+      "end": 689.435,
+      "text": "Right?"
+    },
+    {
+      "start": 689.435,
+      "end": 699.74,
+      "text": "And, basically, so you will see, that, like, whatever had a momentum three months ago, most of them don't make good, momentum candidate."
+    },
+    {
+      "start": 699.8,
+      "end": 699.96,
+      "text": "Right?"
+    },
+    {
+      "start": 699.96,
+      "end": 703.82,
+      "text": "Most of them actually end up giving momentum in the next one month."
+    },
+    {
+      "start": 703.88,
+      "end": 707.88,
+      "text": "So that is why this kind of a thing is done either for six months or one year."
+    },
+    {
+      "start": 707.88,
+      "end": 711.74,
+      "text": "Very common technique, used in momentum trading."
+    },
+    {
+      "start": 712.57495,
+      "end": 713.95496,
+      "text": "Quality factor, right?"
+    },
+    {
+      "start": 714.415,
+      "end": 731.03,
+      "text": "Final, so in quality factor what you're looking for is the financial health because the company can be growing very rapidly, but like in a just rapid growth itself is not a good enough indicator of a stocks."
+    },
+    {
+      "start": 732.37,
+      "end": 737.84503,
+      "text": "If it is growing rapidly but it is losing money, right?"
+    },
+    {
+      "start": 737.84503,
+      "end": 747.625,
+      "text": "It has a return on investment, equity is low or return on assets is low or gross profitability is low or it has high debt."
+    },
+    {
+      "start": 748.805,
+      "end": 754.62,
+      "text": "Then what is, what happens is that that is something which is risky."
+    },
+    {
+      "start": 754.68,
+      "end": 766.125,
+      "text": "And in, institutional players, if they're going to hold a stock for longer term, what they want to look for is a stock, which has a good financial health."
+    },
+    {
+      "start": 766.365,
+      "end": 771.245,
+      "text": "And this is why, like, even when people come to me and say, look, I want to hold stocks for longer term."
+    },
+    {
+      "start": 771.245,
+      "end": 772.945,
+      "text": "I don't want to do short term investing."
+    },
+    {
+      "start": 773.325,
+      "end": 779.185,
+      "text": "I tell them you need to select stocks which have financial stability."
+    },
+    {
+      "start": 779.325,
+      "end": 779.64,
+      "text": "Right?"
+    },
+    {
+      "start": 779.72003,
+      "end": 784.62,
+      "text": "So you have to select stocks which will have either earning stability or persistence."
+    },
+    {
+      "start": 785.08,
+      "end": 796.775,
+      "text": "When you see stocks which have gone up for a long period of time, when you see stocks which has, like, yearly persistence, if you see this stock which has ten years in a row, it has gone up since us, right?"
+    },
+    {
+      "start": 796.775,
+      "end": 800.29504,
+      "text": "Why do you think this kind of a stock has gone up ten years in a row?"
+    },
+    {
+      "start": 800.29504,
+      "end": 808.875,
+      "text": "Because it has a persistence see in terms of growth and earnings, right?"
+    },
+    {
+      "start": 809.99,
+      "end": 812.01,
+      "text": "Here you look at like in this stock."
+    },
+    {
+      "start": 812.39,
+      "end": 813.37,
+      "text": "What do you see?"
+    },
+    {
+      "start": 816.31,
+      "end": 818.95,
+      "text": "It's growing persistent, consistent, right?"
+    },
+    {
+      "start": 818.95,
+      "end": 828.925,
+      "text": "It's, it doesn't have a flashy growth rate, but it has like a consistent growth rate, ten, eight, seven, eight, eight, nine, nine, nine, eight, seven, seven."
+    },
+    {
+      "start": 828.925,
+      "end": 831.485,
+      "text": "So it's consistent, persistent, right, in a growth rate."
+    },
+    {
+      "start": 831.485,
+      "end": 836.60504,
+      "text": "If you see here growth rate also in profitability, it has like every year it has been positive."
+    },
+    {
+      "start": 836.60504,
+      "end": 841.11,
+      "text": "And this is the one of the reason reason why this stock has ten years in a row gone up."
+    },
+    {
+      "start": 841.11,
+      "end": 853.055,
+      "text": "So if you as against that, if you want to hold something for two years or even for six months, if you hold a stock like this for six months, what is likely to happen?"
+    },
+    {
+      "start": 853.055,
+      "end": 853.875,
+      "text": "Tell me."
+    },
+    {
+      "start": 863.055,
+      "end": 864.33496,
+      "text": "You'll lose half your account."
+    },
+    {
+      "start": 864.33496,
+      "end": 864.65497,
+      "text": "Right?"
+    },
+    {
+      "start": 864.65497,
+      "end": 865.15497,
+      "text": "Probably."
+    },
+    {
+      "start": 865.58,
+      "end": 869.52,
+      "text": "It will mean reward because this kind of a profitability is not sustainable."
+    },
+    {
+      "start": 869.98,
+      "end": 878.64,
+      "text": "But you look at a stock here, which has which makes a longer term, like, HEICO is a good example of again, look at, like, HEICO."
+    },
+    {
+      "start": 878.7,
+      "end": 890.86505,
+      "text": "And when you look at what it has is what is called as a earning stability or right."
+    },
+    {
+      "start": 892.28503,
+      "end": 893.025,
+      "text": "You see?"
+    },
+    {
+      "start": 893.965,
+      "end": 901.11,
+      "text": "Consistent, persistent, growth rate."
+    },
+    {
+      "start": 901.25,
+      "end": 901.75,
+      "text": "Right?"
+    },
+    {
+      "start": 901.81,
+      "end": 917.17505,
+      "text": "So stability factor when they look at stability, low debt, to to debt earning stability and persistence important factor, especially those of you who are like in a want to hold stocks for longer term, two years, three years, five years, ten years."
+    },
+    {
+      "start": 917.17505,
+      "end": 921.23505,
+      "text": "You need to find stocks with earning stability and persistence."
+    },
+    {
+      "start": 921.75,
+      "end": 927.75,
+      "text": "This is an example of a stock with earning stability and persistence which has like continuously grown."
+    },
+    {
+      "start": 927.75,
+      "end": 932.47003,
+      "text": "And this is why you will see when you see the, these are yearly charts, right?"
+    },
+    {
+      "start": 932.47003,
+      "end": 933.67,
+      "text": "Why is this like this?"
+    },
+    {
+      "start": 933.67,
+      "end": 935.895,
+      "text": "Because it has earning persistency, right?"
+    },
+    {
+      "start": 936.53503,
+      "end": 936.775,
+      "text": "Yeah."
+    },
+    {
+      "start": 936.775,
+      "end": 943.17505,
+      "text": "Many of the stocks, most of the stock, almost all the stocks, which will have this kind of a thing, you're gonna find the same thing."
+    },
+    {
+      "start": 943.17505,
+      "end": 952.64,
+      "text": "They will have very high earning and, persistency and why is this not working now?"
+    },
+    {
+      "start": 959.74,
+      "end": 961.28,
+      "text": "They will have very high persistency."
+    },
+    {
+      "start": 961.74,
+      "end": 962.24,
+      "text": "Right?"
+    },
+    {
+      "start": 962.62,
+      "end": 963.12,
+      "text": "Fix."
+    },
+    {
+      "start": 963.975,
+      "end": 966.055,
+      "text": "Look at FIX Comfort System USA."
+    },
+    {
+      "start": 966.055,
+      "end": 967.915,
+      "text": "It's a very boring business, right?"
+    },
+    {
+      "start": 968.615,
+      "end": 969.89496,
+      "text": "It's not a flashy business."
+    },
+    {
+      "start": 969.89496,
+      "end": 982.57,
+      "text": "It's not something which is like AI or something, but like in a, they are, they have very high persistency in terms of profitability as well as sales growth, right?"
+    },
+    {
+      "start": 982.95,
+      "end": 987.37,
+      "text": "See here, persistent sales growth, persistent profitability."
+    },
+    {
+      "start": 987.67,
+      "end": 990.25,
+      "text": "This is a, HVAC player, right?"
+    },
+    {
+      "start": 991.125,
+      "end": 992.645,
+      "text": "Air conditioning it provides."
+    },
+    {
+      "start": 992.645,
+      "end": 1007.05,
+      "text": "But look at the earning stability and the growth stability because it has this kind of a growth stability, you are going to find that they will have this kind of ten years move RBC bearing, right?"
+    },
+    {
+      "start": 1007.19,
+      "end": 1009.67,
+      "text": "Bearing company, very boring business, right?"
+    },
+    {
+      "start": 1009.67,
+      "end": 1013.21,
+      "text": "Bearing is a boring business, but what does this company has?"
+    },
+    {
+      "start": 1013.35,
+      "end": 1018.66504,
+      "text": "This company has persistency in earnings and sales."
+    },
+    {
+      "start": 1019.765,
+      "end": 1024.345,
+      "text": "So you'll see like eight, six, five, five, three, five, six, seven, fourteen."
+    },
+    {
+      "start": 1024.5651,
+      "end": 1026.245,
+      "text": "It's persistently growing, right?"
+    },
+    {
+      "start": 1026.245,
+      "end": 1027.705,
+      "text": "And it continues to grow."
+    },
+    {
+      "start": 1028.4,
+      "end": 1033.6001,
+      "text": "Whatever they manufacture which is like in a bearings, right, it's, something which is there, that's why."
+    },
+    {
+      "start": 1033.6001,
+      "end": 1046.4349,
+      "text": "So, if you are going to be holding, like, and if you want to, like, build a portfolio of stocks, like this Ecolab, Specialty Chemicals, right, or Aflac, it just like in a persistently grows or Raymond James financial."
+    },
+    {
+      "start": 1046.815,
+      "end": 1047.695,
+      "text": "These are the stocks."
+    },
+    {
+      "start": 1047.695,
+      "end": 1050.595,
+      "text": "If you look at twenty years, you'll again see the same thing."
+    },
+    {
+      "start": 1050.815,
+      "end": 1053.7749,
+      "text": "Stocks like Syntas, it's a very boring business, right?"
+    },
+    {
+      "start": 1053.7749,
+      "end": 1054.575,
+      "text": "What does Syntas do?"
+    },
+    {
+      "start": 1054.575,
+      "end": 1065.3,
+      "text": "Syntas provides uniforms and services, to companies like in a restocking the toilets or, the pantries or things like that."
+    },
+    {
+      "start": 1065.4401,
+      "end": 1074.485,
+      "text": "But they are very stable business because once you sign up for Syntas, many companies will be Syntas customer for life, right?"
+    },
+    {
+      "start": 1074.545,
+      "end": 1089.0,
+      "text": "If you are some hospital or if you are some business, Marriott, or some business and if you are like an or, say Costco and if you are a Cintas customer you are going to remain Cintas customer for life, right?"
+    },
+    {
+      "start": 1089.0,
+      "end": 1091.02,
+      "text": "And basically ROS the thing."
+    },
+    {
+      "start": 1091.5599,
+      "end": 1094.46,
+      "text": "So boring businesses O'Reilly, right?"
+    },
+    {
+      "start": 1094.6,
+      "end": 1096.54,
+      "text": "Consistent persistent growers, AutoZone."
+    },
+    {
+      "start": 1097.235,
+      "end": 1097.715,
+      "text": "Look at this."
+    },
+    {
+      "start": 1097.715,
+      "end": 1102.615,
+      "text": "These are not flashy businesses but what they have is they have consistency and persistency."
+    },
+    {
+      "start": 1102.755,
+      "end": 1114.64,
+      "text": "And that is what like when, people are building portfolios for longer term investing, what you want is you want stocks with low risk factors."
+    },
+    {
+      "start": 1115.1,
+      "end": 1130.835,
+      "text": "This is again a low risk factor, quality of factor are companies with low red debt and most of these companies also you will see all of these companies will have very low debt like fix or auto zone or O'Reilly, they have very low debt, right?"
+    },
+    {
+      "start": 1130.835,
+      "end": 1133.495,
+      "text": "And what they have is earning stability and persistence."
+    },
+    {
+      "start": 1133.6349,
+      "end": 1138.1349,
+      "text": "So they are like in a, that's the quality factor which you can use."
+    },
+    {
+      "start": 1138.54,
+      "end": 1143.68,
+      "text": "In fact in IBD there is a factor called, earning stability, right?"
+    },
+    {
+      "start": 1144.14,
+      "end": 1156.135,
+      "text": "You will see that like in a they have a factor called earning stability and that earning stability factor is exactly what it says, which it looks at."
+    },
+    {
+      "start": 1160.275,
+      "end": 1173.8501,
+      "text": "So, financial health, so you select stocks based on this criteria's volatility factors, again, the lower the volatility of a stock and volatility as defined as low beta, right?"
+    },
+    {
+      "start": 1173.8501,
+      "end": 1182.375,
+      "text": "Low beta stocks give you better risk adjusted returns against stock which are high beta because high beta is going to have a higher volatility."
+    },
+    {
+      "start": 1182.535,
+      "end": 1182.695,
+      "text": "Volatility."
+    },
+    {
+      "start": 1182.695,
+      "end": 1191.915,
+      "text": "So if you're holding a portfolio of stocks, which is exactly what, like, in a people, traders do exactly opposite of this, right?"
+    },
+    {
+      "start": 1191.975,
+      "end": 1196.61,
+      "text": "As a trader, you want, like, in a not low volatility stock, you want a high volatility stock."
+    },
+    {
+      "start": 1197.01,
+      "end": 1201.4299,
+      "text": "What is this whole thing which is happening and there is so much crying happening in the market currently?"
+    },
+    {
+      "start": 1201.73,
+      "end": 1209.51,
+      "text": "In the first fifteen days of this, in January, stocks with high volatility they made big moves."
+    },
+    {
+      "start": 1210.115,
+      "end": 1218.915,
+      "text": "Now, if you didn't lock in your profit or if you didn't get out of them what happened in the next fifteen days most of them end up giving up the gains, right."
+    },
+    {
+      "start": 1218.915,
+      "end": 1221.655,
+      "text": "So, lower volatility better risk adjusted return."
+    },
+    {
+      "start": 1222.02,
+      "end": 1235.4349,
+      "text": "So, this is why if you want to hold longer term then you have to look for stocks which are lower volatility and, that gives you more stable portfolio, right?"
+    },
+    {
+      "start": 1235.6549,
+      "end": 1236.475,
+      "text": "Yield factors."
+    },
+    {
+      "start": 1237.1749,
+      "end": 1240.0549,
+      "text": "This is another quality factor, which is very important factor."
+    },
+    {
+      "start": 1240.0549,
+      "end": 1242.1549,
+      "text": "This is like in a low risk factor, right?"
+    },
+    {
+      "start": 1242.695,
+      "end": 1247.195,
+      "text": "Companies which have dividend or which are doing buybacks."
+    },
+    {
+      "start": 1247.4149,
+      "end": 1261.59,
+      "text": "You will also see, whenever you see these high persistency players, you'll typically see that, these companies also have, buybacks."
+    },
+    {
+      "start": 1272.5851,
+      "end": 1287.91,
+      "text": "This, particular company like Cintas, right, over last five years, ten years has bought back."
+    },
+    {
+      "start": 1315.37,
+      "end": 1333.565,
+      "text": "So over a five year, like, in a period, this tag, this company has consistently buggered back, bought back, on an average around half 1,000,000,000 of their stock."
+    },
+    {
+      "start": 1333.565,
+      "end": 1341.74,
+      "text": "So if they keep buying their own stock, what happens is the, number of outstanding shares decrease."
+    },
+    {
+      "start": 1341.88,
+      "end": 1354.7151,
+      "text": "If the number of outstanding shares decrease, then even if they make the same profit because the number of shares have decreased, so the EPS increases and this is one of the ways in which companies like AutoZone and all."
+    },
+    {
+      "start": 1354.8551,
+      "end": 1363.3551,
+      "text": "AutoZone over the last ten years has bought back every year consistently its own stock."
+    },
+    {
+      "start": 1363.5199,
+      "end": 1365.5399,
+      "text": "Is got a float of 15,000,000 now."
+    },
+    {
+      "start": 1367.88,
+      "end": 1373.7,
+      "text": "It has AutoZer is one of the most aggressive buy has one of the most aggressive buyback program."
+    },
+    {
+      "start": 1374.72,
+      "end": 1381.095,
+      "text": "It has like an over the last ten years, it has bought back 46% of its outstanding shares."
+    },
+    {
+      "start": 1382.0349,
+      "end": 1388.215,
+      "text": "So, if you buy back 46% of your outstanding, shares, what is going to happen?"
+    },
+    {
+      "start": 1390.45,
+      "end": 1392.45,
+      "text": "You yourself is creating a demand, right?"
+    },
+    {
+      "start": 1392.45,
+      "end": 1399.57,
+      "text": "And basically, you have like in a basically, driven the price higher, right?"
+    },
+    {
+      "start": 1399.57,
+      "end": 1401.97,
+      "text": "Price rises because the float is 15,000,000, right?"
+    },
+    {
+      "start": 1401.97,
+      "end": 1423.28,
+      "text": "And the float was like in a say 20,000,000 or 25,000,000 and you bought back 10,000,000 of your own shares as a result of that, and now if you see this particular company has bought back or announced recently, or like in a it has announced a buyback of around 1,000,000,000."
+    },
+    {
+      "start": 1423.28,
+      "end": 1423.52,
+      "text": "Right?"
+    },
+    {
+      "start": 1423.52,
+      "end": 1428.66,
+      "text": "And then basically in 2023, they bought back to 1,000,000,000 and they are, like, basically done."
+    },
+    {
+      "start": 1429.6001,
+      "end": 1434.4149,
+      "text": "In the last 2023, '24, they did, like, around 4,000,000,000 of buyback."
+    },
+    {
+      "start": 1434.635,
+      "end": 1443.355,
+      "text": "So if you buyback that much amount of shares, as a result of that, the stock continuously keep going up."
+    },
+    {
+      "start": 1443.355,
+      "end": 1466.0651,
+      "text": "So every time AutoZone corrects eight or 10%, it's a sure bet if you know these kind of things to keep buying it and it will continue to recover because the stock has very, very one of the most aggressive, like AutoZone has the most aggressive, probably out of all the companies in the market."
+    },
+    {
+      "start": 1468.845,
+      "end": 1474.305,
+      "text": "Since its inception, it has a capitalization of 67,600,000,000, right?"
+    },
+    {
+      "start": 1474.62,
+      "end": 1482.4,
+      "text": "Since its inception, this company has bought back 39,400,000,000, 39,200,000,000 worth of its own shares."
+    },
+    {
+      "start": 1483.98,
+      "end": 1487.34,
+      "text": "39,200,000,000 worth of its own share it has bought back."
+    },
+    {
+      "start": 1487.34,
+      "end": 1491.115,
+      "text": "So when it makes profit, it buys back its own shares."
+    },
+    {
+      "start": 1491.335,
+      "end": 1496.855,
+      "text": "So that is a factor which is like in a very institutional players use this factor a lot."
+    },
+    {
+      "start": 1496.855,
+      "end": 1503.6749,
+      "text": "We also had a stock b member, who used to like an exclusively focus on stocks."
+    },
+    {
+      "start": 1504.74,
+      "end": 1505.54,
+      "text": "What does his name?"
+    },
+    {
+      "start": 1505.54,
+      "end": 1506.76,
+      "text": "I forget his name."
+    },
+    {
+      "start": 1510.18,
+      "end": 1511.46,
+      "text": "He was a very good trader."
+    },
+    {
+      "start": 1511.46,
+      "end": 1514.28,
+      "text": "I, he was there on the side for many, many years."
+    },
+    {
+      "start": 1514.5,
+      "end": 1527.855,
+      "text": "And all that he used to do is he only used to look for stocks, which had buybacks and then marry the buybacks stock with some sort of a momentum signal and buy them."
+    },
+    {
+      "start": 1528.715,
+      "end": 1539.08,
+      "text": "Because when they are that kind of a buybacks, that's like an a guaranteed that like an a whenever the stock goes down, AutoZone keeps buying its own stock."
+    },
+    {
+      "start": 1539.08,
+      "end": 1539.58,
+      "text": "Right?"
+    },
+    {
+      "start": 1540.12,
+      "end": 1541.34,
+      "text": "So that's the thing."
+    },
+    {
+      "start": 1541.96,
+      "end": 1542.6,
+      "text": "Buying dips."
+    },
+    {
+      "start": 1542.6,
+      "end": 1542.84,
+      "text": "Right?"
+    },
+    {
+      "start": 1542.84,
+      "end": 1544.12,
+      "text": "And that was his strategy."
+    },
+    {
+      "start": 1544.12,
+      "end": 1545.32,
+      "text": "And he was very good."
+    },
+    {
+      "start": 1545.32,
+      "end": 1550.515,
+      "text": "Like, in fact, and I had recommended his name also to the market wizard book."
+    },
+    {
+      "start": 1550.515,
+      "end": 1553.495,
+      "text": "He refused to participate but, like, he was very good."
+    },
+    {
+      "start": 1553.635,
+      "end": 1565.25,
+      "text": "And all that he was doing was he was just, like, in a focusing on these stocks which had a certain threshold of buybacks and look at means he was not only doing, like a buyback was his universe."
+    },
+    {
+      "start": 1565.63,
+      "end": 1572.8501,
+      "text": "And on the buybacks, he was looking at, the other earning stability and things like that."
+    },
+    {
+      "start": 1572.91,
+      "end": 1582.8451,
+      "text": "And then because he had the confidence based on his study of the buybacks and, the earning stability, he would take a big position in those stocks."
+    },
+    {
+      "start": 1582.985,
+      "end": 1589.1799,
+      "text": "So he would like in it buy 70% position in those buyback kind of a stock."
+    },
+    {
+      "start": 1589.1799,
+      "end": 1590.7799,
+      "text": "They go up 20 or something."
+    },
+    {
+      "start": 1590.7799,
+      "end": 1591.6799,
+      "text": "He will sell."
+    },
+    {
+      "start": 1591.74,
+      "end": 1594.6399,
+      "text": "He will find the next one and keep doing it throughout the year."
+    },
+    {
+      "start": 1595.0199,
+      "end": 1611.665,
+      "text": "So yield factor is another quant thing, which is like an and this once you know this factor based kind of strategies, you can like an be operating in one of the factors, not even worrying about the noise in the environment."
+    },
+    {
+      "start": 1611.805,
+      "end": 1612.045,
+      "text": "Right?"
+    },
+    {
+      "start": 1612.045,
+      "end": 1613.965,
+      "text": "And because there are many ways to skin the cat."
+    },
+    {
+      "start": 1613.965,
+      "end": 1614.465,
+      "text": "Right?"
+    },
+    {
+      "start": 1615.1001,
+      "end": 1620.3201,
+      "text": "Now, the other factor which is, like an is crowding."
+    },
+    {
+      "start": 1620.54,
+      "end": 1624.64,
+      "text": "If you look at it, how many other funds own this particular stock?"
+    },
+    {
+      "start": 1626.2201,
+      "end": 1630.515,
+      "text": "Because if other funds own this stock, yeah, two things can happen."
+    },
+    {
+      "start": 1630.895,
+      "end": 1640.515,
+      "text": "One like and there is a reason why other funds also own this and this is why all mutual funds hedge funds and all keep a track on how many funds are owning this."
+    },
+    {
+      "start": 1640.5751,
+      "end": 1643.46,
+      "text": "Because if more funds are owning it, why are they owning it?"
+    },
+    {
+      "start": 1643.7799,
+      "end": 1648.0399,
+      "text": "Or if the fund ownership increases, why is it increasing?"
+    },
+    {
+      "start": 1654.34,
+      "end": 1654.84,
+      "text": "Here."
+    },
+    {
+      "start": 1656.74,
+      "end": 1657.64,
+      "text": "Look at this."
+    },
+    {
+      "start": 1658.6151,
+      "end": 1662.3151,
+      "text": "From five fifteen funds to eight seventy five funds."
+    },
+    {
+      "start": 1663.8151,
+      "end": 1667.5751,
+      "text": "The fund ownership has increased dramatically, right, and almost by 30%."
+    },
+    {
+      "start": 1667.5751,
+      "end": 1678.34,
+      "text": "So, when you're looking at crowding as a factor, you calculate the velocity with which funds are buying and how much they're buying."
+    },
+    {
+      "start": 1679.0399,
+      "end": 1680.32,
+      "text": "It's used in two ways."
+    },
+    {
+      "start": 1680.32,
+      "end": 1689.735,
+      "text": "One is like an either you buy stocks, which other funds are buying because it's, been like an there should be some reason why funds are buying, right?"
+    },
+    {
+      "start": 1689.735,
+      "end": 1700.68,
+      "text": "The other way is to short stocks where many funds are owning them because, it's going to lead to over ownership of that stock and their stock will mean reward."
+    },
+    {
+      "start": 1700.68,
+      "end": 1704.14,
+      "text": "That's the way, this thing is used, right?"
+    },
+    {
+      "start": 1704.36,
+      "end": 1709.24,
+      "text": "So these are not only, like in this is not the only factors which are there."
+    },
+    {
+      "start": 1709.24,
+      "end": 1716.745,
+      "text": "There are other factors besides this and those factors are important."
+    },
+    {
+      "start": 1718.885,
+      "end": 1721.145,
+      "text": "And where is those factors?"
+    },
+    {
+      "start": 1736.3401,
+      "end": 1736.8401,
+      "text": "Okay."
+    },
+    {
+      "start": 1737.62,
+      "end": 1740.4401,
+      "text": "So then there are growth factors."
+    },
+    {
+      "start": 1741.695,
+      "end": 1747.315,
+      "text": "Growth factors are EPS growth rate, sales growth rate, cash flow growth rate."
+    },
+    {
+      "start": 1747.9349,
+      "end": 1759.87,
+      "text": "And whenever you're looking at growth factor, you can look at currently the stocks which are currently growing faster than the market, are projected to go faster than the market."
+    },
+    {
+      "start": 1760.33,
+      "end": 1766.25,
+      "text": "The stocks which are projected to grow faster than the market are the one which tend to make big moves."
+    },
+    {
+      "start": 1766.25,
+      "end": 1778.365,
+      "text": "So growth factor is one which is like in a classic exam or like in a, the entire canceling methodology is based on finding stocks."
+    },
+    {
+      "start": 1778.905,
+      "end": 1783.885,
+      "text": "It's a factor based methodology to find stocks which are EPS growth rate."
+    },
+    {
+      "start": 1784.49,
+      "end": 1790.65,
+      "text": "And some quality factors like in the canceling there is not only EPS growth rate, there is also quality factor, right?"
+    },
+    {
+      "start": 1790.89,
+      "end": 1799.115,
+      "text": "It's a multi factor, model like where there is a EPS growth rate, There is a sales growth rate."
+    },
+    {
+      "start": 1799.8151,
+      "end": 1806.855,
+      "text": "What he wanted was 25% sales, EPS growth rate took, like four quarters in a row."
+    },
+    {
+      "start": 1806.855,
+      "end": 1811.28,
+      "text": "He wanted 25% sales growth, four quarters in a row."
+    },
+    {
+      "start": 1811.52,
+      "end": 1816.4,
+      "text": "He wanted RO, ROE above, I think, an 18 or something."
+    },
+    {
+      "start": 1816.4,
+      "end": 1816.72,
+      "text": "Right?"
+    },
+    {
+      "start": 1817.68,
+      "end": 1824.24,
+      "text": "If you somebody who knows, canceling will be able to better think ROE greater than 17."
+    },
+    {
+      "start": 1824.24,
+      "end": 1824.48,
+      "text": "Yeah."
+    },
+    {
+      "start": 1824.48,
+      "end": 1824.98,
+      "text": "17."
+    },
+    {
+      "start": 1825.855,
+      "end": 1828.755,
+      "text": "And, then he wanted, like, an margin."
+    },
+    {
+      "start": 1829.9349,
+      "end": 1831.635,
+      "text": "There was also a margin percentage."
+    },
+    {
+      "start": 1831.855,
+      "end": 1837.135,
+      "text": "It was not like an the only thing people know about William O'Neil is that he bought cup with handle."
+    },
+    {
+      "start": 1837.135,
+      "end": 1837.2949,
+      "text": "Right?"
+    },
+    {
+      "start": 1837.2949,
+      "end": 1839.63,
+      "text": "And the cup with handle was the last thing he looked at."
+    },
+    {
+      "start": 1839.63,
+      "end": 1844.29,
+      "text": "He looked at the stock, which has EPS and he also had this crowding."
+    },
+    {
+      "start": 1846.83,
+      "end": 1848.43,
+      "text": "He had a crowding factor also."
+    },
+    {
+      "start": 1848.43,
+      "end": 1865.235,
+      "text": "And the crowding factor was the mutual fund, which in the last three years, they outperformed the market five or more mutual funds should own the one which have outperformed the market the most in the last three years, five or more mutual fund should be owning them, right?"
+    },
+    {
+      "start": 1867.535,
+      "end": 1870.3301,
+      "text": "So So it was like in a multi factor, model."
+    },
+    {
+      "start": 1870.3301,
+      "end": 1874.8301,
+      "text": "It was not just like in a just simply, buy a cup with handle."
+    },
+    {
+      "start": 1875.21,
+      "end": 1880.91,
+      "text": "And, that's a good example of like how factors are traded as a multiple."
+    },
+    {
+      "start": 1881.05,
+      "end": 1885.565,
+      "text": "So multiple factors are taken together in order to select stock."
+    },
+    {
+      "start": 1886.1849,
+      "end": 1887.885,
+      "text": "Then there is a sentiment factor."
+    },
+    {
+      "start": 1888.825,
+      "end": 1890.5249,
+      "text": "Sentiment factors are news."
+    },
+    {
+      "start": 1891.225,
+      "end": 1901.14,
+      "text": "Nowadays, social media and the retail investors have become a big part of the market and retail volume is 25, 30% of the volume happening in the market."
+    },
+    {
+      "start": 1901.4601,
+      "end": 1905.0,
+      "text": "Even in terms of dollar volume, retail is now so big."
+    },
+    {
+      "start": 1905.06,
+      "end": 1918.0349,
+      "text": "So as a result of this, there are new factors which are being monitored which is a social media factor like in fact in a Goldman Sachs has a basket of stocks which are owned the most by retail investor."
+    },
+    {
+      "start": 1918.335,
+      "end": 1934.865,
+      "text": "There is a Goldman Sachs, basket of stock retail investors owned, like in a 50 stocks and that particular thing has outperformed all other factors in the recent years."
+    },
+    {
+      "start": 1934.865,
+      "end": 1945.2051,
+      "text": "If you know something about factor investing, the Goldman Sachs retail owned stocks, whenever the market bounces back that outperforms all other factors."
+    },
+    {
+      "start": 1946.145,
+      "end": 1951.0701,
+      "text": "Then analyst, how popular is a stock with the analyst?"
+    },
+    {
+      "start": 1951.2101,
+      "end": 1957.4701,
+      "text": "That is another thing which is like another is the entire industry, which looks at factors based on analyst ratings."
+    },
+    {
+      "start": 1958.41,
+      "end": 1984.6699,
+      "text": "You have things like, StarMine, which uses analyst past performance to find which stocks, like, which analyst has the best track record and then selects the stocks, which are basically those because if analyst has a past performance, his picks are done very well, then the that's an information or that's a factor."
+    },
+    {
+      "start": 1984.6699,
+      "end": 1984.99,
+      "text": "Right?"
+    },
+    {
+      "start": 1984.99,
+      "end": 1990.275,
+      "text": "StarMine, then you have that, tip rank, which try and do all these kind of things."
+    },
+    {
+      "start": 1990.275,
+      "end": 1994.375,
+      "text": "And then there are other things also, like, in the market, which try and do this."
+    },
+    {
+      "start": 1994.595,
+      "end": 1999.7949,
+      "text": "Then insider trading, best factors, there is like an event."
+    },
+    {
+      "start": 1999.7949,
+      "end": 2001.495,
+      "text": "There is lot of insider selling."
+    },
+    {
+      "start": 2002.0901,
+      "end": 2019.555,
+      "text": "Typically, there is a lag effect, but almost when there is a significantly high insider, selling and multiple insiders are selling into a stock, you will see that in, next three to six months, the stock is likely to go down, right?"
+    },
+    {
+      "start": 2019.555,
+      "end": 2028.97,
+      "text": "Tim, if you notice for the last six months or a year, Tim is number one stock in terms of number of insider selling."
+    },
+    {
+      "start": 2028.97,
+      "end": 2040.75,
+      "text": "76 insider sold this particular stock, and it's been consistently ranked number one stock in terms of insider selling, in terms of total number of sailing and see what has happened in last one year."
+    },
+    {
+      "start": 2042.5851,
+      "end": 2044.5851,
+      "text": "62, like, another thing."
+    },
+    {
+      "start": 2044.5851,
+      "end": 2045.0851,
+      "text": "Right?"
+    },
+    {
+      "start": 2045.545,
+      "end": 2064.2698,
+      "text": "Similarly, if you see, like, some of the other sales right under this spot, you see that when you have, like, in a consensus selling by insiders, that will lead to the stock going down."
+    },
+    {
+      "start": 2064.8098,
+      "end": 2068.75,
+      "text": "So these are some of the factors which are, like, in a used in trading."
+    },
+    {
+      "start": 2069.69,
+      "end": 2077.065,
+      "text": "Similarly, if you are, like, in a, lot of, like, an AEC core view, 18 insiders have sold that stock."
+    },
+    {
+      "start": 2077.285,
+      "end": 2079.145,
+      "text": "Airbnb, 16 insiders."
+    },
+    {
+      "start": 2080.085,
+      "end": 2082.165,
+      "text": "So but this is, like, in a 76."
+    },
+    {
+      "start": 2082.165,
+      "end": 2091.8398,
+      "text": "That was, like, in a clear out of the, you can't even imagine that kind of like an everybody, all the rats on the ship are like in a living, right?"
+    },
+    {
+      "start": 2092.2998,
+      "end": 2093.52,
+      "text": "So that's the thing."
+    },
+    {
+      "start": 2095.18,
+      "end": 2098.38,
+      "text": "So this is, these are factors which are used, right?"
+    },
+    {
+      "start": 2098.38,
+      "end": 2105.065,
+      "text": "Then size, obviously size is a factor, smaller cap tend to do better."
+    },
+    {
+      "start": 2105.065,
+      "end": 2111.085,
+      "text": "That's a factor which is used, very commonly used factor."
+    },
+    {
+      "start": 2111.625,
+      "end": 2114.3,
+      "text": "Now what is done, is liquidity factor."
+    },
+    {
+      "start": 2114.3,
+      "end": 2119.1,
+      "text": "This is more like an this I would like, and I look at separately short term factors."
+    },
+    {
+      "start": 2119.1,
+      "end": 2121.66,
+      "text": "I'm going to do a separate session on short term factor."
+    },
+    {
+      "start": 2121.66,
+      "end": 2131.235,
+      "text": "But all these factors which we looked at, these are more factor in terms of holding periods of six months to a year or more."
+    },
+    {
+      "start": 2139.79,
+      "end": 2164.385,
+      "text": "So if you are go planning to do something like hold the stock for six months or three or one year or something, then these are the factors which are important for selecting stock or multifactor model, which is saying, okay, I'm going to focus on value stocks, but I'm going to focus on value stocks, which also have a three months momentum."
+    },
+    {
+      "start": 2165.22,
+      "end": 2176.34,
+      "text": "So you can do a multifactor analysis model where we are looking at, p should be below this this thing, and three months in momentum should be greater than this, and then select those stocks kind of a thing."
+    },
+    {
+      "start": 2176.34,
+      "end": 2176.84,
+      "text": "Right?"
+    },
+    {
+      "start": 2176.98,
+      "end": 2182.795,
+      "text": "So factor based things are the way you can select stocks."
+    },
+    {
+      "start": 2182.795,
+      "end": 2184.4749,
+      "text": "You can do a better job of selecting."
+    },
+    {
+      "start": 2184.4749,
+      "end": 2188.1548,
+      "text": "Now how you can marry this with your existing day to day thing?"
+    },
+    {
+      "start": 2188.1548,
+      "end": 2208.11,
+      "text": "Once you run your combination scan, supposing use run your combination scan and you find 10 stocks which meet your criteria of SOS before buying them, you can use, factor based, factors like saying, okay."
+    },
+    {
+      "start": 2208.11,
+      "end": 2209.49,
+      "text": "Is there insider buying?"
+    },
+    {
+      "start": 2211.7852,
+      "end": 2212.7651,
+      "text": "Is there buybacks?"
+    },
+    {
+      "start": 2214.665,
+      "end": 2215.625,
+      "text": "You can have a checklist."
+    },
+    {
+      "start": 2215.625,
+      "end": 2215.945,
+      "text": "Right?"
+    },
+    {
+      "start": 2215.945,
+      "end": 2222.0452,
+      "text": "And then you can have, like, an is there, like, an a mutual funds ownership or hedge fund ownership going up?"
+    },
+    {
+      "start": 2222.105,
+      "end": 2224.2852,
+      "text": "So you create a factor based filter."
+    },
+    {
+      "start": 2224.745,
+      "end": 2233.3,
+      "text": "And to increase the probability, is there a liquidity factor like an is there like an crowding factor."
+    },
+    {
+      "start": 2233.52,
+      "end": 2241.46,
+      "text": "So when you use that kind of an information which it is going to give you higher probability but no guarantee."
+    },
+    {
+      "start": 2241.7449,
+      "end": 2248.4849,
+      "text": "Always remember there is a higher probability no guarantee, of that stock going up right and basically."
+    },
+    {
+      "start": 2248.785,
+      "end": 2259.9001,
+      "text": "So, if you look at like say STX right and then when it shows up in your SOS kind of thing and you see that there is a crowding factor here from 1,800 mutual fund owning to 2,100 mutual fund owning."
+    },
+    {
+      "start": 2259.9001,
+      "end": 2261.1802,
+      "text": "So there is something there, right?"
+    },
+    {
+      "start": 2261.1802,
+      "end": 2263.76,
+      "text": "And so that might be the stock which you want to select."
+    },
+    {
+      "start": 2264.3801,
+      "end": 2272.2751,
+      "text": "So this is how you can use factor, but these are all six months to year move."
+    },
+    {
+      "start": 2272.975,
+      "end": 2279.635,
+      "text": "These factors are not necessarily the factors which are useful when you are doing short term trading."
+    },
+    {
+      "start": 2280.0151,
+      "end": 2286.35,
+      "text": "Whenever short term trading, even the when the hedge funds and conference do, they are not necessarily looking at this factor."
+    },
+    {
+      "start": 2286.35,
+      "end": 2288.4502,
+      "text": "They are looking at completely different factors."
+    },
+    {
+      "start": 2289.3901,
+      "end": 2292.85,
+      "text": "And those factors are completely different from these factors."
+    },
+    {
+      "start": 2293.07,
+      "end": 2298.37,
+      "text": "And let's look at like in a, instead of doing a new session, we can just finish it in this thing."
+    },
+    {
+      "start": 2298.4302,
+      "end": 2313.0552,
+      "text": "So, what factors If you are holding for a few minutes to few days, the factors which are important are completely different."
+    },
+    {
+      "start": 2313.25,
+      "end": 2324.1501,
+      "text": "And those factors which are important if you're doing short term trading are the number one short term trading factor is mean reversion."
+    },
+    {
+      "start": 2329.885,
+      "end": 2342.625,
+      "text": "That means anything which has gone up a lot in the last ten days, more or less likely to end up giving up the gains or it is likely to revert or something which is down a lot is likely to go up."
+    },
+    {
+      "start": 2342.88,
+      "end": 2347.22,
+      "text": "So mean reversion is the number one factor which is used."
+    },
+    {
+      "start": 2347.5999,
+      "end": 2356.3398,
+      "text": "Intraday, it is the number one factor used for three to five days holding period."
+    },
+    {
+      "start": 2365.175,
+      "end": 2380.3801,
+      "text": "What it means is that stocks that move too fast will revert or snap back or will give up some of its scale."
+    },
+    {
+      "start": 2380.76,
+      "end": 2391.575,
+      "text": "And as a result, fading is the number one set up idea on the lower time frame."
+    },
+    {
+      "start": 2391.575,
+      "end": 2398.46,
+      "text": "Like when we are looking at when we are looking at the earlier factors, they are based on macro factors, They are based on larger factor."
+    },
+    {
+      "start": 2398.46,
+      "end": 2409.1199,
+      "text": "When you're looking at factors which are, like, useful for intraday trading, short term trading, they're all based on market microstructure."
+    },
+    {
+      "start": 2413.915,
+      "end": 2414.2349,
+      "text": "Right?"
+    },
+    {
+      "start": 2414.2349,
+      "end": 2416.4949,
+      "text": "So they're all going to be based on microstructure."
+    },
+    {
+      "start": 2416.7148,
+      "end": 2418.875,
+      "text": "So those factors are going to be very different."
+    },
+    {
+      "start": 2418.875,
+      "end": 2419.115,
+      "text": "Right?"
+    },
+    {
+      "start": 2419.115,
+      "end": 2419.615,
+      "text": "Basically."
+    },
+    {
+      "start": 2419.9949,
+      "end": 2439.42,
+      "text": "So if a stock is up significantly for next, for one to five days, the conference are going to be looking at shorting that stock and number of people, retail investors will be looking at what?"
+    },
+    {
+      "start": 2442.2651,
+      "end": 2452.985,
+      "text": "On the same stock, the retail investor will be looking at going long and then they what they will say is that the market is manipulated, this doesn't work, that doesn't work, right, and basically."
+    },
+    {
+      "start": 2452.985,
+      "end": 2459.04,
+      "text": "So this should also tell you the importance of SOS because this is the number one factor out of all the factors."
+    },
+    {
+      "start": 2459.04,
+      "end": 2464.34,
+      "text": "Most of the like in a, Quan funds their main strategies to do mean reversion, right?"
+    },
+    {
+      "start": 2465.28,
+      "end": 2467.965,
+      "text": "That's the best performing factor in the short term."
+    },
+    {
+      "start": 2468.205,
+      "end": 2484.63,
+      "text": "Even, that this is why when you do something like opening range breakout, and if the stock doesn't have really a reason to go up for that day, what happens when you buy it in the first, thirty minutes or when you buy it in the first ninety minutes, what tends to happen?"
+    },
+    {
+      "start": 2486.13,
+      "end": 2488.23,
+      "text": "It pulls back, right?"
+    },
+    {
+      "start": 2488.77,
+      "end": 2489.01,
+      "text": "Why?"
+    },
+    {
+      "start": 2489.01,
+      "end": 2495.59,
+      "text": "Because every single study which the con funds have done, they see mean reversion as the number one factor."
+    },
+    {
+      "start": 2496.93,
+      "end": 2503.325,
+      "text": "Because whenever there is a liquidity, right, and what creates this big moves is liquidity."
+    },
+    {
+      "start": 2506.345,
+      "end": 2513.2449,
+      "text": "Sudden buying comes in, right, liquidity, but when liquidity evaporates, what happens when liquidity evaporates?"
+    },
+    {
+      "start": 2514.48,
+      "end": 2517.86,
+      "text": "And this you'll see on the, intraday basis also."
+    },
+    {
+      "start": 2518.24,
+      "end": 2527.855,
+      "text": "When the liquidity evaporates, what happens is Here, there was a liquidity, right?"
+    },
+    {
+      "start": 2527.855,
+      "end": 2529.075,
+      "text": "Liquidity operated."
+    },
+    {
+      "start": 2530.255,
+      "end": 2531.315,
+      "text": "Stock goes down."
+    },
+    {
+      "start": 2531.615,
+      "end": 2536.9949,
+      "text": "So, whenever there is a liquidity and it goes up and liquidity they they watch for liquidity operation."
+    },
+    {
+      "start": 2537.295,
+      "end": 2539.295,
+      "text": "When liquidity operates, it goes down."
+    },
+    {
+      "start": 2539.295,
+      "end": 2545.5698,
+      "text": "Similarly, reversals happen on the long side, like on the long side also."
+    },
+    {
+      "start": 2545.71,
+      "end": 2556.415,
+      "text": "So this is the number one factor in the short term and this is why for short term trading, you have to always buy at the start of a swing and avoid extended stocks."
+    },
+    {
+      "start": 2556.415,
+      "end": 2560.115,
+      "text": "Like, how do you, like, or short extended stocks?"
+    },
+    {
+      "start": 2560.655,
+      "end": 2563.2148,
+      "text": "That's exactly what, really this whole thing means."
+    },
+    {
+      "start": 2563.2148,
+      "end": 2563.615,
+      "text": "Right?"
+    },
+    {
+      "start": 2563.615,
+      "end": 2569.635,
+      "text": "So lot of start strategies will be shot the winners of last week."
+    },
+    {
+      "start": 2578.5898,
+      "end": 2585.865,
+      "text": "And go long, losers of last week."
+    },
+    {
+      "start": 2587.285,
+      "end": 2587.685,
+      "text": "Right?"
+    },
+    {
+      "start": 2587.685,
+      "end": 2598.345,
+      "text": "So when you do a 20% study and you see a stock in 20% study, most of the time, what is likely to happen to a stock which shows up in 20% study next week?"
+    },
+    {
+      "start": 2604.22,
+      "end": 2605.98,
+      "text": "It's likely to fade, right?"
+    },
+    {
+      "start": 2605.98,
+      "end": 2607.28,
+      "text": "It is likely to fade."
+    },
+    {
+      "start": 2607.5,
+      "end": 2612.96,
+      "text": "And this is why when people come to me and say, look, I want to use weekly chart."
+    },
+    {
+      "start": 2614.625,
+      "end": 2616.165,
+      "text": "I want to buy weekly breakout."
+    },
+    {
+      "start": 2617.505,
+      "end": 2626.145,
+      "text": "If you buy weekly breakout, you're most likely getting vulnerable to a conference shorting there, right?"
+    },
+    {
+      "start": 2626.145,
+      "end": 2626.645,
+      "text": "Basically."
+    },
+    {
+      "start": 2626.7048,
+      "end": 2638.0898,
+      "text": "So that's why the stocks which don't mean reward are the one if something doesn't mean reward, is there a signal or is there an information if something doesn't mean reward?"
+    },
+    {
+      "start": 2638.47,
+      "end": 2641.77,
+      "text": "Something has a momentum and it doesn't mean reward."
+    },
+    {
+      "start": 2642.0698,
+      "end": 2642.985,
+      "text": "What will it do?"
+    },
+    {
+      "start": 2650.745,
+      "end": 2652.7651,
+      "text": "It will form a continuation set up."
+    },
+    {
+      "start": 2653.7852,
+      "end": 2654.0251,
+      "text": "Right?"
+    },
+    {
+      "start": 2654.0251,
+      "end": 2661.45,
+      "text": "The survivors, after the mean reversion, either this will do this or it will do this."
+    },
+    {
+      "start": 2661.45,
+      "end": 2664.67,
+      "text": "And this is why we select stocks which do this."
+    },
+    {
+      "start": 2665.3699,
+      "end": 2665.8699,
+      "text": "Right?"
+    },
+    {
+      "start": 2668.445,
+      "end": 2672.125,
+      "text": "And that's the, what number one factor in the short term."
+    },
+    {
+      "start": 2672.125,
+      "end": 2696.75,
+      "text": "So if you're looking for short term trading mean reversion is the number one factor which you need to be aware of because that is what is going to screw up with your thinking and this is why when you hear let your winners run and things like that and you get a winner and it makes 20% or 30% in one week, what is the probability that that is going to continue?"
+    },
+    {
+      "start": 2696.75,
+      "end": 2697.49,
+      "text": "Tell me."
+    },
+    {
+      "start": 2701.145,
+      "end": 2701.7852,
+      "text": "It's low."
+    },
+    {
+      "start": 2701.7852,
+      "end": 2702.2852,
+      "text": "Right?"
+    },
+    {
+      "start": 2709.865,
+      "end": 2714.2798,
+      "text": "So but, like, in a whenever these cons do this mean reversion kind of a thing."
+    },
+    {
+      "start": 2714.2798,
+      "end": 2714.5999,
+      "text": "Right?"
+    },
+    {
+      "start": 2714.5999,
+      "end": 2717.66,
+      "text": "And they they they are not just doing, like, in a blindly."
+    },
+    {
+      "start": 2718.1199,
+      "end": 2723.42,
+      "text": "If a stock goes up 20%, they are going to what they do is it's a little bit more sophisticated."
+    },
+    {
+      "start": 2724.7598,
+      "end": 2732.7551,
+      "text": "They will remove the effect of the underlying beta of the stock and they remove the effect of the sector."
+    },
+    {
+      "start": 2734.0151,
+      "end": 2738.495,
+      "text": "And then look at the stock, like, okay, how much of this move is explained by sector?"
+    },
+    {
+      "start": 2738.495,
+      "end": 2740.435,
+      "text": "How much of it is explained by beta?"
+    },
+    {
+      "start": 2740.55,
+      "end": 2748.89,
+      "text": "So based on beta, this stock was supposed to make 15% move in and based on sector it was supposed to make 15% move, right?"
+    },
+    {
+      "start": 2750.31,
+      "end": 2754.25,
+      "text": "And then this stock is up 30% in five days."
+    },
+    {
+      "start": 2754.735,
+      "end": 2762.655,
+      "text": "So they will definitely select the stock, which has that characteristic as against the beta is 15%."
+    },
+    {
+      "start": 2762.655,
+      "end": 2764.735,
+      "text": "This stock is up 16%, right?"
+    },
+    {
+      "start": 2764.735,
+      "end": 2773.3499,
+      "text": "And based on the sector prior, analysis of sector based moves and all it is like an up 16%."
+    },
+    {
+      "start": 2773.49,
+      "end": 2775.8298,
+      "text": "They are not going to be interested in that stock."
+    },
+    {
+      "start": 2775.89,
+      "end": 2778.23,
+      "text": "What they are looking for is a outlier."
+    },
+    {
+      "start": 2778.45,
+      "end": 2792.8152,
+      "text": "So there is more sophistication in terms of refinement, in terms of how, mean reversion stocks are selected after stripping, the effect of beta and sector on them."
+    },
+    {
+      "start": 2793.4102,
+      "end": 2801.83,
+      "text": "So those of you who want to do some quant kind of a stuff, you will know what I'm talking about or those who want to do some kind of a back testing."
+    },
+    {
+      "start": 2801.97,
+      "end": 2803.1702,
+      "text": "This is how it is done."
+    },
+    {
+      "start": 2803.1702,
+      "end": 2803.6702,
+      "text": "Right?"
+    },
+    {
+      "start": 2803.97,
+      "end": 2804.9502,
+      "text": "So that's what."
+    },
+    {
+      "start": 2806.5552,
+      "end": 2808.0151,
+      "text": "What is the second factor?"
+    },
+    {
+      "start": 2808.075,
+      "end": 2809.915,
+      "text": "These are all short term factors, right?"
+    },
+    {
+      "start": 2809.915,
+      "end": 2813.695,
+      "text": "And what is the second most important factor in the short term?"
+    },
+    {
+      "start": 2813.7551,
+      "end": 2831.01,
+      "text": "If you're going to be holding a stock for a few minutes, few hours or few days, what is the second most important, factor?"
+    },
+    {
+      "start": 2831.01,
+      "end": 2833.1099,
+      "text": "Liquidity, order flow and volume."
+    },
+    {
+      "start": 2834.115,
+      "end": 2835.415,
+      "text": "Order flow and volume."
+    },
+    {
+      "start": 2835.475,
+      "end": 2847.2551,
+      "text": "You have, like, an all these companies like Citadel, Genesee, or, like, any all these, they are basically they are trading order flow and volume."
+    },
+    {
+      "start": 2848.04,
+      "end": 2864.155,
+      "text": "The main consideration for them to get excited about any stock or like in it, the factor which will, excite them is how aggressive the buying or selling is there in the market."
+    },
+    {
+      "start": 2869.815,
+      "end": 2882.2898,
+      "text": "So when they see a aggressive buying coming into the market, The algorithms all pile on to that move."
+    },
+    {
+      "start": 2882.51,
+      "end": 2882.75,
+      "text": "Right?"
+    },
+    {
+      "start": 2882.75,
+      "end": 2893.825,
+      "text": "And this is why you saw that, like, you know, what happened is you see here, look at the historical volume on this particular thing."
+    },
+    {
+      "start": 2895.085,
+      "end": 2901.63,
+      "text": "Once it is detected, every single algorithm gets into this kind of moves when there is a volume and liquidity."
+    },
+    {
+      "start": 2901.8499,
+      "end": 2918.4849,
+      "text": "And if you know anything about quantitative funds or if you see, so that is, this is why some of the things like this 40 new high in the morning and all those stocks tend to make move for rest of the day because why will a stock have 40 new high in the first forty, first few minutes?"
+    },
+    {
+      "start": 2918.7048,
+      "end": 2921.845,
+      "text": "Because there is a volume, aggressive buying coming in."
+    },
+    {
+      "start": 2922.145,
+      "end": 2931.74,
+      "text": "So this is why order flow and volume is the most widely used factor."
+    },
+    {
+      "start": 2932.6802,
+      "end": 2948.275,
+      "text": "What funds are doing is they are finding out which stocks there is imbalance of volume and they will look at those stocks for if the order flow is very high, they will trade in the direction of the order flow."
+    },
+    {
+      "start": 2948.335,
+      "end": 2954.035,
+      "text": "The moment they detect the order flow has started petering out, they will short the stock."
+    },
+    {
+      "start": 2955.2148,
+      "end": 2960.95,
+      "text": "So they are looking at order flow as a signal for making short term decision."
+    },
+    {
+      "start": 2960.95,
+      "end": 2966.8699,
+      "text": "This is for, like, one minute, three minutes, five minutes, or even one to two days, three days kind of a, trading."
+    },
+    {
+      "start": 2966.8699,
+      "end": 2967.1099,
+      "text": "Right?"
+    },
+    {
+      "start": 2967.1099,
+      "end": 2974.3948,
+      "text": "And, basically so whenever there is a threshold volume."
+    },
+    {
+      "start": 2980.2148,
+      "end": 2983.6548,
+      "text": "The stock crosses based on its, relative volume."
+    },
+    {
+      "start": 2983.6548,
+      "end": 2984.1548,
+      "text": "Right?"
+    },
+    {
+      "start": 2984.615,
+      "end": 2990.63,
+      "text": "All the algorithms, all the quantitative traders are going to get interested in it for both reason."
+    },
+    {
+      "start": 2990.63,
+      "end": 2996.8098,
+      "text": "One, to trade it as a trend and to trade it as main reversal."
+    },
+    {
+      "start": 3000.3098,
+      "end": 3002.0898,
+      "text": "So this is order flow and volume."
+    },
+    {
+      "start": 3002.715,
+      "end": 3004.715,
+      "text": "This is the lifeblood of Citadel."
+    },
+    {
+      "start": 3004.715,
+      "end": 3006.955,
+      "text": "This is the lifeblood of Renaissance Capital."
+    },
+    {
+      "start": 3006.955,
+      "end": 3014.395,
+      "text": "This is the lifeblood of Genesee Street and all these, players, and they make billions of dollars doing this."
+    },
+    {
+      "start": 3014.395,
+      "end": 3014.895,
+      "text": "Right?"
+    },
+    {
+      "start": 3016.61,
+      "end": 3022.47,
+      "text": "Then there is a overnight or a gap factor."
+    },
+    {
+      "start": 3026.29,
+      "end": 3046.4001,
+      "text": "This is a con factor where like in a overnight, if there's a overnight gap, then they are, like, in a they know that, like, in a basically, there is a overnight gap that means, like, you know, the stock is going to move in the at least short term."
+    },
+    {
+      "start": 3046.86,
+      "end": 3052.56,
+      "text": "In the short term, it is going to move in the direction of the gap."
+    },
+    {
+      "start": 3054.635,
+      "end": 3055.775,
+      "text": "So that's momentum."
+    },
+    {
+      "start": 3057.675,
+      "end": 3065.935,
+      "text": "But there is another factor which quants have discovered, and these are all quant factors which have been discovered based on market microstructure."
+    },
+    {
+      "start": 3066.2349,
+      "end": 3076.2998,
+      "text": "Overnight gap has a probability that it is going to be moving that direction for some minutes or some hours, but there is another factor."
+    },
+    {
+      "start": 3076.2998,
+      "end": 3088.295,
+      "text": "And what is that another factor, which they are discovered is intra defect, Right?"
+    },
+    {
+      "start": 3095.315,
+      "end": 3107.5798,
+      "text": "So whenever there is a gap up, they have found that intraday, after the gap has been played out in the short term, the stock is going to fade."
+    },
+    {
+      "start": 3115.705,
+      "end": 3118.825,
+      "text": "And this is another, like, in a way very common factor."
+    },
+    {
+      "start": 3118.825,
+      "end": 3137.35,
+      "text": "This is why some of the best trading setups are, like and I just create a, list of gaps in the morning, and then look for fade later in the day on those gaps."
+    },
+    {
+      "start": 3138.77,
+      "end": 3144.745,
+      "text": "If there is a gap, like, s and d k had a gap, and it faded for rest of the day."
+    },
+    {
+      "start": 3145.2852,
+      "end": 3148.405,
+      "text": "And this is a very common thing, which you'll see again and again."
+    },
+    {
+      "start": 3148.405,
+      "end": 3148.905,
+      "text": "Right?"
+    },
+    {
+      "start": 3149.605,
+      "end": 3160.09,
+      "text": "Stock like GLW had a gap that day, and it moved in the direction of the gap in the morning for fifteen, twenty minutes, And then it kept on fading."
+    },
+    {
+      "start": 3161.51,
+      "end": 3164.47,
+      "text": "Later, right, and that day, it kept on fading, right?"
+    },
+    {
+      "start": 3164.47,
+      "end": 3170.535,
+      "text": "And, or even yesterday also, like, an eight happened the same even here, it made this big, and then it faded."
+    },
+    {
+      "start": 3171.015,
+      "end": 3174.4749,
+      "text": "And this has the implication in terms of like how you trade gaps."
+    },
+    {
+      "start": 3174.855,
+      "end": 3180.155,
+      "text": "And, that's why a lot of the SIPs trades, what happens to the SIPs trades?"
+    },
+    {
+      "start": 3187.29,
+      "end": 3189.85,
+      "text": "It goes up for a few minutes or a few hours."
+    },
+    {
+      "start": 3189.85,
+      "end": 3190.35,
+      "text": "Right?"
+    },
+    {
+      "start": 3190.8901,
+      "end": 3193.7102,
+      "text": "And then it ends up giving up those gains."
+    },
+    {
+      "start": 3193.9302,
+      "end": 3203.585,
+      "text": "So many of the SIPs trade become just like a few minutes or few, like an f, half an hour, one hour kind of a trade."
+    },
+    {
+      "start": 3204.045,
+      "end": 3204.125,
+      "text": "Right?"
+    },
+    {
+      "start": 3204.125,
+      "end": 3204.7651,
+      "text": "They'll go up."
+    },
+    {
+      "start": 3204.7651,
+      "end": 3207.345,
+      "text": "They might make 40%, and then they will quit."
+    },
+    {
+      "start": 3207.485,
+      "end": 3212.685,
+      "text": "So so they become great sips, and they also become great fit."
+    },
+    {
+      "start": 3212.685,
+      "end": 3214.625,
+      "text": "The same stock becomes a great fit."
+    },
+    {
+      "start": 3214.76,
+      "end": 3229.5,
+      "text": "So intraday fit is some factor which is like, you know, they are discovered, which is like in a very common on stocks which gap the stocks which gap have a high probability of trading intraday."
+    },
+    {
+      "start": 3230.0452,
+      "end": 3230.365,
+      "text": "Right?"
+    },
+    {
+      "start": 3230.365,
+      "end": 3237.105,
+      "text": "It does not mean that by end of the day it is it might still close near the high, but intraday it is likely to fade."
+    },
+    {
+      "start": 3237.165,
+      "end": 3244.8098,
+      "text": "So, this is again the implication of understanding factors like this is you can refine your stops."
+    },
+    {
+      "start": 3244.8098,
+      "end": 3258.91,
+      "text": "You can refine or understand what is likely in terms of taking profit on a SIPs kind of a trade and what is likely or like any you can trade a SIPs intraday as something which has gone up a lot in the morning that it is going to fade."
+    },
+    {
+      "start": 3259.0251,
+      "end": 3263.925,
+      "text": "And so this is just, one of the factors which is used by short term trading."
+    },
+    {
+      "start": 3264.705,
+      "end": 3275.76,
+      "text": "Then obviously the one which we use a lot, which is like an either pits, which is like an even there is a very good earnings or sales, a surprise, then it is surprised as a factor."
+    },
+    {
+      "start": 3275.82,
+      "end": 3278.96,
+      "text": "In the short term, surprise as a factor works very well."
+    },
+    {
+      "start": 3279.18,
+      "end": 3284.46,
+      "text": "And that is why you'll see some of the stocks like AT and T."
+    },
+    {
+      "start": 3284.46,
+      "end": 3284.96,
+      "text": "Right?"
+    },
+    {
+      "start": 3285.765,
+      "end": 3286.2449,
+      "text": "Surprise."
+    },
+    {
+      "start": 3286.2449,
+      "end": 3287.285,
+      "text": "Short term surprise."
+    },
+    {
+      "start": 3287.285,
+      "end": 3294.345,
+      "text": "Like, an the earnings was not very stellar, but it surprised, right, and that was more than enough for it to make this 10% move."
+    },
+    {
+      "start": 3295.2048,
+      "end": 3298.505,
+      "text": "You'll see yesterday, same thing happened to Verizon."
+    },
+    {
+      "start": 3298.645,
+      "end": 3299.145,
+      "text": "Right?"
+    },
+    {
+      "start": 3299.44,
+      "end": 3301.7,
+      "text": "Or on Friday, same thing happened to Verizon."
+    },
+    {
+      "start": 3302.56,
+      "end": 3303.68,
+      "text": "Verizon had earnings."
+    },
+    {
+      "start": 3303.68,
+      "end": 3307.6,
+      "text": "They were not really, like, any significantly better or they are now something."
+    },
+    {
+      "start": 3307.6,
+      "end": 3307.84,
+      "text": "Right?"
+    },
+    {
+      "start": 3307.84,
+      "end": 3308.72,
+      "text": "And then yeah."
+    },
+    {
+      "start": 3308.72,
+      "end": 3309.2,
+      "text": "Earnings."
+    },
+    {
+      "start": 3309.2,
+      "end": 3309.36,
+      "text": "Right?"
+    },
+    {
+      "start": 3309.36,
+      "end": 3310.48,
+      "text": "And then horizon had earnings."
+    },
+    {
+      "start": 3310.48,
+      "end": 3313.3,
+      "text": "And the the earnings and 11% movement."
+    },
+    {
+      "start": 3314.535,
+      "end": 3315.015,
+      "text": "Right."
+    },
+    {
+      "start": 3315.015,
+      "end": 3317.275,
+      "text": "So, PEITS is one of the factors."
+    },
+    {
+      "start": 3317.655,
+      "end": 3325.675,
+      "text": "Increasingly, PEITS is becoming, according to the context factor studies and all, PEITS is becoming a shorter term factors."
+    },
+    {
+      "start": 3326.2148,
+      "end": 3326.535,
+      "text": "Why?"
+    },
+    {
+      "start": 3326.535,
+      "end": 3330.1099,
+      "text": "Because everything gets priced in very fast."
+    },
+    {
+      "start": 3332.0098,
+      "end": 3341.47,
+      "text": "So on the day on which you have a piece, you may have these stocks making 20% move and then they're pulling back, kind of a thing, right?"
+    },
+    {
+      "start": 3343.0498,
+      "end": 3355.5452,
+      "text": "And then what else is there?"
+    },
+    {
+      "start": 3355.5452,
+      "end": 3366.0,
+      "text": "Like, obviously, the, short term is, like, also social, sentiment factor."
+    },
+    {
+      "start": 3366.01,
+      "end": 3372.15,
+      "text": "Where, like, they monitor, the Twitter, they monitor stock tweets and read it and all."
+    },
+    {
+      "start": 3372.525,
+      "end": 3380.385,
+      "text": "And they go long stocks, which are retail traders for it for that particular time period, and they short stocks, which after that, right, in a basically."
+    },
+    {
+      "start": 3381.9648,
+      "end": 3383.005,
+      "text": "So that's what happens."
+    },
+    {
+      "start": 3383.005,
+      "end": 3383.505,
+      "text": "Right?"
+    },
+    {
+      "start": 3383.9648,
+      "end": 3387.0,
+      "text": "So these are all the factors short term."
+    },
+    {
+      "start": 3387.0,
+      "end": 3387.4001,
+      "text": "Right?"
+    },
+    {
+      "start": 3387.4001,
+      "end": 3394.4602,
+      "text": "There here you're not going to find any factors like growth, sector, all these are not even really want."
+    },
+    {
+      "start": 3394.76,
+      "end": 3401.195,
+      "text": "Mean reversion, order flow and volume, overnight gaps, intraday fade, and pits."
+    },
+    {
+      "start": 3401.195,
+      "end": 3405.0352,
+      "text": "That's why when you see lot of time, I see a gap happening on a stock."
+    },
+    {
+      "start": 3405.0352,
+      "end": 3407.355,
+      "text": "I always say, this stock is likely to fade."
+    },
+    {
+      "start": 3407.355,
+      "end": 3407.855,
+      "text": "Right?"
+    },
+    {
+      "start": 3408.155,
+      "end": 3413.695,
+      "text": "And, if you like any, just wait for the initial momentum to play out."
+    },
+    {
+      "start": 3413.9302,
+      "end": 3414.75,
+      "text": "What happens?"
+    },
+    {
+      "start": 3414.8901,
+      "end": 3415.6301,
+      "text": "It fades."
+    },
+    {
+      "start": 3415.77,
+      "end": 3420.83,
+      "text": "Or when you see TQQ gapping up, like, that day it gapped up."
+    },
+    {
+      "start": 3421.1301,
+      "end": 3423.55,
+      "text": "And what was the thing I said that day?"
+    },
+    {
+      "start": 3423.61,
+      "end": 3425.2102,
+      "text": "That most likely it is going to fade."
+    },
+    {
+      "start": 3425.2102,
+      "end": 3425.4502,
+      "text": "Right?"
+    },
+    {
+      "start": 3425.4502,
+      "end": 3429.31,
+      "text": "And that day it, like, in a gapped up after three, four days and then it faded."
+    },
+    {
+      "start": 3429.5752,
+      "end": 3437.5752,
+      "text": "So, this knowing this micro structure or knowing this factor short term factors, which are completely different from the longer term factors, right."
+    },
+    {
+      "start": 3437.5752,
+      "end": 3449.1199,
+      "text": "In the short term for one to three days trading period, there is just like order flow, or some news or sentiment is more important than any other factor."
+    },
+    {
+      "start": 3449.5,
+      "end": 3452.78,
+      "text": "If you're going to hold for a longer term, then the other things are important."
+    },
+    {
+      "start": 3452.78,
+      "end": 3457.3848,
+      "text": "So you can so again, how do you use this information?"
+    },
+    {
+      "start": 3457.4448,
+      "end": 3463.125,
+      "text": "Use this information to see create set of or to find entries."
+    },
+    {
+      "start": 3463.125,
+      "end": 3463.365,
+      "text": "Right?"
+    },
+    {
+      "start": 3463.365,
+      "end": 3475.41,
+      "text": "If you see something which is sips, and if you didn't get in early in the morning on that sips, you know that there is a trade in that ships and which is intraday that stock is going to fade."
+    },
+    {
+      "start": 3475.41,
+      "end": 3475.91,
+      "text": "Right?"
+    },
+    {
+      "start": 3477.25,
+      "end": 3490.7651,
+      "text": "So you can like an aim, look at something which gaps a big, and especially for those of you who are going you're doing day trading, you can improve your day trading a lot by understanding the short term macro factors which are used."
+    },
+    {
+      "start": 3495.705,
+      "end": 3496.525,
+      "text": "Any questions?"
+    },
+    {
+      "start": 3498.46,
+      "end": 3502.86,
+      "text": "I you can there is a whole there's a lot of information on this."
+    },
+    {
+      "start": 3502.86,
+      "end": 3510.555,
+      "text": "And, if you really want to go into this in detail more, like, you know, do a lot more work to find things right."
+    },
+    {
+      "start": 3510.555,
+      "end": 3519.135,
+      "text": "And there is also this book called Your Complete Guide to Factor Based Investing, which is like in a more the first two slides kind of a thing which I talked about."
+    },
+    {
+      "start": 3519.675,
+      "end": 3531.9,
+      "text": "This is like in a basically, that for longer term investing because, AQR, which is like the, this thing that guy has written off, but it's a little bit dated."
+    },
+    {
+      "start": 3532.52,
+      "end": 3536.14,
+      "text": "This is more like an a factor based complete guide to factor based investing."
+    },
+    {
+      "start": 3536.2,
+      "end": 3547.0251,
+      "text": "Similarly, there is a, book, by Zacks founder, Zacks founder also has a book, which is again, talking about factor based analysis."
+    },
+    {
+      "start": 3547.2651,
+      "end": 3558.3599,
+      "text": "There is another book which was came out eight or ten years ago, which was like an, completely factor based investing, but that's investing, that is for investors."
+    },
+    {
+      "start": 3558.3599,
+      "end": 3567.5,
+      "text": "If you're a trader, obviously this is not really like something which is, really useful for trading."
+    },
+    {
+      "start": 3568.04,
+      "end": 3572.015,
+      "text": "For trading, you need short term factors and short term factors."
+    },
+    {
+      "start": 3576.4749,
+      "end": 3591.26,
+      "text": "There is a book which came out couple of years ago, and it was like an I forgot the name."
+    },
+    {
+      "start": 3591.26,
+      "end": 3601.395,
+      "text": "I'm trying to recall what is the name of that book, but it's a book which, like, can I basically had a comprehensive what it like?"
+    },
+    {
+      "start": 3601.395,
+      "end": 3613.1748,
+      "text": "Ten or fifteen years old book, which, had, like, all these factors in one place and relate to importance of the factors and which factor is the most reliable and things like that."
+    },
+    {
+      "start": 3615.48,
+      "end": 3617.1802,
+      "text": "I can't find it now."
+    },
+    {
+      "start": 3618.04,
+      "end": 3621.8,
+      "text": "But it was a it's not really like trading book."
+    },
+    {
+      "start": 3621.8,
+      "end": 3628.3801,
+      "text": "It is, like, more academic kind of, book, because these are the kind of things which academic study, basically."
+    },
+    {
+      "start": 3628.76,
+      "end": 3636.355,
+      "text": "So it's due to liquidity."
+    },
+    {
+      "start": 3636.655,
+      "end": 3637.155,
+      "text": "Right?"
+    },
+    {
+      "start": 3637.775,
+      "end": 3643.375,
+      "text": "What happens is when there is an aggressive buying which comes in, there is tremendous liquidity at that time."
+    },
+    {
+      "start": 3643.375,
+      "end": 3643.855,
+      "text": "Right?"
+    },
+    {
+      "start": 3643.855,
+      "end": 3645.7397,
+      "text": "If there is a sips, what happens?"
+    },
+    {
+      "start": 3645.7397,
+      "end": 3650.38,
+      "text": "There is a tremendous liquidity for that particular morning or something like that."
+    },
+    {
+      "start": 3650.38,
+      "end": 3650.88,
+      "text": "Right?"
+    },
+    {
+      "start": 3651.02,
+      "end": 3654.78,
+      "text": "And when the liquidity is over, then the stock drops."
+    },
+    {
+      "start": 3654.78,
+      "end": 3658.38,
+      "text": "So it's, liquidity, this thing."
+    },
+    {
+      "start": 3658.38,
+      "end": 3658.6199,
+      "text": "Right?"
+    },
+    {
+      "start": 3658.6199,
+      "end": 3659.3599,
+      "text": "And, basically."
+    },
+    {
+      "start": 3668.195,
+      "end": 3668.355,
+      "text": "Yeah."
+    },
+    {
+      "start": 3668.355,
+      "end": 3671.575,
+      "text": "I mean, so Caterpillar has a catalyst."
+    },
+    {
+      "start": 3671.715,
+      "end": 3671.955,
+      "text": "Right?"
+    },
+    {
+      "start": 3671.955,
+      "end": 3673.2551,
+      "text": "And it made a move."
+    },
+    {
+      "start": 3673.475,
+      "end": 3697.675,
+      "text": "Now, obviously, now buying Caterpillar is like in a too late to the party kind of a thing right and basically, but there are stocks which are like in a, if you are going to be doing something like a stock which has a consistent persistency in terms of earnings or sales, you still need to have, the idea as to when to buy them, right?"
+    },
+    {
+      "start": 3697.675,
+      "end": 3703.035,
+      "text": "And you don't buy them after they have made 150 or 200% move, right?"
+    },
+    {
+      "start": 3703.035,
+      "end": 3708.23,
+      "text": "You buy them when they are, like, in a basically starting out their move."
+    },
+    {
+      "start": 3708.45,
+      "end": 3713.43,
+      "text": "So just knowing that factors is not, 100% of the information."
+    },
+    {
+      "start": 3713.49,
+      "end": 3713.99,
+      "text": "Right?"
+    },
+    {
+      "start": 3725.425,
+      "end": 3734.2598,
+      "text": "I'm trying to find that, like, you know, there's this, the the what book was that like, it came out like an AI remember it came out ten years ago or something."
+    },
+    {
+      "start": 3734.5598,
+      "end": 3738.0198,
+      "text": "So it's not like an AI something and it was like in a very dense book."
+    },
+    {
+      "start": 3738.7998,
+      "end": 3773.855,
+      "text": "So it wasn't something which is like an out recommend anybody to read to improve their trading, but it is just one of those things which, like, enable give you, for those of you who want to go into the, rabbit hole of factor investing, it was a comprehensive kind of a book written by an, two academic professors and it was like an, a, at that time it made a, it was like an, all over the place because that was like an, considered one of the seminal study on factors."
+    },
+    {
+      "start": 3777.115,
+      "end": 3779.355,
+      "text": "That was like an I don't remember the book."
+    },
+    {
+      "start": 3779.355,
+      "end": 3786.8499,
+      "text": "I'm trying to to to going through my history in Amazon, but there I bought so many books that I can't even find that now."
+    },
+    {
+      "start": 3798.685,
+      "end": 3807.485,
+      "text": "In any SIPs, what you need to look out for is like an if the SIP, volume starts decreasing after the first few minutes."
+    },
+    {
+      "start": 3807.485,
+      "end": 3807.725,
+      "text": "Right?"
+    },
+    {
+      "start": 3807.725,
+      "end": 3813.3,
+      "text": "And basically or, like, there is a volume, like in a volume doesn't give, it's going to fade, right?"
+    },
+    {
+      "start": 3813.3,
+      "end": 3816.5999,
+      "text": "And s and d case is a classic example of like an sips yesterday."
+    },
+    {
+      "start": 3816.9,
+      "end": 3820.74,
+      "text": "In the first few minutes, it went up $18 and then it came faded, right?"
+    },
+    {
+      "start": 3820.74,
+      "end": 3824.52,
+      "text": "And because the liquidity was there in the first few minute, right?"
+    },
+    {
+      "start": 3824.735,
+      "end": 3825.555,
+      "text": "And the liquidity evaporated."
+    },
+    {
+      "start": 3826.2551,
+      "end": 3828.595,
+      "text": "Once the liquidity evaporated, there are no buyers."
+    },
+    {
+      "start": 3828.975,
+      "end": 3832.175,
+      "text": "So that's how it is, like, that's how you know."
+    },
+    {
+      "start": 3832.175,
+      "end": 3832.675,
+      "text": "Right?"
+    },
+    {
+      "start": 3839.49,
+      "end": 3845.41,
+      "text": "You can use weekly, monthly chart is not going to solve the problem of you selecting the right stock."
+    },
+    {
+      "start": 3845.41,
+      "end": 3845.91,
+      "text": "Right?"
+    },
+    {
+      "start": 3847.01,
+      "end": 3858.075,
+      "text": "If you want to hold something for longer term, you have to have a good stock selection strategy, which is where you select a stock based on something which is inherent in the stock."
+    },
+    {
+      "start": 3859.895,
+      "end": 3862.635,
+      "text": "Weekly chart is useless information."
+    },
+    {
+      "start": 3862.775,
+      "end": 3863.275,
+      "text": "Right?"
+    },
+    {
+      "start": 3865.255,
+      "end": 3867.15,
+      "text": "Weekly chart is not going to help you."
+    },
+    {
+      "start": 3867.63,
+      "end": 3872.27,
+      "text": "If you are doing trend following, then you can use weekly chart and you can do monthly chart and all."
+    },
+    {
+      "start": 3872.27,
+      "end": 3874.75,
+      "text": "That is not useful information, right?"
+    },
+    {
+      "start": 3874.75,
+      "end": 3886.9949,
+      "text": "What is an useful information is to find the stock like any you build a database of stocks, which are buybacks and rank stocks by buyback."
+    },
+    {
+      "start": 3887.535,
+      "end": 3897.73,
+      "text": "And then what you look at is you look at the stock is having a 20% pullback and then you buy that that is what will be a setup then right?"
+    },
+    {
+      "start": 3898.91,
+      "end": 3902.3699,
+      "text": "Weekly chart is not an information my friend."
+    },
+    {
+      "start": 3902.43,
+      "end": 3904.69,
+      "text": "Weekly chart is for those who are traders."
+    },
+    {
+      "start": 3905.23,
+      "end": 3920.5051,
+      "text": "If you're doing trading, then weekly chart might be one of the ways in which you can like any find, But the basic information of selecting stocks based on either like any growth rate or mutual funds are buying or something is like what we discussed in the first place."
+    },
+    {
+      "start": 3920.5051,
+      "end": 3938.98,
+      "text": "That is what you need to put in, and most of the time when you put that in, the entries on them will be based on like in a daily, this thing right and this is a fallacy according to me that like and if you use a weekly chart, you're going to get greater signals."
+    },
+    {
+      "start": 3940.175,
+      "end": 3949.475,
+      "text": "Most of the time if you're use a weekly chart, when a weekly breakout happens, the entry is going to be too low if you understand the market microstructure, right?"
+    },
+    {
+      "start": 3953.65,
+      "end": 3955.17,
+      "text": "Is there any way to catch?"
+    },
+    {
+      "start": 3955.41,
+      "end": 3955.89,
+      "text": "Yes."
+    },
+    {
+      "start": 3955.89,
+      "end": 3960.31,
+      "text": "All of those moves start with some sort of a new information."
+    },
+    {
+      "start": 3961.01,
+      "end": 3961.51,
+      "text": "Right?"
+    },
+    {
+      "start": 3962.93,
+      "end": 3964.55,
+      "text": "They all start with new information."
+    },
+    {
+      "start": 3964.69,
+      "end": 3970.0151,
+      "text": "So what is the new information which you have, which will give you tell you that thing."
+    },
+    {
+      "start": 3970.0151,
+      "end": 3970.335,
+      "text": "Right?"
+    },
+    {
+      "start": 3970.335,
+      "end": 3973.0552,
+      "text": "There is a change in their, earnings."
+    },
+    {
+      "start": 3973.0552,
+      "end": 3974.735,
+      "text": "There is a change in their sales growth."
+    },
+    {
+      "start": 3974.735,
+      "end": 3978.495,
+      "text": "There is a change in their, story."
+    },
+    {
+      "start": 3978.495,
+      "end": 3978.995,
+      "text": "Right?"
+    },
+    {
+      "start": 3982.49,
+      "end": 3986.27,
+      "text": "Canceling is not for long term investing, my friend."
+    },
+    {
+      "start": 3986.41,
+      "end": 3986.91,
+      "text": "K?"
+    },
+    {
+      "start": 3988.57,
+      "end": 3994.75,
+      "text": "Canceling the guy who invented canceling, he was not a long term holder."
+    },
+    {
+      "start": 3997.0151,
+      "end": 4007.415,
+      "text": "Mister William O'Neil, who was a very good trader and a very successful trader, was looking for stocks which will go up 20% and find many of them in a year."
+    },
+    {
+      "start": 4007.415,
+      "end": 4009.115,
+      "text": "He was not a long term holder."
+    },
+    {
+      "start": 4009.61,
+      "end": 4015.55,
+      "text": "If you want to hold stocks for long term, you need to do things which are totally different."
+    },
+    {
+      "start": 4016.49,
+      "end": 4019.87,
+      "text": "Canceling is certainly not designed for long term investing."
+    },
+    {
+      "start": 4021.69,
+      "end": 4022.19,
+      "text": "Right?"
+    },
+    {
+      "start": 4023.1748,
+      "end": 4033.4148,
+      "text": "His average trade was 20% gain and, like in a few weeks holding, very few trades out of his trades went on to go on for long term."
+    },
+    {
+      "start": 4033.4148,
+      "end": 4038.91,
+      "text": "So if you want to be a long term investor, you have to go into things like valuation."
+    },
+    {
+      "start": 4039.21,
+      "end": 4041.15,
+      "text": "You need to go into earning stability."
+    },
+    {
+      "start": 4041.53,
+      "end": 4043.47,
+      "text": "You need to look at things like buybacks."
+    },
+    {
+      "start": 4043.6099,
+      "end": 4047.3098,
+      "text": "You need to look at those kind of stocks if you're going to be doing."
+    },
+    {
+      "start": 4047.3699,
+      "end": 4050.67,
+      "text": "Canceling is not for long term investing."
+    },
+    {
+      "start": 4050.89,
+      "end": 4051.39,
+      "text": "Sorry."
+    },
+    {
+      "start": 4054.465,
+      "end": 4054.705,
+      "text": "Yeah."
+    },
+    {
+      "start": 4054.705,
+      "end": 4059.125,
+      "text": "And he was using, like, an a there's a lot of, like, any things which he was losing."
+    },
+    {
+      "start": 4059.345,
+      "end": 4062.305,
+      "text": "But his average, profit was not even 20%."
+    },
+    {
+      "start": 4062.305,
+      "end": 4062.465,
+      "text": "Right?"
+    },
+    {
+      "start": 4062.465,
+      "end": 4064.305,
+      "text": "His goal was to get 20%."
+    },
+    {
+      "start": 4064.305,
+      "end": 4067.045,
+      "text": "His average profit was 12 to 1415%."
+    },
+    {
+      "start": 4067.3,
+      "end": 4071.88,
+      "text": "And once in a while, he will find a stock which will go up and make a big move."
+    },
+    {
+      "start": 4071.94,
+      "end": 4096.09,
+      "text": "So if you are looking for long term, you need to have a very good way of selecting stocks, whichever earning stability, I would start with something which has earning stability, which is like in a basically has got real earnings, which has got low debt, which has got cash flow positive, and which is like just starting out because there is no point in going into centers now, right?"
+    },
+    {
+      "start": 4096.09,
+      "end": 4098.81,
+      "text": "Because if I go into centers, it is of no use."
+    },
+    {
+      "start": 4098.81,
+      "end": 4103.39,
+      "text": "So you have to look at what is it that is just started a move."
+    },
+    {
+      "start": 4103.77,
+      "end": 4115.1553,
+      "text": "And which has those characteristic of next Shinta Shintas or next HEICO or next SHW, that you have to find."
+    },
+    {
+      "start": 4116.015,
+      "end": 4128.4897,
+      "text": "And that is going to be not a difficult, impossible task, but I can tell you that it is not such an easy task."
+    },
+    {
+      "start": 4128.4897,
+      "end": 4128.81,
+      "text": "Right?"
+    },
+    {
+      "start": 4128.81,
+      "end": 4137.565,
+      "text": "And, basically so you'll have to find something which is like an say, like, something like waste management is already up a lot."
+    },
+    {
+      "start": 4137.565,
+      "end": 4138.685,
+      "text": "So this is of no use."
+    },
+    {
+      "start": 4138.685,
+      "end": 4166.4253,
+      "text": "What you have to find is stocks which are IPO'd in the last three or five years and out of those stocks which are IPO'd in the last three or five years, which are the one which are exhibiting the factors similar to what Cintas exhibited or similar to what SHW or AutoZone or O'Reilly, the stocks which I made ten, twenty years, 30,000 because you you also want when you want to hold something for longer term, it is not only that what factors should work."
+    },
+    {
+      "start": 4166.565,
+      "end": 4170.645,
+      "text": "It should be possible to hold it for longer term and be in longer term."
+    },
+    {
+      "start": 4170.645,
+      "end": 4173.625,
+      "text": "It should also make significantly more return than the market."
+    },
+    {
+      "start": 4175.045,
+      "end": 4175.545,
+      "text": "Right?"
+    },
+    {
+      "start": 4176.3,
+      "end": 4178.6045,
+      "text": "So, yeah, drawdowns will kill you."
+    },
+    {
+      "start": 4178.6045,
+      "end": 4200.495,
+      "text": "So that is why you have to look at, like, something which is like an I would start by looking at something which is a new IPO, which is up two or three years in a row, then go and look at that particular IPO, research it, and really, ask yourself this question also."
+    },
+    {
+      "start": 4200.495,
+      "end": 4200.895,
+      "text": "Right?"
+    },
+    {
+      "start": 4200.895,
+      "end": 4208.97,
+      "text": "Do I have the skills to understand something like return on equity, accurate, cash flow?"
+    },
+    {
+      "start": 4208.97,
+      "end": 4210.6704,
+      "text": "Can I strip a balance sheet?"
+    },
+    {
+      "start": 4210.97,
+      "end": 4211.29,
+      "text": "Right?"
+    },
+    {
+      "start": 4211.29,
+      "end": 4220.525,
+      "text": "And a well, stripping balance sheet is not easier stripping, woman on grok and saying put them in bikini, right, unfortunately."
+    },
+    {
+      "start": 4220.905,
+      "end": 4230.2646,
+      "text": "So, it requires lot more skills and then once you have that, you can hold for long term."
+    },
+    {
+      "start": 4230.2646,
+      "end": 4234.29,
+      "text": "I am very realistic about my ability to do these kind of a things."
+    },
+    {
+      "start": 4234.43,
+      "end": 4240.35,
+      "text": "So all that I do is I look for something which is going to go up in short run or short, period of time."
+    },
+    {
+      "start": 4240.35,
+      "end": 4240.85,
+      "text": "Right?"
+    },
+    {
+      "start": 4241.87,
+      "end": 4246.225,
+      "text": "But is it possible for somebody to develop something like this?"
+    },
+    {
+      "start": 4246.365,
+      "end": 4246.865,
+      "text": "Absolutely."
+    },
+    {
+      "start": 4249.645,
+      "end": 4251.165,
+      "text": "And the pathway is very clear."
+    },
+    {
+      "start": 4251.165,
+      "end": 4264.3496,
+      "text": "Pathway will be to, like, get into the woods of all the stocks which I made, big, three years in a consistently gone up and which are not gone up for, like, any four years in a row and which are just IPO'd in the last five years."
+    },
+    {
+      "start": 4264.73,
+      "end": 4272.935,
+      "text": "There's that is your starting point and then find those, because there is no point in looking at Caterpillar now."
+    },
+    {
+      "start": 4272.935,
+      "end": 4277.595,
+      "text": "Caterpillar is thirty year old company that's already made, like, 22000% more."
+    },
+    {
+      "start": 4277.7354,
+      "end": 4278.2354,
+      "text": "Right?"
+    },
+    {
+      "start": 4289.71,
+      "end": 4291.8896,
+      "text": "You mentioned you also hold funds in Fidelity."
+    },
+    {
+      "start": 4291.9497,
+      "end": 4293.01,
+      "text": "It is self managed."
+    },
+    {
+      "start": 4293.3096,
+      "end": 4301.7153,
+      "text": "I don't have funds since it, means I don't everything which I do, is stock based, like and if I hold funds, it's not for me."
+    },
+    {
+      "start": 4301.7153,
+      "end": 4305.475,
+      "text": "It's for somebody else if I'm just helping them out kind of a thing."
+    },
+    {
+      "start": 4305.475,
+      "end": 4305.7153,
+      "text": "Right?"
+    },
+    {
+      "start": 4305.7153,
+      "end": 4315.9897,
+      "text": "And I don't, all my accounts I trade short term because all the, my accounts are set up whether it is four zero one k or retirement accounts."
+    },
+    {
+      "start": 4316.29,
+      "end": 4317.65,
+      "text": "And they are set up for trading."
+    },
+    {
+      "start": 4317.65,
+      "end": 4319.67,
+      "text": "They are not set up for investing, basically."
+    },
+    {
+      "start": 4320.85,
+      "end": 4321.35,
+      "text": "Right."
+    },
+    {
+      "start": 4328.0947,
+      "end": 4335.935,
+      "text": "Then I would detail the, methodology for doing that if you're looking at I said, like, in a how you can find those kind of, things."
+    },
+    {
+      "start": 4335.935,
+      "end": 4336.255,
+      "text": "Right?"
+    },
+    {
+      "start": 4336.255,
+      "end": 4346.87,
+      "text": "So if you want to go into that direction of longer term kind of thing and all, it's really, you'll have to develop some sort of a model, right?"
+    },
+    {
+      "start": 4346.87,
+      "end": 4366.015,
+      "text": "And basically, which is reliable, robust and then look at that particular process daily, create your list of stocks, research them, and then invest in them, and then refine your things over the next three or five years."
+    },
+    {
+      "start": 4370.67,
+      "end": 4371.17,
+      "text": "Yes."
+    },
+    {
+      "start": 4371.87,
+      "end": 4373.95,
+      "text": "Does this a briefing a trade ID no."
+    },
+    {
+      "start": 4373.95,
+      "end": 4378.35,
+      "text": "Briefing is not necessarily going to show, these stocks like CRML or something."
+    },
+    {
+      "start": 4378.35,
+      "end": 4381.0103,
+      "text": "It's not it's not briefing is not a scanning software."
+    },
+    {
+      "start": 4381.23,
+      "end": 4385.1353,
+      "text": "Briefing is more suitable for stocks."
+    },
+    {
+      "start": 4385.1353,
+      "end": 4385.375,
+      "text": "Right?"
+    },
+    {
+      "start": 4385.375,
+      "end": 4394.595,
+      "text": "And it's more suitable for, like, an s something which is already institutional quality or something, which is like an it does have small cap, but it's not going to have $1, $2, $3 stock."
+    },
+    {
+      "start": 4394.8154,
+      "end": 4404.69,
+      "text": "Trade ideas, every big stock, which is going to make a move, trade ideas scan is going to show you, right, in the scan because trade ideas is a scanning."
+    },
+    {
+      "start": 4404.69,
+      "end": 4423.2446,
+      "text": "And again, in trade ideas, whether a stock will show up or not is a function of what scan you write in it because the software by itself is not going to show you the stock what is going to show you the stock is the scan which you write."
+    },
+    {
+      "start": 4423.705,
+      "end": 4424.665,
+      "text": "It's a tool right?"
+    },
+    {
+      "start": 4424.665,
+      "end": 4426.125,
+      "text": "And it's like a knife."
+    },
+    {
+      "start": 4426.9004,
+      "end": 4428.9004,
+      "text": "Can you cut a fish with a knife?"
+    },
+    {
+      "start": 4428.9004,
+      "end": 4429.06,
+      "text": "Yes."
+    },
+    {
+      "start": 4429.06,
+      "end": 4430.66,
+      "text": "Can you cut a pineapple with a knife?"
+    },
+    {
+      "start": 4430.66,
+      "end": 4430.8203,
+      "text": "Yes."
+    },
+    {
+      "start": 4430.8203,
+      "end": 4432.5,
+      "text": "But, you know, you need to know how to cut it."
+    },
+    {
+      "start": 4432.5,
+      "end": 4433.0,
+      "text": "Right?"
+    },
+    {
+      "start": 4437.4604,
+      "end": 4439.9604,
+      "text": "Any other questions on factor based investing?"
+    },
+    {
+      "start": 4442.585,
+      "end": 4444.685,
+      "text": "Factor based investing."
+    },
+    {
+      "start": 4454.79,
+      "end": 4458.01,
+      "text": "If you are a short term trader, focus on short term factors."
+    },
+    {
+      "start": 4459.59,
+      "end": 4463.67,
+      "text": "Forget about all these fundamentals and macro and all those things."
+    },
+    {
+      "start": 4463.67,
+      "end": 4463.8296,
+      "text": "Right?"
+    },
+    {
+      "start": 4463.8296,
+      "end": 4471.945,
+      "text": "And it doesn't have any bearing on a stocks propensity to move up or down in the next three to five days."
+    },
+    {
+      "start": 4472.725,
+      "end": 4475.125,
+      "text": "That just something which is we have to understand."
+    },
+    {
+      "start": 4475.125,
+      "end": 4475.685,
+      "text": "Can you look at it?"
+    },
+    {
+      "start": 4475.685,
+      "end": 4484.23,
+      "text": "Stocks are going to go up in the short run based on just buying or selling coming in or buying selling pressure coming in or some story which is going to come in."
+    },
+    {
+      "start": 4484.23,
+      "end": 4486.5703,
+      "text": "Good example of that is that Ristek robotic."
+    },
+    {
+      "start": 4487.0303,
+      "end": 4489.69,
+      "text": "They came out and said that they have signed up with Microsoft."
+    },
+    {
+      "start": 4491.27,
+      "end": 4496.415,
+      "text": "All that they did was like a like me saying look, I signed up with trade ideas."
+    },
+    {
+      "start": 4496.955,
+      "end": 4500.2554,
+      "text": "And all that I did is subscribe to trade ideas software, right?"
+    },
+    {
+      "start": 4501.1953,
+      "end": 4506.975,
+      "text": "So, but did that stop that stock from going up 20% or 30% that day?"
+    },
+    {
+      "start": 4509.77,
+      "end": 4510.27,
+      "text": "StarMine?"
+    },
+    {
+      "start": 4511.1304,
+      "end": 4523.0947,
+      "text": "Again, you going into something like StarMine, is not going to be like and it's not something which I would even recommend for somebody who wants to become an investor."
+    },
+    {
+      "start": 4523.0947,
+      "end": 4523.5947,
+      "text": "Right?"
+    },
+    {
+      "start": 4523.655,
+      "end": 4528.875,
+      "text": "StarMine is not really StarMine is not even aimed at retail investors."
+    },
+    {
+      "start": 4529.495,
+      "end": 4533.255,
+      "text": "StarMine is what something like an a hedge funds and mutual funds."
+    },
+    {
+      "start": 4533.255,
+      "end": 4536.315,
+      "text": "How much does a StarMine, cost as a subscription?"
+    },
+    {
+      "start": 4541.41,
+      "end": 4543.33,
+      "text": "You don't need StarMine, my friend."
+    },
+    {
+      "start": 4543.33,
+      "end": 4546.31,
+      "text": "What you need is you need a setup idea."
+    },
+    {
+      "start": 4548.29,
+      "end": 4548.53,
+      "text": "Right?"
+    },
+    {
+      "start": 4548.53,
+      "end": 4550.79,
+      "text": "You're barking at the wrong dogs."
+    },
+    {
+      "start": 4552.135,
+      "end": 4556.695,
+      "text": "StarMine will cost you around 20,000 or 30,000 a year or something like that."
+    },
+    {
+      "start": 4556.695,
+      "end": 4557.195,
+      "text": "Right?"
+    },
+    {
+      "start": 4558.775,
+      "end": 4560.155,
+      "text": "You don't need that."
+    },
+    {
+      "start": 4561.335,
+      "end": 4570.46,
+      "text": "And it is not even aimed at retail investors, and even if you get StarMine, I don't know what, there is cheaper version of star mine which is tip rank, right?"
+    },
+    {
+      "start": 4570.46,
+      "end": 4571.76,
+      "text": "Tip rank is how much?"
+    },
+    {
+      "start": 4571.82,
+      "end": 4574.0596,
+      "text": "Tip rank will be some 30 or $40 right?"
+    },
+    {
+      "start": 4574.0596,
+      "end": 4585.7354,
+      "text": "And basically per month, but it is not going to solve your problem because none of these things is going to give you a stock, which is going to go up for two to three days."
+    },
+    {
+      "start": 4586.035,
+      "end": 4587.555,
+      "text": "A setup idea will give you."
+    },
+    {
+      "start": 4587.555,
+      "end": 4596.535,
+      "text": "You have to create a setup idea, which is like in a basically which is what you will have to look at as the starting point for doing that."
+    },
+    {
+      "start": 4609.835,
+      "end": 4618.495,
+      "text": "If you want to refine your setup for short term trading, if you're going to hold for two to three days, look at the factors which I just discussed, right?"
+    },
+    {
+      "start": 4619.1147,
+      "end": 4620.975,
+      "text": "What are those factors mean reversion?"
+    },
+    {
+      "start": 4621.1147,
+      "end": 4627.19,
+      "text": "This is why you don't buy a stock which is up three days in a row or any stock, which is up 20%, 30% in three to five days."
+    },
+    {
+      "start": 4627.19,
+      "end": 4628.95,
+      "text": "If you buy it, you're going to be a loser."
+    },
+    {
+      "start": 4628.95,
+      "end": 4629.19,
+      "text": "Right?"
+    },
+    {
+      "start": 4629.19,
+      "end": 4634.95,
+      "text": "And so you have to, like, buy either a pullback or buy start of a swing."
+    },
+    {
+      "start": 4634.95,
+      "end": 4635.35,
+      "text": "Right?"
+    },
+    {
+      "start": 4635.35,
+      "end": 4636.97,
+      "text": "The second factor is liquidity."
+    },
+    {
+      "start": 4637.43,
+      "end": 4653.9297,
+      "text": "And this is why, things like those stocks, which show up in the first few minutes and which make 40 high and all they tend to, like, go up for rest of the day or like the things which are liquidity again, one of the liquidity thing is the amount of volume traded, right?"
+    },
+    {
+      "start": 4654.15,
+      "end": 4669.1953,
+      "text": "It starts which trade certain threshold of dollar volume or certain threshold of absolute volume is where there is a, liquidity and as a result, it is likely to go for next couple of hours or days."
+    },
+    {
+      "start": 4669.7354,
+      "end": 4671.835,
+      "text": "And what is the other factor?"
+    },
+    {
+      "start": 4672.855,
+      "end": 4675.275,
+      "text": "The other factor is PITS, which is a news factor."
+    },
+    {
+      "start": 4676.855,
+      "end": 4680.395,
+      "text": "And the fourth factor, which is used in short term trading is sentiment."
+    },
+    {
+      "start": 4680.51,
+      "end": 4698.6353,
+      "text": "So if you are a stock, which you see, which you find is breaking out and you see that like in a you go on Twitter, or you go on, Reddit and you see that lot of retail traders are excited about that stock, then what you do is you go into that stock, right?"
+    },
+    {
+      "start": 4699.1753,
+      "end": 4705.095,
+      "text": "Or a simple thing, which like in a that day, somebody asked me, is Tesla a shot, right?"
+    },
+    {
+      "start": 4705.095,
+      "end": 4707.035,
+      "text": "And I said, Tesla is not a shot."
+    },
+    {
+      "start": 4707.5703,
+      "end": 4713.33,
+      "text": "So, why did I say Tesla is not a short even though it was like in a, range expansion and all?"
+    },
+    {
+      "start": 4713.33,
+      "end": 4716.31,
+      "text": "I gave my reason and that was based on a factor."
+    },
+    {
+      "start": 4716.45,
+      "end": 4720.39,
+      "text": "And what was that factor, short term trading factor, which is there?"
+    },
+    {
+      "start": 4720.625,
+      "end": 4721.905,
+      "text": "Remember just two days ago, right?"
+    },
+    {
+      "start": 4721.905,
+      "end": 4729.205,
+      "text": "And this discussion happened just two days ago that the sentiment factor on Tesla is what?"
+    },
+    {
+      "start": 4731.185,
+      "end": 4733.3447,
+      "text": "Remember, we had this discussion on this day."
+    },
+    {
+      "start": 4733.3447,
+      "end": 4739.62,
+      "text": "Somebody asked me, Tesla is a shot, And I said, don't shot because it is likely that it is going to go up."
+    },
+    {
+      "start": 4739.62,
+      "end": 4742.42,
+      "text": "So what what is that based on?"
+    },
+    {
+      "start": 4742.42,
+      "end": 4745.24,
+      "text": "Understanding sentiment factor, right?"
+    },
+    {
+      "start": 4745.3003,
+      "end": 4748.52,
+      "text": "That is basically that like it's a called stock."
+    },
+    {
+      "start": 4749.3003,
+      "end": 4755.735,
+      "text": "If it is a called stock, it is going to be, you don't like the most signals are like here."
+    },
+    {
+      "start": 4755.735,
+      "end": 4756.855,
+      "text": "There's a negative factor."
+    },
+    {
+      "start": 4756.855,
+      "end": 4759.115,
+      "text": "Next day it goes up because of the cold state."
+    },
+    {
+      "start": 4759.175,
+      "end": 4772.15,
+      "text": "So you have to find retail favorite means, go and look at, like, any things, the Goldman Sachs has a basket of 50 stocks which are retail favorites."
+    },
+    {
+      "start": 4781.045,
+      "end": 4790.3447,
+      "text": "And those stocks, if you see that factor has performed better in the short run than any other factor, and why is it, done that way?"
+    },
+    {
+      "start": 4794.4,
+      "end": 4802.88,
+      "text": "So, again, just in using the sentiment factor, you know, okay, look, and if something is popular, what is likely to happen?"
+    },
+    {
+      "start": 4802.88,
+      "end": 4803.38,
+      "text": "Right?"
+    },
+    {
+      "start": 4821.54,
+      "end": 4826.82,
+      "text": "That's why SIPs has a like, an SIPs is not something which, like, in a retail rate, day traders are using."
+    },
+    {
+      "start": 4826.82,
+      "end": 4827.32,
+      "text": "Right?"
+    },
+    {
+      "start": 4827.54,
+      "end": 4831.56,
+      "text": "Overnight gap factor or, like, in a news factor, sentiment factor."
+    },
+    {
+      "start": 4832.1,
+      "end": 4836.875,
+      "text": "Every single one of these small, like, in a, cons are using currently."
+    },
+    {
+      "start": 4836.875,
+      "end": 4837.375,
+      "text": "Right?"
+    },
+    {
+      "start": 4838.075,
+      "end": 4845.7554,
+      "text": "All that you're doing is you're just doing something what cons are doing, but you're doing it on a small scale, as a discretionary trader."
+    },
+    {
+      "start": 4845.7554,
+      "end": 4846.2554,
+      "text": "Right?"
+    },
+    {
+      "start": 4855.7803,
+      "end": 4856.2803,
+      "text": "Okay."
+    },
+    {
+      "start": 4856.42,
+      "end": 4857.38,
+      "text": "Any other question?"
+    },
+    {
+      "start": 4857.38,
+      "end": 4858.12,
+      "text": "No questions?"
+    },
+    {
+      "start": 4858.34,
+      "end": 4865.755,
+      "text": "I will see you people at around, I think, probably at 5PM to look at stock selection."
+    },
+    {
+      "start": 4865.755,
+      "end": 4867.755,
+      "text": "We are looking at stock selection."
+    },
+    {
+      "start": 4867.755,
+      "end": 4868.255,
+      "text": "Right?"
+    },
+    {
+      "start": 4868.875,
+      "end": 4882.86,
+      "text": "So at around 5PM, I'll put the exact timing on this, site, on stock selection using Fund ownership."
+    },
+    {
+      "start": 4889.2397,
+      "end": 4889.7397,
+      "text": "Alright."
+    },
+    {
+      "start": 4890.5996,
+      "end": 4892.3,
+      "text": "Stock selection using fund ownership."
+    },
+    {
+      "start": 4892.92,
+      "end": 4900.415,
+      "text": "Each of these, you can take this idea and go into significant detail and build your setups around it."
+    },
+    {
+      "start": 4900.415,
+      "end": 4914.63,
+      "text": "Like, in a factor investing, you can take one of these factors either value or momentum, like, three by one as a factor you can take, and you can just, like, really build your trading around just like in a three by one as a factor."
+    },
+    {
+      "start": 4914.63,
+      "end": 4914.8696,
+      "text": "Right?"
+    },
+    {
+      "start": 4914.8696,
+      "end": 4923.29,
+      "text": "And basically, by just looking at stocks, which are like in a ranked in the top 100 by momentum and see what happens to them."
+    },
+    {
+      "start": 4923.605,
+      "end": 4925.625,
+      "text": "And some of them are going to have a continuation."
+    },
+    {
+      "start": 4926.005,
+      "end": 4927.685,
+      "text": "Most of them are going to main revert."
+    },
+    {
+      "start": 4927.685,
+      "end": 4934.005,
+      "text": "So you if you want to shot something, you can also look at the stocks, which are the highest momentum in the last three months."
+    },
+    {
+      "start": 4934.005,
+      "end": 4934.505,
+      "text": "Right?"
+    },
+    {
+      "start": 4934.645,
+      "end": 4946.16,
+      "text": "So 05:00 or 04:00, I don't know."
+    },
+    {
+      "start": 4946.16,
+      "end": 4948.98,
+      "text": "But, like, an eight will be between that time frame, basically."
+    }
+  ],
+  "language": "en",
+  "backend": "deepgram"
+}

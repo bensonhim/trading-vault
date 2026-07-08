@@ -1,18 +1,20 @@
 ---
 title: "PLTR"
-date: 2026-07-03
+date: 2026-07-08
 tags: [tickers, wiki, auto-compiled]
-mention_count: 7
-sources_count: 6
+mention_count: 8
+sources_count: 7
 compilation_count: 1
 promote: false
 ---
 
 # PLTR
 
-*Tickers — compiled from 7 mentions across 6 sources.*
+*Tickers — compiled from 8 mentions across 7 sources.*
 
 ## Mentions
+
+> [[../../04-Transcripts/stockbee/2025-08-05_9_15-am.md|2025-08-05_9_15-am]]: The other one that I'm in two minds about is Palinta, but it will definitely offers, intraday opportunities, PLTR this is.
 
 > [[../../04-Transcripts/stockbee/2026-06-15_3-pm.md|2026-06-15_3-pm]]: So let's look at PLTR.
 
@@ -38,6 +40,7 @@ promote: false
 
 ## Sources
 
+- [[../04-Transcripts/stockbee/2025-08-05_9_15-am.md|2025-08-05_9_15-am]]
 - [[../04-Transcripts/stockbee/2026-06-15_3-pm.md|2026-06-15_3-pm]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-05-07.md|Session-2026-05-07]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-05-28.md|Session-2026-05-28]]

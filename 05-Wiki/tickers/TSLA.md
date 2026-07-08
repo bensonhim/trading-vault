@@ -1,16 +1,16 @@
 ---
 title: "TSLA"
-date: 2026-07-03
+date: 2026-07-08
 tags: [tickers, wiki, auto-compiled]
-mention_count: 22
-sources_count: 10
+mention_count: 23
+sources_count: 11
 compilation_count: 1
 promote: false
 ---
 
 # TSLA
 
-*Tickers — compiled from 22 mentions across 10 sources.*
+*Tickers — compiled from 23 mentions across 11 sources.*
 
 ## Mentions
 
@@ -23,6 +23,8 @@ promote: false
 > [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: | Sales Growth | **TSLA** | From $14→$140, every quarter 39%+ sales growth | Now sideways for years because sales growth stalled; robotaxi = story until it produces 39% sales growth |
 
 > [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: | Factor Based | **TSLA / NVDA / Palantir / Goldman retail basket** | Retail-sentiment factor | Since COVID, retail-sentiment basket outperforms all other factor baskets |
+
+> [[../../04-Transcripts/stockbee/2025-01-23_9-am.md|2025-01-23_9-am]]: MicroStrategy obviously, that is the story of like in a Bitcoin, Carvana, GetLoss, TWLO, TSLA, Tesla, Birkin's stock which had a recent earnings which is good here.
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-05-18.md|Session-2026-05-18]]: | [[TSLA]] | EP 9M short having follow-through |
 
@@ -54,9 +56,9 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-06-24.md|Session-2026-06-24]]: 10. **Gap-down follow-through = correction, not just chop** — The PM session confirmed that dip buyers who bought yesterday's bounce are now trapped. The range-bound phase is transitioning into a proper pullback. Shorts ([[RGTI]], [[IONI]], [[TSLA]], Fuel Cell) are finally following through.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]: | [[TSLA]] | Member chatter | No setup here; one-eyed king narrative |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]: | [[TSLA]]                                  | Member chatter                          | No setup here; one-eyed king narrative                                                             |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]: | [[TSLA]] | Member chatter | No short; trappy stock |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]: | [[TSLA]]                                  | Member chatter                | No short; trappy stock                                          |
 
 ## Related Concepts
 
@@ -70,6 +72,7 @@ promote: false
 
 - [[../03-Guides/stockbee/19. Deep Dive Guide.md|19. Deep Dive Guide]]
 - [[../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]
+- [[../04-Transcripts/stockbee/2025-01-23_9-am.md|2025-01-23_9-am]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-05-18.md|Session-2026-05-18]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-05-19.md|Session-2026-05-19]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-06-04.md|Session-2026-06-04]]

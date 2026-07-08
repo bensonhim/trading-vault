@@ -1,6 +1,6 @@
 ---
 title: "META"
-date: 2026-07-03
+date: 2026-07-08
 tags: [tickers, wiki, auto-compiled]
 mention_count: 15
 sources_count: 9
@@ -40,9 +40,9 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-07-01.md|Session-2026-07-01]]: | [[META]] | Random breakout | No setup; management credibility problem |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]: | [[META]] | Random breakout | No credibility in management; avoid |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]: | [[META]]                                  | Random breakout                         | No credibility in management; avoid                                                                |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]: | [[META]] | Random breakout | No setup; management credibility issue |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]: | [[META]]                                  | Random breakout               | No setup; management credibility issue                          |
 
 ## Related Concepts
 

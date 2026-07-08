@@ -1,6 +1,6 @@
 ---
 title: "AAPL"
-date: 2026-07-03
+date: 2026-07-08
 tags: [tickers, wiki, auto-compiled]
 mention_count: 16
 sources_count: 9
@@ -44,7 +44,7 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-06-29.md|Session-2026-06-29]]: | [[AAPL]] | Probable short | On watch list as short candidate |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]: | [[AAPL]] / [[NFLX]] | Holding up | "One-eyed king in the kingdom of the blind"; defensive rotation |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]: | [[AAPL]] / [[NFLX]]                       | Holding up                    | "One-eyed king in the kingdom of the blind"; defensive rotation |
 
 ## Related Concepts
 

@@ -1,16 +1,16 @@
 ---
 title: "Bearish Trading"
-date: 2026-07-03
+date: 2026-07-08
 tags: [setups, wiki, auto-compiled]
-mention_count: 9
-sources_count: 5
+mention_count: 10
+sources_count: 6
 compilation_count: 1
 promote: false
 ---
 
 # Bearish Trading
 
-*Setups — compiled from 9 mentions across 5 sources.*
+*Setups — compiled from 10 mentions across 6 sources.*
 
 ## Mentions
 
@@ -23,6 +23,8 @@ promote: false
 > [[../../03-Guides/stockbee/23. Bearish Trading Guide.md|23. Bearish Trading Guide]]: - [[Pradeep Bonde - Bearish Trading Guide-Bearish Moves_deepgram]]
 
 > [[../../03-Guides/stockbee/23. Bearish Trading Guide.md|23. Bearish Trading Guide]]: - [[Pradeep Bonde - Bearish Trading Guide-How to Short in Bear Market_deepgram]]
+
+> [[../../04-Transcripts/stockbee/2023-12-04_11-am.md|2023-12-04_11-am]]: Previous week was just short trading week.
 
 > [[../../04-Transcripts/stockbee/23. Bearish Trading Guide/Pradeep Bonde - Bearish Trading Guide-Bearish Moves_deepgram.md|Pradeep Bonde - Bearish Trading Guide-Bearish Moves_deepgram]]: # Pradeep Bonde - Bearish Trading Guide-Bearish Moves
 
@@ -43,6 +45,7 @@ promote: false
 ## Sources
 
 - [[../03-Guides/stockbee/23. Bearish Trading Guide.md|23. Bearish Trading Guide]]
+- [[../04-Transcripts/stockbee/2023-12-04_11-am.md|2023-12-04_11-am]]
 - [[../04-Transcripts/stockbee/23. Bearish Trading Guide/Pradeep Bonde - Bearish Trading Guide-Bearish Moves_deepgram.md|Pradeep Bonde - Bearish Trading Guide-Bearish Moves_deepgram]]
 - [[../04-Transcripts/stockbee/23. Bearish Trading Guide/Pradeep Bonde - Bearish Trading Guide-How to Short in Bear Market_deepgram.md|Pradeep Bonde - Bearish Trading Guide-How to Short in Bear Market_deepgram]]
 - [[../04-Transcripts/stockbee/research/Guides 14-23 Video URLs.md|Guides 14-23 Video URLs]]

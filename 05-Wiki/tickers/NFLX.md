@@ -1,6 +1,6 @@
 ---
 title: "NFLX"
-date: 2026-07-03
+date: 2026-07-08
 tags: [tickers, wiki, auto-compiled]
 mention_count: 5
 sources_count: 3
@@ -22,7 +22,7 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-06-24.md|Session-2026-06-24]]: 8. **5,000+ fund ownership stocks are all rolling over** — [[NVDA]], [[GOOG]], [[TSLA]], [[NFLX]], [[META]] all in pullback or downtrend. When this basket reverses, the market turns. Until then, chop.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]: | [[AAPL]] / [[NFLX]] | Holding up | "One-eyed king in the kingdom of the blind"; defensive rotation |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]: | [[AAPL]] / [[NFLX]]                       | Holding up                    | "One-eyed king in the kingdom of the blind"; defensive rotation |
 
 ## Related Concepts
 

@@ -1,66 +1,98 @@
 ---
 title: "BA"
-date: 2026-07-03
+date: 2026-07-08
 tags: [tickers, wiki, auto-compiled]
-mention_count: 24
-sources_count: 15
+mention_count: 134
+sources_count: 52
 compilation_count: 1
 promote: false
 ---
 
 # BA
 
-*Tickers — compiled from 24 mentions across 15 sources.*
+*Tickers — compiled from 134 mentions across 52 sources.*
 
 ## Mentions
 
-> [[../../04-Transcripts/stockbee/2026-05-15_9_15-am.md|2026-05-15_9_15-am]]: But we need to find something with catalyst, and I feel so bad like an that BA, that was a lollipop.
+> [[../../04-Transcripts/stockbee/2023-11-20_11-am.md|2023-11-20_11-am]]: What is the news on BA?
 
-> [[../../04-Transcripts/stockbee/2026-05-15_9_15-am.md|2026-05-15_9_15-am]]: And I mean, it's, like, for me to start, like, in a really hunting on the short side, unless there is something like BA, which had a catalyst kind of a thing, is to see a large number of EP 9,000,000 to the downside happening on a particular set of stocks, right, under which we don't seek as of now.
+> [[../../04-Transcripts/stockbee/2023-11-20_11-am.md|2023-11-20_11-am]]: And if you're asking me what is the news on BA, that means you don't even have any idea.
 
-> [[../../04-Transcripts/stockbee/2026-05-18_9_15-am.md|2026-05-18_9_15-am]]: While, you p 9,000,000 to the downside, like, BA or even Tesla, Righetti, they're having follow through.
+> [[../../04-Transcripts/stockbee/2023-11-20_11-am.md|2023-11-20_11-am]]: That means you don't have a a a new source because you could have just plugged it in, and you would have found out, look, and a BA was upgraded.
 
-> [[../../04-Transcripts/stockbee/2026-06-04_3-pm.md|2026-06-04_3-pm]]: So currently, BA is being aggressively worked.
+> [[../../04-Transcripts/stockbee/2023-11-20_11-am.md|2023-11-20_11-am]]: And, basically so Deutsche Bank upgraded BA.
 
-> [[../../04-Transcripts/stockbee/2026-06-04_3-pm.md|2026-06-04_3-pm]]: It tells you that BA, since the morning, has had 215 new high.
+> [[../../04-Transcripts/stockbee/2023-11-20_11-am.md|2023-11-20_11-am]]: Or like, you know, somebody else is like an what is the news on, BA?
 
-> [[../../04-Transcripts/stockbee/2026-07-02_9_15-am.md|2026-07-02_9_15-am]]: BA has a high priced stock.
+> [[../../04-Transcripts/stockbee/2023-11-20_11-am.md|2023-11-20_11-am]]: If you're asking what is the news on BA, you should not be even talking about SIPs as a setup.
 
-> [[../../04-Transcripts/stockbee/16. DEP Guide/Pradeep Bonde - DEP Guide-Part 7 - DEP and SB watchlist_deepgram.md|Pradeep Bonde - DEP Guide-Part 7 - DEP and SB watchlist_deepgram]]: And it's obviously Botox is a big thing, but Victoria's a great and BA looks good, my friend.
+> [[../../04-Transcripts/stockbee/2024-01-08_2-pm.md|2024-01-08_2-pm]]: Is BA Biotechnology stock?
 
-> [[../../04-Transcripts/stockbee/16. DEP Guide/Pradeep Bonde - DEP Guide-Part 7 - DEP and SB watchlist_deepgram.md|Pradeep Bonde - DEP Guide-Part 7 - DEP and SB watchlist_deepgram]]: BA, if it looks good to you, you don't understand, sir, the delayed reaction EP.
+> [[../../04-Transcripts/stockbee/2024-01-11_11-am.md|2024-01-11_11-am]]: Like, in this case of BA, right, which is a delayed reaction, this volume was 47,000,000.
 
-> [[../../04-Transcripts/stockbee/17. Catalyst Guide/Pradeep Bonde - Catalyst Guide-Part 1 - Understanding Catalyst_deepgram.md|Pradeep Bonde - Catalyst Guide-Part 1 - Understanding Catalyst_deepgram]]: Service failure or some sort of an accident or some sort of a failure, like, BA is a classic example of that.
+> [[../../04-Transcripts/stockbee/2024-01-11_11-am.md|2024-01-11_11-am]]: And I have a, like, an a shot on, BA.
 
-> [[../../04-Transcripts/stockbee/18. Mind Clarity Guide/Pradeep Bonde - Mind Clarity Guide-Part 2 - Mind Clarity 9 million EP_deepgram.md|Pradeep Bonde - Mind Clarity Guide-Part 2 - Mind Clarity 9 million EP_deepgram]]: Like, unless there is a clear catalyst like BA, I thought, like, in a I mean, again, but what do you think and what the market does is also, like, you have to be always think, but, like, any I thought, like, Navea had a catalyst which was, like, catastrophic catalyst, but the market didn't consider that as a catastrophic catalyst.
+> [[../../04-Transcripts/stockbee/2024-01-11_11-am.md|2024-01-11_11-am]]: What is my best case scenario and a BA chart works?
 
-> [[../../04-Transcripts/stockbee/19. Deep Dive Guide/Pradeep Bonde - Deep Dive Guide-Part 1 - Reading X-Rays_deepgram.md|Pradeep Bonde - Deep Dive Guide-Part 1 - Reading X-Rays_deepgram]]: BA has all this trouble.
+> [[../../04-Transcripts/stockbee/2024-01-11_11-am.md|2024-01-11_11-am]]: And what is the probability that BA is going to have overnight gap?
 
-> [[../../04-Transcripts/stockbee/19. Deep Dive Guide/Pradeep Bonde - Deep Dive Guide-Part 1 - Reading X-Rays_deepgram.md|Pradeep Bonde - Deep Dive Guide-Part 1 - Reading X-Rays_deepgram]]: 116, 260 because BA's problem is not that BA's problem is not like and it's gonna have a problem there.
+> [[../../04-Transcripts/stockbee/2024-01-11_11-am.md|2024-01-11_11-am]]: But, is it really going to be, like, something which is going to gap up 20% or something like that, on a BA, which is a very liquid stock?
 
-> [[../../04-Transcripts/stockbee/19. Deep Dive Guide/Pradeep Bonde - Deep Dive Guide-Part 1 - Reading X-Rays_deepgram.md|Pradeep Bonde - Deep Dive Guide-Part 1 - Reading X-Rays_deepgram]]: 116, 260 because BA's problem is not that BA's problem is not like and it's gonna have a problem there.
+> [[../../04-Transcripts/stockbee/2024-01-11_11-am.md|2024-01-11_11-am]]: You see, if you think through this particular thing, which I posted today about BA, and if you just use little bit of a brain, delayed reaction, watching it.
 
-> [[../../04-Transcripts/stockbee/21. Process Guide/Pradeep Bonde - Process Guide-Organize Like Crazy_deepgram.md|Pradeep Bonde - Process Guide-Organize Like Crazy_deepgram]]: I was pre committed to a trade like BA because it was something which is like a very low risk kind of a trade or I was precommitted to because, that was like an asshole.
+> [[../../04-Transcripts/stockbee/2024-01-11_2-pm.md|2024-01-11_2-pm]]: I will look for, like and I do have BA shot as my largest position is BA shot, basically.
 
-> [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-15_6ff2ac67-abde-4233-9d31-52e2d88fd0c0_deepgram.md|meeting_2026-05-15_6ff2ac67-abde-4233-9d31-52e2d88fd0c0_deepgram]]: But we need to find something with catalyst, and I feel so bad like an that BA, that was a lollipop.
+> [[../../04-Transcripts/stockbee/2024-01-11_2-pm.md|2024-01-11_2-pm]]: I will look for, like and I do have BA shot as my largest position is BA shot, basically.
 
-> [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-15_6ff2ac67-abde-4233-9d31-52e2d88fd0c0_deepgram.md|meeting_2026-05-15_6ff2ac67-abde-4233-9d31-52e2d88fd0c0_deepgram]]: And I mean, it's, like, for me to start, like, in a really hunting on the short side, unless there is something like BA, which had a catalyst kind of a thing, is to see a large number of EP 9,000,000 to the downside happening on a particular set of stocks, right, under which we don't seek as of now.
+> [[../../04-Transcripts/stockbee/2024-01-11_2-pm.md|2024-01-11_2-pm]]: I thought, like, in a based on everything that, like, in a BA shot had a very high probability, right, of working.
 
-> [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-18_9e3e74ea-7fc2-4fdc-aa97-b20867e5a04a_deepgram.md|meeting_2026-05-18_9e3e74ea-7fc2-4fdc-aa97-b20867e5a04a_deepgram]]: While, you p 9,000,000 to the downside, like, BA or even Tesla, Righetti, they're having follow through.
+> [[../../04-Transcripts/stockbee/2024-01-11_2-pm.md|2024-01-11_2-pm]]: Because there are a lot of factors in play on BA.
 
-> [[../../04-Transcripts/stockbee/Meetings/meeting_2026-06-04_8908770d-c324-4dd6-8027-d7671f8691e1_deepgram.md|meeting_2026-06-04_8908770d-c324-4dd6-8027-d7671f8691e1_deepgram]]: So currently, BA is being aggressively worked.
+> [[../../04-Transcripts/stockbee/2024-01-11_2-pm.md|2024-01-11_2-pm]]: And then all of this, what work I did are putting a trade on something like SPR and BA.
 
-> [[../../04-Transcripts/stockbee/Meetings/meeting_2026-06-04_8908770d-c324-4dd6-8027-d7671f8691e1_deepgram.md|meeting_2026-06-04_8908770d-c324-4dd6-8027-d7671f8691e1_deepgram]]: It tells you that BA, since the morning, has had 215 new high.
+> [[../../04-Transcripts/stockbee/2024-01-11_2-pm.md|2024-01-11_2-pm]]: And then they do like, even there's Northpoken, so they're like that's going to I I think you're just overestimating or because BA is a range expansion now.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-15.md|Session-2026-05-15]]: ### 6. Missed Opportunity: Boeing (BA)
+> [[../../04-Transcripts/stockbee/2024-01-11_2-pm.md|2024-01-11_2-pm]]: If it is if there is a genuine catalyst and BA is going to go down.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-15.md|Session-2026-05-15]]: > "That BA, that was a lollipop. An absolute lollipop, but I didn't really connect the dot yesterday."
+> [[../../04-Transcripts/stockbee/2024-01-12_11-am.md|2024-01-12_11-am]]: And then that's why, if it was down, BA was down already 50% and then it will not work.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-18.md|Session-2026-05-18]]: > "None of the stocks which had EP 9M in recent days has had a follow-through. While EP 9M to the downside, like BA or even Tesla, Righetti, they're having follow through."
+> [[../../04-Transcripts/stockbee/2024-01-12_9-am.md|2024-01-12_9-am]]: And I did BA, and I had planned that trade or I did mobile two days ago.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-18.md|Session-2026-05-18]]: | [[BA]] | EP 9M short working |
+> [[../../04-Transcripts/stockbee/2024-01-12_9-am.md|2024-01-12_9-am]]: EJ, quick question on on BA.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]: | [[BA]] (Boeing) | High-priced platform / FHP | Possible tight setup, but needs catalyst |
+> [[../../04-Transcripts/stockbee/2024-01-16_11-am.md|2024-01-16_11-am]]: I think BA will again set up and, again, make a thing.
+
+> [[../../04-Transcripts/stockbee/2024-01-16_11-am.md|2024-01-16_11-am]]: And then BA had a clear catalyst.
+
+> [[../../04-Transcripts/stockbee/2024-01-16_2-pm.md|2024-01-16_2-pm]]: I had no problem putting a 5,000 share position in BA shot.
+
+> [[../../04-Transcripts/stockbee/2024-01-16_2-pm.md|2024-01-16_2-pm]]: What do you think was my size on BA?
+
+> [[../../04-Transcripts/stockbee/2024-01-16_2-pm.md|2024-01-16_2-pm]]: Like, in a at the end of the day, what did BA do?
+
+> [[../../04-Transcripts/stockbee/2024-01-16_2-pm.md|2024-01-16_2-pm]]: BA ended up moving the account by more than 5%.
+
+> [[../../04-Transcripts/stockbee/2024-01-16_2-pm.md|2024-01-16_2-pm]]: And then, like, you know, you find 20 trades like BA, and you can double your account.
+
+> [[../../04-Transcripts/stockbee/2024-01-16_2-pm.md|2024-01-16_2-pm]]: I took BA shot.
+
+> [[../../04-Transcripts/stockbee/2024-01-16_2-pm.md|2024-01-16_2-pm]]: Like, the BA was a good, trait.
+
+> [[../../04-Transcripts/stockbee/2024-01-16_9-am.md|2024-01-16_9-am]]: Is it a just like in a that much information, is it enough for me to like in a BA, there was a solid information here to make a decision.
+
+> [[../../04-Transcripts/stockbee/2024-01-16_9-am.md|2024-01-16_9-am]]: Did I do a big position in BA?
+
+> [[../../04-Transcripts/stockbee/2024-01-17_11-am.md|2024-01-17_11-am]]: Like, can I look at something like BA?
+
+> [[../../04-Transcripts/stockbee/2024-01-17_11-am.md|2024-01-17_11-am]]: I I put large capital at work on BA.
+
+> [[../../04-Transcripts/stockbee/2024-01-17_9-am.md|2024-01-17_9-am]]: BA, obviously, is one of the best, kind of things.
+
+> [[../../04-Transcripts/stockbee/2024-01-18_2-pm.md|2024-01-18_2-pm]]: I have such a large size position shot on BA, but my risk was not even half a percent.
+
+> [[../../04-Transcripts/stockbee/2024-01-18_2-pm.md|2024-01-18_2-pm]]: I saw I was like in a had seen the news on BA.
+
+> [[../../04-Transcripts/stockbee/2024-01-19_11-am.md|2024-01-19_11-am]]: I think it was also, what I did couple of days ago, which was a delayed reaction to BA or the trade which I am in today with the breakeven stock, which is a delayed reaction.
 
 ## Related Concepts
 
@@ -76,14 +108,19 @@ promote: false
 - [[../04-Transcripts/stockbee/17. Catalyst Guide/Pradeep Bonde - Catalyst Guide-Part 1 - Understanding Catalyst_deepgram.md|Pradeep Bonde - Catalyst Guide-Part 1 - Understanding Catalyst_deepgram]]
 - [[../04-Transcripts/stockbee/18. Mind Clarity Guide/Pradeep Bonde - Mind Clarity Guide-Part 2 - Mind Clarity 9 million EP_deepgram.md|Pradeep Bonde - Mind Clarity Guide-Part 2 - Mind Clarity 9 million EP_deepgram]]
 - [[../04-Transcripts/stockbee/19. Deep Dive Guide/Pradeep Bonde - Deep Dive Guide-Part 1 - Reading X-Rays_deepgram.md|Pradeep Bonde - Deep Dive Guide-Part 1 - Reading X-Rays_deepgram]]
-- [[../04-Transcripts/stockbee/2026-05-15_9_15-am.md|2026-05-15_9_15-am]]
-- [[../04-Transcripts/stockbee/2026-05-18_9_15-am.md|2026-05-18_9_15-am]]
-- [[../04-Transcripts/stockbee/2026-06-04_3-pm.md|2026-06-04_3-pm]]
-- [[../04-Transcripts/stockbee/2026-07-02_9_15-am.md|2026-07-02_9_15-am]]
-- [[../04-Transcripts/stockbee/21. Process Guide/Pradeep Bonde - Process Guide-Organize Like Crazy_deepgram.md|Pradeep Bonde - Process Guide-Organize Like Crazy_deepgram]]
-- [[../04-Transcripts/stockbee/Meetings/meeting_2026-05-15_6ff2ac67-abde-4233-9d31-52e2d88fd0c0_deepgram.md|meeting_2026-05-15_6ff2ac67-abde-4233-9d31-52e2d88fd0c0_deepgram]]
-- [[../04-Transcripts/stockbee/Meetings/meeting_2026-05-18_9e3e74ea-7fc2-4fdc-aa97-b20867e5a04a_deepgram.md|meeting_2026-05-18_9e3e74ea-7fc2-4fdc-aa97-b20867e5a04a_deepgram]]
-- [[../04-Transcripts/stockbee/Meetings/meeting_2026-06-04_8908770d-c324-4dd6-8027-d7671f8691e1_deepgram.md|meeting_2026-06-04_8908770d-c324-4dd6-8027-d7671f8691e1_deepgram]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-05-15.md|Session-2026-05-15]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-05-18.md|Session-2026-05-18]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]
+- [[../04-Transcripts/stockbee/2023-11-20_11-am.md|2023-11-20_11-am]]
+- [[../04-Transcripts/stockbee/2024-01-08_2-pm.md|2024-01-08_2-pm]]
+- [[../04-Transcripts/stockbee/2024-01-11_11-am.md|2024-01-11_11-am]]
+- [[../04-Transcripts/stockbee/2024-01-11_2-pm.md|2024-01-11_2-pm]]
+- [[../04-Transcripts/stockbee/2024-01-12_11-am.md|2024-01-12_11-am]]
+- [[../04-Transcripts/stockbee/2024-01-12_9-am.md|2024-01-12_9-am]]
+- [[../04-Transcripts/stockbee/2024-01-16_11-am.md|2024-01-16_11-am]]
+- [[../04-Transcripts/stockbee/2024-01-16_2-pm.md|2024-01-16_2-pm]]
+- [[../04-Transcripts/stockbee/2024-01-16_9-am.md|2024-01-16_9-am]]
+- [[../04-Transcripts/stockbee/2024-01-17_11-am.md|2024-01-17_11-am]]
+- [[../04-Transcripts/stockbee/2024-01-17_9-am.md|2024-01-17_9-am]]
+- [[../04-Transcripts/stockbee/2024-01-18_2-pm.md|2024-01-18_2-pm]]
+- [[../04-Transcripts/stockbee/2024-01-19_11-am.md|2024-01-19_11-am]]
+- [[../04-Transcripts/stockbee/2024-01-19_2-pm.md|2024-01-19_2-pm]]
+- [[../04-Transcripts/stockbee/2024-01-22_11-am.md|2024-01-22_11-am]]
+- [[../04-Transcripts/stockbee/2024-01-23_2-pm.md|2024-01-23_2-pm]]

@@ -1,16 +1,16 @@
 ---
 title: "Trade Management"
-date: 2026-07-03
+date: 2026-07-08
 tags: [concepts, wiki, auto-compiled]
-mention_count: 104
-sources_count: 57
+mention_count: 205
+sources_count: 135
 compilation_count: 1
 promote: false
 ---
 
 # Trade Management
 
-*Concepts — compiled from 104 mentions across 57 sources.*
+*Concepts — compiled from 205 mentions across 135 sources.*
 
 ## Mentions
 
@@ -64,35 +64,35 @@ promote: false
 
 > [[../../03-Guides/stockbee/External/Chart Fanatics - Trading LIVE with the #1 Scalper in the WORLD (EXTREME Accuracy)_subs.md|Chart Fanatics - Trading LIVE with the #1 Scalper in the WORLD (EXTREME Accuracy)_subs]]: I'm aggressive with my risk management because I need to put in this small amount of ticks. Mhm.
 
-> [[../../04-Transcripts/stockbee/2026-05-01_3-pm.md|2026-05-01_3-pm]]: If you do without risk management.
+> [[../../04-Transcripts/stockbee/2023-11-02_11-am.md|2023-11-02_11-am]]: West management.
 
-> [[../../04-Transcripts/stockbee/2026-05-14_9_15-am.md|2026-05-14_9_15-am]]: Brookfield asset management.
+> [[../../04-Transcripts/stockbee/2023-11-14_11-am.md|2023-11-14_11-am]]: And, basically, risk management is everything.
 
-> [[../../04-Transcripts/stockbee/2026-05-22_3-pm.md|2026-05-22_3-pm]]: Apollo asset management.
+> [[../../04-Transcripts/stockbee/2023-12-15_2-pm.md|2023-12-15_2-pm]]: And see, at senior level management, yeah, you get everything everything paid for by the company.
 
-> [[../../04-Transcripts/stockbee/2026-05-22_3-pm.md|2026-05-22_3-pm]]: West management.
+> [[../../04-Transcripts/stockbee/2023-12-18_11-am.md|2023-12-18_11-am]]: I know, like, in a I used to do money management for people, and they would all always complain.
 
-> [[../../04-Transcripts/stockbee/2026-06-01_3-pm.md|2026-06-01_3-pm]]: Risk management.
+> [[../../04-Transcripts/stockbee/2023-12-19_2-pm.md|2023-12-19_2-pm]]: GFL environmental waste management.
 
-> [[../../04-Transcripts/stockbee/2026-06-01_3-pm.md|2026-06-01_3-pm]]: Risk management.
+> [[../../04-Transcripts/stockbee/2023-12-19_2-pm.md|2023-12-19_2-pm]]: Waste management.
 
-> [[../../04-Transcripts/stockbee/2026-06-01_3-pm.md|2026-06-01_3-pm]]: But you have to have a risk management.
+> [[../../04-Transcripts/stockbee/2023-12-22_9-am.md|2023-12-22_9-am]]: And when you come back on Tuesday, unless you really, like, have good risk management, market is way, way, way, bullish here.
 
-> [[../../04-Transcripts/stockbee/2026-06-01_3-pm.md|2026-06-01_3-pm]]: If the risk management is not there, then you can blow up like that person who blew up today.
+> [[../../04-Transcripts/stockbee/2024-01-12_9-am.md|2024-01-12_9-am]]: After that, it is just a management.
 
-> [[../../04-Transcripts/stockbee/2026-06-10_3-pm.md|2026-06-10_3-pm]]: So the, management issued, which I was teaching in India, they asked me, do you want to do any other course?
+> [[../../04-Transcripts/stockbee/2024-01-30_9-am.md|2024-01-30_9-am]]: If management is selling hand or fist, right, they're selling hand or fist.
 
-> [[../../04-Transcripts/stockbee/2026-06-10_3-pm.md|2026-06-10_3-pm]]: Perspective management.
+> [[../../04-Transcripts/stockbee/2024-01-30_9-am.md|2024-01-30_9-am]]: Because the management wants to get rid of it.
 
-> [[../../04-Transcripts/stockbee/2026-06-10_3-pm.md|2026-06-10_3-pm]]: What the shit is perspective management?
+> [[../../04-Transcripts/stockbee/2024-01-30_9-am.md|2024-01-30_9-am]]: Now management owns 1% of the stock, only 1% of the stock.
 
-> [[../../04-Transcripts/stockbee/2026-06-10_3-pm.md|2026-06-10_3-pm]]: So one of the things is, like, in that because it's not like in this mumbo jumbo, but it's like in a perspective management is having a total understanding of a picture.
+> [[../../04-Transcripts/stockbee/2024-01-31_11-am.md|2024-01-31_11-am]]: It was if you want to buy premarket buy, the risk management is what you have to do.
 
-> [[../../04-Transcripts/stockbee/2026-06-10_3-pm.md|2026-06-10_3-pm]]: And, basically, that's what perspective management is.
+> [[../../04-Transcripts/stockbee/2024-01-31_2-pm.md|2024-01-31_2-pm]]: So we're really in a risk management mode of managing the risk.
 
-> [[../../04-Transcripts/stockbee/2026-06-10_3-pm.md|2026-06-10_3-pm]]: It's management for vegans.
+> [[../../04-Transcripts/stockbee/2024-02-06_11-am.md|2024-02-06_11-am]]: Otherwise, like, in your overthinking going looking at, like, you know, how much is the management ownership and all.
 
-> [[../../04-Transcripts/stockbee/2026-06-11_9_15-am.md|2026-06-11_9_15-am]]: He was running a newsletter, right, and for many years, then finally, he managed to make, some 10,000,000, and then he bought some company and, like, enforce the management out and things like that.
+> [[../../04-Transcripts/stockbee/2024-02-06_9-am.md|2024-02-06_9-am]]: They are doing expectation management.
 
 ## Related Concepts
 

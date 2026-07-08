@@ -1,6 +1,6 @@
 ---
 title: "GOOGL"
-date: 2026-07-03
+date: 2026-07-08
 tags: [tickers, wiki, auto-compiled]
 mention_count: 15
 sources_count: 11

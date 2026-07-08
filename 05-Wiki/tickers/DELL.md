@@ -1,6 +1,6 @@
 ---
 title: "DELL"
-date: 2026-07-03
+date: 2026-07-08
 tags: [tickers, wiki, auto-compiled]
 mention_count: 32
 sources_count: 16
@@ -76,7 +76,7 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-07-01.md|Session-2026-07-01]]: | [[DELL]] | Start of swing from Sunday list | Held; stop placed around 142; slower follow-through |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]: | [[DELL]] | Start of swing from Sunday list | Held with stop, but slower follow-through |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]: | [[DELL]]                                  | Start of swing from Sunday list         | Held with stop, but slower follow-through                                                          |
 
 ## Related Concepts
 

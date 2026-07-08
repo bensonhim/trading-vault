@@ -1,16 +1,16 @@
 ---
 title: "Deep Work"
-date: 2026-07-03
+date: 2026-07-08
 tags: [concepts, wiki, auto-compiled]
-mention_count: 612
-sources_count: 184
+mention_count: 1581
+sources_count: 515
 compilation_count: 1
 promote: false
 ---
 
 # Deep Work
 
-*Concepts — compiled from 612 mentions across 184 sources.*
+*Concepts — compiled from 1581 mentions across 515 sources.*
 
 ## Mentions
 
@@ -68,31 +68,31 @@ promote: false
 
 > [[../../03-Guides/stockbee/17. Catalyst Guide/17. Catalyst Guide.md|17. Catalyst Guide]]: | **Daily Study is Mandatory** | No book teaches this; only experience does |
 
-> [[../../04-Transcripts/stockbee/2026-05-01_3-pm.md|2026-05-01_3-pm]]: Study everything.
+> [[../../04-Transcripts/stockbee/2023-11-06_2-pm.md|2023-11-06_2-pm]]: Just study previous turns.
 
-> [[../../04-Transcripts/stockbee/2026-05-01_9_15-am.md|2026-05-01_9_15-am]]: The 20% study once again leans bullish with a two to one ratio of bullish to bear stock.
+> [[../../04-Transcripts/stockbee/2023-11-08_9-am.md|2023-11-08_9-am]]: How come your study 20% is, like, 200 plus?
 
-> [[../../04-Transcripts/stockbee/2026-05-04_9_15-am.md|2026-05-04_9_15-am]]: The 20% study now leans bullish with a three to one ratio of bullish to bearish stock.
+> [[../../04-Transcripts/stockbee/2023-11-08_9-am.md|2023-11-08_9-am]]: Oh, something is wrong in my study.
 
-> [[../../04-Transcripts/stockbee/2026-05-04_9_15-am.md|2026-05-04_9_15-am]]: You will get a certificate for bible study.
+> [[../../04-Transcripts/stockbee/2023-11-08_9-am.md|2023-11-08_9-am]]: And then what do you see in study 20?
 
-> [[../../04-Transcripts/stockbee/2026-05-05_3-pm.md|2026-05-05_3-pm]]: You mean the numbers, the 20 study and the the market monetary numbers, that that kind of?
+> [[../../04-Transcripts/stockbee/2023-11-08_9-am.md|2023-11-08_9-am]]: Do the study 20% for that reason, that visualization.
 
-> [[../../04-Transcripts/stockbee/2026-05-05_9_15-am.md|2026-05-05_9_15-am]]: The 20% study now leans bullish with a two to one ratio of bullish to bear stock.
+> [[../../04-Transcripts/stockbee/2023-11-09_11-am.md|2023-11-09_11-am]]: And I always take it like an now how to answer that question is simply by studying so many moves.
 
-> [[../../04-Transcripts/stockbee/2026-05-05_9_15-am.md|2026-05-05_9_15-am]]: So this is 20% study.
+> [[../../04-Transcripts/stockbee/2023-11-13_9-am.md|2023-11-13_9-am]]: And then let's look at 20% study.
 
-> [[../../04-Transcripts/stockbee/2026-05-05_9_15-am.md|2026-05-05_9_15-am]]: Go through this 20% study.
+> [[../../04-Transcripts/stockbee/2023-11-13_9-am.md|2023-11-13_9-am]]: If you look at 20% study, what you'll see is like an You look at 20% study, what you're going to see is basically that there are, like, not many stocks here.
 
-> [[../../04-Transcripts/stockbee/2026-05-06_9_15-am.md|2026-05-06_9_15-am]]: So based on the methodology, right, which is, like, the 20% study, which is something which, you will see that it has, like, an gone to 121.
+> [[../../04-Transcripts/stockbee/2023-11-14_2-pm.md|2023-11-14_2-pm]]: Of after studying a lot of those things.
 
-> [[../../04-Transcripts/stockbee/2026-05-06_9_15-am.md|2026-05-06_9_15-am]]: And the good thing about this 20% study is that, good thing about a lot of these kind of things is, like, you know, basically, you can, just go and look at this study for a long period of time.
+> [[../../04-Transcripts/stockbee/2023-11-14_9-am.md|2023-11-14_9-am]]: So that which, like, in a where we are in terms of the 20% study.
 
-> [[../../04-Transcripts/stockbee/2026-05-06_9_15-am.md|2026-05-06_9_15-am]]: That when the, 20% study, is extreme, that used to be very careful.
+> [[../../04-Transcripts/stockbee/2023-11-14_9-am.md|2023-11-14_9-am]]: I've looked at the 20% study, and if you see the 20% study, right, and it's not really at very high level.
 
-> [[../../04-Transcripts/stockbee/2026-05-06_9_15-am.md|2026-05-06_9_15-am]]: I'm cautious based on my model of 20% study.
+> [[../../04-Transcripts/stockbee/2023-11-15_9-am.md|2023-11-15_9-am]]: So the buckets I would look at 20% study.
 
-> [[../../04-Transcripts/stockbee/2026-05-06_9_15-am.md|2026-05-06_9_15-am]]: For somebody who's new to this study, who's never, like, in a seen this, they but if you have seen it multiple times.
+> [[../../04-Transcripts/stockbee/2023-11-15_9-am.md|2023-11-15_9-am]]: Let's quickly have a look at 20% study, basically.
 
 ## Related Concepts
 

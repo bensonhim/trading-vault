@@ -1,16 +1,16 @@
 ---
 title: "FHP"
-date: 2026-07-03
+date: 2026-07-08
 tags: [setups, wiki, auto-compiled]
-mention_count: 387
-sources_count: 92
+mention_count: 1124
+sources_count: 366
 compilation_count: 1
 promote: false
 ---
 
 # FHP
 
-*Setups — compiled from 387 mentions across 92 sources.*
+*Setups — compiled from 1124 mentions across 366 sources.*
 
 ## Mentions
 
@@ -80,19 +80,19 @@ promote: false
 
 > [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: ### 4. FHP Deep Dive
 
-> [[../../04-Transcripts/stockbee/2026-05-01_3-pm.md|2026-05-01_3-pm]]: This is like a low threshold, high priced stocks.
+> [[../../04-Transcripts/stockbee/2023-11-03_9-am.md|2023-11-03_9-am]]: Then FHP, high priced stocks.
 
-> [[../../04-Transcripts/stockbee/2026-05-01_3-pm.md|2026-05-01_3-pm]]: Crowd kind of things which are high priced and all.
+> [[../../04-Transcripts/stockbee/2023-11-07_11-am.md|2023-11-07_11-am]]: What does FHP stand for?
 
-> [[../../04-Transcripts/stockbee/2026-05-01_3-pm.md|2026-05-01_3-pm]]: It says mind clarity FHP at 8PM.
+> [[../../04-Transcripts/stockbee/2023-11-07_2-pm.md|2023-11-07_2-pm]]: It's a little bit smaller, like, basically, but it's a high priced stock.
 
-> [[../../04-Transcripts/stockbee/2026-05-01_9_15-am.md|2026-05-01_9_15-am]]: It's like an so these are boring, high priced stocks, right, and those earnings here.
+> [[../../04-Transcripts/stockbee/2023-11-07_2-pm.md|2023-11-07_2-pm]]: But I just want to do high priced anticipation also because this is the time where high priced anticipation can pay you off, like, in a in one trade big.
 
-> [[../../04-Transcripts/stockbee/2026-05-01_9_15-am.md|2026-05-01_9_15-am]]: So this kind of, like, an FHP kind of stocks can also make a move, But, the market has more DEP and EPS kind of things here right away.
+> [[../../04-Transcripts/stockbee/2023-11-07_2-pm.md|2023-11-07_2-pm]]: So looking at like because if you have good high priced anticipation setup and you get in with just 1 or $2 stop, it can end up making $20, $40, $60.
 
-> [[../../04-Transcripts/stockbee/2026-05-01_9_15-am.md|2026-05-01_9_15-am]]: For high priced stocks, $550 and low priced stocks, eight to 20%.
+> [[../../04-Transcripts/stockbee/2023-11-07_2-pm.md|2023-11-07_2-pm]]: How do I make a best of, like, an FHP?
 
-> [[../../04-Transcripts/stockbee/2026-05-04_9_15-am.md|2026-05-04_9_15-am]]: There are ways to look at slower things like FHP or, like, institutional quality things and, get.
+> [[../../04-Transcripts/stockbee/2023-11-07_2-pm.md|2023-11-07_2-pm]]: Focus on high priced stock.
 
 ## Related Concepts
 

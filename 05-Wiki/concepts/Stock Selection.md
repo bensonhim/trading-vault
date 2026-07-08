@@ -1,16 +1,16 @@
 ---
 title: "Stock Selection"
-date: 2026-07-03
+date: 2026-07-08
 tags: [concepts, wiki, auto-compiled]
-mention_count: 267
-sources_count: 84
+mention_count: 453
+sources_count: 149
 compilation_count: 1
 promote: false
 ---
 
 # Stock Selection
 
-*Concepts — compiled from 267 mentions across 84 sources.*
+*Concepts — compiled from 453 mentions across 149 sources.*
 
 ## Mentions
 
