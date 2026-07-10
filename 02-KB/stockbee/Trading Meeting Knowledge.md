@@ -250,8 +250,8 @@ All daily session curated notes:
 
 ## 9. Change Log
 
-| Date | Change |
-|------|--------|
+| Date       | Change                                                               |
+| ---------- | -------------------------------------------------------------------- |
 | 2026-07-08 | Initial creation from 643 meeting transcripts (May 1 – Jun 10, 2026) |
 
 ---
