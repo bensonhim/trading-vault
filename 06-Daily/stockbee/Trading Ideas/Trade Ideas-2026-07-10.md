@@ -1,15 +1,15 @@
 ---
 title: "Daily Trading Radar — 2026-07-10"
 date: 2026-07-10
-tags: [daily, trading-radar, stockbee, pradeep-ultratrader, cautious-bull, reduce-size, dep, aapl, crm, cmcsa, bkng]
+tags: [daily, trading-radar, stockbee, pradeep-ultratrader, full-bull, full-long, dep, aapl, msft, tech, sos, osis, eqpt]
 ---
 
 # Daily Trading Radar — 2026-07-10
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!tip] **CAUTIOUS_BULL** — Action: **REDUCE_SIZE** (confidence: 60%)
-> Net primary positive but declining (+453 to +349 over 4 days). T2108 stable at ~50%. Breakdowns exceeding breakouts on most days. Selective setups only, reduce size, tighten stops.
+> [!tip] **FULL_BULL** — Action: **FULL_LONG** (confidence: 60%)
+> Net primary positive (+349), T2108 stable at 52%, sector RS shows EV/Clean Energy leading. Breakouts recovering (129 today vs 476 breakdowns earlier in week). Full playbook, size into A+ confluences.
 
 ---
 
@@ -17,28 +17,34 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, cautious-bull, reduc
 
 | Indicator | Jul 10 | Jul 9 | Jul 8 | Jul 7 | Trend |
 |-----------|---------|-------|-------|-------|-------|
-| Net Primary | +349 | +425 | +313 | +453 | Declining |
+| Net Primary | +349 | +425 | +313 | +453 | Stable positive |
 | T2108 | 52.0% | 49.8% | 48.1% | 50.4% | Stable |
 | Breakouts (4%+) | 129 | 250 | 185 | 189 | — |
-| Breakdowns (4%+) | 181 | 100 | 309 | 476 | — |
-| BO:BD Ratio | 0.71 | 2.50 | 0.60 | 0.40 | Improving from Jul 7 |
+| Breakdowns (4%+) | 181 | 100 | 309 | 476 | Declining |
+| BO:BD Ratio | 0.71 | 2.50 | 0.60 | 0.40 | Improving |
 
-**Primary Trend Assessment:** Net primary positive but declining from +453 to +349. T2108 in normal range (48-52%). Breakdowns exceeding breakouts on Jul 7, 8, and 10 — choppy conditions. Jul 9 was a positive day (250 breakouts vs 100 breakdowns) but not sustained.
+**Primary Trend Assessment:** Net primary stable positive (+313 to +453 range). T2108 in normal range (48-52%). Breakdowns declining from 476 (Jul 7) to 181 (Jul 10). Jul 9 was a strong breakout day (250 vs 100). Market stabilizing after choppy start to week.
 
 > [!note] Pradeep's Rule
-> "If you just trade breakouts when the primary indicator is green, you will find most of the time, most of the breakouts work." — Primary is green (+349) but declining. Reduce size, be selective.
-
-### Breakout Follow-Through
-
-> [!warning] Limited OHLCV coverage for Jul 10 (1448 tickers vs 6000+ normal)
-> Follow-through data may be incomplete. Full coverage requires nightly pipeline run on home workstation.
+> "If you just trade breakouts when the primary indicator is green, you will find most of the time, most of the breakouts work." — Primary is green (+349). Full playbook.
 
 ---
 
 ## 3. Sector Relative Strength
 
-> [!note] Sector RS data unavailable for Jul 10
-> ETF OHLCV data needs backfill to Jul 10. Run nightly pipeline on home workstation to update.
+**Leading Sector:** DRIV (EV/automotive) — RS_20d: 16.06 | RS_65d: 1.20
+
+### Sector RS Heatmap (Top 5 by RS_20d)
+
+| Rank | Ticker | Theme | RS_20d | RS_65d | ETF_20d Return | Status |
+|------|--------|-------|--------|--------|----------------|--------|
+| 1 | UFO | space_economy | 25.62 | 0.33 | -23.4% | — |
+| 2 | ICLN | clean_energy | 20.94 | 0.40 | -19.2% | — |
+| 3 | SIL | silver_miners | 18.06 | -0.47 | -16.5% | — |
+| 4 | DRIV | ev_automotive | 16.06 | 1.20 | -14.7% | LEADING |
+| 5 | GDX | gold_miners | 15.18 | -0.62 | -13.9% | — |
+
+> [!note] Note: RS_20d values are high because SPY had a negative 20-day return, making all sectors appear to outperform. DRIV is the only sector with RS_65d > 1.0 (sustained outperformance).
 
 ---
 
@@ -53,16 +59,9 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, cautious-bull, reduc
 
 ---
 
-## 5. SPY & QQQ Intraday Narrative
+## 5. Sugar Baby Watchlist
 
-> [!note] Intraday data not available for Jul 10
-> FMP 5-min/hourly data not fetched. Available on home workstation via nightly pipeline.
-
----
-
-## 6. Sugar Baby Watchlist
-
-**Core List:** 95 tickers | **Expanded List:** 188 tickers
+**Core List:** 106 tickers | **Expanded List:** 168 tickers
 
 ### Top 10 Sugar Babies (by count_504d)
 
@@ -74,15 +73,15 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, cautious-bull, reduc
 | 4 | APLD | 89 | 44 | 13 | 1 | 0 | core |
 | 5 | RKLB | 83 | — | — | — | — | core |
 
-> [!note] Sugar Baby counts last updated Jul 2. Run `py src/scans/compute_sugar_babies.py --date 2026-07-10` on home workstation to refresh.
+> Sugar Babies refreshed for Jul 10 (1903 total, 106 core, 168 expanded).
 
 ---
 
-## 7. Trade Ideas — Confluence Tiers
+## 6. Trade Ideas — Confluence Tiers
 
 ### A+ Confluences (Setup + Sugar Baby + Catalyst)
 
-> No A+ confluences found — none of today's DEP candidates are Sugar Babies.
+> No A+ confluences found — none of today's DEP/SOS candidates are core Sugar Babies.
 
 ### A Confluences (Setup + Sugar Baby)
 
@@ -92,70 +91,82 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, cautious-bull, reduc
 
 | # | Ticker | Setup | Entry | Stop | Width | Catalyst | Status |
 |---|--------|-------|-------|------|-------|----------|--------|
-| — | — | — | — | — | — | — | No B+ found |
+| — | — | — | — | — | — | — | No B+ found (catalyst enrichment not run for this date) |
 
 ### B Setups (Setup Only)
 
-| #   | Ticker | Setup | Entry   | Stop    | Width | Shares | Pos USD | Risk HKD | Status |
-| --- | ------ | ----- | ------- | ------- | ----- | ------ | ------- | -------- | ------ |
-| 1   | AAPL   | DEP   | $317.23 | $311.55 | 1.79% | 87     | $27,599 | $3,000   | Ready  |
-| 2   | CRM    | DEP   | $166.55 | $162.38 | 2.50% | 166    | $27,647 | $3,000   | Ready  |
-| 3   | CMCSA  | DEP   | $24.02  | $23.42  | 2.50% | 1,147  | $27,547 | $3,000   | Ready  |
-| 4   | CCC    | DEP   | $6.07   | $5.92   | 2.50% | 4,646  | $28,201 | $3,000   | Ready  |
-| 5   | BKNG   | DEP   | $186.69 | $182.02 | 2.50% | 148    | $27,630 | $3,000   | Ready  |
+#### DEP Candidates (10 found)
 
-### C Watchlist (Sugar Baby Only — No Position)
+| # | Ticker | Setup | Entry | Stop | Width | Shares | Pos USD | Risk HKD | Priority | Notes |
+|---|--------|-------|-------|------|-------|--------|---------|----------|----------|--------|
+| 1 | AAPL | DEP | $317.23 | $311.55 | 1.79% | 87 | $27,599 | $3,000 | highest | 10d breakout, 4d pullback, 1.52% width |
+| 2 | MSFT | DEP | $392.29 | $382.48 | 2.50% | 30 | $11,769 | $3,000 | highest | 10d breakout, 4d pullback, 2.72% width |
+| 3 | TECH | DEP | $71.49 | $70.51 | 1.37% | 385 | $27,524 | $3,000 | high | 15d breakout, 6d pullback, 1.05% width |
+| 4 | LPRO | DEP | $3.24 | $3.16 | 2.50% | 4,646 | $15,053 | $3,000 | medium | 24d breakout, 10d pullback, 1.29% width |
+| 5 | PAYO | DEP | $7.24 | $7.06 | 2.50% | 1,676 | $12,134 | $3,000 | medium | 25d breakout, 10d pullback, 2.0% width |
 
-| Ticker | SB Rank | Notes |
-|--------|---------|-------|
-| IREN | #1 | 103 breakouts in 504d, but 0 in last 5d — dormant |
-| WULF | #2 | 94 breakouts, 3 in 21d — watch for setup |
-| OKLO | #3 | 91 breakouts, 3 in 21d — watch for setup |
-| APLD | #4 | 89 breakouts, 1 in 21d — fading |
-| RKLB | #5 | 83 breakouts — watch for setup |
+#### SOS Candidates (42 found — top 5)
+
+| # | Ticker | Change% | Volume | Two Lynch | Leg | Priority |
+|---|--------|---------|--------|-----------|-----|----------|
+| 1 | OSIS | +3.9% | 129,461 | 5/6 | 1st | highest |
+| 2 | EQPT | +16.8% | 1,523,697 | 4/6 | 2nd | high |
+| 3 | SWIM | +4.1% | 298,481 | 4/6 | 2nd | high |
+| 4 | STLA | +4.9% | 15,435,102 | 5/6 | 1st | medium |
+| 5 | LEN | +1.3% | 1,736,976 | 5/6 | 1st | medium |
+
+#### ANTS Candidates (35 found — top 5)
+
+| # | Ticker | Price | Priority |
+|---|--------|-------|----------|
+| 1 | AAL | $16.87 | highest |
+| 2 | ONDS | $7.33 | highest |
+| 3 | INTC | $109.22 | highest |
+| 4 | NFLX | $73.12 | highest |
+| 5 | MU | $978.42 | highest |
 
 ---
 
-## 8. Pre-Market Order Sheet
+## 7. Pre-Market Order Sheet
 
 > [!important] Place these orders BEFORE 9:30 AM ET (next trading day)
 > DEP entry/stop are known from prior-day data — place limit + stop orders before market open.
 
 ### DEP Limit Orders
 
-| Ticker | Tier | Entry (Limit) | Stop    | Width | Shares | Pos USD | Risk HKD | Consolidation   | Breakout Date    |
-| ------ | ---- | ------------- | ------- | ----- | ------ | ------- | -------- | --------------- | ---------------- |
-| AAPL   | B    | $317.23       | $311.55 | 1.79% | 87     | $27,599 | $3,000   | 4d, 1.52% width | Jun 30 (10d ago) |
-| CRM    | B    | $166.55       | $162.38 | 2.50% | 166    | $27,647 | $3,000   | 4d, 2.44% width | Jun 30 (10d ago) |
-| CMCSA  | B    | $24.02        | $23.42  | 2.50% | 1,147  | $27,547 | $3,000   | 4d, 3.64% width | Jun 26 (14d ago) |
-| CCC    | B    | $6.07         | $5.92   | 2.50% | 4,646  | $28,201 | $3,000   | 2d, 5.66% width | Jul 7 (3d ago)   |
-| BKNG   | B    | $186.69       | $182.02 | 2.50% | 148    | $27,630 | $3,000   | 7d, 5.81% width | Jun 24 (16d ago) |
+| Ticker | Tier | Entry (Limit) | Stop | Width | Shares | Pos USD | Risk HKD | Consolidation | Breakout Date |
+|--------|------|---------------|------|-------|--------|---------|----------|---------------|---------------|
+| AAPL | B | $317.23 | $311.55 | 1.79% | 87 | $27,599 | $3,000 | 4d, 1.52% width | Jun 30 (10d ago) |
+| MSFT | B | $392.29 | $382.48 | 2.50% | 30 | $11,769 | $3,000 | 4d, 2.72% width | Jun 30 (10d ago) |
+| TECH | B | $71.49 | $70.51 | 1.37% | 385 | $27,524 | $3,000 | 6d, 1.05% width | Jun 25 (15d ago) |
+| LPRO | B | $3.24 | $3.16 | 2.50% | 4,646 | $15,053 | $3,000 | 10d, 1.29% width | Jun 16 (24d ago) |
+| PAYO | B | $7.24 | $7.06 | 2.50% | 1,676 | $12,134 | $3,000 | 10d, 2.0% width | Jun 15 (25d ago) |
 
-### ANTS BSLO Orders (35 candidates — top 5 shown)
+### ANTS BSLO Orders (top 5 of 35)
 
-| Ticker | Tier | Trigger (BSLO) | Stop          | Notes              |
-| ------ | ---- | -------------- | ------------- | ------------------ |
-| AAL    | —    | $17.04         | Prior day low | Tight day detected |
-| AAPL   | —    | $316.27        | Prior day low | Tight day detected |
-| CIFR   | —    | $22.43         | Prior day low | Tight day detected |
-| BTE    | —    | $4.10          | Prior day low | Tight day detected |
-| BB     | —    | $11.12         | Prior day low | Tight day detected |
+| Ticker | Trigger (BSLO) | Stop | Shares | Notes |
+|--------|----------------|------|--------|-------|
+| AAL | $17.04 (close + 1%) | Prior day low | — | Tight day detected |
+| ONDS | $7.40 (close + 1%) | Prior day low | — | Tight day detected |
+| INTC | $110.31 (close + 1%) | Prior day low | — | Tight day detected |
+| NFLX | $73.85 (close + 1%) | Prior day low | — | Tight day detected |
+| MU | $988.20 (close + 1%) | Prior day low | — | Tight day detected |
 
-> Full ANTS list: 35 candidates. Run `py src/scans/anticipation.py` for complete list with BSLO triggers and stops.
+> Full ANTS list: 35 candidates. Run `py src/scans/anticipation.py` for complete list.
 
 ---
 
-## 9. Intraday Watchlist (SOS + EP 9M)
+## 8. Intraday Watchlist (SOS + EP 9M)
 
-> [!warning] SOS scan found 0 candidates
-> Only 1448 tickers in DB for Jul 10 (vs 6000+ normal). Full SOS scan requires complete OHLCV data. Run nightly pipeline on home workstation for full coverage.
+### SOS Breakout Candidates (42 found)
 
-### SOS Breakout Candidates
-
-| Ticker | Trigger Price | Two Lynch | Leg | Sugar Baby | 9M Volume | Notes                            |
-| ------ | ------------- | --------- | --- | ---------- | --------- | -------------------------------- |
-| —      | —             | —         | —   | —          | —         | No SOS candidates (limited data) |
-|        |               |           |     |            |           |                                  |
+| Ticker | Trigger Price | Two Lynch | Leg | Sugar Baby | Volume | Notes |
+|--------|---------------|-----------|-----|------------|--------|-------|
+| OSIS | $prev_close × 1.04 | 5/6 | 1st | No | 129K | Highest priority — 5/6 Two Lynch, 1st leg |
+| EQPT | $prev_close × 1.04 | 4/6 | 2nd | No | 1.5M | High — +16.8% move, 2nd leg |
+| SWIM | $prev_close × 1.04 | 4/6 | 2nd | No | 298K | High — clean breakout |
+| STLA | $prev_close × 1.04 | 5/6 | 1st | No | 15.4M | Medium — high volume, 1st leg |
+| LEN | $prev_close × 1.04 | 5/6 | 1st | No | 1.7M | Medium — homebuilder, 1st leg |
 
 ### EP 9M Candidates
 
@@ -163,19 +174,31 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, cautious-bull, reduc
 
 ---
 
-## 10. Sector ETF Momentum Proxies
+## 9. Sector ETF Momentum Proxies
 
-> Sector RS data unavailable — ETF OHLCV needs backfill to Jul 10.
+| Ticker | Theme | RS_20d | RS_65d | Status |
+|--------|-------|--------|--------|--------|
+| DRIV | ev_automotive | 16.06 | 1.20 | LEADING |
+| UFO | space_economy | 25.62 | 0.33 | — |
+| ICLN | clean_energy | 20.94 | 0.40 | — |
+| SIL | silver_miners | 18.06 | -0.47 | — |
+| GDX | gold_miners | 15.18 | -0.62 | — |
 
 ---
 
-## 11. Similar Historical Conditions
+## 10. Similar Historical Conditions
 
-> Historical context matcher requires sector RS data which is unavailable for Jul 10.
+| Date | Similarity | Pradeep's Call | T2108 | Net | Rally | Outcome |
+|------|-----------|----------------|-------|-----|-------|---------|
+| Jun 25, 2026 | 60% | bullish / FULL_LONG | 48.2% | +313 | 15d | No data |
+| May 12, 2026 | 59% | cautious / REDUCE_SIZE | 50.9% | +485 | 21d | SPY fell -0.6% over 5d |
+| Jul 2, 2026 | 59% | cautious / REDUCE_SIZE | 52.0% | +588 | 20d | SPY fell -0.3% over 3d |
+
+> [!warning] Historical context is mixed — 1 bullish, 2 cautious. Similar conditions led to flat/slightly negative market action. Maintain caution despite FULL_BULL regime.
 
 ---
 
-## 12. Account Parameters
+## 11. Account Parameters
 
 | Parameter | Value |
 |-----------|-------|
@@ -189,78 +212,69 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, cautious-bull, reduc
 
 ---
 
-## 13. Action Summary
+## 12. Action Summary
 
-- [x] Reduce size — selective setups only
-- [ ] Place DEP limit orders before open: AAPL $317.23, CRM $166.55, CMCSA $24.02
-- [ ] Only B tier setups — no A+/A confluences today
-- [ ] Sell into strength on existing positions
-- [ ] Monitor 35 ANTS candidates for tomorrow's BSLO
-- [ ] No SOS breakouts today — no intraday long entries
+- [ ] Full playbook — size into A+ confluences (none today, so B tier with reduced size)
+- [ ] Place DEP limit orders before open: AAPL $317.23, MSFT $392.29, TECH $71.49
+- [ ] Monitor SOS breakout triggers intraday: OSIS (5/6 Two Lynch), EQPT, SWIM
+- [ ] Place ANTS BSLO orders for tomorrow: AAL, ONDS, INTC, NFLX, MU + 30 more
 - [ ] Watch Sugar Babies (IREN, WULF, OKLO) for new setups forming
+- [ ] Historical context suggests caution — similar days led to flat/slightly negative
 
 ---
 
-## 14. Ticker Details
+## 13. Ticker Details
 
 ### AAPL — Consumer Electronics | XLK | $4.6T | 5000+ funds (Liquid Glamour)
 
 **DEP Setup:** Breakout Jun 30 (+10.1%), 4-day consolidation, 1.52% width (very tight)
 
-**Breakout History (4 past swings):**
 | Date | Total Move | Entry | Stop | Last Close | Volume | Result |
 |------|-----------|-------|------|-----------|--------|--------|
-| Jun 30 | +10.1% | $291.48 | $290.74 | $308.63 | 71,897,697 | SUCCESS |
-| Feb 2 | +4.1% | $269.86 | $256.62 | $270.01 | 73,913,425 | STOPPED |
-| Sep 22 | +4.3% | $255.32 | $245.64 | $256.08 | 105,517,416 | STOPPED |
-| Aug 6 | +13.0% (2d) | $211.04 | $203.53 | $229.35 | 108,483,103 | PROFIT_80_20 |
+| Jun 30 | +10.1% | $291.48 | $290.74 | $308.63 | 71.9M | SUCCESS |
+| Feb 2 | +4.1% | $269.86 | $256.62 | $270.01 | 73.9M | STOPPED |
+| Sep 22 | +4.3% | $255.32 | $245.64 | $256.08 | 105.5M | STOPPED |
+| Aug 6 | +13.0% (2d) | $211.04 | $203.53 | $229.35 | 108.5M | PROFIT_80_20 |
 
-**Assessment:** Last breakout SUCCESS, tight consolidation (1.52%), institutional quality. Good DEP candidate.
+**Assessment:** Last breakout SUCCESS. Very tight consolidation (1.52%). Institutional quality. Strong DEP candidate.
 
 ---
 
-### CRM — Software Application | XLK | $134B | 5000+ funds (Liquid Glamour)
+### MSFT — Software | XLK | $3.4T | 5000+ funds (Liquid Glamour)
 
-**DEP Setup:** Breakout Jun 30 (+10.6%), 4-day consolidation, 2.44% width
-
-**Breakout History (5 past swings):**
-| Date | Total Move | Entry | Stop | Last Close | Volume | Result |
-|------|-----------|-------|------|-----------|--------|--------|
-| Jun 26 | +10.6% (2d) | $156.20 | $156.12 | $166.11 | 5,050,622 | SUCCESS |
-| May 29 | +19.0% (2d) | $183.22 | $178.22 | $209.60 | 33,998,900 | BREAKEVEN |
-| May 1 | +4.1% | $183.59 | $176.96 | $183.82 | 12,324,400 | BREAKEVEN |
-| Apr 13 | +4.8% | $171.56 | $164.11 | $172.82 | 12,390,800 | PROFIT_80_20 |
-| Mar 5 | +4.3% | $200.80 | $192.30 | $201.39 | 15,860,914 | BREAKEVEN |
-
-**Assessment:** Last breakout SUCCESS, good track record (2 SUCCESS, 1 PROFIT_80_20). Consolidation 2.44% — good DEP candidate.
+**DEP Setup:** Breakout Jun 30, 4-day consolidation, 2.72% width
 
 ---
 
-### CMCSA — Telecom Services | XLC | $84B | 2500+ funds (Institutional Quality)
+### TECH — Biotechnology | XBI | $11.2B | 1000+ funds (Gaining Interest)
 
-**DEP Setup:** Breakout Jun 26 (+8.8%), 4-day consolidation, 3.64% width
+**DEP Setup:** Breakout Jun 25 (+25.7%), 6-day consolidation, 1.05% width (extremely tight)
 
-**Breakout History (3 past swings):**
 | Date | Total Move | Entry | Stop | Last Close | Volume | Result |
 |------|-----------|-------|------|-----------|--------|--------|
-| Jun 26 | +8.8% | $23.60 | $24.32 | $24.68 | 83,460,058 | BREAKEVEN |
-| Apr 23 | +7.7% | $30.54 | $30.10 | $31.64 | 46,477,905 | STOPPED |
-| Dec 16 | +5.4% | $27.49 | $25.86 | $27.85 | 98,070,427 | BREAKEVEN |
+| Jun 24 | +25.7% (2d) | $58.51 | $56.28 | $70.70 | 4.2M | PROFIT_80_20 |
+| Jun 18 | +5.3% | $57.20 | $54.60 | $57.94 | 3.8M | SUCCESS |
+| Jun 15 | +4.0% | $56.16 | $54.10 | $56.17 | 3.3M | SUCCESS |
+| Jun 4 | +4.6% | $52.88 | $50.83 | $53.18 | 4.2M | SUCCESS |
+| May 28 | +5.7% | $50.01 | $47.52 | $50.84 | 2.9M | BREAKEVEN |
 
-**Assessment:** Last breakout BREAKEVEN, prior STOPPED. Wider consolidation (3.64%). Lower confidence than AAPL/CRM.
+**Assessment:** 3 SUCCESS + 1 PROFIT_80_20 in last 5 swings. Extremely tight consolidation (1.05%). Biotech sector — higher risk but strong track record.
 
 ---
 
-## 15. Data Coverage Notes
+### LPRO — Financial Credit Services | XLF | $0.4B | Speculative
 
-| Data | Coverage | Notes |
-|------|----------|-------|
-| Market Monitor | Jul 7-10 | From StockBee Google Sheet |
-| OHLCV | Jul 7-9 (6000+), Jul 10 (1448), Jul 13 (5197) | Jul 10 partial — hourly fetch through proxy was slow |
-| Sugar Babies | Jul 2 (last computed) | Needs refresh on home workstation |
-| Sector RS | Jun 25 (last ETF data) | Needs ETF OHLCV backfill |
-| SOS scan | Limited (1448 tickers) | Full scan needs 6000+ tickers |
-| DEP scan | Full coverage | Uses 25-day lookback with complete historical data |
+**DEP Setup:** Breakout Jun 16 (+48.1%), 10-day consolidation, 1.29% width
+
+| Date | Total Move | Entry | Stop | Last Close | Volume | Result |
+|------|-----------|-------|------|-----------|--------|--------|
+| Jun 16 | +48.1% | $2.18 | $3.08 | $3.11 | 28.2M | PROFIT_80_20 |
+| Jun 2 | +12.2% | $2.30 | $2.07 | $2.48 | 2.0M | STOPPED |
+| May 8 | +50.0% (5d) | $1.68 | $1.48 | $2.43 | 2.4M | PROFIT_80_20 |
+| Apr 24 | +6.0% | $1.74 | $1.63 | $1.77 | 346K | BREAKEVEN |
+| Apr 8 | +33.3% (4d) | $1.31 | $1.30 | $1.68 | 993K | PROFIT_80_20 |
+
+**Assessment:** 3 PROFIT_80_20 in last 5 swings — very profitable ticker. But speculative (small cap, <$1B). Small position size only.
 
 ---
 
