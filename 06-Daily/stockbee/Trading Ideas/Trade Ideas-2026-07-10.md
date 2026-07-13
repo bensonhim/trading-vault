@@ -96,13 +96,13 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, cautious-bull, reduc
 
 ### B Setups (Setup Only)
 
-| # | Ticker | Setup | Entry | Stop | Width | Shares | Pos USD | Risk HKD | Status |
-|---|--------|-------|-------|------|-------|--------|---------|----------|--------|
-| 1 | AAPL | DEP | $317.23 | $311.55 | 1.79% | 87 | $27,599 | $3,000 | Ready |
-| 2 | CRM | DEP | $166.55 | $162.38 | 2.50% | 166 | $27,647 | $3,000 | Ready |
-| 3 | CMCSA | DEP | $24.02 | $23.42 | 2.50% | 1,147 | $27,547 | $3,000 | Ready |
-| 4 | CCC | DEP | $6.07 | $5.92 | 2.50% | 4,646 | $28,201 | $3,000 | Ready |
-| 5 | BKNG | DEP | $186.69 | $182.02 | 2.50% | 148 | $27,630 | $3,000 | Ready |
+| #   | Ticker | Setup | Entry   | Stop    | Width | Shares | Pos USD | Risk HKD | Status |
+| --- | ------ | ----- | ------- | ------- | ----- | ------ | ------- | -------- | ------ |
+| 1   | AAPL   | DEP   | $317.23 | $311.55 | 1.79% | 87     | $27,599 | $3,000   | Ready  |
+| 2   | CRM    | DEP   | $166.55 | $162.38 | 2.50% | 166    | $27,647 | $3,000   | Ready  |
+| 3   | CMCSA  | DEP   | $24.02  | $23.42  | 2.50% | 1,147  | $27,547 | $3,000   | Ready  |
+| 4   | CCC    | DEP   | $6.07   | $5.92   | 2.50% | 4,646  | $28,201 | $3,000   | Ready  |
+| 5   | BKNG   | DEP   | $186.69 | $182.02 | 2.50% | 148    | $27,630 | $3,000   | Ready  |
 
 ### C Watchlist (Sugar Baby Only — No Position)
 
@@ -123,23 +123,23 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, cautious-bull, reduc
 
 ### DEP Limit Orders
 
-| Ticker | Tier | Entry (Limit) | Stop | Width | Shares | Pos USD | Risk HKD | Consolidation | Breakout Date |
-|--------|------|---------------|------|-------|--------|---------|----------|---------------|---------------|
-| AAPL | B | $317.23 | $311.55 | 1.79% | 87 | $27,599 | $3,000 | 4d, 1.52% width | Jun 30 (10d ago) |
-| CRM | B | $166.55 | $162.38 | 2.50% | 166 | $27,647 | $3,000 | 4d, 2.44% width | Jun 30 (10d ago) |
-| CMCSA | B | $24.02 | $23.42 | 2.50% | 1,147 | $27,547 | $3,000 | 4d, 3.64% width | Jun 26 (14d ago) |
-| CCC | B | $6.07 | $5.92 | 2.50% | 4,646 | $28,201 | $3,000 | 2d, 5.66% width | Jul 7 (3d ago) |
-| BKNG | B | $186.69 | $182.02 | 2.50% | 148 | $27,630 | $3,000 | 7d, 5.81% width | Jun 24 (16d ago) |
+| Ticker | Tier | Entry (Limit) | Stop    | Width | Shares | Pos USD | Risk HKD | Consolidation   | Breakout Date    |
+| ------ | ---- | ------------- | ------- | ----- | ------ | ------- | -------- | --------------- | ---------------- |
+| AAPL   | B    | $317.23       | $311.55 | 1.79% | 87     | $27,599 | $3,000   | 4d, 1.52% width | Jun 30 (10d ago) |
+| CRM    | B    | $166.55       | $162.38 | 2.50% | 166    | $27,647 | $3,000   | 4d, 2.44% width | Jun 30 (10d ago) |
+| CMCSA  | B    | $24.02        | $23.42  | 2.50% | 1,147  | $27,547 | $3,000   | 4d, 3.64% width | Jun 26 (14d ago) |
+| CCC    | B    | $6.07         | $5.92   | 2.50% | 4,646  | $28,201 | $3,000   | 2d, 5.66% width | Jul 7 (3d ago)   |
+| BKNG   | B    | $186.69       | $182.02 | 2.50% | 148    | $27,630 | $3,000   | 7d, 5.81% width | Jun 24 (16d ago) |
 
 ### ANTS BSLO Orders (35 candidates — top 5 shown)
 
-| Ticker | Tier | Trigger (BSLO) | Stop | Notes |
-|--------|------|----------------|------|-------|
-| AAL | — | $17.04 | Prior day low | Tight day detected |
-| AAPL | — | $316.27 | Prior day low | Tight day detected |
-| CIFR | — | $22.43 | Prior day low | Tight day detected |
-| BTE | — | $4.10 | Prior day low | Tight day detected |
-| BB | — | $11.12 | Prior day low | Tight day detected |
+| Ticker | Tier | Trigger (BSLO) | Stop          | Notes              |
+| ------ | ---- | -------------- | ------------- | ------------------ |
+| AAL    | —    | $17.04         | Prior day low | Tight day detected |
+| AAPL   | —    | $316.27        | Prior day low | Tight day detected |
+| CIFR   | —    | $22.43         | Prior day low | Tight day detected |
+| BTE    | —    | $4.10          | Prior day low | Tight day detected |
+| BB     | —    | $11.12         | Prior day low | Tight day detected |
 
 > Full ANTS list: 35 candidates. Run `py src/scans/anticipation.py` for complete list with BSLO triggers and stops.
 
@@ -152,9 +152,10 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, cautious-bull, reduc
 
 ### SOS Breakout Candidates
 
-| Ticker | Trigger Price | Two Lynch | Leg | Sugar Baby | 9M Volume | Notes |
-|--------|---------------|-----------|-----|------------|-----------|-------|
-| — | — | — | — | — | — | No SOS candidates (limited data) |
+| Ticker | Trigger Price | Two Lynch | Leg | Sugar Baby | 9M Volume | Notes                            |
+| ------ | ------------- | --------- | --- | ---------- | --------- | -------------------------------- |
+| —      | —             | —         | —   | —          | —         | No SOS candidates (limited data) |
+|        |               |           |     |            |           |                                  |
 
 ### EP 9M Candidates
 
