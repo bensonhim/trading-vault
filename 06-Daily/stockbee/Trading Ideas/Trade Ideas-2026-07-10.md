@@ -15,13 +15,13 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, full-bull, full-long
 
 ## 2. Market Monitor (Primary Breadth)
 
-| Indicator | Jul 10 | Jul 9 | Jul 8 | Jul 7 | Trend |
-|-----------|---------|-------|-------|-------|-------|
-| Net Primary | +349 | +425 | +313 | +453 | Stable positive |
-| T2108 | 52.0% | 49.8% | 48.1% | 50.4% | Stable |
-| Breakouts (4%+) | 129 | 250 | 185 | 189 | — |
-| Breakdowns (4%+) | 181 | 100 | 309 | 476 | Declining |
-| BO:BD Ratio | 0.71 | 2.50 | 0.60 | 0.40 | Improving |
+| Indicator        | Jul 10 | Jul 9 | Jul 8 | Jul 7 | Trend           |
+| ---------------- | ------ | ----- | ----- | ----- | --------------- |
+| Net Primary      | +349   | +425  | +313  | +453  | Stable positive |
+| T2108            | 52.0%  | 49.8% | 48.1% | 50.4% | Stable          |
+| Breakouts (4%+)  | 129    | 250   | 185   | 189   | —               |
+| Breakdowns (4%+) | 181    | 100   | 309   | 476   | Declining       |
+| BO:BD Ratio      | 0.71   | 2.50  | 0.60  | 0.40  | Improving       |
 
 **Primary Trend Assessment:** Net primary stable positive (+313 to +453 range). T2108 in normal range (48-52%). Breakdowns declining from 476 (Jul 7) to 181 (Jul 10). Jul 9 was a strong breakout day (250 vs 100). Market stabilizing after choppy start to week.
 
@@ -36,13 +36,13 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, full-bull, full-long
 
 ### Sector RS Heatmap (Top 5 by RS_20d)
 
-| Rank | Ticker | Theme | RS_20d | RS_65d | ETF_20d Return | Status |
-|------|--------|-------|--------|--------|----------------|--------|
-| 1 | UFO | space_economy | 25.62 | 0.33 | -23.4% | — |
-| 2 | ICLN | clean_energy | 20.94 | 0.40 | -19.2% | — |
-| 3 | SIL | silver_miners | 18.06 | -0.47 | -16.5% | — |
-| 4 | DRIV | ev_automotive | 16.06 | 1.20 | -14.7% | LEADING |
-| 5 | GDX | gold_miners | 15.18 | -0.62 | -13.9% | — |
+| Rank | Ticker | Theme         | RS_20d | RS_65d | ETF_20d Return | Status  |
+| ---- | ------ | ------------- | ------ | ------ | -------------- | ------- |
+| 1    | UFO    | space_economy | 25.62  | 0.33   | -23.4%         | —       |
+| 2    | ICLN   | clean_energy  | 20.94  | 0.40   | -19.2%         | —       |
+| 3    | SIL    | silver_miners | 18.06  | -0.47  | -16.5%         | —       |
+| 4    | DRIV   | ev_automotive | 16.06  | 1.20   | -14.7%         | LEADING |
+| 5    | GDX    | gold_miners   | 15.18  | -0.62  | -13.9%         | —       |
 
 > [!note] Note: RS_20d values are high because SPY had a negative 20-day return, making all sectors appear to outperform. DRIV is the only sector with RS_65d > 1.0 (sustained outperformance).
 
