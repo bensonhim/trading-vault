@@ -134,13 +134,13 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, full-bull, full-long
 
 ### DEP Limit Orders
 
-| Ticker | Tier | Entry (Limit) | Stop | Width | Shares | Pos USD | Risk HKD | Consolidation | Breakout Date |
-|--------|------|---------------|------|-------|--------|---------|----------|---------------|---------------|
-| AAPL | B | $317.23 | $311.55 | 1.79% | 87 | $27,599 | $3,000 | 4d, 1.52% width | Jun 30 (10d ago) |
-| MSFT | B | $392.29 | $382.48 | 2.50% | 30 | $11,769 | $3,000 | 4d, 2.72% width | Jun 30 (10d ago) |
-| TECH | B | $71.49 | $70.51 | 1.37% | 385 | $27,524 | $3,000 | 6d, 1.05% width | Jun 25 (15d ago) |
-| LPRO | B | $3.24 | $3.16 | 2.50% | 4,646 | $15,053 | $3,000 | 10d, 1.29% width | Jun 16 (24d ago) |
-| PAYO | B | $7.24 | $7.06 | 2.50% | 1,676 | $12,134 | $3,000 | 10d, 2.0% width | Jun 15 (25d ago) |
+| Ticker | Tier | Entry (Limit) | Stop    | Width | Shares | Pos USD | Risk HKD | Consolidation    | Breakout Date    |
+| ------ | ---- | ------------- | ------- | ----- | ------ | ------- | -------- | ---------------- | ---------------- |
+| AAPL   | B    | $317.23       | $311.55 | 1.79% | 87     | $27,599 | $3,000   | 4d, 1.52% width  | Jun 30 (10d ago) |
+| MSFT   | B    | $392.29       | $382.48 | 2.50% | 30     | $11,769 | $3,000   | 4d, 2.72% width  | Jun 30 (10d ago) |
+| TECH   | B    | $71.49        | $70.51  | 1.37% | 385    | $27,524 | $3,000   | 6d, 1.05% width  | Jun 25 (15d ago) |
+| LPRO   | B    | $3.24         | $3.16   | 2.50% | 4,646  | $15,053 | $3,000   | 10d, 1.29% width | Jun 16 (24d ago) |
+| PAYO   | B    | $7.24         | $7.06   | 2.50% | 1,676  | $12,134 | $3,000   | 10d, 2.0% width  | Jun 15 (25d ago) |
 
 ### ANTS BSLO Orders (top 5 of 35)
 
