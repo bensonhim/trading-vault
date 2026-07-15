@@ -15,12 +15,12 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, full-bull, full-long
 
 ## 2. Market Monitor (Primary Breadth)
 
-| Indicator | Jul 14 | Jul 13 | Jul 10 | Jul 9 | Trend |
-|-----------|---------|---------|-------|-------|-------|
-| Net Primary | — | +334 | +349 | +425 | Stable positive |
-| T2108 | 52.25% | 52.53% | 52.0% | 49.8% | Stable |
-| Breakouts (4%+) | — | — | 129 | 250 | — |
-| Breakdowns (4%+) | — | — | 181 | 100 | — |
+| Indicator        | Jul 14 | Jul 13 | Jul 10 | Jul 9 | Trend           |
+| ---------------- | ------ | ------ | ------ | ----- | --------------- |
+| Net Primary      | —      | +334   | +349   | +425  | Stable positive |
+| T2108            | 52.25% | 52.53% | 52.0%  | 49.8% | Stable          |
+| Breakouts (4%+)  | —      | —      | 129    | 250   | —               |
+| Breakdowns (4%+) | —      | —      | 181    | 100   | —               |
 
 **Primary Trend Assessment:** T2108 stable at ~52%. Net primary declining slightly but still solidly positive. Market in normal bullish range.
 
@@ -93,13 +93,13 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, full-bull, full-long
 
 #### SOS Candidates (50 found — top 5)
 
-| # | Ticker | Change% | Volume | Two Lynch | Leg | Priority |
-|---|--------|---------|--------|-----------|-----|----------|
-| 1 | GOOGL | +2.0% | 18,165,860 | 6/6 | 1st | highest |
-| 2 | GOOG | +1.9% | 11,194,975 | 6/6 | 1st | highest |
-| 3 | GS | +9.0% | 3,735,733 | 6/6 | 1st | highest |
-| 4 | AFRM | +3.1% | 3,325,513 | 6/6 | 1st | highest |
-| 5 | HWM | +2.0% | 1,646,270 | 6/6 | 1st | highest |
+| #   | Ticker | Change% | Volume     | Two Lynch | Leg | Priority |
+| --- | ------ | ------- | ---------- | --------- | --- | -------- |
+| 1   | GOOGL  | +2.0%   | 18,165,860 | 6/6       | 1st | highest  |
+| 2   | GOOG   | +1.9%   | 11,194,975 | 6/6       | 1st | highest  |
+| 3   | GS     | +9.0%   | 3,735,733  | 6/6       | 1st | highest  |
+| 4   | AFRM   | +3.1%   | 3,325,513  | 6/6       | 1st | highest  |
+| 5   | HWM    | +2.0%   | 1,646,270  | 6/6       | 1st | highest  |
 
 > [!tip] All top 5 SOS candidates have perfect 6/6 Two Lynch scores — very high quality breakout day!
 
