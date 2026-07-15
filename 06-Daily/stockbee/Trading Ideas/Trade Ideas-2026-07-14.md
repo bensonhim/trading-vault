@@ -32,13 +32,13 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, full-bull, full-long
 
 ### Sector RS Heatmap (Top 5 by RS_20d)
 
-| Rank | Ticker | Theme | RS_20d | RS_65d | ETF 20d Return | SPY 20d Return | Excess | Status |
-|------|--------|-------|--------|--------|----------------|----------------|--------|--------|
-| 1 | BUG | cybersecurity | 14.25 | 6.50 | +23.1% | +1.6% | +21.5% | LEADING |
-| 2 | XBI | biotech_small | 10.06 | 1.71 | +16.3% | +1.6% | +14.7% | — |
-| 3 | GNOM | genomics | 8.66 | — | +14.0% | +1.6% | +12.4% | — |
-| 4 | IBB | biotech_broad | 6.52 | — | +10.6% | +1.6% | +8.9% | — |
-| 5 | XLF | financials_broad | 3.52 | — | +5.7% | +1.6% | +4.1% | — |
+| Rank | Ticker | Theme            | RS_20d | RS_65d | ETF 20d Return | SPY 20d Return | Excess | Status  |
+| ---- | ------ | ---------------- | ------ | ------ | -------------- | -------------- | ------ | ------- |
+| 1    | BUG    | cybersecurity    | 14.25  | 6.50   | +23.1%         | +1.6%          | +21.5% | LEADING |
+| 2    | XBI    | biotech_small    | 10.06  | 1.71   | +16.3%         | +1.6%          | +14.7% | —       |
+| 3    | GNOM   | genomics         | 8.66   | —      | +14.0%         | +1.6%          | +12.4% | —       |
+| 4    | IBB    | biotech_broad    | 6.52   | —      | +10.6%         | +1.6%          | +8.9%  | —       |
+| 5    | XLF    | financials_broad | 3.52   | —      | +5.7%          | +1.6%          | +4.1%  | —       |
 
 **Key Insight:** Cybersecurity (BUG) has overtaken biotech (XBI) as the leading sector. BUG's RS_65d of 6.50 shows sustained outperformance over 3 months. RS_20d of 14.25 is very strong — cybersecurity stocks are significantly outperforming the market.
 
@@ -61,13 +61,13 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, full-bull, full-long
 
 ### Top 5 Sugar Babies
 
-| Rank | Ticker | 504d | 252d | 63d | 21d | 5d | Tier |
-|------|--------|------|------|-----|-----|-----|------|
-| 1 | IREN | 103 | 56 | 15 | 2 | 0 | core |
-| 2 | WULF | 94 | 48 | 13 | 3 | 0 | core |
-| 3 | OKLO | 91 | 45 | 12 | 3 | 0 | core |
-| 4 | APLD | 89 | 44 | 13 | 1 | 0 | core |
-| 5 | RKLB | 83 | — | — | — | — | core |
+| Rank | Ticker | 504d | 252d | 63d | 21d | 5d  | Tier |
+| ---- | ------ | ---- | ---- | --- | --- | --- | ---- |
+| 1    | IREN   | 103  | 56   | 15  | 2   | 0   | core |
+| 2    | WULF   | 94   | 48   | 13  | 3   | 0   | core |
+| 3    | OKLO   | 91   | 45   | 12  | 3   | 0   | core |
+| 4    | APLD   | 89   | 44   | 13  | 1   | 0   | core |
+| 5    | RKLB   | 83   | —    | —   | —   | —   | core |
 
 ---
 
@@ -83,13 +83,13 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, full-bull, full-long
 
 #### DEP Candidates (10 found)
 
-| # | Ticker | Setup | Entry | Stop | Width | Priority | Notes |
-|---|--------|-------|-------|------|-------|----------|-------|
-| 1 | AAPL | DEP | $323.77 | $315.68 | 2.50% | highest | 12d breakout, 7d pullback, 5.36% width |
-| 2 | NKE | DEP | $45.14 | $44.01 | 2.50% | high | 13d breakout, 8d pullback, 7.65% width |
-| 3 | TECH | DEP | $71.49 | $70.35 | 1.59% | high | 19d breakout, 10d pullback, 1.28% width (very tight) |
-| 4 | APGE | DEP | $134.00 | $132.27 | 1.29% | medium | 22d breakout, 10d pullback, 1.0% width (extremely tight) |
-| 5 | ABBV | DEP | $261.90 | $255.35 | 2.50% | medium | 18d breakout, 10d pullback, 6.96% width |
+| #   | Ticker | Setup | Entry   | Stop    | Width | Priority | Notes                                                    |
+| --- | ------ | ----- | ------- | ------- | ----- | -------- | -------------------------------------------------------- |
+| 1   | AAPL   | DEP   | $323.77 | $315.68 | 2.50% | highest  | 12d breakout, 7d pullback, 5.36% width                   |
+| 2   | NKE    | DEP   | $45.14  | $44.01  | 2.50% | high     | 13d breakout, 8d pullback, 7.65% width                   |
+| 3   | TECH   | DEP   | $71.49  | $70.35  | 1.59% | high     | 19d breakout, 10d pullback, 1.28% width (very tight)     |
+| 4   | APGE   | DEP   | $134.00 | $132.27 | 1.29% | medium   | 22d breakout, 10d pullback, 1.0% width (extremely tight) |
+| 5   | ABBV   | DEP   | $261.90 | $255.35 | 2.50% | medium   | 18d breakout, 10d pullback, 6.96% width                  |
 
 #### SOS Candidates (50 found — top 5)
 

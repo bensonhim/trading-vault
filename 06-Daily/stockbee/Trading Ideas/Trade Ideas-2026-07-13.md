@@ -35,13 +35,13 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, full-bull, full-long
 
 ### Sector RS Heatmap (Top 5 by RS_20d)
 
-| Rank | Ticker | Theme | RS_20d | RS_65d | ETF 20d Return | SPY 20d Return | Excess | Status |
-|------|--------|-------|--------|--------|----------------|----------------|--------|--------|
-| 1 | XBI | biotech_small | 9.48 | 1.71 | +17.1% | +1.8% | +15.3% | LEADING |
-| 2 | BUG | cybersecurity | 8.89 | — | +16.1% | +1.8% | +14.3% | — |
-| 3 | GNOM | genomics | 7.36 | — | +13.3% | +1.8% | +11.5% | — |
-| 4 | IBB | biotech_broad | 6.19 | — | +11.2% | +1.8% | +9.4% | — |
-| 5 | XLF | financials_broad | 3.83 | — | +6.9% | +1.8% | +5.1% | — |
+| Rank | Ticker | Theme            | RS_20d | RS_65d | ETF 20d Return | SPY 20d Return | Excess | Status  |
+| ---- | ------ | ---------------- | ------ | ------ | -------------- | -------------- | ------ | ------- |
+| 1    | XBI    | biotech_small    | 9.48   | 1.71   | +17.1%         | +1.8%          | +15.3% | LEADING |
+| 2    | BUG    | cybersecurity    | 8.89   | —      | +16.1%         | +1.8%          | +14.3% | —       |
+| 3    | GNOM   | genomics         | 7.36   | —      | +13.3%         | +1.8%          | +11.5% | —       |
+| 4    | IBB    | biotech_broad    | 6.19   | —      | +11.2%         | +1.8%          | +9.4%  | —       |
+| 5    | XLF    | financials_broad | 3.83   | —      | +6.9%          | +1.8%          | +5.1%  | —       |
 
 **Key Insight:** Biotech (XBI) and cybersecurity (BUG) are the clear sector leaders, both with double-digit 20-day returns while SPY is only +1.8%. Biotech sector has 3 of top 5 ETFs (XBI, GNOM, IBB).
 
@@ -64,13 +64,13 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, full-bull, full-long
 
 ### Top 10 Sugar Babies (by count_504d)
 
-| Rank | Ticker | 504d | 252d | 63d | 21d | 5d | Tier |
-|------|--------|------|------|-----|-----|-----|------|
-| 1 | IREN | 103 | 56 | 15 | 2 | 0 | core |
-| 2 | WULF | 94 | 48 | 13 | 3 | 0 | core |
-| 3 | OKLO | 91 | 45 | 12 | 3 | 0 | core |
-| 4 | APLD | 89 | 44 | 13 | 1 | 0 | core |
-| 5 | RKLB | 83 | — | — | — | — | core |
+| Rank | Ticker | 504d | 252d | 63d | 21d | 5d  | Tier |
+| ---- | ------ | ---- | ---- | --- | --- | --- | ---- |
+| 1    | IREN   | 103  | 56   | 15  | 2   | 0   | core |
+| 2    | WULF   | 94   | 48   | 13  | 3   | 0   | core |
+| 3    | OKLO   | 91   | 45   | 12  | 3   | 0   | core |
+| 4    | APLD   | 89   | 44   | 13  | 1   | 0   | core |
+| 5    | RKLB   | 83   | —    | —   | —   | —   | core |
 
 ---
 
@@ -146,13 +146,13 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, full-bull, full-long
 
 ### SOS Breakout Candidates (50 found — top 5)
 
-| Ticker | Trigger Price | Two Lynch | Leg | Sugar Baby | Volume | Notes |
-|--------|---------------|-----------|-----|------------|--------|-------|
-| GFR | prev_close × 1.04 | 6/6 | 1st | No | 220K | Perfect Two Lynch score |
-| PLTR | prev_close × 1.04 | 5/6 | 1st | No | 39.8M | High volume, institutional |
-| VG | prev_close × 1.04 | 5/6 | 1st | No | 21.4M | +9.2% move, high volume |
-| CRGY | prev_close × 1.04 | 5/6 | 1st | No | 5.9M | Energy sector breakout |
-| NOG | prev_close × 1.04 | 5/6 | 1st | No | 4.4M | +9.9% move |
+| Ticker | Trigger Price     | Two Lynch | Leg | Sugar Baby | Volume | Notes                      |
+| ------ | ----------------- | --------- | --- | ---------- | ------ | -------------------------- |
+| GFR    | prev_close × 1.04 | 6/6       | 1st | No         | 220K   | Perfect Two Lynch score    |
+| PLTR   | prev_close × 1.04 | 5/6       | 1st | No         | 39.8M  | High volume, institutional |
+| VG     | prev_close × 1.04 | 5/6       | 1st | No         | 21.4M  | +9.2% move, high volume    |
+| CRGY   | prev_close × 1.04 | 5/6       | 1st | No         | 5.9M   | Energy sector breakout     |
+| NOG    | prev_close × 1.04 | 5/6       | 1st | No         | 4.4M   | +9.9% move                 |
 
 ---
 
