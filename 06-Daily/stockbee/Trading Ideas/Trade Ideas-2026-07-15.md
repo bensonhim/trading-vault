@@ -200,11 +200,11 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, full-bull, full-long
 
 ## 8. Active Sugar Babies (Recent Breakouts)
 
-| Rank | Ticker | 21d | 5d | 504d | Tier |
-|------|--------|-----|-----|------|------|
-| 1 | IREN | 2 | 0 | 103 | core |
-| 2 | WULF | 3 | 0 | 94 | core |
-| 3 | OKLO | 3 | 0 | 91 | core |
+| Rank | Ticker | 21d | 5d  | 504d | Tier |
+| ---- | ------ | --- | --- | ---- | ---- |
+| 1    | IREN   | 2   | 0   | 103  | core |
+| 2    | WULF   | 3   | 0   | 94   | core |
+| 3    | OKLO   | 3   | 0   | 91   | core |
 
 > [!note] Full Sugar Baby watchlist (1,903 tickers) in Google Sheets "SB Watchlist" tab. Active SBs (269) in "SB Active" tab.
 
@@ -227,13 +227,13 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, full-bull, full-long
 
 **DEP Setup:** Breakout Jul 7, 6-day consolidation, 0.67% width (extremely tight)
 
-| Date | Total Move | Entry | Stop | Last Close | Volume | Result |
-|------|-----------|-------|------|-----------|--------|--------|
-| Jun 26 | +138.7% (3d) | $36.39 | $34.76 | $83.53 | 5.0M | BREAKEVEN |
-| Jun 9 | +4.5% | $34.82 | $33.20 | $34.97 | 885K | STOPPED |
-| Jun 4 | +4.7% | $34.41 | $33.30 | $34.63 | 1.1M | STOPPED |
-| May 4 | +11.5% (2d) | $40.58 | $38.61 | $43.49 | 1.2M | BREAKEVEN |
-| Apr 17 | +5.1% | $40.58 | $39.31 | $41.00 | 1.1M | STOPPED |
+| Date   | Total Move   | Entry  | Stop   | Last Close | Volume | Result    |
+| ------ | ------------ | ------ | ------ | ---------- | ------ | --------- |
+| Jun 26 | +138.7% (3d) | $36.39 | $34.76 | $83.53     | 5.0M   | BREAKEVEN |
+| Jun 9  | +4.5%        | $34.82 | $33.20 | $34.97     | 885K   | STOPPED   |
+| Jun 4  | +4.7%        | $34.41 | $33.30 | $34.63     | 1.1M   | STOPPED   |
+| May 4  | +11.5% (2d)  | $40.58 | $38.61 | $43.49     | 1.2M   | BREAKEVEN |
+| Apr 17 | +5.1%        | $40.58 | $39.31 | $41.00     | 1.1M   | STOPPED   |
 
 **Assessment:** +138.7% breakout (major catalyst) with very tight 0.67% consolidation. Biotech sector (XBI) is #2 leading. High risk, high reward.
 
