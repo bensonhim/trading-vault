@@ -1,16 +1,16 @@
 ---
 title: "Trade Management"
-date: 2026-07-08
+date: 2026-07-16
 tags: [concepts, wiki, auto-compiled]
-mention_count: 205
-sources_count: 135
+mention_count: 247
+sources_count: 166
 compilation_count: 1
 promote: false
 ---
 
 # Trade Management
 
-*Concepts — compiled from 205 mentions across 135 sources.*
+*Concepts — compiled from 247 mentions across 166 sources.*
 
 ## Mentions
 
@@ -21,6 +21,10 @@ promote: false
 > [[../../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]: | **Profit target** | 8–20% move, or sell into strength with 80/20 rule |
 
 > [[../../03-Guides/stockbee/23. Bearish Trading Guide.md|23. Bearish Trading Guide]]: | **Profit management** | Sell into strength; don't hold open profits too long |
+
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: | 4 | **Management change** | New CEO, restructuring |
+
+> [[../../03-Guides/stockbee/EP-9-Million.md|EP-9-Million]]: | 3 | **Management change** | New CEO, restructuring |
 
 > [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 7.md|How to Get Started In Trading Guide-Part 7]]: ### 9. Business Model + Management > Valuation Alone
 
@@ -90,10 +94,6 @@ promote: false
 
 > [[../../04-Transcripts/stockbee/2024-01-31_2-pm.md|2024-01-31_2-pm]]: So we're really in a risk management mode of managing the risk.
 
-> [[../../04-Transcripts/stockbee/2024-02-06_11-am.md|2024-02-06_11-am]]: Otherwise, like, in your overthinking going looking at, like, you know, how much is the management ownership and all.
-
-> [[../../04-Transcripts/stockbee/2024-02-06_9-am.md|2024-02-06_9-am]]: They are doing expectation management.
-
 ## Related Concepts
 
 *(To be enriched)*
@@ -119,8 +119,8 @@ promote: false
 - [[../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]
 - [[../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]
 - [[../03-Guides/stockbee/23. Bearish Trading Guide.md|23. Bearish Trading Guide]]
+- [[../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]
+- [[../03-Guides/stockbee/EP-9-Million.md|EP-9-Million]]
 - [[../03-Guides/stockbee/External/Chart Fanatics - Trading LIVE with the #1 Scalper in the WORLD (EXTREME Accuracy)_subs.md|Chart Fanatics - Trading LIVE with the #1 Scalper in the WORLD (EXTREME Accuracy)_subs]]
 - [[../04-Transcripts/stockbee/01. How to Get Started/Pradeep Bonde - How to Get Started In Trading Guide-Part 7_deepgram.md|Pradeep Bonde - How to Get Started In Trading Guide-Part 7_deepgram]]
 - [[../04-Transcripts/stockbee/01. How to Get Started/Pradeep Bonde - How to Get Started In Trading Guide-Part 8_deepgram.md|Pradeep Bonde - How to Get Started In Trading Guide-Part 8_deepgram]]
-- [[../04-Transcripts/stockbee/12. Situational Awareness Guide/Pradeep Bonde - Situational Awareness Guide-Part 10_deepgram.md|Pradeep Bonde - Situational Awareness Guide-Part 10_deepgram]]
-- [[../04-Transcripts/stockbee/12. Situational Awareness Guide/Pradeep Bonde - Situational Awareness Guide-Part 2_deepgram.md|Pradeep Bonde - Situational Awareness Guide-Part 2_deepgram]]

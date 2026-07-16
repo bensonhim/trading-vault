@@ -1,16 +1,16 @@
 ---
 title: "EP9M"
-date: 2026-07-08
+date: 2026-07-16
 tags: [setups, wiki, auto-compiled]
-mention_count: 561
-sources_count: 85
+mention_count: 1069
+sources_count: 223
 compilation_count: 1
 promote: false
 ---
 
 # EP9M
 
-*Setups — compiled from 561 mentions across 85 sources.*
+*Setups — compiled from 1069 mentions across 223 sources.*
 
 ## Mentions
 
@@ -66,33 +66,33 @@ promote: false
 
 > [[../../03-Guides/stockbee/Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs.md|Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs]]: ### EP9 Million — The Volume Scan
 
-> [[../../03-Guides/stockbee/14. Sugar Babies Guide/14. Sugar Babies Guide.md|14. Sugar Babies Guide]]: | 8    | EP Sugar Babies                      | Sugar Babies as a subset of EP 9-million — highest explosive potential     |
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: DEP (Delayed Reaction EP) is a **scan + watchlist-based setup** that finds stocks with a recent EP9M catalyst (within 25 days) that have pulled back after the initial move. It allows **large position sizing with close stops** — the whole objective.
 
-> [[../../03-Guides/stockbee/14. Sugar Babies Guide/14. Sugar Babies Guide.md|14. Sugar Babies Guide]]: 9. **Sugar Babies originated from the EP 9-million discovery.** Pradeep noticed that the biggest EP moves started with 9M volume breakouts. He then asked: which stocks do this repeatedly?
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: > "DEP is not really EP with a DEP. It's a DEP EP9M. The whole objective of DEP is to get a stop of 2.5% or less. The name of the game in trading is sizing. If you want big returns, you have to find opportunities where you can size big." — 2026-05-29
 
-> [[../../03-Guides/stockbee/14. Sugar Babies Guide/14. Sugar Babies Guide.md|14. Sugar Babies Guide]]: - [[13. Episodic Pivots Guide|Episodic Pivots Guide]] — EP 9-million is the parent concept
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: > "DEP is equally important to me as EP9M. It's not even number two." — 2026-06-11
 
-> [[../../03-Guides/stockbee/14. Sugar Babies Guide/14. Sugar Babies Guide.md|14. Sugar Babies Guide]]: | "e p 9,000,000" / "89,000,000" / "9M" | **EP 9-million** (9M volume threshold) | Volume, not a number |
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: - EP9M entries require 8–10% stops — limits position size
 
-> [[../../03-Guides/stockbee/15. Start of a Swing Guide/15. Start of a Swing Guide.md|15. Start of a Swing Guide]]: - [[13. Episodic Pivots Guide|Episodic Pivots Guide]] — EP 9-million is a special case of SOS with catalyst
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: - After EP9M, stocks often shake out early buyers before continuing the move
 
-> [[../../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]: | Aspect | EP 9M (Day 1) | DEP (Delayed) |
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: 2. **Delayed entry** — Stock doesn't gap up much; DEP captures the first SOS after the catalyst becomes apparent (often discovered via EP9M scan, not premarket)
 
-> [[../../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]: 2. Go through every EP 9M in last 1,200+ days (~1,800 examples)
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: ### DEP vs. EP9M — Key Differences
 
-> [[../../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]: - [[13. Episodic Pivots Guide|EP 9M — The Foundation of DEP]]
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: | Aspect | EP9M | DEP |
 
-> [[../../03-Guides/stockbee/17. Catalyst Guide/17. Catalyst Guide.md|17. Catalyst Guide]]: **How to identify:** Run the 9M EP scan daily. When you see a stock with crazy volume (100M+ shares) and no obvious earnings catalyst, dig for the story.
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: | Timing | Same day as volume spike | 1–25 days after EP9M |
 
-> [[../../03-Guides/stockbee/17. Catalyst Guide/17. Catalyst Guide.md|17. Catalyst Guide]]: 1. Run **9M EP scan daily**
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: | Catalyst knowledge | Find after scan | Already known (researched on EP9M day) |
 
-> [[../../03-Guides/stockbee/17. Catalyst Guide/17. Catalyst Guide.md|17. Catalyst Guide]]: - [[13. Episodic Pivots Guide|EP 9M — The Foundation of Catalyst Trading]]
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: > "For those who have time commitment issues, you don't want to do only one hour — this is the setup which is complementary to EP9M." — 2026-05-29
 
-> [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: | **Declarative / Explicit** | Cortex | Facts, concepts, knowledge | "I know what EP 9M is" — useless for execution |
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: | Scan | EP9M with volume filter, last 25 days, plus fund/bucket filters |
 
-> [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: | **EP 9M** | Catalyst + 9M volume + surprise + neglect |
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: | Holding | 3–15 days (same as EP9M) |
 
-> [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: ### EP 9M / Mini Home Run
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: | Max window | 25 days from EP9M; if no breakout by then, no longer valid |
 
 ## Related Concepts
 
@@ -113,6 +113,10 @@ promote: false
 - [[../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]
 - [[../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]
 - [[../03-Guides/stockbee/Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs.md|Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs]]
+- [[../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]
+- [[../03-Guides/stockbee/EP-9-Million.md|EP-9-Million]]
+- [[../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]
+- [[../03-Guides/stockbee/Sugar-Babies.md|Sugar-Babies]]
 - [[../04-Transcripts/stockbee/14. Sugar Babies Guide/Pradeep Bonde - Sugar Babies Guide-Part 10 - Sugar Babies Deeper Look_deepgram.md|Pradeep Bonde - Sugar Babies Guide-Part 10 - Sugar Babies Deeper Look_deepgram]]
 - [[../04-Transcripts/stockbee/14. Sugar Babies Guide/Pradeep Bonde - Sugar Babies Guide-Part 11 - Sugar Babies Revisited_deepgram.md|Pradeep Bonde - Sugar Babies Guide-Part 11 - Sugar Babies Revisited_deepgram]]
 - [[../04-Transcripts/stockbee/18. Mind Clarity Guide/Pradeep Bonde - Mind Clarity Guide-Part 11 - Mind Clarity EP9 million_deepgram.md|Pradeep Bonde - Mind Clarity Guide-Part 11 - Mind Clarity EP9 million_deepgram]]
@@ -120,7 +124,3 @@ promote: false
 - [[../04-Transcripts/stockbee/19. Deep Dive Guide/Pradeep Bonde - Deep Dive Guide-Part 7 - Deep Dive_deepgram.md|Pradeep Bonde - Deep Dive Guide-Part 7 - Deep Dive_deepgram]]
 - [[../04-Transcripts/stockbee/2023-12-21_2-pm.md|2023-12-21_2-pm]]
 - [[../04-Transcripts/stockbee/2023-12-26_2-pm.md|2023-12-26_2-pm]]
-- [[../04-Transcripts/stockbee/2025-07-11_9_15-am.md|2025-07-11_9_15-am]]
-- [[../04-Transcripts/stockbee/2025-07-22_2-pm.md|2025-07-22_2-pm]]
-- [[../04-Transcripts/stockbee/2025-07-30_9_15-am.md|2025-07-30_9_15-am]]
-- [[../04-Transcripts/stockbee/2026-02-18_3-pm.md|2026-02-18_3-pm]]

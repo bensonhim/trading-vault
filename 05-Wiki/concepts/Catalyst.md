@@ -1,16 +1,16 @@
 ---
 title: "Catalyst"
-date: 2026-07-08
+date: 2026-07-16
 tags: [concepts, wiki, auto-compiled]
-mention_count: 3526
-sources_count: 623
+mention_count: 4226
+sources_count: 797
 compilation_count: 1
 promote: false
 ---
 
 # Catalyst
 
-*Concepts — compiled from 3526 mentions across 623 sources.*
+*Concepts — compiled from 4226 mentions across 797 sources.*
 
 ## Mentions
 
@@ -36,6 +36,44 @@ promote: false
 
 > [[../../03-Guides/stockbee/Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs.md|Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs]]: - Use AI tools (Perplexity, Gemini) to quickly analyze the catalyst once a candidate is identified
 
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: ### Two Post-Catalyst Paths
+
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: | Watch list | Created daily from scan; prioritized by catalyst strength |
+
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: | Qualifier 2 | Real catalyst (earnings, product, theme) — NOT just chart pattern |
+
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: | Qualifier 3 | Must have reacted positively to catalyst |
+
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: | Exit | Catalyst-based target, first 4% breakdown, or sell into strength |
+
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: 4. **Check**: Must have reacted positively to catalyst (not 24% breakdown)
+
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: 6. **Prioritize**: 2–3 ideas max, ranked by catalyst strength
+
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: | **Bucket 0/1/2** | IBD growth stocks with real catalyst | Clear catalyst, institutional buying |
+
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: 1. **Catalyst-based price target** — Know how far the stock should go based on catalyst understanding
+
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: - **Victoria's Secret-type catalysts** — Gap up 49% means catalyst is priced in
+
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: 7. **Maximum 2–3 ideas per day** — prioritize by catalyst strength
+
+> [[../../03-Guides/stockbee/EP-9-Million.md|EP-9-Million]]: - Volume itself tells you "there is something important here" — then you find the catalyst
+
+> [[../../03-Guides/stockbee/EP-9-Million.md|EP-9-Million]]: ### Catalysts (Ranked by Impact)
+
+> [[../../03-Guides/stockbee/EP-9-Million.md|EP-9-Million]]: | Rank | Catalyst | Notes |
+
+> [[../../03-Guides/stockbee/EP-9-Million.md|EP-9-Million]]: | Qualifier 2 | Catalyst classification (cat/story/liquidlava) |
+
+> [[../../03-Guides/stockbee/EP-9-Million.md|EP-9-Million]]: | Exit | Catalyst-based target, first 4% breakdown, or sell 80% into strength |
+
+> [[../../03-Guides/stockbee/EP-9-Million.md|EP-9-Million]]: | Classification | Cat (real catalyst), Dog (fugazi/story), LiquidLava (high-volume quality) |
+
+> [[../../03-Guides/stockbee/EP-9-Million.md|EP-9-Million]]: | Premarket | Identify catalyst using Seeking Alpha, Finviz, Grok, ChatGPT |
+
+> [[../../03-Guides/stockbee/EP-9-Million.md|EP-9-Million]]: 2. **Volume confirms importance; catalyst determines magnitude** — find the catalyst after volume signal
+
 > [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 4.md|How to Trade Breakouts Guide-Part 4]]: | Find significant catalyst | Highest V in 252 days | 5–10 candidates |
 
 > [[../../03-Guides/stockbee/04. TI65 Guide/04. TI65 Guide.md|04. TI65 Guide]]: 1. Stock has negative earnings or catalyst
@@ -55,44 +93,6 @@ promote: false
 > [[../../03-Guides/stockbee/13. Episodic Pivots Guide/13. Episodic Pivots Guide.md|13. Episodic Pivots Guide]]: ### 7.4 Catalyst Must Change the Trajectory
 
 > [[../../03-Guides/stockbee/13. Episodic Pivots Guide/13. Episodic Pivots Guide.md|13. Episodic Pivots Guide]]: > "You're looking for a catalyst which is such a major catalyst that it is completely going to change the trajectory of that particular stock." — *Part 1*
-
-> [[../../03-Guides/stockbee/13. Episodic Pivots Guide/13. Episodic Pivots Guide.md|13. Episodic Pivots Guide]]: - [[Catalysts|Catalysts]] — catalyst types, lifespan, validation, what to skip
-
-> [[../../03-Guides/stockbee/15. Start of a Swing Guide/15. Start of a Swing Guide.md|15. Start of a Swing Guide]]: | 100%+ parabolic | 4%+ + 9M volume + catalyst |
-
-> [[../../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]: | **More Time to Analyze** | Not everyone can judge a catalyst in real-time at 9:30 AM |
-
-> [[../../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]: | Stock already up 50%+ from catalyst day | Stock pulled back or consolidated near catalyst-day levels |
-
-> [[../../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]: ## Catalyst: The Non-Negotiable Requirement
-
-> [[../../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]: | Catalyst Type | Examples |
-
-> [[../../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]: ### How to Research Catalysts
-
-> [[../../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]: | **No identifiable catalyst** | If you can't explain why the stock moved, skip it |
-
-> [[../../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]: 3. **Go through list top-down**, research catalyst for each high-volume stock
-
-> [[../../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]: 6. **Remove stocks with no real catalyst** or where the move already happened
-
-> [[../../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]: - Catalyst type
-
-> [[../../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]: | **First valid setup only** | Not second or third leg. The first pullback/consolidation after the catalyst. |
-
-> [[../../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]: | **Volume validates catalyst** | 9M+ on catalyst day = market cares. |
-
-> [[../../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]: - [[Catalysts|Catalysts]] — catalyst types, lifespan, validation, what to skip
-
-> [[../../03-Guides/stockbee/17. Catalyst Guide/17. Catalyst Guide.md|17. Catalyst Guide]]: # Catalyst Guide — Understanding What Really Moves Stocks
-
-> [[../../03-Guides/stockbee/17. Catalyst Guide/17. Catalyst Guide.md|17. Catalyst Guide]]: > **Transcripts:** `[[../transcripts/17. Catalyst Guide/|Catalyst Guide Transcripts]]`
-
-> [[../../03-Guides/stockbee/17. Catalyst Guide/17. Catalyst Guide.md|17. Catalyst Guide]]: **Stocks move based on catalysts — not chart patterns.**
-
-> [[../../03-Guides/stockbee/17. Catalyst Guide/17. Catalyst Guide.md|17. Catalyst Guide]]: ## The Three Dimensions of Every Catalyst
-
-> [[../../03-Guides/stockbee/17. Catalyst Guide/17. Catalyst Guide.md|17. Catalyst Guide]]: > *"Your ability to understand which catalyst is going to make a big move — that is the edge."*
 
 ## Related Concepts
 
@@ -118,9 +118,9 @@ promote: false
 - [[../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]
 - [[../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]
 - [[../03-Guides/stockbee/Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs.md|Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs]]
+- [[../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]
+- [[../03-Guides/stockbee/EP-9-Million.md|EP-9-Million]]
 - [[../04-Transcripts/stockbee/02. How to Trade Breakouts/Pradeep Bonde - How to Trade Breakouts Guide-Part 3_deepgram.md|Pradeep Bonde - How to Trade Breakouts Guide-Part 3_deepgram]]
 - [[../04-Transcripts/stockbee/02. How to Trade Breakouts/Pradeep Bonde - How to Trade Breakouts Guide-Part 4_deepgram.md|Pradeep Bonde - How to Trade Breakouts Guide-Part 4_deepgram]]
 - [[../04-Transcripts/stockbee/02. How to Trade Breakouts/Pradeep Bonde - How to Trade Breakouts Guide-Part 6_deepgram.md|Pradeep Bonde - How to Trade Breakouts Guide-Part 6_deepgram]]
 - [[../04-Transcripts/stockbee/05. M20/Pradeep Bonde - M20 Guide-Part 5_deepgram.md|Pradeep Bonde - M20 Guide-Part 5_deepgram]]
-- [[../04-Transcripts/stockbee/06. DT/Pradeep Bonde - DT Guide-Part 4_deepgram.md|Pradeep Bonde - DT Guide-Part 4_deepgram]]
-- [[../04-Transcripts/stockbee/08. Anticipation (ANTS) Guide/Pradeep Bonde - ANTS Guide-Part 2_deepgram.md|Pradeep Bonde - ANTS Guide-Part 2_deepgram]]

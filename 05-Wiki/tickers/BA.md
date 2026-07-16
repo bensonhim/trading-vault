@@ -1,16 +1,16 @@
 ---
 title: "BA"
-date: 2026-07-08
+date: 2026-07-16
 tags: [tickers, wiki, auto-compiled]
-mention_count: 134
-sources_count: 52
+mention_count: 226
+sources_count: 71
 compilation_count: 1
 promote: false
 ---
 
 # BA
 
-*Tickers — compiled from 134 mentions across 52 sources.*
+*Tickers — compiled from 226 mentions across 71 sources.*
 
 ## Mentions
 

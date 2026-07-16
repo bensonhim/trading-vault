@@ -1,6 +1,6 @@
 ---
 title: "Catalyst Lifespan"
-date: 2026-07-08
+date: 2026-07-16
 tags: [concepts, wiki, auto-compiled]
 mention_count: 5
 sources_count: 3

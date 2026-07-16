@@ -1,16 +1,16 @@
 ---
 title: "Anticipation"
-date: 2026-07-08
+date: 2026-07-16
 tags: [concepts, wiki, auto-compiled]
-mention_count: 12387
-sources_count: 992
+mention_count: 13032
+sources_count: 1174
 compilation_count: 1
 promote: false
 ---
 
 # Anticipation
 
-*Concepts — compiled from 12387 mentions across 992 sources.*
+*Concepts — compiled from 13032 mentions across 1174 sources.*
 
 ## Mentions
 
@@ -29,6 +29,16 @@ promote: false
 > [[../../03-Guides/stockbee/23. Bearish Trading Guide.md|23. Bearish Trading Guide]]: | **Wayfair** | Apr 2025 | Revenue model reliant on Chinese furniture imports | Potentially bankrupt if tariffs remain |
 
 > [[../../03-Guides/stockbee/23. Bearish Trading Guide.md|23. Bearish Trading Guide]]: > "Where is the big money trade here? We are mercenaries. We just want to get paid. Whether it goes down, whether it goes up, who cares?"
+
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: - Those who want **controlled risk with large size**
+
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: - Anyone who wants to move their account in bigger increments
+
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: | Filter | Description | Advantage |
+
+> [[../../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]: 5. **Market orders** — Use when you want the whole setup; enter early in first 10–15 minutes
+
+> [[../../03-Guides/stockbee/Sugar-Babies.md|Sugar-Babies]]: | Scan type | Sorted by `nby5`, `nby10`, `nby20` with minimum count of 3 |
 
 > [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 1.md|How to Get Started In Trading Guide-Part 1]]: If you can't answer "what am I in it for?" with conviction, you're likely wasting time and money.
 
@@ -83,16 +93,6 @@ promote: false
 > [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 8.md|How to Get Started In Trading Guide-Part 8]]: - Match.com (hesitant but considered)
 
 > [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 8.md|How to Get Started In Trading Guide-Part 8]]: - Roth IRA only — tax-advantaged compounding
-
-> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 8.md|How to Get Started In Trading Guide-Part 8]]: - **Phillips 66** (energy/refining) — boring, but guaranteed to exist in 20 years
-
-> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 8.md|How to Get Started In Trading Guide-Part 8]]: 3. **Consumer > Enterprise for long-term holds.** Consumer brands (Netflix, Apple, Disney, Nike) have staying power. Enterprise tech (Okta, Cisco, Cognizant) faces substitution risk.
-
-> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md|How to Trade Breakouts Guide-Part 1]]: ### 4. The Most Important Rule — Enter on Day 1 ONLY
-
-> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md|How to Trade Breakouts Guide-Part 1]]: This is the single most important practical rule in the session.
-
-> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md|How to Trade Breakouts Guide-Part 1]]: > "If you decide that you want to risk less, then you have to go higher priced."
 
 ## Related Concepts
 

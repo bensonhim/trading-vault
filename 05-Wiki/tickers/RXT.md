@@ -1,16 +1,16 @@
 ---
 title: "RXT"
-date: 2026-07-08
+date: 2026-07-16
 tags: [tickers, wiki, auto-compiled]
-mention_count: 44
-sources_count: 26
+mention_count: 51
+sources_count: 30
 compilation_count: 1
 promote: false
 ---
 
 # RXT
 
-*Tickers — compiled from 44 mentions across 26 sources.*
+*Tickers — compiled from 51 mentions across 30 sources.*
 
 ## Mentions
 
@@ -66,6 +66,20 @@ promote: false
 
 > [[../../04-Transcripts/stockbee/videos/2026-05-16_sugar-babies-deeper-look.md|2026-05-16_sugar-babies-deeper-look]]: If you see, this RXT is a low priced one, but, right, another big one.
 
+> [[../../06-Daily/stockbee/Sessions/Session-2026-01-09.md|Session-2026-01-09]]: ### RXT (Richtech Robotics): The Story Stock Example
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-01-09.md|Session-2026-01-09]]: | [[RXT]] | Story stock / No revenue | "$1.2M revenue is just interest on raised capital" |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-01-27.md|Session-2026-01-27]]: ### RXT (Richtech Robotics): The Best Setup
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-01-27.md|Session-2026-01-27]]: 5. **RXT with 100M+ shares = must have position.** High volume conviction plays.
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-01-28.md|Session-2026-01-28]]: | RXT | Long | Delayed reaction | 134M shares — must have position |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-01-30.md|Session-2026-01-30]]: ### RXT Lesson: Fugazi Catalyst
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-01-30.md|Session-2026-01-30]]: | [[RXT]] | Fugazi catalyst | Avoid | Fake Microsoft partnership |
+
 > [[../../06-Daily/stockbee/Sessions/Session-2026-05-09.md|Session-2026-05-09]]: | [[RXT]] | AI science contract with [[AMD]] | +55% (day 1), continued day 2 | Classic SIPs — clear catalyst, huge short squeeze |
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-05-09.md|Session-2026-05-09]]: | 3 | **Short interest** | Higher = better; 5+ days to cover is good. RXT had 22% of float short |
@@ -79,20 +93,6 @@ promote: false
 > [[../../06-Daily/stockbee/Sessions/Session-2026-05-11.md|Session-2026-05-11]]: | [[RXT]] | Exhaustion signal | "Classic exhaustion signal" if it closes like that |
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-05-11.md|Session-2026-05-11]]: [[RXT]], [[COHR]] (Coherent) were flagged as exhaustion signals. The pattern: extended stocks in AI/data center theme reaching parabolic extremes.
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-22.md|Session-2026-05-22]]: The sugar babies that broke out three days ago: [[ASTS]], [[NVTS]], [[SOUN]] (SoundHound), [[Carvana]], [[BTBT]], [[CLFK]], [[RXT]], [[SATL]] (Satellite Logic). Pradeep added Sugar Babies as a **fourth tab** in his scanning workflow, sorted by volume, for pre-market review.
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-10.md|Session-2026-06-10]]: | [[RXT]]            | EP 9M / Sugar Baby    | AI signs contract with AMD — clear catalyst. Tight structure. Story stock. Better than [[DELL]] because of tightness + catalyst.                                                            |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-10.md|Session-2026-06-10]]: **What is NOT a DEP** (correcting a member calling [[RXT]] a DEP):
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-10.md|Session-2026-06-10]]: [[RXT]] at $5.03 is a **story stock** that was on the verge of bankruptcy, then signed an AMD contract. It's not institutional quality (not owned by 1,000+ funds). It's an EP 9M / Sugar Baby — NOT a DEP.
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-10.md|Session-2026-06-10]]: 1. **Stock-specific catalyst** — earnings ([[AVGO]]), contracts ([[RXT]]/AMD)
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-10.md|Session-2026-06-10]]: 2. **DEP requires institutional quality**: Owned by 1,000+ funds, real catalyst within one month, first setup after catalyst. Story stocks like [[RXT]] at $5 are NOT DEP — they're EP 9M / Sugar Baby.
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-10.md|Session-2026-06-10]]: [[SNOW]] · [[RXT]] · [[AVGO]] · [[DELL]] · [[GLW]] · [[OKTA]] · [[NVDA]] · [[META]] · [[AMD]] · [[MSI]] · [[SHOP]] · [[CCL]] · [[NCLH]] · [[HON]] · [[TNA]] · [[IWM]] · [[SPX]] · [[COMP]] · [[BTC]] · [[LIII]]
 
 ## Related Concepts
 

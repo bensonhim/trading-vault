@@ -1,33 +1,38 @@
 ---
 title: "LOW"
-date: 2026-06-14
+date: 2026-07-16
 tags: [tickers, wiki, auto-compiled]
-mention_count: 7
-sources_count: 3
+mention_count: 10
+sources_count: 6
 compilation_count: 1
 promote: false
 ---
 
 # LOW
 
-*Tickers — compiled from 7 mentions across 3 sources.*
+*Tickers — compiled from 10 mentions across 6 sources.*
 
 ## Mentions
 
-> This indicated a flood of IPOs, many low-quality, pushed into a market of willing buyers.
+> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 1.md|Bullish Momentum Burst Guide-Section 1]]: **Reality:** ADR is backward-looking. Before a burst, a stock has LOW ADR. The burst CAUSES the high ADR.
 
-> When it became a bubble kind of an environment, whenever there is a bubble, when the bubble burst, you get a duration bearish market of 18, 19, 20, 24 months." — Part 7 When the number of stocks drops very low, it takes many years for the market to reach previous highs.
+> [[../../06-Daily/stockbee/Sessions/Session-2025-08-20.md|Session-2025-08-20]]: | [[LOW]] (Lowe's) | Day trade — earnings play | "Range $6-7, day traders can capture" |
 
-> Low supply + high demand = sustained bull markets.
+> [[../../06-Daily/stockbee/Sessions/Session-2026-01-28.md|Session-2026-01-28]]: XRT down 3 days in a row. [[TJX]], [[COST]], [[HD]], [[LOW]] all correcting. Consumer confidence weakening.
 
-> But typically, market bottoms below 20 when that figure reaches very low." — Part 8 - March 2020: T2108 reached single digits - 2008–2009: T2108 hit 1.6% near the bottom > "In 2008–2009, it reached single digit.
+> [[../../06-Daily/stockbee/Sessions/Session-2026-02-04.md|Session-2026-02-04]]: ### LOW (Lowe's): Real Turnaround?
 
-> Low float + High short interest — explosive squeeze potential 5.
+> [[../../06-Daily/stockbee/Sessions/Session-2026-02-04.md|Session-2026-02-04]]: | LOW | Long | Turnaround | Real earnings improvement, multi-quarter runner |
 
-> Check float and short interest — low float + high short interest = max explosiveness 7.
+> [[../../06-Daily/stockbee/Sessions/Session-2026-02-13.md|Session-2026-02-13]]: 4. **Home builders showing breadth** — [[ITB]], [[NAIL]], [[HD]], [[LOW]], [[MTH]], [[KBH]] — but already extended
 
-> [52:25] That's some low price stock.
+> [[../../06-Daily/stockbee/Sessions/Session-2026-02-13.md|Session-2026-02-13]]: - [[LOW]] — continuation setup
 
+> [[../../06-Daily/stockbee/Sessions/Session-2026-02-13.md|Session-2026-02-13]]: 1. **Home builders and utilities = where breadth is going** — [[MTH]], [[KBH]], [[ITB]], [[NAIL]], [[LOW]], [[XLU]]
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-02-17.md|Session-2026-02-17]]: - [[LOW]] — delayed reaction short
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-02-17.md|Session-2026-02-17]]: 1. **Short setups dominate** — WMT, XLP, KHC, ORLY, LOW all short
 
 ## Related Concepts
 
@@ -39,6 +44,9 @@ promote: false
 
 ## Sources
 
-- [[11. Market Monitor Guide]]
-- [[17. Catalyst Guide]]
-- [[2026-06-12_9_15-am]]
+- [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 1.md|Bullish Momentum Burst Guide-Section 1]]
+- [[../06-Daily/stockbee/Sessions/Session-2025-08-20.md|Session-2025-08-20]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-01-28.md|Session-2026-01-28]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-02-04.md|Session-2026-02-04]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-02-13.md|Session-2026-02-13]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-02-17.md|Session-2026-02-17]]

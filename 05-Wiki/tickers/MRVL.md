@@ -1,20 +1,48 @@
 ---
 title: "MRVL"
-date: 2026-07-08
+date: 2026-07-16
 tags: [tickers, wiki, auto-compiled]
-mention_count: 21
-sources_count: 12
+mention_count: 35
+sources_count: 19
 compilation_count: 1
 promote: false
 ---
 
 # MRVL
 
-*Tickers — compiled from 21 mentions across 12 sources.*
+*Tickers — compiled from 35 mentions across 19 sources.*
 
 ## Mentions
 
 > [[../../04-Transcripts/stockbee/videos/2026-03-08_momentum-watchlist.md|2026-03-08_momentum-watchlist]]: Like, say, let's say, like, an MRVL had a catalyst.
+
+> [[../../06-Daily/stockbee/Sessions/Session-2024-01-11.md|Session-2024-01-11]]: | Long | [[MRVL]] (Marvell) | Continuation / liquid lava | Nice breakout, but up 4 days — selective |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2024-01-11.md|Session-2024-01-11]]: | Long | [[MRVL]] | 9M EP | 4M volume, possible |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2024-01-11.md|Session-2024-01-11]]: | Long | [[MRVL]] | Continuation | Liquid lava, but selective only |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2024-02-29.md|Session-2024-02-29]]: | [[MRVL]] | Earnings | Semi, continuation possible |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2024-02-29.md|Session-2024-02-29]]: | [[MRVL]] | Semi continuation | |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-02.md|Session-2025-01-02]]: - **Marvel (MRVL)**: delayed reaction, clear earnings catalyst — Pradeep's favorite entry of the day
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-02.md|Session-2025-01-02]]: 2. **Marvel (MRVL)** — still bullish despite stopped out, delayed reaction remains valid
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-02.md|Session-2025-01-02]]: 9. **Top 5 watchlist: GOOGL, MRVL, CRDO, GDS, RH** — anticipation setups for next day
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-02.md|Session-2025-01-02]]: | [[MRVL]] | Delayed reaction | Earnings | Stopped out at breakeven, still bullish |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-03.md|Session-2025-01-03]]: | [[MRVL]] | Delayed reaction | Earnings | Stopped out 2¢ below buy point, then recovered |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-13.md|Session-2025-01-13]]: - Marvel (MRVL): reselling catalyst, watching
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-13.md|Session-2025-01-13]]: | [[MRVL]] | Must-watch / delayed reaction | Reselling catalyst | Watching for setup |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-14.md|Session-2025-01-14]]: | [[MRVL]] | Continuation | Reselling catalyst | Watching, but market conditions wrong |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-08-06.md|Session-2025-08-06]]: Long watchlist: [[SHOP]] (delayed reaction), [[MRVL]] (already in watchlist, delayed reaction), [[IR]] (delayed reaction), [[BL]] (software), [[ILMN]] (delayed reaction), [[HIMS]] (delayed reaction).
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-05-01.md|Session-2026-05-01]]: | [[MRVL]] | Fourth day of a move. "Where were you during the move?" No setup left |
 
@@ -67,6 +95,13 @@ promote: false
 ## Sources
 
 - [[../04-Transcripts/stockbee/videos/2026-03-08_momentum-watchlist.md|2026-03-08_momentum-watchlist]]
+- [[../06-Daily/stockbee/Sessions/Session-2024-01-11.md|Session-2024-01-11]]
+- [[../06-Daily/stockbee/Sessions/Session-2024-02-29.md|Session-2024-02-29]]
+- [[../06-Daily/stockbee/Sessions/Session-2025-01-02.md|Session-2025-01-02]]
+- [[../06-Daily/stockbee/Sessions/Session-2025-01-03.md|Session-2025-01-03]]
+- [[../06-Daily/stockbee/Sessions/Session-2025-01-13.md|Session-2025-01-13]]
+- [[../06-Daily/stockbee/Sessions/Session-2025-01-14.md|Session-2025-01-14]]
+- [[../06-Daily/stockbee/Sessions/Session-2025-08-06.md|Session-2025-08-06]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-05-01.md|Session-2026-05-01]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-05-05.md|Session-2026-05-05]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-05-13.md|Session-2026-05-13]]

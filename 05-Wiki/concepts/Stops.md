@@ -1,16 +1,16 @@
 ---
 title: "Stops"
-date: 2026-07-08
+date: 2026-07-16
 tags: [concepts, wiki, auto-compiled]
-mention_count: 619
-sources_count: 323
+mention_count: 734
+sources_count: 396
 compilation_count: 1
 promote: false
 ---
 
 # Stops
 
-*Concepts — compiled from 619 mentions across 323 sources.*
+*Concepts — compiled from 734 mentions across 396 sources.*
 
 ## Mentions
 
@@ -31,6 +31,14 @@ promote: false
 > [[../../03-Guides/stockbee/Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs.md|Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs]]: 6. **Manage:** Move to break even quickly; trail stops based on conviction and price targets
 
 > [[../../03-Guides/stockbee/Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs.md|Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs]]: So once it started making that kind of a move is when I started moving my stop. So I moved my stop here. Then I moved my stop here to the low of this day. Then I moved my stop to the low of this day.
+
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: | Stop size | 8–10% | **2.5% or less** |
+
+> [[../../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]: 4. **Structural stops** — For slow-moving stocks: move stop to low of breakout day, then advance on each new breakout
+
+> [[../../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]: 5. **FHP (High-Priced) variant allows larger position sizing** with closer stops
+
+> [[../../03-Guides/stockbee/Sugar-Babies.md|Sugar-Babies]]: 7. **Move stops rapidly** on fast-movers; use structural stops on slow movers
 
 > [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 4.md|How to Get Started In Trading Guide-Part 4]]: - How do they put stops?
 
@@ -85,14 +93,6 @@ promote: false
 > [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 7.md|Bullish Momentum Burst Guide-Section 7]]: | "Higher price = more risk" | Actually **less** volatile; tighter stops possible |
 
 > [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 7.md|Bullish Momentum Burst Guide-Section 7]]: 4. Enter with half-range stops (1–2.5% risk)
-
-> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 7.md|Bullish Momentum Burst Guide-Section 7]]: - [[Stops|Stops]] — stop placement by setup type, width, management
-
-> [[../../03-Guides/stockbee/06. DT Guide/06. DT Guide.md|06. DT Guide]]: | **Stop loss** | Place at the **low of the box** |
-
-> [[../../03-Guides/stockbee/08. Anticipation (ANTS) Guide/08. Anticipation (ANTS) Guide.md|08. Anticipation (ANTS) Guide]]: - **Lower-price stocks (<$10)** require wider stops because 0.4% on an $8 stock is just 1–2 cents — for these, adjust the filter to ±1% or ±1.5%
-
-> [[../../03-Guides/stockbee/08. Anticipation (ANTS) Guide/08. Anticipation (ANTS) Guide.md|08. Anticipation (ANTS) Guide]]: - [[Stops|Stops]] — stop placement by setup type, width, management
 
 ## Related Concepts
 

@@ -1,16 +1,16 @@
 ---
 title: "Weak Structure Short"
-date: 2026-07-08
+date: 2026-07-16
 tags: [concepts, wiki, auto-compiled]
-mention_count: 350
-sources_count: 199
+mention_count: 461
+sources_count: 251
 compilation_count: 1
 promote: false
 ---
 
 # Weak Structure Short
 
-*Concepts — compiled from 350 mentions across 199 sources.*
+*Concepts — compiled from 461 mentions across 251 sources.*
 
 ## Mentions
 

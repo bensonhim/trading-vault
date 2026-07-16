@@ -1,18 +1,24 @@
 ---
 title: "DELL"
-date: 2026-07-08
+date: 2026-07-16
 tags: [tickers, wiki, auto-compiled]
-mention_count: 32
-sources_count: 16
+mention_count: 35
+sources_count: 18
 compilation_count: 1
 promote: false
 ---
 
 # DELL
 
-*Tickers — compiled from 32 mentions across 16 sources.*
+*Tickers — compiled from 35 mentions across 18 sources.*
 
 ## Mentions
+
+> [[../../03-Guides/stockbee/Sugar-Babies.md|Sugar-Babies]]: | DELL | Current Sugar Baby; tight setup entries |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-08-29.md|Session-2025-08-29]]: | [[DELL]] | Short — delayed reaction bearish | "Insiders selling hand over fist" |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-08-29.md|Session-2025-08-29]]: 10. **DELL insiders selling hand over fist** — delayed reaction bearish
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-06-01.md|Session-2026-06-01]]: A long-time member blew up his entire account by shorting [[DELL]] — an extended stock with no bearish setup.
 
@@ -88,6 +94,8 @@ promote: false
 
 ## Sources
 
+- [[../03-Guides/stockbee/Sugar-Babies.md|Sugar-Babies]]
+- [[../06-Daily/stockbee/Sessions/Session-2025-08-29.md|Session-2025-08-29]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-06-01.md|Session-2026-06-01]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-06-05.md|Session-2026-06-05]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-06-08.md|Session-2026-06-08]]

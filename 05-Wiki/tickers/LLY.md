@@ -1,16 +1,16 @@
 ---
 title: "LLY"
-date: 2026-07-08
+date: 2026-07-16
 tags: [tickers, wiki, auto-compiled]
-mention_count: 28
-sources_count: 15
+mention_count: 76
+sources_count: 32
 compilation_count: 1
 promote: false
 ---
 
 # LLY
 
-*Tickers — compiled from 28 mentions across 15 sources.*
+*Tickers — compiled from 76 mentions across 32 sources.*
 
 ## Mentions
 
@@ -64,11 +64,35 @@ promote: false
 
 > [[../../04-Transcripts/stockbee/videos/2026-02-04_x-ray-reading.md|2026-02-04_x-ray-reading]]: [114:32] LLY still worked.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-24.md|Session-2026-06-24]]: | [[LLY]] | One of the few holding |
+> [[../../06-Daily/stockbee/Sessions/Session-2023-11-03.md|Session-2023-11-03]]: | [[LLY]] | Delayed Earnings Reaction | ✅ Good setup | Eli Lilly |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-25.md|Session-2026-06-25]]: But if [[GOOG]] is going to go up, it will show up in EP 9M scans — react then, don't predict. The Anthropic founder naming [[Tempus AI]] and [[LLY]] (Eli Lilly) as the two AI beneficiaries was noted as a recurring narrative catalyst.
+> [[../../06-Daily/stockbee/Sessions/Session-2023-11-06.md|Session-2023-11-06]]: | [[LLY]] | Delayed Earnings Reaction | Good setup, sold for 60%+ profit |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-26.md|Session-2026-06-26]]: | [[LLY]] | News catalyst | European CHMP recommendation for chronic lymphocytic leukemia |
+> [[../../06-Daily/stockbee/Sessions/Session-2023-11-06.md|Session-2023-11-06]]: | [[LLY]] | Delayed Earnings | ✅ Took profit | Sold all for 60%+ |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2024-02-07.md|Session-2024-02-07]]: | [[LLY]] | Consolidation | Low volume | Thinly traded |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2024-08-20.md|Session-2024-08-20]]: | [[LLY]] | Anticipation (missed) | ❌ Hesitated | Ideal entry was yesterday, not today. |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2024-08-26.md|Session-2024-08-26]]: | [[LLY]] | Anticipation (high-priced) | ✅ #1 idea | Highest priced, tight NC, most fund ownership |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2024-08-27.md|Session-2024-08-27]]: LLY was the #1 anticipation idea from Friday. It opened up ~$20, then faded all day. This is THE anticipation pattern:
+
+> [[../../06-Daily/stockbee/Sessions/Session-2024-08-27.md|Session-2024-08-27]]: LLY went down to $9.18 in premarket — meaningless. Wait for market open.
+
+> [[../../06-Daily/stockbee/Sessions/Session-2024-08-27.md|Session-2024-08-27]]: Member moved stop on LLY too tight (below the open) and got stopped out on a small wick. **Give stocks room to run**, especially with catalysts.
+
+> [[../../06-Daily/stockbee/Sessions/Session-2024-08-27.md|Session-2024-08-27]]: Member asked about volume confirmation on LLY. Pradeep was emphatic:
+
+> [[../../06-Daily/stockbee/Sessions/Session-2024-08-27.md|Session-2024-08-27]]: | [[LLY]] | Anticipation (high-priced, catalyst) | ✅ Worked 5 min | Popped $20, then faded. Only valid entry: day before or open. Too late after that. |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2024-08-29.md|Session-2024-08-29]]: | [[LLY]] | Anticipation (context) | ⚠️ Fading | Still fading from yesterday, entire morning faded |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-14.md|Session-2025-01-14]]: # Weak Bounce, LLY SIPs Missed, Focus on Biotech/Tech Sub-$1B
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-14.md|Session-2025-01-14]]: Day 5 of decline. Market tried to bounce but couldn't convince — "ideal setup for a bounce, but no buyers." T2108 ticked up to 21.99 from 20.41. Eli Lilly earnings miss created the **best SIPs opportunity of the week** and most members missed it because they don't look at short-side SIPs. Pradeep adds LLY to must-watch list for potential $100-200 move. Small cap session announced for 5:30 PM.
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-14.md|Session-2025-01-14]]: ## 11 AM Meeting — LLY Missed, Weak Bounce, Watch List Philosophy
 
 ## Related Concepts
 
@@ -92,6 +116,11 @@ promote: false
 - [[../04-Transcripts/stockbee/2026-01-21_3-pm.md|2026-01-21_3-pm]]
 - [[../04-Transcripts/stockbee/2026-02-04_9_15-am.md|2026-02-04_9_15-am]]
 - [[../04-Transcripts/stockbee/videos/2026-02-04_x-ray-reading.md|2026-02-04_x-ray-reading]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-06-24.md|Session-2026-06-24]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-06-25.md|Session-2026-06-25]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-06-26.md|Session-2026-06-26]]
+- [[../06-Daily/stockbee/Sessions/Session-2023-11-03.md|Session-2023-11-03]]
+- [[../06-Daily/stockbee/Sessions/Session-2023-11-06.md|Session-2023-11-06]]
+- [[../06-Daily/stockbee/Sessions/Session-2024-02-07.md|Session-2024-02-07]]
+- [[../06-Daily/stockbee/Sessions/Session-2024-08-20.md|Session-2024-08-20]]
+- [[../06-Daily/stockbee/Sessions/Session-2024-08-26.md|Session-2024-08-26]]
+- [[../06-Daily/stockbee/Sessions/Session-2024-08-27.md|Session-2024-08-27]]
+- [[../06-Daily/stockbee/Sessions/Session-2024-08-29.md|Session-2024-08-29]]
+- [[../06-Daily/stockbee/Sessions/Session-2025-01-14.md|Session-2025-01-14]]

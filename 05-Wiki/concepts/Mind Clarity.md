@@ -1,16 +1,16 @@
 ---
 title: "Mind Clarity"
-date: 2026-07-08
+date: 2026-07-16
 tags: [concepts, wiki, auto-compiled]
-mention_count: 1323
-sources_count: 439
+mention_count: 1389
+sources_count: 482
 compilation_count: 1
 promote: false
 ---
 
 # Mind Clarity
 
-*Concepts — compiled from 1323 mentions across 439 sources.*
+*Concepts — compiled from 1389 mentions across 482 sources.*
 
 ## Mentions
 
@@ -21,6 +21,10 @@ promote: false
 > [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: - [[Mentality|Mentality]] — trading psychology, discipline, and mindset for consistent execution
 
 > [[../../03-Guides/stockbee/23. Bearish Trading Guide.md|23. Bearish Trading Guide]]: > "Focus on perfecting your setup and fine tuning and fine tuning. Don't worry about others. What is the big money trade here? That is the only single-minded question which I'm asking."
+
+> [[../../03-Guides/stockbee/EP-9-Million.md|EP-9-Million]]: > "You want to see something which is really mind-blowing. If you want to see what massive looks like — SNDK: 61, 644, 7900%, 11000%, 3300%, 600. That's massive." — 2026-06-13
+
+> [[../../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]: | 2026-05-01 | Mind Clarity FHP Breakout | High-priced variant |
 
 > [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 1.md|How to Get Started In Trading Guide-Part 1]]: | **Part 1** | Foundations & Mindset | Why are you trading? Can you afford it? |
 
@@ -90,10 +94,6 @@ promote: false
 
 > [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: *Compiled from 13-part Mind Clarity video series (Jan 2024 – May 2026). All transcript references: `[[../transcripts/18. Mind Clarity Guide/|Mind Clarity Transcripts]]`*
 
-> [[../../04-Transcripts/stockbee/2023-11-01_2-pm.md|2023-11-01_2-pm]]: And, you know, the mind's eye goes to the 8% near 8%, mortgage rate, which which could have, you know, pretty significant effect on housing.
-
-> [[../../04-Transcripts/stockbee/2023-11-03_2-pm.md|2023-11-03_2-pm]]: And, basically, so you just little bit of mind clarity about linearity is such an essential skill.
-
 ## Related Concepts
 
 *(To be enriched)*
@@ -122,5 +122,5 @@ promote: false
 - [[../03-Guides/stockbee/19. Deep Dive Guide.md|19. Deep Dive Guide]]
 - [[../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]
 - [[../03-Guides/stockbee/23. Bearish Trading Guide.md|23. Bearish Trading Guide]]
-- [[../04-Transcripts/stockbee/01. How to Get Started/Pradeep Bonde - How to Get Started In Trading Guide-Part 1_deepgram.md|Pradeep Bonde - How to Get Started In Trading Guide-Part 1_deepgram]]
-- [[../04-Transcripts/stockbee/01. How to Get Started/Pradeep Bonde - How to Get Started In Trading Guide-Part 2_deepgram.md|Pradeep Bonde - How to Get Started In Trading Guide-Part 2_deepgram]]
+- [[../03-Guides/stockbee/EP-9-Million.md|EP-9-Million]]
+- [[../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]

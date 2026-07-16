@@ -1,16 +1,16 @@
 ---
 title: "DAL"
-date: 2026-07-08
+date: 2026-07-16
 tags: [tickers, wiki, auto-compiled]
-mention_count: 20
-sources_count: 10
+mention_count: 48
+sources_count: 25
 compilation_count: 1
 promote: false
 ---
 
 # DAL
 
-*Tickers — compiled from 20 mentions across 10 sources.*
+*Tickers — compiled from 48 mentions across 25 sources.*
 
 ## Mentions
 
@@ -50,9 +50,49 @@ promote: false
 
 > [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-27_e2fe97ec-52f8-4ada-8bf2-336b06e17700_deepgram.md|meeting_2026-05-27_e2fe97ec-52f8-4ada-8bf2-336b06e17700_deepgram]]: You had, like, DAL, you had CCL, all of the n e p nine million.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-20.md|Session-2026-05-20]]: | [[DAL]] (Delta) | Lower oil = airline profitability | Clear airline ETF breakout |
+> [[../../06-Daily/stockbee/Sessions/Session-2024-01-12.md|Session-2024-01-12]]: | Long | [[DAL]] | SIPs (airlines earnings) | Earnings play, but faded after gap |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-21.md|Session-2026-05-21]]: | Airlines (JETS, DAL, etc.)       | Based on Iran/oil rumor                             | Speculative, tricky unless long-term hold                                |
+> [[../../06-Daily/stockbee/Sessions/Session-2024-01-16.md|Session-2024-01-16]]: - DAL short: worked
+
+> [[../../06-Daily/stockbee/Sessions/Session-2024-01-17.md|Session-2024-01-17]]: - **Short side** working — BA, DAL
+
+> [[../../06-Daily/stockbee/Sessions/Session-2024-01-18.md|Session-2024-01-18]]: - [[DAL]] — watching closely, want to put real size on it
+
+> [[../../06-Daily/stockbee/Sessions/Session-2024-01-18.md|Session-2024-01-18]]: 8. **DAL** — watching for second trade with real size
+
+> [[../../06-Daily/stockbee/Sessions/Session-2024-01-19.md|Session-2024-01-19]]: Pradeep's best trade of the week. SMCI gapped down on pre-earnings release, he shorted at open with a $1 stop, 80/20'd out at $410/$415, free money on the remainder. Then added DAL short as delayed reaction. SA flipped short-term bullish (20% study at single digits = bounce), but the lesson was process over prediction.
+
+> [[../../06-Daily/stockbee/Sessions/Session-2024-01-19.md|Session-2024-01-19]]: ### DAL Short = Second Trade
+
+> [[../../06-Daily/stockbee/Sessions/Session-2024-01-19.md|Session-2024-01-19]]: After SMCI was done, DAL (delayed reaction to earnings) was already on the screen. Shorted DAL with breakeven stop.
+
+> [[../../06-Daily/stockbee/Sessions/Session-2024-01-19.md|Session-2024-01-19]]: After SMCI was done, DAL (delayed reaction to earnings) was already on the screen. Shorted DAL with breakeven stop.
+
+> [[../../06-Daily/stockbee/Sessions/Session-2024-01-19.md|Session-2024-01-19]]: | Short | [[DAL]] | Delayed reaction | Already in, breakeven stop |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2024-01-19.md|Session-2024-01-19]]: 7. **DAL short = second trade** — delayed reaction to earnings, breakeven stop
+
+> [[../../06-Daily/stockbee/Sessions/Session-2024-01-22.md|Session-2024-01-22]]: - [[DAL]]: 42M volume, earnings = valid delayed reaction
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-13.md|Session-2025-01-13]]: - Airlines (DAL, UAL): cyclical — best earnings when everything looks good
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-13.md|Session-2025-01-13]]: ### Delta Airlines (DAL) — Cyclical Trap
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-13.md|Session-2025-01-13]]: | [[DAL]] / [[UAL]] | Cyclical trap | Earnings at peak | Don't buy cyclical stocks at peak earnings |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-15.md|Session-2025-01-15]]: - DAL: had catalyst AND consolidation breakout — still failed
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-15.md|Session-2025-01-15]]: 9. **Consolidation breakouts fail without catalyst** — DAL had catalyst and still failed
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-16.md|Session-2025-01-16]]: - DAL had catalyst AND consolidation breakout — still failed
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-07-10.md|Session-2025-07-10]]: 6. **Airlines in play** — [[DAL]], [[UAL]], [[AAL]] on earnings sympathy
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-07-10.md|Session-2025-07-10]]: | [[DAL]] | 9M breakout | Delta Airlines |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-07-10.md|Session-2025-07-10]]: 3. **Airlines in play** — [[DAL]], [[UAL]], [[ALK]] all showing setups
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-07-10.md|Session-2025-07-10]]: | [[DAL]] | 9M breakout | ✅ Airlines play | Delta — 8-9% historical earnings reaction |
 
 ## Related Concepts
 
@@ -72,5 +112,15 @@ promote: false
 - [[../04-Transcripts/stockbee/2026-02-25_9_15-am.md|2026-02-25_9_15-am]]
 - [[../04-Transcripts/stockbee/2026-05-27_3-pm.md|2026-05-27_3-pm]]
 - [[../04-Transcripts/stockbee/Meetings/meeting_2026-05-27_e2fe97ec-52f8-4ada-8bf2-336b06e17700_deepgram.md|meeting_2026-05-27_e2fe97ec-52f8-4ada-8bf2-336b06e17700_deepgram]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-05-20.md|Session-2026-05-20]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-05-21.md|Session-2026-05-21]]
+- [[../06-Daily/stockbee/Sessions/Session-2024-01-12.md|Session-2024-01-12]]
+- [[../06-Daily/stockbee/Sessions/Session-2024-01-16.md|Session-2024-01-16]]
+- [[../06-Daily/stockbee/Sessions/Session-2024-01-17.md|Session-2024-01-17]]
+- [[../06-Daily/stockbee/Sessions/Session-2024-01-18.md|Session-2024-01-18]]
+- [[../06-Daily/stockbee/Sessions/Session-2024-01-19.md|Session-2024-01-19]]
+- [[../06-Daily/stockbee/Sessions/Session-2024-01-22.md|Session-2024-01-22]]
+- [[../06-Daily/stockbee/Sessions/Session-2025-01-13.md|Session-2025-01-13]]
+- [[../06-Daily/stockbee/Sessions/Session-2025-01-15.md|Session-2025-01-15]]
+- [[../06-Daily/stockbee/Sessions/Session-2025-01-16.md|Session-2025-01-16]]
+- [[../06-Daily/stockbee/Sessions/Session-2025-07-10.md|Session-2025-07-10]]
+- [[../06-Daily/stockbee/Sessions/Session-2025-07-14.md|Session-2025-07-14]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-01-05.md|Session-2026-01-05]]

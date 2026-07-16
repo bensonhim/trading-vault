@@ -1,16 +1,16 @@
 ---
 title: "Deep Dive"
-date: 2026-07-08
+date: 2026-07-16
 tags: [setups, wiki, auto-compiled]
-mention_count: 1001
-sources_count: 275
+mention_count: 1072
+sources_count: 311
 compilation_count: 1
 promote: false
 ---
 
 # Deep Dive
 
-*Setups — compiled from 1001 mentions across 275 sources.*
+*Setups — compiled from 1072 mentions across 311 sources.*
 
 ## Mentions
 
@@ -78,6 +78,8 @@ promote: false
 
 > [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: - [[Pradeep Bonde — Guide 19 Deep Dive]]
 
+> [[../../03-Guides/stockbee/EP-9-Million.md|EP-9-Million]]: | 2026-05-24 | Delayed Reactions EP | DEP deep dive |
+
 > [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 1.md|How to Get Started In Trading Guide-Part 1]]: | **Part 5** | Swing Trading Deep Dive | Only 3 setups exist — breakout, anticipation, pullback |
 
 > [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 1.md|How to Get Started In Trading Guide-Part 1]]: | **Part 6** | Day Trading Deep Dive | Same 3 setups at 10× speed, plus fade/gap/news plays |
@@ -91,8 +93,6 @@ promote: false
 > [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 3.md|How to Get Started In Trading Guide-Part 3]]: | **Part 6** | Day Trading Deep Dive | Same 3 setups at 10× speed, plus fade/gap/news plays |
 
 > [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 4.md|How to Get Started In Trading Guide-Part 4]]: | **Part 5** | Swing Trading Deep Dive | Only 3 setups exist — breakout, anticipation, pullback |
-
-> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 4.md|How to Get Started In Trading Guide-Part 4]]: | **Part 6** | Day Trading Deep Dive | Same 3 setups at 10× speed, plus fade/gap/news plays |
 
 ## Related Concepts
 

@@ -1,18 +1,22 @@
 ---
 title: "GLW"
-date: 2026-07-08
+date: 2026-07-16
 tags: [tickers, wiki, auto-compiled]
-mention_count: 309
-sources_count: 107
+mention_count: 328
+sources_count: 115
 compilation_count: 1
 promote: false
 ---
 
 # GLW
 
-*Tickers — compiled from 309 mentions across 107 sources.*
+*Tickers — compiled from 328 mentions across 115 sources.*
 
 ## Mentions
+
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: > "If you buy it on the catalyst day and put your stop at low of the day, you would have got stopped out. You could buy it here and put a much bigger position size. Your stop can be much closer." — 2026-06-11 (GLW example)
+
+> [[../../03-Guides/stockbee/EP-9-Million.md|EP-9-Million]]: | Examples | GLW, CRCL (after IPO neglect) | Sweetgreen, NFViz, Oracle |
 
 > [[../../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]: - **Examples:** TXN (+19% gap, 4-day pullback, then continued), GLW, HIMS, eBay
 
@@ -90,10 +94,6 @@ promote: false
 
 > [[../../04-Transcripts/stockbee/2026-02-05_3-pm.md|2026-02-05_3-pm]]: AGQ, GLW, UnitedHealth, s and d k.
 
-> [[../../04-Transcripts/stockbee/2026-02-05_9_15-am.md|2026-02-05_9_15-am]]: I'm going to I think my GLW position also and ALM also might get stopped out because it's better to, like, go let it get stopped out than to, like, a just sit there, right?
-
-> [[../../04-Transcripts/stockbee/2026-02-05_9_15-am.md|2026-02-05_9_15-am]]: I would say GLW, right?
-
 ## Related Concepts
 
 *(To be enriched)*
@@ -105,6 +105,8 @@ promote: false
 ## Sources
 
 - [[../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]
+- [[../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]
+- [[../03-Guides/stockbee/EP-9-Million.md|EP-9-Million]]
 - [[../04-Transcripts/stockbee/14. Sugar Babies Guide/Pradeep Bonde - Sugar Babies Guide-Part 5 - Simplify your life with Sugar Babies_deepgram.md|Pradeep Bonde - Sugar Babies Guide-Part 5 - Simplify your life with Sugar Babies_deepgram]]
 - [[../04-Transcripts/stockbee/16. DEP Guide/Pradeep Bonde - DEP Guide-Part 10 - How to Delayed Reactions EP_deepgram.md|Pradeep Bonde - DEP Guide-Part 10 - How to Delayed Reactions EP_deepgram]]
 - [[../04-Transcripts/stockbee/16. DEP Guide/Pradeep Bonde - DEP Guide-Part 7 - DEP and SB watchlist_deepgram.md|Pradeep Bonde - DEP Guide-Part 7 - DEP and SB watchlist_deepgram]]
@@ -122,5 +124,3 @@ promote: false
 - [[../04-Transcripts/stockbee/2026-02-03_3-pm.md|2026-02-03_3-pm]]
 - [[../04-Transcripts/stockbee/2026-02-03_9_15-am.md|2026-02-03_9_15-am]]
 - [[../04-Transcripts/stockbee/2026-02-05_3-pm.md|2026-02-05_3-pm]]
-- [[../04-Transcripts/stockbee/2026-02-05_9_15-am.md|2026-02-05_9_15-am]]
-- [[../04-Transcripts/stockbee/2026-02-06_9_15-am.md|2026-02-06_9_15-am]]

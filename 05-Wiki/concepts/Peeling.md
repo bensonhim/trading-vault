@@ -1,16 +1,16 @@
 ---
 title: "Peeling"
-date: 2026-07-08
+date: 2026-07-16
 tags: [concepts, wiki, auto-compiled]
-mention_count: 40
-sources_count: 28
+mention_count: 48
+sources_count: 34
 compilation_count: 1
 promote: false
 ---
 
 # Peeling
 
-*Concepts — compiled from 40 mentions across 28 sources.*
+*Concepts — compiled from 48 mentions across 34 sources.*
 
 ## Mentions
 
@@ -92,7 +92,7 @@ promote: false
 
 > [[../../04-Transcripts/stockbee/videos/2026-03-07_baseline-market-understanding.md|2026-03-07_baseline-market-understanding]]: You'll understand peeling and why it is used.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-11.md|Session-2026-06-11]]: - **Peeling strategy**: Oversize to 75% of account, peel at 10% profit, let remainder ride
+> [[../../06-Daily/stockbee/Sessions/Session-2024-01-22.md|Session-2024-01-22]]: - PCB makes $25-70K with a $35K account by peeling
 
 ## Related Concepts
 
