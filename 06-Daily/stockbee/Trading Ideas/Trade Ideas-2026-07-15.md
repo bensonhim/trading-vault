@@ -17,12 +17,15 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, full-bull, full-long
 
 | Indicator | Jul 15 | Jul 14 | Jul 13 | Jul 10 | Trend |
 |-----------|---------|---------|---------|-------|-------|
-| Net Primary | — | +233 | +334 | +349 | Stable positive |
-| T2108 | — | 52.25% | 52.53% | 52.0% | Stable |
-| Breakouts (4%+) | — | — | — | 129 | — |
-| Breakdowns (4%+) | — | — | — | 181 | — |
+| Net Primary | +223 | +233 | +210 | +349 | Stable positive |
+| T2108 | 53.83% | 52.25% | 52.53% | 52.0% | Rising slightly |
+| Breakouts (4%+) | 235 | 232 | 207 | 129 | Improving |
+| Breakdowns (4%+) | 205 | 185 | 458 | 181 | Declining from Jul 13 spike |
 
-**Primary Trend Assessment:** T2108 stable at ~52%. Net primary stable positive. Market in normal bullish range.
+**Primary Trend Assessment:** Net primary stable positive (+210 to +349 range). T2108 rising slightly (52.0% → 53.8%). Breakouts improving (129 → 235). Jul 13 had a breakdown spike (458) that reversed by Jul 14 (185). Market stabilizing and trending bullish.
+
+> [!note] Pradeep's Rule
+> "If you just trade breakouts when the primary indicator is green, you will find most of the time, most of the breakouts work." — Primary is green (+223). Full playbook.
 
 ---
 
