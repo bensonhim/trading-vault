@@ -2,15 +2,15 @@
 title: "AAPL"
 date: 2026-07-16
 tags: [tickers, wiki, auto-compiled]
-mention_count: 50
-sources_count: 33
+mention_count: 54
+sources_count: 36
 compilation_count: 1
 promote: false
 ---
 
 # AAPL
 
-*Tickers — compiled from 50 mentions across 33 sources.*
+*Tickers — compiled from 54 mentions across 36 sources.*
 
 ## Mentions
 

@@ -2,15 +2,15 @@
 title: "Dollar Breakout"
 date: 2026-07-16
 tags: [setups, wiki, auto-compiled]
-mention_count: 378
-sources_count: 113
+mention_count: 379
+sources_count: 114
 compilation_count: 1
 promote: false
 ---
 
 # Dollar Breakout
 
-*Setups — compiled from 378 mentions across 113 sources.*
+*Setups — compiled from 379 mentions across 114 sources.*
 
 ## Mentions
 

@@ -2,15 +2,15 @@
 title: "MSFT"
 date: 2026-07-16
 tags: [tickers, wiki, auto-compiled]
-mention_count: 53
-sources_count: 35
+mention_count: 54
+sources_count: 36
 compilation_count: 1
 promote: false
 ---
 
 # MSFT
 
-*Tickers — compiled from 53 mentions across 35 sources.*
+*Tickers — compiled from 54 mentions across 36 sources.*
 
 ## Mentions
 

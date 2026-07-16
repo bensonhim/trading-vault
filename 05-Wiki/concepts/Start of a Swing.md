@@ -2,15 +2,15 @@
 title: "Start of a Swing"
 date: 2026-07-16
 tags: [concepts, wiki, auto-compiled]
-mention_count: 9891
-sources_count: 1085
+mention_count: 9897
+sources_count: 1088
 compilation_count: 1
 promote: false
 ---
 
 # Start of a Swing
 
-*Concepts — compiled from 9891 mentions across 1085 sources.*
+*Concepts — compiled from 9897 mentions across 1088 sources.*
 
 ## Mentions
 
