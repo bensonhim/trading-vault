@@ -115,18 +115,18 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, full-bull, full-long
 
 ### SOS Breakout Candidates (50 found — top 20)
 
-| # | Ticker | Change% | Volume | Two Lynch | Leg | Priority | Sector |
-|---|--------|---------|--------|-----------|-----|----------|--------|
-| 1 | NKE | +4.2% | 15,849,478 | 6/6 | 1st | highest | Consumer Cyclical |
-| 2 | MDLZ | +4.6% | 9,929,368 | 6/6 | 1st | highest | Consumer Defensive |
-| 3 | CTRE | +4.7% | 3,324,891 | 6/6 | 1st | highest | Real Estate |
-| 4 | AHR | +4.4% | 3,091,240 | 6/6 | 1st | highest | Real Estate |
-| 5 | CCEP | +1.5% | 2,781,842 | 6/6 | 1st | highest | Consumer Defensive |
-| 6 | SMA | +5.6% | 2,312,893 | 6/6 | 1st | highest | Real Estate |
-| 7 | ITW | +4.3% | 1,571,591 | 6/6 | 1st | highest | Industrials |
-| 8 | XPO | +7.1% | 1,290,043 | 6/6 | 1st | highest | Industrials |
-| 9 | NTST | +4.2% | 1,151,499 | 6/6 | 1st | highest | Real Estate |
-| 10 | FCPT | +4.8% | 798,122 | 6/6 | 1st | highest | Real Estate |
+| #   | Ticker | Change% | Volume     | Two Lynch | Leg | Priority | Sector             |
+| --- | ------ | ------- | ---------- | --------- | --- | -------- | ------------------ |
+| 1   | NKE    | +4.2%   | 15,849,478 | 6/6       | 1st | highest  | Consumer Cyclical  |
+| 2   | MDLZ   | +4.6%   | 9,929,368  | 6/6       | 1st | highest  | Consumer Defensive |
+| 3   | CTRE   | +4.7%   | 3,324,891  | 6/6       | 1st | highest  | Real Estate        |
+| 4   | AHR    | +4.4%   | 3,091,240  | 6/6       | 1st | highest  | Real Estate        |
+| 5   | CCEP   | +1.5%   | 2,781,842  | 6/6       | 1st | highest  | Consumer Defensive |
+| 6   | SMA    | +5.6%   | 2,312,893  | 6/6       | 1st | highest  | Real Estate        |
+| 7   | ITW    | +4.3%   | 1,571,591  | 6/6       | 1st | highest  | Industrials        |
+| 8   | XPO    | +7.1%   | 1,290,043  | 6/6       | 1st | highest  | Industrials        |
+| 9   | NTST   | +4.2%   | 1,151,499  | 6/6       | 1st | highest  | Real Estate        |
+| 10  | FCPT   | +4.8%   | 798,122    | 6/6       | 1st | highest  | Real Estate        |
 
 > [!tip] 10 SOS candidates with perfect 6/6 Two Lynch scores! Real Estate has 5 of the top 10 — sector group move confirmed.
 
