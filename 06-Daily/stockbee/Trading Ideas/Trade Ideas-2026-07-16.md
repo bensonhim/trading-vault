@@ -147,18 +147,18 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, full-bull, full-long
 
 ### ANTS Candidates (35 found — top 20 with tight tier)
 
-| # | Ticker | Price | Tight Tier | Tight Days | Priority | Notes |
-|---|--------|-------|-----------|------------|----------|-------|
-| 1 | NU | $13.79 | super-tight | 2 | highest | 2T super-tight |
-| 2 | T | $21.98 | super-tight | 2 | highest | 2T super-tight |
-| 3 | GOOGL | $354.46 | super-tight | 2 | highest | 2T super-tight, 5000+ funds |
-| 4 | BAC | $61.49 | super-tight | 2 | highest | 2T super-tight, financials |
-| 5 | NFLX | $74.35 | tight | 3 | highest | 3T tight |
-| 6 | PFE | $25.14 | tight | 2 | highest | 2T tight, healthcare |
-| 7 | AMZN | $249.89 | tight | 2 | highest | 2T, 5000+ funds |
-| 8 | SOFI | $17.32 | tight | 2 | highest | 2T, fintech |
-| 9 | RIVN | $17.09 | tight | 2 | highest | 2T, EV sector |
-| 10 | RIG | $5.12 | tight | 2 | highest | 2T, energy |
+| #   | Ticker | Price   | Tight Tier  | Tight Days | Priority | Notes                       |
+| --- | ------ | ------- | ----------- | ---------- | -------- | --------------------------- |
+| 1   | NU     | $13.79  | super-tight | 2          | highest  | 2T super-tight              |
+| 2   | T      | $21.98  | super-tight | 2          | highest  | 2T super-tight              |
+| 3   | GOOGL  | $354.46 | super-tight | 2          | highest  | 2T super-tight, 5000+ funds |
+| 4   | BAC    | $61.49  | super-tight | 2          | highest  | 2T super-tight, financials  |
+| 5   | NFLX   | $74.35  | tight       | 3          | highest  | 3T tight                    |
+| 6   | PFE    | $25.14  | tight       | 2          | highest  | 2T tight, healthcare        |
+| 7   | AMZN   | $249.89 | tight       | 2          | highest  | 2T, 5000+ funds             |
+| 8   | SOFI   | $17.32  | tight       | 2          | highest  | 2T, fintech                 |
+| 9   | RIVN   | $17.09  | tight       | 2          | highest  | 2T, EV sector               |
+| 10  | RIG    | $5.12   | tight       | 2          | highest  | 2T, energy                  |
 
 ---
 
@@ -200,27 +200,27 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, full-bull, full-long
 
 ### SOS Breakout Candidates (top 20 — monitor for 4% trigger)
 
-| Ticker | Two Lynch | Leg | Volume | Sector | Sector ETF | Notes |
-|--------|-----------|-----|--------|--------|-----------|-------|
-| NKE | 6/6 | 1st | 15.8M | Consumer Cyclical | XLY | High volume, sector group move |
-| MDLZ | 6/6 | 1st | 9.9M | Consumer Defensive | XLP | Consumer defensive group (3 breakouts) |
-| CTRE | 6/6 | 1st | 3.3M | Real Estate | XLRE | Real estate group move (12 breakouts!) |
-| AHR | 6/6 | 1st | 3.1M | Real Estate | XLRE | RE group move |
-| SMA | 6/6 | 1st | 2.3M | Real Estate | XLRE | RE group move |
-| ITW | 6/6 | 1st | 1.6M | Industrials | XLI | Industrials group move (11 breakouts) |
-| XPO | 6/6 | 1st | 1.3M | Industrials | XLI | +7.1%, industrials group |
-| NTST | 6/6 | 1st | 1.2M | Real Estate | XLRE | RE group move |
-| FCPT | 6/6 | 1st | 798K | Real Estate | XLRE | RE group move |
+| Ticker | Two Lynch | Leg | Volume | Sector             | Sector ETF | Notes                                  |
+| ------ | --------- | --- | ------ | ------------------ | ---------- | -------------------------------------- |
+| NKE    | 6/6       | 1st | 15.8M  | Consumer Cyclical  | XLY        | High volume, sector group move         |
+| MDLZ   | 6/6       | 1st | 9.9M   | Consumer Defensive | XLP        | Consumer defensive group (3 breakouts) |
+| CTRE   | 6/6       | 1st | 3.3M   | Real Estate        | XLRE       | Real estate group move (12 breakouts!) |
+| AHR    | 6/6       | 1st | 3.1M   | Real Estate        | XLRE       | RE group move                          |
+| SMA    | 6/6       | 1st | 2.3M   | Real Estate        | XLRE       | RE group move                          |
+| ITW    | 6/6       | 1st | 1.6M   | Industrials        | XLI        | Industrials group move (11 breakouts)  |
+| XPO    | 6/6       | 1st | 1.3M   | Industrials        | XLI        | +7.1%, industrials group               |
+| NTST   | 6/6       | 1st | 1.2M   | Real Estate        | XLRE       | RE group move                          |
+| FCPT   | 6/6       | 1st | 798K   | Real Estate        | XLRE       | RE group move                          |
 
 ---
 
 ## 8. Active Sugar Babies
 
-| Rank | Ticker | 21d | 5d | 504d | Tier |
-|------|--------|-----|-----|------|------|
-| 1 | IREN | 2 | 0 | 103 | core |
-| 2 | WULF | 3 | 0 | 94 | core |
-| 3 | OKLO | 3 | 0 | 91 | core |
+| Rank | Ticker | 21d | 5d  | 504d | Tier |
+| ---- | ------ | --- | --- | ---- | ---- |
+| 1    | IREN   | 2   | 0   | 103  | core |
+| 2    | WULF   | 3   | 0   | 94   | core |
+| 3    | OKLO   | 3   | 0   | 91   | core |
 
 > Full watchlist (1,903 tickers) in Google Sheets "SB Watchlist" tab. Active SBs (269) in "SB Active" tab.
 
