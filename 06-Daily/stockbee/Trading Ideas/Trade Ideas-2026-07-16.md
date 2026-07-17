@@ -8,8 +8,15 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, full-bull, full-long
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!tip] **FULL_BULL** — Action: **FULL_LONG** (confidence: 60%)
-> Net primary positive (+144), T2108 at 56.29% (rising), cybersecurity (BUG) leading with RS_20d=62.74. 10 SOS with 6/6 Two Lynch scores. Real Estate and Industrials sector group moves detected. Full playbook.
+> [!caution] **CAUTIOUS_BULL** — Action: **REDUCE_SIZE** (confidence: 65%)
+> Net primary positive (+144) but declining from +349. T2108 at 56.29% (rising). Cybersecurity (BUG) still leading. However, secondary indicators weakening: 5-day ratio 0.68, 10-day ratio 0.74, monthly 25% ratio 0.74, breakdown spike (509 vs 251). Reduce size, tighten stops, selective setups only.
+
+**Warnings:**
+- 5-day ratio 0.68 < 0.8 (breakdowns > breakouts over 5 days)
+- 10-day ratio 0.74 < 0.8 (sustained weakness)
+- Monthly 25% ratio 0.74 < 0.8 (more stocks down 25%+ than up)
+- Breakdown spike: 509 vs 251 breakouts (ratio 0.49)
+- Net primary +144 declining toward zero (was +349 on Jul 10)
 
 ---
 
@@ -271,14 +278,16 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, full-bull, full-long
 
 ## 11. Action Summary
 
-- [ ] Full playbook — 10 SOS with 6/6 Two Lynch scores (NKE, MDLZ, CTRE, AHR, CCEP, SMA, ITW, XPO, NTST, FCPT)
-- [ ] Place DEP limit orders: XOM $147.00, BKR $59.23, PTEN $10.16, CRNX $84.10, TECH $71.49
-- [ ] Place ANTS BSLO orders: NU (super-tight), T (super-tight), GOOGL (super-tight), BAC (super-tight)
-- [ ] Monitor SOS intraday: NKE (15.8M vol), MDLZ (9.9M vol), CTRE/AHR/SMA (Real Estate group)
-- [ ] Real Estate sector group move (12 breakouts!) — watch for RE setups
+- [ ] **REDUCE SIZE** — secondary indicators weakening, breakdown spike on Jul 16
+- [ ] Only A+ and A confluences — skip B tier setups
+- [ ] Place DEP limit orders (reduced shares): XOM $147.00, BKR $59.23, CRNX $84.10
+- [ ] Place ANTS BSLO orders: NU (super-tight), T (super-tight), GOOGL (super-tight)
+- [ ] Monitor SOS intraday: NKE (15.8M vol), CTRE/AHR/SMA (Real Estate group)
+- [ ] Sell into strength on existing positions — tighten stops to breakeven
+- [ ] Real Estate sector group move (12 breakouts) — watch for RE setups
 - [ ] Industrials sector group move (11 breakouts) — watch for industrial setups
-- [ ] Cybersecurity (BUG) still leading for 3rd day — watch for cyber setups forming
-- [ ] Monitor secondary indicators: 5-day ratio 0.68 (weak short-term), if breakdowns stay >400 tomorrow → downgrade to REDUCE_SIZE
+- [ ] Cybersecurity (BUG) still leading for 3rd day — watch for cyber setups
+- [ ] **Monitor secondary indicators**: if Jul 17 breakdowns stay >400 or 5d ratio stays <0.8 → further downgrade to NO_NEW_LONGS
 - [ ] Biotech (XBI) #2 — CRNX, APGE, TECH still consolidating tightly
 
 ---
