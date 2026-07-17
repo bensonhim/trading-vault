@@ -1,16 +1,16 @@
 ---
 title: "PLTR"
-date: 2026-07-16
+date: 2026-07-17
 tags: [tickers, wiki, auto-compiled]
-mention_count: 71
-sources_count: 44
+mention_count: 73
+sources_count: 45
 compilation_count: 1
 promote: false
 ---
 
 # PLTR
 
-*Tickers — compiled from 71 mentions across 44 sources.*
+*Tickers — compiled from 73 mentions across 45 sources.*
 
 ## Mentions
 

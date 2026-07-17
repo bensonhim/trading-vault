@@ -1,16 +1,16 @@
 ---
 title: "Sugar Baby"
-date: 2026-07-16
+date: 2026-07-17
 tags: [setups, wiki, auto-compiled]
-mention_count: 20549
-sources_count: 1266
+mention_count: 20606
+sources_count: 1269
 compilation_count: 1
 promote: false
 ---
 
 # Sugar Baby
 
-*Setups — compiled from 20549 mentions across 1266 sources.*
+*Setups — compiled from 20606 mentions across 1269 sources.*
 
 ## Mentions
 

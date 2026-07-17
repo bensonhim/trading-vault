@@ -1,16 +1,16 @@
 ---
 title: "DELL"
-date: 2026-07-16
+date: 2026-07-17
 tags: [tickers, wiki, auto-compiled]
-mention_count: 35
-sources_count: 18
+mention_count: 38
+sources_count: 19
 compilation_count: 1
 promote: false
 ---
 
 # DELL
 
-*Tickers — compiled from 35 mentions across 18 sources.*
+*Tickers — compiled from 38 mentions across 19 sources.*
 
 ## Mentions
 
@@ -84,6 +84,12 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]: | [[DELL]]                                  | Start of swing from Sunday list         | Held with stop, but slower follow-through                                                          |
 
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-16.md|Session-2026-07-16]]: | [[DELL]] | Twitter called it "true market leader" → faded |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-16.md|Session-2026-07-16]]: | [[DELL]] | Consolidation breakout | "People buying this and getting stopped out, not learning anything" |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-16.md|Session-2026-07-16]]: 4. **Breakouts continue to fail** — CBIT, GS, DELL, PENG all looked good and failed. This is the range-bound pattern.
+
 ## Related Concepts
 
 *(To be enriched)*
@@ -112,3 +118,4 @@ promote: false
 - [[../06-Daily/stockbee/Sessions/Session-2026-06-30.md|Session-2026-06-30]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-07-01.md|Session-2026-07-01]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-07-16.md|Session-2026-07-16]]

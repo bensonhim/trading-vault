@@ -1,16 +1,16 @@
 ---
 title: "KO"
-date: 2026-07-16
+date: 2026-07-17
 tags: [tickers, wiki, auto-compiled]
-mention_count: 8
-sources_count: 5
+mention_count: 9
+sources_count: 6
 compilation_count: 1
 promote: false
 ---
 
 # KO
 
-*Tickers — compiled from 8 mentions across 5 sources.*
+*Tickers — compiled from 9 mentions across 6 sources.*
 
 ## Mentions
 
@@ -30,6 +30,8 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-05-12.md|Session-2026-05-12]]: - [[Liquid Lava]] — Highly liquid, institutionally owned, low-volatility stocks (KO)
 
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-16.md|Session-2026-07-16]]: | [[KO]] (Coca-Cola) | Consumer staples rotation | "Do you want to trade a stock like this? Guaranteed you're going to get chopped" |
+
 ## Related Concepts
 
 *(To be enriched)*
@@ -45,3 +47,4 @@ promote: false
 - [[../06-Daily/stockbee/Sessions/Session-2025-08-01.md|Session-2025-08-01]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-01-08.md|Session-2026-01-08]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-05-12.md|Session-2026-05-12]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-07-16.md|Session-2026-07-16]]

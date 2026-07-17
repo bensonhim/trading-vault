@@ -1,16 +1,16 @@
 ---
 title: "Scans and Filters"
-date: 2026-07-16
+date: 2026-07-17
 tags: [concepts, wiki, auto-compiled]
-mention_count: 552
-sources_count: 345
+mention_count: 553
+sources_count: 346
 compilation_count: 1
 promote: false
 ---
 
 # Scans and Filters
 
-*Concepts — compiled from 552 mentions across 345 sources.*
+*Concepts — compiled from 553 mentions across 346 sources.*
 
 ## Mentions
 

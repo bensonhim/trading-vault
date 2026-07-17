@@ -1,6 +1,6 @@
 ---
 title: "Position Sizing"
-date: 2026-07-16
+date: 2026-07-17
 tags: [concepts, wiki, auto-compiled]
 mention_count: 395
 sources_count: 222

@@ -1,16 +1,16 @@
 ---
 title: "HOOD"
-date: 2026-07-16
+date: 2026-07-17
 tags: [tickers, wiki, auto-compiled]
-mention_count: 51
-sources_count: 24
+mention_count: 52
+sources_count: 25
 compilation_count: 1
 promote: false
 ---
 
 # HOOD
 
-*Tickers — compiled from 51 mentions across 24 sources.*
+*Tickers — compiled from 52 mentions across 25 sources.*
 
 ## Mentions
 

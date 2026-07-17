@@ -1,16 +1,16 @@
 ---
 title: "AMZN"
-date: 2026-07-16
+date: 2026-07-17
 tags: [tickers, wiki, auto-compiled]
-mention_count: 49
-sources_count: 32
+mention_count: 50
+sources_count: 33
 compilation_count: 1
 promote: false
 ---
 
 # AMZN
 
-*Tickers — compiled from 49 mentions across 32 sources.*
+*Tickers — compiled from 50 mentions across 33 sources.*
 
 ## Mentions
 
