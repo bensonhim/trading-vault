@@ -17,13 +17,13 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, full-bull, full-long
 
 ### Primary Indicators
 
-| Indicator | Jul 16 | Jul 15 | Jul 14 | Jul 13 | Trend |
-|-----------|---------|---------|---------|---------|-------|
-| Net Primary | +144 | +223 | +233 | +210 | Declining but positive |
-| T2108 | 56.29% | 53.83% | 52.25% | 52.53% | Rising |
-| Breakouts (4%+) | 251 | 235 | 232 | 207 | Improving |
-| Breakdowns (4%+) | 509 | 205 | 185 | 458 | Spike on Jul 16! |
-| BO:BD Ratio | 0.49 | 1.15 | 1.25 | 0.45 | Declining |
+| Indicator        | Jul 16 | Jul 15 | Jul 14 | Jul 13 | Trend                  |
+| ---------------- | ------ | ------ | ------ | ------ | ---------------------- |
+| Net Primary      | +144   | +223   | +233   | +210   | Declining but positive |
+| T2108            | 56.29% | 53.83% | 52.25% | 52.53% | Rising                 |
+| Breakouts (4%+)  | 251    | 235    | 232    | 207    | Improving              |
+| Breakdowns (4%+) | 509    | 205    | 185    | 458    | Spike on Jul 16!       |
+| BO:BD Ratio      | 0.49   | 1.15   | 1.25   | 0.45   | Declining              |
 
 > [!warning] Jul 16 breakdown spike: 509 breakdowns vs 251 breakouts — ratio 0.49. This is a significant deterioration from Jul 14-15 (ratio >1.0). Despite net primary still positive, the breakdown surge warrants caution. Monitor if this is a one-day event or sustained.
 
