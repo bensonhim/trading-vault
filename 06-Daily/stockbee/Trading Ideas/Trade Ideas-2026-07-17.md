@@ -35,16 +35,16 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, cautious-bull, reduc
 
 ### Secondary Indicators
 
-| Indicator | Jul 17 | Signal | Interpretation |
-|-----------|---------|--------|----------------|
-| Monthly 25% Up | 182 | Normal | Stocks up 25%+ in a month |
-| Monthly 25% Down | 230 | Elevated | More stocks down 25%+ than up |
-| Monthly 25% Ratio | 0.79 | Below 0.8 | Bearish tilt — more down than up |
-| Fib 13% Up (34d) | 1,732 | High | Stocks up 13%+ in 34 days |
-| Fib 13% Down (34d) | 1,626 | Moderate | Stocks down 13%+ in 34 days |
-| Fib 13% Ratio | 1.07 | Above 1.0 | Medium-term still bullish (barely) |
-| 5-Day Ratio | 0.70 | Below 0.8 | Short-term weakness persists |
-| 10-Day Ratio | 0.75 | Below 0.8 | Sustained weakness for 10+ days |
+| Indicator          | Jul 17 | Signal    | Interpretation                     |
+| ------------------ | ------ | --------- | ---------------------------------- |
+| Monthly 25% Up     | 182    | Normal    | Stocks up 25%+ in a month          |
+| Monthly 25% Down   | 230    | Elevated  | More stocks down 25%+ than up      |
+| Monthly 25% Ratio  | 0.79   | Below 0.8 | Bearish tilt — more down than up   |
+| Fib 13% Up (34d)   | 1,732  | High      | Stocks up 13%+ in 34 days          |
+| Fib 13% Down (34d) | 1,626  | Moderate  | Stocks down 13%+ in 34 days        |
+| Fib 13% Ratio      | 1.07   | Above 1.0 | Medium-term still bullish (barely) |
+| 5-Day Ratio        | 0.70   | Below 0.8 | Short-term weakness persists       |
+| 10-Day Ratio       | 0.75   | Below 0.8 | Sustained weakness for 10+ days    |
 
 > [!warning] All short-term secondary indicators below 0.8. Fib 13 ratio barely above 1.0 (1.07) — medium-term trend weakening. If Fib 13 drops below 1.0, medium-term trend turns bearish.
 
