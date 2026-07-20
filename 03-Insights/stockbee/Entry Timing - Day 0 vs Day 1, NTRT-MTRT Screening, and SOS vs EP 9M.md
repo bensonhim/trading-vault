@@ -61,14 +61,14 @@ ELVA gapped up 70% on Day 0 — too much to enter. Pradeep put it on his watch l
 
 ### Which Path Should You Use?
 
-| Factor | Path A (Direct, Day 0) | Path B (Delayed Reaction, Day 1+) |
-|--------|----------------------|----------------------------------|
-| Market cap | Small / micro | Large / well-known |
-| Neglect level | Heavily neglected | Well-known |
-| Gap size on Day 0 | Moderate (buyable) | Too big (70%+ = skip) |
-| Catalyst strength | Earth-shattering | Good but not unknown |
-| Your experience | Advanced (fast decisions) | Beginner-friendly (more time) |
-| Risk | Higher (might fade) | Lower (wait for setup) |
+| Factor            | Path A (Direct, Day 0)    | Path B (Delayed Reaction, Day 1+) |
+| ----------------- | ------------------------- | --------------------------------- |
+| Market cap        | Small / micro             | Large / well-known                |
+| Neglect level     | Heavily neglected         | Well-known                        |
+| Gap size on Day 0 | Moderate (buyable)        | Too big (70%+ = skip)             |
+| Catalyst strength | Earth-shattering          | Good but not unknown              |
+| Your experience   | Advanced (fast decisions) | Beginner-friendly (more time)     |
+| Risk              | Higher (might fade)       | Lower (wait for setup)            |
 
 ---
 
