@@ -1,6 +1,6 @@
 ---
 title: "Entries"
-date: 2026-07-17
+date: 2026-07-20
 tags: [concepts, wiki, auto-compiled]
 mention_count: 1317
 sources_count: 543

@@ -1,6 +1,6 @@
 ---
 title: "Scans and Filters"
-date: 2026-07-17
+date: 2026-07-20
 tags: [concepts, wiki, auto-compiled]
 mention_count: 553
 sources_count: 346

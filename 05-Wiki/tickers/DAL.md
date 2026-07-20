@@ -1,6 +1,6 @@
 ---
 title: "DAL"
-date: 2026-07-17
+date: 2026-07-20
 tags: [tickers, wiki, auto-compiled]
 mention_count: 48
 sources_count: 25

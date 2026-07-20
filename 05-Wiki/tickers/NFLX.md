@@ -1,16 +1,16 @@
 ---
 title: "NFLX"
-date: 2026-07-17
+date: 2026-07-20
 tags: [tickers, wiki, auto-compiled]
-mention_count: 45
-sources_count: 25
+mention_count: 46
+sources_count: 26
 compilation_count: 1
 promote: false
 ---
 
 # NFLX
 
-*Tickers — compiled from 45 mentions across 25 sources.*
+*Tickers — compiled from 46 mentions across 26 sources.*
 
 ## Mentions
 

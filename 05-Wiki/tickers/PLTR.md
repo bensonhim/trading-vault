@@ -1,6 +1,6 @@
 ---
 title: "PLTR"
-date: 2026-07-17
+date: 2026-07-20
 tags: [tickers, wiki, auto-compiled]
 mention_count: 73
 sources_count: 45
