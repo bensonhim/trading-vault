@@ -14,49 +14,49 @@ promote: false
 
 ## Mentions
 
-> [[../../06-Daily/stockbee/Sessions/Session-2023-12-07.md|Session-2023-12-07]]: | [[GOOG]] | Delayed Reaction | ⚠️ Secondary | Moving, but AMD is better |
+> [[Session-2023-12-07|Session-2023-12-07]]: | [[GOOG]] | Delayed Reaction | ⚠️ Secondary | Moving, but AMD is better |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2024-01-17.md|Session-2024-01-17]]: - [[GOOG]] — if closes near low, short it (8-10% downside)
+> [[Session-2024-01-17|Session-2024-01-17]]: - [[GOOG]] — if closes near low, short it (8-10% downside)
 
-> [[../../06-Daily/stockbee/Sessions/Session-2024-01-17.md|Session-2024-01-17]]: 5. **Delayed reaction** is Pradeep's favorite setup right now — MBLY, XOP, GOOG
+> [[Session-2024-01-17|Session-2024-01-17]]: 5. **Delayed reaction** is Pradeep's favorite setup right now — MBLY, XOP, GOOG
 
-> [[../../06-Daily/stockbee/Sessions/Session-2024-02-16.md|Session-2024-02-16]]: - [[GOOG]], [[AMZN]]: "they lost the game" — former leaders that have faded
+> [[Session-2024-02-16|Session-2024-02-16]]: - [[GOOG]], [[AMZN]]: "they lost the game" — former leaders that have faded
 
-> [[../../06-Daily/stockbee/Sessions/Session-2024-02-16.md|Session-2024-02-16]]: - 9M EP: [[SMCI]] parabolic, [[META]], [[TSLA]], [[GOOG]], [[SNAP]] (delayed reaction short)
+> [[Session-2024-02-16|Session-2024-02-16]]: - 9M EP: [[SMCI]] parabolic, [[META]], [[TSLA]], [[GOOG]], [[SNAP]] (delayed reaction short)
 
-> [[../../06-Daily/stockbee/Sessions/Session-2024-02-21.md|Session-2024-02-21]]: - [[AXP]] (American Express), [[GOOG]] (Google) — delayed reaction candidates
+> [[Session-2024-02-21|Session-2024-02-21]]: - [[AXP]] (American Express), [[GOOG]] (Google) — delayed reaction candidates
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-01-13.md|Session-2025-01-13]]: | [[GOOG]] | Reversal bullish | N/A | Small position to test hypothesis |
+> [[Session-2025-01-13|Session-2025-01-13]]: | [[GOOG]] | Reversal bullish | N/A | Small position to test hypothesis |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-01-14.md|Session-2025-01-14]]: | [[GOOG]] | Reversal bullish (failed) | N/A | Sold for $12.12/share — didn't stick immediately |
+> [[Session-2025-01-14|Session-2025-01-14]]: | [[GOOG]] | Reversal bullish (failed) | N/A | Sold for $12.12/share — didn't stick immediately |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-01-15.md|Session-2025-01-15]]: | [[GOOG]] | Range expansion | TikTok/Supreme Court news | Good setup, watching |
+> [[Session-2025-01-15|Session-2025-01-15]]: | [[GOOG]] | Range expansion | TikTok/Supreme Court news | Good setup, watching |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-01-15.md|Session-2025-01-15]]: | [[GOOG]] | Range expansion / reversal bullish | TikTok ruling | Best long candidate; watching |
+> [[Session-2025-01-15|Session-2025-01-15]]: | [[GOOG]] | Range expansion / reversal bullish | TikTok ruling | Best long candidate; watching |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-01-16.md|Session-2025-01-16]]: | [[GOOG]] | Range expansion / reversal | Multiple catalysts | Small position, watching |
+> [[Session-2025-01-16|Session-2025-01-16]]: | [[GOOG]] | Range expansion / reversal | Multiple catalysts | Small position, watching |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-01-23.md|Session-2025-01-23]]: | [[GOOG]] | Failed breakout | N/A | Looked like breakout intraday, got hammered back |
+> [[Session-2025-01-23|Session-2025-01-23]]: | [[GOOG]] | Failed breakout | N/A | Looked like breakout intraday, got hammered back |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-02-05.md|Session-2025-02-05]]: | [[GOOG]] | Day trade watch | Negative earnings catalyst, watching for intraday short opportunity |
+> [[Session-2025-02-05|Session-2025-02-05]]: | [[GOOG]] | Day trade watch | Negative earnings catalyst, watching for intraday short opportunity |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-02-05.md|Session-2025-02-05]]: | [[GOOG]] | Bearish | Day trade short watch | Negative earnings reaction |
+> [[Session-2025-02-05|Session-2025-02-05]]: | [[GOOG]] | Bearish | Day trade short watch | Negative earnings reaction |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-02-07.md|Session-2025-02-07]]: | [[GOOG]] | Bearish | Delayed reaction short | AI CapEx overinvestment cycle |
+> [[Session-2025-02-07|Session-2025-02-07]]: | [[GOOG]] | Bearish | Delayed reaction short | AI CapEx overinvestment cycle |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-07-08.md|Session-2025-07-08]]: [[GOOG]] looked good in the morning, then Perplexity AI browser news faded it. [[META]] is a late-stage breakout — can work but it's late.
+> [[Session-2025-07-08|Session-2025-07-08]]: [[GOOG]] looked good in the morning, then Perplexity AI browser news faded it. [[META]] is a late-stage breakout — can work but it's late.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-07-08.md|Session-2025-07-08]]: | [[GOOG]] | Faded on news | ⚠️ Late | Perplexity AI browser news killed the move |
+> [[Session-2025-07-08|Session-2025-07-08]]: | [[GOOG]] | Faded on news | ⚠️ Late | Perplexity AI browser news killed the move |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-07-09.md|Session-2025-07-09]]: ### [[GOOG]]: Good Then Faded
+> [[Session-2025-07-09|Session-2025-07-09]]: ### [[GOOG]]: Good Then Faded
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-07-09.md|Session-2025-07-09]]: 3. **GOOG faded on Perplexity news** — catalyst disruption
+> [[Session-2025-07-09|Session-2025-07-09]]: 3. **GOOG faded on Perplexity news** — catalyst disruption
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-07-09.md|Session-2025-07-09]]: | [[GOOG]] | Faded on news | ⚠️ Late | Perplexity AI browser news killed the move |
+> [[Session-2025-07-09|Session-2025-07-09]]: | [[GOOG]] | Faded on news | ⚠️ Late | Perplexity AI browser news killed the move |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-07-10.md|Session-2025-07-10]]: > Bullish situational awareness — mega caps [[NVDA]], [[AVGO]], [[AMZN]], [[GOOG]], [[MSFT]] fueled the rally. BTC hit all-time high above 112K. "Always look at history of the stock. History tells you a lot."
+> [[Session-2025-07-10|Session-2025-07-10]]: > Bullish situational awareness — mega caps [[NVDA]], [[AVGO]], [[AMZN]], [[GOOG]], [[MSFT]] fueled the rally. BTC hit all-time high above 112K. "Always look at history of the stock. History tells you a lot."
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-07-10.md|Session-2025-07-10]]: Market monitor had a **second strong 300+ green reading**. T2108 rose from 64.29 to 64.87. The 20% study remained bullish at 5:1. Mega caps led — [[NVDA]], [[AVGO]], [[AMZN]], [[GOOG]], [[MSFT]]. Small caps [[TNA]]/[[IWM]] pushed higher. [[BTC]] surged to ATH above 112K.
+> [[Session-2025-07-10|Session-2025-07-10]]: Market monitor had a **second strong 300+ green reading**. T2108 rose from 64.29 to 64.87. The 20% study remained bullish at 5:1. Mega caps led — [[NVDA]], [[AVGO]], [[AMZN]], [[GOOG]], [[MSFT]]. Small caps [[TNA]]/[[IWM]] pushed higher. [[BTC]] surged to ATH above 112K.
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-01-05.md|Session-2026-01-05]]: | [[GOOG]] | Anticipation | ⚠️ Watch | Setting up nicely, has AI catalyst |
 

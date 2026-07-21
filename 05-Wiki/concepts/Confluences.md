@@ -24,17 +24,17 @@ promote: false
 
 > [[../../04-Transcripts/stockbee/11. Market Monitor Guide/Pradeep Bonde - Market Monitor Guide-Part 8_deepgram.md|Pradeep Bonde - Market Monitor Guide-Part 8_deepgram]]: - **Confluence signal**: Primary indicator below 200 + T2108 in single digits = extremely powerful bottom signal → bull market lasting 3–5 years
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-08-13.md|Session-2025-08-13]]: | [[TGT]] | Delayed reaction earnings miss | Confluence of catalyst — negative growth, mutual funds dumping |
+> [[Session-2025-08-13|Session-2025-08-13]]: | [[TGT]] | Delayed reaction earnings miss | Confluence of catalyst — negative growth, mutual funds dumping |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-08-14.md|Session-2025-08-14]]: | [[TGT]] (Target) | Delayed reaction short — confluence of catalyst | Negative growth rate, 1,900 → 1,500 mutual funds, no profitability |
+> [[Session-2025-08-14|Session-2025-08-14]]: | [[TGT]] (Target) | Delayed reaction short — confluence of catalyst | Negative growth rate, 1,900 → 1,500 mutual funds, no profitability |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-08-14.md|Session-2025-08-14]]: ### Five-Star Trades — Confluence of Catalysts
+> [[Session-2025-08-14|Session-2025-08-14]]: ### Five-Star Trades — Confluence of Catalysts
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-08-14.md|Session-2025-08-14]]: 8. **Five-star trades = confluence of catalysts** — negative growth rate + declining fund ownership + margin pressure + index component
+> [[Session-2025-08-14|Session-2025-08-14]]: 8. **Five-star trades = confluence of catalysts** — negative growth rate + declining fund ownership + margin pressure + index component
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-08-15.md|Session-2025-08-15]]: > "IMAT will definitely be something which I'd be watching. The story — AI everything is going hard, and this stock is going to grow 0%, minus 13%. 4,600 funds owned it at some stage, now down to 4,200. There is some confluence of factors."
+> [[Session-2025-08-15|Session-2025-08-15]]: > "IMAT will definitely be something which I'd be watching. The story — AI everything is going hard, and this stock is going to grow 0%, minus 13%. 4,600 funds owned it at some stage, now down to 4,200. There is some confluence of factors."
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-08-15.md|Session-2025-08-15]]: | [[IMAT]] / [[AMAT]] (Applied Materials) | Delayed reaction short — 9M breakdown | Negative growth -13%, 4,600 → 4,200 funds, confluence of factors. "Will definitely be watching" |
+> [[Session-2025-08-15|Session-2025-08-15]]: | [[IMAT]] / [[AMAT]] (Applied Materials) | Delayed reaction short — 9M breakdown | Negative growth -13%, 4,600 → 4,200 funds, confluence of factors. "Will definitely be watching" |
 
 ## Related Concepts
 

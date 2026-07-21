@@ -78,7 +78,7 @@ promote: false
 
 > [[../../04-Transcripts/stockbee/videos/2026-04-26_mind-clarity-dep.md|2026-04-26_mind-clarity-dep]]: And there is no delayed entry possible.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2024-01-29.md|Session-2024-01-29]]: - Many stocks with earnings catalysts pulling back → setting up for delayed entry
+> [[Session-2024-01-29|Session-2024-01-29]]: - Many stocks with earnings catalysts pulling back → setting up for delayed entry
 
 ## Related Concepts
 

@@ -64,35 +64,35 @@ promote: false
 
 > [[../../04-Transcripts/stockbee/videos/2026-02-04_x-ray-reading.md|2026-02-04_x-ray-reading]]: [114:32] LLY still worked.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2023-11-03.md|Session-2023-11-03]]: | [[LLY]] | Delayed Earnings Reaction | ✅ Good setup | Eli Lilly |
+> [[Session-2023-11-03|Session-2023-11-03]]: | [[LLY]] | Delayed Earnings Reaction | ✅ Good setup | Eli Lilly |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2023-11-06.md|Session-2023-11-06]]: | [[LLY]] | Delayed Earnings Reaction | Good setup, sold for 60%+ profit |
+> [[Session-2023-11-06|Session-2023-11-06]]: | [[LLY]] | Delayed Earnings Reaction | Good setup, sold for 60%+ profit |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2023-11-06.md|Session-2023-11-06]]: | [[LLY]] | Delayed Earnings | ✅ Took profit | Sold all for 60%+ |
+> [[Session-2023-11-06|Session-2023-11-06]]: | [[LLY]] | Delayed Earnings | ✅ Took profit | Sold all for 60%+ |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2024-02-07.md|Session-2024-02-07]]: | [[LLY]] | Consolidation | Low volume | Thinly traded |
+> [[Session-2024-02-07|Session-2024-02-07]]: | [[LLY]] | Consolidation | Low volume | Thinly traded |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2024-08-20.md|Session-2024-08-20]]: | [[LLY]] | Anticipation (missed) | ❌ Hesitated | Ideal entry was yesterday, not today. |
+> [[Session-2024-08-20|Session-2024-08-20]]: | [[LLY]] | Anticipation (missed) | ❌ Hesitated | Ideal entry was yesterday, not today. |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2024-08-26.md|Session-2024-08-26]]: | [[LLY]] | Anticipation (high-priced) | ✅ #1 idea | Highest priced, tight NC, most fund ownership |
+> [[Session-2024-08-26|Session-2024-08-26]]: | [[LLY]] | Anticipation (high-priced) | ✅ #1 idea | Highest priced, tight NC, most fund ownership |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2024-08-27.md|Session-2024-08-27]]: LLY was the #1 anticipation idea from Friday. It opened up ~$20, then faded all day. This is THE anticipation pattern:
+> [[Session-2024-08-27|Session-2024-08-27]]: LLY was the #1 anticipation idea from Friday. It opened up ~$20, then faded all day. This is THE anticipation pattern:
 
-> [[../../06-Daily/stockbee/Sessions/Session-2024-08-27.md|Session-2024-08-27]]: LLY went down to $9.18 in premarket — meaningless. Wait for market open.
+> [[Session-2024-08-27|Session-2024-08-27]]: LLY went down to $9.18 in premarket — meaningless. Wait for market open.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2024-08-27.md|Session-2024-08-27]]: Member moved stop on LLY too tight (below the open) and got stopped out on a small wick. **Give stocks room to run**, especially with catalysts.
+> [[Session-2024-08-27|Session-2024-08-27]]: Member moved stop on LLY too tight (below the open) and got stopped out on a small wick. **Give stocks room to run**, especially with catalysts.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2024-08-27.md|Session-2024-08-27]]: Member asked about volume confirmation on LLY. Pradeep was emphatic:
+> [[Session-2024-08-27|Session-2024-08-27]]: Member asked about volume confirmation on LLY. Pradeep was emphatic:
 
-> [[../../06-Daily/stockbee/Sessions/Session-2024-08-27.md|Session-2024-08-27]]: | [[LLY]] | Anticipation (high-priced, catalyst) | ✅ Worked 5 min | Popped $20, then faded. Only valid entry: day before or open. Too late after that. |
+> [[Session-2024-08-27|Session-2024-08-27]]: | [[LLY]] | Anticipation (high-priced, catalyst) | ✅ Worked 5 min | Popped $20, then faded. Only valid entry: day before or open. Too late after that. |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2024-08-29.md|Session-2024-08-29]]: | [[LLY]] | Anticipation (context) | ⚠️ Fading | Still fading from yesterday, entire morning faded |
+> [[Session-2024-08-29|Session-2024-08-29]]: | [[LLY]] | Anticipation (context) | ⚠️ Fading | Still fading from yesterday, entire morning faded |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-01-14.md|Session-2025-01-14]]: # Weak Bounce, LLY SIPs Missed, Focus on Biotech/Tech Sub-$1B
+> [[Session-2025-01-14|Session-2025-01-14]]: # Weak Bounce, LLY SIPs Missed, Focus on Biotech/Tech Sub-$1B
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-01-14.md|Session-2025-01-14]]: Day 5 of decline. Market tried to bounce but couldn't convince — "ideal setup for a bounce, but no buyers." T2108 ticked up to 21.99 from 20.41. Eli Lilly earnings miss created the **best SIPs opportunity of the week** and most members missed it because they don't look at short-side SIPs. Pradeep adds LLY to must-watch list for potential $100-200 move. Small cap session announced for 5:30 PM.
+> [[Session-2025-01-14|Session-2025-01-14]]: Day 5 of decline. Market tried to bounce but couldn't convince — "ideal setup for a bounce, but no buyers." T2108 ticked up to 21.99 from 20.41. Eli Lilly earnings miss created the **best SIPs opportunity of the week** and most members missed it because they don't look at short-side SIPs. Pradeep adds LLY to must-watch list for potential $100-200 move. Small cap session announced for 5:30 PM.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-01-14.md|Session-2025-01-14]]: ## 11 AM Meeting — LLY Missed, Weak Bounce, Watch List Philosophy
+> [[Session-2025-01-14|Session-2025-01-14]]: ## 11 AM Meeting — LLY Missed, Weak Bounce, Watch List Philosophy
 
 ## Related Concepts
 

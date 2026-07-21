@@ -24,29 +24,29 @@ promote: false
 
 > [[../../04-Transcripts/stockbee/videos/2026-02-24_how-to-create-delayed-eo-watchlist.md|2026-02-24_how-to-create-delayed-eo-watchlist]]: That might be if you are looking at something which is marginal catalyst play.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2023-12-29.md|Session-2023-12-29]]: - More focus on news/catalyst plays
+> [[Session-2023-12-29|Session-2023-12-29]]: - More focus on news/catalyst plays
 
-> [[../../06-Daily/stockbee/Sessions/Session-2024-01-05.md|Session-2024-01-05]]: 3. **SIPs** — subset of 9,000,000 EP, day-trade catalyst plays
+> [[Session-2024-01-05|Session-2024-01-05]]: 3. **SIPs** — subset of 9,000,000 EP, day-trade catalyst plays
 
-> [[../../06-Daily/stockbee/Sessions/Session-2024-02-07.md|Session-2024-02-07]]: - **Catalyst stock**: has a real earnings/event catalyst (tradeable)
+> [[Session-2024-02-07|Session-2024-02-07]]: - **Catalyst stock**: has a real earnings/event catalyst (tradeable)
 
-> [[../../06-Daily/stockbee/Sessions/Session-2024-07-17.md|Session-2024-07-17]]: 8. **DJT** bought as story/catalyst play, stopped out — no hard feelings, move on
+> [[Session-2024-07-17|Session-2024-07-17]]: 8. **DJT** bought as story/catalyst play, stopped out — no hard feelings, move on
 
-> [[../../06-Daily/stockbee/Sessions/Session-2024-08-28.md|Session-2024-08-28]]: This frustrates new people: "don't trade" but also "I'm still going for catalyst trades." The ability to hold both ideas simultaneously is what separates skilled traders.
+> [[Session-2024-08-28|Session-2024-08-28]]: This frustrates new people: "don't trade" but also "I'm still going for catalyst trades." The ability to hold both ideas simultaneously is what separates skilled traders.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2024-08-28.md|Session-2024-08-28]]: 3. **Hold two conflicting ideas** — ESE bearish AND still take catalyst trades
+> [[Session-2024-08-28|Session-2024-08-28]]: 3. **Hold two conflicting ideas** — ESE bearish AND still take catalyst trades
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-01-03.md|Session-2025-01-03]]: - **Oklo**: 9M breakout, zero revenue, zero profit — pure theme/catalyst play
+> [[Session-2025-01-03|Session-2025-01-03]]: - **Oklo**: 9M breakout, zero revenue, zero profit — pure theme/catalyst play
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-01-29.md|Session-2025-01-29]]: - [[TSLA]] — earnings today, catalyst play
+> [[Session-2025-01-29|Session-2025-01-29]]: - [[TSLA]] — earnings today, catalyst play
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-07-15.md|Session-2025-07-15]]: > "MP, on the day of the catalyst, traded 86 million shares. The highest number ever. That is why that catalyst was powerful. That is why I was looking for a delayed reaction."
+> [[Session-2025-07-15|Session-2025-07-15]]: > "MP, on the day of the catalyst, traded 86 million shares. The highest number ever. That is why that catalyst was powerful. That is why I was looking for a delayed reaction."
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-07-24.md|Session-2025-07-24]]: ### Tesla Short — The Catalyst Trade
+> [[Session-2025-07-24|Session-2025-07-24]]: ### Tesla Short — The Catalyst Trade
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-07-24.md|Session-2025-07-24]]: | [[TSLA]] | Shorted after hours / covered 80% | Clean catalyst trade — terrible earnings, shorted at $301.875 |
+> [[Session-2025-07-24|Session-2025-07-24]]: | [[TSLA]] | Shorted after hours / covered 80% | Clean catalyst trade — terrible earnings, shorted at $301.875 |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-07-24.md|Session-2025-07-24]]: 2. **Tesla short = clean catalyst trade** — shorted after terrible earnings at $301.875, covered 80% for $8+ profit
+> [[Session-2025-07-24|Session-2025-07-24]]: 2. **Tesla short = clean catalyst trade** — shorted after terrible earnings at $301.875, covered 80% for $8+ profit
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-06-30.md|Session-2026-06-30]]: | [[NNBR]] | Small-cap catalyst play | Traded for fun, not account-changing size |
 

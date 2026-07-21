@@ -16,7 +16,7 @@ promote: false
 
 > [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 1.md|Bullish Momentum Burst Guide-Section 1]]: **Reality:** ADR is backward-looking. Before a burst, a stock has LOW ADR. The burst CAUSES the high ADR.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-08-20.md|Session-2025-08-20]]: | [[LOW]] (Lowe's) | Day trade — earnings play | "Range $6-7, day traders can capture" |
+> [[Session-2025-08-20|Session-2025-08-20]]: | [[LOW]] (Lowe's) | Day trade — earnings play | "Range $6-7, day traders can capture" |
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-01-28.md|Session-2026-01-28]]: XRT down 3 days in a row. [[TJX]], [[COST]], [[HD]], [[LOW]] all correcting. Consumer confidence weakening.
 

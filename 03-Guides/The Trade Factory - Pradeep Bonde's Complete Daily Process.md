@@ -314,3 +314,300 @@ Pradeep spent a full day with Kristjan Qullamaggie in Stockholm:
 - [[../../04-Transcripts/stockbee/videos/2026-05-24_trade-factory.md|Full Transcript]]
 - [StockBee Video](https://stockbee.biz/video/2026-05-24-trade-factory/)
 - Companion video: [[../../04-Transcripts/stockbee/videos/2026-05-24_delayed-reactions-ep.md|Delayed Reactions EP]]
+
+---
+
+# Supplementary A: Real-Time Scanning — How the Scan Works During the Day
+
+## No Scheduler Needed — TC2000 Auto-Updates
+
+Pradeep's scans are **real-time**. TC2000 automatically refreshes scan results as new ticks come in during market hours. There is no manual "refresh" button or cron job.
+
+> "All my scans update real time. There is real time. It is updating real time when the market opens. It automatically updates."  
+> — Mind Clarity EP Family video (June 11, 2026)
+
+## How the EP 9M Scan Builds During the Day
+
+From the EP9 Daily Process video (April 25, 2026), Pradeep described exactly how the scan fills:
+
+| Time | Stocks in Scan | What's Happening |
+|---|---|---|
+| **9:30 – 9:45** | ~10-20 stocks | Early volume leaders — funds buying right out of the gate |
+| **10:00** | ~30-40 stocks | Most buys happen in the first 30 min |
+| **11:00** | ~60-70 stocks (normal day) / ~100 (abnormal) | Volume leaders becoming clear |
+| **2:00 PM** | ~150-170 stocks | Clear which stocks will hit 9M |
+| **3:00 PM** | ~200-250 stocks | Most of the day's 9M stocks are in |
+
+> "At 9:30 AM, I start running scans. Combo bullish, combo bearish, sorted by volume, EP 9M. Always sorted by volume. Nothing happens premarket as far as EP 9M is concerned. Everything starts at 9:30 AM."  
+> — EP9 Daily Process video (April 25, 2026)
+
+## The Combo Scans Are the Early Warning System
+
+The combo bullish/bearish scans catch stocks **before** they hit 9M volume:
+
+> "If a stock is not yet 9M, but it is 7M, it is still going to show up in combo bullish scan, and then it will hit EP 9M. You can find EP 9M earlier by using a combination bullish or combination bearish scan."  
+> — EP9 Daily Process video
+
+## The Process: Run → Find → Buy → Repeat
+
+> "You run the scan. If you find something, you buy. You run the scan. If you find something, you buy. You run the scan. You buy."  
+> — EP9 Daily Process video
+
+This is a **continuous loop** — glance at the auto-refreshing scan, enter if something qualifies, repeat. Not a scheduled interval.
+
+## Can You Set Up a Scheduler?
+
+**No — and you don't need to with TC2000.** The scans auto-refresh in real time.
+
+If you wanted to replicate this with a **custom Python scanner**, you would need:
+- A market data API (Polygon, Alpaca, Finnhub) with real-time or 1-min delayed quotes
+- A scheduler (e.g., `APScheduler` or `schedule` library) running every 1-5 minutes
+- A scan function that checks volume + 4% move conditions
+- This reinvents what TC2000 already does, with worse latency
+
+**Recommendation:** Use TC2000 or Trade Ideas. They already do real-time scanning with volume sorting — exactly what Pradeep uses.
+
+---
+
+# Supplementary B: How to Set Up the Scans in TC2000
+
+Pradeep's scans are available to **platinum-level StockBee members** as pre-built "Scan Used Daily" templates. But you can also build them yourself.
+
+## General TC2000 Setup Principles
+
+1. **Always sort by volume** — Pradeep sorts by "Max Volume 25" (highest 25-day volume)
+2. **Always add a liquidity filter** — Pradeep uses `MINv3.1 >= 100,000` (last 3 days volume excluding today ≥ 100K)
+3. **Use PCF (Personal Criteria Formulas)** for custom conditions
+4. **Save scans with naming conventions** — Pradeep uses prefixes: all bullish scans on top, bearish below, studies under "SSS", miscellaneous under "ZGG"
+
+> "Always sorted by volume because the higher the volume, the better it is."
+
+> "Whenever you use the convention called 3.1, what it means is it is looking at three days of volume, but not looking at today's volume. So it is looking at last three days. That way, you're ensuring that a stock which shows up in the morning even if it is trading 5,000 shares — in the last three days, it has traded 100,000 shares."
+
+---
+
+## Scan 1: EP 9M (Episodic Pivot 9 Million)
+
+**Purpose:** Find stocks with 9M+ volume and 4%+ move on the day — the primary setup for explosive moves.
+
+### Conditions
+
+| Condition | TC2000 PCF / Setting | Purpose |
+|---|---|---|
+| **Universe** | US Common Stocks, ETFs, ADRs | Tradeable universe |
+| **Volume today** | `V >= 8,900,000` | 9M+ shares traded today (8.9M to catch near-9M) |
+| **4% move** | `C >= C1 * 1.04` (bullish) or `C <= C1 * 0.96` (bearish) | 4%+ move = episodic pivot |
+| **Within 75% of high** | `C >= H * 0.75` | Not fading from highs |
+| **Liquidity filter** | `MINv3.1 >= 100,000` | 100K+ avg volume last 3 days (excl. today) |
+| **Price filter (optional)** | `C >= 3` | Skip penny stocks |
+
+### Sort
+- **Sort by: Max Volume 25** (descending) — highest 25-day volume first
+
+### How to Create in TC2000
+
+1. Open TC2000 → New → Easy Scan
+2. Name it: `EP 9M` (or use Pradeep's convention)
+3. Add Universe: US Common Stocks + ETFs + ADRs
+4. Add Condition → Create PCF Formula:
+   ```
+   V >= 8900000 AND C >= C1 * 1.04 AND C >= H * 0.75
+   ```
+   (For bearish version: `V >= 8900000 AND C <= C1 * 0.96`)
+5. Add Liquidity Filter: `MINv3.1 >= 100000`
+6. Add Price Filter: `C >= 3` (optional)
+7. Sort by: **Max Vol 25** (descending)
+8. Save
+
+> "Stocks that traded 9,000,000 plus. Two conditions they should meet: they should trade 8,900,000 shares for the day, and at entry time, stock should be within 75% of high. So it should not be fading."  
+> — How to 9 Million EP video (April 16, 2026)
+
+---
+
+## Scan 2: Combo Bullish
+
+**Purpose:** Broader breakout scan — catches stocks building volume before they hit 9M (e.g., at 7M volume). This is the **early warning system**.
+
+### Conditions
+
+| Condition | TC2000 PCF / Setting | Purpose |
+|---|---|---|
+| **Universe** | US Common Stocks, ETFs, ADRs | Tradeable universe |
+| **4% breakout** | `C >= C1 * 1.04` | 4%+ move today |
+| **Volume surge** | `V >= 1,000,000` | 1M+ shares (lower threshold than EP 9M) |
+| **Liquidity filter** | `MINv3.1 >= 100,000` | 100K+ avg volume last 3 days |
+| **Price filter** | `C >= 3` | Skip penny stocks |
+
+### Sort
+- **Sort by: Max Volume 25** (descending)
+
+### How to Create
+
+1. New → Easy Scan → Name: `Combo Bullish`
+2. Add Universe: US Common Stocks + ETFs + ADRs
+3. Add Condition → PCF:
+   ```
+   C >= C1 * 1.04 AND V >= 1000000
+   ```
+4. Add Liquidity Filter: `MINv3.1 >= 100000`
+5. Add Price Filter: `C >= 3`
+6. Sort by: **Max Vol 25** (descending)
+7. Save
+
+> "As soon as the market opens, I'm running combo bullish because any stock which is gonna be at EP 9M is gonna show up in combo bullish also if it is a start of a swing."  
+> — EP9 Daily Process video
+
+---
+
+## Scan 3: Combo Bearish
+
+**Purpose:** Same as Combo Bullish but for the short side. Catches stocks breaking down with volume before they hit 9M.
+
+### Conditions
+
+| Condition | TC2000 PCF / Setting | Purpose |
+|---|---|---|
+| **Universe** | US Common Stocks, ETFs, ADRs | Tradeable universe |
+| **4% breakdown** | `C <= C1 * 0.96` | 4%+ drop today |
+| **Volume surge** | `V >= 1,000,000` | 1M+ shares |
+| **Liquidity filter** | `MINv3.1 >= 100,000` | 100K+ avg volume last 3 days |
+| **Price filter** | `C >= 3` | Skip penny stocks |
+
+### Sort
+- **Sort by: Max Volume 25** (descending)
+
+### How to Create
+
+Same as Combo Bullish, but change the PCF to:
+```
+C <= C1 * 0.96 AND V >= 1000000
+```
+
+> "Both scans run simultaneously. Sometimes you're going to find a stock which is meeting your SOS definition, and its volume is 7,000,000, and you will make your decision to buy it. And in couple of minutes, it will become EP 9M."  
+> — EP9 Daily Process video
+
+---
+
+## Scan 4: Sugar Wave (Sugar Baby Scan)
+
+**Purpose:** Find "proven winner" stocks that have repeatedly made big moves (40-100%+) after EP 9M signals. These are stocks like MARA, ENPH, IREN that tend to explode every time they get a catalyst.
+
+### Conditions
+
+Pradeep posted a link on the StockBee timeline (July 3, 2026) for a member-created sugar baby scan that approximates the setup. The key conditions:
+
+| Condition | TC2000 PCF / Setting | Purpose |
+|---|---|---|
+| **Universe** | US Common Stocks | Focus on common stocks |
+| **Historical EP 9M frequency** | Stocks that have had 9M+ volume days multiple times in the past year | "Proven winners" — repeat big movers |
+| **Price** | `C >= 3` | Skip penny stocks |
+| **Liquidity** | `MINv3.1 >= 100,000` | Liquidity filter |
+| **Volatility** | Has made 40%+ moves in the past (historical range) | Capable of big moves |
+| **Rank** | Set rank to 99 (TC2000 ranking condition) | Approximation filter |
+
+### Sort
+- **Sort by: Max Volume 25** (descending)
+
+### How to Create
+
+1. **Platinum members:** Go to "Scan Used Daily" → look for the Sugar Baby scan link Pradeep posted on the timeline (July 3, 2026)
+2. **Manual setup:** Create an Easy Scan with the link parameters Pradeep shared
+3. Pradeep adjusted the member's scan: changed some parameters to 4, 3, 3 (from the original)
+4. **Optional:** Remove the "1450" condition if it slows down the scan — it adds a lot of overhead
+5. Sort by: **Max Vol 25** (descending)
+
+> "I posted a link on the timeline which you can use to create a sugar baby scan which will do the approximation of sugar babies. ... I changed some of the parameters from what he had put in. I made this four, I made this three, I made this three."  
+> — What Is Setting Up video (July 3, 2026)
+
+> "These are proven winners. Every time they make a move, they make a move. Like Home Depot has 'proven winners' plants — same way."  
+> — How to 9 Million EP video (April 16, 2026)
+
+**Note:** The exact PCF for the sugar baby scan is available to StockBee platinum members via the timeline link. The scan gives ~215 stocks when the "1450" condition is removed.
+
+---
+
+## Scan 5: SOS Filter
+
+**Purpose:** SOS (Stock Open Strong) is **not a standalone scan** — it's a **filter applied on top of EP 9M results**. It narrows ~200 EP 9M stocks down to 3-10 actionable candidates.
+
+### What SOS Means
+
+SOS = "Stock Open Strong." It means the stock opened with unusual strength and is confirming the move intraday. The key components:
+
+| SOS Component | What It Means | TC2000 Check |
+|---|---|---|
+| **Start of swing** | First day of a move (not day 2, 3, or 4) | Visual: no prior swing days before today |
+| **Gap up or strong open** | Stock opened higher than yesterday's close | `O > C1` (open > yesterday's close) |
+| **Volume confirmation** | Heavy volume at the open | Volume building rapidly in first 15-30 min |
+| **Not fading** | Stock is holding gains, not giving back | `C >= H * 0.75` (within 75% of high) |
+
+### How to Apply
+
+SOS is applied as a **manual filter** after running the EP 9M scan, not as a separate scan condition:
+
+1. Run EP 9M scan → ~200 stocks
+2. Apply SOS filter (visual check on chart):
+   - Is this the **first day** of a swing? (no prior breakout days)
+   - Did it **open strong**? (gap up or strong open)
+   - Is it **holding gains**? (not fading from highs)
+   - Is volume **confirming**? (building, not drying up)
+3. Filter narrows to ~3-10 candidates
+4. For each candidate: classify as cat, dog, or liquid lava → decide sizing → enter
+
+> "From 200 stocks, we started with 200 stocks. When you use SOS filter, it is going to narrow it down to three to 10 opportunities. ... This is the signal which is telling you that there is something here. This is something big. This is on a Richter scale — very high. This is not minor buying."  
+> — EP 9 Million video (May 15, 2026)
+
+> "SOS is my must-have condition for anything I want to do."  
+> — How to Delayed Reaction EP video (April 17, 2026)
+
+> "SOS is like the heart of every setup idea which I have. It is based on SOS."  
+> — Setup Selection First Decision video (June 1, 2026)
+
+### SOS as a TC2000 Condition (Approximation)
+
+If you want to build SOS as a TC2000 condition (approximation):
+
+```
+O > C1 * 1.02 AND C >= H * 0.75 AND V >= 1000000
+```
+
+This catches: opened 2%+ above yesterday's close AND within 75% of today's high AND 1M+ volume. But the **"first day of swing"** check is best done visually on the chart — it's hard to encode in a PCF.
+
+---
+
+## Quick Reference: All Scans at a Glance
+
+| Scan | Key Conditions | Volume Threshold | Sort | Purpose |
+|---|---|---|---|---|
+| **EP 9M** | 4%+ move, within 75% of high | 8.9M+ today | Max Vol 25 | Primary setup — explosive moves |
+| **Combo Bullish** | 4%+ breakout | 1M+ today | Max Vol 25 | Early warning — catches stocks before 9M |
+| **Combo Bearish** | 4%+ breakdown | 1M+ today | Max Vol 25 | Short-side early warning |
+| **Sugar Wave** | Historical big mover, repeat EP 9M | N/A (watchlist) | Max Vol 25 | Proven winners watchlist |
+| **SOS Filter** | Open strong, first day of swing, not fading | Applied on EP 9M results | N/A | Narrows 200 → 3-10 candidates |
+
+## TC2000 PCF Cheat Sheet
+
+| Formula | Meaning |
+|---|---|
+| `V >= 8900000` | Today's volume ≥ 8.9M |
+| `V >= 1000000` | Today's volume ≥ 1M |
+| `C >= C1 * 1.04` | Close ≥ 4% above yesterday's close (bullish 4%) |
+| `C <= C1 * 0.96` | Close ≤ 4% below yesterday's close (bearish 4%) |
+| `C >= H * 0.75` | Close within 75% of today's high (not fading) |
+| `MINv3.1 >= 100000` | 3-day average volume (excl. today) ≥ 100K |
+| `MINv10.1 >= 100000` | 10-day average volume (excl. today) ≥ 100K |
+| `C >= 3` | Price ≥ $3 |
+| `O > C1 * 1.02` | Open ≥ 2% above yesterday's close (gap up) |
+| `C >= AVG(C, 50)` | Close above 50-day moving average |
+| `C >= AVG(C, 20)` | Close above 20-day moving average |
+
+## Platinum Member Shortcut
+
+If you have StockBee platinum membership:
+1. In TC2000, look for the **"Scan Used Daily"** tab (platinum-only feature)
+2. All of Pradeep's scans are pre-built: EP 9M, Combo Bullish, Combo Bearish, Sugar Wave, Anticipation, Reversal Bullish, etc.
+3. You can copy-paste or import directly — no need to build from scratch
+4. Pradeep's personal scans have a higher liquidity threshold (900K instead of 100K) — adjust to your capital level
+
+> "If you have a platinum level membership, you'll see something called 'Scan Used Daily.' That's platinum. ... All the scans are here. Combo scan, easy scan, what scan is what — it is all here in this document."  
+> — How to Master TC2000 video (June 18, 2026)

@@ -14,11 +14,11 @@ promote: false
 
 ## Mentions
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-07-30.md|Session-2025-07-30]]: | [[KO]] (Coca-Cola) | Getting into crypto | Story stock — "one crypto coin free when you buy $20 of t-shirts" |
+> [[Session-2025-07-30|Session-2025-07-30]]: | [[KO]] (Coca-Cola) | Getting into crypto | Story stock — "one crypto coin free when you buy $20 of t-shirts" |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-07-31.md|Session-2025-07-31]]: | [[KO]] (Coca-Cola) | Getting into crypto | "One crypto coin free when you buy $20 of t-shirts" |
+> [[Session-2025-07-31|Session-2025-07-31]]: | [[KO]] (Coca-Cola) | Getting into crypto | "One crypto coin free when you buy $20 of t-shirts" |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-08-01.md|Session-2025-08-01]]: | [[KO]] (Coca-Cola) | Getting into crypto | Story stock meme |
+> [[Session-2025-08-01|Session-2025-08-01]]: | [[KO]] (Coca-Cola) | Getting into crypto | Story stock meme |
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-01-08.md|Session-2026-01-08]]: Consumer staples ([[PG]], [[CL]], [[KO]]) and defense stocks making crazy moves:
 

@@ -20,57 +20,57 @@ promote: false
 
 > [[../../04-Transcripts/stockbee/2023-11-16_2-pm.md|2023-11-16_2-pm]]: Microsoft at MSFT.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2023-11-21.md|Session-2023-11-21]]: [[TSLA]] — liquid lava, continuation setup. [[MSFT]] — also showing continuation.
+> [[Session-2023-11-21|Session-2023-11-21]]: [[TSLA]] — liquid lava, continuation setup. [[MSFT]] — also showing continuation.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2023-11-21.md|Session-2023-11-21]]: | [[MSFT]] | Continuation | 🔄 Watching | Setting up |
+> [[Session-2023-11-21|Session-2023-11-21]]: | [[MSFT]] | Continuation | 🔄 Watching | Setting up |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2023-11-29.md|Session-2023-11-29]]: [[MSFT]], [[GOOGL]], [[META]] — exhausted. Money rotating into financials, consumer discretionary, story stocks.
+> [[Session-2023-11-29|Session-2023-11-29]]: [[MSFT]], [[GOOGL]], [[META]] — exhausted. Money rotating into financials, consumer discretionary, story stocks.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2023-12-05.md|Session-2023-12-05]]: | [[MSFT]] | — | ❌ Avoid | Faded, stopped out — move on |
+> [[Session-2023-12-05|Session-2023-12-05]]: | [[MSFT]] | — | ❌ Avoid | Faded, stopped out — move on |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2024-01-17.md|Session-2024-01-17]]: - Apple deteriorating, Microsoft selling (10,000 funds hold MSFT)
+> [[Session-2024-01-17|Session-2024-01-17]]: - Apple deteriorating, Microsoft selling (10,000 funds hold MSFT)
 
-> [[../../06-Daily/stockbee/Sessions/Session-2024-02-28.md|Session-2024-02-28]]: - Large caps (GOOGL, AAPL, AMZN, MSFT) going nowhere
+> [[Session-2024-02-28|Session-2024-02-28]]: - Large caps (GOOGL, AAPL, AMZN, MSFT) going nowhere
 
-> [[../../06-Daily/stockbee/Sessions/Session-2024-07-24.md|Session-2024-07-24]]: Nothing actionable. Large caps getting hammered. [[UNH]] and [[NVDA]] best-holding large caps. Everything else — AAPL, META, MSFT — looking like "wounded soldiers."
+> [[Session-2024-07-24|Session-2024-07-24]]: Nothing actionable. Large caps getting hammered. [[UNH]] and [[NVDA]] best-holding large caps. Everything else — AAPL, META, MSFT — looking like "wounded soldiers."
 
-> [[../../06-Daily/stockbee/Sessions/Session-2024-08-22.md|Session-2024-08-22]]: | [[MSFT]] | Short (range expansion) | ⏳ Open | 1.78% risk, earnings not great, weak bounce |
+> [[Session-2024-08-22|Session-2024-08-22]]: | [[MSFT]] | Short (range expansion) | ⏳ Open | 1.78% risk, earnings not great, weak bounce |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2024-08-26.md|Session-2024-08-26]]: | [[MSFT]] | Short (range expansion) | ✅ Working | In profit, stop moved to breakeven-plus |
+> [[Session-2024-08-26|Session-2024-08-26]]: | [[MSFT]] | Short (range expansion) | ✅ Working | In profit, stop moved to breakeven-plus |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2024-08-27.md|Session-2024-08-27]]: | [[MSFT]] | Short (range expansion) | ✅ Working | Stop moved up, in profit |
+> [[Session-2024-08-27|Session-2024-08-27]]: | [[MSFT]] | Short (range expansion) | ✅ Working | Stop moved up, in profit |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-01-22.md|Session-2025-01-22]]: | [[MSFT]] | Intraday SIPs | Catalyst | Gap up intraday opportunity only |
+> [[Session-2025-01-22|Session-2025-01-22]]: | [[MSFT]] | Intraday SIPs | Catalyst | Gap up intraday opportunity only |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-02-07.md|Session-2025-02-07]]: | [[MSFT]] | Bearish | Short (delayed reaction) | Short from $410.77, carrying overnight |
+> [[Session-2025-02-07|Session-2025-02-07]]: | [[MSFT]] | Bearish | Short (delayed reaction) | Short from $410.77, carrying overnight |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-02-07.md|Session-2025-02-07]]: | [[MSFT]] | Bearish | Short (delayed reaction) | Earnings negative reaction |
+> [[Session-2025-02-07|Session-2025-02-07]]: | [[MSFT]] | Bearish | Short (delayed reaction) | Earnings negative reaction |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-02-10.md|Session-2025-02-10]]: | [[MSFT]] | Bearish | Short held from $410.77 | Still carrying |
+> [[Session-2025-02-10|Session-2025-02-10]]: | [[MSFT]] | Bearish | Short held from $410.77 | Still carrying |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-02-10.md|Session-2025-02-10]]: | [[MSFT]] | Bearish | Short from $410.77 | Earnings negative reaction |
+> [[Session-2025-02-10|Session-2025-02-10]]: | [[MSFT]] | Bearish | Short from $410.77 | Earnings negative reaction |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-02-11.md|Session-2025-02-11]]: - [[MSFT]] short: would normally put 10% → only put small size
+> [[Session-2025-02-11|Session-2025-02-11]]: - [[MSFT]] short: would normally put 10% → only put small size
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-02-11.md|Session-2025-02-11]]: | [[MSFT]] | Bearish | Short from $410.77 | Still carrying |
+> [[Session-2025-02-11|Session-2025-02-11]]: | [[MSFT]] | Bearish | Short from $410.77 | Still carrying |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-02-11.md|Session-2025-02-11]]: | [[MSFT]] | Bearish | Short from $410.77 | Delayed reaction, earnings sold off |
+> [[Session-2025-02-11|Session-2025-02-11]]: | [[MSFT]] | Bearish | Short from $410.77 | Delayed reaction, earnings sold off |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-02-12.md|Session-2025-02-12]]: | [[MSFT]] | Bullish | Reversal potential | Delayed reaction candidate |
+> [[Session-2025-02-12|Session-2025-02-12]]: | [[MSFT]] | Bullish | Reversal potential | Delayed reaction candidate |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-02-18.md|Session-2025-02-18]]: 5. **MSFT** — near support, large stock, reversal bullish
+> [[Session-2025-02-18|Session-2025-02-18]]: 5. **MSFT** — near support, large stock, reversal bullish
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-02-18.md|Session-2025-02-18]]: | [[MSFT]] | Bullish | Reversal bullish near support | Large stock, market-dependent |
+> [[Session-2025-02-18|Session-2025-02-18]]: | [[MSFT]] | Bullish | Reversal bullish near support | Large stock, market-dependent |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-07-10.md|Session-2025-07-10]]: > Bullish situational awareness — mega caps [[NVDA]], [[AVGO]], [[AMZN]], [[GOOG]], [[MSFT]] fueled the rally. BTC hit all-time high above 112K. "Always look at history of the stock. History tells you a lot."
+> [[Session-2025-07-10|Session-2025-07-10]]: > Bullish situational awareness — mega caps [[NVDA]], [[AVGO]], [[AMZN]], [[GOOG]], [[MSFT]] fueled the rally. BTC hit all-time high above 112K. "Always look at history of the stock. History tells you a lot."
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-07-10.md|Session-2025-07-10]]: Market monitor had a **second strong 300+ green reading**. T2108 rose from 64.29 to 64.87. The 20% study remained bullish at 5:1. Mega caps led — [[NVDA]], [[AVGO]], [[AMZN]], [[GOOG]], [[MSFT]]. Small caps [[TNA]]/[[IWM]] pushed higher. [[BTC]] surged to ATH above 112K.
+> [[Session-2025-07-10|Session-2025-07-10]]: Market monitor had a **second strong 300+ green reading**. T2108 rose from 64.29 to 64.87. The 20% study remained bullish at 5:1. Mega caps led — [[NVDA]], [[AVGO]], [[AMZN]], [[GOOG]], [[MSFT]]. Small caps [[TNA]]/[[IWM]] pushed higher. [[BTC]] surged to ATH above 112K.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-07-31.md|Session-2025-07-31]]: | [[MSFT]] | Gap up / too extended | Same — priced in, don't chase |
+> [[Session-2025-07-31|Session-2025-07-31]]: | [[MSFT]] | Gap up / too extended | Same — priced in, don't chase |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-08-01.md|Session-2025-08-01]]: | [[MSFT]] | Gap up / too extended | Same — priced in, don't chase |
+> [[Session-2025-08-01|Session-2025-08-01]]: | [[MSFT]] | Gap up / too extended | Same — priced in, don't chase |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-08-13.md|Session-2025-08-13]]: | [[MSFT]] | Gave up all gains | Failed breakout |
+> [[Session-2025-08-13|Session-2025-08-13]]: | [[MSFT]] | Gave up all gains | Failed breakout |
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-01-30.md|Session-2026-01-30]]: - Long: [[META]], [[APLD]], [[MSFT]] (highest volume ever — likely $20 from current level)
 

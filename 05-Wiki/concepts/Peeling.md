@@ -92,7 +92,7 @@ promote: false
 
 > [[../../04-Transcripts/stockbee/videos/2026-03-07_baseline-market-understanding.md|2026-03-07_baseline-market-understanding]]: You'll understand peeling and why it is used.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2024-01-22.md|Session-2024-01-22]]: - PCB makes $25-70K with a $35K account by peeling
+> [[Session-2024-01-22|Session-2024-01-22]]: - PCB makes $25-70K with a $35K account by peeling
 
 ## Related Concepts
 

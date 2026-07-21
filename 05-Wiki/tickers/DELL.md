@@ -16,9 +16,9 @@ promote: false
 
 > [[../../03-Guides/stockbee/Sugar-Babies.md|Sugar-Babies]]: | DELL | Current Sugar Baby; tight setup entries |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-08-29.md|Session-2025-08-29]]: | [[DELL]] | Short — delayed reaction bearish | "Insiders selling hand over fist" |
+> [[Session-2025-08-29|Session-2025-08-29]]: | [[DELL]] | Short — delayed reaction bearish | "Insiders selling hand over fist" |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2025-08-29.md|Session-2025-08-29]]: 10. **DELL insiders selling hand over fist** — delayed reaction bearish
+> [[Session-2025-08-29|Session-2025-08-29]]: 10. **DELL insiders selling hand over fist** — delayed reaction bearish
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-06-01.md|Session-2026-06-01]]: A long-time member blew up his entire account by shorting [[DELL]] — an extended stock with no bearish setup.
 
