@@ -1,50 +1,46 @@
 ---
-title: "LUV (Southwest Airlines)"
-date: 2026-06-11
-tags: [tickers, wiki, enriched, pradeep-bonde, setup-quality, airline]
-mention_count: 8
-sources_count: 1
-compilation_count: 2
-enriched: true
+title: "LUV"
+date: 2026-07-21
+tags: [tickers, wiki, auto-compiled]
+mention_count: 7
+sources_count: 6
+compilation_count: 1
 promote: false
 ---
 
-# LUV (Southwest Airlines)
+# LUV
 
-## Overview
+*Tickers — compiled from 7 mentions across 6 sources.*
 
-LUV (Southwest Airlines) is discussed in a **single session** (June 9, 2026) as an example of **setup quality comparison**. Pradeep uses LUV alongside [[DAL]] (Delta) to illustrate that setup quality is objective and visually verifiable. LUV's tight consolidation near highs is presented as superior to DAL's setup, making it a textbook example of how to evaluate setup quality objectively.
+## Mentions
 
-## Key Mentions
+> [[../../04-Transcripts/stockbee/2026-02-03_3-pm.md|2026-02-03_3-pm]]: Delayed reaction watch list, COF shot, CBS shot, GLW, SNDK, bold marks are priority, Humana shot, Las Vegas shot, LUV, VIV, ALM, and Omar.
 
-### Setup Quality Comparison (June 9, 2026)
-- > "Quality of setup means anybody who has studied setups will say LUV is good." — **Key quote**: setup quality is not subjective opinion.
-- > "LUV's tight consolidation near highs is visually superior to DAL not closing near highs." — LUV used as the positive example in a setup quality comparison.
+> [[Session-2025-07-01|Session-2025-07-01]]: | [[MGM]] / [[LUV]] | Start of swing | Rotation into beaten-down names |
 
-### EP 9M Context
-- LUV is mentioned in the context of **EP 9M proliferating downside**, indicating institutional selling in the airline sector.
+> [[Session-2025-07-24|Session-2025-07-24]]: | [[LUV]] (Southwest) | Shot / short setup | "Looks like a shot, but shouting early isn't a good strategy" |
 
-## Context
+> [[Session-2025-07-24|Session-2025-07-24]]: | [[LUV]] (Southwest) | Delayed reaction short | Might work as delayed reaction short |
 
-| Setup Type | Evidence |
-|---|---|
-| Tight consolidation | Near highs, orderly — textbook quality |
-| Setup comparison | Used as positive example vs. DAL |
-| EP 9M | Downside signal in sector |
-| Airline sector | Part of airline group with DAL |
+> [[Session-2025-07-30|Session-2025-07-30]]: | [[LUV]] (Southwest Airlines) | Potential delayed reaction short | Missed earnings, guided down — "might become good as delayed reaction" |
+
+> [[Session-2025-08-01|Session-2025-08-01]]: | [[LUV]] | Potential delayed reaction short | Missed earnings, guided down |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-05-20.md|Session-2026-05-20]]: | [[LUV]] (Southwest) | Airline DEP | Delayed reaction EP |
 
 ## Related Concepts
 
-- [[05-Wiki/setups/EP|Episodic Pivots]]
-- [[05-Wiki/concepts/setup-quality|Setup Quality]] — LUV is the canonical example
-- [[05-Wiki/concepts/tight-consolidation|Tight Consolidation]]
-- [[05-Wiki/tickers/DAL|DAL]] — Direct comparison target
+*(To be enriched)*
 
 ## Contradictions & Gaps
 
-- Only appears in one session — no multi-day tracking.
-- No specific entry/exit or trade outcome documented for LUV.
+*(To be detected)*
 
 ## Sources
 
-- [[Meeting — Jun 09 (3 PM — 3 Pm 1538)]]
+- [[../04-Transcripts/stockbee/2026-02-03_3-pm.md|2026-02-03_3-pm]]
+- [[../06-Daily/stockbee/Sessions/Session-2025-07-01.md|Session-2025-07-01]]
+- [[../06-Daily/stockbee/Sessions/Session-2025-07-24.md|Session-2025-07-24]]
+- [[../06-Daily/stockbee/Sessions/Session-2025-07-30.md|Session-2025-07-30]]
+- [[../06-Daily/stockbee/Sessions/Session-2025-08-01.md|Session-2025-08-01]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-05-20.md|Session-2026-05-20]]

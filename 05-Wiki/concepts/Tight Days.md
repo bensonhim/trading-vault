@@ -1,22 +1,28 @@
 ---
 title: "Tight Days"
-date: 2026-07-03
+date: 2026-07-21
 tags: [concepts, wiki, auto-compiled]
-mention_count: 211
-sources_count: 117
+mention_count: 431
+sources_count: 258
 compilation_count: 1
 promote: false
 ---
 
 # Tight Days
 
-*Concepts — compiled from 211 mentions across 117 sources.*
+*Concepts — compiled from 431 mentions across 258 sources.*
 
 ## Mentions
 
 > [[../../03-Guides/stockbee/19. Deep Dive Guide.md|19. Deep Dive Guide]]: ### 3. The Three Financial Signatures
 
 > [[../../03-Guides/stockbee/23. Bearish Trading Guide.md|23. Bearish Trading Guide]]: 12. **Think worst-case scenario.** Stocks that look cheap at $10 can go to $5, then to $1. Some will never come back.
+
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: | 3 | **Theme** | AI, semiconductor cycle, government policy |
+
+> [[../../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]: > "My definition of tightness for my personal trading is plus or minus 0.4%. Ideally, I like to see tightness." — 2026-06-11
+
+> [[../../03-Guides/stockbee/Sugar-Babies.md|Sugar-Babies]]: | Tightness | ±0.4% or less preferred |
 
 > [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 2.md|How to Get Started In Trading Guide-Part 2]]: ### 3. The Four Factors That Should Decide Your Style
 
@@ -87,12 +93,6 @@ promote: false
 > [[../../03-Guides/stockbee/08. Anticipation (ANTS) Guide/08. Anticipation (ANTS) Guide.md|08. Anticipation (ANTS) Guide]]: ### 7.2 Scan 2: Tight Days in a Row (Part 9)
 
 > [[../../03-Guides/stockbee/08. Anticipation (ANTS) Guide/08. Anticipation (ANTS) Guide.md|08. Anticipation (ANTS) Guide]]: Further tighten by requiring **multiple consecutive tight days**:
-
-> [[../../03-Guides/stockbee/08. Anticipation (ANTS) Guide/08. Anticipation (ANTS) Guide.md|08. Anticipation (ANTS) Guide]]: - Or 2 bars in a row → **"2T"** (two tight days)
-
-> [[../../03-Guides/stockbee/08. Anticipation (ANTS) Guide/08. Anticipation (ANTS) Guide.md|08. Anticipation (ANTS) Guide]]: Result: 400 stocks → 19 stocks (3T). This finds the most compressed, explosive setups — the very tightest formations.
-
-> [[../../03-Guides/stockbee/08. Anticipation (ANTS) Guide/08. Anticipation (ANTS) Guide.md|08. Anticipation (ANTS) Guide]]: ### 10.2 The Darvas Parallel
 
 ## Related Concepts
 

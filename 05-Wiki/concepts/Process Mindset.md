@@ -1,16 +1,16 @@
 ---
 title: "Process Mindset"
-date: 2026-07-03
+date: 2026-07-21
 tags: [concepts, wiki, auto-compiled]
-mention_count: 501
-sources_count: 113
+mention_count: 1323
+sources_count: 370
 compilation_count: 1
 promote: false
 ---
 
 # Process Mindset
 
-*Concepts — compiled from 501 mentions across 113 sources.*
+*Concepts — compiled from 1323 mentions across 370 sources.*
 
 ## Mentions
 
@@ -49,6 +49,10 @@ promote: false
 > [[../../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]: ## Process Time Architecture
 
 > [[../../03-Guides/stockbee/Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs.md|Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs]]: ### Daily Process
+
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: | 2026-06-28 | What is Setting Up | Watch list creation process |
+
+> [[../../03-Guides/stockbee/EP-9-Million.md|EP-9-Million]]: 10. **NTRT/MTRT is the daily process** — nighttime and morning right time to find big winners
 
 > [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 3.md|How to Get Started In Trading Guide-Part 3]]: **The narrowing process:**
 
@@ -90,10 +94,6 @@ promote: false
 
 > [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: Knowing facts ≠ trading skill. Watching videos ≠ trading skill. Only running process loops creates skill.
 
-> [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: Process Loops / Procedural Memory (HOW do I execute flawlessly?)
-
-> [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: ## Daily Clarity Process Loop
-
 ## Related Concepts
 
 *(To be enriched)*
@@ -120,7 +120,7 @@ promote: false
 - [[../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]
 - [[../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]
 - [[../03-Guides/stockbee/Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs.md|Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs]]
+- [[../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]
+- [[../03-Guides/stockbee/EP-9-Million.md|EP-9-Million]]
 - [[../04-Transcripts/stockbee/01. How to Get Started/Pradeep Bonde - How to Get Started In Trading Guide-Part 4_deepgram.md|Pradeep Bonde - How to Get Started In Trading Guide-Part 4_deepgram]]
 - [[../04-Transcripts/stockbee/02. How to Trade Breakouts/Pradeep Bonde - How to Trade Breakouts Guide-Part 3_deepgram.md|Pradeep Bonde - How to Trade Breakouts Guide-Part 3_deepgram]]
-- [[../04-Transcripts/stockbee/02. How to Trade Breakouts/Pradeep Bonde - How to Trade Breakouts Guide-Part 6_deepgram.md|Pradeep Bonde - How to Trade Breakouts Guide-Part 6_deepgram]]
-- [[../04-Transcripts/stockbee/14. Sugar Babies Guide/Pradeep Bonde - Sugar Babies Guide-Part 1 - Sugar babies who pay sugar daddies_deepgram.md|Pradeep Bonde - Sugar Babies Guide-Part 1 - Sugar babies who pay sugar daddies_deepgram]]

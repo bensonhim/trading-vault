@@ -1,16 +1,16 @@
 ---
 title: "Stock Selection"
-date: 2026-07-03
+date: 2026-07-21
 tags: [concepts, wiki, auto-compiled]
-mention_count: 267
-sources_count: 84
+mention_count: 471
+sources_count: 164
 compilation_count: 1
 promote: false
 ---
 
 # Stock Selection
 
-*Concepts — compiled from 267 mentions across 84 sources.*
+*Concepts — compiled from 471 mentions across 164 sources.*
 
 ## Mentions
 
@@ -39,6 +39,14 @@ promote: false
 > [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: - [[Stock Selection|Stock Selection]] — fund ownership, buckets, institutional quality
 
 > [[../../03-Guides/stockbee/21. Process Guide.md|21. Process Guide]]: - Priority selection if multiple setups: (1) highest volume, (2) lowest capitalization.
+
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: ### Fund Quality vs. Buckets Priority
+
+> [[../../03-Guides/stockbee/EP-9-Million.md|EP-9-Million]]: | **Sugar Babies** | Stock selection | ~4/SB/yr | Low | **#1 (tied)** |
+
+> [[../../03-Guides/stockbee/Sugar-Babies.md|Sugar-Babies]]: # Sugar Babies — Stock Selection Strategy
+
+> [[../../03-Guides/stockbee/Sugar-Babies.md|Sugar-Babies]]: | Type | Stock selection | Scan-based setup | Scan + watchlist |
 
 > [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 1.md|How to Get Started In Trading Guide-Part 1]]: | **Part 8** | Tax-Advantaged Portfolio | 366-day holds, Nasdaq 100 selection, consumer > enterprise |
 
@@ -85,14 +93,6 @@ promote: false
 > [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 4.md|How to Trade Breakouts Guide-Part 4]]: | **Part 6** | Vehicle Selection — Fund Ownership | 5 buckets by fund count, stability vs explosiveness |
 
 > [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 4.md|How to Trade Breakouts Guide-Part 4]]: | **Part 7** | Vehicle Selection — Youth | IPO age < 5 years, catching them young, sugar babies |
-
-> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 5.md|How to Trade Breakouts Guide-Part 5]]: | **Part 5** | Vehicle Selection — Momentum | IBD 85-85-85 method, revenue momentum, Bucket Zero/One |
-
-> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 5.md|How to Trade Breakouts Guide-Part 5]]: | **Part 6** | Vehicle Selection — Fund Ownership | 5 buckets by fund count, stability vs explosiveness |
-
-> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 5.md|How to Trade Breakouts Guide-Part 5]]: | **Part 7** | Vehicle Selection — Youth | IPO age < 5 years, catching them young, sugar babies |
-
-> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 5.md|How to Trade Breakouts Guide-Part 5]]: The breakout setup (momentum burst) is only half the battle. **Vehicle selection** is equally critical:
 
 ## Related Concepts
 

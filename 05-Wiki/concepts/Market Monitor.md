@@ -1,16 +1,16 @@
 ---
 title: "Market Monitor"
-date: 2026-07-03
+date: 2026-07-21
 tags: [concepts, wiki, auto-compiled]
-mention_count: 1680
-sources_count: 334
+mention_count: 5324
+sources_count: 1160
 compilation_count: 1
 promote: false
 ---
 
 # Market Monitor
 
-*Concepts — compiled from 1680 mentions across 334 sources.*
+*Concepts — compiled from 5324 mentions across 1160 sources.*
 
 ## Mentions
 
@@ -47,6 +47,12 @@ promote: false
 > [[../../03-Guides/stockbee/23. Bearish Trading Guide.md|23. Bearish Trading Guide]]: | **"Sugar babies" / story stocks** | Hot retail story stocks (e.g., quantum computing, AI, clean energy) have asymmetric downside when the story breaks |
 
 > [[../../03-Guides/stockbee/23. Bearish Trading Guide.md|23. Bearish Trading Guide]]: - [[Market Monitor|Market Monitor]] — daily process, weekend process, market condition classification
+
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: | Skill level | Medium | Medium-low (more time to research) |
+
+> [[../../03-Guides/stockbee/EP-9-Million.md|EP-9-Million]]: | Gap | Large gap common | Often non-gap (closer stops) |
+
+> [[../../03-Guides/stockbee/EP-9-Million.md|EP-9-Million]]: 7. **All explosive moves happen in 5–20 days** — this is not a long-term method
 
 > [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 1.md|How to Get Started In Trading Guide-Part 1]]: Most people stumble into trading without asking why. Your objective determines *everything* — your strategy, time commitment, and whether you should even be trading. Be honest:
 
@@ -87,12 +93,6 @@ promote: false
 > [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 6.md|How to Get Started In Trading Guide-Part 6]]: ### 9. Recommended Day Trading Path for Beginners
 
 > [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 6.md|How to Get Started In Trading Guide-Part 6]]: **NOT recommended for day trading beginners:** Chasing breakouts.
-
-> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 6.md|How to Get Started In Trading Guide-Part 6]]: 2. **Buy the most powerful vacuum** — go through every post, every video, every comment, every account they follow
-
-> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 7.md|How to Get Started In Trading Guide-Part 7]]: **The "Fixed Stars vs Meteors" framework** (from a book he recommends):
-
-> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 7.md|How to Get Started In Trading Guide-Part 7]]: - Bought second (flooded basement), learned from mistakes, fixed it
 
 ## Related Concepts
 

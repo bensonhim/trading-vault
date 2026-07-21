@@ -1,0 +1,2386 @@
+{
+  "segments": [
+    {
+      "start": 44.735,
+      "end": 44.975002,
+      "text": "Okay."
+    },
+    {
+      "start": 44.975002,
+      "end": 55.155003,
+      "text": "If you want to simplify your life and focus on only few stocks with the potential to make big moves, then Sugarweb is is a good strategy for stock selection."
+    },
+    {
+      "start": 56.17,
+      "end": 57.85,
+      "text": "It's a stock selection strategy."
+    },
+    {
+      "start": 57.85,
+      "end": 58.989998,
+      "text": "It is not a setup."
+    },
+    {
+      "start": 60.41,
+      "end": 66.83,
+      "text": "The setups on this kind of us, list will still be start of a swing."
+    },
+    {
+      "start": 68.505,
+      "end": 69.005,
+      "text": "Right?"
+    },
+    {
+      "start": 69.065,
+      "end": 85.28,
+      "text": "That will be the setup on this or reversal bullish or and but it's a stock selection strategy."
+    },
+    {
+      "start": 86.22,
+      "end": 95.92,
+      "text": "What it does is it identifies stocks in the market which have a very high probability of making big moves."
+    },
+    {
+      "start": 96.205,
+      "end": 102.784996,
+      "text": "Or these are the stocks which the market essentially, my definition of sugar wave is is stocks."
+    },
+    {
+      "start": 105.805,
+      "end": 113.270004,
+      "text": "The market is in love with."
+    },
+    {
+      "start": 113.270004,
+      "end": 114.73,
+      "text": "They're madly in love."
+    },
+    {
+      "start": 122.945,
+      "end": 124.865,
+      "text": "And that's the way to look at it."
+    },
+    {
+      "start": 124.865,
+      "end": 125.185,
+      "text": "Right?"
+    },
+    {
+      "start": 125.185,
+      "end": 130.325,
+      "text": "And if for whatever reason, these are the stocks which the market has fallen in love with."
+    },
+    {
+      "start": 130.705,
+      "end": 151.775,
+      "text": "And that's really so when these stocks swing, they swing 40 to 50% because there is so much allow for this particular stock or these are the stocks which are on everybody's or active prep speculators radar."
+    },
+    {
+      "start": 151.775,
+      "end": 160.575,
+      "text": "So they tend to make 40 to 50% move in three to five days as against normal stock, which will make it to 20%."
+    },
+    {
+      "start": 160.575,
+      "end": 182.205,
+      "text": "So it gives you and every one of these, every sugar maybe will give you at least four tradable setups, long or short in a year."
+    },
+    {
+      "start": 183.785,
+      "end": 195.90999,
+      "text": "So if you decide to, like and I just focus on your sugar babies, right, and get rid of, everything else."
+    },
+    {
+      "start": 196.45,
+      "end": 204.12999,
+      "text": "You still have between, like, sixties or 70 sugar babies multiplied by four."
+    },
+    {
+      "start": 204.12999,
+      "end": 207.67,
+      "text": "You're looking at potentially 240 traits."
+    },
+    {
+      "start": 210.745,
+      "end": 210.905,
+      "text": "Right."
+    },
+    {
+      "start": 210.905,
+      "end": 213.065,
+      "text": "Some of those swings will be a 100% plus."
+    },
+    {
+      "start": 213.065,
+      "end": 220.025,
+      "text": "Some of those swings will be 40% plus, and some of those things will be 20%."
+    },
+    {
+      "start": 220.025,
+      "end": 220.345,
+      "text": "Right?"
+    },
+    {
+      "start": 220.345,
+      "end": 221.19,
+      "text": "So that's the thing."
+    },
+    {
+      "start": 221.75,
+      "end": 254.31,
+      "text": "So in order to create this, what is the one thing which is used is, like, you know, the parameter to define parameter to define what is the market madly in love with is, how often the stock had 9,000,000 plus volume breakout, 4% record."
+    },
+    {
+      "start": 255.17,
+      "end": 267.11002,
+      "text": "So you're looking for for 4% breakout or you're looking for c by c one is greater than or equal to 1.04, and v is greater than v one."
+    },
+    {
+      "start": 270.455,
+      "end": 274.235,
+      "text": "And v is greater than or equal to 8,900,000."
+    },
+    {
+      "start": 276.055,
+      "end": 287.64,
+      "text": "And what you are doing is you're finding how many times this condition was satisfied by this talk on a given time frame."
+    },
+    {
+      "start": 287.64,
+      "end": 317.31,
+      "text": "So how many times in, say, ten days or one twenty six days or whatever, like, and it is, the I was tinkering around today on t c 2,000, and what I find is that, there is, like, an the fifteen hundred days is, the amount of, like, an, data which is available."
+    },
+    {
+      "start": 317.37,
+      "end": 322.79498,
+      "text": "But in reality, if you try and do a scan for fifteen hundred, it doesn't really work."
+    },
+    {
+      "start": 322.79498,
+      "end": 323.675,
+      "text": "So I tried."
+    },
+    {
+      "start": 323.675,
+      "end": 329.03497,
+      "text": "So fourteen fifty days is the max amount of, thing which you can see."
+    },
+    {
+      "start": 329.03497,
+      "end": 330.735,
+      "text": "Control fourteen fifty."
+    },
+    {
+      "start": 330.79498,
+      "end": 331.03497,
+      "text": "Right?"
+    },
+    {
+      "start": 331.03497,
+      "end": 334.235,
+      "text": "And you can try and increase it to fourteen sixty."
+    },
+    {
+      "start": 334.235,
+      "end": 337.13998,
+      "text": "You might get optimum point, but, like, that's really what I found."
+    },
+    {
+      "start": 337.13998,
+      "end": 337.38,
+      "text": "Right?"
+    },
+    {
+      "start": 337.38,
+      "end": 339.08,
+      "text": "And the 1,500 doesn't work."
+    },
+    {
+      "start": 339.53998,
+      "end": 342.66,
+      "text": "I tried fourteen ninety, so I just made $14.50 and it works."
+    },
+    {
+      "start": 342.66,
+      "end": 344.44,
+      "text": "So that's the maximum amount."
+    },
+    {
+      "start": 344.66,
+      "end": 347.47998,
+      "text": "So $14.50 into an average."
+    },
+    {
+      "start": 348.745,
+      "end": 349.245,
+      "text": "No."
+    },
+    {
+      "start": 349.545,
+      "end": 351.325,
+      "text": "It's around six years of data."
+    },
+    {
+      "start": 351.865,
+      "end": 352.365,
+      "text": "Right?"
+    },
+    {
+      "start": 352.98502,
+      "end": 362.46,
+      "text": "Because if you divide $14.50 by two fifty two, you're looking at around five point seven years."
+    },
+    {
+      "start": 363.16,
+      "end": 364.86002,
+      "text": "That's the data which is available."
+    },
+    {
+      "start": 364.92,
+      "end": 370.14,
+      "text": "So all that I'm looking for is stocks top 25 stocks."
+    },
+    {
+      "start": 370.92,
+      "end": 378.255,
+      "text": "This is a ranking of top 25 stock with the maximum amount of 9,000,000 records."
+    },
+    {
+      "start": 378.255,
+      "end": 384.355,
+      "text": "So if you'd, so these are columns which I added today morning because I just was playing around, so I added."
+    },
+    {
+      "start": 384.495,
+      "end": 389.52,
+      "text": "But, like, the original columns were, like, in a five days, ten days, twenty days, and all this."
+    },
+    {
+      "start": 389.52,
+      "end": 396.15997,
+      "text": "So if you start with five days, and this is done on in your sense."
+    },
+    {
+      "start": 396.15997,
+      "end": 402.91498,
+      "text": "Whenever I'm looking at five days, I only look at something if it has three plus days of, things."
+    },
+    {
+      "start": 402.91498,
+      "end": 403.155,
+      "text": "Right?"
+    },
+    {
+      "start": 403.155,
+      "end": 406.29498,
+      "text": "And, basically and that's what we right."
+    },
+    {
+      "start": 406.835,
+      "end": 413.895,
+      "text": "So we select stocks, the top 25 stocks with that condition."
+    },
+    {
+      "start": 414.05,
+      "end": 422.05,
+      "text": "So here in this case, you have, like, not even top 25 because you have only these many stocks."
+    },
+    {
+      "start": 422.05,
+      "end": 424.45,
+      "text": "So you just, like, in a flag also most about this."
+    },
+    {
+      "start": 424.45,
+      "end": 426.87,
+      "text": "And this is a onetime weekly effort."
+    },
+    {
+      "start": 426.93,
+      "end": 428.87,
+      "text": "You don't have to do it every day also."
+    },
+    {
+      "start": 431.945,
+      "end": 433.005,
+      "text": "It doesn't work."
+    },
+    {
+      "start": 434.025,
+      "end": 435.005,
+      "text": "It doesn't work."
+    },
+    {
+      "start": 435.065,
+      "end": 439.70502,
+      "text": "In fact, and these are the same stocks which work very well as shots."
+    },
+    {
+      "start": 439.70502,
+      "end": 441.565,
+      "text": "You don't need to do the other way around."
+    },
+    {
+      "start": 442.825,
+      "end": 448.43,
+      "text": "The market is just like in a different The best way to find is only this."
+    },
+    {
+      "start": 449.93,
+      "end": 459.485,
+      "text": "So so I'm selecting twenty days, fifty days."
+    },
+    {
+      "start": 459.485,
+      "end": 460.525,
+      "text": "It's just a ranking."
+    },
+    {
+      "start": 460.525,
+      "end": 460.76498,
+      "text": "Right?"
+    },
+    {
+      "start": 460.76498,
+      "end": 462.945,
+      "text": "And it's like a so there's nothing special."
+    },
+    {
+      "start": 463.245,
+      "end": 472.92,
+      "text": "You're just using a stock selection methodology here with some logic built into it, which is, like, in a basically So this is, like, 20."
+    },
+    {
+      "start": 472.92,
+      "end": 474.52002,
+      "text": "This is, like, a 20 four."
+    },
+    {
+      "start": 474.52002,
+      "end": 475.56,
+      "text": "This is 25."
+    },
+    {
+      "start": 475.56,
+      "end": 475.72,
+      "text": "Right?"
+    },
+    {
+      "start": 477.56,
+      "end": 479.32,
+      "text": "Flag also involves all this."
+    },
+    {
+      "start": 479.32,
+      "end": 482.92,
+      "text": "So you take one twenty six days and flag."
+    },
+    {
+      "start": 482.92,
+      "end": 485.96002,
+      "text": "And you can, like, in a play around, you can have 30."
+    },
+    {
+      "start": 485.96002,
+      "end": 486.68002,
+      "text": "You can have 50."
+    },
+    {
+      "start": 487.69498,
+      "end": 490.81497,
+      "text": "So it really depends on how big a harem you want."
+    },
+    {
+      "start": 490.81497,
+      "end": 491.31497,
+      "text": "Right?"
+    },
+    {
+      "start": 493.615,
+      "end": 499.395,
+      "text": "If you are shake up Saudi Arabia, then you might want to look at, like, top 50 stocks by that."
+    },
+    {
+      "start": 499.53497,
+      "end": 506.1,
+      "text": "But always remember, then the reading should be three because it doesn't really make sense to select stocks with less than three reading."
+    },
+    {
+      "start": 506.1,
+      "end": 506.6,
+      "text": "Right?"
+    },
+    {
+      "start": 510.1,
+      "end": 511.64,
+      "text": "And then five zero four."
+    },
+    {
+      "start": 512.34,
+      "end": 516.90497,
+      "text": "So when you select five zero four, you see this as 21, 25."
+    },
+    {
+      "start": 516.90497,
+      "end": 517.26495,
+      "text": "Right?"
+    },
+    {
+      "start": 517.26495,
+      "end": 518.40497,
+      "text": "That's 25."
+    },
+    {
+      "start": 518.865,
+      "end": 521.685,
+      "text": "Flag also both about this."
+    },
+    {
+      "start": 522.625,
+      "end": 524.40497,
+      "text": "Then seven fifty six."
+    },
+    {
+      "start": 524.545,
+      "end": 528.565,
+      "text": "When we look at seven fifty six, that's 25."
+    },
+    {
+      "start": 528.99,
+      "end": 532.52997,
+      "text": "And that's flag also most about this."
+    },
+    {
+      "start": 533.14996,
+      "end": 534.43,
+      "text": "And you can take this."
+    },
+    {
+      "start": 534.58997,
+      "end": 535.55,
+      "text": "This is not necessary."
+    },
+    {
+      "start": 535.55,
+      "end": 543.01,
+      "text": "I just added, like, I was just playing around to see, like, in a if I want to see larger time frame, how it will look."
+    },
+    {
+      "start": 543.07,
+      "end": 544.61,
+      "text": "So you can add that also."
+    },
+    {
+      "start": 545.205,
+      "end": 551.78503,
+      "text": "It gives you some more opportunities, basically, expands your opportunity in inverse a bit more."
+    },
+    {
+      "start": 553.445,
+      "end": 556.185,
+      "text": "22, 23, 12, drop king."
+    },
+    {
+      "start": 558.10004,
+      "end": 559.7,
+      "text": "Like, also involves about this."
+    },
+    {
+      "start": 559.94,
+      "end": 560.26,
+      "text": "Yeah."
+    },
+    {
+      "start": 560.26,
+      "end": 561.94,
+      "text": "You can do the short side also."
+    },
+    {
+      "start": 561.94,
+      "end": 568.76,
+      "text": "Means, if you want to, but it doesn't really doesn't matter."
+    },
+    {
+      "start": 571.14,
+      "end": 571.38,
+      "text": "Right."
+    },
+    {
+      "start": 571.38,
+      "end": 571.88,
+      "text": "Right."
+    },
+    {
+      "start": 580.025,
+      "end": 582.825,
+      "text": "I am the model now."
+    },
+    {
+      "start": 582.825,
+      "end": 586.74506,
+      "text": "It's only looking for 9,000,000 with positive this thing."
+    },
+    {
+      "start": 586.74506,
+      "end": 587.16,
+      "text": "Right?"
+    },
+    {
+      "start": 587.63995,
+      "end": 588.44,
+      "text": "They are the same."
+    },
+    {
+      "start": 588.44,
+      "end": 592.36,
+      "text": "Once you look at those stocks, you'll understand these are the same stocks which make good."
+    },
+    {
+      "start": 592.36,
+      "end": 595.24,
+      "text": "So you get, like, around 90 stocks when you do this."
+    },
+    {
+      "start": 595.24,
+      "end": 596.86,
+      "text": "You put it in one watch list."
+    },
+    {
+      "start": 597.24,
+      "end": 598.83997,
+      "text": "It's called Sugar Baby's watch list."
+    },
+    {
+      "start": 598.83997,
+      "end": 599.24,
+      "text": "Right?"
+    },
+    {
+      "start": 599.24,
+      "end": 600.36,
+      "text": "And clear everything."
+    },
+    {
+      "start": 600.36,
+      "end": 603.045,
+      "text": "If you want to do the short side, you can do the short side."
+    },
+    {
+      "start": 603.685,
+      "end": 609.52496,
+      "text": "I haven't seen any use for the short side because the short side is going to be mostly same as the long side."
+    },
+    {
+      "start": 609.52496,
+      "end": 617.7,
+      "text": "The stocks which are the most will be the one which will be also the one which will have the more downside 4% breakdown also."
+    },
+    {
+      "start": 617.7,
+      "end": 620.58,
+      "text": "Now you have this list of stocks, 90 stocks."
+    },
+    {
+      "start": 620.58,
+      "end": 620.74005,
+      "text": "Right?"
+    },
+    {
+      "start": 620.74005,
+      "end": 625.4,
+      "text": "And, basically, all that you're going to be using on this is the setup."
+    },
+    {
+      "start": 625.54004,
+      "end": 626.82,
+      "text": "This is a stock selection."
+    },
+    {
+      "start": 626.82,
+      "end": 643.91504,
+      "text": "These are 90 stocks which have shown the ability to have lot more, like or they are ranked by the number of times they had, 9,000,000 breakouts in the last couple of, this thing."
+    },
+    {
+      "start": 643.91504,
+      "end": 644.155,
+      "text": "Right?"
+    },
+    {
+      "start": 644.155,
+      "end": 648.26,
+      "text": "And I, whatever defined period you decide to do it for."
+    },
+    {
+      "start": 648.26,
+      "end": 648.5,
+      "text": "Right?"
+    },
+    {
+      "start": 648.5,
+      "end": 650.04,
+      "text": "And, basically, that's what it is."
+    },
+    {
+      "start": 651.06,
+      "end": 652.12,
+      "text": "Why is it now?"
+    },
+    {
+      "start": 652.18,
+      "end": 654.27997,
+      "text": "Again, gone blank."
+    },
+    {
+      "start": 655.14,
+      "end": 656.5,
+      "text": "From time to time, it goes blank."
+    },
+    {
+      "start": 656.5,
+      "end": 657.0,
+      "text": "Right?"
+    },
+    {
+      "start": 657.075,
+      "end": 657.235,
+      "text": "I see."
+    },
+    {
+      "start": 657.235,
+      "end": 657.735,
+      "text": "Okay."
+    },
+    {
+      "start": 658.35504,
+      "end": 663.235,
+      "text": "So now on this list of stocks, what is the setup idea which you're going to be using?"
+    },
+    {
+      "start": 663.235,
+      "end": 668.53503,
+      "text": "The setup idea is SOS, reversal bullish, or anticipation."
+    },
+    {
+      "start": 668.995,
+      "end": 673.52,
+      "text": "For SOS, you are looking at both sides, long shot."
+    },
+    {
+      "start": 673.52,
+      "end": 673.68,
+      "text": "Right?"
+    },
+    {
+      "start": 673.68,
+      "end": 675.46,
+      "text": "And, basically, reversal bullish."
+    },
+    {
+      "start": 677.28,
+      "end": 678.5,
+      "text": "These are the three setups."
+    },
+    {
+      "start": 679.52,
+      "end": 685.61505,
+      "text": "And as you can see, I already put them in, like, in a my reversal bullish scan also."
+    },
+    {
+      "start": 685.61505,
+      "end": 685.895,
+      "text": "Right?"
+    },
+    {
+      "start": 685.895,
+      "end": 690.41504,
+      "text": "And, basically so these are the three set of ideas on this, which we'll, use."
+    },
+    {
+      "start": 690.41504,
+      "end": 692.03503,
+      "text": "So you go through this list."
+    },
+    {
+      "start": 692.09503,
+      "end": 698.815,
+      "text": "So this is, like, an if you this is only list which you're looking at, then life is simple because you're not scanning thousands of stocks."
+    },
+    {
+      "start": 698.815,
+      "end": 700.05,
+      "text": "You're not going through everything."
+    },
+    {
+      "start": 700.61,
+      "end": 700.76996,
+      "text": "Right?"
+    },
+    {
+      "start": 700.76996,
+      "end": 702.87,
+      "text": "You have the this thing."
+    },
+    {
+      "start": 703.41,
+      "end": 704.47,
+      "text": "We used to do it."
+    },
+    {
+      "start": 710.37,
+      "end": 719.71497,
+      "text": "And what you'll see is that you have all these stocks which are showing in your scan."
+    },
+    {
+      "start": 719.71497,
+      "end": 723.95496,
+      "text": "So if you go through them, and every day you're looking for a setup."
+    },
+    {
+      "start": 723.95496,
+      "end": 727.33997,
+      "text": "And because you're only dealing with 90 stocks, you can create a watch list."
+    },
+    {
+      "start": 727.33997,
+      "end": 728.95996,
+      "text": "You can operate from a watch list."
+    },
+    {
+      "start": 729.33997,
+      "end": 734.24,
+      "text": "You can, like, any all the things which, having a lesser amount of stuff."
+    },
+    {
+      "start": 736.3,
+      "end": 737.74,
+      "text": "It's just an SOS."
+    },
+    {
+      "start": 737.74,
+      "end": 738.24,
+      "text": "Right?"
+    },
+    {
+      "start": 739.695,
+      "end": 744.255,
+      "text": "It's a start of a swing, like, an it has doesn't have to be 9,000,000 breakout."
+    },
+    {
+      "start": 744.255,
+      "end": 744.495,
+      "text": "Right?"
+    },
+    {
+      "start": 744.495,
+      "end": 746.515,
+      "text": "It's just a start of a swing."
+    },
+    {
+      "start": 749.45496,
+      "end": 751.15497,
+      "text": "So you might have one trade."
+    },
+    {
+      "start": 751.4,
+      "end": 752.36,
+      "text": "Like, this is new."
+    },
+    {
+      "start": 752.36,
+      "end": 752.52,
+      "text": "Right?"
+    },
+    {
+      "start": 752.52,
+      "end": 756.68,
+      "text": "And this is new, which I bought it yester on this day because it was a sugar baby."
+    },
+    {
+      "start": 756.68,
+      "end": 757.18,
+      "text": "Right?"
+    },
+    {
+      "start": 757.64,
+      "end": 765.10004,
+      "text": "So or that c do for that matter yesterday was a sugar baby."
+    },
+    {
+      "start": 766.475,
+      "end": 769.275,
+      "text": "So you just look for like, you don't even need a scan on this."
+    },
+    {
+      "start": 769.275,
+      "end": 769.515,
+      "text": "Right?"
+    },
+    {
+      "start": 769.515,
+      "end": 771.295,
+      "text": "And because you have 90 stocks."
+    },
+    {
+      "start": 771.435,
+      "end": 776.955,
+      "text": "And if you reduce the one which is above, like, in a five hundred and four days, you'll have around 60 stocks."
+    },
+    {
+      "start": 776.955,
+      "end": 779.375,
+      "text": "With 60 stocks, you just don't need anything."
+    },
+    {
+      "start": 783.0,
+      "end": 783.5,
+      "text": "Alright."
+    },
+    {
+      "start": 785.48004,
+      "end": 786.86005,
+      "text": "So there, you have."
+    },
+    {
+      "start": 787.48004,
+      "end": 787.88,
+      "text": "Right?"
+    },
+    {
+      "start": 787.88,
+      "end": 789.18005,
+      "text": "I mean, it's a sugar baby."
+    },
+    {
+      "start": 790.04004,
+      "end": 791.34,
+      "text": "So it selects itself."
+    },
+    {
+      "start": 793.15497,
+      "end": 805.71497,
+      "text": "And when you have to prioritize, like, a lot of, say, trading ideas, you always, take the sugar babies first because they have shown historically the ability to make this a big moves."
+    },
+    {
+      "start": 805.71497,
+      "end": 806.21497,
+      "text": "Right?"
+    },
+    {
+      "start": 806.94995,
+      "end": 808.31,
+      "text": "Now CRCL is what?"
+    },
+    {
+      "start": 808.31,
+      "end": 811.02997,
+      "text": "Like, you know, this is a reversal bullish kind of a setup."
+    },
+    {
+      "start": 811.02997,
+      "end": 811.35,
+      "text": "Right?"
+    },
+    {
+      "start": 811.35,
+      "end": 817.93,
+      "text": "And so if you are looking at, like, an equine also, small reversal bullish, minor reversal bullish."
+    },
+    {
+      "start": 818.79,
+      "end": 820.995,
+      "text": "And you're done."
+    },
+    {
+      "start": 821.13495,
+      "end": 821.295,
+      "text": "Right?"
+    },
+    {
+      "start": 821.295,
+      "end": 827.13495,
+      "text": "And you'll be in all the big moving stocks, all the themes which, going to last."
+    },
+    {
+      "start": 827.13495,
+      "end": 827.295,
+      "text": "Right?"
+    },
+    {
+      "start": 827.295,
+      "end": 830.735,
+      "text": "And, basically, you daily."
+    },
+    {
+      "start": 830.735,
+      "end": 832.32,
+      "text": "There is nothing weekly you can do."
+    },
+    {
+      "start": 832.32,
+      "end": 832.56,
+      "text": "Right?"
+    },
+    {
+      "start": 832.56,
+      "end": 836.5,
+      "text": "And if you look for weekly, by the time you look into it, you're going to be late."
+    },
+    {
+      "start": 836.56,
+      "end": 836.8,
+      "text": "Right?"
+    },
+    {
+      "start": 836.8,
+      "end": 839.46,
+      "text": "The stock would have made 50% move in a week."
+    },
+    {
+      "start": 839.68,
+      "end": 841.7,
+      "text": "So you cannot do this, like, in a weekly."
+    },
+    {
+      "start": 841.84,
+      "end": 843.54,
+      "text": "Daily is when you do it."
+    },
+    {
+      "start": 844.925,
+      "end": 849.265,
+      "text": "Weekend, only thing which I do on weekend is update the list."
+    },
+    {
+      "start": 849.805,
+      "end": 855.485,
+      "text": "I just create the list fresh every weekend because one or two stocks are going to add change."
+    },
+    {
+      "start": 855.485,
+      "end": 855.805,
+      "text": "Right?"
+    },
+    {
+      "start": 855.805,
+      "end": 859.78,
+      "text": "And some new sugar babies are going to come, and that's what you want to look at."
+    },
+    {
+      "start": 859.78,
+      "end": 860.02,
+      "text": "Right?"
+    },
+    {
+      "start": 860.02,
+      "end": 865.96,
+      "text": "And, basically so something which didn't wasn't a sugar baby start showing up."
+    },
+    {
+      "start": 867.22003,
+      "end": 871.14,
+      "text": "Then that's the new theme which people are, like, in a going towards."
+    },
+    {
+      "start": 871.14,
+      "end": 871.64,
+      "text": "Right?"
+    },
+    {
+      "start": 873.91504,
+      "end": 884.635,
+      "text": "So it's a, like an it's a it's not a ever, changing list, but, like, an if you take this list and you change this, right, Anish, so you tell, say, sugar babies."
+    },
+    {
+      "start": 884.635,
+      "end": 885.135,
+      "text": "Right?"
+    },
+    {
+      "start": 885.275,
+      "end": 893.67,
+      "text": "And you have these, say, things, like, say, by one twenty six days or something, and you sort it with the lowest."
+    },
+    {
+      "start": 893.97,
+      "end": 901.34503,
+      "text": "You see this was not a sugar baby six months ago, but now it became a sugar baby."
+    },
+    {
+      "start": 901.34503,
+      "end": 902.945,
+      "text": "Why did it become a sugar baby?"
+    },
+    {
+      "start": 902.945,
+      "end": 910.085,
+      "text": "You can see that it had, like, in last fifty days, or, or in last two fifty two days, it has five plus."
+    },
+    {
+      "start": 910.145,
+      "end": 911.34503,
+      "text": "So it came in there."
+    },
+    {
+      "start": 911.34503,
+      "end": 915.12,
+      "text": "It was, like, because of the longer time period which we took."
+    },
+    {
+      "start": 915.12,
+      "end": 915.36,
+      "text": "Right?"
+    },
+    {
+      "start": 915.36,
+      "end": 918.18,
+      "text": "So Carvana is a a a recent one."
+    },
+    {
+      "start": 918.48004,
+      "end": 919.60004,
+      "text": "Wasn't there before."
+    },
+    {
+      "start": 919.60004,
+      "end": 919.84,
+      "text": "Right?"
+    },
+    {
+      "start": 919.84,
+      "end": 921.84,
+      "text": "And about it, like and it started showing up."
+    },
+    {
+      "start": 921.84,
+      "end": 925.92,
+      "text": "So that way, you can see newer ones showing up, basically."
+    },
+    {
+      "start": 925.92,
+      "end": 926.4,
+      "text": "Right?"
+    },
+    {
+      "start": 926.4,
+      "end": 929.41504,
+      "text": "Affirm wasn't really, like, any here."
+    },
+    {
+      "start": 930.755,
+      "end": 933.335,
+      "text": "So so you can see newer one."
+    },
+    {
+      "start": 934.59503,
+      "end": 937.09503,
+      "text": "I like that."
+    },
+    {
+      "start": 938.995,
+      "end": 954.74,
+      "text": "Without the real key is to look at these stocks, each of these stocks, and see when they make Tesla is like in a like, say, BATL."
+    },
+    {
+      "start": 954.88,
+      "end": 955.305,
+      "text": "Right?"
+    },
+    {
+      "start": 955.305,
+      "end": 958.845,
+      "text": "A small swing of three days is 95%."
+    },
+    {
+      "start": 958.90497,
+      "end": 963.325,
+      "text": "This swing of three days was 438%."
+    },
+    {
+      "start": 963.945,
+      "end": 968.045,
+      "text": "Small swing on the short side of three days is 50%."
+    },
+    {
+      "start": 968.74,
+      "end": 973.3,
+      "text": "You can see this swing are 40%, 50%."
+    },
+    {
+      "start": 973.3,
+      "end": 973.54004,
+      "text": "Right?"
+    },
+    {
+      "start": 973.54004,
+      "end": 974.60004,
+      "text": "And you see this."
+    },
+    {
+      "start": 974.9,
+      "end": 975.3,
+      "text": "Right?"
+    },
+    {
+      "start": 975.3,
+      "end": 978.44,
+      "text": "Swing is like and basically, or WTI."
+    },
+    {
+      "start": 978.66003,
+      "end": 979.12,
+      "text": "Right?"
+    },
+    {
+      "start": 979.12,
+      "end": 988.985,
+      "text": "And I the swings the extent of the swings or the, like, you'll see that in four days or 74% it made."
+    },
+    {
+      "start": 989.045,
+      "end": 993.125,
+      "text": "Start of a swing, in four days it made 30% or, like, an almost 30%."
+    },
+    {
+      "start": 993.125,
+      "end": 995.385,
+      "text": "So the swings are very explosive."
+    },
+    {
+      "start": 995.55,
+      "end": 1001.14996,
+      "text": "The reason why you are selecting this kind of a stock is when their swing, their swings are very explosive."
+    },
+    {
+      "start": 1001.14996,
+      "end": 1001.39,
+      "text": "Right?"
+    },
+    {
+      "start": 1001.39,
+      "end": 1003.79,
+      "text": "And that's what is the whole idea of stock selection."
+    },
+    {
+      "start": 1003.79,
+      "end": 1004.26996,
+      "text": "Right?"
+    },
+    {
+      "start": 1004.26996,
+      "end": 1008.43,
+      "text": "When you select a stock, why do you select a particular stock?"
+    },
+    {
+      "start": 1008.43,
+      "end": 1011.225,
+      "text": "You select a stock for its ability to make a big move."
+    },
+    {
+      "start": 1011.46497,
+      "end": 1016.985,
+      "text": "Now these stocks have ability to make big moves whenever they move, and that's why you want to be in it."
+    },
+    {
+      "start": 1016.985,
+      "end": 1023.165,
+      "text": "Especially the long swings on these any long swings will be, like, 50%, sometimes even 100%."
+    },
+    {
+      "start": 1023.38495,
+      "end": 1026.49,
+      "text": "So it allows you to get into the most explosive stock."
+    },
+    {
+      "start": 1026.49,
+      "end": 1029.55,
+      "text": "This was also a sugar baby, right, couple of days ago."
+    },
+    {
+      "start": 1030.33,
+      "end": 1032.01,
+      "text": "And that's all there is to it."
+    },
+    {
+      "start": 1032.01,
+      "end": 1039.365,
+      "text": "Very easy peasy, simplifying your life, not really doing too many things, kind of a thing."
+    },
+    {
+      "start": 1039.365,
+      "end": 1063.5399,
+      "text": "If you want to reduce your exposure and want to retire in Florida or in Casabla in North, Carolina, right, and and just like and if you play golf and all, then this is for you, Where you're just, like, gonna focus on 60 or 90 stocks and just look for a swing in either direction in this."
+    },
+    {
+      "start": 1064.1599,
+      "end": 1064.6599,
+      "text": "Alright."
+    },
+    {
+      "start": 1064.72,
+      "end": 1068.675,
+      "text": "Whenever it swings, it swings like in a 50%, whenever it swings."
+    },
+    {
+      "start": 1068.755,
+      "end": 1071.8151,
+      "text": "And it gives you opportunities both on long and short side."
+    },
+    {
+      "start": 1072.115,
+      "end": 1076.775,
+      "text": "So and the other advantage of Sugarweb is there are a lot of advantage of Sugarweb is."
+    },
+    {
+      "start": 1077.2351,
+      "end": 1077.7351,
+      "text": "Right?"
+    },
+    {
+      "start": 1079.155,
+      "end": 1081.015,
+      "text": "One is swings are big."
+    },
+    {
+      "start": 1088.39,
+      "end": 1089.77,
+      "text": "Both long and short."
+    },
+    {
+      "start": 1092.63,
+      "end": 1093.2899,
+      "text": "They work."
+    },
+    {
+      "start": 1093.51,
+      "end": 1095.77,
+      "text": "Because long and short, both sides, they work."
+    },
+    {
+      "start": 1096.385,
+      "end": 1118.39,
+      "text": "And, all teams, people will be talking about will be in your Sugarweb's list."
+    },
+    {
+      "start": 1123.275,
+      "end": 1135.435,
+      "text": "You'll find teams way earlier than the people who are doing some of these, like, in a, AI based things and all because, what is a good theme?"
+    },
+    {
+      "start": 1135.435,
+      "end": 1138.155,
+      "text": "The good theme is the one which attracts lot of buying."
+    },
+    {
+      "start": 1138.155,
+      "end": 1138.53,
+      "text": "Right?"
+    },
+    {
+      "start": 1139.49,
+      "end": 1144.93,
+      "text": "So all the good themes will be in this particular list, and that's how it, like, kinda happens."
+    },
+    {
+      "start": 1144.93,
+      "end": 1145.17,
+      "text": "Right?"
+    },
+    {
+      "start": 1145.17,
+      "end": 1149.27,
+      "text": "And anything which is a good theme is going to be in this list automatically."
+    },
+    {
+      "start": 1149.5701,
+      "end": 1150.15,
+      "text": "Oh, hello."
+    },
+    {
+      "start": 1150.4501,
+      "end": 1154.735,
+      "text": "And the themes which are long running you'll be on top of them anyway, Irene."
+    },
+    {
+      "start": 1155.2749,
+      "end": 1155.7749,
+      "text": "Right?"
+    },
+    {
+      "start": 1156.7949,
+      "end": 1158.1749,
+      "text": "All of them will be there."
+    },
+    {
+      "start": 1158.475,
+      "end": 1162.1749,
+      "text": "So, it solves lot of your problems."
+    },
+    {
+      "start": 1162.3949,
+      "end": 1167.37,
+      "text": "All themes, we're talking about will be in this Sugarbaby list."
+    },
+    {
+      "start": 1167.37,
+      "end": 1179.07,
+      "text": "They will be like, you can identify them in the first five or ten days because if there is a theme which has a real buying power, it will immediately start hitting three nine million, EPs, right, and back to back."
+    },
+    {
+      "start": 1179.45,
+      "end": 1185.765,
+      "text": "And then less number of stocks to focus on."
+    },
+    {
+      "start": 1186.7051,
+      "end": 1188.7251,
+      "text": "You don't even need a scanning software."
+    },
+    {
+      "start": 1188.865,
+      "end": 1193.765,
+      "text": "Like, you know, once you have the list, you just can operate from a watch list."
+    },
+    {
+      "start": 1195.2899,
+      "end": 1198.83,
+      "text": "You're not in the morning, like, you know, looking at 300 stocks."
+    },
+    {
+      "start": 1199.45,
+      "end": 1199.95,
+      "text": "Right?"
+    },
+    {
+      "start": 1200.01,
+      "end": 1210.4149,
+      "text": "And the other big advantage also is of Sugarweb is is Sugarweb is is a excellent market direction indicator also."
+    },
+    {
+      "start": 1220.3949,
+      "end": 1228.43,
+      "text": "When the markets decides to go up, you'll see that day, like, so many sugar babies will start, like, in a lining up."
+    },
+    {
+      "start": 1228.43,
+      "end": 1228.67,
+      "text": "Right?"
+    },
+    {
+      "start": 1228.67,
+      "end": 1234.13,
+      "text": "And then three days ago, all the sugar babies, they woke up and said, hi, daddy."
+    },
+    {
+      "start": 1234.99,
+      "end": 1235.97,
+      "text": "How are you?"
+    },
+    {
+      "start": 1236.11,
+      "end": 1236.43,
+      "text": "Right?"
+    },
+    {
+      "start": 1236.43,
+      "end": 1238.1901,
+      "text": "And, basically, all of them."
+    },
+    {
+      "start": 1238.1901,
+      "end": 1238.6901,
+      "text": "Right?"
+    },
+    {
+      "start": 1239.585,
+      "end": 1243.445,
+      "text": "Just and when the market was going down also, what happened?"
+    },
+    {
+      "start": 1243.985,
+      "end": 1251.6849,
+      "text": "In the last three or five day like, in last ten days when the market was going, which stocks were the one first one to start going down?"
+    },
+    {
+      "start": 1252.23,
+      "end": 1255.37,
+      "text": "The one which started going down were also like any other babies."
+    },
+    {
+      "start": 1256.15,
+      "end": 1256.65,
+      "text": "Right?"
+    },
+    {
+      "start": 1257.27,
+      "end": 1259.77,
+      "text": "They were the one which were leading down also."
+    },
+    {
+      "start": 1260.3099,
+      "end": 1264.09,
+      "text": "So you can, like, use them for situational awareness also."
+    },
+    {
+      "start": 1264.275,
+      "end": 1266.755,
+      "text": "So many sugar babies started, like, breaking down."
+    },
+    {
+      "start": 1266.755,
+      "end": 1280.25,
+      "text": "Once they started breaking down, you knew that the market is the first as soon as market three days ago started going up, What did you see?"
+    },
+    {
+      "start": 1280.25,
+      "end": 1280.81,
+      "text": "You see?"
+    },
+    {
+      "start": 1280.81,
+      "end": 1281.87,
+      "text": "Actually, right?"
+    },
+    {
+      "start": 1282.25,
+      "end": 1283.4701,
+      "text": "It's a leading indicator."
+    },
+    {
+      "start": 1286.01,
+      "end": 1286.91,
+      "text": "And that's it."
+    },
+    {
+      "start": 1289.29,
+      "end": 1289.61,
+      "text": "Yeah."
+    },
+    {
+      "start": 1289.61,
+      "end": 1290.73,
+      "text": "It's it's a yeah."
+    },
+    {
+      "start": 1290.73,
+      "end": 1291.87,
+      "text": "It's yes."
+    },
+    {
+      "start": 1293.735,
+      "end": 1295.995,
+      "text": "It's like checking every day on your phone."
+    },
+    {
+      "start": 1296.295,
+      "end": 1298.4551,
+      "text": "How many of your sugar babies are calling you?"
+    },
+    {
+      "start": 1298.4551,
+      "end": 1301.8151,
+      "text": "If they're still calling you, that means you're still in demand."
+    },
+    {
+      "start": 1301.8151,
+      "end": 1302.055,
+      "text": "Right?"
+    },
+    {
+      "start": 1302.055,
+      "end": 1306.155,
+      "text": "And, basically, you are like any that means you still have, like, any hope."
+    },
+    {
+      "start": 1307.06,
+      "end": 1308.36,
+      "text": "They stop calling you."
+    },
+    {
+      "start": 1310.02,
+      "end": 1310.58,
+      "text": "It's over."
+    },
+    {
+      "start": 1310.58,
+      "end": 1311.08,
+      "text": "Right?"
+    },
+    {
+      "start": 1314.02,
+      "end": 1320.375,
+      "text": "See, how many of these, like, in in the last, ten days when the market started correcting, all the sugar babies started going down?"
+    },
+    {
+      "start": 1321.095,
+      "end": 1322.615,
+      "text": "It's just a high beta thing."
+    },
+    {
+      "start": 1322.615,
+      "end": 1322.855,
+      "text": "Right?"
+    },
+    {
+      "start": 1322.855,
+      "end": 1331.755,
+      "text": "And if you understand what we are doing is we are isolating stocks with crazy amount of buying, which have significant demand."
+    },
+    {
+      "start": 1333.23,
+      "end": 1333.73,
+      "text": "Right?"
+    },
+    {
+      "start": 1333.87,
+      "end": 1334.91,
+      "text": "For whatever reason."
+    },
+    {
+      "start": 1334.91,
+      "end": 1337.3099,
+      "text": "We don't know the reason, but we don't need to know."
+    },
+    {
+      "start": 1337.3099,
+      "end": 1337.55,
+      "text": "Right?"
+    },
+    {
+      "start": 1337.55,
+      "end": 1340.75,
+      "text": "And even the swings on these stocks are, like, any huge."
+    },
+    {
+      "start": 1340.75,
+      "end": 1341.39,
+      "text": "Right, Ani?"
+    },
+    {
+      "start": 1341.39,
+      "end": 1342.91,
+      "text": "So that's why you're trading them."
+    },
+    {
+      "start": 1342.91,
+      "end": 1343.41,
+      "text": "Right?"
+    },
+    {
+      "start": 1343.95,
+      "end": 1351.085,
+      "text": "You're selecting stocks which have the ability to swing big, and that's all there is."
+    },
+    {
+      "start": 1351.085,
+      "end": 1351.325,
+      "text": "Right?"
+    },
+    {
+      "start": 1351.325,
+      "end": 1353.8049,
+      "text": "And for whatever reason, Intel is Sugar Baby."
+    },
+    {
+      "start": 1353.8049,
+      "end": 1354.3049,
+      "text": "Right?"
+    },
+    {
+      "start": 1354.525,
+      "end": 1356.625,
+      "text": "It's been making these big moves."
+    },
+    {
+      "start": 1357.1649,
+      "end": 1360.09,
+      "text": "So and no fundamental information is required."
+    },
+    {
+      "start": 1360.09,
+      "end": 1361.87,
+      "text": "No other information is required."
+    },
+    {
+      "start": 1361.9299,
+      "end": 1364.5099,
+      "text": "No, other information."
+    },
+    {
+      "start": 1365.0499,
+      "end": 1365.2899,
+      "text": "Right?"
+    },
+    {
+      "start": 1365.2899,
+      "end": 1377.735,
+      "text": "You're just looking at things which the market is madly in love with for whatever reason."
+    },
+    {
+      "start": 1378.6749,
+      "end": 1379.1749,
+      "text": "Right."
+    },
+    {
+      "start": 1379.235,
+      "end": 1383.475,
+      "text": "Like, can you can you logically explain why it has market is so much in love with Tesla?"
+    },
+    {
+      "start": 1383.475,
+      "end": 1383.715,
+      "text": "No."
+    },
+    {
+      "start": 1383.715,
+      "end": 1383.875,
+      "text": "Right?"
+    },
+    {
+      "start": 1383.875,
+      "end": 1387.47,
+      "text": "And, basically or for that matter, Palantir or, like, Shopify."
+    },
+    {
+      "start": 1387.47,
+      "end": 1387.97,
+      "text": "Right?"
+    },
+    {
+      "start": 1388.4299,
+      "end": 1391.01,
+      "text": "Anyways but the market loves it."
+    },
+    {
+      "start": 1391.23,
+      "end": 1391.55,
+      "text": "Right?"
+    },
+    {
+      "start": 1391.55,
+      "end": 1392.69,
+      "text": "And that's what matters."
+    },
+    {
+      "start": 1395.79,
+      "end": 1396.53,
+      "text": "Any questions?"
+    },
+    {
+      "start": 1397.79,
+      "end": 1407.545,
+      "text": "Ten minutes, fifteen minutes on the weekend to create the list, and then daily, ten minutes."
+    },
+    {
+      "start": 1409.365,
+      "end": 1410.665,
+      "text": "And that's all you need."
+    },
+    {
+      "start": 1429.27,
+      "end": 1431.29,
+      "text": "Anything you have, like, in it?"
+    },
+    {
+      "start": 1448.59,
+      "end": 1448.8301,
+      "text": "No."
+    },
+    {
+      "start": 1448.8301,
+      "end": 1449.9501,
+      "text": "You don't need SA."
+    },
+    {
+      "start": 1449.9501,
+      "end": 1451.49,
+      "text": "The they work independent."
+    },
+    {
+      "start": 1451.63,
+      "end": 1452.43,
+      "text": "Right, Annie?"
+    },
+    {
+      "start": 1452.43,
+      "end": 1454.99,
+      "text": "If the market is going down, you're only going to see charts."
+    },
+    {
+      "start": 1454.99,
+      "end": 1457.71,
+      "text": "If the market is going up, you're only so you don't need SA."
+    },
+    {
+      "start": 1457.71,
+      "end": 1459.5701,
+      "text": "You don't need to even worry about it."
+    },
+    {
+      "start": 1461.1549,
+      "end": 1462.9149,
+      "text": "Can you go below 9,000,000?"
+    },
+    {
+      "start": 1462.9149,
+      "end": 1463.1549,
+      "text": "Yeah."
+    },
+    {
+      "start": 1463.1549,
+      "end": 1464.5149,
+      "text": "You can go below 9,000,000."
+    },
+    {
+      "start": 1464.5149,
+      "end": 1469.735,
+      "text": "If you go below 9,000,000, see, it's very easy to complicate things."
+    },
+    {
+      "start": 1473.68,
+      "end": 1476.08,
+      "text": "It's very difficult to simplify things."
+    },
+    {
+      "start": 1476.08,
+      "end": 1476.58,
+      "text": "Right?"
+    },
+    {
+      "start": 1476.96,
+      "end": 1482.5599,
+      "text": "If you add, say, you instead of 9,000,000 breakout, you say, like, and I'm going to take 5,000,000 breakout."
+    },
+    {
+      "start": 1482.5599,
+      "end": 1483.0599,
+      "text": "Right?"
+    },
+    {
+      "start": 1483.2,
+      "end": 1487.0599,
+      "text": "What you're going to get is you're going to get a list of, like, say, 200 stocks."
+    },
+    {
+      "start": 1488.175,
+      "end": 1491.395,
+      "text": "Then you kill the whole idea of simplicity."
+    },
+    {
+      "start": 1491.535,
+      "end": 1492.035,
+      "text": "Right?"
+    },
+    {
+      "start": 1492.3351,
+      "end": 1493.935,
+      "text": "You're just increasing the work."
+    },
+    {
+      "start": 1493.935,
+      "end": 1494.435,
+      "text": "Right?"
+    },
+    {
+      "start": 1495.055,
+      "end": 1496.355,
+      "text": "So yeah."
+    },
+    {
+      "start": 1496.735,
+      "end": 1498.655,
+      "text": "You can do it only on 4% breakout."
+    },
+    {
+      "start": 1498.655,
+      "end": 1498.8151,
+      "text": "Right?"
+    },
+    {
+      "start": 1498.8151,
+      "end": 1503.43,
+      "text": "And it means everything can be made easy, and everything can be made difficult."
+    },
+    {
+      "start": 1505.65,
+      "end": 1509.49,
+      "text": "So, people there are some people who like simple things, and there are people who want to make it."
+    },
+    {
+      "start": 1509.49,
+      "end": 1511.3301,
+      "text": "You can just do four percent breakout."
+    },
+    {
+      "start": 1511.3301,
+      "end": 1511.5701,
+      "text": "Right?"
+    },
+    {
+      "start": 1511.5701,
+      "end": 1515.245,
+      "text": "And you can do 4% breakout, just with 100,000."
+    },
+    {
+      "start": 1515.305,
+      "end": 1515.545,
+      "text": "Right?"
+    },
+    {
+      "start": 1515.545,
+      "end": 1521.5651,
+      "text": "And that way also you can create, but that doesn't indicate that they have very aggressive way."
+    },
+    {
+      "start": 1524.5851,
+      "end": 1524.905,
+      "text": "Yeah."
+    },
+    {
+      "start": 1524.905,
+      "end": 1530.86,
+      "text": "Means, if something is setting up right and some SugarBabies setting up, I always will have my eyes on it."
+    },
+    {
+      "start": 1530.86,
+      "end": 1531.1,
+      "text": "Right?"
+    },
+    {
+      "start": 1531.1,
+      "end": 1540.72,
+      "text": "And, basically, but, lot of time, the SugarBabies, they are so volatile that, most of the time, they don't really show up much in anticipation."
+    },
+    {
+      "start": 1540.9401,
+      "end": 1549.755,
+      "text": "They're volatility inherently so high that, like, in a their, def, like, in a they will have, like, a very little, this thing."
+    },
+    {
+      "start": 1550.455,
+      "end": 1553.095,
+      "text": "Classical anticipation kind of moves."
+    },
+    {
+      "start": 1553.095,
+      "end": 1553.4149,
+      "text": "Right?"
+    },
+    {
+      "start": 1553.4149,
+      "end": 1558.5549,
+      "text": "Anyway, you can do doesn't matter even if you're inefficient in entering the right?"
+    },
+    {
+      "start": 1558.71,
+      "end": 1562.09,
+      "text": "The amount of move after the breakout they make is so big."
+    },
+    {
+      "start": 1564.3099,
+      "end": 1571.45,
+      "text": "And if you want to get into early, like, just invest in some, multiple monitors and put all of these babies."
+    },
+    {
+      "start": 1572.415,
+      "end": 1575.615,
+      "text": "Be like that guy who's got multiple monitors all over his place."
+    },
+    {
+      "start": 1575.615,
+      "end": 1576.115,
+      "text": "Right?"
+    },
+    {
+      "start": 1577.015,
+      "end": 1581.855,
+      "text": "He has got, like, some 50 monitors or something."
+    },
+    {
+      "start": 1581.855,
+      "end": 1582.355,
+      "text": "Right?"
+    },
+    {
+      "start": 1585.84,
+      "end": 1587.36,
+      "text": "Not all of them you need to monitor."
+    },
+    {
+      "start": 1587.36,
+      "end": 1587.6,
+      "text": "Right?"
+    },
+    {
+      "start": 1587.6,
+      "end": 1596.3201,
+      "text": "And then you if you go through in the night, there will be only, like you don't need to monitor, say, Tesla or, like, this you might want to monitor."
+    },
+    {
+      "start": 1596.3201,
+      "end": 1599.5349,
+      "text": "So in reality, only two or three are to monitor."
+    },
+    {
+      "start": 1599.5349,
+      "end": 1600.0149,
+      "text": "Right, Harry?"
+    },
+    {
+      "start": 1600.0149,
+      "end": 1605.1349,
+      "text": "Because those will be the one which can like, this, you don't need to monitor because it's already three days up."
+    },
+    {
+      "start": 1605.1349,
+      "end": 1605.2949,
+      "text": "Right?"
+    },
+    {
+      "start": 1605.2949,
+      "end": 1607.1349,
+      "text": "And, basically so what do you need to monitor?"
+    },
+    {
+      "start": 1607.1349,
+      "end": 1610.255,
+      "text": "You only need to monitor two or three, thing."
+    },
+    {
+      "start": 1610.255,
+      "end": 1610.755,
+      "text": "Right?"
+    },
+    {
+      "start": 1611.49,
+      "end": 1611.8099,
+      "text": "Yeah."
+    },
+    {
+      "start": 1611.8099,
+      "end": 1616.45,
+      "text": "One monitor for each or one monitor for four sugar babies."
+    },
+    {
+      "start": 1616.45,
+      "end": 1616.95,
+      "text": "Right?"
+    },
+    {
+      "start": 1617.01,
+      "end": 1623.25,
+      "text": "It's like saying, can you look in a I saw a house."
+    },
+    {
+      "start": 1623.25,
+      "end": 1623.75,
+      "text": "Right?"
+    },
+    {
+      "start": 1626.445,
+      "end": 1629.345,
+      "text": "Which had, like, any four beds in the bedroom."
+    },
+    {
+      "start": 1630.845,
+      "end": 1640.63,
+      "text": "So What was actually happening?"
+    },
+    {
+      "start": 1640.63,
+      "end": 1641.27,
+      "text": "I don't know."
+    },
+    {
+      "start": 1641.27,
+      "end": 1650.2301,
+      "text": "It's like any right."
+    },
+    {
+      "start": 1650.2301,
+      "end": 1651.3501,
+      "text": "So for monitor."
+    },
+    {
+      "start": 1651.3501,
+      "end": 1651.5901,
+      "text": "Right?"
+    },
+    {
+      "start": 1651.5901,
+      "end": 1657.3251,
+      "text": "But you don't need to, like, you know, basically have all of them being watched."
+    },
+    {
+      "start": 1657.3251,
+      "end": 1657.5651,
+      "text": "Right?"
+    },
+    {
+      "start": 1657.5651,
+      "end": 1662.765,
+      "text": "And because what you can can watch is only, like and you just watch the one which are, like, in a setting up."
+    },
+    {
+      "start": 1662.765,
+      "end": 1663.245,
+      "text": "Right?"
+    },
+    {
+      "start": 1663.245,
+      "end": 1667.485,
+      "text": "How many of these are setting up nicely for the next week is all that you are doing."
+    },
+    {
+      "start": 1667.485,
+      "end": 1667.985,
+      "text": "Right?"
+    },
+    {
+      "start": 1673.09,
+      "end": 1673.8899,
+      "text": "It doesn't matter."
+    },
+    {
+      "start": 1673.8899,
+      "end": 1674.13,
+      "text": "Right?"
+    },
+    {
+      "start": 1674.13,
+      "end": 1679.1699,
+      "text": "And whether it is an IPO Sugarbaby or whether it is an old Sugarbaby or something like that."
+    },
+    {
+      "start": 1679.1699,
+      "end": 1679.6699,
+      "text": "Right?"
+    },
+    {
+      "start": 1680.945,
+      "end": 1685.745,
+      "text": "This, you should trade independent of any other criteria because look at this sugar baby."
+    },
+    {
+      "start": 1685.745,
+      "end": 1691.105,
+      "text": "There is a forty year sugar baby, and there is also a two year old sugar baby, right, basically."
+    },
+    {
+      "start": 1691.105,
+      "end": 1694.225,
+      "text": "So you can't really, go by that."
+    },
+    {
+      "start": 1694.225,
+      "end": 1694.465,
+      "text": "Right?"
+    },
+    {
+      "start": 1694.465,
+      "end": 1701.1599,
+      "text": "And it's sugar babies is can be for whatever reason, Intel is a 43 year old company."
+    },
+    {
+      "start": 1701.1599,
+      "end": 1701.4,
+      "text": "Right?"
+    },
+    {
+      "start": 1701.4,
+      "end": 1703.08,
+      "text": "Or GLW is a 43."
+    },
+    {
+      "start": 1703.08,
+      "end": 1705.02,
+      "text": "So you don't complicate it further."
+    },
+    {
+      "start": 1705.32,
+      "end": 1706.76,
+      "text": "Just keep a simple thing."
+    },
+    {
+      "start": 1706.76,
+      "end": 1707.26,
+      "text": "Right?"
+    },
+    {
+      "start": 1707.7999,
+      "end": 1721.28,
+      "text": "But, obviously, I know from experience, any simple idea by the time it goes through AI by by the time, you add, like, an some people need to add to this VWAP."
+    },
+    {
+      "start": 1721.28,
+      "end": 1721.76,
+      "text": "Right?"
+    },
+    {
+      "start": 1721.76,
+      "end": 1723.92,
+      "text": "Some people need to add to this dollar volume."
+    },
+    {
+      "start": 1723.92,
+      "end": 1728.64,
+      "text": "Some people need to add to this, the Fibonacci arc."
+    },
+    {
+      "start": 1728.64,
+      "end": 1728.88,
+      "text": "Right?"
+    },
+    {
+      "start": 1728.88,
+      "end": 1731.4401,
+      "text": "And, basically, I don't know what this is like."
+    },
+    {
+      "start": 1731.4401,
+      "end": 1737.605,
+      "text": "This just looks to me like an that, Indian god with, like, an who had a trident like this."
+    },
+    {
+      "start": 1737.605,
+      "end": 1737.7649,
+      "text": "Right?"
+    },
+    {
+      "start": 1737.7649,
+      "end": 1740.1649,
+      "text": "And, basically so they just keep adding things."
+    },
+    {
+      "start": 1740.1649,
+      "end": 1740.4049,
+      "text": "Right?"
+    },
+    {
+      "start": 1740.4049,
+      "end": 1744.4049,
+      "text": "And I look at, like, any people asking me, saying, can you look at my chart?"
+    },
+    {
+      "start": 1744.4049,
+      "end": 1746.6449,
+      "text": "And I had to figure out where the price is."
+    },
+    {
+      "start": 1746.6449,
+      "end": 1747.1449,
+      "text": "Right?"
+    },
+    {
+      "start": 1747.205,
+      "end": 1748.105,
+      "text": "So that's what."
+    },
+    {
+      "start": 1750.91,
+      "end": 1752.37,
+      "text": "How many SugarBear is?"
+    },
+    {
+      "start": 1753.15,
+      "end": 1753.65,
+      "text": "Three."
+    },
+    {
+      "start": 1754.1901,
+      "end": 1755.49,
+      "text": "Three max."
+    },
+    {
+      "start": 1756.43,
+      "end": 1756.91,
+      "text": "Right."
+    },
+    {
+      "start": 1756.91,
+      "end": 1757.73,
+      "text": "Three max."
+    },
+    {
+      "start": 1759.7101,
+      "end": 1760.4501,
+      "text": "Three max."
+    },
+    {
+      "start": 1762.435,
+      "end": 1762.935,
+      "text": "Right."
+    },
+    {
+      "start": 1764.1951,
+      "end": 1770.915,
+      "text": "Just go through each of these and mark how many opportunities in a year, it is capable of giving."
+    },
+    {
+      "start": 1770.915,
+      "end": 1772.675,
+      "text": "This AST has become a sugar baby."
+    },
+    {
+      "start": 1772.675,
+      "end": 1772.915,
+      "text": "Right?"
+    },
+    {
+      "start": 1772.915,
+      "end": 1775.8151,
+      "text": "And swings are, like, in a 40%."
+    },
+    {
+      "start": 1775.99,
+      "end": 1777.67,
+      "text": "And it does this all the time."
+    },
+    {
+      "start": 1777.67,
+      "end": 1778.17,
+      "text": "Right?"
+    },
+    {
+      "start": 1780.15,
+      "end": 1783.51,
+      "text": "Will I trade sugar baby's third leg, fourth leg, fifth leg?"
+    },
+    {
+      "start": 1783.51,
+      "end": 1784.41,
+      "text": "Doesn't matter."
+    },
+    {
+      "start": 1784.63,
+      "end": 1788.7101,
+      "text": "If your sugar baby is breaking out from a fifty two week low also, I'll buy."
+    },
+    {
+      "start": 1788.7101,
+      "end": 1790.15,
+      "text": "It's just a start of a swing."
+    },
+    {
+      "start": 1790.15,
+      "end": 1791.37,
+      "text": "Doesn't really matter."
+    },
+    {
+      "start": 1792.625,
+      "end": 1800.085,
+      "text": "If it is sugar, maybe there is just no like, and it can be from any level, right, in a basically, as long as there is some tightness."
+    },
+    {
+      "start": 1802.385,
+      "end": 1805.0449,
+      "text": "As long as it is an SOS and it is a tightness."
+    },
+    {
+      "start": 1805.105,
+      "end": 1805.845,
+      "text": "That's all."
+    },
+    {
+      "start": 1810.2,
+      "end": 1812.2999,
+      "text": "Any questions on this?"
+    },
+    {
+      "start": 1813.24,
+      "end": 1813.88,
+      "text": "Look at them."
+    },
+    {
+      "start": 1813.88,
+      "end": 1823.3049,
+      "text": "They are not means, like, if you are going to be trading sugar babies, you'll need wider stop because inherently, they are called sugar babies for a reason."
+    },
+    {
+      "start": 1823.3049,
+      "end": 1823.5449,
+      "text": "Right?"
+    },
+    {
+      "start": 1823.5449,
+      "end": 1826.445,
+      "text": "And, basically, inherently, they are more volatile."
+    },
+    {
+      "start": 1826.505,
+      "end": 1827.485,
+      "text": "So yes."
+    },
+    {
+      "start": 1828.905,
+      "end": 1829.405,
+      "text": "Yeah."
+    },
+    {
+      "start": 1831.625,
+      "end": 1832.505,
+      "text": "They're wild ones."
+    },
+    {
+      "start": 1832.505,
+      "end": 1832.745,
+      "text": "Right?"
+    },
+    {
+      "start": 1832.745,
+      "end": 1834.1849,
+      "text": "And that's why they're sugar babies."
+    },
+    {
+      "start": 1834.1849,
+      "end": 1834.585,
+      "text": "Right?"
+    },
+    {
+      "start": 1834.585,
+      "end": 1838.87,
+      "text": "And then if if they are, like, in a white material, they would be low alertly."
+    },
+    {
+      "start": 1838.87,
+      "end": 1839.37,
+      "text": "Right?"
+    },
+    {
+      "start": 1845.8301,
+      "end": 1850.87,
+      "text": "But the amount of move they make when they move, that is the thing which you are looking at."
+    },
+    {
+      "start": 1850.87,
+      "end": 1851.37,
+      "text": "Right?"
+    },
+    {
+      "start": 1852.605,
+      "end": 1853.105,
+      "text": "Okay."
+    },
+    {
+      "start": 1853.245,
+      "end": 1861.345,
+      "text": "I will see you people sometime with your sugar babies if you decide to go that route."
+    },
+    {
+      "start": 1865.64,
+      "end": 1867.66,
+      "text": "We'll have a boot camp with sugar babies."
+    },
+    {
+      "start": 1867.88,
+      "end": 1871.02,
+      "text": "The only requirement to attend the boot camp is to bring a sugar baby."
+    },
+    {
+      "start": 1881.735,
+      "end": 1885.195,
+      "text": "And those who cannot bring a sugar baby, we'll charge them $5,000."
+    }
+  ],
+  "language": "en",
+  "backend": "deepgram"
+}

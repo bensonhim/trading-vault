@@ -1,16 +1,16 @@
 ---
 title: "Chasing"
-date: 2026-07-03
+date: 2026-07-21
 tags: [concepts, wiki, auto-compiled]
-mention_count: 148
-sources_count: 85
+mention_count: 471
+sources_count: 262
 compilation_count: 1
 promote: false
 ---
 
 # Chasing
 
-*Concepts — compiled from 148 mentions across 85 sources.*
+*Concepts — compiled from 471 mentions across 262 sources.*
 
 ## Mentions
 
@@ -32,67 +32,67 @@ promote: false
 
 > [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: | **Distraction-Proofing** | Traders with clarity filter noise instantly. Traders without clarity chase every new idea. |
 
-> [[../../04-Transcripts/stockbee/2026-05-01_3-pm.md|2026-05-01_3-pm]]: It gapped up, so I didn't really chase it.
+> [[../../04-Transcripts/stockbee/2023-11-06_9-am.md|2023-11-06_9-am]]: People are left to chase And that's the significant characteristic of a start of a new bull move is that the start of a signal new bull move.
 
-> [[../../04-Transcripts/stockbee/2026-05-01_3-pm.md|2026-05-01_3-pm]]: And basically, gap was like any I don't want to chase.
+> [[../../04-Transcripts/stockbee/2023-11-07_11-am.md|2023-11-07_11-am]]: And today, the moment stocks started breaking out, like a dog, I knew that, look, and I need to chase the board.
 
-> [[../../04-Transcripts/stockbee/2026-05-01_3-pm.md|2026-05-01_3-pm]]: I don't chase gaps.
+> [[../../04-Transcripts/stockbee/2023-11-09_11-am.md|2023-11-09_11-am]]: So I'm not going to chase breakouts here.
 
-> [[../../04-Transcripts/stockbee/2026-05-01_9_15-am.md|2026-05-01_9_15-am]]: And so people are chasing.
+> [[../../04-Transcripts/stockbee/2023-11-09_2-pm.md|2023-11-09_2-pm]]: If you start chasing all these things, bonds, deficit, you're gonna go crazy.
 
-> [[../../04-Transcripts/stockbee/2026-05-01_9_15-am.md|2026-05-01_9_15-am]]: There's no point in chasing actually here.
+> [[../../04-Transcripts/stockbee/2023-11-09_2-pm.md|2023-11-09_2-pm]]: It It might work even if you buy it now, but, like, in a I'm not going to chase it.
 
-> [[../../04-Transcripts/stockbee/2026-05-01_9_15-am.md|2026-05-01_9_15-am]]: So you'll not get into some, moves like this or you'll not chase things.
+> [[../../04-Transcripts/stockbee/2023-11-09_2-pm.md|2023-11-09_2-pm]]: I'm not going to chase breakouts today.
 
-> [[../../04-Transcripts/stockbee/2026-05-05_3-pm.md|2026-05-05_3-pm]]: I gone through everything, like, either you have to chase extended setups here or things which are breaking out are like any how are things in couple of days.
+> [[../../04-Transcripts/stockbee/2023-11-09_9-am.md|2023-11-09_9-am]]: I'm not going to chase something like this here.
 
-> [[../../04-Transcripts/stockbee/2026-05-05_9_15-am.md|2026-05-05_9_15-am]]: If you don't get in early, then you'll have to chase.
+> [[../../04-Transcripts/stockbee/2023-11-09_9-am.md|2023-11-09_9-am]]: These are all retail traders chasing the boom.
 
-> [[../../04-Transcripts/stockbee/2026-05-06_9_15-am.md|2026-05-06_9_15-am]]: And then when the bull market has gone up for quite some time, then the story start, like and then the adrenaline starts growing, and, people start getting, like, an early chasing stories.
+> [[../../04-Transcripts/stockbee/2023-11-10_11-am.md|2023-11-10_11-am]]: So, don't chase my trades here.
 
-> [[../../04-Transcripts/stockbee/2026-05-06_9_15-am.md|2026-05-06_9_15-am]]: And then you're chasing a gap then now.
+> [[../../04-Transcripts/stockbee/2023-11-14_11-am.md|2023-11-14_11-am]]: You're chasing rabbits.
 
-> [[../../04-Transcripts/stockbee/2026-05-06_9_15-am.md|2026-05-06_9_15-am]]: But do you chase it here?
+> [[../../04-Transcripts/stockbee/2023-11-16_11-am.md|2023-11-16_11-am]]: That's the reason why I didn't really chase all those gaps on Monday.
 
-> [[../../04-Transcripts/stockbee/2026-05-06_9_15-am.md|2026-05-06_9_15-am]]: I'm not gonna chase it now.
+> [[../../04-Transcripts/stockbee/2023-11-16_11-am.md|2023-11-16_11-am]]: Did I chase any of the gaps on Monday?
 
-> [[../../04-Transcripts/stockbee/2026-05-06_9_15-am.md|2026-05-06_9_15-am]]: And so these are, like, any things which can create, the you don't chase a a gap.
+> [[../../04-Transcripts/stockbee/2023-11-16_11-am.md|2023-11-16_11-am]]: You need to know when to chase which one to chase.
 
-> [[../../04-Transcripts/stockbee/2026-05-07_9_15_AM.md|2026-05-07_9_15_AM]]: GLW, I would not chase here at all.
+> [[../../04-Transcripts/stockbee/2023-11-20_11-am.md|2023-11-20_11-am]]: And, also, I'm not chasing in the morning.
 
-> [[../../04-Transcripts/stockbee/2026-05-07_9_15_AM.md|2026-05-07_9_15_AM]]: That is see, this is why gaps you don't chase.
+> [[../../04-Transcripts/stockbee/2023-11-20_11-am.md|2023-11-20_11-am]]: So I freed up my mental capital to chase breakout in the morning or go into a sips or something in the morning.
 
-> [[../../04-Transcripts/stockbee/2026-05-07_9_15_AM.md|2026-05-07_9_15_AM]]: JPMorgan Chase, triple, like, Starbucks.
+> [[../../04-Transcripts/stockbee/2023-11-22_11-am.md|2023-11-22_11-am]]: So I'm not really now going to chase it.
 
-> [[../../04-Transcripts/stockbee/2026-05-09_Unknown.md|2026-05-09_Unknown]]: He uses, like, in some, other market, Chase, or something and some other sources.
+> [[../../04-Transcripts/stockbee/2023-11-27_2-pm.md|2023-11-27_2-pm]]: You should not chase woman.
 
-> [[../../04-Transcripts/stockbee/2026-05-11_9_15-am.md|2026-05-11_9_15-am]]: Well, it is see, early breakout chasing doesn't really make sense right today.
+> [[../../04-Transcripts/stockbee/2023-11-27_2-pm.md|2023-11-27_2-pm]]: Woman should chase you.
 
-> [[../../04-Transcripts/stockbee/2026-05-12_3-pm.md|2026-05-12_3-pm]]: Most of this is, like, nothing I see is, like, in a basically which, is such a setup.
+> [[../../04-Transcripts/stockbee/2023-11-27_2-pm.md|2023-11-27_2-pm]]: If you want to chase Oman, you are free to chase Oman.
 
-> [[../../04-Transcripts/stockbee/2026-05-12_9_15-am.md|2026-05-12_9_15-am]]: There was no type of point in chasing that.
+> [[../../04-Transcripts/stockbee/2023-11-27_2-pm.md|2023-11-27_2-pm]]: Don't chase Moose.
 
-> [[../../04-Transcripts/stockbee/2026-05-12_9_15-am.md|2026-05-12_9_15-am]]: And there was no point in chasing those once they gap up.
+> [[../../04-Transcripts/stockbee/2023-11-27_2-pm.md|2023-11-27_2-pm]]: Don't chase like any woman.
 
-> [[../../04-Transcripts/stockbee/2026-05-12_9_15-am.md|2026-05-12_9_15-am]]: Now that freeze of capital to chase new ideas.
+> [[../../04-Transcripts/stockbee/2023-11-27_2-pm.md|2023-11-27_2-pm]]: The key to good anticipation is not to, like, in a really chase extended moves.
 
-> [[../../04-Transcripts/stockbee/2026-05-12_9_15-am.md|2026-05-12_9_15-am]]: Will I chase, something which is gaps ups or no?
+> [[../../04-Transcripts/stockbee/2023-11-27_2-pm.md|2023-11-27_2-pm]]: Not to chase extended moves.
 
-> [[../../04-Transcripts/stockbee/2026-05-13_3-pm.md|2026-05-13_3-pm]]: And then basically, some of these I didn't get in early, so I'm not chasing right in a Google.
+> [[../../04-Transcripts/stockbee/2023-11-28_9-am.md|2023-11-28_9-am]]: And, that's when, like, now, like, in a people are chasing PDD.
 
-> [[../../04-Transcripts/stockbee/2026-05-13_3-pm.md|2026-05-13_3-pm]]: I don't want to chase something now.
+> [[../../04-Transcripts/stockbee/2023-11-29_11-am.md|2023-11-29_11-am]]: JP Morgan Chase.
 
-> [[../../04-Transcripts/stockbee/2026-05-13_3-pm.md|2026-05-13_3-pm]]: So I didn't want to chase, on and c f p s.
+> [[../../04-Transcripts/stockbee/2023-11-30_11-am.md|2023-11-30_11-am]]: Now if you're aggressively chasing anticipation and breakouts here, you are going to get chopped.
 
-> [[../../04-Transcripts/stockbee/2026-05-15_9_15-am.md|2026-05-15_9_15-am]]: And you don't chase the first down.
+> [[../../04-Transcripts/stockbee/2023-12-05_11-am.md|2023-12-05_11-am]]: You have to play the market chase ahead of time.
 
-> [[../../04-Transcripts/stockbee/2026-05-20_9_15-am.md|2026-05-20_9_15-am]]: JP Morgan Chase.
+> [[../../04-Transcripts/stockbee/2023-12-14_11-am.md|2023-12-14_11-am]]: Otherwise, we are constantly chasing Mirages.
 
-> [[../../04-Transcripts/stockbee/2026-05-21_9_15-am.md|2026-05-21_9_15-am]]: Right now, you are left to chase this.
+> [[../../04-Transcripts/stockbee/2023-12-22_9-am.md|2023-12-22_9-am]]: At around $6.42, JPMorgan and Chase did a upgrade on the, Altair, and Alexo.
 
-> [[../../04-Transcripts/stockbee/2026-05-21_9_15-am.md|2026-05-21_9_15-am]]: Now you have to chase.
+> [[../../04-Transcripts/stockbee/2023-12-29_9-am.md|2023-12-29_9-am]]: So I'm not really chasing breakouts here, right, and, basically and FSR, all you people are, like, in chasing FSR, but that's NVIDIA is the one.
 
-> [[../../04-Transcripts/stockbee/2026-05-21_9_15-am.md|2026-05-21_9_15-am]]: If you have to chase, then you'll have to drop size.
+> [[../../04-Transcripts/stockbee/2024-01-03_11-am.md|2024-01-03_11-am]]: JPMorgan Chase.
 
 ## Related Concepts
 

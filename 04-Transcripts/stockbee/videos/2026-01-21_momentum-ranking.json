@@ -1,0 +1,2951 @@
+{
+  "segments": [
+    {
+      "start": 30.09,
+      "end": 30.59,
+      "text": "Okay."
+    },
+    {
+      "start": 32.89,
+      "end": 37.87,
+      "text": "Let's look at momentum ranking and how to do momentum ranking."
+    },
+    {
+      "start": 38.09,
+      "end": 55.845,
+      "text": "And for that, we will try and do, Let me put it on timeline before somebody starts asking what is this template."
+    },
+    {
+      "start": 55.905,
+      "end": 56.405,
+      "text": "Right?"
+    },
+    {
+      "start": 57.504997,
+      "end": 58.245,
+      "text": "Share layout."
+    },
+    {
+      "start": 88.44,
+      "end": 88.68,
+      "text": "Okay."
+    },
+    {
+      "start": 88.68,
+      "end": 96.700005,
+      "text": "So let's go and look at, like, momentum and how you can use momentum to rank stocks and trade, basically."
+    },
+    {
+      "start": 97.0,
+      "end": 98.14,
+      "text": "So let's see."
+    },
+    {
+      "start": 99.72,
+      "end": 103.115,
+      "text": "So let's buy first look at what is momentum."
+    },
+    {
+      "start": 103.174995,
+      "end": 103.335,
+      "text": "Right?"
+    },
+    {
+      "start": 103.335,
+      "end": 109.59499,
+      "text": "And then you hear this term, like, in a relative strength momentum and all these kind of things."
+    },
+    {
+      "start": 109.895,
+      "end": 111.435,
+      "text": "So what are they, basically?"
+    },
+    {
+      "start": 111.575,
+      "end": 123.399994,
+      "text": "So momentum is basically, in a simple language, momentum is the speed or the velocity of a move."
+    },
+    {
+      "start": 125.78,
+      "end": 129.4,
+      "text": "At what speed or what velocity a stock is moving."
+    },
+    {
+      "start": 129.785,
+      "end": 140.125,
+      "text": "So if you look at currently, right, and, basically and I'll get into, like, in a how this is done, but, like, in a say, if you look at, like, any other stock has a high velocity."
+    },
+    {
+      "start": 140.265,
+      "end": 140.50499,
+      "text": "Right?"
+    },
+    {
+      "start": 140.50499,
+      "end": 144.57,
+      "text": "Because it has gone up July or HMA, or you can do it different ways."
+    },
+    {
+      "start": 144.57,
+      "end": 144.73001,
+      "text": "Right?"
+    },
+    {
+      "start": 144.73001,
+      "end": 146.91,
+      "text": "And then we'll look at the different ways to do it."
+    },
+    {
+      "start": 146.97,
+      "end": 153.79001,
+      "text": "By twenty five days, velocity, this is the number one stock by velocity."
+    },
+    {
+      "start": 153.85,
+      "end": 154.01001,
+      "text": "Right?"
+    },
+    {
+      "start": 154.01001,
+      "end": 162.575,
+      "text": "It is up 357% or HMA or Car Wars Pharmaceuticals or BNI."
+    },
+    {
+      "start": 163.275,
+      "end": 167.69499,
+      "text": "These are all stocks with velocity, IVRX with velocity."
+    },
+    {
+      "start": 167.75499,
+      "end": 168.075,
+      "text": "Right?"
+    },
+    {
+      "start": 168.075,
+      "end": 168.575,
+      "text": "SCGG."
+    },
+    {
+      "start": 169.515,
+      "end": 171.75499,
+      "text": "So how do you find this kind of stocks?"
+    },
+    {
+      "start": 173.03499,
+      "end": 181.47,
+      "text": "Essentially, momentum is, like, you find momentum by using something which is called a rate of change."
+    },
+    {
+      "start": 181.47,
+      "end": 184.82999,
+      "text": "Rate of changes at what rate the price is changing."
+    },
+    {
+      "start": 184.82999,
+      "end": 185.15,
+      "text": "Right?"
+    },
+    {
+      "start": 185.15,
+      "end": 190.735,
+      "text": "And whenever you're looking at rate of change, it's always a ratio of true prices."
+    },
+    {
+      "start": 190.955,
+      "end": 195.83499,
+      "text": "So it might be a ratio of, price to a moving average."
+    },
+    {
+      "start": 195.83499,
+      "end": 206.45001,
+      "text": "It can be a ratio of price today to price."
+    },
+    {
+      "start": 208.59001,
+      "end": 217.695,
+      "text": "And this ago, and that end might be, like, in a three day, like, in a ten days, fifteen days, twenty five days, or one month, three months, six months."
+    },
+    {
+      "start": 218.315,
+      "end": 223.775,
+      "text": "Typically, when you are using momentum, use a momentum on three time periods."
+    },
+    {
+      "start": 224.395,
+      "end": 227.775,
+      "text": "So you look for a one month momentum is short term momentum."
+    },
+    {
+      "start": 227.835,
+      "end": 233.23,
+      "text": "Three month momentum is intermediate momentum, and six months momentum is long term momentum."
+    },
+    {
+      "start": 233.29,
+      "end": 243.84999,
+      "text": "Because beyond six months, if you're trying to find a momentum stocks and you're using time periods beyond six months, to a large extent, you missed the move."
+    },
+    {
+      "start": 243.84999,
+      "end": 244.275,
+      "text": "Right?"
+    },
+    {
+      "start": 244.435,
+      "end": 245.155,
+      "text": "You missed the move."
+    },
+    {
+      "start": 245.155,
+      "end": 249.17499,
+      "text": "So what you want to see is, like, an awareness stock enters momentum phase."
+    },
+    {
+      "start": 250.915,
+      "end": 253.735,
+      "text": "We want to see one month, three months, six months momentum."
+    },
+    {
+      "start": 254.515,
+      "end": 257.07498,
+      "text": "So there'll be stocks which are just starting out momentum."
+    },
+    {
+      "start": 257.07498,
+      "end": 258.695,
+      "text": "They will show up in one month momentum."
+    },
+    {
+      "start": 258.9,
+      "end": 261.88,
+      "text": "There are stock which has gone up for a couple of months or weeks."
+    },
+    {
+      "start": 262.02,
+      "end": 264.84,
+      "text": "They'll show up in three months momentum and six months momentum."
+    },
+    {
+      "start": 264.9,
+      "end": 265.4,
+      "text": "Right?"
+    },
+    {
+      "start": 265.46,
+      "end": 266.41998,
+      "text": "So how do you do it?"
+    },
+    {
+      "start": 266.41998,
+      "end": 272.66,
+      "text": "In order to create this rate of change, you can use c divided by average c 25."
+    },
+    {
+      "start": 272.66,
+      "end": 275.13498,
+      "text": "25 is the number of days in a month."
+    },
+    {
+      "start": 275.51498,
+      "end": 275.595,
+      "text": "Right?"
+    },
+    {
+      "start": 275.595,
+      "end": 284.875,
+      "text": "Or you can do c divided by average c 60, which is the number of days in, 60 or 50, whichever way you want it."
+    },
+    {
+      "start": 284.875,
+      "end": 285.19498,
+      "text": "Right?"
+    },
+    {
+      "start": 285.19498,
+      "end": 293.44,
+      "text": "And as, like, in a one quarter momentum, if you're looking for, you might want to do it 60, because there are sixty three days."
+    },
+    {
+      "start": 293.44,
+      "end": 293.68,
+      "text": "Right?"
+    },
+    {
+      "start": 293.68,
+      "end": 298.96,
+      "text": "And, basically, you know, one twenty six day, two fifty two days in a year in terms of trading days."
+    },
+    {
+      "start": 298.96,
+      "end": 299.91998,
+      "text": "So sixty three days."
+    },
+    {
+      "start": 299.91998,
+      "end": 300.15997,
+      "text": "Right?"
+    },
+    {
+      "start": 300.15997,
+      "end": 302.265,
+      "text": "And, basically, for one quarter."
+    },
+    {
+      "start": 302.565,
+      "end": 304.665,
+      "text": "And this is the six months momentum."
+    },
+    {
+      "start": 305.445,
+      "end": 307.845,
+      "text": "So how can you do this in t c two thousand?"
+    },
+    {
+      "start": 307.845,
+      "end": 308.725,
+      "text": "It's very easy."
+    },
+    {
+      "start": 308.725,
+      "end": 309.225,
+      "text": "Right?"
+    },
+    {
+      "start": 310.565,
+      "end": 312.265,
+      "text": "Even my grandma can do this."
+    },
+    {
+      "start": 312.565,
+      "end": 317.75,
+      "text": "All that you need to do is see by average c 25."
+    },
+    {
+      "start": 317.75,
+      "end": 319.27002,
+      "text": "This is a ratio of two prices."
+    },
+    {
+      "start": 319.27002,
+      "end": 319.77002,
+      "text": "Right?"
+    },
+    {
+      "start": 319.91,
+      "end": 327.19,
+      "text": "So when you sort by this particular thing, this is the number one ranked stock by momentum currently as you can see."
+    },
+    {
+      "start": 327.19,
+      "end": 327.69,
+      "text": "Right?"
+    },
+    {
+      "start": 327.895,
+      "end": 331.175,
+      "text": "Now you have this is as a number two, number three, number four."
+    },
+    {
+      "start": 331.175,
+      "end": 338.63498,
+      "text": "Typically, when you use momentum, you focus on top 25 or 50 stocks by momentum."
+    },
+    {
+      "start": 338.69498,
+      "end": 342.55,
+      "text": "Now this is a stock, which is, like, you know, basically having very good momentum."
+    },
+    {
+      "start": 342.55,
+      "end": 347.91,
+      "text": "Now if it goes sideways for two or three days, then it will become an anticipation setup because this has gone up straight."
+    },
+    {
+      "start": 347.91,
+      "end": 348.15,
+      "text": "Right?"
+    },
+    {
+      "start": 348.15,
+      "end": 357.085,
+      "text": "And, basically and then, so momentum is used basically to find pause in momentum, for an entry."
+    },
+    {
+      "start": 357.085,
+      "end": 360.445,
+      "text": "So what you're saying is that this train has left the station."
+    },
+    {
+      "start": 360.445,
+      "end": 363.745,
+      "text": "It is going very fast, and I want to get on to this train."
+    },
+    {
+      "start": 364.125,
+      "end": 371.34,
+      "text": "So if you're one of those people who has not enough experience, in order to get on to this train, you're going to jump on this day."
+    },
+    {
+      "start": 371.58,
+      "end": 374.48,
+      "text": "And if you're an experienced trader, what are you going to do?"
+    },
+    {
+      "start": 376.13998,
+      "end": 383.84,
+      "text": "You're going to wait for pullback or you're going to wait for a consolidation and then get onto, this train."
+    },
+    {
+      "start": 384.06,
+      "end": 399.94998,
+      "text": "But by getting into stocks, which are momentum, what you're doing is you're exposing your money to the fastest moving stocks in the market in the hope that if this momentum continues, then you're going to get a make lot of money."
+    },
+    {
+      "start": 400.41,
+      "end": 402.09,
+      "text": "So that's what you're looking for."
+    },
+    {
+      "start": 402.09,
+      "end": 402.33,
+      "text": "Right?"
+    },
+    {
+      "start": 402.33,
+      "end": 403.87,
+      "text": "And so you're looking for a pause."
+    },
+    {
+      "start": 404.25,
+      "end": 409.78998,
+      "text": "You're not really looking for a deacceleration of momentum because deacceleration of momentum is reversal."
+    },
+    {
+      "start": 409.84998,
+      "end": 410.34998,
+      "text": "Right?"
+    },
+    {
+      "start": 410.72998,
+      "end": 419.555,
+      "text": "This will be like an you're like an going going to enter into so so what you're looking for is a stock which has momentum and which pauses for two or three days."
+    },
+    {
+      "start": 419.555,
+      "end": 424.995,
+      "text": "So many ways in which it is used is like an essentially see, this is the kind of stock which you want."
+    },
+    {
+      "start": 424.995,
+      "end": 425.495,
+      "text": "Right?"
+    },
+    {
+      "start": 425.555,
+      "end": 426.695,
+      "text": "Here, there's a momentum."
+    },
+    {
+      "start": 426.755,
+      "end": 430.21002,
+      "text": "The stock has made 100 and four percent two days sideways."
+    },
+    {
+      "start": 430.51,
+      "end": 437.65002,
+      "text": "And then if it starts breaking out or you want to enter into it, right, basically, or IPSC or each whichever way."
+    },
+    {
+      "start": 437.71002,
+      "end": 442.37003,
+      "text": "Now this is a momentum, which is a one month momentum."
+    },
+    {
+      "start": 443.32498,
+      "end": 447.26498,
+      "text": "Now you can create similarly a momentum, which is a three month momentum."
+    },
+    {
+      "start": 447.645,
+      "end": 459.78,
+      "text": "All that you need to do is, like, gonna duplicate that column and change that column to sixty three days, and then change this to sixty three days."
+    },
+    {
+      "start": 460.32,
+      "end": 473.28,
+      "text": "So once we do this, what you'll see is that stocks, which had a momentum on a one like, an a any you can see that, like, in a these are different from the one which you looked at."
+    },
+    {
+      "start": 473.28,
+      "end": 473.685,
+      "text": "Right?"
+    },
+    {
+      "start": 473.925,
+      "end": 476.745,
+      "text": "This stock has momentum for last two or three months."
+    },
+    {
+      "start": 477.04498,
+      "end": 480.245,
+      "text": "So this ranking will be different from the ranking which we just saw."
+    },
+    {
+      "start": 480.245,
+      "end": 482.885,
+      "text": "This is a stock which already has made two or three legs."
+    },
+    {
+      "start": 482.885,
+      "end": 483.205,
+      "text": "Right?"
+    },
+    {
+      "start": 483.205,
+      "end": 496.6,
+      "text": "And, basically so when you use three months momentum, what you're going to do is you're going to see stocks which are two or three months momentum, and they are are, like, ranked high by momentum."
+    },
+    {
+      "start": 496.6,
+      "end": 498.84,
+      "text": "So this is the kind of stock which you're looking for then."
+    },
+    {
+      "start": 498.84,
+      "end": 499.16,
+      "text": "Right?"
+    },
+    {
+      "start": 499.16,
+      "end": 501.18,
+      "text": "And this is a stock which has a very high momentum."
+    },
+    {
+      "start": 501.56,
+      "end": 507.23502,
+      "text": "Its rank is number 17 by momentum, and it is undergoing a pause."
+    },
+    {
+      "start": 507.23502,
+      "end": 509.315,
+      "text": "So if there is a breakout in this, you want to buy."
+    },
+    {
+      "start": 509.315,
+      "end": 521.66,
+      "text": "So those are the kind of things for which use this kind of a momentum, ranking, which is to find stocks which are like this, where the stock has had a orderly pullback or, like, an to find anticipation setup."
+    },
+    {
+      "start": 521.66,
+      "end": 529.44,
+      "text": "The primary use of momentum is to find anticipation kind of a setups and enter them on anticipation."
+    },
+    {
+      "start": 529.66,
+      "end": 543.655,
+      "text": "But as you can see, if you have some understanding of momentum, right, the moment we went into a three months momentum, what happened is when we went into a three month momentum is you find lot of stocks which are already extended."
+    },
+    {
+      "start": 543.715,
+      "end": 543.955,
+      "text": "Right?"
+    },
+    {
+      "start": 543.955,
+      "end": 546.135,
+      "text": "And then you'll find some of these are too extended."
+    },
+    {
+      "start": 548.07,
+      "end": 552.31,
+      "text": "So right."
+    },
+    {
+      "start": 552.31,
+      "end": 553.69,
+      "text": "Why is this, like, different?"
+    },
+    {
+      "start": 555.35,
+      "end": 556.39,
+      "text": "How I rank stock?"
+    },
+    {
+      "start": 556.39,
+      "end": 557.58997,
+      "text": "I'm just showing you now."
+    },
+    {
+      "start": 557.58997,
+      "end": 557.83,
+      "text": "Right?"
+    },
+    {
+      "start": 557.83,
+      "end": 562.185,
+      "text": "And I rank stocks by, like and I just, doing the descending order."
+    },
+    {
+      "start": 562.185,
+      "end": 562.34503,
+      "text": "Right?"
+    },
+    {
+      "start": 562.34503,
+      "end": 566.765,
+      "text": "And, basically so this is like an edit column, c by 60."
+    },
+    {
+      "start": 567.22504,
+      "end": 571.645,
+      "text": "And then, like, an you have this as a column, which is like an a c by."
+    },
+    {
+      "start": 571.705,
+      "end": 572.825,
+      "text": "Average is 63."
+    },
+    {
+      "start": 572.825,
+      "end": 573.065,
+      "text": "Right?"
+    },
+    {
+      "start": 573.065,
+      "end": 573.80505,
+      "text": "And, basically."
+    },
+    {
+      "start": 574.02997,
+      "end": 576.83,
+      "text": "So, again, you have stocks which have momentum ranking."
+    },
+    {
+      "start": 576.83,
+      "end": 577.07,
+      "text": "Right?"
+    },
+    {
+      "start": 577.07,
+      "end": 577.81,
+      "text": "And, basically."
+    },
+    {
+      "start": 578.43,
+      "end": 589.115,
+      "text": "And this is how, like, in a basically, you can find a stock which is in a momentum and, look for a pause in momentum, Create a watch list out of this."
+    },
+    {
+      "start": 589.115,
+      "end": 594.95496,
+      "text": "So what you want to find is you want to find a stock like this here, not right or after it has made a move."
+    },
+    {
+      "start": 594.95496,
+      "end": 595.45496,
+      "text": "Right?"
+    },
+    {
+      "start": 595.83496,
+      "end": 608.12,
+      "text": "Now these are all stocks which are in momentum, but, you're looking for a pause in momentum like this, Anna, stock which has a momentum."
+    },
+    {
+      "start": 608.12,
+      "end": 611.33997,
+      "text": "And that is the core part of, like, any momentum was trading."
+    },
+    {
+      "start": 611.64,
+      "end": 617.005,
+      "text": "Now this is like an a momentum which is like a, one month momentum."
+    },
+    {
+      "start": 617.065,
+      "end": 622.02496,
+      "text": "This is a three months, a momentum or a quarter momentum."
+    },
+    {
+      "start": 622.02496,
+      "end": 627.065,
+      "text": "Now if you want to create a six months momentum, this is c by r s c one twenty six."
+    },
+    {
+      "start": 627.065,
+      "end": 637.71,
+      "text": "And when you rank by this, what you are going to see is you're going to see some of the stocks will be duplicated because there is momentum is, like, in a ratio, so you'll always have that as a thing."
+    },
+    {
+      "start": 637.71,
+      "end": 640.27,
+      "text": "But, like, say here, you have some of these stocks."
+    },
+    {
+      "start": 640.27,
+      "end": 640.51,
+      "text": "Right?"
+    },
+    {
+      "start": 640.51,
+      "end": 643.17004,
+      "text": "And, basically, which are stocks with momentum."
+    },
+    {
+      "start": 644.075,
+      "end": 658.79,
+      "text": "Now when we do this momentum kind of a ranking, what can happen when you do this kind of a momentum ranking using three months, six months, or even twenty five days is that you can get into very extended stock."
+    },
+    {
+      "start": 661.73,
+      "end": 671.715,
+      "text": "And you don't want to be getting into an extended stock because if you get into a extended stock, you're gonna be buying something which is, like, not likely to continue because you're too late to the party."
+    },
+    {
+      "start": 672.03503,
+      "end": 702.235,
+      "text": "So in order to avoid the extended stocks, sir, you want to find a stock which is creating a base or you want to find a VCP kind of a pattern, right, which is volatile decompression pattern, or you want to find the continuation the consolidation wage, or you can find a flat base."
+    },
+    {
+      "start": 702.235,
+      "end": 708.255,
+      "text": "All those kind of things if you want to find, then what you do is you offset the momentum."
+    },
+    {
+      "start": 708.955,
+      "end": 712.315,
+      "text": "Six months momentum, you offset by one month or two months."
+    },
+    {
+      "start": 712.315,
+      "end": 718.89996,
+      "text": "So what it means is this is currently a number one ranked stock by Momentum."
+    },
+    {
+      "start": 719.04,
+      "end": 719.54,
+      "text": "Right?"
+    },
+    {
+      "start": 719.83997,
+      "end": 725.77997,
+      "text": "What I want to find out is what stock was ranked number one by Momentum a month ago."
+    },
+    {
+      "start": 726.32,
+      "end": 726.82,
+      "text": "Right?"
+    },
+    {
+      "start": 727.425,
+      "end": 733.185,
+      "text": "Because after that momentum pays, that stock might be having a pause."
+    },
+    {
+      "start": 733.185,
+      "end": 735.185,
+      "text": "So here, you're looking at c 25."
+    },
+    {
+      "start": 735.185,
+      "end": 741.62,
+      "text": "That means, like and if twenty five days ago, which stock was having a high momentum ranking."
+    },
+    {
+      "start": 741.62,
+      "end": 754.19995,
+      "text": "And when you do this ranking, you'll see that six months ago, right, six months, like, or one month ago, by six months momentum, this was the number one stock."
+    },
+    {
+      "start": 754.59503,
+      "end": 770.135,
+      "text": "Now what you see is this stock has already made the big move of 297%, and it is creating whatever you want to call it, VCP pattern or, cup it's not really creating a cup with handle, but, like, it is forming a base."
+    },
+    {
+      "start": 770.37,
+      "end": 770.69,
+      "text": "Right?"
+    },
+    {
+      "start": 770.69,
+      "end": 775.73,
+      "text": "So those of you who want to do a longer term trading, again, you'll see the same thing."
+    },
+    {
+      "start": 775.73,
+      "end": 776.23,
+      "text": "Right?"
+    },
+    {
+      "start": 776.29,
+      "end": 783.75,
+      "text": "Stock is ranked number two by six months momentum, and now it is having an orderly base being built."
+    },
+    {
+      "start": 783.97,
+      "end": 791.04504,
+      "text": "So this is one of the advantage of understanding momentum because you can find stocks which have made a big move."
+    },
+    {
+      "start": 791.04504,
+      "end": 798.34503,
+      "text": "And after a big move, they are having a consolidation, longer consolidation."
+    },
+    {
+      "start": 798.565,
+      "end": 801.88,
+      "text": "And what is the advantage of looking at stocks with longer consolidation?"
+    },
+    {
+      "start": 802.02,
+      "end": 809.54004,
+      "text": "Because if there is a longer consolidation and they break out of the longer consolidation, then they might make two or three legs move."
+    },
+    {
+      "start": 809.54004,
+      "end": 814.76,
+      "text": "Here, this stock had this first leg, which is 145%, and then it is going sideways."
+    },
+    {
+      "start": 814.82,
+      "end": 819.055,
+      "text": "This is also like in a what colloquially people call it as."
+    },
+    {
+      "start": 827.835,
+      "end": 829.055,
+      "text": "The Darwars works."
+    },
+    {
+      "start": 830.22,
+      "end": 830.69995,
+      "text": "Right?"
+    },
+    {
+      "start": 830.69995,
+      "end": 831.98,
+      "text": "That's a range, basically."
+    },
+    {
+      "start": 831.98,
+      "end": 832.22,
+      "text": "Right?"
+    },
+    {
+      "start": 832.22,
+      "end": 833.1,
+      "text": "This is the range."
+    },
+    {
+      "start": 833.1,
+      "end": 843.86505,
+      "text": "So then they will buy it when it crosses this range, which I do not recommend because that will be like any you'll be buying again a very extended stock, but, like and if there's a breakout, you buy."
+    },
+    {
+      "start": 843.86505,
+      "end": 870.15,
+      "text": "So if you want to find or you want to do a trading, which is like a Mark Milner Winnie kind of a trading, or you want to do something like, what like, the IBD kind of people do where they way, they look for stocks which are undergoing some sort of, this thing, consolidation patterns, and then breaking out of this consolidation pattern, then you can use the six months momentum offset by one month."
+    },
+    {
+      "start": 870.955,
+      "end": 871.355,
+      "text": "Right?"
+    },
+    {
+      "start": 871.355,
+      "end": 882.415,
+      "text": "So this is a good way of finding stocks with longer term momentum, which are, like, in a basically, have the potential to make a big move."
+    },
+    {
+      "start": 882.81,
+      "end": 884.73,
+      "text": "So you'll see, like, another start now."
+    },
+    {
+      "start": 884.73,
+      "end": 890.59,
+      "text": "This is a good example of a start, which is like an I made this first leg move big move right in here."
+    },
+    {
+      "start": 890.89,
+      "end": 896.225,
+      "text": "And after making this big move, multiple legs, now it is having cup with handle."
+    },
+    {
+      "start": 896.225,
+      "end": 896.665,
+      "text": "Right?"
+    },
+    {
+      "start": 896.665,
+      "end": 899.485,
+      "text": "And a two, it's like in a two cup."
+    },
+    {
+      "start": 900.665,
+      "end": 901.145,
+      "text": "Right?"
+    },
+    {
+      "start": 901.145,
+      "end": 903.96497,
+      "text": "And handle, like and if I do this, properly."
+    },
+    {
+      "start": 904.825,
+      "end": 905.145,
+      "text": "Right?"
+    },
+    {
+      "start": 905.145,
+      "end": 907.325,
+      "text": "This right and, basically, where is this?"
+    },
+    {
+      "start": 915.39,
+      "end": 922.525,
+      "text": "And now I can draw where is the freelance tool to to this?"
+    },
+    {
+      "start": 922.84503,
+      "end": 924.125,
+      "text": "I don't want arrow."
+    },
+    {
+      "start": 924.125,
+      "end": 925.185,
+      "text": "What do I want?"
+    },
+    {
+      "start": 925.325,
+      "end": 927.645,
+      "text": "I want, like, an basically, pen."
+    },
+    {
+      "start": 927.645,
+      "end": 928.145,
+      "text": "Okay?"
+    },
+    {
+      "start": 928.765,
+      "end": 945.65,
+      "text": "So So that's like an a cup with handle or the VCP pattern."
+    },
+    {
+      "start": 945.65,
+      "end": 945.81,
+      "text": "Right?"
+    },
+    {
+      "start": 945.81,
+      "end": 946.63,
+      "text": "You know, basically."
+    },
+    {
+      "start": 947.33,
+      "end": 949.51,
+      "text": "And that's like, you know, what you can see."
+    },
+    {
+      "start": 949.855,
+      "end": 950.175,
+      "text": "Right?"
+    },
+    {
+      "start": 950.175,
+      "end": 958.015,
+      "text": "So if you want to trade cup with handle, this is the kind of things, momentum, which you want to focus on, which is a six months momentum kind of thing."
+    },
+    {
+      "start": 958.015,
+      "end": 958.515,
+      "text": "Right?"
+    },
+    {
+      "start": 958.655,
+      "end": 967.29004,
+      "text": "What we did here when we did this momentum is find stocks which had momentum one month ago."
+    },
+    {
+      "start": 967.59,
+      "end": 972.89,
+      "text": "So at that time, this stock was ranked 25 by momentum."
+    },
+    {
+      "start": 973.19,
+      "end": 973.69,
+      "text": "Right?"
+    },
+    {
+      "start": 974.55,
+      "end": 978.33496,
+      "text": "So as you keep going down, you'll see lot of stocks which had a big momentum move."
+    },
+    {
+      "start": 978.33496,
+      "end": 982.595,
+      "text": "After the big momentum move a month ago or something, they just gone sideways."
+    },
+    {
+      "start": 982.89496,
+      "end": 986.19495,
+      "text": "Now that's, like, in a one of the ways to find momentum stock."
+    },
+    {
+      "start": 986.495,
+      "end": 1000.41,
+      "text": "Now, typically, the people who do this kind of longer term trading or position trading, they say, the stock should form a base of, like, in a six weeks, or it should form a base of eight weeks."
+    },
+    {
+      "start": 1000.70996,
+      "end": 1004.39,
+      "text": "So twenty five days is not like in a four weeks."
+    },
+    {
+      "start": 1004.39,
+      "end": 1004.63,
+      "text": "Right?"
+    },
+    {
+      "start": 1004.63,
+      "end": 1010.595,
+      "text": "So you want to find something which is going to fire create a base of two months or something like that."
+    },
+    {
+      "start": 1010.595,
+      "end": 1016.995,
+      "text": "So you can do this using average c 50 divided by average c, one twenty six point fifty."
+    },
+    {
+      "start": 1016.995,
+      "end": 1026.13,
+      "text": "That means two months ago, right, two months ago, this particular stock was the number one ranked stock by Momentum."
+    },
+    {
+      "start": 1026.8301,
+      "end": 1029.65,
+      "text": "As you can see, this was the number one stock by Momentum."
+    },
+    {
+      "start": 1029.71,
+      "end": 1030.21,
+      "text": "Right?"
+    },
+    {
+      "start": 1030.43,
+      "end": 1034.59,
+      "text": "And then it created this two cup with handle, and this was the handle."
+    },
+    {
+      "start": 1034.59,
+      "end": 1046.955,
+      "text": "Again, like and if you want to draw if you want to become good at drawing cups with handle, then you, like and you have to have this kind of our VCP pattern, which is what, like, in a mark, I mean, or when he has popularized right as a pattern."
+    },
+    {
+      "start": 1047.255,
+      "end": 1056.37,
+      "text": "So in this case, what will happen is, yeah, you have after this big base was created, right, you have this one cup."
+    },
+    {
+      "start": 1056.67,
+      "end": 1056.99,
+      "text": "Yeah."
+    },
+    {
+      "start": 1056.99,
+      "end": 1058.27,
+      "text": "This, one cup."
+    },
+    {
+      "start": 1058.27,
+      "end": 1058.51,
+      "text": "Right?"
+    },
+    {
+      "start": 1058.51,
+      "end": 1062.855,
+      "text": "And and then you have this two cup, and then you have, like, you know, this."
+    },
+    {
+      "start": 1062.855,
+      "end": 1065.915,
+      "text": "And then this was the handle, and this was the breakout."
+    },
+    {
+      "start": 1066.615,
+      "end": 1067.095,
+      "text": "Right?"
+    },
+    {
+      "start": 1067.095,
+      "end": 1071.095,
+      "text": "This was the breakout point out of the handle, and that's a VCP pattern."
+    },
+    {
+      "start": 1071.095,
+      "end": 1071.335,
+      "text": "Right?"
+    },
+    {
+      "start": 1071.335,
+      "end": 1076.615,
+      "text": "And then this is, like, in a one c, two c, three c, and handle."
+    },
+    {
+      "start": 1076.615,
+      "end": 1077.09,
+      "text": "Right?"
+    },
+    {
+      "start": 1077.33,
+      "end": 1079.89,
+      "text": "Contraction, range contraction kind of a thing."
+    },
+    {
+      "start": 1079.89,
+      "end": 1083.65,
+      "text": "And if you want to go down to these things and this was the entry point."
+    },
+    {
+      "start": 1083.65,
+      "end": 1086.95,
+      "text": "Like, this was the ideal entry point for that particular setup, basically."
+    },
+    {
+      "start": 1087.01,
+      "end": 1087.51,
+      "text": "Right?"
+    },
+    {
+      "start": 1087.73,
+      "end": 1099.825,
+      "text": "So that you can do, and you can fulfill your childhood imagination of drawing things if you do longer term momentum or six months or more."
+    },
+    {
+      "start": 1099.825,
+      "end": 1099.985,
+      "text": "Right?"
+    },
+    {
+      "start": 1099.985,
+      "end": 1104.705,
+      "text": "And, basically, it is not like, in a something which has a two months or more, like in here."
+    },
+    {
+      "start": 1104.705,
+      "end": 1104.7849,
+      "text": "Right?"
+    },
+    {
+      "start": 1104.7849,
+      "end": 1105.5249,
+      "text": "Do you see?"
+    },
+    {
+      "start": 1105.64,
+      "end": 1109.26,
+      "text": "This is a start which made a big move, and then after that, it is going down."
+    },
+    {
+      "start": 1109.64,
+      "end": 1124.995,
+      "text": "So if you want to create a watch list, what you do is, like, in a you select three time frame or four time frame or five time frame, whatever suits your, if you're a short term trader, you want to use a short term momentum."
+    },
+    {
+      "start": 1125.055,
+      "end": 1125.555,
+      "text": "Right?"
+    },
+    {
+      "start": 1125.615,
+      "end": 1129.295,
+      "text": "If you are, like, medium term trader, you want to use medium term momentum."
+    },
+    {
+      "start": 1129.295,
+      "end": 1134.175,
+      "text": "So you take us universe like this, sort it by '25, and you decide, okay."
+    },
+    {
+      "start": 1134.175,
+      "end": 1146.5299,
+      "text": "I'm going to be focusing on stock top 25 or 30 stock by momentum, and I'm only going to be restricting my trading to the stocks which are in the top 25 by momentum."
+    },
+    {
+      "start": 1146.83,
+      "end": 1156.785,
+      "text": "So you create this, and you create a personal watch list saying momentum 25."
+    },
+    {
+      "start": 1157.245,
+      "end": 1157.7251,
+      "text": "Right?"
+    },
+    {
+      "start": 1157.7251,
+      "end": 1162.66,
+      "text": "Now you put this in here, and you went to that watch list, momentum twenty five."
+    },
+    {
+      "start": 1162.66,
+      "end": 1167.56,
+      "text": "When you go to momentum twenty five, right, you have these stocks which have made the move."
+    },
+    {
+      "start": 1167.78,
+      "end": 1172.3401,
+      "text": "So then you start looking at them and see which one is setting up."
+    },
+    {
+      "start": 1172.3401,
+      "end": 1172.8401,
+      "text": "Right?"
+    },
+    {
+      "start": 1173.78,
+      "end": 1179.105,
+      "text": "There'll be one or two setting up, or there'll be none setting up."
+    },
+    {
+      "start": 1179.105,
+      "end": 1179.345,
+      "text": "Right?"
+    },
+    {
+      "start": 1179.345,
+      "end": 1181.925,
+      "text": "And, basically, depending on what is happening."
+    },
+    {
+      "start": 1183.905,
+      "end": 1187.205,
+      "text": "And then that is the only watch list which you are going to get into."
+    },
+    {
+      "start": 1187.585,
+      "end": 1193.91,
+      "text": "So that is the only start which you are going to focus into, and you can reduce your attention span to only stocks."
+    },
+    {
+      "start": 1193.91,
+      "end": 1196.4701,
+      "text": "Now what you see is going to be the problem."
+    },
+    {
+      "start": 1196.4701,
+      "end": 1196.9501,
+      "text": "Right?"
+    },
+    {
+      "start": 1196.9501,
+      "end": 1203.13,
+      "text": "When you use the short term momentum, most of the stocks which are going to show up here are going to be way extended."
+    },
+    {
+      "start": 1203.1901,
+      "end": 1209.375,
+      "text": "And this is why what you want to do is a combination of three kind of momentum."
+    },
+    {
+      "start": 1209.4349,
+      "end": 1210.875,
+      "text": "So what you do is you do this."
+    },
+    {
+      "start": 1210.875,
+      "end": 1218.335,
+      "text": "You also do a three months momentum or a quarter momentum and do the same thing."
+    },
+    {
+      "start": 1218.71,
+      "end": 1222.25,
+      "text": "So you look at stocks which are top 25 by that kind of a momentum."
+    },
+    {
+      "start": 1222.31,
+      "end": 1222.63,
+      "text": "Right?"
+    },
+    {
+      "start": 1222.63,
+      "end": 1224.95,
+      "text": "And, basically so this is 20."
+    },
+    {
+      "start": 1224.95,
+      "end": 1225.91,
+      "text": "This is 21."
+    },
+    {
+      "start": 1225.91,
+      "end": 1229.45,
+      "text": "This is 22, 23, and 24."
+    },
+    {
+      "start": 1229.67,
+      "end": 1239.8351,
+      "text": "And you take these stocks, flag all symbols above this, and take this into your momentum twenty five watch list."
+    },
+    {
+      "start": 1239.8351,
+      "end": 1240.3351,
+      "text": "Right?"
+    },
+    {
+      "start": 1241.035,
+      "end": 1242.735,
+      "text": "Same way you can do it by MDT."
+    },
+    {
+      "start": 1243.37,
+      "end": 1253.4501,
+      "text": "And when you do it by MDT, what you'll see is, like, you know, basically, you have, like, you know, this raptor, v t x n b y, and, say, SLS."
+    },
+    {
+      "start": 1253.4501,
+      "end": 1253.9501,
+      "text": "Right?"
+    },
+    {
+      "start": 1254.41,
+      "end": 1260.705,
+      "text": "And flag all symbols above this straight up and copy flagged into, Momentum."
+    },
+    {
+      "start": 1260.705,
+      "end": 1271.525,
+      "text": "And I always recommend whoever wants to do Momentum, always use a Momentum offset by one month because that is a better use of Momentum ranking than just ranking by short term Momentum."
+    },
+    {
+      "start": 1271.905,
+      "end": 1274.865,
+      "text": "Short term Momentum is gonna get you a lot of extended stocks."
+    },
+    {
+      "start": 1274.865,
+      "end": 1275.12,
+      "text": "Right?"
+    },
+    {
+      "start": 1275.6,
+      "end": 1278.66,
+      "text": "And then you'll complain that I'm getting stopped out."
+    },
+    {
+      "start": 1278.96,
+      "end": 1292.505,
+      "text": "So here, yeah, these stocks which are ranked top 25 by momentum, same way you can do this for fifty days and rank stocks which are top 25 by momentum."
+    },
+    {
+      "start": 1294.8049,
+      "end": 1304.1849,
+      "text": "And once you do that, copy them into your momentum watch list, momentum 25."
+    },
+    {
+      "start": 1304.58,
+      "end": 1313.88,
+      "text": "This is very good for those who are working, those who don't have time to go through, all the stocks which show up in a scan like, this thing."
+    },
+    {
+      "start": 1314.58,
+      "end": 1316.6,
+      "text": "You want to, like, restrict yourself."
+    },
+    {
+      "start": 1316.74,
+      "end": 1325.175,
+      "text": "So you have now 74 stocks, which are ranked high by momentum either one month, three months, six months, or, this thing."
+    },
+    {
+      "start": 1325.175,
+      "end": 1329.755,
+      "text": "Then you start looking at them and see which one of them is setting up."
+    },
+    {
+      "start": 1330.375,
+      "end": 1332.855,
+      "text": "And you can use this list into ways."
+    },
+    {
+      "start": 1332.855,
+      "end": 1341.02,
+      "text": "You can use this for finding anticipation, and you can also use this if you're a mean reversion kind of a trader."
+    },
+    {
+      "start": 1341.02,
+      "end": 1343.18,
+      "text": "So, again, what you'll do is you'll say, okay."
+    },
+    {
+      "start": 1343.18,
+      "end": 1346.2201,
+      "text": "This is a cup with handle or a VCP pattern."
+    },
+    {
+      "start": 1346.2201,
+      "end": 1346.38,
+      "text": "Right?"
+    },
+    {
+      "start": 1346.38,
+      "end": 1347.5801,
+      "text": "And this is one c."
+    },
+    {
+      "start": 1347.5801,
+      "end": 1348.54,
+      "text": "This is two c."
+    },
+    {
+      "start": 1348.54,
+      "end": 1349.76,
+      "text": "This is three c."
+    },
+    {
+      "start": 1349.9,
+      "end": 1355.1849,
+      "text": "And, like and this is a, stock, which is, like, in a likely to breakout, right, in a basically."
+    },
+    {
+      "start": 1355.885,
+      "end": 1358.285,
+      "text": "And so on and so forth, which you can do."
+    },
+    {
+      "start": 1358.285,
+      "end": 1358.785,
+      "text": "Right?"
+    },
+    {
+      "start": 1359.325,
+      "end": 1374.42,
+      "text": "And if you do that, then you will be operating from a watch list, and you're not really having problem in terms of which is what, like, you know, people like Mark, Minervini, and many other people, they only operate from a watch list."
+    },
+    {
+      "start": 1374.42,
+      "end": 1374.74,
+      "text": "Right?"
+    },
+    {
+      "start": 1374.74,
+      "end": 1383.275,
+      "text": "They don't really run a scan to find a breakout, or even KQ was looking at one month, three months, and six months momentum."
+    },
+    {
+      "start": 1383.335,
+      "end": 1391.355,
+      "text": "So if you want to be the next KQ, make 100,000,000, this is the method for you where you go and create a watch list like this."
+    },
+    {
+      "start": 1391.735,
+      "end": 1397.6699,
+      "text": "And just like in a enter when they are breaking out from this particular momentum watch list."
+    },
+    {
+      "start": 1397.6699,
+      "end": 1407.13,
+      "text": "The hypothesis behind this is that starts with momentum will continue to move in the direction of the momentum for foreseeable future."
+    },
+    {
+      "start": 1407.4299,
+      "end": 1415.085,
+      "text": "And so you'll see things like this, so which are setting up for a possible next leg."
+    },
+    {
+      "start": 1415.085,
+      "end": 1415.585,
+      "text": "Right?"
+    },
+    {
+      "start": 1416.0449,
+      "end": 1421.0249,
+      "text": "Here again, this and turn pharmaceuticals."
+    },
+    {
+      "start": 1422.9249,
+      "end": 1430.9,
+      "text": "And, so all of these, right, and basically are pulling back, like, or setting up for a possible move."
+    },
+    {
+      "start": 1431.44,
+      "end": 1440.815,
+      "text": "And, then when you create a watch list like this, Capricorn, right, and, basically, you can trade consolidation breakout."
+    },
+    {
+      "start": 1441.115,
+      "end": 1450.415,
+      "text": "And if you trade consolidation breakout, then you can have, like, an a two legs move or three legs move, and that is how you find stocks with the momentum."
+    },
+    {
+      "start": 1451.55,
+      "end": 1461.79,
+      "text": "And if you understand momentum, then, like, in a you don't have to worry about, like, in a paying thousands of dollars for IVD ranking and all."
+    },
+    {
+      "start": 1461.79,
+      "end": 1463.4701,
+      "text": "That is how IVD ranking will be."
+    },
+    {
+      "start": 1463.4701,
+      "end": 1467.255,
+      "text": "Your six months momentum will be like a IVD ranking, basically."
+    },
+    {
+      "start": 1467.7949,
+      "end": 1468.0349,
+      "text": "Right?"
+    },
+    {
+      "start": 1468.0349,
+      "end": 1469.5549,
+      "text": "So that's what it is."
+    },
+    {
+      "start": 1469.5549,
+      "end": 1470.615,
+      "text": "So what are the questions?"
+    },
+    {
+      "start": 1474.755,
+      "end": 1476.995,
+      "text": "You cannot put it in the same watch list."
+    },
+    {
+      "start": 1476.995,
+      "end": 1481.9299,
+      "text": "You have to, like, put them into, you have to flag them and put them into the watch list."
+    },
+    {
+      "start": 1481.9299,
+      "end": 1482.09,
+      "text": "Right?"
+    },
+    {
+      "start": 1482.09,
+      "end": 1489.29,
+      "text": "And I the the you can try and do it, like, in a, that way, but, like, in a, this is a cleaner way to do it."
+    },
+    {
+      "start": 1489.29,
+      "end": 1490.8099,
+      "text": "But, yeah, you can do it like that."
+    },
+    {
+      "start": 1490.8099,
+      "end": 1490.97,
+      "text": "Right?"
+    },
+    {
+      "start": 1490.97,
+      "end": 1492.455,
+      "text": "In a single in this end."
+    },
+    {
+      "start": 1493.575,
+      "end": 1496.695,
+      "text": "You put together the double or the trouble range contraction."
+    },
+    {
+      "start": 1496.695,
+      "end": 1499.6749,
+      "text": "I want to tell you you can close create a scan with ranking question."
+    },
+    {
+      "start": 1501.015,
+      "end": 1501.1749,
+      "text": "Yeah."
+    },
+    {
+      "start": 1501.1749,
+      "end": 1502.3949,
+      "text": "You can do that also."
+    },
+    {
+      "start": 1503.095,
+      "end": 1509.69,
+      "text": "And what is EG top 25?"
+    },
+    {
+      "start": 1510.63,
+      "end": 1512.1699,
+      "text": "Oh, I don't know."
+    },
+    {
+      "start": 1512.3099,
+      "end": 1513.11,
+      "text": "Who is EG?"
+    },
+    {
+      "start": 1513.11,
+      "end": 1514.4099,
+      "text": "Do you know who is EG?"
+    },
+    {
+      "start": 1521.5851,
+      "end": 1522.0851,
+      "text": "Here."
+    },
+    {
+      "start": 1522.385,
+      "end": 1522.885,
+      "text": "Right?"
+    },
+    {
+      "start": 1524.545,
+      "end": 1525.525,
+      "text": "Start with 50."
+    },
+    {
+      "start": 1526.465,
+      "end": 1531.525,
+      "text": "It's a stock which are, like, in a ranked by momentum, 50 stocks by momentum."
+    },
+    {
+      "start": 1531.665,
+      "end": 1532.165,
+      "text": "Right?"
+    },
+    {
+      "start": 1532.85,
+      "end": 1533.61,
+      "text": "See here."
+    },
+    {
+      "start": 1533.61,
+      "end": 1534.5499,
+      "text": "You can see that."
+    },
+    {
+      "start": 1534.8099,
+      "end": 1542.9299,
+      "text": "It's not been updated, but, like, in a and that's, like, an why is it showing 2017?"
+    },
+    {
+      "start": 1542.9299,
+      "end": 1543.83,
+      "text": "I don't understand."
+    },
+    {
+      "start": 1543.89,
+      "end": 1544.87,
+      "text": "It should be showing."
+    },
+    {
+      "start": 1547.795,
+      "end": 1548.915,
+      "text": "2025."
+    },
+    {
+      "start": 1548.915,
+      "end": 1549.155,
+      "text": "Right?"
+    },
+    {
+      "start": 1549.155,
+      "end": 1551.235,
+      "text": "And, basically, '20 2026."
+    },
+    {
+      "start": 1551.235,
+      "end": 1552.4349,
+      "text": "So 2026."
+    },
+    {
+      "start": 1552.4349,
+      "end": 1553.495,
+      "text": "These are the stocks."
+    },
+    {
+      "start": 1553.795,
+      "end": 1554.535,
+      "text": "My momentum."
+    },
+    {
+      "start": 1554.595,
+      "end": 1555.095,
+      "text": "Right?"
+    },
+    {
+      "start": 1559.235,
+      "end": 1561.05,
+      "text": "Which is what he was referring to."
+    },
+    {
+      "start": 1561.13,
+      "end": 1566.81,
+      "text": "If Manish was referring to e g fifty or e g twenty five, those are the stocks."
+    },
+    {
+      "start": 1566.81,
+      "end": 1567.05,
+      "text": "Right?"
+    },
+    {
+      "start": 1567.05,
+      "end": 1571.8501,
+      "text": "And Manish was a member for many years, so, that's, like, anyway, you will see."
+    },
+    {
+      "start": 1571.8501,
+      "end": 1572.0901,
+      "text": "Right?"
+    },
+    {
+      "start": 1572.0901,
+      "end": 1572.75,
+      "text": "And, basically."
+    },
+    {
+      "start": 1579.6649,
+      "end": 1581.445,
+      "text": "I just now showed you the formula."
+    },
+    {
+      "start": 1581.5049,
+      "end": 1581.745,
+      "text": "Right?"
+    },
+    {
+      "start": 1581.745,
+      "end": 1585.825,
+      "text": "And, basically so, yeah, these are the formulas."
+    },
+    {
+      "start": 1585.825,
+      "end": 1586.1449,
+      "text": "Right?"
+    },
+    {
+      "start": 1586.1449,
+      "end": 1590.965,
+      "text": "And I see by average c 25, c by average c 63, c by average c one twenty six."
+    },
+    {
+      "start": 1591.1,
+      "end": 1595.12,
+      "text": "And you can offset it by c by 25, c one twenty six by 25."
+    },
+    {
+      "start": 1595.8201,
+      "end": 1598.0801,
+      "text": "So this is the simplest way to use momentum."
+    },
+    {
+      "start": 1602.38,
+      "end": 1611.8451,
+      "text": "And this is what is called as a this kind of a momentum is called as a relative momentum because you're ranking stock."
+    },
+    {
+      "start": 1611.8451,
+      "end": 1612.0851,
+      "text": "Right?"
+    },
+    {
+      "start": 1612.0851,
+      "end": 1614.005,
+      "text": "And, basically, you're ranking stock."
+    },
+    {
+      "start": 1614.005,
+      "end": 1623.31,
+      "text": "Now the problem with relative momentum is also, like, in a what you'll see is, like, in a on this particular list of stocks, which we have momentum 25."
+    },
+    {
+      "start": 1623.31,
+      "end": 1623.55,
+      "text": "Right?"
+    },
+    {
+      "start": 1623.55,
+      "end": 1629.97,
+      "text": "Some of these stocks are not really in momentum anymore because they're already, like, an AR, reversing."
+    },
+    {
+      "start": 1630.11,
+      "end": 1630.35,
+      "text": "Right?"
+    },
+    {
+      "start": 1630.35,
+      "end": 1643.155,
+      "text": "And they are not, like, an If you see them by momentum here, like, in a by twenty five days momentum, some of these stocks, after making a big move, they are no more in momentum."
+    },
+    {
+      "start": 1643.215,
+      "end": 1643.535,
+      "text": "Right?"
+    },
+    {
+      "start": 1643.535,
+      "end": 1651.46,
+      "text": "They are like, there is no point in looking at stocks like this, which are already down 35, 40% after, like, making a momentum move."
+    },
+    {
+      "start": 1651.46,
+      "end": 1651.96,
+      "text": "Right?"
+    },
+    {
+      "start": 1652.34,
+      "end": 1660.68,
+      "text": "So this is why one way of using momentum is related to momentum, but there is a better and a smarter way to use momentum."
+    },
+    {
+      "start": 1660.98,
+      "end": 1663.88,
+      "text": "And what is the better and smarter way to use momentum?"
+    },
+    {
+      "start": 1671.6749,
+      "end": 1691.08,
+      "text": "Better and smarter way to use momentum is to, like, you know, basically create a momentum, which is significantly better than relative momentum."
+    },
+    {
+      "start": 1691.7,
+      "end": 1713.68,
+      "text": "And in order to do a momentum which is better than, like, in a basically, the momentum which you see, what you need to do is Drink absolute and then do absolute momentum."
+    },
+    {
+      "start": 1720.985,
+      "end": 1728.985,
+      "text": "Absolute momentum is different from relative momentum because relative momentum doesn't tell you whether the stock is still in a momentum phase."
+    },
+    {
+      "start": 1728.985,
+      "end": 1729.3049,
+      "text": "Right?"
+    },
+    {
+      "start": 1729.3049,
+      "end": 1736.63,
+      "text": "While an absolute momentum, which is like this, which which is an absolute momentum, absolute momentum example will be instead of doing this this way."
+    },
+    {
+      "start": 1736.63,
+      "end": 1737.13,
+      "text": "Right?"
+    },
+    {
+      "start": 1737.59,
+      "end": 1746.49,
+      "text": "If you do, c by c 25 should be greater than or equal to 1.2."
+    },
+    {
+      "start": 1746.7849,
+      "end": 1752.7849,
+      "text": "That means you're only focusing on a start, which is up 20% plus in one month."
+    },
+    {
+      "start": 1752.7849,
+      "end": 1764.08,
+      "text": "Or you say c by, or, like, you know, to create absolute momentum, my average is seven by average is 65 is greater than or equal to 1.05."
+    },
+    {
+      "start": 1764.08,
+      "end": 1766.64,
+      "text": "So it will tell you where momentum started."
+    },
+    {
+      "start": 1766.64,
+      "end": 1767.14,
+      "text": "Right?"
+    },
+    {
+      "start": 1767.76,
+      "end": 1776.465,
+      "text": "Relative momentum doesn't tell you where momentum started on this stock, while absolute momentum tells you that this is where the momentum started."
+    },
+    {
+      "start": 1776.465,
+      "end": 1776.965,
+      "text": "Right?"
+    },
+    {
+      "start": 1777.105,
+      "end": 1779.505,
+      "text": "And this is where the momentum ended on this stock."
+    },
+    {
+      "start": 1779.505,
+      "end": 1783.585,
+      "text": "So you can find out start of a momentum phase on a stock."
+    },
+    {
+      "start": 1783.585,
+      "end": 1786.325,
+      "text": "Like NBI, this is where the momentum started."
+    },
+    {
+      "start": 1787.09,
+      "end": 1787.59,
+      "text": "Right?"
+    },
+    {
+      "start": 1787.73,
+      "end": 1789.67,
+      "text": "This is where it was in a negative momentum."
+    },
+    {
+      "start": 1790.21,
+      "end": 1793.89,
+      "text": "So, obviously, we are not going to look into absolute momentum today."
+    },
+    {
+      "start": 1793.89,
+      "end": 1801.115,
+      "text": "But for those of you who want to, like and I just do the simple thing, relative momentum and focus on less number of stock."
+    },
+    {
+      "start": 1801.335,
+      "end": 1804.555,
+      "text": "This is one of the ways in which you can rank stock by momentum."
+    },
+    {
+      "start": 1806.4551,
+      "end": 1807.275,
+      "text": "Any questions?"
+    },
+    {
+      "start": 1815.65,
+      "end": 1816.0499,
+      "text": "Okay."
+    },
+    {
+      "start": 1816.0499,
+      "end": 1821.35,
+      "text": "So are there more videos on this?"
+    },
+    {
+      "start": 1823.73,
+      "end": 1825.1699,
+      "text": "Which site are you member of?"
+    },
+    {
+      "start": 1825.1699,
+      "end": 1830.7899,
+      "text": "Like, in a have you tried, like, in a looking at right in a moment, right in a basically?"
+    },
+    {
+      "start": 1835.5449,
+      "end": 1836.0449,
+      "text": "Video."
+    },
+    {
+      "start": 1838.4249,
+      "end": 1838.585,
+      "text": "Right?"
+    },
+    {
+      "start": 1838.585,
+      "end": 1854.0499,
+      "text": "And clarity, momentum, profit from momentum, how to create momentum, watch list, understanding momentum relate to strength, finding momentum stocks, understanding, swing trading using momentum, developing process from momentum was done, so on and so forth."
+    },
+    {
+      "start": 1854.0499,
+      "end": 1854.5499,
+      "text": "Right?"
+    },
+    {
+      "start": 1855.01,
+      "end": 1865.6849,
+      "text": "So understanding momentum, momentum quality, persistent momentum, how to use absolute momentum, also, right, understanding momentum."
+    },
+    {
+      "start": 1866.3049,
+      "end": 1867.345,
+      "text": "So there are a lot of them."
+    },
+    {
+      "start": 1867.345,
+      "end": 1867.665,
+      "text": "Right?"
+    },
+    {
+      "start": 1867.665,
+      "end": 1868.165,
+      "text": "Basically."
+    },
+    {
+      "start": 1873.75,
+      "end": 1876.07,
+      "text": "Again, write an SM every day."
+    },
+    {
+      "start": 1876.07,
+      "end": 1879.11,
+      "text": "Use the same, this thing question."
+    },
+    {
+      "start": 1879.11,
+      "end": 1879.35,
+      "text": "Right?"
+    },
+    {
+      "start": 1879.35,
+      "end": 1882.33,
+      "text": "So I told you, look, and you give me your wife's number."
+    },
+    {
+      "start": 1882.865,
+      "end": 1886.385,
+      "text": "I will, like, tell her to make sure that you write your guide every day."
+    },
+    {
+      "start": 1886.385,
+      "end": 1886.625,
+      "text": "Right?"
+    },
+    {
+      "start": 1886.625,
+      "end": 1896.165,
+      "text": "If you're going to be doing any kind of trading, whether it is going to be a short term trading or long term trading, unfortunately, you cannot escape essay."
+    },
+    {
+      "start": 1897.35,
+      "end": 1905.29,
+      "text": "All these people who are doing momentum based trading, which is an IBD, in IBD momentum canceling right?"
+    },
+    {
+      "start": 1905.51,
+      "end": 1907.69,
+      "text": "M starts for stands for what?"
+    },
+    {
+      "start": 1908.63,
+      "end": 1910.09,
+      "text": "What does m stand for?"
+    },
+    {
+      "start": 1914.895,
+      "end": 1915.395,
+      "text": "Market."
+    },
+    {
+      "start": 1915.615,
+      "end": 1915.855,
+      "text": "Right?"
+    },
+    {
+      "start": 1915.855,
+      "end": 1917.075,
+      "text": "In a market direction."
+    },
+    {
+      "start": 1918.095,
+      "end": 1925.57,
+      "text": "What does, like, in a Mark Minervini, VCP method, does he trade it all the time, or he trades it when he has some sort of a momentum?"
+    },
+    {
+      "start": 1925.71,
+      "end": 1929.47,
+      "text": "Or, like, Krishnan Kulamagi, was it he was trading momentum stock."
+    },
+    {
+      "start": 1929.47,
+      "end": 1937.65,
+      "text": "Was he trading momentum stock all the time, or he was trading when the ten day moving average was about twenty day moving average or the indexes were about ten day moving average?"
+    },
+    {
+      "start": 1937.95,
+      "end": 1942.1849,
+      "text": "So all of the people who drew momentum, they have essay."
+    },
+    {
+      "start": 1942.885,
+      "end": 1951.7649,
+      "text": "Now please write it down, and then I will ask your wife to check whether you wrote it down and whether you understood it."
+    },
+    {
+      "start": 1951.7649,
+      "end": 1952.2649,
+      "text": "Right?"
+    },
+    {
+      "start": 1952.9299,
+      "end": 1958.23,
+      "text": "Because you keep asking the same question again in the hope that I will say, look, and I don't worry."
+    },
+    {
+      "start": 1959.01,
+      "end": 1959.25,
+      "text": "Yeah."
+    },
+    {
+      "start": 1959.25,
+      "end": 1961.25,
+      "text": "You can trade this without, like, any, basically."
+    },
+    {
+      "start": 1961.25,
+      "end": 1961.75,
+      "text": "Right?"
+    },
+    {
+      "start": 1966.7151,
+      "end": 1977.2151,
+      "text": "Now you can do relative momentum even on a shorter time frame, but if you do relative momentum on a shorter time frame, you're going to get into very extended stock."
+    },
+    {
+      "start": 1977.275,
+      "end": 1979.035,
+      "text": "You can do a momentum on a Friday."
+    },
+    {
+      "start": 1979.035,
+      "end": 1979.275,
+      "text": "Right?"
+    },
+    {
+      "start": 1979.275,
+      "end": 1981.5,
+      "text": "And then you can do c by average c five."
+    },
+    {
+      "start": 1981.5,
+      "end": 1988.8601,
+      "text": "If you do c by c, average c five, you're gonna find, right, all the stocks which are, like and in the last five days made a big move."
+    },
+    {
+      "start": 1988.8601,
+      "end": 1996.965,
+      "text": "So the once you understand the concept, right, you can do it in many ways."
+    },
+    {
+      "start": 1997.105,
+      "end": 1997.745,
+      "text": "That's it."
+    },
+    {
+      "start": 1997.745,
+      "end": 1998.245,
+      "text": "Right."
+    },
+    {
+      "start": 2000.945,
+      "end": 2002.085,
+      "text": "Any other question?"
+    },
+    {
+      "start": 2005.52,
+      "end": 2007.7799,
+      "text": "Anybody wants SM's wife's number?"
+    },
+    {
+      "start": 2012.96,
+      "end": 2015.2799,
+      "text": "The guide has 10 to 12 parts video for all."
+    },
+    {
+      "start": 2015.2799,
+      "end": 2023.735,
+      "text": "Do you need to watch all of them, means, I will ask from should I make people watch 10 or 12?"
+    },
+    {
+      "start": 2023.735,
+      "end": 2026.635,
+      "text": "What do you think if you want to really make money in the market?"
+    },
+    {
+      "start": 2028.935,
+      "end": 2031.175,
+      "text": "Like, in a is there a pill which is available?"
+    },
+    {
+      "start": 2031.175,
+      "end": 2034.21,
+      "text": "You take it like in a and like in a yeah."
+    },
+    {
+      "start": 2034.21,
+      "end": 2056.015,
+      "text": "Means, like well, how do you find which is good for, like, an any once you start getting into momentum and you see momentum, right, you'll understand which stocks tend to have high momentum."
+    },
+    {
+      "start": 2056.075,
+      "end": 2056.315,
+      "text": "Right?"
+    },
+    {
+      "start": 2056.315,
+      "end": 2063.3098,
+      "text": "And if you see this momentum list on 25 stock, which we created just now, right, what stocks have?"
+    },
+    {
+      "start": 2063.3098,
+      "end": 2065.7898,
+      "text": "Like, what is the price point of the most of these stocks?"
+    },
+    {
+      "start": 2065.7898,
+      "end": 2066.2898,
+      "text": "Right?"
+    },
+    {
+      "start": 2066.99,
+      "end": 2072.7698,
+      "text": "You'll see that, like, you know, there are stocks, very few stocks, which have a high price, which have momentum."
+    },
+    {
+      "start": 2072.8298,
+      "end": 2073.0698,
+      "text": "Right?"
+    },
+    {
+      "start": 2073.0698,
+      "end": 2077.535,
+      "text": "And, basically, on whether it is three months, six months, or nine months kind of a time frame."
+    },
+    {
+      "start": 2077.535,
+      "end": 2078.035,
+      "text": "Right?"
+    },
+    {
+      "start": 2078.4949,
+      "end": 2085.055,
+      "text": "While you will see also that the stocks, which are momentum, are basically, again, the same thing."
+    },
+    {
+      "start": 2085.055,
+      "end": 2085.555,
+      "text": "Right?"
+    },
+    {
+      "start": 2087.055,
+      "end": 2090.755,
+      "text": "They're all stocks with, below 10,000,000,000 as a capitalization."
+    },
+    {
+      "start": 2091.75,
+      "end": 2096.09,
+      "text": "Also, if you try and put, like, any this same columns, if you put, like, saying, okay."
+    },
+    {
+      "start": 2096.39,
+      "end": 2100.07,
+      "text": "What were the industry, like, sector for this?"
+    },
+    {
+      "start": 2100.07,
+      "end": 2101.67,
+      "text": "What do you think is likely to happen?"
+    },
+    {
+      "start": 2101.67,
+      "end": 2103.37,
+      "text": "Tell me before I put it in."
+    },
+    {
+      "start": 2111.7651,
+      "end": 2114.745,
+      "text": "What do you think which sector will be, like, dominating this?"
+    },
+    {
+      "start": 2117.47,
+      "end": 2122.9302,
+      "text": "Technology, technology, technology, health care, health care, health care, and consumer cyclical."
+    },
+    {
+      "start": 2123.07,
+      "end": 2123.47,
+      "text": "Right?"
+    },
+    {
+      "start": 2123.47,
+      "end": 2130.99,
+      "text": "So if you take away, like, the one, which are not part of, like, that, you'll see that it is again same thing happens again and again."
+    },
+    {
+      "start": 2130.99,
+      "end": 2131.49,
+      "text": "Right?"
+    },
+    {
+      "start": 2133.015,
+      "end": 2138.395,
+      "text": "Because every day, I get these things saying, oh, some of these are, like, really technology."
+    },
+    {
+      "start": 2138.535,
+      "end": 2138.6948,
+      "text": "Right?"
+    },
+    {
+      "start": 2138.6948,
+      "end": 2140.375,
+      "text": "They are not really, like, any of this thing."
+    },
+    {
+      "start": 2140.375,
+      "end": 2141.755,
+      "text": "They're misclassified."
+    },
+    {
+      "start": 2142.375,
+      "end": 2147.44,
+      "text": "But, again, if you see health care technology and, this thing."
+    },
+    {
+      "start": 2147.44,
+      "end": 2147.68,
+      "text": "Right?"
+    },
+    {
+      "start": 2147.68,
+      "end": 2152.98,
+      "text": "And out of these stock, which are 75 74 stocks, what do you see?"
+    },
+    {
+      "start": 2153.68,
+      "end": 2158.955,
+      "text": "That, like, in a 12 stocks out of 74, which is how much?"
+    },
+    {
+      "start": 2165.0151,
+      "end": 2169.435,
+      "text": "So 16% of the stocks are from nonplastic."
+    },
+    {
+      "start": 2171.55,
+      "end": 2176.29,
+      "text": "16% of the stocks are stocks which are not from and they're also misclassified."
+    },
+    {
+      "start": 2176.59,
+      "end": 2177.07,
+      "text": "Right?"
+    },
+    {
+      "start": 2177.07,
+      "end": 2187.885,
+      "text": "They're also misclassified because if you look at some of these, like, say, Iron, is it Iron really a financial services company or some sort of a technology company?"
+    },
+    {
+      "start": 2187.885,
+      "end": 2190.845,
+      "text": "Cypher, again, like and that's a Bitcoin kind of a thing."
+    },
+    {
+      "start": 2190.845,
+      "end": 2194.445,
+      "text": "They are classified under that category, but they're not really."
+    },
+    {
+      "start": 2194.445,
+      "end": 2202.79,
+      "text": "But, like so if you understand this, is there something which tells you that can look at a, if you want to make money?"
+    },
+    {
+      "start": 2202.79,
+      "end": 2208.15,
+      "text": "And if you see this ranking, for, like, an m you can do this exercise yourself."
+    },
+    {
+      "start": 2208.15,
+      "end": 2208.39,
+      "text": "Right?"
+    },
+    {
+      "start": 2208.39,
+      "end": 2215.77,
+      "text": "And because you have the, you know, database of, those 50 stocks which I have been publishing for many, many years."
+    },
+    {
+      "start": 2216.0752,
+      "end": 2224.875,
+      "text": "What do you think, you're going to find if you do this starting from wherever the database is being published and you go keep going and keep going and look at the stocks?"
+    },
+    {
+      "start": 2224.875,
+      "end": 2226.495,
+      "text": "What do you think is going to be happening?"
+    },
+    {
+      "start": 2235.24,
+      "end": 2236.3599,
+      "text": "They're all going to be same."
+    },
+    {
+      "start": 2236.3599,
+      "end": 2238.5398,
+      "text": "Technology, health care, and consumer discretionary."
+    },
+    {
+      "start": 2238.92,
+      "end": 2239.42,
+      "text": "Right?"
+    },
+    {
+      "start": 2240.2,
+      "end": 2245.98,
+      "text": "So if you can just focus on consumer discretionary tech health care and technology, that's more than you."
+    },
+    {
+      "start": 2253.695,
+      "end": 2254.195,
+      "text": "No."
+    },
+    {
+      "start": 2254.575,
+      "end": 2260.4949,
+      "text": "Your objective of getting into a momentum stock is to get into a momentum stock with the least possible stock."
+    },
+    {
+      "start": 2260.4949,
+      "end": 2263.59,
+      "text": "How will you get into a momentum stock with the least possible stock?"
+    },
+    {
+      "start": 2269.35,
+      "end": 2274.1702,
+      "text": "The idea behind momentum trading in a layman term is what?"
+    },
+    {
+      "start": 2274.3901,
+      "end": 2300.04,
+      "text": "To find a train which is going at 100 miles per hour and hop on to it when speed slows down to less than one mile."
+    },
+    {
+      "start": 2302.835,
+      "end": 2304.055,
+      "text": "How can I do that?"
+    },
+    {
+      "start": 2309.315,
+      "end": 2309.815,
+      "text": "Right."
+    },
+    {
+      "start": 2310.115,
+      "end": 2311.415,
+      "text": "You do that by what?"
+    },
+    {
+      "start": 2317.0798,
+      "end": 2329.645,
+      "text": "By finding t t t t t t t, right, and at the anticipation setup, you find three tight days or two tight days to enter, so that you can get in a closer stop."
+    },
+    {
+      "start": 2329.645,
+      "end": 2333.005,
+      "text": "So you can trade momentum stocks with the this thing."
+    },
+    {
+      "start": 2333.005,
+      "end": 2340.765,
+      "text": "Only thing, when you're trading something like EP or you're trading something with, like, in a catalyst, then you need wider stop."
+    },
+    {
+      "start": 2340.765,
+      "end": 2341.265,
+      "text": "Right?"
+    },
+    {
+      "start": 2341.405,
+      "end": 2342.545,
+      "text": "That's like any."
+    },
+    {
+      "start": 2343.06,
+      "end": 2357.255,
+      "text": "That's what I I don't look, I'm not saying that you should, like, any look at sector."
+    },
+    {
+      "start": 2357.635,
+      "end": 2360.595,
+      "text": "Do you think I look at sector, and do this?"
+    },
+    {
+      "start": 2360.595,
+      "end": 2368.355,
+      "text": "This is a method for those who think that doing running a scan and going through 200, they cannot do and they cannot figure out."
+    },
+    {
+      "start": 2368.355,
+      "end": 2369.9548,
+      "text": "This is a watch list kind of a thing."
+    },
+    {
+      "start": 2369.9548,
+      "end": 2370.4548,
+      "text": "Right?"
+    },
+    {
+      "start": 2370.78,
+      "end": 2372.24,
+      "text": "Sector is not important."
+    },
+    {
+      "start": 2372.3801,
+      "end": 2375.1,
+      "text": "We we have done this study for years."
+    },
+    {
+      "start": 2375.1,
+      "end": 2375.6,
+      "text": "Right?"
+    },
+    {
+      "start": 2375.9001,
+      "end": 2380.08,
+      "text": "The only sector which is important is health care technology and consumer discretionary."
+    },
+    {
+      "start": 2380.7,
+      "end": 2383.74,
+      "text": "Once in a while, gold stocks are going to make a move."
+    },
+    {
+      "start": 2383.74,
+      "end": 2386.645,
+      "text": "Once in a while, some other stocks are going to move."
+    },
+    {
+      "start": 2386.645,
+      "end": 2390.665,
+      "text": "But 90% of the time, what stocks are going to make a move?"
+    },
+    {
+      "start": 2394.2449,
+      "end": 2395.845,
+      "text": "Health care technology consumer risk."
+    },
+    {
+      "start": 2395.845,
+      "end": 2400.8599,
+      "text": "So why do you want to waste your time doing a sector analysis?"
+    },
+    {
+      "start": 2401.0798,
+      "end": 2405.98,
+      "text": "And and by the time you do a sector analysis, anyway, right, what is going to happen?"
+    },
+    {
+      "start": 2408.44,
+      "end": 2414.06,
+      "text": "By the time sector becomes known to you as something which has momentum, what do you think has happened?"
+    },
+    {
+      "start": 2419.135,
+      "end": 2424.355,
+      "text": "By the time you know that this sector is, like, in a momentum sector."
+    },
+    {
+      "start": 2425.695,
+      "end": 2426.195,
+      "text": "Right?"
+    },
+    {
+      "start": 2430.95,
+      "end": 2431.19,
+      "text": "Yeah."
+    },
+    {
+      "start": 2431.19,
+      "end": 2436.97,
+      "text": "Momentum ranking by momentum ranking, semiconductor equipment and materials is number one sector."
+    },
+    {
+      "start": 2437.91,
+      "end": 2439.53,
+      "text": "How useful is this information?"
+    },
+    {
+      "start": 2439.91,
+      "end": 2442.49,
+      "text": "Most of the stocks in this sector are now what?"
+    },
+    {
+      "start": 2447.525,
+      "end": 2449.065,
+      "text": "They already made a move."
+    },
+    {
+      "start": 2449.365,
+      "end": 2450.185,
+      "text": "They're extended."
+    },
+    {
+      "start": 2450.2449,
+      "end": 2450.7449,
+      "text": "Right?"
+    },
+    {
+      "start": 2450.885,
+      "end": 2452.7449,
+      "text": "When do you want to find these stocks?"
+    },
+    {
+      "start": 2452.965,
+      "end": 2456.265,
+      "text": "Right at the beginning of the trend or after they made the trend?"
+    },
+    {
+      "start": 2456.325,
+      "end": 2461.71,
+      "text": "You want to find this stock here, or you want to be, like, when the train is starting?"
+    },
+    {
+      "start": 2462.01,
+      "end": 2466.51,
+      "text": "So if you want to find that thing when the train is starting, what do you do?"
+    },
+    {
+      "start": 2468.41,
+      "end": 2469.69,
+      "text": "Most of this trend is gone."
+    },
+    {
+      "start": 2469.69,
+      "end": 2470.01,
+      "text": "Right?"
+    },
+    {
+      "start": 2470.01,
+      "end": 2471.47,
+      "text": "All this trend is gone."
+    },
+    {
+      "start": 2472.055,
+      "end": 2479.595,
+      "text": "On on that day, if you did a ranking of sector, do you think semiconductor would have shown up as a number one sector?"
+    },
+    {
+      "start": 2488.3398,
+      "end": 2493.22,
+      "text": "So then, like, in a why are you doing things which, like, in a, are not logical?"
+    },
+    {
+      "start": 2493.22,
+      "end": 2493.46,
+      "text": "Right?"
+    },
+    {
+      "start": 2493.46,
+      "end": 2500.655,
+      "text": "In a silver, yeah, it is number one and number two sector now, but most of the silver stocks, they already had made a move."
+    },
+    {
+      "start": 2500.655,
+      "end": 2501.155,
+      "text": "Right?"
+    },
+    {
+      "start": 2501.775,
+      "end": 2505.475,
+      "text": "So they started moving way back, right, in a basically."
+    },
+    {
+      "start": 2505.775,
+      "end": 2512.355,
+      "text": "So knowing what is the sector momentum is like copper, but like in a copper stocks, they already moved."
+    },
+    {
+      "start": 2513.135,
+      "end": 2520.39,
+      "text": "So that information is perfectly useless information."
+    },
+    {
+      "start": 2522.21,
+      "end": 2522.71,
+      "text": "Right?"
+    },
+    {
+      "start": 2529.245,
+      "end": 2535.0852,
+      "text": "Again, these are the kind of thinking clarify and reclarify your thinking."
+    },
+    {
+      "start": 2535.0852,
+      "end": 2535.485,
+      "text": "Right?"
+    },
+    {
+      "start": 2535.485,
+      "end": 2538.2852,
+      "text": "By the time you know, the sector is number one."
+    },
+    {
+      "start": 2538.2852,
+      "end": 2538.7852,
+      "text": "Right?"
+    },
+    {
+      "start": 2539.5,
+      "end": 2546.64,
+      "text": "At that time, when semiconductor broke out, right, semiconductor was going sideways for three months, so it will not have a momentum."
+    },
+    {
+      "start": 2546.7,
+      "end": 2547.2,
+      "text": "Right?"
+    },
+    {
+      "start": 2551.18,
+      "end": 2556.025,
+      "text": "That's just like a max v 25 something, which is like an I created for my own trading."
+    },
+    {
+      "start": 2556.025,
+      "end": 2556.265,
+      "text": "Right?"
+    },
+    {
+      "start": 2556.265,
+      "end": 2557.4048,
+      "text": "And it's not important."
+    },
+    {
+      "start": 2558.105,
+      "end": 2558.605,
+      "text": "Right?"
+    },
+    {
+      "start": 2559.1448,
+      "end": 2561.065,
+      "text": "So, again, look at it."
+    },
+    {
+      "start": 2561.065,
+      "end": 2571.01,
+      "text": "If you want to do sector based trading, right, most probably, if you are going to be doing sector based kind of a thing, identify a sector, then get into it."
+    },
+    {
+      "start": 2571.23,
+      "end": 2573.65,
+      "text": "And most of the time, you're gonna be too late."
+    },
+    {
+      "start": 2573.8699,
+      "end": 2575.25,
+      "text": "You're gonna be too late."
+    },
+    {
+      "start": 2575.39,
+      "end": 2576.77,
+      "text": "What do you want to find?"
+    },
+    {
+      "start": 2577.185,
+      "end": 2579.7449,
+      "text": "You want to find a sector at the start of the move."
+    },
+    {
+      "start": 2579.7449,
+      "end": 2582.4849,
+      "text": "And how can you find a sector at the start of a move?"
+    },
+    {
+      "start": 2599.1,
+      "end": 2613.115,
+      "text": "Obviously, right, and, basically, by using a combination scan, by doing what we do every day, right, which is to find stocks which have momentum and buy them at the start of the momentum."
+    },
+    {
+      "start": 2613.175,
+      "end": 2613.575,
+      "text": "Right?"
+    },
+    {
+      "start": 2613.575,
+      "end": 2623.16,
+      "text": "Not when they have already made a momentum, and they're all, like, an extended, is not when you like, you know, what use is knowing that semiconductor is the number one setup?"
+    },
+    {
+      "start": 2623.16,
+      "end": 2624.22,
+      "text": "What was the thing?"
+    },
+    {
+      "start": 2624.28,
+      "end": 2625.48,
+      "text": "You run a trade factory."
+    },
+    {
+      "start": 2625.48,
+      "end": 2631.32,
+      "text": "All these stocks should show up at the start of their move, not like any ones they made two or three legs."
+    },
+    {
+      "start": 2631.32,
+      "end": 2631.82,
+      "text": "Right?"
+    },
+    {
+      "start": 2634.035,
+      "end": 2636.515,
+      "text": "UCCD will show up in your scan on this day."
+    },
+    {
+      "start": 2636.515,
+      "end": 2637.015,
+      "text": "Right?"
+    },
+    {
+      "start": 2638.9148,
+      "end": 2642.035,
+      "text": "Is there any other entry point on that then after that?"
+    },
+    {
+      "start": 2642.035,
+      "end": 2642.535,
+      "text": "No."
+    },
+    {
+      "start": 2643.075,
+      "end": 2643.315,
+      "text": "Right?"
+    },
+    {
+      "start": 2643.315,
+      "end": 2646.6401,
+      "text": "So you buy on the day of the momentum burst."
+    },
+    {
+      "start": 2646.6401,
+      "end": 2648.58,
+      "text": "Like, these are all related concepts."
+    },
+    {
+      "start": 2648.6401,
+      "end": 2649.1401,
+      "text": "Right?"
+    },
+    {
+      "start": 2651.12,
+      "end": 2656.34,
+      "text": "Momentum burst starts momentum moves."
+    },
+    {
+      "start": 2657.5552,
+      "end": 2666.215,
+      "text": "So you can rank stocks by momentum, but if you really want to make money from, you want to find momentum burst at the start of a momentum phase."
+    },
+    {
+      "start": 2671.76,
+      "end": 2672.26,
+      "text": "Yeah."
+    },
+    {
+      "start": 2672.4,
+      "end": 2673.84,
+      "text": "Start up a swing like Costco."
+    },
+    {
+      "start": 2673.84,
+      "end": 2674.08,
+      "text": "Right?"
+    },
+    {
+      "start": 2674.08,
+      "end": 2682.8,
+      "text": "And, basically, now you might find that the retail sector might be, but, is there any it didn't offer you any entry point after that."
+    },
+    {
+      "start": 2682.8,
+      "end": 2683.04,
+      "text": "Right?"
+    },
+    {
+      "start": 2683.04,
+      "end": 2683.92,
+      "text": "And it just went."
+    },
+    {
+      "start": 2683.92,
+      "end": 2684.42,
+      "text": "Right?"
+    },
+    {
+      "start": 2684.72,
+      "end": 2685.22,
+      "text": "Straight."
+    },
+    {
+      "start": 2686.155,
+      "end": 2687.7751,
+      "text": "Offering no entry point."
+    },
+    {
+      "start": 2687.915,
+      "end": 2699.82,
+      "text": "So so understand momentum, understand relative momentum, absolute momentum, momentum burst."
+    },
+    {
+      "start": 2700.06,
+      "end": 2705.26,
+      "text": "And if you understand this and wrap your head around, you'll be a better trader."
+    },
+    {
+      "start": 2705.26,
+      "end": 2705.76,
+      "text": "Right?"
+    },
+    {
+      "start": 2710.46,
+      "end": 2717.255,
+      "text": "Momentum burst is the thing which is going to lead to either relative momentum or absolute momentum."
+    },
+    {
+      "start": 2717.255,
+      "end": 2717.575,
+      "text": "Right?"
+    },
+    {
+      "start": 2717.575,
+      "end": 2725.7349,
+      "text": "So that's why we focus on the momentum burst to find stocks which will be ranked higher by relative momentum or by absolute momentum."
+    },
+    {
+      "start": 2725.7349,
+      "end": 2726.2349,
+      "text": "Alright."
+    },
+    {
+      "start": 2728.22,
+      "end": 2728.54,
+      "text": "Okay."
+    },
+    {
+      "start": 2728.54,
+      "end": 2729.76,
+      "text": "Any other question?"
+    },
+    {
+      "start": 2732.22,
+      "end": 2732.72,
+      "text": "Okay."
+    },
+    {
+      "start": 2732.7798,
+      "end": 2739.44,
+      "text": "I will see you people sometime tomorrow."
+    },
+    {
+      "start": 2740.115,
+      "end": 2742.535,
+      "text": "But, like, in a think about moment, understand."
+    },
+    {
+      "start": 2742.755,
+      "end": 2750.835,
+      "text": "I I would say that, like, you know, there is so much, like, in a people running around, headless, without understanding anything."
+    },
+    {
+      "start": 2750.835,
+      "end": 2756.6199,
+      "text": "They just, like, you know, go and, like, in a rank sectors and then try and find stocks in there."
+    },
+    {
+      "start": 2757.48,
+      "end": 2761.48,
+      "text": "That's like in a most of the time when you do that, you are going to be so late to the party."
+    },
+    {
+      "start": 2761.48,
+      "end": 2776.505,
+      "text": "So you're it is in your interest to understand relative momentum, to understand absolute momentum, to understand momentum worst, and then use it the way it should be used rather than doing something which is like in a going to lead you to, extended stocks."
+    }
+  ],
+  "language": "en",
+  "backend": "deepgram"
+}

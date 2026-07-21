@@ -1,16 +1,16 @@
 ---
 title: "Position Sizing"
-date: 2026-07-03
+date: 2026-07-21
 tags: [concepts, wiki, auto-compiled]
-mention_count: 168
-sources_count: 87
+mention_count: 395
+sources_count: 222
 compilation_count: 1
 promote: false
 ---
 
 # Position Sizing
 
-*Concepts — compiled from 168 mentions across 87 sources.*
+*Concepts — compiled from 395 mentions across 222 sources.*
 
 ## Mentions
 
@@ -23,6 +23,14 @@ promote: false
 > [[../../03-Guides/stockbee/Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs.md|Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs]]: - **Position sizing:** Can go 100–170% of account on conviction plays
 
 > [[../../03-Guides/stockbee/Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs.md|Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs]]: 4. **Size:** Determine conviction level → position size (20–170% of account)
+
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: > "If you buy it on the catalyst day and put your stop at low of the day, you would have got stopped out. You could buy it here and put a much bigger position size. Your stop can be much closer." — 2026-06-11 (GLW example)
+
+> [[../../03-Guides/stockbee/EP-9-Million.md|EP-9-Million]]: 6. **LiquidLava allows large sizing** — $9M+ daily volume stocks for big position sizes
+
+> [[../../03-Guides/stockbee/Sugar-Babies.md|Sugar-Babies]]: | Institutional quality | Optional — for sizing, not for selection |
+
+> [[../../03-Guides/stockbee/Sugar-Babies.md|Sugar-Babies]]: 5. **Institutional quality is for sizing**, not selection — the catalyst is what matters
 
 > [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 2.md|How to Get Started In Trading Guide-Part 2]]: **The critical trade-off:** The longer you hold, the more volatility you must absorb, and the smaller your position sizing must be. Smaller sizing = smaller returns. There is no free lunch.
 
@@ -85,14 +93,6 @@ promote: false
 > [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: ### Sizing: The Bridge
 
 > [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: Sizing is what moves you from 0.5–2% increments to 2–10% increments within the grinding path:
-
-> [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: | **Peeling** | Captures gains → enables sizing |
-
-> [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: 5. Sizing rules
-
-> [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: | **Position sizing** | Small | Large |
-
-> [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: ### The Sizing Equation
 
 ## Related Concepts
 

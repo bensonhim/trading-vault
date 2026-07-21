@@ -1,16 +1,16 @@
 ---
 title: "Breakout"
-date: 2026-07-03
+date: 2026-07-21
 tags: [setups, wiki, auto-compiled]
-mention_count: 4261
-sources_count: 323
+mention_count: 11493
+sources_count: 1165
 compilation_count: 1
 promote: false
 ---
 
 # Breakout
 
-*Setups — compiled from 4261 mentions across 323 sources.*
+*Setups — compiled from 11493 mentions across 1165 sources.*
 
 ## Mentions
 
@@ -52,6 +52,24 @@ promote: false
 
 > [[../../03-Guides/stockbee/23. Bearish Trading Guide.md|23. Bearish Trading Guide]]: | **9:30 AM – 10:30 AM** | Long breakouts, SIPs, EPs |
 
+> [[../../03-Guides/stockbee/EP-9-Million.md|EP-9-Million]]: | Entry | OPG, opening range breakout, or first SOS pullback |
+
+> [[../../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]: ### 4% Breakout
+
+> [[../../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]: - Two tight days followed by a breakout = ideal entry
+
+> [[../../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]: | Entry | OPG, opening range breakout, or pullback | At breakout | At breakout |
+
+> [[../../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]: 2. **Opening Range Breakout** — Buy when stock breaks above first 5–15 min range
+
+> [[../../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]: 4. **Anticipation** — Buy before breakout when tightness + catalyst present (from watch list)
+
+> [[../../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]: 4. **Structural stops** — For slow-moving stocks: move stop to low of breakout day, then advance on each new breakout
+
+> [[../../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]: 4. **4% breakout is empirically validated** across 40+ years of data
+
+> [[../../03-Guides/stockbee/Sugar-Babies.md|Sugar-Babies]]: | Entry | From watch list — anticipate breakout OR buy every SOS long/short |
+
 > [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 3.md|How to Get Started In Trading Guide-Part 3]]: | **Mark Minervini** | Anticipation (VCP), breakouts, pullbacks | Calls it "Volatility Contraction Pattern" |
 
 > [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 3.md|How to Get Started In Trading Guide-Part 3]]: | **Almost every swing trader on YouTube** | Breakouts or pullbacks on growth stocks | Different names, same core |
@@ -75,24 +93,6 @@ promote: false
 > [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]: > "If you survey 100,000 swing traders or study the methods of 100,000 swing traders, the number one setup which will show up in most people's thing, vast majority, I would say like 90% of them will be breakout."
 
 > [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]: | **Breakout** | High volume → stock makes new high → buy the move | ~90% of profitable traders |
-
-> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]: | **Anticipation** | Build a watchlist → watch for signals → enter when breakout conditions emerge | Some, but they still end up buying breakouts |
-
-> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]: **What falls under anticipation, repackaged:** Flags, "watchlist then execute" methods. Pradeep's own anticipation setups are essentially watching for conditions and then buying the breakout signal — not predicting before it happens.
-
-> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]: ### 2. Breakout Is #1 — By a Massive Margin
-
-> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]: > "High volume breakout is the most widely used setup in the trading world. There is no other setup which is going to be as widely used as a high volume breakout."
-
-> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]: The basic high volume breakout is simple:
-
-> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]: - You **buy the breakout** and **put a stop below the consolidation**
-
-> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]: > "Just make breakouts work. Make high volume breakout work. That's as simple as that."
-
-> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]: Breakouts don't need to be 100% accurate. Pradeep is explicit: **if 50% of your breakouts work and you put proper stops, you still make money.** There is nothing in trading that works 100% of the time. You don't need perfection. You need to be good enough at one thing.
-
-> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]: **Key nuance — breakout doesn't require an uptrend or resistance:**
 
 ## Related Concepts
 

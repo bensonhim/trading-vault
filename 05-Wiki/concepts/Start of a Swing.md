@@ -1,16 +1,16 @@
 ---
 title: "Start of a Swing"
-date: 2026-07-03
+date: 2026-07-21
 tags: [concepts, wiki, auto-compiled]
-mention_count: 3917
-sources_count: 304
+mention_count: 9940
+sources_count: 1094
 compilation_count: 1
 promote: false
 ---
 
 # Start of a Swing
 
-*Concepts — compiled from 3917 mentions across 304 sources.*
+*Concepts — compiled from 9940 mentions across 1094 sources.*
 
 ## Mentions
 
@@ -68,31 +68,31 @@ promote: false
 
 > [[../../03-Guides/stockbee/Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs.md|Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs]]: **Example — ANF (Abercrombie & Fitch):** New CEO, 244% profit growth turnaround. Stock went from $23 to $200+ (700–800% move over 6–7 months). Example — RAIL: 266% in 2.5 months in a cyclical upswing.
 
-> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 1.md|How to Get Started In Trading Guide-Part 1]]: | $100K/month | Swing trading with large account | ~$300K+ with elite skill |
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: | Qualifier 1 | **SOS** — must be start of swing (first valid buy opportunity) |
 
-> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 1.md|How to Get Started In Trading Guide-Part 1]]: - Choosing your time frame (day trading, swing trading, position trading, long-term investing) is the **single biggest decision** that will save you 3+ years
+> [[../../03-Guides/stockbee/EP-9-Million.md|EP-9-Million]]: - 10% swing with 150% position size = 15% account move
 
-> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 1.md|How to Get Started In Trading Guide-Part 1]]: - He dithered between swing, position trading, and other styles for his first 3 years — don't make the same mistake
+> [[../../03-Guides/stockbee/EP-9-Million.md|EP-9-Million]]: | Qualifier 1 | **SOS** (start of swing) — non-negotiable |
 
-> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 1.md|How to Get Started In Trading Guide-Part 1]]: | **Part 2** | Time Frame & Frequency | Which road: day, swing, position, or invest? |
+> [[../../03-Guides/stockbee/EP-9-Million.md|EP-9-Million]]: | Entry | OPG, opening range breakout, or first SOS pullback |
 
-> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 2.md|How to Get Started In Trading Guide-Part 2]]: | **Part 2** | Time Frame & Frequency | Which road: day, swing, position, or invest? |
+> [[../../03-Guides/stockbee/EP-9-Million.md|EP-9-Million]]: 3. **SOS is non-negotiable** — never enter without start of swing
 
-> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 2.md|How to Get Started In Trading Guide-Part 2]]: ### 1. The Four Roads: Day Trading · Swing Trading · Position Trading · Investing
+> [[../../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]: # SOS / Dollar Breakout / 4% Breakout
 
-> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 2.md|How to Get Started In Trading Guide-Part 2]]: | **Swing Trading** (long, 2–4 weeks) | Weeks to a month | Less screen time but must survive volatility | Must drop position sizing dramatically; net returns shrink correspondingly |
+> [[../../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]: SOS (Start of Swing) is the **universal entry qualifier** across all StockBee setups. It's not a standalone strategy — it's the trigger mechanism. Two scan-based variants exist:
 
-> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 2.md|How to Get Started In Trading Guide-Part 2]]: 3. Try swing trading for 5 months → give up
+> [[../../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]: - **Dollar Breakout (SOS)**: close minus open ≥ $0.90, volume ≥ 100K — finds low-risk intraday entries
 
-> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 2.md|How to Get Started In Trading Guide-Part 2]]: 2. **Lifestyle** — If you're a trauma surgeon who can't look at a screen for 9 hours, day trading and swing trading are simply impossible. It's not about desire; it's about physical availability.
+> [[../../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]: > "SOS is required for everything in this field. That is a requirement." — 2026-05-29
 
-> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 2.md|How to Get Started In Trading Guide-Part 2]]: 4. **Capital** — This cuts both ways. Small capital ($5K–$10K) limits you to day/swing. Large capital ($25M+) prevents you from actively trading because your own breakout orders move the market. (He cites the investing championship trick: winners withdraw profits and reset to $100K because it's easier to compound on a smaller base.)
+> [[../../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]: ### SOS — Start of Swing
 
-> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 2.md|How to Get Started In Trading Guide-Part 2]]: #### Swing Trading (3–5 days, 8–20% moves)
+> [[../../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]: - **First day** of a new directional move — never buy 2nd, 3rd, 4th day of an existing swing
 
-> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 2.md|How to Get Started In Trading Guide-Part 2]]: - **Critical point:** If you extend the holding period to 3–4 weeks, you **must** drop your position sizing to ~10% of account. You can tolerate more volatility at 50% sizing for 3 days than at 50% sizing for 4 weeks. So longer swing = smaller position = smaller absolute return. There is no way around this math.
+> [[../../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]: - SOS is both a **context** (where are we in the move?) and a **qualifier** (is this a valid entry?)
 
-> [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 2.md|How to Get Started In Trading Guide-Part 2]]: - **Diversification destroys returns:** Because so many picks are duds, position traders are forced to diversify. Diversification + drawdowns = lower annualized returns than swing trading.
+> [[../../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]: ### Dollar Breakout (SOS-425 variant)
 
 ## Related Concepts
 

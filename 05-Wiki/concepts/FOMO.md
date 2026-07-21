@@ -1,78 +1,98 @@
 ---
 title: "FOMO"
-date: 2026-07-03
+date: 2026-07-21
 tags: [concepts, wiki, auto-compiled]
-mention_count: 30
-sources_count: 15
+mention_count: 168
+sources_count: 97
 compilation_count: 1
 promote: false
 ---
 
 # FOMO
 
-*Concepts — compiled from 30 mentions across 15 sources.*
+*Concepts — compiled from 168 mentions across 97 sources.*
 
 ## Mentions
 
 > [[../../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]: | FOMO level | High | Low |
 
-> [[../../04-Transcripts/stockbee/2026-05-01_9_15-am.md|2026-05-01_9_15-am]]: And, basically, it's like in a FOMO has really kicked in now.
+> [[../../04-Transcripts/stockbee/2023-11-14_11-am.md|2023-11-14_11-am]]: So but people cannot avoid FOMO.
 
-> [[../../04-Transcripts/stockbee/2026-05-01_9_15-am.md|2026-05-01_9_15-am]]: Does it mean FOMO or retail traders?
+> [[../../04-Transcripts/stockbee/2023-11-14_11-am.md|2023-11-14_11-am]]: Lot of FOMO today.
 
-> [[../../04-Transcripts/stockbee/2026-05-01_9_15-am.md|2026-05-01_9_15-am]]: If you have FOMO, then Yes.
+> [[../../04-Transcripts/stockbee/2023-11-14_11-am.md|2023-11-14_11-am]]: The worst thing in this business is FOMO.
 
-> [[../../04-Transcripts/stockbee/2026-05-11_9_15-am.md|2026-05-11_9_15-am]]: I think a lot of it got to do with FOMO.
+> [[../../04-Transcripts/stockbee/2023-11-14_11-am.md|2023-11-14_11-am]]: If you get a if you're getting a severe case of FOMO, I think it is.
 
-> [[../../04-Transcripts/stockbee/2026-05-26_3-pm.md|2026-05-26_3-pm]]: But FOMO is so much here.
+> [[../../04-Transcripts/stockbee/2023-11-14_2-pm.md|2023-11-14_2-pm]]: That's why FOMO is not a very good thing.
 
-> [[../../04-Transcripts/stockbee/2026-05-26_9_15-am.md|2026-05-26_9_15-am]]: And if FOMO, you just go and buy buy buy buy buy.
+> [[../../04-Transcripts/stockbee/2023-11-14_2-pm.md|2023-11-14_2-pm]]: The idea is not to FOMO into anything and everything.
 
-> [[../../04-Transcripts/stockbee/2026-05-26_9_15-am.md|2026-05-26_9_15-am]]: FOMO, then you are just going to buy based on FOMO.
+> [[../../04-Transcripts/stockbee/2023-11-14_9-am.md|2023-11-14_9-am]]: You don't need to follow FOMO and, like, in a, like, lot of stocks.
 
-> [[../../04-Transcripts/stockbee/2026-05-26_9_15-am.md|2026-05-26_9_15-am]]: And I don't get FOMO.
+> [[../../04-Transcripts/stockbee/2023-11-15_11-am.md|2023-11-15_11-am]]: And not just, like, in a get FOMO and buy some random shit, which is up three days in a row.
 
-> [[../../04-Transcripts/stockbee/2026-06-11_3-pm.md|2026-06-11_3-pm]]: There is no need to FOMO.
+> [[../../04-Transcripts/stockbee/2023-11-15_2-pm.md|2023-11-15_2-pm]]: But people cannot control their FOMO.
 
-> [[../../04-Transcripts/stockbee/2026-06-25_9_15-am.md|2026-06-25_9_15-am]]: And now if you cannot avoid a FOMO, buy 10 shares of more buy 20 shares of more.
+> [[../../04-Transcripts/stockbee/2023-11-15_2-pm.md|2023-11-15_2-pm]]: Never get FOMO.
 
-> [[../../04-Transcripts/stockbee/2026-06-25_9_15-am.md|2026-06-25_9_15-am]]: And, basically, but in the long run, it is the antidote to FOMO is what?
+> [[../../04-Transcripts/stockbee/2023-11-15_2-pm.md|2023-11-15_2-pm]]: I haven't seen I've seen in so many years FOMO doesn't pay out.
 
-> [[../../04-Transcripts/stockbee/2026-06-25_9_15-am.md|2026-06-25_9_15-am]]: But and if you cannot control FOMO, take a small position, tracking position you take.
+> [[../../04-Transcripts/stockbee/2023-11-15_2-pm.md|2023-11-15_2-pm]]: And how many of you felt victim to FOMO today morning?
 
-> [[../../04-Transcripts/stockbee/2026-06-25_9_15-am.md|2026-06-25_9_15-am]]: Don't get FOMO.
+> [[../../04-Transcripts/stockbee/2023-11-15_2-pm.md|2023-11-15_2-pm]]: Raise your hand if you fell victim to FOMO today morning.
 
-> [[../../04-Transcripts/stockbee/2026-06-25_9_15-am.md|2026-06-25_9_15-am]]: And that's FOMO.
+> [[../../04-Transcripts/stockbee/2023-11-15_2-pm.md|2023-11-15_2-pm]]: Like, some of you people are suffering from FOMO.
 
-> [[../../04-Transcripts/stockbee/2026-06-25_9_15-am.md|2026-06-25_9_15-am]]: And the worst thing in trading is FOMO.
+> [[../../04-Transcripts/stockbee/2023-11-17_9-am.md|2023-11-17_9-am]]: Not the retail FOMO.
 
-> [[../../04-Transcripts/stockbee/MENTAL_CLARITY_SEARCH_RESULTS.md|MENTAL_CLARITY_SEARCH_RESULTS]]: **Match:** Now when it does things like this, what happens is you start having a FOMO and you start relaxing your conditions.
+> [[../../04-Transcripts/stockbee/2023-11-21_2-pm.md|2023-11-21_2-pm]]: It doesn't have the feel of, like, in that aggressive buying and every dip getting bought and, like, in a FOMO.
 
-> [[../../04-Transcripts/stockbee/MENTAL_CLARITY_SEARCH_RESULTS.md|MENTAL_CLARITY_SEARCH_RESULTS]]: Now when it does things like this, what happens is you start having a FOMO and you start relaxing your conditions.
+> [[../../04-Transcripts/stockbee/2023-11-29_9-am.md|2023-11-29_9-am]]: That that means full FOMO mode today.
 
-> [[../../04-Transcripts/stockbee/MENTAL_CLARITY_SEARCH_RESULTS.md|MENTAL_CLARITY_SEARCH_RESULTS]]: **Match:** Cognitive dissonance leads to FOMO.
+> [[../../04-Transcripts/stockbee/2023-11-29_9-am.md|2023-11-29_9-am]]: Full FOMO mode.
 
-> [[../../04-Transcripts/stockbee/MENTAL_CLARITY_SEARCH_RESULTS.md|MENTAL_CLARITY_SEARCH_RESULTS]]: Cognitive dissonance leads to FOMO.
+> [[../../04-Transcripts/stockbee/2023-12-06_11-am.md|2023-12-06_11-am]]: The severe case of FOMO.
 
-> [[../../04-Transcripts/stockbee/15. Start of a Swing Guide/Pradeep Bonde - Start of a Swing Guide-Part 6 - Tradable SOS_deepgram.md|Pradeep Bonde - Start of a Swing Guide-Part 6 - Tradable SOS_deepgram]]: Now when it does things like this, what happens is you start having a FOMO and you start relaxing your conditions.
+> [[../../04-Transcripts/stockbee/2023-12-06_11-am.md|2023-12-06_11-am]]: So then why are you having FOMO?
 
-> [[../../04-Transcripts/stockbee/21. Process Guide/Pradeep Bonde - Process Guide-Process Is An Edge_deepgram.md|Pradeep Bonde - Process Guide-Process Is An Edge_deepgram]]: Cognitive dissonance leads to FOMO.
+> [[../../04-Transcripts/stockbee/2023-12-07_9-am.md|2023-12-07_9-am]]: You see, you're going to get at some stage buying and then, like, they'll all have FOMO.
 
-> [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-11_83b682df-be42-445a-86f0-1e35883cd1e0_deepgram.md|meeting_2026-05-11_83b682df-be42-445a-86f0-1e35883cd1e0_deepgram]]: I think a lot of it got to do with FOMO.
+> [[../../04-Transcripts/stockbee/2023-12-11_2-pm.md|2023-12-11_2-pm]]: Is that such a difficult thing to understand or, like, are they just FOMO kicks in?
 
-> [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-26_5b33c95d-3732-4357-9dff-e775e6762872_deepgram.md|meeting_2026-05-26_5b33c95d-3732-4357-9dff-e775e6762872_deepgram]]: And if FOMO, you just go and buy buy buy buy buy.
+> [[../../04-Transcripts/stockbee/2023-12-14_9-am.md|2023-12-14_9-am]]: You have to go by like, you know, don't get into a FOMO and, like, in a buy today.
 
-> [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-26_5b33c95d-3732-4357-9dff-e775e6762872_deepgram.md|meeting_2026-05-26_5b33c95d-3732-4357-9dff-e775e6762872_deepgram]]: FOMO, then you are just going to buy based on FOMO.
+> [[../../04-Transcripts/stockbee/2023-12-15_11-am.md|2023-12-15_11-am]]: If you know that, like, you just don't have to FOMO.
 
-> [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-26_5b33c95d-3732-4357-9dff-e775e6762872_deepgram.md|meeting_2026-05-26_5b33c95d-3732-4357-9dff-e775e6762872_deepgram]]: And I don't get FOMO.
+> [[../../04-Transcripts/stockbee/2023-12-18_11-am.md|2023-12-18_11-am]]: Like and I don't see FOMO in my email indicator.
 
-> [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-26_deeb04b7-ad02-49d3-bcbc-85d88f097d44_deepgram.md|meeting_2026-05-26_deeb04b7-ad02-49d3-bcbc-85d88f097d44_deepgram]]: But FOMO is so much here.
+> [[../../04-Transcripts/stockbee/2023-12-22_9-am.md|2023-12-22_9-am]]: So this was just a euphoria, FOMO, fear of missing out and all.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-12.md|Session-2026-06-12]]: **London calling** — The "London" metaphor for the current market: subdued, restrained, no FOMO. Also, London etiquette lessons:
+> [[../../04-Transcripts/stockbee/2023-12-22_9-am.md|2023-12-22_9-am]]: So the FOMO is dying down now, and now the real thing will start.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-12.md|Session-2026-06-12]]: 8. **Lack of FOMO at the open is good** — A subdued, no-gap open is preferable to a FOMO-driven gap-up that forces chasing.
+> [[../../04-Transcripts/stockbee/2024-01-08_11-am.md|2024-01-08_11-am]]: If you're getting FOMO, get a bottle of cold water, drink it.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-30.md|Session-2026-06-30]]: 11. **No setup? Do nothing** — Desperately trying to find something to buy is FOMO. Sometimes the correct action is to reduce exposure and wait.
+> [[../../04-Transcripts/stockbee/2024-01-09_11-am.md|2024-01-09_11-am]]: But how much FOMO was there yesterday?
+
+> [[../../04-Transcripts/stockbee/2024-01-09_11-am.md|2024-01-09_11-am]]: But if you got FOMO and you go went and loaded up, then, obviously, those stocks had didn't had setups.
+
+> [[../../04-Transcripts/stockbee/2024-01-09_11-am.md|2024-01-09_11-am]]: And, basically so if that is what happened, then, you have to not have a FOMO.
+
+> [[../../04-Transcripts/stockbee/2024-01-09_11-am.md|2024-01-09_11-am]]: You'd have seen FOMO.
+
+> [[../../04-Transcripts/stockbee/2024-01-09_11-am.md|2024-01-09_11-am]]: And then there's no FOMO.
+
+> [[../../04-Transcripts/stockbee/2024-01-09_9-am.md|2024-01-09_9-am]]: Lack of FOMO, like, there are no gap ups happening currently.
+
+> [[../../04-Transcripts/stockbee/2024-01-18_11-am.md|2024-01-18_11-am]]: Lot of you people had FOMO today morning.
+
+> [[../../04-Transcripts/stockbee/2024-01-18_11-am.md|2024-01-18_11-am]]: And he had FOMO.
+
+> [[../../04-Transcripts/stockbee/2024-01-18_11-am.md|2024-01-18_11-am]]: And buying a setup and not getting FOMO is what really right?
+
+> [[../../04-Transcripts/stockbee/2024-01-18_11-am.md|2024-01-18_11-am]]: Severe case of FOMO.
+
+> [[../../04-Transcripts/stockbee/2024-01-18_2-pm.md|2024-01-18_2-pm]]: And when setup your setup is not likely to work here, they'll stay away from the market without having FOMO, or find a setup which is likely to work here.
 
 ## Related Concepts
 
@@ -86,16 +106,21 @@ promote: false
 
 - [[../03-Guides/stockbee/16. DEP Guide/16. DEP Guide.md|16. DEP Guide]]
 - [[../04-Transcripts/stockbee/15. Start of a Swing Guide/Pradeep Bonde - Start of a Swing Guide-Part 6 - Tradable SOS_deepgram.md|Pradeep Bonde - Start of a Swing Guide-Part 6 - Tradable SOS_deepgram]]
-- [[../04-Transcripts/stockbee/2026-05-01_9_15-am.md|2026-05-01_9_15-am]]
-- [[../04-Transcripts/stockbee/2026-05-11_9_15-am.md|2026-05-11_9_15-am]]
-- [[../04-Transcripts/stockbee/2026-05-26_3-pm.md|2026-05-26_3-pm]]
-- [[../04-Transcripts/stockbee/2026-05-26_9_15-am.md|2026-05-26_9_15-am]]
-- [[../04-Transcripts/stockbee/2026-06-11_3-pm.md|2026-06-11_3-pm]]
-- [[../04-Transcripts/stockbee/2026-06-25_9_15-am.md|2026-06-25_9_15-am]]
-- [[../04-Transcripts/stockbee/21. Process Guide/Pradeep Bonde - Process Guide-Process Is An Edge_deepgram.md|Pradeep Bonde - Process Guide-Process Is An Edge_deepgram]]
-- [[../04-Transcripts/stockbee/Meetings/meeting_2026-05-11_83b682df-be42-445a-86f0-1e35883cd1e0_deepgram.md|meeting_2026-05-11_83b682df-be42-445a-86f0-1e35883cd1e0_deepgram]]
-- [[../04-Transcripts/stockbee/Meetings/meeting_2026-05-26_5b33c95d-3732-4357-9dff-e775e6762872_deepgram.md|meeting_2026-05-26_5b33c95d-3732-4357-9dff-e775e6762872_deepgram]]
-- [[../04-Transcripts/stockbee/Meetings/meeting_2026-05-26_deeb04b7-ad02-49d3-bcbc-85d88f097d44_deepgram.md|meeting_2026-05-26_deeb04b7-ad02-49d3-bcbc-85d88f097d44_deepgram]]
-- [[../04-Transcripts/stockbee/MENTAL_CLARITY_SEARCH_RESULTS.md|MENTAL_CLARITY_SEARCH_RESULTS]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-06-12.md|Session-2026-06-12]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-06-30.md|Session-2026-06-30]]
+- [[../04-Transcripts/stockbee/2023-11-14_11-am.md|2023-11-14_11-am]]
+- [[../04-Transcripts/stockbee/2023-11-14_2-pm.md|2023-11-14_2-pm]]
+- [[../04-Transcripts/stockbee/2023-11-14_9-am.md|2023-11-14_9-am]]
+- [[../04-Transcripts/stockbee/2023-11-15_11-am.md|2023-11-15_11-am]]
+- [[../04-Transcripts/stockbee/2023-11-15_2-pm.md|2023-11-15_2-pm]]
+- [[../04-Transcripts/stockbee/2023-11-17_9-am.md|2023-11-17_9-am]]
+- [[../04-Transcripts/stockbee/2023-11-21_2-pm.md|2023-11-21_2-pm]]
+- [[../04-Transcripts/stockbee/2023-11-29_9-am.md|2023-11-29_9-am]]
+- [[../04-Transcripts/stockbee/2023-12-06_11-am.md|2023-12-06_11-am]]
+- [[../04-Transcripts/stockbee/2023-12-07_9-am.md|2023-12-07_9-am]]
+- [[../04-Transcripts/stockbee/2023-12-11_2-pm.md|2023-12-11_2-pm]]
+- [[../04-Transcripts/stockbee/2023-12-14_9-am.md|2023-12-14_9-am]]
+- [[../04-Transcripts/stockbee/2023-12-15_11-am.md|2023-12-15_11-am]]
+- [[../04-Transcripts/stockbee/2023-12-18_11-am.md|2023-12-18_11-am]]
+- [[../04-Transcripts/stockbee/2023-12-22_9-am.md|2023-12-22_9-am]]
+- [[../04-Transcripts/stockbee/2024-01-08_11-am.md|2024-01-08_11-am]]
+- [[../04-Transcripts/stockbee/2024-01-09_11-am.md|2024-01-09_11-am]]
+- [[../04-Transcripts/stockbee/2024-01-09_9-am.md|2024-01-09_9-am]]

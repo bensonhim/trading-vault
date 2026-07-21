@@ -1,18 +1,26 @@
 ---
 title: "Dollar Breakout"
-date: 2026-07-03
+date: 2026-07-21
 tags: [setups, wiki, auto-compiled]
-mention_count: 258
-sources_count: 49
+mention_count: 379
+sources_count: 114
 compilation_count: 1
 promote: false
 ---
 
 # Dollar Breakout
 
-*Setups — compiled from 258 mentions across 49 sources.*
+*Setups — compiled from 379 mentions across 114 sources.*
 
 ## Mentions
+
+> [[../../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]: # SOS / Dollar Breakout / 4% Breakout
+
+> [[../../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]: - **Dollar Breakout (SOS)**: close minus open ≥ $0.90, volume ≥ 100K — finds low-risk intraday entries
+
+> [[../../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]: ### Dollar Breakout (SOS-425 variant)
+
+> [[../../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]: | 2026-01-01 | SOS 425 Breakout | Dollar breakout mechanics |
 
 > [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 1.md|Bullish Momentum Burst Guide-Section 1]]: | **Section 6** | Dollar Breakout Method | Higher-priced stocks, lower risk, TC2000 setup, Two Lynch application |
 
@@ -86,14 +94,6 @@ promote: false
 
 > [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 6.md|Bullish Momentum Burst Guide-Section 6]]: | Scenario | 4% Breakout | Dollar Breakout |
 
-> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 6.md|Bullish Momentum Burst Guide-Section 6]]: **This means:** With dollar breakout, you can be fully invested (3–4 positions, 100%+ of account) while risking only 3–4% total. That's extraordinary.
-
-> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 6.md|Bullish Momentum Burst Guide-Section 6]]: | Dollar Breakout | **8–12+ days** | Slow, persistent, keeps climbing |
-
-> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 6.md|Bullish Momentum Burst Guide-Section 6]]: > "Many times dollar breakouts will move for 8, 10, 12 days. They may not move very rapidly. They'll move very slowly, but they'll move for eight to ten days."
-
-> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 6.md|Bullish Momentum Burst Guide-Section 6]]: Unlike 4% breakout (where next-day entry is a cardinal sin), dollar breakout CAN be entered on Day 2:
-
 ## Related Concepts
 
 *(To be enriched)*
@@ -114,6 +114,7 @@ promote: false
 - [[../03-Guides/stockbee/08. Anticipation (ANTS) Guide/08. Anticipation (ANTS) Guide.md|08. Anticipation (ANTS) Guide]]
 - [[../03-Guides/stockbee/15. Start of a Swing Guide/15. Start of a Swing Guide.md|15. Start of a Swing Guide]]
 - [[../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]
+- [[../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]
 - [[../04-Transcripts/stockbee/01. How to Get Started/Pradeep Bonde - How to Get Started In Trading Guide-Part 3_deepgram.md|Pradeep Bonde - How to Get Started In Trading Guide-Part 3_deepgram]]
 - [[../04-Transcripts/stockbee/02. How to Trade Breakouts/Pradeep Bonde - How to Trade Breakouts Guide-Part 3_deepgram.md|Pradeep Bonde - How to Trade Breakouts Guide-Part 3_deepgram]]
 - [[../04-Transcripts/stockbee/03. Bullish Momentum Burst/Pradeep Bonde - Bullish Momentum Burst Guide-Section 2_deepgram.md|Pradeep Bonde - Bullish Momentum Burst Guide-Section 2_deepgram]]
@@ -123,4 +124,3 @@ promote: false
 - [[../04-Transcripts/stockbee/03. Bullish Momentum Burst/Pradeep Bonde - Bullish Momentum Burst Guide-Section 7_deepgram.md|Pradeep Bonde - Bullish Momentum Burst Guide-Section 7_deepgram]]
 - [[../04-Transcripts/stockbee/08. Anticipation (ANTS) Guide/Pradeep Bonde - ANTS Guide-Part 3_deepgram.md|Pradeep Bonde - ANTS Guide-Part 3_deepgram]]
 - [[../04-Transcripts/stockbee/14. Sugar Babies Guide/Pradeep Bonde - Sugar Babies Guide-Part 4 - Working People (part 3)_deepgram.md|Pradeep Bonde - Sugar Babies Guide-Part 4 - Working People (part 3)_deepgram]]
-- [[../04-Transcripts/stockbee/14. Sugar Babies Guide/Pradeep Bonde - Sugar Babies Guide-Part 8 - EP Sugar Babies_deepgram.md|Pradeep Bonde - Sugar Babies Guide-Part 8 - EP Sugar Babies_deepgram]]

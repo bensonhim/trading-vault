@@ -1,0 +1,1831 @@
+{
+  "segments": [
+    {
+      "start": 50.07,
+      "end": 50.57,
+      "text": "Hello?"
+    },
+    {
+      "start": 56.07,
+      "end": 57.13,
+      "text": "Can you hear me?"
+    },
+    {
+      "start": 60.87,
+      "end": 61.37,
+      "text": "Hello?"
+    },
+    {
+      "start": 62.23,
+      "end": 63.37,
+      "text": "Can you hear me?"
+    },
+    {
+      "start": 63.51,
+      "end": 63.829998,
+      "text": "Yes."
+    },
+    {
+      "start": 63.829998,
+      "end": 64.33,
+      "text": "Okay."
+    },
+    {
+      "start": 65.03,
+      "end": 65.53,
+      "text": "Good."
+    },
+    {
+      "start": 78.990005,
+      "end": 79.490005,
+      "text": "Okay."
+    },
+    {
+      "start": 80.43,
+      "end": 86.53,
+      "text": "So let's look at, like, any stock selection because we have looked a lot at setup selection."
+    },
+    {
+      "start": 86.590004,
+      "end": 90.43,
+      "text": "Setup selection is really like the tools which you select."
+    },
+    {
+      "start": 90.43,
+      "end": 90.75,
+      "text": "Right?"
+    },
+    {
+      "start": 90.75,
+      "end": 91.25,
+      "text": "Basically."
+    },
+    {
+      "start": 92.665,
+      "end": 117.68,
+      "text": "But stock selection is the next part of the equation, which is very important because once you have a setup idea like a breakout or a momentum burst, what stock you're going to be using that on is going to determine whether you make big money or whether you make small money, right, or whether you are going to have a high velocity of making money or low velocity of, making money."
+    },
+    {
+      "start": 117.68,
+      "end": 127.935,
+      "text": "So, as a result of this, stock selection is very very important part of trading."
+    },
+    {
+      "start": 127.995,
+      "end": 152.42499,
+      "text": "And so, this series of, meetings which I'm going to do are going to be primarily aimed at the stock selection and what are the various stock selection strategies which you can decide and then use those strategies for doing a better job of stock selection."
+    },
+    {
+      "start": 152.485,
+      "end": 161.94499,
+      "text": "So, the most important part from a stock selection point of view is that, look, as a trader, you have a limited resource, which is your capital, right?"
+    },
+    {
+      "start": 162.32,
+      "end": 186.595,
+      "text": "So if you can expose your money, whenever you're buying a stock, if you expose your money to the right kind of a stock or the stocks with the highest probability of moving your account, then you're gonna make money."
+    },
+    {
+      "start": 186.595,
+      "end": 186.83499,
+      "text": "Right?"
+    },
+    {
+      "start": 186.83499,
+      "end": 188.435,
+      "text": "And that's as simple as that."
+    },
+    {
+      "start": 188.435,
+      "end": 194.8,
+      "text": "So the velocity of money is determined by stocks, which you select."
+    },
+    {
+      "start": 194.8,
+      "end": 207.495,
+      "text": "And this is why, like, in one of the, thing which is like the day traders who make, lot more money, they select stocks which are likely to have the biggest move for the day, right?"
+    },
+    {
+      "start": 207.655,
+      "end": 212.635,
+      "text": "And that's why stocks in play is such an important part of being successful as a day trader."
+    },
+    {
+      "start": 213.575,
+      "end": 220.54999,
+      "text": "And you will see that's why the day traders who really make big money, they have that as a core part of their strategy."
+    },
+    {
+      "start": 220.54999,
+      "end": 223.68999,
+      "text": "So, it's not really where they buy, which is important also."
+    },
+    {
+      "start": 224.15,
+      "end": 233.82999,
+      "text": "But what they buy is also important and that is what determines their speed at which they are going to make money or speed at which they are going to make money."
+    },
+    {
+      "start": 233.82999,
+      "end": 256.1,
+      "text": "And one of the reason why, many of the successful day traders focus on intraday charts is because the velocity of the moves on the short side tends to be much faster than the velocity on the long side, which you can see for yourself, right?"
+    },
+    {
+      "start": 256.1,
+      "end": 257.48,
+      "text": "How many of you got burned?"
+    },
+    {
+      "start": 259.22,
+      "end": 261.22,
+      "text": "I didn't hear a word, right?"
+    },
+    {
+      "start": 261.22,
+      "end": 281.61,
+      "text": "I didn't hear a word from those people who are sending me emails telling me I don't understand silver market or those who are telling me, k, look at a you're like in a, China is like in a has this thing and like another JPMorgan Chase is buying, this thing or like, you know, all those things."
+    },
+    {
+      "start": 281.61,
+      "end": 281.85,
+      "text": "Right?"
+    },
+    {
+      "start": 281.85,
+      "end": 286.51,
+      "text": "Or what is the cost of producing silver and where are the mines of silver?"
+    },
+    {
+      "start": 286.81,
+      "end": 287.05,
+      "text": "Right?"
+    },
+    {
+      "start": 287.05,
+      "end": 288.51,
+      "text": "And then nothing I heard."
+    },
+    {
+      "start": 289.065,
+      "end": 290.265,
+      "text": "Complete silence, right?"
+    },
+    {
+      "start": 290.265,
+      "end": 291.96503,
+      "text": "And I don't hear a word, right?"
+    },
+    {
+      "start": 292.58502,
+      "end": 297.41168,
+      "text": "When things go, intraday also, when you see, like, in stocks, when they go down, right?"
+    },
+    {
+      "start": 297.41168,
+      "end": 301.885,
+      "text": "And, the velocity is so fast, right, in a year."
+    },
+    {
+      "start": 302.0,
+      "end": 306.5,
+      "text": "At this time frame, like, in a just like in a few minutes, right?"
+    },
+    {
+      "start": 306.72,
+      "end": 311.54,
+      "text": "$75 move, happened right in a way, basically."
+    },
+    {
+      "start": 311.6,
+      "end": 319.915,
+      "text": "So, similarly, SNDK, right, in a basically, completely melted down, right, and especially in the last one hour."
+    },
+    {
+      "start": 320.215,
+      "end": 333.97,
+      "text": "It just completely melted down, dollars 37, right, and basically, even in the morning also, it melted down $50 So, you can see, like, how, things can happen very rapidly, in the market on the thing, right?"
+    },
+    {
+      "start": 333.97,
+      "end": 336.71,
+      "text": "So, stock selection."
+    },
+    {
+      "start": 337.25,
+      "end": 348.27502,
+      "text": "If you are on the right kind of a stock, then what it allows you is to move your account rapidly and this is why stock selection is such a critical part of this equation."
+    },
+    {
+      "start": 348.89502,
+      "end": 349.39502,
+      "text": "Yes."
+    },
+    {
+      "start": 349.45502,
+      "end": 350.655,
+      "text": "Breakouts, yes."
+    },
+    {
+      "start": 350.655,
+      "end": 351.875,
+      "text": "Reversal, yes."
+    },
+    {
+      "start": 352.33502,
+      "end": 353.855,
+      "text": "Like our anticipation, yes."
+    },
+    {
+      "start": 353.855,
+      "end": 359.315,
+      "text": "But which stock you are going to use that setup on is really important."
+    },
+    {
+      "start": 359.535,
+      "end": 372.99002,
+      "text": "If you do a good job of stock selection if you do a good job of stock selection, and if you do a poor job of stock selection, there is an opportunity cost."
+    },
+    {
+      "start": 372.99002,
+      "end": 373.49002,
+      "text": "Right?"
+    },
+    {
+      "start": 381.195,
+      "end": 389.215,
+      "text": "Because if you do a poor job, your stock doesn't make make any move or you're just sitting there and it doesn't move."
+    },
+    {
+      "start": 389.275,
+      "end": 392.56998,
+      "text": "While if you do a good job, then the stock moves."
+    },
+    {
+      "start": 392.56998,
+      "end": 397.21,
+      "text": "And as a result of that, your account moves or there's a momentum in your account."
+    },
+    {
+      "start": 397.21,
+      "end": 397.44998,
+      "text": "Right?"
+    },
+    {
+      "start": 397.44998,
+      "end": 397.94998,
+      "text": "Basically."
+    },
+    {
+      "start": 398.33,
+      "end": 416.045,
+      "text": "So in order to do stock selection, what you need to really look at is what are the possible or what are those well known ways to select stock."
+    },
+    {
+      "start": 422.31,
+      "end": 427.37,
+      "text": "And then select something which works for your situation."
+    },
+    {
+      "start": 454.41,
+      "end": 454.91,
+      "text": "Right."
+    },
+    {
+      "start": 457.29,
+      "end": 458.67,
+      "text": "What is your time commitment?"
+    },
+    {
+      "start": 458.73,
+      "end": 462.705,
+      "text": "Do you have the time to, like and I look at, like, any other things which move fast?"
+    },
+    {
+      "start": 463.425,
+      "end": 467.10498,
+      "text": "Also going to require you to pay attention to them."
+    },
+    {
+      "start": 467.10498,
+      "end": 481.32,
+      "text": "So it depends on what is your, if you don't have time, like, if you're somewhere in, say, Australia and where it's very difficult because in order to trade The US market, you'll have to get up or, your sleep, you'll have to sacrifice and all."
+    },
+    {
+      "start": 482.12,
+      "end": 485.26,
+      "text": "The solution to those people's problem is stock selection."
+    },
+    {
+      "start": 485.32,
+      "end": 485.82,
+      "text": "Right?"
+    },
+    {
+      "start": 486.2,
+      "end": 494.195,
+      "text": "If they select the right kind of a stock, I mean, so they cannot really, look at swing trading as a unless they do it, like, in a using some sort of automation."
+    },
+    {
+      "start": 494.895,
+      "end": 503.535,
+      "text": "What they need to do is they need to, like, you know, focus on stocks, which are slow moving or which can be they can put the position and forget about it kind of a thing."
+    },
+    {
+      "start": 503.535,
+      "end": 504.035,
+      "text": "Right?"
+    },
+    {
+      "start": 504.095,
+      "end": 523.075,
+      "text": "So the stock selection, every time when you have done your work and, say, if you found these setups, right, you see fill is found this, say, after you went through your and the setup here is start up a swing."
+    },
+    {
+      "start": 523.075,
+      "end": 523.575,
+      "text": "Right?"
+    },
+    {
+      "start": 523.795,
+      "end": 528.755,
+      "text": "But within that, both these stocks, I selected these stocks."
+    },
+    {
+      "start": 528.755,
+      "end": 533.335,
+      "text": "There are possibly more shots, ideas possible for, from everything."
+    },
+    {
+      "start": 533.395,
+      "end": 533.635,
+      "text": "Right?"
+    },
+    {
+      "start": 533.635,
+      "end": 534.99,
+      "text": "And then why did I select?"
+    },
+    {
+      "start": 535.14996,
+      "end": 538.35,
+      "text": "Because these particular stocks have a immediate catalyst."
+    },
+    {
+      "start": 538.35,
+      "end": 540.27,
+      "text": "That is one way of selecting stocks."
+    },
+    {
+      "start": 540.27,
+      "end": 540.51,
+      "text": "Right?"
+    },
+    {
+      "start": 540.51,
+      "end": 541.97,
+      "text": "And then they have immediate catalyst."
+    },
+    {
+      "start": 542.35,
+      "end": 547.01,
+      "text": "The second reason why I selected this particular kind of a stock is because they have very high liquidity."
+    },
+    {
+      "start": 547.55,
+      "end": 555.60504,
+      "text": "So it allows you to put close stops and it allows you to, take bigger positions on stocks like this."
+    },
+    {
+      "start": 555.745,
+      "end": 572.65,
+      "text": "So, stock selection is a function of your capital, your expected returns, if you're expecting very big returns, then you have to be in stocks, which are going to make the fastest move in the market at any particular time."
+    },
+    {
+      "start": 572.79004,
+      "end": 573.03,
+      "text": "Right?"
+    },
+    {
+      "start": 573.03,
+      "end": 580.865,
+      "text": "If you want to be a day trader and make a lot of money every day, then you need to be in stocks, which for that day are going to be making the biggest moves."
+    },
+    {
+      "start": 582.365,
+      "end": 601.38,
+      "text": "And this particular equation of understanding stock selection is something a lot of people are not paying attention to because if you're just doing technical analysis, and a lot of time people don't understand, look, and it's not really the, thing which is like an the setup."
+    },
+    {
+      "start": 601.68,
+      "end": 602.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 602.0,
+      "end": 604.88,
+      "text": "But the setup has to have the right kind of a stock."
+    },
+    {
+      "start": 604.88,
+      "end": 610.865,
+      "text": "It has to have the right kind of a, selection of stock for it to become a turbo charge setup."
+    },
+    {
+      "start": 611.085,
+      "end": 619.805,
+      "text": "If you are not really selecting the right stocks and this is why some of the strategies which we use, like, says, sugar babies is a stock selection strategy, right?"
+    },
+    {
+      "start": 619.805,
+      "end": 630.68,
+      "text": "Or like an I saying, stocks which are which have an immediate catalyst is a stock selection strategy."
+    },
+    {
+      "start": 630.98,
+      "end": 638.535,
+      "text": "And this is why I always keep saying right now when the market become choppy, look for a stock which has a reason to go up or reason to go down."
+    },
+    {
+      "start": 638.675,
+      "end": 644.435,
+      "text": "And that can be even there are, like, in a way, stages in market when everything works."
+    },
+    {
+      "start": 644.435,
+      "end": 644.675,
+      "text": "Right?"
+    },
+    {
+      "start": 644.675,
+      "end": 652.86,
+      "text": "And at the beginning of the first two weeks of this year, the first two weeks coming out of like another market came out with bank, right?"
+    },
+    {
+      "start": 652.86,
+      "end": 654.0,
+      "text": "Everything was working."
+    },
+    {
+      "start": 654.14,
+      "end": 655.5,
+      "text": "You didn't need to know anything."
+    },
+    {
+      "start": 655.5,
+      "end": 659.1,
+      "text": "You just like an ASR in the first fifteen days of the market."
+    },
+    {
+      "start": 659.1,
+      "end": 662.695,
+      "text": "What happened was all these stocks came out."
+    },
+    {
+      "start": 663.315,
+      "end": 670.615,
+      "text": "And there was a broad based, catalyst and that broad based catalyst was just the market momentum."
+    },
+    {
+      "start": 671.235,
+      "end": 693.695,
+      "text": "And that's why you will see that like in a there was a total the easiest period was the first two weeks of the, so let's see, like, another first, that is that's the first day."
+    },
+    {
+      "start": 693.695,
+      "end": 696.835,
+      "text": "And if you see the first two weeks, which is around fifteenth, right?"
+    },
+    {
+      "start": 697.29504,
+      "end": 698.115,
+      "text": "Or sixteenth."
+    },
+    {
+      "start": 698.175,
+      "end": 699.695,
+      "text": "So let's say sixteenth, right?"
+    },
+    {
+      "start": 699.695,
+      "end": 712.06,
+      "text": "And if you saw it, and if you saw the ad column at that stage, you have all these stocks which are coming out and making, if you set up that time period at that kind of a time period."
+    },
+    {
+      "start": 712.06,
+      "end": 712.38,
+      "text": "Right?"
+    },
+    {
+      "start": 712.38,
+      "end": 718.64496,
+      "text": "And, basically, so this was the, I think, fourteenth, fifteenth, and sixteenth."
+    },
+    {
+      "start": 718.64496,
+      "end": 718.885,
+      "text": "Right?"
+    },
+    {
+      "start": 718.885,
+      "end": 722.58496,
+      "text": "And at that particular time period, you saw this kind of a moves."
+    },
+    {
+      "start": 723.125,
+      "end": 734.83997,
+      "text": "You had, like, any stocks, like, all these stocks, which made bigger moves, like S and D, or DK, or those, even, some of these these include, like, in a low price stocks."
+    },
+    {
+      "start": 734.83997,
+      "end": 744.76,
+      "text": "If you don't have these low price stocks, and if you look at, like, in a say, the universe, which may not have the does the universe have, liquidity and three okay."
+    },
+    {
+      "start": 744.76,
+      "end": 754.395,
+      "text": "So, if you look at this, you're going to see stocks, which made big moves during that time, creative global, CGTL, CPA, IBRX, right?"
+    },
+    {
+      "start": 754.395,
+      "end": 760.86,
+      "text": "Eras, anything which was 9,000,000 breakout, but just like our, many of the breakouts, they made big moves."
+    },
+    {
+      "start": 761.66,
+      "end": 763.42,
+      "text": "Critical metals corporation, right?"
+    },
+    {
+      "start": 763.42,
+      "end": 784.10504,
+      "text": "Straight away, four or five days of buying Tygo solar, BKKT, GLXU rights, all these satellite related stocks, drone stocks, nuclear energy stocks, they all came out with bang, in those first fifteen days, this Riley also at that stage, CPSH, right."
+    },
+    {
+      "start": 784.10504,
+      "end": 795.87,
+      "text": "And a figure, even your like in a stocks like that, drone stock or satellite stocks, they all came in this satellite drone stock, right?"
+    },
+    {
+      "start": 795.87,
+      "end": 798.29004,
+      "text": "And they made the move the first fifteen days."
+    },
+    {
+      "start": 798.35004,
+      "end": 801.49,
+      "text": "It was just like in a straight away, bang, bang, bang, bang, bang."
+    },
+    {
+      "start": 801.55,
+      "end": 802.11,
+      "text": "Look at this."
+    },
+    {
+      "start": 802.11,
+      "end": 807.315,
+      "text": "You see, TT, all the semiconductor stocks, they came out and they made a big move."
+    },
+    {
+      "start": 807.45496,
+      "end": 811.45496,
+      "text": "SNDK came and make a big big move in the first fifteen days."
+    },
+    {
+      "start": 811.45496,
+      "end": 815.15497,
+      "text": "So that was, like, an where there was a overall market momentum."
+    },
+    {
+      "start": 815.21497,
+      "end": 822.26,
+      "text": "But after that, what happened in the next fifteen days, you'll see that especially in the last ten days, a lot of breakout started fading."
+    },
+    {
+      "start": 822.26,
+      "end": 822.5,
+      "text": "Right?"
+    },
+    {
+      "start": 822.5,
+      "end": 826.6,
+      "text": "And, basically so then you have to find a stock which is a major catalyst."
+    },
+    {
+      "start": 826.82,
+      "end": 841.575,
+      "text": "So, stock selection becomes more and more important as the rally progresses because less and less number of stocks are going to participate in the rally."
+    },
+    {
+      "start": 841.575,
+      "end": 844.375,
+      "text": "So stock selection becomes, very important."
+    },
+    {
+      "start": 844.375,
+      "end": 853.24,
+      "text": "So having a stock selection, like, an you need to have a combination of, things in order to be highly profitable."
+    },
+    {
+      "start": 853.37994,
+      "end": 855.31995,
+      "text": "One is, like, having the right setup."
+    },
+    {
+      "start": 856.1,
+      "end": 858.74,
+      "text": "If you don't have the right setup, then it doesn't matter."
+    },
+    {
+      "start": 858.74,
+      "end": 861.195,
+      "text": "But once you have a setup, that's not the end of it."
+    },
+    {
+      "start": 861.355,
+      "end": 867.215,
+      "text": "You need to marry the setup with the right stock."
+    },
+    {
+      "start": 868.715,
+      "end": 873.59503,
+      "text": "And then in addition to setup right stock, you also need essay."
+    },
+    {
+      "start": 873.59503,
+      "end": 876.255,
+      "text": "So the combination of three is very important."
+    },
+    {
+      "start": 876.315,
+      "end": 876.815,
+      "text": "Right?"
+    },
+    {
+      "start": 877.08997,
+      "end": 886.63,
+      "text": "So what are the stock selection strategies which you can think of, and why you want to select a particular kind of a stock selection strategy?"
+    },
+    {
+      "start": 887.41,
+      "end": 898.16504,
+      "text": "And that like, in here, like, in a everyday, right, and there are people who come on the timeline or people who email me saying that they are working people."
+    },
+    {
+      "start": 898.385,
+      "end": 900.48505,
+      "text": "They don't have to do active trading."
+    },
+    {
+      "start": 901.18506,
+      "end": 904.72504,
+      "text": "They cannot, like, any trade this three to five days kind of a move."
+    },
+    {
+      "start": 905.06,
+      "end": 907.72,
+      "text": "If they cannot trade three to five days kind of a move."
+    },
+    {
+      "start": 908.98,
+      "end": 912.83997,
+      "text": "What is the key to being for them to make money?"
+    },
+    {
+      "start": 913.38,
+      "end": 918.36,
+      "text": "The key to the for them making money is going to be extremely good."
+    },
+    {
+      "start": 918.825,
+      "end": 927.72504,
+      "text": "They'll have to do extremely good job of stock selection."
+    },
+    {
+      "start": 932.94,
+      "end": 948.315,
+      "text": "Because if you don't want to trade too much, right, you want to buy something in a hold for one year or two years or three years, or you want to hold it for three months or six months, you can delude yourself by saying, look, I'm going to use a weekly chart."
+    },
+    {
+      "start": 948.315,
+      "end": 949.535,
+      "text": "I'm going to use this."
+    },
+    {
+      "start": 949.595,
+      "end": 951.035,
+      "text": "That is not going to help you."
+    },
+    {
+      "start": 951.035,
+      "end": 957.615,
+      "text": "What is going to help you is you have to find a stock which is likely to go up for three to six months."
+    },
+    {
+      "start": 958.6,
+      "end": 958.92,
+      "text": "Right?"
+    },
+    {
+      "start": 958.92,
+      "end": 961.66,
+      "text": "So stock selection is the crux."
+    },
+    {
+      "start": 963.16,
+      "end": 966.44,
+      "text": "The if you're a short term trader, it's a different game."
+    },
+    {
+      "start": 966.44,
+      "end": 966.76,
+      "text": "Right?"
+    },
+    {
+      "start": 966.76,
+      "end": 968.2,
+      "text": "In a short term trading again."
+    },
+    {
+      "start": 968.2,
+      "end": 968.6,
+      "text": "Okay."
+    },
+    {
+      "start": 968.6,
+      "end": 970.12,
+      "text": "Stock selection is going to make you."
+    },
+    {
+      "start": 970.12,
+      "end": 973.18,
+      "text": "But, like and if you're just looking for a two days, three days move."
+    },
+    {
+      "start": 973.385,
+      "end": 985.545,
+      "text": "Right, and then you're just, like, and then looking at, like, say, just you can start this stock, and the probability is very high that next two or three days, it is going to go down."
+    },
+    {
+      "start": 985.545,
+      "end": 985.785,
+      "text": "Right?"
+    },
+    {
+      "start": 985.785,
+      "end": 989.66003,
+      "text": "And, basically, you don't need much of a, this thing for that."
+    },
+    {
+      "start": 989.66003,
+      "end": 993.42,
+      "text": "Even then, selecting a stock, which has a real catalyst, is going to improve."
+    },
+    {
+      "start": 993.42,
+      "end": 999.02,
+      "text": "But, like, in a you can see the whole sector sold off, so this is a short, and three days it will be."
+    },
+    {
+      "start": 999.02,
+      "end": 1008.42505,
+      "text": "But can you tell me based on this particular signal that whether this is a good start to hold as a shot for next three months or six months?"
+    },
+    {
+      "start": 1010.885,
+      "end": 1011.86505,
+      "text": "Answer is no."
+    },
+    {
+      "start": 1011.92505,
+      "end": 1012.42505,
+      "text": "Right?"
+    },
+    {
+      "start": 1012.82,
+      "end": 1017.38,
+      "text": "So if you are going to be doing any longer term kind of a thing, same thing."
+    },
+    {
+      "start": 1017.38,
+      "end": 1022.66,
+      "text": "Like, any if you are going to be holding something for longer term, there has to be a damn good reason."
+    },
+    {
+      "start": 1022.66,
+      "end": 1022.89996,
+      "text": "Right?"
+    },
+    {
+      "start": 1022.89996,
+      "end": 1024.84,
+      "text": "And I say, like, Apple, supposing."
+    },
+    {
+      "start": 1025.5549,
+      "end": 1025.715,
+      "text": "Right?"
+    },
+    {
+      "start": 1025.715,
+      "end": 1027.495,
+      "text": "And here, it is breaking out."
+    },
+    {
+      "start": 1027.875,
+      "end": 1028.115,
+      "text": "Yeah."
+    },
+    {
+      "start": 1028.115,
+      "end": 1031.955,
+      "text": "For two to three days move or one week or ten days, you can say yes."
+    },
+    {
+      "start": 1031.955,
+      "end": 1040.295,
+      "text": "But do based on what you see here, can you tell me that you look at is Apple going to be the best stock to hold for the next two to three months?"
+    },
+    {
+      "start": 1041.84,
+      "end": 1042.96,
+      "text": "And the answer is no."
+    },
+    {
+      "start": 1042.96,
+      "end": 1043.28,
+      "text": "Right?"
+    },
+    {
+      "start": 1043.28,
+      "end": 1046.34,
+      "text": "So you need to have some way of selecting stocks."
+    },
+    {
+      "start": 1047.28,
+      "end": 1054.415,
+      "text": "When you put your energy in set of selection and get set up in place."
+    },
+    {
+      "start": 1054.415,
+      "end": 1065.555,
+      "text": "You have set ups like e p 9,000,000, and if you have set up like momentum burst, and once you understand that, all your energy should go in stock selection."
+    },
+    {
+      "start": 1066.415,
+      "end": 1082.05,
+      "text": "Because when you do a better job of stock selection, you will have higher win rate, and also you'll have higher magnitude moves."
+    },
+    {
+      "start": 1087.4451,
+      "end": 1094.425,
+      "text": "Or you will be able to move your account more rapidly."
+    },
+    {
+      "start": 1100.4401,
+      "end": 1108.76,
+      "text": "If you are in the right kind of a stock shot, you moved your account."
+    },
+    {
+      "start": 1108.76,
+      "end": 1109.0,
+      "text": "Right?"
+    },
+    {
+      "start": 1109.0,
+      "end": 1121.535,
+      "text": "And I or if you're in the right kind of a stock in the beginning of the year, we are, like, in a all these 9,000,000 EPs and all came out, and they, like and it just went crazy in the first few weeks of, like, another, market."
+    },
+    {
+      "start": 1121.535,
+      "end": 1121.6951,
+      "text": "Right?"
+    },
+    {
+      "start": 1121.6951,
+      "end": 1129.36,
+      "text": "And if you see, in that first few weeks, you had all these stocks coming out and making these, big moves during that time period."
+    },
+    {
+      "start": 1129.36,
+      "end": 1129.5199,
+      "text": "Right?"
+    },
+    {
+      "start": 1129.5199,
+      "end": 1135.2799,
+      "text": "And I've, and they made, like, you know, this really big moves there, during that time period."
+    },
+    {
+      "start": 1135.2799,
+      "end": 1147.165,
+      "text": "Most of the things which are like this kind of a things, the anything which was, like, in a semiconductor related or socks or or any one of these things just made big moves that time."
+    },
+    {
+      "start": 1147.165,
+      "end": 1147.665,
+      "text": "Right?"
+    },
+    {
+      "start": 1147.885,
+      "end": 1150.385,
+      "text": "So if you're in those stocks, you moved your account."
+    },
+    {
+      "start": 1150.765,
+      "end": 1155.49,
+      "text": "If you're not in those stocks, what happened Is you didn't move your account."
+    },
+    {
+      "start": 1155.49,
+      "end": 1155.81,
+      "text": "Right?"
+    },
+    {
+      "start": 1155.81,
+      "end": 1161.27,
+      "text": "So this is what is the most important thing which you need to work on once obviously."
+    },
+    {
+      "start": 1162.77,
+      "end": 1169.065,
+      "text": "If you have a stock selection strategy, and if you're buying those stocks on the third or fourth day, it is not going to work."
+    },
+    {
+      "start": 1169.065,
+      "end": 1169.3049,
+      "text": "Right?"
+    },
+    {
+      "start": 1169.3049,
+      "end": 1172.9049,
+      "text": "And so first task in trading is always to find a setup."
+    },
+    {
+      "start": 1172.9049,
+      "end": 1183.54,
+      "text": "Like, if you want to become a day trader, you first need to understand the where to buy and where to sell."
+    },
+    {
+      "start": 1184.0,
+      "end": 1199.795,
+      "text": "Once you understand that and once you're good at it, then if you at this particular moment, you had a like, or the at this particular moment, you had a chance of shorting s n d k, and you had a chance of shorting g."
+    },
+    {
+      "start": 1200.095,
+      "end": 1203.935,
+      "text": "And if you went and did g, you would not have made money."
+    },
+    {
+      "start": 1203.935,
+      "end": 1204.435,
+      "text": "Right?"
+    },
+    {
+      "start": 1204.655,
+      "end": 1212.9199,
+      "text": "But if you do s n d k, or if you did, like, in a AGQ at that time, you would have made money."
+    },
+    {
+      "start": 1213.7799,
+      "end": 1231.555,
+      "text": "So this is the next part of developing your skills to have stock selection strategy or have a series of stock selection strategies, which will allow you to grow your account rapidly based on size of account."
+    },
+    {
+      "start": 1231.555,
+      "end": 1239.33,
+      "text": "If your accounts when your accounts lot of people, when their accounts are small, what happens is they can use, like, in a day trading."
+    },
+    {
+      "start": 1239.33,
+      "end": 1242.37,
+      "text": "They can use small cap."
+    },
+    {
+      "start": 1242.37,
+      "end": 1244.6299,
+      "text": "They can use, like, any some of these techniques."
+    },
+    {
+      "start": 1244.69,
+      "end": 1245.19,
+      "text": "Right?"
+    },
+    {
+      "start": 1245.57,
+      "end": 1246.87,
+      "text": "And then what happens?"
+    },
+    {
+      "start": 1248.2899,
+      "end": 1259.0851,
+      "text": "Is that, like, you know, when the account size increases beyond a particular point and they continue to use that as your account size increases, you need to change your stock selection strategy."
+    },
+    {
+      "start": 1259.9451,
+      "end": 1261.5651,
+      "text": "So, these are all the things."
+    },
+    {
+      "start": 1261.9451,
+      "end": 1277.3401,
+      "text": "It's it's a combination of factors, which determines your success, which is set up, which is the foundation, first foundation, because the, that's the most important part of, like, in a being profitable, then stock selection."
+    },
+    {
+      "start": 1282.585,
+      "end": 1285.305,
+      "text": "Selecting the right stock is very, very important."
+    },
+    {
+      "start": 1285.305,
+      "end": 1285.545,
+      "text": "Right?"
+    },
+    {
+      "start": 1285.545,
+      "end": 1296.4401,
+      "text": "And basically and then comes for that setup on a stock selection, essay specific to that setup and that stock selection."
+    },
+    {
+      "start": 1296.98,
+      "end": 1314.785,
+      "text": "And when you get all these three things together is when you will have a reliable way to make money."
+    },
+    {
+      "start": 1315.405,
+      "end": 1316.625,
+      "text": "That's the holy trinity."
+    },
+    {
+      "start": 1316.685,
+      "end": 1317.185,
+      "text": "Right?"
+    },
+    {
+      "start": 1318.2051,
+      "end": 1330.6,
+      "text": "So we are going to spend a lot of time during this, next week or ten days, fifteen days, where I'm going to go through every one of these stock selection strategies, which is, in detail."
+    },
+    {
+      "start": 1331.54,
+      "end": 1341.9551,
+      "text": "So right, I'll go through these strategies to look at, like, in a house stock selection can be done."
+    },
+    {
+      "start": 1341.9551,
+      "end": 1345.9551,
+      "text": "What are the ways in which, quantitative funds do stock selection?"
+    },
+    {
+      "start": 1345.9551,
+      "end": 1348.5951,
+      "text": "What are the ways in when Goldman Sachs does stock selection?"
+    },
+    {
+      "start": 1348.5951,
+      "end": 1351.495,
+      "text": "What are the ways in which you'll fund do stock selection?"
+    },
+    {
+      "start": 1352.14,
+      "end": 1361.6799,
+      "text": "And, then understanding that and then creating your own stock selection strategy, how can you be in the correct stock?"
+    },
+    {
+      "start": 1361.82,
+      "end": 1368.335,
+      "text": "You can be in correct stocks by using there are a lot of tools which we use in order to select the right stock."
+    },
+    {
+      "start": 1368.335,
+      "end": 1368.6549,
+      "text": "Right?"
+    },
+    {
+      "start": 1368.6549,
+      "end": 1377.0549,
+      "text": "And then when you are doing momentum burst, based on all these whatever methods are used, they are based on historical tendencies of the market."
+    },
+    {
+      "start": 1377.0549,
+      "end": 1377.5549,
+      "text": "Right?"
+    },
+    {
+      "start": 1377.7749,
+      "end": 1387.01,
+      "text": "So based on historical tendencies of the market, if you have a choice of momentum burst, breakouts, right, you select stocks with lower capitalization."
+    },
+    {
+      "start": 1387.3099,
+      "end": 1394.6699,
+      "text": "You select stocks with, like, an as you keep selecting, that is when you are going to be in the right kind of a stock."
+    },
+    {
+      "start": 1394.6699,
+      "end": 1397.01,
+      "text": "You select stocks which are in play."
+    },
+    {
+      "start": 1397.8251,
+      "end": 1398.3251,
+      "text": "Right?"
+    },
+    {
+      "start": 1399.345,
+      "end": 1399.665,
+      "text": "K."
+    },
+    {
+      "start": 1399.665,
+      "end": 1401.105,
+      "text": "How can you be in the right stock?"
+    },
+    {
+      "start": 1401.105,
+      "end": 1403.925,
+      "text": "You have to always look at what is the theme which is working."
+    },
+    {
+      "start": 1404.145,
+      "end": 1404.465,
+      "text": "Right?"
+    },
+    {
+      "start": 1404.465,
+      "end": 1406.305,
+      "text": "The markets are thematically driven."
+    },
+    {
+      "start": 1406.305,
+      "end": 1409.285,
+      "text": "What was the theme which was, like, in a really working currently?"
+    },
+    {
+      "start": 1409.905,
+      "end": 1411.525,
+      "text": "What themes are working currently?"
+    },
+    {
+      "start": 1411.8251,
+      "end": 1412.225,
+      "text": "Yeah."
+    },
+    {
+      "start": 1412.225,
+      "end": 1412.725,
+      "text": "Semi."
+    },
+    {
+      "start": 1414.13,
+      "end": 1414.5299,
+      "text": "Right?"
+    },
+    {
+      "start": 1414.5299,
+      "end": 1416.9299,
+      "text": "Semi is working, but AI is not working."
+    },
+    {
+      "start": 1416.9299,
+      "end": 1420.23,
+      "text": "So, if you are in AI stocks, those AI stocks are underperformed."
+    },
+    {
+      "start": 1421.09,
+      "end": 1424.21,
+      "text": "Those drone stocks in the first fifteen days, they were doing very well."
+    },
+    {
+      "start": 1424.21,
+      "end": 1424.71,
+      "text": "Right?"
+    },
+    {
+      "start": 1424.85,
+      "end": 1429.9551,
+      "text": "Silver, gold, obviously, that was the thing which was like the thing."
+    },
+    {
+      "start": 1429.9551,
+      "end": 1446.37,
+      "text": "And all these stocks, how will you know what stocks are like, where the market has been, favoring is by, like, an if you just look at the 20% study, and if you keep looking at the 20% study on a daily basis, you'll see where the money starts flowing right now."
+    },
+    {
+      "start": 1446.37,
+      "end": 1456.2101,
+      "text": "For whatever reason, couple of weeks ago, all the consumer stocks started having moves right there."
+    },
+    {
+      "start": 1456.2101,
+      "end": 1460.595,
+      "text": "Basically, they started showing up not in the 20% study, but they started showing up."
+    },
+    {
+      "start": 1460.595,
+      "end": 1462.835,
+      "text": "Some of them started showing up in 20% also."
+    },
+    {
+      "start": 1462.835,
+      "end": 1463.235,
+      "text": "Right?"
+    },
+    {
+      "start": 1463.235,
+      "end": 1464.675,
+      "text": "So biotech stories, right?"
+    },
+    {
+      "start": 1464.675,
+      "end": 1478.75,
+      "text": "And basically, so the again, if you put your effort, time and effort, the amount of time and effort once you put it into set of selection, you start putting into stock selection, the you'll find ways to select stocks."
+    },
+    {
+      "start": 1478.75,
+      "end": 1479.25,
+      "text": "Right?"
+    },
+    {
+      "start": 1480.03,
+      "end": 1483.17,
+      "text": "We select stock I select stocks based on certain characteristics."
+    },
+    {
+      "start": 1483.47,
+      "end": 1483.935,
+      "text": "Right?"
+    },
+    {
+      "start": 1484.0951,
+      "end": 1488.435,
+      "text": "I select stocks based on, like, in a whether there is a news or a catalyst."
+    },
+    {
+      "start": 1489.4551,
+      "end": 1501.84,
+      "text": "I see, like, one of the very good ways of selecting stocks, which are especially if you're going to be swing trader or, even a day trader is to see stocks where there is a aggressive buying happening."
+    },
+    {
+      "start": 1507.82,
+      "end": 1509.84,
+      "text": "Or Agnes aggressive selling happening."
+    },
+    {
+      "start": 1511.1,
+      "end": 1512.72,
+      "text": "Using that trade ideas."
+    },
+    {
+      "start": 1515.855,
+      "end": 1516.255,
+      "text": "Scanned."
+    },
+    {
+      "start": 1516.255,
+      "end": 1516.755,
+      "text": "Right?"
+    },
+    {
+      "start": 1518.255,
+      "end": 1523.4751,
+      "text": "Which looks at 40 new highs or new few 40 new lows."
+    },
+    {
+      "start": 1523.775,
+      "end": 1525.615,
+      "text": "Now that's a stock selection strategy."
+    },
+    {
+      "start": 1525.615,
+      "end": 1526.495,
+      "text": "That is not a setup."
+    },
+    {
+      "start": 1526.495,
+      "end": 1526.735,
+      "text": "Right?"
+    },
+    {
+      "start": 1526.735,
+      "end": 1532.58,
+      "text": "And that's a stock selection strategy to focus on stocks where there is aggressive buying happening or selling happening."
+    },
+    {
+      "start": 1534.56,
+      "end": 1538.26,
+      "text": "And volume is one criteria which tells you where the things is."
+    },
+    {
+      "start": 1539.36,
+      "end": 1550.275,
+      "text": "20% study is the best way you'll be on top of stock selection because, that is the fastest way you'll figure out which stocks are attracting, buying, or selling currently."
+    },
+    {
+      "start": 1550.275,
+      "end": 1554.275,
+      "text": "If you can see the 20% bear study now, what is it full of?"
+    },
+    {
+      "start": 1554.275,
+      "end": 1556.295,
+      "text": "What stocks are going down the most?"
+    },
+    {
+      "start": 1559.62,
+      "end": 1560.12,
+      "text": "Silver."
+    },
+    {
+      "start": 1560.34,
+      "end": 1560.84,
+      "text": "Right?"
+    },
+    {
+      "start": 1562.1799,
+      "end": 1569.46,
+      "text": "And, so, you're always like an, be in the if you do this, you know now which stocks are going down."
+    },
+    {
+      "start": 1569.46,
+      "end": 1569.96,
+      "text": "Right?"
+    },
+    {
+      "start": 1573.065,
+      "end": 1581.325,
+      "text": "All three are means like an all three are equally important."
+    },
+    {
+      "start": 1581.385,
+      "end": 1583.085,
+      "text": "Setup selection is important."
+    },
+    {
+      "start": 1583.225,
+      "end": 1587.06,
+      "text": "If you don't have a right setup, you can have a right stock selection."
+    },
+    {
+      "start": 1587.06,
+      "end": 1595.0801,
+      "text": "But if you buy it at the wrong time, which is what exactly happened to lot of people, they're buying silver, right, which was going up."
+    },
+    {
+      "start": 1595.14,
+      "end": 1600.68,
+      "text": "But did they have a set up or they were buying silver after it was up three or four or five days in a row?"
+    },
+    {
+      "start": 1602.6849,
+      "end": 1604.525,
+      "text": "They're buying silver at the wrong time."
+    },
+    {
+      "start": 1604.525,
+      "end": 1609.085,
+      "text": "So you cannot just have a stock selection strategy if you don't have a setup."
+    },
+    {
+      "start": 1609.085,
+      "end": 1610.625,
+      "text": "So setup is the foundation."
+    },
+    {
+      "start": 1611.005,
+      "end": 1612.3049,
+      "text": "The first thing is setup."
+    },
+    {
+      "start": 1612.445,
+      "end": 1615.345,
+      "text": "Then stock selection, even in a quantitative funds."
+    },
+    {
+      "start": 1615.9099,
+      "end": 1617.5299,
+      "text": "What do they do?"
+    },
+    {
+      "start": 1617.75,
+      "end": 1620.6499,
+      "text": "They first decide what are they are going to be the signals."
+    },
+    {
+      "start": 1620.87,
+      "end": 1621.37,
+      "text": "Right?"
+    },
+    {
+      "start": 1621.59,
+      "end": 1629.11,
+      "text": "And once they determine signals, which is what they are, like, set up idea is, right, which might be a main revert or a trend following and all."
+    },
+    {
+      "start": 1629.11,
+      "end": 1630.33,
+      "text": "Then what do they do?"
+    },
+    {
+      "start": 1630.39,
+      "end": 1633.0951,
+      "text": "Then they look at where is this particular thing?"
+    },
+    {
+      "start": 1633.0951,
+      "end": 1636.4551,
+      "text": "Like, say, if you want to be a conned fund and you say trend following."
+    },
+    {
+      "start": 1636.4551,
+      "end": 1636.9551,
+      "text": "Right?"
+    },
+    {
+      "start": 1637.0951,
+      "end": 1641.115,
+      "text": "And you want to do trend following, then what do you do?"
+    },
+    {
+      "start": 1642.2151,
+      "end": 1643.175,
+      "text": "That is your setup."
+    },
+    {
+      "start": 1643.175,
+      "end": 1643.495,
+      "text": "Right?"
+    },
+    {
+      "start": 1643.495,
+      "end": 1645.115,
+      "text": "But then you select stocks."
+    },
+    {
+      "start": 1650.99,
+      "end": 1654.77,
+      "text": "That tend to trend."
+    },
+    {
+      "start": 1658.99,
+      "end": 1673.245,
+      "text": "If your seller set up idea, is like, say, main reversion and if you are doing main reversion on stocks which have history of trending, is that main reversion going to work?"
+    },
+    {
+      "start": 1673.245,
+      "end": 1673.985,
+      "text": "Tell me."
+    },
+    {
+      "start": 1674.85,
+      "end": 1681.11,
+      "text": "Again, once they decide that set up is mean reversion, they find stocks which have a tendency to main revert."
+    },
+    {
+      "start": 1681.6499,
+      "end": 1686.37,
+      "text": "So the it's, it's always like set up comes first and then start selection comes in."
+    },
+    {
+      "start": 1686.37,
+      "end": 1688.63,
+      "text": "Start selection cannot solve your trading problem."
+    },
+    {
+      "start": 1688.9299,
+      "end": 1695.805,
+      "text": "Stock selection has to be, like, an you select the right stock and buy it at the right time and exit it at the right time."
+    },
+    {
+      "start": 1696.185,
+      "end": 1697.9451,
+      "text": "And, that is the thing, basically."
+    },
+    {
+      "start": 1697.9451,
+      "end": 1698.4451,
+      "text": "Right?"
+    },
+    {
+      "start": 1698.665,
+      "end": 1701.885,
+      "text": "A combination of this is important."
+    },
+    {
+      "start": 1701.9451,
+      "end": 1703.165,
+      "text": "Setup and stock selection."
+    },
+    {
+      "start": 1703.9451,
+      "end": 1718.5599,
+      "text": "Both of these, if you get it right, then you'll find that, you can have good reliable way of making money."
+    },
+    {
+      "start": 1719.66,
+      "end": 1740.65,
+      "text": "So think about stock selection strategies and when you apply your mind to stock selection strategies, you'll find many ways to select stock to fit your if you're a day trader, almost invariably, all day traders who are successful have a stock selection strategy in addition to a setup."
+    },
+    {
+      "start": 1740.65,
+      "end": 1741.15,
+      "text": "Right?"
+    },
+    {
+      "start": 1741.21,
+      "end": 1746.35,
+      "text": "And that's why they can make this big money because they're always in the biggest moving stocks for the day."
+    },
+    {
+      "start": 1747.37,
+      "end": 1757.9751,
+      "text": "And that's why, like, you know, there was are, like, in a the some of the best, day traders, they are in the nano cap because their setup is mean reversion."
+    },
+    {
+      "start": 1758.035,
+      "end": 1758.515,
+      "text": "Right?"
+    },
+    {
+      "start": 1758.515,
+      "end": 1759.9751,
+      "text": "Their setup is mean reversion."
+    },
+    {
+      "start": 1760.115,
+      "end": 1764.7899,
+      "text": "So they are in this nano cap story stocks, which make this crazy moves."
+    },
+    {
+      "start": 1764.7899,
+      "end": 1771.9099,
+      "text": "Because can you, use that mean reversion kind of a strategy on something which is a fundamental reason to go up?"
+    },
+    {
+      "start": 1771.9099,
+      "end": 1773.0499,
+      "text": "The answer is no."
+    },
+    {
+      "start": 1773.27,
+      "end": 1773.6699,
+      "text": "Right?"
+    },
+    {
+      "start": 1773.6699,
+      "end": 1774.73,
+      "text": "So that's the thing."
+    },
+    {
+      "start": 1776.375,
+      "end": 1776.775,
+      "text": "Yeah."
+    },
+    {
+      "start": 1776.775,
+      "end": 1778.855,
+      "text": "Surprise, neglect, low cap, nano cap."
+    },
+    {
+      "start": 1778.855,
+      "end": 1780.615,
+      "text": "That is the thing which they do use."
+    },
+    {
+      "start": 1780.615,
+      "end": 1780.6951,
+      "text": "Right?"
+    },
+    {
+      "start": 1780.6951,
+      "end": 1789.675,
+      "text": "So, once you go through this whole series, you'll have a very good understanding about how to go about doing stock selection."
+    },
+    {
+      "start": 1790.46,
+      "end": 1797.58,
+      "text": "And, then the more time you spend on stock selection strategies, you'll find many ways of selecting stocks, right?"
+    },
+    {
+      "start": 1797.74,
+      "end": 1801.2,
+      "text": "Means, the sugar babies is one way of selecting stock."
+    },
+    {
+      "start": 1801.5,
+      "end": 1807.025,
+      "text": "Selecting stocks based on, like, if you're looking for something, which is longer term kind of a holding period and all."
+    },
+    {
+      "start": 1807.025,
+      "end": 1815.505,
+      "text": "Looking at stocks, which our high persistency, like, for whatever reason, this get x, right, has gone up ten years in a row."
+    },
+    {
+      "start": 1815.505,
+      "end": 1817.105,
+      "text": "Every year, it has been up, right?"
+    },
+    {
+      "start": 1817.105,
+      "end": 1830.94,
+      "text": "HICO in its entire existence out of like in a, out of, HEICO, out of like in a thirty years of existence, twenty four years this stock has been going up."
+    },
+    {
+      "start": 1831.065,
+      "end": 1840.1849,
+      "text": "Now, if you are one of those longer term investors or you want to hold stocks for longer term, then you will select stocks whichever tendency, which has persistency like this."
+    },
+    {
+      "start": 1840.1849,
+      "end": 1846.0249,
+      "text": "So, this is one of the ways in which you can select stock or like say, let's look at like say, forty years, right?"
+    },
+    {
+      "start": 1846.0249,
+      "end": 1852.18,
+      "text": "In forty years, this particular stock, ECL, has two negative days."
+    },
+    {
+      "start": 1852.7201,
+      "end": 1854.3401,
+      "text": "So is there something there?"
+    },
+    {
+      "start": 1855.04,
+      "end": 1856.88,
+      "text": "Our p and g has four negative days."
+    },
+    {
+      "start": 1856.88,
+      "end": 1859.2001,
+      "text": "Our centers look at this."
+    },
+    {
+      "start": 1859.2001,
+      "end": 1860.48,
+      "text": "Every year has been positive."
+    },
+    {
+      "start": 1860.48,
+      "end": 1860.98,
+      "text": "Right?"
+    },
+    {
+      "start": 1863.765,
+      "end": 1864.265,
+      "text": "So."
+    },
+    {
+      "start": 1865.525,
+      "end": 1869.2251,
+      "text": "If you're going to be doing something long term yet to have a stock selection methodology."
+    },
+    {
+      "start": 1870.005,
+      "end": 1870.9651,
+      "text": "It is for long term."
+    },
+    {
+      "start": 1870.9651,
+      "end": 1873.8451,
+      "text": "Almost anybody who comes to me saying I want to become an investor."
+    },
+    {
+      "start": 1873.8451,
+      "end": 1875.0599,
+      "text": "I don't want to do stock."
+    },
+    {
+      "start": 1875.0599,
+      "end": 1878.6799,
+      "text": "I tell them, look at it do a damn good job of doing stock selection."
+    },
+    {
+      "start": 1879.1399,
+      "end": 1880.82,
+      "text": "Do they want to understand that?"
+    },
+    {
+      "start": 1880.82,
+      "end": 1881.1399,
+      "text": "No."
+    },
+    {
+      "start": 1881.1399,
+      "end": 1884.0399,
+      "text": "They come and say, can I use weekly chart?"
+    },
+    {
+      "start": 1884.2599,
+      "end": 1885.46,
+      "text": "Can I use this?"
+    },
+    {
+      "start": 1885.46,
+      "end": 1886.4199,
+      "text": "Can I use that?"
+    },
+    {
+      "start": 1886.4199,
+      "end": 1886.6599,
+      "text": "Yeah."
+    },
+    {
+      "start": 1886.6599,
+      "end": 1887.46,
+      "text": "You can use that."
+    },
+    {
+      "start": 1887.46,
+      "end": 1889.6399,
+      "text": "But that is not stock selection, right?"
+    },
+    {
+      "start": 1890.1849,
+      "end": 1892.365,
+      "text": "Using weekly chart is not stock selection."
+    },
+    {
+      "start": 1892.585,
+      "end": 1899.065,
+      "text": "Fundamentally, you need to find the next Coca Cola, or you need to find the next Toro, or you need to find something like this."
+    },
+    {
+      "start": 1899.065,
+      "end": 1899.565,
+      "text": "Right?"
+    },
+    {
+      "start": 1899.625,
+      "end": 1900.605,
+      "text": "Sherwin William."
+    },
+    {
+      "start": 1901.785,
+      "end": 1907.3301,
+      "text": "Out of, like, in a total of, forty years, thirty one years, the stock has been positive."
+    },
+    {
+      "start": 1910.43,
+      "end": 1912.91,
+      "text": "So stock selection is what we'll focus on."
+    },
+    {
+      "start": 1912.91,
+      "end": 1913.65,
+      "text": "Any questions?"
+    },
+    {
+      "start": 1923.505,
+      "end": 1924.065,
+      "text": "No questions."
+    },
+    {
+      "start": 1924.065,
+      "end": 1925.6849,
+      "text": "I will see you people sometime."
+    },
+    {
+      "start": 1933.25,
+      "end": 1935.1901,
+      "text": "Put all your effort in stock selection."
+    },
+    {
+      "start": 1935.49,
+      "end": 1937.9701,
+      "text": "Vacuum out all information about stock selection."
+    },
+    {
+      "start": 1937.9701,
+      "end": 1940.0701,
+      "text": "Look at all kinds of stock selection strategies."
+    },
+    {
+      "start": 1940.4501,
+      "end": 1949.985,
+      "text": "Once you're, like, in a start making progress and once you get, like, in anything which we are not focused on, once you start focusing on it, it can, like, any make your difference."
+    },
+    {
+      "start": 1949.985,
+      "end": 1950.1449,
+      "text": "Right?"
+    },
+    {
+      "start": 1950.1449,
+      "end": 1959.345,
+      "text": "If you're never focused on your skin and one day you decide to focus on your skin and you start taking care of your skin and all, in six weeks, your skin will look radiant."
+    },
+    {
+      "start": 1959.345,
+      "end": 1959.845,
+      "text": "Right?"
+    },
+    {
+      "start": 1961.9049,
+      "end": 1962.4049,
+      "text": "So"
+    }
+  ],
+  "language": "en",
+  "backend": "deepgram"
+}

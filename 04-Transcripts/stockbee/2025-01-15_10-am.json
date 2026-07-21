@@ -1,0 +1,2881 @@
+{
+  "segments": [
+    {
+      "start": 113.78,
+      "end": 114.28,
+      "text": "Okay."
+    },
+    {
+      "start": 115.06,
+      "end": 130.16501,
+      "text": "So let's look at So, essentially, if you are new, right, and there is two ways in which, the TradeFactory operates."
+    },
+    {
+      "start": 130.225,
+      "end": 133.66501,
+      "text": "One is you're trying to find either a home run."
+    },
+    {
+      "start": 133.66501,
+      "end": 144.39,
+      "text": "Home run will be, like, something which can move your account in 20% to 50% in one, like, one trade or even 100% at times, or a mini home run."
+    },
+    {
+      "start": 147.01,
+      "end": 153.09,
+      "text": "Mini home run will move your account in, like, an essay, 10% increment or sometimes 15% increment."
+    },
+    {
+      "start": 153.09,
+      "end": 153.405,
+      "text": "Right?"
+    },
+    {
+      "start": 153.885,
+      "end": 171.36,
+      "text": "And then the momentum worst, which is singles in a singles, you're looking to move your account in half a percent to 5% in one trade."
+    },
+    {
+      "start": 174.14,
+      "end": 174.8,
+      "text": "Right, basically."
+    },
+    {
+      "start": 177.42,
+      "end": 187.11499,
+      "text": "Now, obviously, in a year, there are a lot more single than home runs and mini home runs."
+    },
+    {
+      "start": 187.11499,
+      "end": 196.29,
+      "text": "The singles allow you, these kind of a trades you can do with with a closer stop anywhere between 2.5 to 5% stop right in there."
+    },
+    {
+      "start": 196.76999,
+      "end": 204.53,
+      "text": "While if you want to get into a home run kind of a trade, you need stops, which might be 20%, or sometimes even more than that."
+    },
+    {
+      "start": 204.53,
+      "end": 204.76999,
+      "text": "Right?"
+    },
+    {
+      "start": 204.76999,
+      "end": 214.385,
+      "text": "So in order to be able to take that kind of a trade with the size, these singles are very important because the singles allow you to finance your home runs."
+    },
+    {
+      "start": 214.385,
+      "end": 217.525,
+      "text": "If you're just going to be trading this who is this?"
+    },
+    {
+      "start": 218.545,
+      "end": 219.44499,
+      "text": "Making noise."
+    },
+    {
+      "start": 223.52,
+      "end": 223.92,
+      "text": "Okay."
+    },
+    {
+      "start": 223.92,
+      "end": 226.8,
+      "text": "So singles allow you to finance the home runs, basically."
+    },
+    {
+      "start": 226.8,
+      "end": 236.5,
+      "text": "And on top of all these, the most important thing is essay because essay is going to determine how aggressively or how defensively you trade."
+    },
+    {
+      "start": 237.005,
+      "end": 249.105,
+      "text": "Absent essay, if you just keep trading, what will happen is you will have a equity curve which will look like this."
+    },
+    {
+      "start": 255.36,
+      "end": 261.28,
+      "text": "And the idea behind essay is to, like, any you make, because of essay, you're not doing anything."
+    },
+    {
+      "start": 261.28,
+      "end": 264.02002,
+      "text": "So you're just going to be then again, you make some."
+    },
+    {
+      "start": 264.275,
+      "end": 269.495,
+      "text": "Then because of, you say, you may be more defensive, but you might still get hit, then you make some."
+    },
+    {
+      "start": 269.635,
+      "end": 274.595,
+      "text": "And then you say, and then hit, and then you and so you soothe on your curve, basically."
+    },
+    {
+      "start": 274.595,
+      "end": 292.57,
+      "text": "And the advantage of doing that is and the singles play a very important role in that also because the singles allow you to make sure that you're hitting this small, small, small, and then once in a while, you find a home run or a mini home run, and then that's how you do it."
+    },
+    {
+      "start": 292.57,
+      "end": 292.81,
+      "text": "Right?"
+    },
+    {
+      "start": 292.81,
+      "end": 294.67,
+      "text": "And, basically so that's the thing."
+    },
+    {
+      "start": 296.225,
+      "end": 296.465,
+      "text": "No."
+    },
+    {
+      "start": 296.465,
+      "end": 298.165,
+      "text": "Singles, I'm not a day trader."
+    },
+    {
+      "start": 298.225,
+      "end": 298.725,
+      "text": "Right?"
+    },
+    {
+      "start": 299.905,
+      "end": 301.025,
+      "text": "I'm not a day trader."
+    },
+    {
+      "start": 301.025,
+      "end": 306.965,
+      "text": "I'm primarily looking at swings of three to five days of eight to 20%, magnitude."
+    },
+    {
+      "start": 307.025,
+      "end": 307.345,
+      "text": "Right?"
+    },
+    {
+      "start": 307.345,
+      "end": 307.845,
+      "text": "Basically."
+    },
+    {
+      "start": 307.905,
+      "end": 310.65,
+      "text": "So let's look at, like, basically, EP 9,000,000 and go."
+    },
+    {
+      "start": 310.72998,
+      "end": 314.83,
+      "text": "EP 9,000,000 is a improved version of EP."
+    },
+    {
+      "start": 315.93,
+      "end": 323.05,
+      "text": "EP 9,000,000 is a turbocharged version of, like, a basically EP."
+    },
+    {
+      "start": 323.05,
+      "end": 327.20502,
+      "text": "Because in EP, at best, how many opportunities you are going to get?"
+    },
+    {
+      "start": 331.42502,
+      "end": 332.965,
+      "text": "Three to five in a year."
+    },
+    {
+      "start": 333.42502,
+      "end": 333.92502,
+      "text": "Right?"
+    },
+    {
+      "start": 333.98502,
+      "end": 336.405,
+      "text": "Five to 10 is very, very rare."
+    },
+    {
+      "start": 337.025,
+      "end": 341.25998,
+      "text": "Right, and if you are coming from a market correction, yes, then you'll get five to ten, three to five."
+    },
+    {
+      "start": 341.25998,
+      "end": 341.75998,
+      "text": "Right?"
+    },
+    {
+      "start": 341.82,
+      "end": 346.08,
+      "text": "While in a EP 9,000,000, how many potential opportunities you can get?"
+    },
+    {
+      "start": 347.25998,
+      "end": 347.74,
+      "text": "Yeah."
+    },
+    {
+      "start": 347.74,
+      "end": 348.69998,
+      "text": "At best, yeah."
+    },
+    {
+      "start": 348.69998,
+      "end": 349.19998,
+      "text": "Yeah."
+    },
+    {
+      "start": 350.78,
+      "end": 353.315,
+      "text": "EP 9,000,000, lot more opportunities."
+    },
+    {
+      "start": 353.535,
+      "end": 359.215,
+      "text": "Delayed EP delayed EP 9,000,000, Sugar Babies, that allows you to expand your universe."
+    },
+    {
+      "start": 359.215,
+      "end": 359.455,
+      "text": "Right?"
+    },
+    {
+      "start": 359.455,
+      "end": 362.275,
+      "text": "And, basically, so let's look at 9,000,000 EP and Go."
+    },
+    {
+      "start": 362.335,
+      "end": 363.715,
+      "text": "So all these are JTI."
+    },
+    {
+      "start": 364.415,
+      "end": 369.34003,
+      "text": "What is the likely trade going to be setting up on these kind of stocks?"
+    },
+    {
+      "start": 374.6,
+      "end": 377.0,
+      "text": "That again, at some stage, it will be like in a shot."
+    },
+    {
+      "start": 377.0,
+      "end": 377.16,
+      "text": "Right?"
+    },
+    {
+      "start": 377.16,
+      "end": 385.775,
+      "text": "And, basically, they do their drama And after that, like, and after a few weeks, the market dies down or the interest in them dies down."
+    },
+    {
+      "start": 385.775,
+      "end": 391.395,
+      "text": "They try to break out, like, that doesn't, and then, like, in a but, early, it's certainly nothing to do."
+    },
+    {
+      "start": 391.455,
+      "end": 391.69498,
+      "text": "Right?"
+    },
+    {
+      "start": 391.69498,
+      "end": 393.555,
+      "text": "And even this one will be like that."
+    },
+    {
+      "start": 396.01,
+      "end": 396.99,
+      "text": "Quantum computing."
+    },
+    {
+      "start": 397.29,
+      "end": 404.09,
+      "text": "All these, I would put it, like, in a basically into my must watch kind of a list from here."
+    },
+    {
+      "start": 404.09,
+      "end": 416.085,
+      "text": "I think some of these are already there, but, like, at least three, definitely, I would watch for, like, an air later for, when the excitement dies down if they offer opportunities."
+    },
+    {
+      "start": 416.305,
+      "end": 416.54498,
+      "text": "Right?"
+    },
+    {
+      "start": 416.54498,
+      "end": 418.16498,
+      "text": "And then nothing to do here currently."
+    },
+    {
+      "start": 418.94498,
+      "end": 427.22,
+      "text": "SoundHound, Ionic, right on it, Tesla, Saxel, Gap, right on it, basically."
+    },
+    {
+      "start": 427.84,
+      "end": 431.54,
+      "text": "Tesla, XLF, Ballantar, TQQ."
+    },
+    {
+      "start": 433.04,
+      "end": 436.605,
+      "text": "Now again, this is like in a two days of this thing."
+    },
+    {
+      "start": 436.605,
+      "end": 439.665,
+      "text": "Every two days or three days of bounce has been sold here."
+    },
+    {
+      "start": 440.125,
+      "end": 451.13998,
+      "text": "So, again, the attention will shift, and possibly, at some stage, because this is again next week is a a holiday shortened week."
+    },
+    {
+      "start": 451.13998,
+      "end": 451.38,
+      "text": "Right?"
+    },
+    {
+      "start": 451.38,
+      "end": 453.0,
+      "text": "And a Monday is a holiday again."
+    },
+    {
+      "start": 453.38,
+      "end": 459.13998,
+      "text": "So it might rally for another one or two days and then might again have a big shot and bounce."
+    },
+    {
+      "start": 459.13998,
+      "end": 459.38,
+      "text": "Right?"
+    },
+    {
+      "start": 459.38,
+      "end": 461.31998,
+      "text": "And, basically, that might be the trade."
+    },
+    {
+      "start": 461.62,
+      "end": 464.92502,
+      "text": "Lucid Motors, hood."
+    },
+    {
+      "start": 464.92502,
+      "end": 467.005,
+      "text": "See, I got stopped out yesterday."
+    },
+    {
+      "start": 467.005,
+      "end": 467.505,
+      "text": "Right?"
+    },
+    {
+      "start": 467.885,
+      "end": 469.505,
+      "text": "And then it gaps up."
+    },
+    {
+      "start": 473.565,
+      "end": 475.885,
+      "text": "Yesterday, late in the day, there was a fade."
+    },
+    {
+      "start": 475.885,
+      "end": 476.285,
+      "text": "Right?"
+    },
+    {
+      "start": 476.285,
+      "end": 481.7,
+      "text": "And everything faded, and then I got stopped out, but I worked only small position and 25¢ stop."
+    },
+    {
+      "start": 481.7,
+      "end": 483.24002,
+      "text": "But, like, after that, see."
+    },
+    {
+      "start": 483.46002,
+      "end": 486.5,
+      "text": "So either you have to have a very wide stop or don't trade."
+    },
+    {
+      "start": 486.5,
+      "end": 487.0,
+      "text": "Right?"
+    },
+    {
+      "start": 489.86002,
+      "end": 490.84003,
+      "text": "That's the problem."
+    },
+    {
+      "start": 495.755,
+      "end": 499.05502,
+      "text": "Bank of America, MicroStrategy, iBit, Citigroup."
+    },
+    {
+      "start": 499.195,
+      "end": 502.23502,
+      "text": "That's the only bank, I think, Citigroup and, the other one."
+    },
+    {
+      "start": 502.23502,
+      "end": 503.755,
+      "text": "But it's up three days in a row."
+    },
+    {
+      "start": 503.755,
+      "end": 504.255,
+      "text": "Right?"
+    },
+    {
+      "start": 504.95,
+      "end": 508.17,
+      "text": "So I don't see anything too actionable here at the moment."
+    },
+    {
+      "start": 508.55002,
+      "end": 510.95,
+      "text": "So combination bearish is 99 stocks."
+    },
+    {
+      "start": 510.95,
+      "end": 514.71,
+      "text": "Combination bullish is 87 stocks."
+    },
+    {
+      "start": 514.71,
+      "end": 518.24506,
+      "text": "So we start with the one which is lower and look at it."
+    },
+    {
+      "start": 518.565,
+      "end": 524.18506,
+      "text": "If it is a reversal when I see it in my scan, I will see right hand, basically."
+    },
+    {
+      "start": 528.565,
+      "end": 529.065,
+      "text": "Sound?"
+    },
+    {
+      "start": 532.09,
+      "end": 537.45,
+      "text": "That means after it has grown down, right, and a 9,000,000."
+    },
+    {
+      "start": 537.45,
+      "end": 540.75,
+      "text": "Right, and a so what kind of a EP 9,000,000 is sound now?"
+    },
+    {
+      "start": 542.09,
+      "end": 542.91,
+      "text": "Sugar maybe?"
+    },
+    {
+      "start": 543.05,
+      "end": 543.29,
+      "text": "Yeah."
+    },
+    {
+      "start": 543.29,
+      "end": 545.45,
+      "text": "But, like, it's really compelling sugar maybe."
+    },
+    {
+      "start": 545.45,
+      "end": 545.61,
+      "text": "No."
+    },
+    {
+      "start": 545.61,
+      "end": 545.85,
+      "text": "Right?"
+    },
+    {
+      "start": 545.85,
+      "end": 549.765,
+      "text": "And, basically, there are three types of 9,000,000."
+    },
+    {
+      "start": 549.765,
+      "end": 550.085,
+      "text": "Right?"
+    },
+    {
+      "start": 550.085,
+      "end": 555.205,
+      "text": "And cats, dogs, and liquid lover."
+    },
+    {
+      "start": 555.205,
+      "end": 555.705,
+      "text": "Right?"
+    },
+    {
+      "start": 556.165,
+      "end": 557.525,
+      "text": "None of them it is currently."
+    },
+    {
+      "start": 557.525,
+      "end": 557.765,
+      "text": "Right?"
+    },
+    {
+      "start": 557.765,
+      "end": 561.27,
+      "text": "And, basically, it is, it's not really like any."
+    },
+    {
+      "start": 561.35004,
+      "end": 563.59,
+      "text": "It doesn't have a fresh catalyst for anything."
+    },
+    {
+      "start": 563.59,
+      "end": 563.91003,
+      "text": "Right?"
+    },
+    {
+      "start": 563.91003,
+      "end": 568.79004,
+      "text": "And it just that after a big bounce, this has bounced back."
+    },
+    {
+      "start": 568.79004,
+      "end": 569.29004,
+      "text": "Right?"
+    },
+    {
+      "start": 569.75,
+      "end": 571.59,
+      "text": "Is there likelihood of a swing working?"
+    },
+    {
+      "start": 571.59,
+      "end": 572.09,
+      "text": "Possible."
+    },
+    {
+      "start": 572.15,
+      "end": 572.39,
+      "text": "Right?"
+    },
+    {
+      "start": 572.39,
+      "end": 574.57,
+      "text": "And, basically, but is that a compelling setup?"
+    },
+    {
+      "start": 575.945,
+      "end": 578.025,
+      "text": "I don't know."
+    },
+    {
+      "start": 578.025,
+      "end": 580.025,
+      "text": "Those kind of setups have worked in recent days."
+    },
+    {
+      "start": 580.025,
+      "end": 582.045,
+      "text": "So, yeah, means if you want to go there."
+    },
+    {
+      "start": 584.025,
+      "end": 588.045,
+      "text": "Rocket Lab, Taiwan Semi, QuantumScape, Google."
+    },
+    {
+      "start": 588.185,
+      "end": 589.405,
+      "text": "Google, see here."
+    },
+    {
+      "start": 590.82,
+      "end": 596.74,
+      "text": "This is again, trading with a closed top is not going to work here."
+    },
+    {
+      "start": 596.74,
+      "end": 596.98004,
+      "text": "Right?"
+    },
+    {
+      "start": 596.98004,
+      "end": 599.38,
+      "text": "And this was reversal bullish on that day."
+    },
+    {
+      "start": 599.38,
+      "end": 601.78,
+      "text": "Next day, it did nothing, and now it is gapping up."
+    },
+    {
+      "start": 601.78,
+      "end": 603.46,
+      "text": "So that's the thing, right, basically."
+    },
+    {
+      "start": 603.46,
+      "end": 608.305,
+      "text": "But here we go."
+    },
+    {
+      "start": 608.52496,
+      "end": 612.225,
+      "text": "Google, Peloton, credit currency, snowflake."
+    },
+    {
+      "start": 612.285,
+      "end": 615.165,
+      "text": "Snowflake is another like, I was watching yesterday."
+    },
+    {
+      "start": 615.165,
+      "end": 615.665,
+      "text": "Right?"
+    },
+    {
+      "start": 615.885,
+      "end": 618.27,
+      "text": "Entire day, snowflake was up."
+    },
+    {
+      "start": 618.35004,
+      "end": 618.51,
+      "text": "Right?"
+    },
+    {
+      "start": 618.51,
+      "end": 621.89,
+      "text": "And it looked like it's a good, range expansion."
+    },
+    {
+      "start": 622.27,
+      "end": 625.65,
+      "text": "What happened in the last one hour?"
+    },
+    {
+      "start": 626.11005,
+      "end": 630.27,
+      "text": "See, entire day, if you looked at it, it was looking good and then it got sold up."
+    },
+    {
+      "start": 630.27,
+      "end": 631.81,
+      "text": "And now, what is happening today?"
+    },
+    {
+      "start": 638.875,
+      "end": 639.375,
+      "text": "Right."
+    },
+    {
+      "start": 640.555,
+      "end": 643.83496,
+      "text": "So that's the thing."
+    },
+    {
+      "start": 643.83496,
+      "end": 644.15497,
+      "text": "Right?"
+    },
+    {
+      "start": 644.15497,
+      "end": 651.81,
+      "text": "I mean, basically, miss it's not like any you can, if you want to trade in this market, you need a very wide stops."
+    },
+    {
+      "start": 651.81,
+      "end": 656.29,
+      "text": "And if you need a wide if you use very wide stops, that means your position size will be very small."
+    },
+    {
+      "start": 656.29,
+      "end": 667.065,
+      "text": "If your position size is very small, then, like, an again, is it worth, like, in a really putting in that kind of a risk for, gains?"
+    },
+    {
+      "start": 667.065,
+      "end": 667.46497,
+      "text": "Right?"
+    },
+    {
+      "start": 667.46497,
+      "end": 672.58496,
+      "text": "That's the question which I would ask myself, but I have patience to wait for my setup."
+    },
+    {
+      "start": 672.58496,
+      "end": 673.325,
+      "text": "Hi, Max."
+    },
+    {
+      "start": 674.16,
+      "end": 674.32,
+      "text": "Yeah."
+    },
+    {
+      "start": 674.32,
+      "end": 678.26,
+      "text": "I mean, it's, 809, technology stocks."
+    },
+    {
+      "start": 678.8,
+      "end": 682.33997,
+      "text": "Last time, made a big move, so maybe possibility exist right away."
+    },
+    {
+      "start": 690.965,
+      "end": 691.625,
+      "text": "Oh, shit."
+    },
+    {
+      "start": 694.165,
+      "end": 696.565,
+      "text": "Again, bullish work."
+    },
+    {
+      "start": 696.565,
+      "end": 696.805,
+      "text": "Right?"
+    },
+    {
+      "start": 696.805,
+      "end": 698.025,
+      "text": "And basically good."
+    },
+    {
+      "start": 698.725,
+      "end": 700.325,
+      "text": "You are the only person who noticed."
+    },
+    {
+      "start": 700.325,
+      "end": 700.825,
+      "text": "Right?"
+    },
+    {
+      "start": 704.46,
+      "end": 705.92,
+      "text": "Isn't that tells you something?"
+    },
+    {
+      "start": 718.295,
+      "end": 723.735,
+      "text": "If I could never again, miss this is just a can it bounce back and can it go up?"
+    },
+    {
+      "start": 723.735,
+      "end": 723.975,
+      "text": "Yes."
+    },
+    {
+      "start": 723.975,
+      "end": 724.475,
+      "text": "Possible."
+    },
+    {
+      "start": 724.535,
+      "end": 724.775,
+      "text": "Right?"
+    },
+    {
+      "start": 724.775,
+      "end": 731.735,
+      "text": "And, basically, but, I would say that, like, in a is it possible it might work?"
+    },
+    {
+      "start": 731.735,
+      "end": 732.21,
+      "text": "Yeah."
+    },
+    {
+      "start": 732.29004,
+      "end": 732.69,
+      "text": "Possible."
+    },
+    {
+      "start": 732.69,
+      "end": 733.09,
+      "text": "Right?"
+    },
+    {
+      "start": 733.09,
+      "end": 735.11005,
+      "text": "And, basically, is it a compelling setup?"
+    },
+    {
+      "start": 735.49005,
+      "end": 737.33,
+      "text": "It's just caught in a range bound action."
+    },
+    {
+      "start": 737.33,
+      "end": 737.83,
+      "text": "Right?"
+    },
+    {
+      "start": 738.45,
+      "end": 739.19,
+      "text": "Oh, hello."
+    },
+    {
+      "start": 739.89,
+      "end": 740.61005,
+      "text": "Say all of these."
+    },
+    {
+      "start": 740.61005,
+      "end": 740.85004,
+      "text": "Right?"
+    },
+    {
+      "start": 740.85004,
+      "end": 746.82495,
+      "text": "And then they are like any these are like a recent news place, so they are bouncing back today."
+    },
+    {
+      "start": 747.14496,
+      "end": 752.425,
+      "text": "I thought, like, Donald j Trump might, like, make a bigger move, but, that also faded."
+    },
+    {
+      "start": 752.425,
+      "end": 754.345,
+      "text": "Donald j Trump was at least in the beginning."
+    },
+    {
+      "start": 754.345,
+      "end": 760.68,
+      "text": "I think, at least, Donald j Trump, I would give it a benefit of doubt because there's a catalyst there, right, an upcoming catalyst."
+    },
+    {
+      "start": 760.82,
+      "end": 765.07996,
+      "text": "So meta platform."
+    },
+    {
+      "start": 768.01996,
+      "end": 771.72,
+      "text": "Aviso, Arcat, Google, Upstart."
+    },
+    {
+      "start": 772.245,
+      "end": 773.145,
+      "text": "Oh, no."
+    },
+    {
+      "start": 773.405,
+      "end": 774.665,
+      "text": "It's emerging."
+    },
+    {
+      "start": 775.485,
+      "end": 787.605,
+      "text": "Donald Trump, I would still keep an eye on because, there is a catalyst there, right, at least, from a, 9,000,000 breakout kind of a thing and things like that."
+    },
+    {
+      "start": 787.605,
+      "end": 788.105,
+      "text": "Right?"
+    },
+    {
+      "start": 790.35,
+      "end": 790.85,
+      "text": "Caruana."
+    },
+    {
+      "start": 791.23,
+      "end": 792.93,
+      "text": "It's up three days in a row."
+    },
+    {
+      "start": 794.03,
+      "end": 795.39,
+      "text": "Market is closed on Monday."
+    },
+    {
+      "start": 795.39,
+      "end": 795.89,
+      "text": "Yes."
+    },
+    {
+      "start": 809.385,
+      "end": 815.485,
+      "text": "And see all those financial stocks, BlackRock, JP Morgan, Wells Fargo, what happened to them?"
+    },
+    {
+      "start": 822.0,
+      "end": 822.39996,
+      "text": "Faded."
+    },
+    {
+      "start": 822.39996,
+      "end": 822.8,
+      "text": "Right?"
+    },
+    {
+      "start": 822.8,
+      "end": 825.86,
+      "text": "So it's not like in a straightforward when you're doing SIPs."
+    },
+    {
+      "start": 826.31995,
+      "end": 830.56,
+      "text": "It's not straightforward just because the figures are good that they're going to go up."
+    },
+    {
+      "start": 830.56,
+      "end": 831.83997,
+      "text": "It just doesn't work that way."
+    },
+    {
+      "start": 831.83997,
+      "end": 832.07996,
+      "text": "Right?"
+    },
+    {
+      "start": 832.07996,
+      "end": 836.735,
+      "text": "And it's just is, we have to look at individual case."
+    },
+    {
+      "start": 836.735,
+      "end": 837.795,
+      "text": "This one is good."
+    },
+    {
+      "start": 838.25494,
+      "end": 844.095,
+      "text": "Intuitive surgical, like, in a the beta spread is around almost a dollar here."
+    },
+    {
+      "start": 844.095,
+      "end": 844.33496,
+      "text": "Right?"
+    },
+    {
+      "start": 844.33496,
+      "end": 846.57495,
+      "text": "And, basically, that's the one which is nice."
+    },
+    {
+      "start": 846.57495,
+      "end": 846.89496,
+      "text": "Right?"
+    },
+    {
+      "start": 846.89496,
+      "end": 848.98,
+      "text": "And it's it's, this thing."
+    },
+    {
+      "start": 848.98,
+      "end": 855.77997,
+      "text": "What, I see it in Intuitive Surgical, typically, you get a delayed reaction later."
+    },
+    {
+      "start": 855.77997,
+      "end": 856.01996,
+      "text": "Right?"
+    },
+    {
+      "start": 856.01996,
+      "end": 858.1,
+      "text": "And then many times, like and it's a large stock."
+    },
+    {
+      "start": 858.1,
+      "end": 858.25995,
+      "text": "Right?"
+    },
+    {
+      "start": 858.25995,
+      "end": 859.69995,
+      "text": "And it's 191,000,000."
+    },
+    {
+      "start": 859.69995,
+      "end": 861.645,
+      "text": "It gives you opportunity for delay."
+    },
+    {
+      "start": 861.805,
+      "end": 863.42505,
+      "text": "It's a consolidation setup."
+    },
+    {
+      "start": 863.48505,
+      "end": 864.445,
+      "text": "How volume is not there?"
+    },
+    {
+      "start": 864.445,
+      "end": 868.84503,
+      "text": "There is a catalyst, but there's volume is not there, basically, but it's a consolidation setup."
+    },
+    {
+      "start": 868.84503,
+      "end": 870.705,
+      "text": "But there is a catalyst there at least."
+    },
+    {
+      "start": 877.62,
+      "end": 880.27997,
+      "text": "It is empty."
+    },
+    {
+      "start": 881.46,
+      "end": 883.24,
+      "text": "That is continuation setup."
+    },
+    {
+      "start": 883.3,
+      "end": 884.1,
+      "text": "White work."
+    },
+    {
+      "start": 884.1,
+      "end": 886.76,
+      "text": "That's the only thing which looks relatively good."
+    },
+    {
+      "start": 915.54,
+      "end": 918.57996,
+      "text": "So you just keep looking at these, things."
+    },
+    {
+      "start": 918.57996,
+      "end": 918.74,
+      "text": "Right?"
+    },
+    {
+      "start": 918.74,
+      "end": 926.13495,
+      "text": "And a lot of your understanding and situational awareness and things is also driven by what you see in your scans."
+    },
+    {
+      "start": 926.13495,
+      "end": 926.615,
+      "text": "Right?"
+    },
+    {
+      "start": 926.615,
+      "end": 938.15497,
+      "text": "When I'm looking at these scans and when you're also looking along with me, does this do these scans, like, inspire any confidence in you that this market is likely to run away from here?"
+    },
+    {
+      "start": 940.29,
+      "end": 941.51,
+      "text": "What do they look like?"
+    },
+    {
+      "start": 943.41,
+      "end": 948.70996,
+      "text": "They look like at a reluctantly buyers have been, like, in a force to like, these are bounces."
+    },
+    {
+      "start": 948.76996,
+      "end": 949.26996,
+      "text": "Right?"
+    },
+    {
+      "start": 949.41,
+      "end": 952.23,
+      "text": "There is no real, range expansion."
+    },
+    {
+      "start": 952.91504,
+      "end": 959.715,
+      "text": "When you get a real turn in the market, you get thousand plus day, eleven hundred day, 4% breakout."
+    },
+    {
+      "start": 959.715,
+      "end": 960.215,
+      "text": "Right?"
+    },
+    {
+      "start": 961.235,
+      "end": 963.635,
+      "text": "There is just no power there."
+    },
+    {
+      "start": 963.635,
+      "end": 963.875,
+      "text": "Right?"
+    },
+    {
+      "start": 963.875,
+      "end": 966.615,
+      "text": "And it's just like and you're trying to make a move."
+    },
+    {
+      "start": 967.155,
+      "end": 977.31,
+      "text": "So Viva system link."
+    },
+    {
+      "start": 979.37,
+      "end": 980.49,
+      "text": "Are some things working?"
+    },
+    {
+      "start": 980.49,
+      "end": 980.73,
+      "text": "Yes."
+    },
+    {
+      "start": 980.73,
+      "end": 987.10504,
+      "text": "Some select breakouts, like, in here and there are working, but it's not easy."
+    },
+    {
+      "start": 987.10504,
+      "end": 987.60504,
+      "text": "Right?"
+    },
+    {
+      "start": 987.825,
+      "end": 989.04504,
+      "text": "Look at Hud yesterday."
+    },
+    {
+      "start": 989.185,
+      "end": 992.465,
+      "text": "I thought, like, it was going to go up eight to 10, which was true."
+    },
+    {
+      "start": 992.465,
+      "end": 992.78503,
+      "text": "Right?"
+    },
+    {
+      "start": 992.78503,
+      "end": 996.93,
+      "text": "And it did go up, but, like, it stopped me out, and then went up."
+    },
+    {
+      "start": 997.17,
+      "end": 1005.75,
+      "text": "Luckily, I had, like, an I had thought about that, so I put in a such a timing, thing that it didn't really matter, but still."
+    },
+    {
+      "start": 1009.875,
+      "end": 1016.755,
+      "text": "So, really, let's look at, like, some of these things."
+    },
+    {
+      "start": 1016.755,
+      "end": 1021.555,
+      "text": "If you're a day trader, right, JPMorgan Chase, is there a trade there was a trade there."
+    },
+    {
+      "start": 1021.555,
+      "end": 1021.795,
+      "text": "Right?"
+    },
+    {
+      "start": 1021.795,
+      "end": 1026.86,
+      "text": "And you could, like, animate some money there after it had a breakout range expansion kind of a thing."
+    },
+    {
+      "start": 1026.86,
+      "end": 1027.6,
+      "text": "Right, Anya?"
+    },
+    {
+      "start": 1033.1,
+      "end": 1034.22,
+      "text": "But that may not happen."
+    },
+    {
+      "start": 1034.22,
+      "end": 1034.78,
+      "text": "Right, Anya?"
+    },
+    {
+      "start": 1034.78,
+      "end": 1035.84,
+      "text": "That may not happen."
+    },
+    {
+      "start": 1036.06,
+      "end": 1038.405,
+      "text": "It might just be a chop face for rest of the year."
+    },
+    {
+      "start": 1038.5651,
+      "end": 1045.7051,
+      "text": "Here, in this particular stock, right, the beta spread in the morning was how much was the beta spread on BlackRock?"
+    },
+    {
+      "start": 1052.0399,
+      "end": 1067.255,
+      "text": "So it's not like something, this high priced stocks, if you have to trade, especially, like, in a in fast market, you have to really be careful, in terms of getting to those kind of stocks."
+    },
+    {
+      "start": 1067.255,
+      "end": 1067.495,
+      "text": "Right?"
+    },
+    {
+      "start": 1067.495,
+      "end": 1071.115,
+      "text": "And, obviously so let's look at the very side of the equation."
+    },
+    {
+      "start": 1071.735,
+      "end": 1086.28,
+      "text": "And, To me, it looks like in a this market is going to stop around for some time, so I have very low expectation of the market."
+    },
+    {
+      "start": 1094.5651,
+      "end": 1094.805,
+      "text": "Okay."
+    },
+    {
+      "start": 1094.805,
+      "end": 1096.585,
+      "text": "So let's look at Neo."
+    },
+    {
+      "start": 1100.005,
+      "end": 1112.33,
+      "text": "Now as I showed you yesterday, right, if you are looking at short opportunities and if you have smaller account, what you should do is sort this not by volume, sort it by capitalization and look at the one which has a very low capitalization."
+    },
+    {
+      "start": 1112.71,
+      "end": 1113.0299,
+      "text": "Right?"
+    },
+    {
+      "start": 1113.0299,
+      "end": 1118.57,
+      "text": "And, basically, so those are the one which tends to have, this thing."
+    },
+    {
+      "start": 1129.2451,
+      "end": 1129.7451,
+      "text": "Pizza."
+    },
+    {
+      "start": 1130.125,
+      "end": 1135.11,
+      "text": "That might be the one which is, like probably if it closes like that."
+    },
+    {
+      "start": 1135.57,
+      "end": 1139.27,
+      "text": "But again, just don't jump on a setup immediately."
+    },
+    {
+      "start": 1139.33,
+      "end": 1139.57,
+      "text": "Right?"
+    },
+    {
+      "start": 1139.57,
+      "end": 1140.79,
+      "text": "This is the first leg."
+    },
+    {
+      "start": 1141.1699,
+      "end": 1142.37,
+      "text": "This is the second leg."
+    },
+    {
+      "start": 1142.37,
+      "end": 1143.25,
+      "text": "This is the third leg."
+    },
+    {
+      "start": 1143.25,
+      "end": 1144.63,
+      "text": "So this will be which leg?"
+    },
+    {
+      "start": 1147.985,
+      "end": 1148.7051,
+      "text": "Fourth leg."
+    },
+    {
+      "start": 1148.7051,
+      "end": 1152.785,
+      "text": "Typically, fourth leg means most of the selling has already happened."
+    },
+    {
+      "start": 1152.785,
+      "end": 1153.105,
+      "text": "Right?"
+    },
+    {
+      "start": 1153.105,
+      "end": 1154.7251,
+      "text": "Sometimes fourth leg work."
+    },
+    {
+      "start": 1155.025,
+      "end": 1157.925,
+      "text": "But, you can't see my screen?"
+    },
+    {
+      "start": 1162.44,
+      "end": 1163.26,
+      "text": "We can see."
+    },
+    {
+      "start": 1163.56,
+      "end": 1164.06,
+      "text": "Okay."
+    },
+    {
+      "start": 1164.76,
+      "end": 1168.68,
+      "text": "He's downgraded his membership probably, I think."
+    },
+    {
+      "start": 1168.68,
+      "end": 1169.18,
+      "text": "Right?"
+    },
+    {
+      "start": 1174.36,
+      "end": 1181.025,
+      "text": "So the stream group, maybe, seem integrated."
+    },
+    {
+      "start": 1196.3401,
+      "end": 1197.64,
+      "text": "Clear secure you."
+    },
+    {
+      "start": 1205.765,
+      "end": 1210.425,
+      "text": "Make on routing."
+    },
+    {
+      "start": 1210.645,
+      "end": 1211.545,
+      "text": "Gapped up."
+    },
+    {
+      "start": 1230.735,
+      "end": 1238.4349,
+      "text": "So this is an acquisition."
+    },
+    {
+      "start": 1238.655,
+      "end": 1239.155,
+      "text": "Right?"
+    },
+    {
+      "start": 1240.495,
+      "end": 1253.85,
+      "text": "So you don't get tempted again like an so I put it in like an $124 in cash they're offering, and it's at 118."
+    },
+    {
+      "start": 1254.71,
+      "end": 1255.53,
+      "text": "I don't know."
+    },
+    {
+      "start": 1270.065,
+      "end": 1270.3049,
+      "text": "Yeah."
+    },
+    {
+      "start": 1270.3049,
+      "end": 1271.505,
+      "text": "That's what I'm looking at."
+    },
+    {
+      "start": 1271.505,
+      "end": 1274.065,
+      "text": "Like, $125 is the buyout price."
+    },
+    {
+      "start": 1274.065,
+      "end": 1283.66,
+      "text": "So but that means the market thinks that the buyout may have some problem or icon PLC."
+    },
+    {
+      "start": 1288.925,
+      "end": 1290.765,
+      "text": "This may work."
+    },
+    {
+      "start": 1290.765,
+      "end": 1293.185,
+      "text": "Range expansion on a high price stock."
+    },
+    {
+      "start": 1293.885,
+      "end": 1294.125,
+      "text": "Right?"
+    },
+    {
+      "start": 1294.125,
+      "end": 1295.8251,
+      "text": "And, basically, may work."
+    },
+    {
+      "start": 1304.64,
+      "end": 1306.1799,
+      "text": "Primary indicator is bearish."
+    },
+    {
+      "start": 1306.24,
+      "end": 1313.2799,
+      "text": "So a straight range expansion, if it is at the start of a swing, has a probability of working, basically."
+    },
+    {
+      "start": 1313.2799,
+      "end": 1313.6,
+      "text": "Right?"
+    },
+    {
+      "start": 1313.6,
+      "end": 1314.82,
+      "text": "That's the thinking there."
+    },
+    {
+      "start": 1315.52,
+      "end": 1318.08,
+      "text": "Brands, that looks like weak structure only."
+    },
+    {
+      "start": 1318.08,
+      "end": 1331.375,
+      "text": "But okay."
+    },
+    {
+      "start": 1379.4451,
+      "end": 1379.9451,
+      "text": "Blackrock."
+    },
+    {
+      "start": 1381.765,
+      "end": 1382.085,
+      "text": "Cat."
+    },
+    {
+      "start": 1382.085,
+      "end": 1382.905,
+      "text": "That caterpillar."
+    },
+    {
+      "start": 1383.765,
+      "end": 1386.405,
+      "text": "Rare example of a stock which had three day follow through."
+    },
+    {
+      "start": 1386.405,
+      "end": 1386.905,
+      "text": "Right?"
+    },
+    {
+      "start": 1389.04,
+      "end": 1390.94,
+      "text": "You're also Linde."
+    },
+    {
+      "start": 1391.6,
+      "end": 1392.58,
+      "text": "Chemical company."
+    },
+    {
+      "start": 1399.28,
+      "end": 1399.92,
+      "text": "This happy."
+    },
+    {
+      "start": 1399.92,
+      "end": 1400.9,
+      "text": "There is a catalyst."
+    },
+    {
+      "start": 1401.04,
+      "end": 1402.72,
+      "text": "Last time, it didn't follow through."
+    },
+    {
+      "start": 1402.72,
+      "end": 1412.715,
+      "text": "So maybe kind of a thing, but Botox is not selling."
+    },
+    {
+      "start": 1420.9701,
+      "end": 1427.93,
+      "text": "So this is like and I would say that this is the only for for pizza hurt, you know, my, like, an this thing that's a fourth leg."
+    },
+    {
+      "start": 1427.93,
+      "end": 1428.43,
+      "text": "Right?"
+    },
+    {
+      "start": 1428.7301,
+      "end": 1432.575,
+      "text": "But those are the two possibilities if you want to look at like an amazingly."
+    },
+    {
+      "start": 1432.6349,
+      "end": 1438.735,
+      "text": "But, again, if you shot something like c o e at this time, what can happen?"
+    },
+    {
+      "start": 1461.485,
+      "end": 1462.205,
+      "text": "It can fade."
+    },
+    {
+      "start": 1462.205,
+      "end": 1462.445,
+      "text": "Right?"
+    },
+    {
+      "start": 1462.445,
+      "end": 1463.245,
+      "text": "It can reverse."
+    },
+    {
+      "start": 1463.245,
+      "end": 1465.885,
+      "text": "So you have to wait till the market end."
+    },
+    {
+      "start": 1465.885,
+      "end": 1470.685,
+      "text": "Now if you wait, what can happen is this 2.7% can become 5%."
+    },
+    {
+      "start": 1470.685,
+      "end": 1471.11,
+      "text": "Right?"
+    },
+    {
+      "start": 1471.19,
+      "end": 1475.67,
+      "text": "So you're never, like, you know, this is the thing with sometimes with charting."
+    },
+    {
+      "start": 1475.67,
+      "end": 1475.91,
+      "text": "Right?"
+    },
+    {
+      "start": 1475.91,
+      "end": 1481.4299,
+      "text": "And if you wait, it's also the same thing, with, going long."
+    },
+    {
+      "start": 1481.4299,
+      "end": 1481.75,
+      "text": "Right?"
+    },
+    {
+      "start": 1481.75,
+      "end": 1485.59,
+      "text": "And if I had waited till end of the day on Hood, I would have never taken this trade."
+    },
+    {
+      "start": 1485.59,
+      "end": 1486.09,
+      "text": "Right?"
+    },
+    {
+      "start": 1487.1749,
+      "end": 1489.495,
+      "text": "But like in a that's the thing, basically."
+    },
+    {
+      "start": 1489.495,
+      "end": 1489.995,
+      "text": "Right?"
+    },
+    {
+      "start": 1490.615,
+      "end": 1498.955,
+      "text": "And that's what, so, decide what is your risk tolerance, I would say here."
+    },
+    {
+      "start": 1499.43,
+      "end": 1502.65,
+      "text": "And if you have high risk tolerance, go with guns blazing."
+    },
+    {
+      "start": 1503.03,
+      "end": 1509.6901,
+      "text": "If you have low risk tolerance, believe me, I've done this for twenty five years."
+    },
+    {
+      "start": 1510.0701,
+      "end": 1510.31,
+      "text": "Right?"
+    },
+    {
+      "start": 1510.31,
+      "end": 1520.045,
+      "text": "There will be a setup there will be a period, in near future where everything which you touch on records will work for eight, ten days."
+    },
+    {
+      "start": 1520.045,
+      "end": 1520.545,
+      "text": "Right?"
+    },
+    {
+      "start": 1521.085,
+      "end": 1528.37,
+      "text": "And here, everything you touch is going to like an either fade, shaken you out, or the the choice is yours."
+    },
+    {
+      "start": 1528.37,
+      "end": 1528.61,
+      "text": "Right?"
+    },
+    {
+      "start": 1528.61,
+      "end": 1536.45,
+      "text": "And, basically, if you're a day trader, obviously, it doesn't matter."
+    },
+    {
+      "start": 1536.45,
+      "end": 1536.95,
+      "text": "Right?"
+    },
+    {
+      "start": 1537.89,
+      "end": 1540.07,
+      "text": "You just, like, and you look at what is the day."
+    },
+    {
+      "start": 1542.295,
+      "end": 1544.8551,
+      "text": "Yi Ji, how will we see the beginning of that phase?"
+    },
+    {
+      "start": 1544.8551,
+      "end": 1547.275,
+      "text": "Will it be a breadth expansion to the upside?"
+    },
+    {
+      "start": 1548.8551,
+      "end": 1549.255,
+      "text": "Yeah."
+    },
+    {
+      "start": 1549.255,
+      "end": 1554.45,
+      "text": "Means like every time the market has turned, right, and it turns by a breadth expansion, right?"
+    },
+    {
+      "start": 1554.9299,
+      "end": 1558.45,
+      "text": "It hasn't, like, in a in our lifetime, that hasn't changed."
+    },
+    {
+      "start": 1558.45,
+      "end": 1558.95,
+      "text": "Right?"
+    },
+    {
+      "start": 1559.33,
+      "end": 1562.47,
+      "text": "Every time the market turns, how has it turned?"
+    },
+    {
+      "start": 1562.9299,
+      "end": 1571.985,
+      "text": "But only thing is that it's very difficult to have a trust, in that, like, even when, like, there was a bounce, it started with a breadth expansion."
+    },
+    {
+      "start": 1571.985,
+      "end": 1572.225,
+      "text": "Right?"
+    },
+    {
+      "start": 1572.225,
+      "end": 1574.645,
+      "text": "You look at, like, in a 2024, right?"
+    },
+    {
+      "start": 1574.945,
+      "end": 1577.525,
+      "text": "When the market turned, how did it turn?"
+    },
+    {
+      "start": 1577.6649,
+      "end": 1581.51,
+      "text": "1,500 day, 03/1950, 04/2026, March."
+    },
+    {
+      "start": 1581.51,
+      "end": 1582.01,
+      "text": "Right?"
+    },
+    {
+      "start": 1582.39,
+      "end": 1588.55,
+      "text": "You'll have, like, a it just doesn't like, every time the market turns, right, there is anxiety."
+    },
+    {
+      "start": 1588.55,
+      "end": 1592.95,
+      "text": "You'll get 700, 500 plus day, 4,000 plus day."
+    },
+    {
+      "start": 1592.95,
+      "end": 1593.43,
+      "text": "Right?"
+    },
+    {
+      "start": 1593.43,
+      "end": 1594.635,
+      "text": "And that's how market turns."
+    },
+    {
+      "start": 1595.115,
+      "end": 1602.715,
+      "text": "That's how historically, unless Donald j Trump does something to the market and something totally changes in the market."
+    },
+    {
+      "start": 1602.715,
+      "end": 1603.215,
+      "text": "Right?"
+    },
+    {
+      "start": 1604.395,
+      "end": 1608.495,
+      "text": "Look at every time the market turns, it turns with, like, in a thousand plus day."
+    },
+    {
+      "start": 1608.715,
+      "end": 1613.0599,
+      "text": "So but it's difficult 1,500 day."
+    },
+    {
+      "start": 1613.0599,
+      "end": 1613.5599,
+      "text": "Right?"
+    },
+    {
+      "start": 1614.58,
+      "end": 1617.0,
+      "text": "Like any this was a correction happening in the market."
+    },
+    {
+      "start": 1617.0599,
+      "end": 1618.74,
+      "text": "When it turned, how did it turn?"
+    },
+    {
+      "start": 1618.74,
+      "end": 1620.6,
+      "text": "It turned with 1,500 day."
+    },
+    {
+      "start": 1620.98,
+      "end": 1621.48,
+      "text": "Right?"
+    },
+    {
+      "start": 1621.94,
+      "end": 1629.275,
+      "text": "But it's very difficult when you are in a market correction to believe that it is going to happen like that."
+    },
+    {
+      "start": 1629.275,
+      "end": 1629.775,
+      "text": "Right?"
+    },
+    {
+      "start": 1630.875,
+      "end": 1636.475,
+      "text": "You don't trust, like, this is where, like, in a, trusting in your own model comes in also."
+    },
+    {
+      "start": 1636.475,
+      "end": 1636.715,
+      "text": "Right?"
+    },
+    {
+      "start": 1636.715,
+      "end": 1641.36,
+      "text": "And, basically, like, in 2002, there's a lot of selling, and how did the selling end?"
+    },
+    {
+      "start": 1641.36,
+      "end": 1643.38,
+      "text": "Selling ended with eighteen hundred day."
+    },
+    {
+      "start": 1646.5599,
+      "end": 1647.0599,
+      "text": "Right?"
+    },
+    {
+      "start": 1647.84,
+      "end": 1648.7999,
+      "text": "Eighteen hundred day."
+    },
+    {
+      "start": 1648.7999,
+      "end": 1649.6,
+      "text": "Thousand days."
+    },
+    {
+      "start": 1649.6,
+      "end": 1658.8151,
+      "text": "So it always means, since, this database is from, like, in a 2018, 2019, you look at, like, in a 2019 was a good year."
+    },
+    {
+      "start": 1658.8151,
+      "end": 1669.04,
+      "text": "But, like, whenever there's a sell off, selling, and after that, the market always bounces with a range, like, in a with a number of, like, when that's when does the market turns?"
+    },
+    {
+      "start": 1669.04,
+      "end": 1677.46,
+      "text": "The market turns when the, institution decide to bring their, buying power to the market, right?"
+    },
+    {
+      "start": 1677.6,
+      "end": 1683.625,
+      "text": "When institution decide to bring their buying power to the market, does it hide?"
+    },
+    {
+      "start": 1686.1649,
+      "end": 1688.825,
+      "text": "Can they hide their buying?"
+    },
+    {
+      "start": 1688.885,
+      "end": 1692.1849,
+      "text": "No, right and like in a covid nineteen time, right?"
+    },
+    {
+      "start": 1692.325,
+      "end": 1694.28,
+      "text": "Covid nineteen you had a sell off."
+    },
+    {
+      "start": 1694.52,
+      "end": 1704.4601,
+      "text": "How did the market turn thirteen hundred day, September, 840, fifteen hundred day, eleven hundred day, seven hundred, nine hundred, eleven hundred, thirteen hundred?"
+    },
+    {
+      "start": 1705.0801,
+      "end": 1715.4651,
+      "text": "Elephants are going to when they start, like, in attacking, 2009 look at 2009 bottom, which happened on March 10, probably."
+    },
+    {
+      "start": 1715.525,
+      "end": 1716.185,
+      "text": "Right, Ani?"
+    },
+    {
+      "start": 1716.7251,
+      "end": 1719.3651,
+      "text": "Somewhere around tenth of, March kind of a thing."
+    },
+    {
+      "start": 1719.3651,
+      "end": 1720.005,
+      "text": "Right, Ani?"
+    },
+    {
+      "start": 1720.005,
+      "end": 1721.8651,
+      "text": "Basically, March 10, if you see."
+    },
+    {
+      "start": 1723.14,
+      "end": 1725.38,
+      "text": "Market was down for a long period of time."
+    },
+    {
+      "start": 1725.38,
+      "end": 1726.68,
+      "text": "How did the market turn?"
+    },
+    {
+      "start": 1727.9401,
+      "end": 1738.535,
+      "text": "03/10/2009, bottom 1,700 stocks were up, followed by 1,300, by six twenty or nine seventy one, thirteen hundred, nine hundred and twenty four, fifteen hundred."
+    },
+    {
+      "start": 1738.995,
+      "end": 1742.035,
+      "text": "So the this was the buying binge which happened."
+    },
+    {
+      "start": 1742.035,
+      "end": 1742.275,
+      "text": "Right?"
+    },
+    {
+      "start": 1742.275,
+      "end": 1744.755,
+      "text": "And I see 01/1300."
+    },
+    {
+      "start": 1744.755,
+      "end": 1750.035,
+      "text": "And when it turned, it lasted for, like, an assumed 2009, the market has been going up."
+    },
+    {
+      "start": 1750.035,
+      "end": 1750.535,
+      "text": "Right?"
+    },
+    {
+      "start": 1750.76,
+      "end": 1752.3601,
+      "text": "So it's always going to be like that."
+    },
+    {
+      "start": 1752.3601,
+      "end": 1759.4,
+      "text": "But the problem is, do you trust your own like, I trust my model."
+    },
+    {
+      "start": 1759.4,
+      "end": 1760.78,
+      "text": "Why do I trust my model?"
+    },
+    {
+      "start": 1769.5549,
+      "end": 1770.615,
+      "text": "You made it."
+    },
+    {
+      "start": 1771.315,
+      "end": 1772.6749,
+      "text": "Because I created it."
+    },
+    {
+      "start": 1772.6749,
+      "end": 1773.1749,
+      "text": "Right?"
+    },
+    {
+      "start": 1773.395,
+      "end": 1774.755,
+      "text": "So I know I own it."
+    },
+    {
+      "start": 1774.755,
+      "end": 1775.075,
+      "text": "Right?"
+    },
+    {
+      "start": 1775.075,
+      "end": 1776.6749,
+      "text": "And I know what, this is."
+    },
+    {
+      "start": 1776.6749,
+      "end": 1777.1749,
+      "text": "Right?"
+    },
+    {
+      "start": 1778.115,
+      "end": 1779.7949,
+      "text": "And it has worked for so many years."
+    },
+    {
+      "start": 1779.7949,
+      "end": 1784.65,
+      "text": "Like, if you do your, like, in a that conviction development, which you need to have."
+    },
+    {
+      "start": 1784.65,
+      "end": 1784.8099,
+      "text": "Right?"
+    },
+    {
+      "start": 1784.8099,
+      "end": 1788.0299,
+      "text": "And if you don't have that conviction development, then what happens?"
+    },
+    {
+      "start": 1788.8099,
+      "end": 1796.605,
+      "text": "It's like you just don't, have the second hand conviction in, is very, very difficult."
+    },
+    {
+      "start": 1796.605,
+      "end": 1800.365,
+      "text": "Secondhand convictions are extremely difficult things in the market."
+    },
+    {
+      "start": 1800.365,
+      "end": 1800.605,
+      "text": "Right?"
+    },
+    {
+      "start": 1800.605,
+      "end": 1819.66,
+      "text": "And, basically, The same thing with, like, an, breakouts or 4% breakout or dollar breakout or, any one of these setups."
+    },
+    {
+      "start": 1819.66,
+      "end": 1820.16,
+      "text": "Right?"
+    },
+    {
+      "start": 1821.42,
+      "end": 1825.58,
+      "text": "There are these setups will work for some people and for many people, they'll not work."
+    },
+    {
+      "start": 1825.58,
+      "end": 1827.7051,
+      "text": "And, the difference is what is the difference?"
+    },
+    {
+      "start": 1827.7051,
+      "end": 1838.3451,
+      "text": "It's not really like an the difference is really, in terms of how much, this thing, conviction you have in your own method."
+    },
+    {
+      "start": 1838.3451,
+      "end": 1838.42,
+      "text": "Right?"
+    },
+    {
+      "start": 1838.42,
+      "end": 1846.41,
+      "text": "And the day traders, like, in a I don't have conviction in, like, in a looking at some of the things which day traders look at."
+    },
+    {
+      "start": 1846.79,
+      "end": 1847.83,
+      "text": "So I don't do that."
+    },
+    {
+      "start": 1847.83,
+      "end": 1848.07,
+      "text": "Right?"
+    },
+    {
+      "start": 1848.07,
+      "end": 1852.4299,
+      "text": "And, basically but if I had conviction, I would be like, not that I don't have conviction."
+    },
+    {
+      "start": 1852.4299,
+      "end": 1854.95,
+      "text": "It's just that, like, that's not my game, basically."
+    },
+    {
+      "start": 1854.95,
+      "end": 1855.45,
+      "text": "Right?"
+    },
+    {
+      "start": 1855.59,
+      "end": 1858.285,
+      "text": "So So mainly here, now he's having a good day."
+    },
+    {
+      "start": 1858.285,
+      "end": 1858.605,
+      "text": "Right?"
+    },
+    {
+      "start": 1858.605,
+      "end": 1860.285,
+      "text": "Last time, mainly, it went up."
+    },
+    {
+      "start": 1860.285,
+      "end": 1861.565,
+      "text": "Can it go up another day?"
+    },
+    {
+      "start": 1861.565,
+      "end": 1861.8049,
+      "text": "Yes."
+    },
+    {
+      "start": 1861.8049,
+      "end": 1862.205,
+      "text": "Possible."
+    },
+    {
+      "start": 1862.205,
+      "end": 1862.525,
+      "text": "Right?"
+    },
+    {
+      "start": 1862.525,
+      "end": 1864.785,
+      "text": "But do you want to chase something now like that?"
+    },
+    {
+      "start": 1864.845,
+      "end": 1866.765,
+      "text": "Those are the question which you have to ask."
+    },
+    {
+      "start": 1866.765,
+      "end": 1867.265,
+      "text": "Right?"
+    },
+    {
+      "start": 1868.01,
+      "end": 1869.93,
+      "text": "Spotify, very good day he's having."
+    },
+    {
+      "start": 1869.93,
+      "end": 1870.09,
+      "text": "Right?"
+    },
+    {
+      "start": 1870.09,
+      "end": 1870.8301,
+      "text": "You know, basically."
+    },
+    {
+      "start": 1875.05,
+      "end": 1880.35,
+      "text": "So Fungu."
+    },
+    {
+      "start": 1881.85,
+      "end": 1882.35,
+      "text": "Yeah."
+    },
+    {
+      "start": 1883.035,
+      "end": 1887.755,
+      "text": "So I think that I basically it's again a judgment."
+    },
+    {
+      "start": 1887.755,
+      "end": 1887.995,
+      "text": "Right?"
+    },
+    {
+      "start": 1887.995,
+      "end": 1888.955,
+      "text": "Can I be wrong?"
+    },
+    {
+      "start": 1888.955,
+      "end": 1889.455,
+      "text": "Yes."
+    },
+    {
+      "start": 1889.595,
+      "end": 1891.195,
+      "text": "I'm proven wrong many times."
+    },
+    {
+      "start": 1891.195,
+      "end": 1891.355,
+      "text": "Right?"
+    },
+    {
+      "start": 1891.355,
+      "end": 1900.37,
+      "text": "And so I'm not really like any all things are held with the but just based on past experience, based on things, every time there has been a turn."
+    },
+    {
+      "start": 1900.37,
+      "end": 1900.87,
+      "text": "Right?"
+    },
+    {
+      "start": 1901.41,
+      "end": 1905.27,
+      "text": "You know there is a turn because you see figures which are, like, so glaring."
+    },
+    {
+      "start": 1905.65,
+      "end": 1910.865,
+      "text": "You see, like, in a buying coming in, out of, like, in every corners of the market."
+    },
+    {
+      "start": 1911.105,
+      "end": 1912.625,
+      "text": "There'll be a broad based buying."
+    },
+    {
+      "start": 1912.625,
+      "end": 1919.765,
+      "text": "You don't see if there is a real buying in the market, what do you see, when there are these turns and where real buying comes in?"
+    },
+    {
+      "start": 1919.825,
+      "end": 1921.045,
+      "text": "What does this look like?"
+    },
+    {
+      "start": 1924.32,
+      "end": 1925.7799,
+      "text": "This will look like it goes."
+    },
+    {
+      "start": 1925.9199,
+      "end": 1927.76,
+      "text": "It will pull back a little bit side."
+    },
+    {
+      "start": 1927.76,
+      "end": 1928.5599,
+      "text": "It will go go."
+    },
+    {
+      "start": 1928.5599,
+      "end": 1929.2,
+      "text": "It will go."
+    },
+    {
+      "start": 1929.2,
+      "end": 1929.84,
+      "text": "It will go."
+    },
+    {
+      "start": 1929.84,
+      "end": 1930.96,
+      "text": "And it will end."
+    },
+    {
+      "start": 1930.96,
+      "end": 1931.46,
+      "text": "Right?"
+    },
+    {
+      "start": 1931.9199,
+      "end": 1933.2,
+      "text": "It will just goes parabolic."
+    },
+    {
+      "start": 1933.2,
+      "end": 1933.44,
+      "text": "Right?"
+    },
+    {
+      "start": 1933.44,
+      "end": 1935.0399,
+      "text": "And so those are all the things."
+    },
+    {
+      "start": 1935.0399,
+      "end": 1943.905,
+      "text": "But, at the end of the day, all these are, like, ultimately, you just need to find a setup which will work for you for the next three days."
+    },
+    {
+      "start": 1943.905,
+      "end": 1944.145,
+      "text": "Right?"
+    },
+    {
+      "start": 1944.145,
+      "end": 1945.265,
+      "text": "And then that's all there is."
+    },
+    {
+      "start": 1945.265,
+      "end": 1948.785,
+      "text": "Like, if you think sound is going to go up, and there is a probability, it might bounce back."
+    },
+    {
+      "start": 1948.785,
+      "end": 1948.9451,
+      "text": "Right?"
+    },
+    {
+      "start": 1948.9451,
+      "end": 1951.92,
+      "text": "And because they're selling a lot of selling which has happened."
+    },
+    {
+      "start": 1951.92,
+      "end": 1952.24,
+      "text": "Right?"
+    },
+    {
+      "start": 1952.24,
+      "end": 1953.2,
+      "text": "So go for that."
+    },
+    {
+      "start": 1953.2,
+      "end": 1953.44,
+      "text": "Right?"
+    },
+    {
+      "start": 1953.44,
+      "end": 1959.36,
+      "text": "And, basically, or if you thought, like, in a TQQ is the start of a new trend, then you can get it."
+    },
+    {
+      "start": 1959.36,
+      "end": 1959.86,
+      "text": "Right?"
+    },
+    {
+      "start": 1960.8,
+      "end": 1966.8049,
+      "text": "That Apple has a reversal bullish did work, but did next day, it didn't go up."
+    },
+    {
+      "start": 1966.8049,
+      "end": 1967.3049,
+      "text": "Right?"
+    },
+    {
+      "start": 1968.8049,
+      "end": 1969.945,
+      "text": "So that's the thing."
+    },
+    {
+      "start": 1970.005,
+      "end": 1976.085,
+      "text": "And this as of now, based on what I see, right, and I mean, I could be wrong."
+    },
+    {
+      "start": 1976.085,
+      "end": 1993.24,
+      "text": "This might be a start up, a new bull market, but, based on studying hundreds, like, in a studying, not hundreds, but last forty, fifty years of, like, things and all, I don't see that as a possibility or that as the best case scenario."
+    },
+    {
+      "start": 1994.1051,
+      "end": 1999.405,
+      "text": "It looks more like this is another bounce, which might really transition into some sort of a job, basically."
+    },
+    {
+      "start": 2000.425,
+      "end": 2002.5851,
+      "text": "So that's what, like, you know, it'll happen, basically."
+    },
+    {
+      "start": 2002.5851,
+      "end": 2003.0851,
+      "text": "Right?"
+    },
+    {
+      "start": 2003.9451,
+      "end": 2005.385,
+      "text": "Since CRDO looks good."
+    },
+    {
+      "start": 2005.385,
+      "end": 2006.265,
+      "text": "CRDO look good."
+    },
+    {
+      "start": 2006.265,
+      "end": 2007.785,
+      "text": "So this might work for three days."
+    },
+    {
+      "start": 2007.785,
+      "end": 2008.285,
+      "text": "Right?"
+    },
+    {
+      "start": 2008.49,
+      "end": 2010.03,
+      "text": "This might work for three days."
+    },
+    {
+      "start": 2010.65,
+      "end": 2016.81,
+      "text": "Beyond that, because again and again, it has tried to break out and it hasn't really followed through."
+    },
+    {
+      "start": 2016.81,
+      "end": 2017.31,
+      "text": "Right?"
+    },
+    {
+      "start": 2018.89,
+      "end": 2023.31,
+      "text": "So so you can take some trades and see as long as you don't hurt yourself."
+    },
+    {
+      "start": 2025.9451,
+      "end": 2026.265,
+      "text": "Yeah."
+    },
+    {
+      "start": 2026.265,
+      "end": 2028.605,
+      "text": "The small cap stocks have bounced back DNA."
+    },
+    {
+      "start": 2028.665,
+      "end": 2028.905,
+      "text": "Right?"
+    },
+    {
+      "start": 2028.905,
+      "end": 2030.525,
+      "text": "And they have bounced back three days."
+    },
+    {
+      "start": 2031.305,
+      "end": 2038.8451,
+      "text": "So what's the likely thing which is going to happen at some stage on this again?"
+    },
+    {
+      "start": 2046.48,
+      "end": 2052.56,
+      "text": "They'll again, like, attracts seller probably, or they will consolidate like this, and then they'll make a second leg."
+    },
+    {
+      "start": 2052.56,
+      "end": 2056.2148,
+      "text": "If we are going to go up, then they will form something like this."
+    },
+    {
+      "start": 2056.2148,
+      "end": 2056.7148,
+      "text": "Right?"
+    },
+    {
+      "start": 2060.615,
+      "end": 2061.9148,
+      "text": "So any more question?"
+    },
+    {
+      "start": 2062.295,
+      "end": 2062.535,
+      "text": "Yeah."
+    },
+    {
+      "start": 2062.535,
+      "end": 2072.8699,
+      "text": "It's just like an you have to find setup or compelling setups if you find right and then you have confidence, right, and basically to, get into them."
+    },
+    {
+      "start": 2073.41,
+      "end": 2076.15,
+      "text": "Right, and basically, then yes."
+    },
+    {
+      "start": 2077.25,
+      "end": 2080.13,
+      "text": "Otherwise, like in it."
+    },
+    {
+      "start": 2080.13,
+      "end": 2081.75,
+      "text": "Like Microsoft today, intraday."
+    },
+    {
+      "start": 2082.315,
+      "end": 2082.555,
+      "text": "Right?"
+    },
+    {
+      "start": 2082.555,
+      "end": 2088.4949,
+      "text": "And if you're a day trader, you might want to look at it right now because it has it's, made a move."
+    },
+    {
+      "start": 2088.555,
+      "end": 2090.4749,
+      "text": "So there are these opportunities always."
+    },
+    {
+      "start": 2090.4749,
+      "end": 2090.7148,
+      "text": "Right?"
+    },
+    {
+      "start": 2090.7148,
+      "end": 2092.095,
+      "text": "And, basically, Meta."
+    },
+    {
+      "start": 2093.355,
+      "end": 2094.2349,
+      "text": "Meta looks good."
+    },
+    {
+      "start": 2094.2349,
+      "end": 2094.4749,
+      "text": "Right?"
+    },
+    {
+      "start": 2094.4749,
+      "end": 2096.1401,
+      "text": "And it also looked good here."
+    },
+    {
+      "start": 2096.1401,
+      "end": 2097.02,
+      "text": "Made a three days move."
+    },
+    {
+      "start": 2097.02,
+      "end": 2098.62,
+      "text": "Can Metta makes a three day move?"
+    },
+    {
+      "start": 2098.62,
+      "end": 2098.94,
+      "text": "Yes."
+    },
+    {
+      "start": 2098.94,
+      "end": 2099.34,
+      "text": "Possible."
+    },
+    {
+      "start": 2099.34,
+      "end": 2099.58,
+      "text": "Right?"
+    },
+    {
+      "start": 2099.58,
+      "end": 2101.6,
+      "text": "And, basically, Fungal."
+    },
+    {
+      "start": 2106.3801,
+      "end": 2111.165,
+      "text": "Always remember, always, like and I look at whenever you are looking at Fungu again."
+    },
+    {
+      "start": 2111.165,
+      "end": 2111.485,
+      "text": "Right?"
+    },
+    {
+      "start": 2111.485,
+      "end": 2113.585,
+      "text": "And I, be cognizant."
+    },
+    {
+      "start": 2113.725,
+      "end": 2114.045,
+      "text": "Right?"
+    },
+    {
+      "start": 2114.045,
+      "end": 2119.585,
+      "text": "And, basically, many times on Fungu also, what is the breed of spread on Fungu?"
+    },
+    {
+      "start": 2130.56,
+      "end": 2134.08,
+      "text": "Be cognizant of beta spread if you're going to be trading this high price stock."
+    },
+    {
+      "start": 2134.08,
+      "end": 2134.32,
+      "text": "Right?"
+    },
+    {
+      "start": 2134.32,
+      "end": 2138.66,
+      "text": "You have to compensate for that, in terms of k."
+    },
+    {
+      "start": 2146.2249,
+      "end": 2147.125,
+      "text": "Zillow Group."
+    },
+    {
+      "start": 2148.705,
+      "end": 2149.025,
+      "text": "Wow."
+    },
+    {
+      "start": 2149.025,
+      "end": 2149.525,
+      "text": "Yep."
+    },
+    {
+      "start": 2150.385,
+      "end": 2152.385,
+      "text": "So is there a buying coming into the market?"
+    },
+    {
+      "start": 2152.385,
+      "end": 2152.705,
+      "text": "Yes."
+    },
+    {
+      "start": 2152.705,
+      "end": 2154.145,
+      "text": "There is a buying which is coming in."
+    },
+    {
+      "start": 2154.145,
+      "end": 2157.77,
+      "text": "Yesterday was a 300 not 300 plus, 200 plus day."
+    },
+    {
+      "start": 2158.3901,
+      "end": 2165.61,
+      "text": "But, can a stock turn can a market turn and start making a move on 200 plus day?"
+    },
+    {
+      "start": 2165.9102,
+      "end": 2166.87,
+      "text": "Never say never."
+    },
+    {
+      "start": 2166.87,
+      "end": 2167.83,
+      "text": "Anything is possible."
+    },
+    {
+      "start": 2167.83,
+      "end": 2168.07,
+      "text": "Right?"
+    },
+    {
+      "start": 2168.07,
+      "end": 2182.8599,
+      "text": "And, basically, so, like, nobody thought that Biden will become the president of America, and nobody thought, like, any, a black person will be a president of America."
+    },
+    {
+      "start": 2182.8599,
+      "end": 2183.74,
+      "text": "So anything can happen."
+    },
+    {
+      "start": 2183.74,
+      "end": 2185.5,
+      "text": "Same way in markets, anything can happen."
+    },
+    {
+      "start": 2185.5,
+      "end": 2185.74,
+      "text": "Right?"
+    },
+    {
+      "start": 2186.3398,
+      "end": 2190.88,
+      "text": "But, the probability seems lower, basically."
+    },
+    {
+      "start": 2194.385,
+      "end": 2194.705,
+      "text": "No."
+    },
+    {
+      "start": 2194.705,
+      "end": 2202.705,
+      "text": "If I stock if I stock which I buy starts trading and if I am very bullish on that stock, I don't even wait for my stock to be hit."
+    },
+    {
+      "start": 2202.705,
+      "end": 2204.805,
+      "text": "I just like and I'm going to kill the trade."
+    },
+    {
+      "start": 2205.345,
+      "end": 2205.845,
+      "text": "Right?"
+    },
+    {
+      "start": 2207.28,
+      "end": 2215.06,
+      "text": "I like my trades to work in a good market environment right from the word go."
+    },
+    {
+      "start": 2215.12,
+      "end": 2215.62,
+      "text": "Right?"
+    },
+    {
+      "start": 2216.1602,
+      "end": 2222.58,
+      "text": "If they are not, then I'm not right and, basically, I'm not interested in holding here."
+    },
+    {
+      "start": 2224.895,
+      "end": 2226.495,
+      "text": "Little bit, it is showing."
+    },
+    {
+      "start": 2226.495,
+      "end": 2227.135,
+      "text": "Not much."
+    },
+    {
+      "start": 2227.135,
+      "end": 2227.635,
+      "text": "Right?"
+    },
+    {
+      "start": 2232.415,
+      "end": 2233.855,
+      "text": "So it really depends."
+    },
+    {
+      "start": 2233.855,
+      "end": 2234.175,
+      "text": "Right?"
+    },
+    {
+      "start": 2234.175,
+      "end": 2240.27,
+      "text": "And I mean, when I bought hood, I said, like, if this hood has to work, it is going to, like, close near high."
+    },
+    {
+      "start": 2240.27,
+      "end": 2242.51,
+      "text": "I put it, like, just 25¢ stop."
+    },
+    {
+      "start": 2242.51,
+      "end": 2243.01,
+      "text": "Right?"
+    },
+    {
+      "start": 2243.4702,
+      "end": 2246.61,
+      "text": "Because I was, like, in a not going to give it, like, anything."
+    },
+    {
+      "start": 2246.75,
+      "end": 2250.11,
+      "text": "So because my thing was it should keep going."
+    },
+    {
+      "start": 2250.11,
+      "end": 2251.87,
+      "text": "It should not, like, sell off kind of a thing."
+    },
+    {
+      "start": 2251.87,
+      "end": 2252.085,
+      "text": "Right?"
+    },
+    {
+      "start": 2252.885,
+      "end": 2253.945,
+      "text": "But which it did?"
+    },
+    {
+      "start": 2257.445,
+      "end": 2257.945,
+      "text": "Netflix?"
+    },
+    {
+      "start": 2263.285,
+      "end": 2263.445,
+      "text": "Yes."
+    },
+    {
+      "start": 2263.445,
+      "end": 2278.83,
+      "text": "Objectively looking, right, and if you look at Netflix now, is this a bullish setup or this is a setup which might it might result into a bullish breakout, right, and basically, but, what does this look like at the moment based on what you see?"
+    },
+    {
+      "start": 2285.175,
+      "end": 2301.21,
+      "text": "It's not exactly weak structure shot also because, like an it had like this, thing, but, it's not a compelling setup which, to me looks like an I would buy ahead of earnings, but, if you buy it ahead of earnings, you might be rewarded handsomely."
+    },
+    {
+      "start": 2301.27,
+      "end": 2302.79,
+      "text": "It might gap up to thousand also."
+    },
+    {
+      "start": 2302.79,
+      "end": 2303.29,
+      "text": "Right?"
+    },
+    {
+      "start": 2303.51,
+      "end": 2306.63,
+      "text": "So that's the way to look at it, basically."
+    },
+    {
+      "start": 2306.63,
+      "end": 2307.13,
+      "text": "Right?"
+    },
+    {
+      "start": 2308.07,
+      "end": 2308.57,
+      "text": "Okay."
+    },
+    {
+      "start": 2309.3499,
+      "end": 2322.085,
+      "text": "I am going to see you people at 02:00, and, we will see because and, there'll be a session today in the evening at 05:00 or 05:30."
+    },
+    {
+      "start": 2322.085,
+      "end": 2330.41,
+      "text": "I will put up the timing on absolute work, how to drink it."
+    },
+    {
+      "start": 2330.41,
+      "end": 2330.91,
+      "text": "Right?"
+    },
+    {
+      "start": 2339.865,
+      "end": 2342.445,
+      "text": "So absolute momentum and relative momentum."
+    },
+    {
+      "start": 2342.5051,
+      "end": 2342.825,
+      "text": "Okay?"
+    },
+    {
+      "start": 2342.825,
+      "end": 2344.845,
+      "text": "Absolute momentum and relative momentum."
+    },
+    {
+      "start": 2346.105,
+      "end": 2357.05,
+      "text": "So Okay."
+    },
+    {
+      "start": 2357.05,
+      "end": 2358.49,
+      "text": "We'll drink absolute vodka."
+    },
+    {
+      "start": 2358.49,
+      "end": 2362.81,
+      "text": "I don't have absolute vodka in my house, but I will buy a bottle for you people to show you."
+    },
+    {
+      "start": 2362.81,
+      "end": 2363.05,
+      "text": "Right?"
+    },
+    {
+      "start": 2363.05,
+      "end": 2365.87,
+      "text": "And as a if I can manage to go to the store."
+    }
+  ],
+  "language": "en",
+  "backend": "deepgram"
+}

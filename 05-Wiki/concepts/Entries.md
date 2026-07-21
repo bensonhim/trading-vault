@@ -1,16 +1,16 @@
 ---
 title: "Entries"
-date: 2026-07-03
+date: 2026-07-21
 tags: [concepts, wiki, auto-compiled]
-mention_count: 511
-sources_count: 176
+mention_count: 1317
+sources_count: 543
 compilation_count: 1
 promote: false
 ---
 
 # Entries
 
-*Concepts — compiled from 511 mentions across 176 sources.*
+*Concepts — compiled from 1317 mentions across 543 sources.*
 
 ## Mentions
 
@@ -52,6 +52,28 @@ promote: false
 
 > [[../../03-Guides/stockbee/Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs.md|Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs]]: | Delayed reaction gives multiple entries per setup | Requires strong analytical skills — not mechanical |
 
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: | Entry | OPG, opening range | First few minutes from open, from watch list |
+
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: | Entry | First 10–15 minutes from open; **no end-of-day entries** |
+
+> [[../../03-Guides/stockbee/DEP-Delayed-Reaction-EP.md|DEP-Delayed-Reaction-EP]]: 2. **First 4% breakdown after entry** — Sell when 4% breakdown occurs
+
+> [[../../03-Guides/stockbee/EP-9-Million.md|EP-9-Million]]: | Catalyst | Known before entry | Found after scan confirms volume |
+
+> [[../../03-Guides/stockbee/EP-9-Million.md|EP-9-Million]]: | Entry | OPG at open or first few minutes |
+
+> [[../../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]: - Two tight days followed by a breakout = ideal entry
+
+> [[../../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]: | Entry | OPG, opening range breakout, or pullback | At breakout | At breakout |
+
+> [[../../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]: ## Entry Methods
+
+> [[../../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]: 2. **First 4% breakdown after entry** — Sell on first 4% breakdown from entry
+
+> [[../../03-Guides/stockbee/Sugar-Babies.md|Sugar-Babies]]: | Update frequency | Weekly (add recent 5/10/20/50-day new entries) |
+
+> [[../../03-Guides/stockbee/Sugar-Babies.md|Sugar-Babies]]: | DELL | Current Sugar Baby; tight setup entries |
+
 > [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]: | **Lincoln Navigator** | Momentum Burst | Every luxury thought through. Scans, entries, stops — one button, you're in business. |
 
 > [[../../03-Guides/stockbee/01. How to Get Started/How to Get Started In Trading Guide-Part 5.md|How to Get Started In Trading Guide-Part 5]]: - **Need control, want to plan entries carefully?** → Anticipation may suit you
@@ -71,28 +93,6 @@ promote: false
 > [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 2.md|How to Trade Breakouts Guide-Part 2]]: - Entry at ~$40
 
 > [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 2.md|How to Trade Breakouts Guide-Part 2]]: - "Your stop is below your entry point. After the trade has made 29%."
-
-> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 2.md|How to Trade Breakouts Guide-Part 2]]: - Start with 10-day or 20-day for entry signal
-
-> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 2.md|How to Trade Breakouts Guide-Part 2]]: 5. **Earlier entry = higher profit, lower risk.** Late entry means wider half-day stop. Buy at 04:00 = risking 6.3%. Buy at 09:35 = risk much less.
-
-> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 3.md|How to Trade Breakouts Guide-Part 3]]: | 6. Entry | Buy 50K–100K shares | "He will buy anywhere between 50,000 to 100,000 shares" |
-
-> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 3.md|How to Trade Breakouts Guide-Part 3]]: - Entry on breakout
-
-> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 3.md|How to Trade Breakouts Guide-Part 3]]: - Stop: $1–2 below entry
-
-> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 3.md|How to Trade Breakouts Guide-Part 3]]: 8. **Order warehousing helps.** Having 50–100 orders ready before the open prevents missing entries.
-
-> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 6.md|How to Trade Breakouts Guide-Part 6]]: 9. **Working people benefit from widely-held lists.** 9 stocks = trivial to monitor. 125 stocks = manageable. Both provide lower-anxiety entries.
-
-> [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 7.md|How to Trade Breakouts Guide-Part 7]]: - **Parts 1-2**: Master the setup (breakout definition, entry, exit, stops)
-
-> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 1.md|Bullish Momentum Burst Guide-Section 1]]: | **Section 4** | Entry, Stops & Trade Management | When to enter, stop placement, position sizing, intraday management |
-
-> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 1.md|Bullish Momentum Burst Guide-Section 1]]: 5. **Day 1 entry is critical** — overdue = overstay = give back profits
-
-> [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 2.md|Bullish Momentum Burst Guide-Section 2]]: | **Section 4** | Entry, Stops & Trade Management | When to enter, stop placement, position sizing, intraday management |
 
 ## Related Concepts
 

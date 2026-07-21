@@ -1,18 +1,26 @@
 ---
 title: "FHP"
-date: 2026-07-03
+date: 2026-07-21
 tags: [setups, wiki, auto-compiled]
-mention_count: 387
-sources_count: 92
+mention_count: 1373
+sources_count: 473
 compilation_count: 1
 promote: false
 ---
 
 # FHP
 
-*Setups — compiled from 387 mentions across 92 sources.*
+*Setups — compiled from 1373 mentions across 473 sources.*
 
 ## Mentions
+
+> [[../../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]: - FHP variant: Focus on High-Priced stocks (> $60) — same $0.90 c-o filter but high-priced = low volatility, more linear/longer moves, institution-dominated
+
+> [[../../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]: | Parameter | Dollar Breakout | 4% Breakout | FHP Breakout |
+
+> [[../../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]: 5. **FHP (High-Priced) variant allows larger position sizing** with closer stops
+
+> [[../../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]: | 2026-05-01 | Mind Clarity FHP Breakout | High-priced variant |
 
 > [[../../03-Guides/stockbee/02. How to Trade Breakouts Guide/How to Trade Breakouts Guide-Part 1.md|How to Trade Breakouts Guide-Part 1]]: **High-priced stocks vs low-priced stocks require different risk tolerance:**
 
@@ -80,19 +88,11 @@ promote: false
 
 > [[../../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]: ### 4. FHP Deep Dive
 
-> [[../../04-Transcripts/stockbee/2026-05-01_3-pm.md|2026-05-01_3-pm]]: This is like a low threshold, high priced stocks.
+> [[../../04-Transcripts/stockbee/2023-11-03_9-am.md|2023-11-03_9-am]]: Then FHP, high priced stocks.
 
-> [[../../04-Transcripts/stockbee/2026-05-01_3-pm.md|2026-05-01_3-pm]]: Crowd kind of things which are high priced and all.
+> [[../../04-Transcripts/stockbee/2023-11-07_11-am.md|2023-11-07_11-am]]: What does FHP stand for?
 
-> [[../../04-Transcripts/stockbee/2026-05-01_3-pm.md|2026-05-01_3-pm]]: It says mind clarity FHP at 8PM.
-
-> [[../../04-Transcripts/stockbee/2026-05-01_9_15-am.md|2026-05-01_9_15-am]]: It's like an so these are boring, high priced stocks, right, and those earnings here.
-
-> [[../../04-Transcripts/stockbee/2026-05-01_9_15-am.md|2026-05-01_9_15-am]]: So this kind of, like, an FHP kind of stocks can also make a move, But, the market has more DEP and EPS kind of things here right away.
-
-> [[../../04-Transcripts/stockbee/2026-05-01_9_15-am.md|2026-05-01_9_15-am]]: For high priced stocks, $550 and low priced stocks, eight to 20%.
-
-> [[../../04-Transcripts/stockbee/2026-05-04_9_15-am.md|2026-05-04_9_15-am]]: There are ways to look at slower things like FHP or, like, institutional quality things and, get.
+> [[../../04-Transcripts/stockbee/2023-11-07_2-pm.md|2023-11-07_2-pm]]: It's a little bit smaller, like, basically, but it's a high priced stock.
 
 ## Related Concepts
 
@@ -110,6 +110,7 @@ promote: false
 - [[../03-Guides/stockbee/05. M20 Guide/05. M20 Guide.md|05. M20 Guide]]
 - [[../03-Guides/stockbee/15. Start of a Swing Guide/15. Start of a Swing Guide.md|15. Start of a Swing Guide]]
 - [[../03-Guides/stockbee/18. Mind Clarity Guide/18. Mind Clarity Guide.md|18. Mind Clarity Guide]]
+- [[../03-Guides/stockbee/SOS-Breakout.md|SOS-Breakout]]
 - [[../04-Transcripts/stockbee/01. How to Get Started/Pradeep Bonde - How to Get Started In Trading Guide-Part 6_deepgram.md|Pradeep Bonde - How to Get Started In Trading Guide-Part 6_deepgram]]
 - [[../04-Transcripts/stockbee/02. How to Trade Breakouts/Pradeep Bonde - How to Trade Breakouts Guide-Part 1_deepgram.md|Pradeep Bonde - How to Trade Breakouts Guide-Part 1_deepgram]]
 - [[../04-Transcripts/stockbee/02. How to Trade Breakouts/Pradeep Bonde - How to Trade Breakouts Guide-Part 2_deepgram.md|Pradeep Bonde - How to Trade Breakouts Guide-Part 2_deepgram]]
@@ -123,4 +124,3 @@ promote: false
 - [[../04-Transcripts/stockbee/05. M20/Pradeep Bonde - M20 Guide-Part 6_deepgram.md|Pradeep Bonde - M20 Guide-Part 6_deepgram]]
 - [[../04-Transcripts/stockbee/14. Sugar Babies Guide/Pradeep Bonde - Sugar Babies Guide-Part 3 - Working People (part 2)_deepgram.md|Pradeep Bonde - Sugar Babies Guide-Part 3 - Working People (part 2)_deepgram]]
 - [[../04-Transcripts/stockbee/14. Sugar Babies Guide/Pradeep Bonde - Sugar Babies Guide-Part 4 - Working People (part 3)_deepgram.md|Pradeep Bonde - Sugar Babies Guide-Part 4 - Working People (part 3)_deepgram]]
-- [[../04-Transcripts/stockbee/15. Start of a Swing Guide/Pradeep Bonde - Start of a Swing Guide-Part 1 - Start of a Swing (2024)_deepgram.md|Pradeep Bonde - Start of a Swing Guide-Part 1 - Start of a Swing (2024)_deepgram]]

@@ -1,18 +1,24 @@
 ---
 title: "DELL"
-date: 2026-07-03
+date: 2026-07-21
 tags: [tickers, wiki, auto-compiled]
-mention_count: 32
-sources_count: 16
+mention_count: 38
+sources_count: 19
 compilation_count: 1
 promote: false
 ---
 
 # DELL
 
-*Tickers — compiled from 32 mentions across 16 sources.*
+*Tickers — compiled from 38 mentions across 19 sources.*
 
 ## Mentions
+
+> [[../../03-Guides/stockbee/Sugar-Babies.md|Sugar-Babies]]: | DELL | Current Sugar Baby; tight setup entries |
+
+> [[Session-2025-08-29|Session-2025-08-29]]: | [[DELL]] | Short — delayed reaction bearish | "Insiders selling hand over fist" |
+
+> [[Session-2025-08-29|Session-2025-08-29]]: 10. **DELL insiders selling hand over fist** — delayed reaction bearish
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-06-01.md|Session-2026-06-01]]: A long-time member blew up his entire account by shorting [[DELL]] — an extended stock with no bearish setup.
 
@@ -76,7 +82,13 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-07-01.md|Session-2026-07-01]]: | [[DELL]] | Start of swing from Sunday list | Held; stop placed around 142; slower follow-through |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]: | [[DELL]] | Start of swing from Sunday list | Held with stop, but slower follow-through |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]: | [[DELL]]                                  | Start of swing from Sunday list         | Held with stop, but slower follow-through                                                          |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-16.md|Session-2026-07-16]]: | [[DELL]] | Twitter called it "true market leader" → faded |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-16.md|Session-2026-07-16]]: | [[DELL]] | Consolidation breakout | "People buying this and getting stopped out, not learning anything" |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-16.md|Session-2026-07-16]]: 4. **Breakouts continue to fail** — CBIT, GS, DELL, PENG all looked good and failed. This is the range-bound pattern.
 
 ## Related Concepts
 
@@ -88,6 +100,8 @@ promote: false
 
 ## Sources
 
+- [[../03-Guides/stockbee/Sugar-Babies.md|Sugar-Babies]]
+- [[../06-Daily/stockbee/Sessions/Session-2025-08-29.md|Session-2025-08-29]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-06-01.md|Session-2026-06-01]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-06-05.md|Session-2026-06-05]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-06-08.md|Session-2026-06-08]]
@@ -104,3 +118,4 @@ promote: false
 - [[../06-Daily/stockbee/Sessions/Session-2026-06-30.md|Session-2026-06-30]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-07-01.md|Session-2026-07-01]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-07-16.md|Session-2026-07-16]]
