@@ -392,14 +392,14 @@ Pradeep's scans are available to **platinum-level StockBee members** as pre-buil
 
 ### Conditions
 
-| Condition | TC2000 PCF / Setting | Purpose |
-|---|---|---|
-| **Universe** | US Common Stocks, ETFs, ADRs | Tradeable universe |
-| **Volume today** | `V >= 8,900,000` | 9M+ shares traded today (8.9M to catch near-9M) |
-| **4% move** | `C >= C1 * 1.04` (bullish) or `C <= C1 * 0.96` (bearish) | 4%+ move = episodic pivot |
-| **Within 75% of high** | `C >= H * 0.75` | Not fading from highs |
-| **Liquidity filter** | `MINv3.1 >= 100,000` | 100K+ avg volume last 3 days (excl. today) |
-| **Price filter (optional)** | `C >= 3` | Skip penny stocks |
+| Condition                   | TC2000 PCF / Setting                                     | Purpose                                         |
+| --------------------------- | -------------------------------------------------------- | ----------------------------------------------- |
+| **Universe**                | US Common Stocks, ETFs, ADRs                             | Tradeable universe                              |
+| **Volume today**            | `V >= 8,900,000`                                         | 9M+ shares traded today (8.9M to catch near-9M) |
+| **4% move**                 | `C >= C1 * 1.04` (bullish) or `C <= C1 * 0.96` (bearish) | 4%+ move = episodic pivot                       |
+| **Within 75% of high**      | `C >= H * 0.75`                                          | Not fading from highs                           |
+| **Liquidity filter**        | `MINv3.1 >= 100,000`                                     | 100K+ avg volume last 3 days (excl. today)      |
+| **Price filter (optional)** | `C >= 3`                                                 | Skip penny stocks                               |
 
 ### Sort
 - **Sort by: Max Volume 25** (descending) — highest 25-day volume first
