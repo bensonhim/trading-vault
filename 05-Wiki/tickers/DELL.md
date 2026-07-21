@@ -1,6 +1,6 @@
 ---
 title: "DELL"
-date: 2026-07-20
+date: 2026-07-21
 tags: [tickers, wiki, auto-compiled]
 mention_count: 38
 sources_count: 19

@@ -1,6 +1,6 @@
 ---
 title: "KO"
-date: 2026-07-20
+date: 2026-07-21
 tags: [tickers, wiki, auto-compiled]
 mention_count: 10
 sources_count: 7
@@ -32,7 +32,7 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-07-16.md|Session-2026-07-16]]: | [[KO]] (Coca-Cola) | Consumer staples rotation | "Do you want to trade a stock like this? Guaranteed you're going to get chopped" |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-07-17.md|Session-2026-07-17]]: | [[KO]] | Defensive rotation | Getting hit now — selling spreading |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-17.md|Session-2026-07-17]]: | [[KO]]                         | Defensive rotation              | Getting hit now — selling spreading                           |
 
 ## Related Concepts
 

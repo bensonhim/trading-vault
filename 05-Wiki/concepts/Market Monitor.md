@@ -1,16 +1,16 @@
 ---
 title: "Market Monitor"
-date: 2026-07-20
+date: 2026-07-21
 tags: [concepts, wiki, auto-compiled]
-mention_count: 5309
-sources_count: 1157
+mention_count: 5324
+sources_count: 1160
 compilation_count: 1
 promote: false
 ---
 
 # Market Monitor
 
-*Concepts — compiled from 5309 mentions across 1157 sources.*
+*Concepts — compiled from 5324 mentions across 1160 sources.*
 
 ## Mentions
 

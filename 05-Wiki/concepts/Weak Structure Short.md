@@ -1,6 +1,6 @@
 ---
 title: "Weak Structure Short"
-date: 2026-07-20
+date: 2026-07-21
 tags: [concepts, wiki, auto-compiled]
 mention_count: 462
 sources_count: 252

@@ -1,16 +1,16 @@
 ---
 title: "Stops"
-date: 2026-07-20
+date: 2026-07-21
 tags: [concepts, wiki, auto-compiled]
-mention_count: 735
-sources_count: 397
+mention_count: 736
+sources_count: 398
 compilation_count: 1
 promote: false
 ---
 
 # Stops
 
-*Concepts — compiled from 735 mentions across 397 sources.*
+*Concepts — compiled from 736 mentions across 398 sources.*
 
 ## Mentions
 
