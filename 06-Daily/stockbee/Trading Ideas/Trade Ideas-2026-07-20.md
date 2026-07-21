@@ -193,18 +193,18 @@ RS_20d: -4.79 | RS_65d: 2.28
 
 ### DEP Limit Orders
 
-| Ticker | Entry (Limit) | Stop | Width | Consolidation | Breakout Date |
-|--------|---------------|------|-------|---------------|---------------|
-| CRNX | $84.10 | $83.27 | 1.0% | 9d, 0.67% | 13d ago |
-| TECH | $71.49 | $70.35 | 1.6% | 10d, 1.28% | 25d ago |
-| ABT | $102.56 | $100.00 | 2.5% | 2d, 3.01% | 4d ago |
-| PYPL | $57.77 | $56.33 | 2.5% | 3d, 4.32% | 5d ago |
-| XOM | $150.15 | $146.40 | 2.5% | 5d, 5.61% | 7d ago |
-| MRK | $130.42 | $127.16 | 2.5% | 10d, 6.01% | 25d ago |
-| BKR | $59.23 | $57.75 | 2.5% | 8d, 7.41% | 12d ago |
-| NKE | $45.14 | $44.01 | 2.5% | 10d, 7.65% | 19d ago |
-| CMCSA | $24.80 | $24.18 | 2.5% | 10d, 8.33% | 21d ago |
-| SNAP | $4.98 | $4.86 | 2.5% | 10d, 8.44% | 19d ago |
+| Ticker | Entry (Limit) | Stop    | Width | Consolidation | Breakout Date |
+| ------ | ------------- | ------- | ----- | ------------- | ------------- |
+| CRNX   | $84.10        | $83.27  | 1.0%  | 9d, 0.67%     | 13d ago       |
+| TECH   | $71.49        | $70.35  | 1.6%  | 10d, 1.28%    | 25d ago       |
+| ABT    | $102.56       | $100.00 | 2.5%  | 2d, 3.01%     | 4d ago        |
+| PYPL   | $57.77        | $56.33  | 2.5%  | 3d, 4.32%     | 5d ago        |
+| XOM    | $150.15       | $146.40 | 2.5%  | 5d, 5.61%     | 7d ago        |
+| MRK    | $130.42       | $127.16 | 2.5%  | 10d, 6.01%    | 25d ago       |
+| BKR    | $59.23        | $57.75  | 2.5%  | 8d, 7.41%     | 12d ago       |
+| NKE    | $45.14        | $44.01  | 2.5%  | 10d, 7.65%    | 19d ago       |
+| CMCSA  | $24.80        | $24.18  | 2.5%  | 10d, 8.33%    | 21d ago       |
+| SNAP   | $4.98         | $4.86   | 2.5%  | 10d, 8.44%    | 19d ago       |
 
 ### ANTS BSLO Orders (top 10 — sorted by tight tier)
 
@@ -225,28 +225,28 @@ RS_20d: -4.79 | RS_65d: 2.28
 
 ## 7. Active Sugar Babies
 
-| Rank | Ticker | 21d | 5d | 504d | Tier |
-|------|--------|-----|-----|------|------|
-| 1 | ATAI | 6 | 2 | 14 | core |
-| 2 | COMP | 6 | 2 | 32 | core |
-| 3 | DRAM | 6 | 2 | 15 | core |
-| 4 | FCEL | 6 | 2 | 23 | core |
-| 5 | MSTZ | 6 | 2 | 70 | core |
-| 6 | NWL | 6 | 2 | 24 | expanded |
-| 7 | SMCI | 6 | 1 | 74 | expanded |
-| 8 | SOXS | 6 | 1 | 35 | core |
-| 9 | AMD | 6 | 0 | 54 | core |
-| 10 | IBRX | 5 | 3 | 32 | core |
-| 11 | JBLU | 5 | 2 | 59 | core |
-| 12 | RXRX | 5 | 2 | 65 | core |
-| 13 | SLS | 5 | 2 | 14 | core |
-| 14 | AMAT | 5 | 1 | 22 | expanded |
-| 15 | CIFR | 5 | 1 | 73 | core |
-| 16 | FRMI | 5 | 1 | 19 | core |
-| 17 | HIMS | 5 | 1 | 67 | core |
-| 18 | HIVE | 5 | 1 | 30 | expanded |
-| 19 | HOOD | 5 | 1 | 57 | expanded |
-| 20 | KEEL | 5 | 1 | 21 | core |
+| Rank | Ticker | 21d | 5d  | 504d | Tier     |
+| ---- | ------ | --- | --- | ---- | -------- |
+| 1    | ATAI   | 6   | 2   | 14   | core     |
+| 2    | COMP   | 6   | 2   | 32   | core     |
+| 3    | DRAM   | 6   | 2   | 15   | core     |
+| 4    | FCEL   | 6   | 2   | 23   | core     |
+| 5    | MSTZ   | 6   | 2   | 70   | core     |
+| 6    | NWL    | 6   | 2   | 24   | expanded |
+| 7    | SMCI   | 6   | 1   | 74   | expanded |
+| 8    | SOXS   | 6   | 1   | 35   | core     |
+| 9    | AMD    | 6   | 0   | 54   | core     |
+| 10   | IBRX   | 5   | 3   | 32   | core     |
+| 11   | JBLU   | 5   | 2   | 59   | core     |
+| 12   | RXRX   | 5   | 2   | 65   | core     |
+| 13   | SLS    | 5   | 2   | 14   | core     |
+| 14   | AMAT   | 5   | 1   | 22   | expanded |
+| 15   | CIFR   | 5   | 1   | 73   | core     |
+| 16   | FRMI   | 5   | 1   | 19   | core     |
+| 17   | HIMS   | 5   | 1   | 67   | core     |
+| 18   | HIVE   | 5   | 1   | 30   | expanded |
+| 19   | HOOD   | 5   | 1   | 57   | expanded |
+| 20   | KEEL   | 5   | 1   | 21   | core     |
 
 ### Sugar Babies in Hot Sectors
 

@@ -26,16 +26,16 @@ The same applies to a restaurant — you don't ask "where's the menu?" when the 
 
 ## Pradeep's Setups (The Production Lines)
 
-| Setup | Type | When to Prioritize |
-|---|---|---|
-| **EP** | Episodic Pivot (4%+ move, high volume) | Always — the core |
-| **EP 9M** | EP with 9M+ shares traded | Always — primary setup |
-| **DEP** | Daily EP (EP 9M from last 25 days, setting up again) | Always — on fund-quality stocks |
-| **Sugar Baby** | Neglected stock with mind-blowing catalyst | Always — home-run potential |
-| **SIPs** | Stock in Play (day trading) | Only when SA says breakouts won't work |
-| **Momentum Burst (MB)** | 3-5 day swing | When breakouts are working |
-| **Anticipation** | Buy before a breakout | Selectively; PM only (moved from AM) |
-| **Reversal Bullish** | Buy a bottom reversal | Selectively; entered at 3:58 PM |
+| Setup                   | Type                                                 | When to Prioritize                     |
+| ----------------------- | ---------------------------------------------------- | -------------------------------------- |
+| **EP**                  | Episodic Pivot (4%+ move, high volume)               | Always — the core                      |
+| **EP 9M**               | EP with 9M+ shares traded                            | Always — primary setup                 |
+| **DEP**                 | Daily EP (EP 9M from last 25 days, setting up again) | Always — on fund-quality stocks        |
+| **Sugar Baby**          | Neglected stock with mind-blowing catalyst           | Always — home-run potential            |
+| **SIPs**                | Stock in Play (day trading)                          | Only when SA says breakouts won't work |
+| **Momentum Burst (MB)** | 3-5 day swing                                        | When breakouts are working             |
+| **Anticipation**        | Buy before a breakout                                | Selectively; PM only (moved from AM)   |
+| **Reversal Bullish**    | Buy a bottom reversal                                | Selectively; entered at 3:58 PM        |
 
 **Key rule on SIPs:**
 > "If breakouts are going to work, I don't even bother going into SIPs because then it becomes a distraction. When market conditions are good, the main business of this trade factory is swing trading."
