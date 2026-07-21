@@ -611,3 +611,396 @@ If you have StockBee platinum membership:
 
 > "If you have a platinum level membership, you'll see something called 'Scan Used Daily.' That's platinum. ... All the scans are here. Combo scan, easy scan, what scan is what — it is all here in this document."  
 > — How to Master TC2000 video (June 18, 2026)
+
+---
+
+# Supplementary C: TC2000 Plan Verification — Do You Need Premium+?
+
+## Verified: Premium ($49.99/mo) Is Enough for All Scans
+
+Checked against TC2000's official pricing page (tc2000.com/pricing, July 2026):
+
+| Feature | Basic ($24.99) | **Premium ($49.99)** | Premium+ ($99.99) |
+|---|---|---|---|
+| Real-time US stock data | Included | **Included** | Included |
+| EasyScan Wizard | Not available | **Included** | Included |
+| Real-time scanning & sorting | Not available | **Included** | Included |
+| PCF formulas | Not available | **Included** | Included |
+| Chart drawing tools | Not available | **Included** | Included |
+| Alerts | 0 | **100** | 1,000 |
+| **Live auto-refreshing filters & sorts** | Not available | **Not available** | Included |
+| Real-time Market-Pulse gauges | Not available | **Not available** | Included |
+
+## The One Feature You're Missing (And Why It Doesn't Matter)
+
+The warning you saw is about **"Live Auto-Refreshing Filters & Sorts"** — a Premium+ feature. Here's what it does:
+
+| What You Have (Premium) | What Premium+ Adds |
+|---|---|
+| **On-demand scanning** — click "Scan" → results in ~2 seconds | **Auto-refreshing scans** — results update continuously without clicking |
+| You click "Refresh" or re-run the scan to see new data | The watchlist updates live, automatically, no clicking needed |
+
+**Pradeep uses auto-refreshing (Premium+).** His scans update continuously without him clicking. On Premium, you get the **exact same scan results** — you just need to **click the "Scan" button or press the refresh icon** periodically to see updated data.
+
+### How to Work Around It on Premium
+
+During market hours (9:30 AM – 4:00 PM), simply:
+1. Click the **"Scan" button** (or press the refresh icon) every few minutes
+2. Results appear in ~2 seconds
+3. Sort by volume → review → enter if qualified
+4. Repeat
+
+This is a **minor inconvenience**, not a dealbreaker. The scan conditions, PCF formulas, and sorting are all identical between Premium and Premium+.
+
+> "EasyScan runs on TC2000's own servers and processes thousands of symbols in two seconds."  
+> — TC2000 review
+
+### Should You Upgrade to Premium+?
+
+**For most traders: No.** Premium covers 95% of what Pradeep does. The auto-refresh is nice but not essential. You're paying $50/month extra for:
+- Auto-refreshing scans (nice but not essential — just click refresh)
+- Market-Pulse gauges (Pradeep uses these, but they're a bonus, not core)
+- 1,000 alerts instead of 100
+- $300/year brokerage discount (if you use TC2000 Brokerage with $30K balance)
+
+**Upgrade only if:** you find clicking "refresh" is causing you to miss entries, or you want to build custom market-breadth indicators (Pradeep's 20% study style).
+
+---
+
+# Supplementary D: Step-by-Step EasyScan Setup Guide for TC2000 Premium
+
+This is a **beginner-friendly, click-by-click guide** for setting up each scan in TC2000 on the Premium plan. No prior TC2000 experience needed.
+
+## Before You Start
+
+### Step 0: Download and Install TC2000
+
+1. Go to [tc2000.com/download](https://www.tc2000.com/download)
+2. Download the **Windows desktop client** (fastest, full-featured)
+   - Mac users: use the [web platform](https://webplatform.tc2000.com/) instead
+3. Install and log in with your Premium account credentials
+4. You should see the default layout with charts and watchlists
+
+### Step 0b: Understand the TC2000 Interface
+
+When you open TC2000, you'll see:
+- **Top menu bar** — File, Edit, View, Insert, Format, Scan, Window, Help
+- **Left panel** — Watchlists and scan results
+- **Center** — Charts
+- **Bottom** — TeleChart command line (for PCF formulas)
+
+The key areas you'll use:
+- **"Scan" menu** (top bar) → where you create and run EasyScans
+- **Watchlist panel** (left) → where scan results appear
+- **PCF formula bar** (bottom) → where you type custom formulas
+
+---
+
+## Scan 1: EP 9M — Step by Step
+
+### Step 1: Open the EasyScan Builder
+
+1. Click **"Scan"** in the top menu bar
+2. Select **"EasyScan"** from the dropdown
+3. The EasyScan dialog box appears
+
+### Step 2: Name Your Scan
+
+1. In the EasyScan dialog, click the **"New"** button (or the pencil icon to rename)
+2. Type: `EP 9M Bullish`
+3. Press Enter
+
+### Step 3: Set the Universe (Which Stocks to Scan)
+
+1. In the EasyScan dialog, look for the **"Universe"** or **"Symbols"** section
+2. Click the dropdown or **"Add"** button
+3. Select **"US Common Stocks"**
+4. Click **"Add"** again and select **"ETFs"**
+5. Click **"Add"** again and select **"ADRs"**
+6. These three universes combined cover ~12,366 tradeable instruments
+
+### Step 4: Add Condition 1 — Volume ≥ 8.9 Million
+
+1. In the EasyScan dialog, click **"Add Condition"** (or the **"+"** button)
+2. A condition builder dialog appears
+3. You have two options:
+
+**Option A: Use the Condition Wizard (beginner-friendly)**
+   - Click **"Volume"** in the category list
+   - Select **"Current Volume"** or **"Today's Volume"**
+   - Set the comparison: **"Greater than or equal to"**
+   - Set the value: **`8900000`**
+   - Click **"OK"** or **"Add"**
+
+**Option B: Write a PCF Formula (faster)**
+   - Click **"Formula"** or **"PCF"** tab
+   - Type: `V >= 8900000`
+   - Click **"OK"**
+   - Name it: "9M Volume" (optional)
+
+### Step 5: Add Condition 2 — 4%+ Move (Bullish)
+
+1. Click **"Add Condition"** again
+2. **Option A (Wizard):**
+   - Click **"Price"** → **"Close"** → **"Percent Change"**
+   - Set: **"Greater than or equal to"** → **`4`** (percent)
+   - Click **"OK"**
+3. **Option B (PCF):**
+   - Type: `C >= C1 * 1.04`
+   - This means: today's close ≥ 4% above yesterday's close
+   - Click **"OK"**
+
+### Step 6: Add Condition 3 — Within 75% of Day's High
+
+1. Click **"Add Condition"** again
+2. **Option A (Wizard):**
+   - Click **"Price"** → **"Close"** → select **"Close vs High"** or **"Position in Range"**
+   - Set: Close ≥ 75% of High
+   - Click **"OK"**
+3. **Option B (PCF):**
+   - Type: `C >= H * 0.75`
+   - This means: current price is within 75% of today's high (not fading)
+   - Click **"OK"**
+
+### Step 7: Add Liquidity Filter
+
+1. Click **"Add Condition"** again
+2. **Option A (Wizard):**
+   - Click **"Volume"** → **"Average Volume"**
+   - Set period: **3 days** (excluding today — use the "3.1" convention)
+   - Set: **"Greater than or equal to"** → **`100000`**
+   - Click **"OK"**
+3. **Option B (PCF):**
+   - Type: `MINv3.1 >= 100000`
+   - This means: minimum volume over last 3 days (excluding today) ≥ 100K
+   - Click **"OK"**
+
+### Step 8: Add Price Filter (Optional)
+
+1. Click **"Add Condition"** again
+2. **PCF:** `C >= 3`
+3. This skips penny stocks below $3
+
+### Step 9: Set the Sort Order
+
+1. In the EasyScan dialog, look for the **"Sort"** or **"Sort By"** dropdown
+2. Select **"Max Volume 25"** (or "MaxVol25")
+   - This sorts by the highest 25-day volume, descending
+   - The highest-volume stocks appear at the top
+3. If you don't see "Max Volume 25" in the dropdown:
+   - Click **"Add Sort Column"**
+   - Search for "Max Volume" or "MaxVol"
+   - Select the 25-period version
+
+### Step 10: Save and Run
+
+1. Click **"Save"** or **"Save & Scan"**
+2. The scan runs immediately (~2 seconds)
+3. Results appear in a watchlist on the left panel
+4. To **refresh** during market hours: click the **"Scan" button** again or press the **refresh icon** (circular arrow)
+
+### Your EP 9M Scan Is Now Ready
+
+You should see ~200-250 stocks by 3 PM on a normal day. In the first 15 minutes (9:30-9:45), you'll see ~10-20 early volume leaders.
+
+---
+
+## Scan 2: Combo Bullish — Step by Step
+
+### Step 1: Create New EasyScan
+
+1. Click **"Scan"** → **"EasyScan"**
+2. Click **"New"**
+3. Name: `Combo Bullish`
+
+### Step 2: Set Universe
+
+Same as EP 9M: US Common Stocks + ETFs + ADRs
+
+### Step 3: Add Conditions
+
+| Condition # | What to Add | PCF Formula |
+|---|---|---|
+| 1 | 4%+ breakout | `C >= C1 * 1.04` |
+| 2 | Volume ≥ 1M | `V >= 1000000` |
+| 3 | Liquidity filter | `MINv3.1 >= 100000` |
+| 4 | Price ≥ $3 | `C >= 3` |
+
+### Step 4: Sort By
+
+- **Max Volume 25** (descending)
+
+### Step 5: Save and Run
+
+Click **"Save & Scan"**. You'll see more stocks than EP 9M (because the volume threshold is lower — 1M vs 8.9M). This is the early warning scan.
+
+---
+
+## Scan 3: Combo Bearish — Step by Step
+
+### Step 1: Create New EasyScan
+
+1. Click **"Scan"** → **"EasyScan"**
+2. Click **"New"**
+3. Name: `Combo Bearish`
+
+### Step 2: Set Universe
+
+Same as above: US Common Stocks + ETFs + ADRs
+
+### Step 3: Add Conditions
+
+| Condition # | What to Add | PCF Formula |
+|---|---|---|
+| 1 | 4%+ breakdown | `C <= C1 * 0.96` |
+| 2 | Volume ≥ 1M | `V >= 1000000` |
+| 3 | Liquidity filter | `MINv3.1 >= 100000` |
+| 4 | Price ≥ $3 | `C >= 3` |
+
+### Step 4: Sort By
+
+- **Max Volume 25** (descending)
+
+### Step 5: Save and Run
+
+---
+
+## Scan 4: Sugar Wave (Sugar Baby) — Step by Step
+
+### Option A: Use Pradeep's Shared Link (StockBee Platinum Members Only)
+
+1. Log in to StockBee.biz
+2. Go to the **Timeline** (members forum)
+3. Find Pradeep's post from **July 3, 2026** where he shared a sugar baby scan link
+4. Click the link — it will open TC2000 and import the scan automatically
+5. The scan appears in your EasyScan list
+
+### Option B: Build It Manually
+
+The sugar baby scan is more complex — it looks for stocks that have repeatedly made big moves after EP 9M signals. Here's an approximation:
+
+1. Click **"Scan"** → **"EasyScan"** → **"New"**
+2. Name: `Sugar Wave`
+3. Set Universe: US Common Stocks
+4. Add Conditions:
+   - `C >= 3` (price ≥ $3)
+   - `MINv3.1 >= 100000` (liquidity)
+   - Historical volatility: stocks that have made 40%+ moves in the past year
+   - Repeated EP 9M history: stocks that have had multiple 9M+ volume days in the last 12 months
+5. This is hard to encode in a simple PCF — the shared link (Option A) is the recommended approach
+6. Sort by: **Max Volume 25** (descending)
+
+> **Note:** Pradeep adjusted a member's shared scan by changing some parameters to 4, 3, 3. The exact parameters are in the timeline post. If you're a platinum member, use the shared link — it's much easier.
+
+---
+
+## Scan 5: SOS Filter — How to Apply
+
+SOS is **not a separate scan** — it's a **manual visual filter** you apply to the EP 9M results.
+
+### Step 1: Run the EP 9M Scan
+
+Click "Scan" on your EP 9M scan → ~200 stocks appear
+
+### Step 2: Apply the SOS Filter Manually
+
+For each stock in the EP 9M results, ask these 4 questions by looking at the chart:
+
+| Question | How to Check | What You Want to See |
+|---|---|---|
+| **Is this the first day of a swing?** | Look at the daily chart — were there prior breakout days in the last 3-5 days? | No prior swing days → ✅ First day |
+| **Did it open strong?** | Did the stock gap up or open above yesterday's close? | Open > yesterday's close → ✅ |
+| **Is it holding gains?** | Is the current price within 75% of today's high? | Not fading → ✅ |
+| **Is volume confirming?** | Is volume building, not drying up? | Volume increasing → ✅ |
+
+### Step 3: Narrow to 3-10 Candidates
+
+After applying the SOS filter, you should narrow ~200 stocks down to ~3-10 actionable candidates.
+
+### Step 4: Classify Each Candidate
+
+For each SOS-qualified stock:
+
+| Classification | Meaning | Sizing |
+|---|---|---|
+| **Cat** | Real catalyst (earnings, product launch, big order) | Size big |
+| **Dog** | Story/fugazi catalyst (crypto juice, AI rebrand) | Size small |
+| **Liquid Lava** | No catalyst, just volume (e.g., Intel trades 9M daily) | Size big if real business, skip if not |
+
+### Step 5: Enter
+
+- Click the stock → chart opens
+- Set stop: **low of the day** (or half of the day, depending on conviction)
+- Set position size: based on your risk / stop distance
+- Click buy → OPG or market order
+
+### Optional: SOS as a TC2000 Condition
+
+If you want to build SOS as a TC2000 condition to pre-filter:
+
+1. In your EP 9M EasyScan, click **"Add Condition"**
+2. Add PCF: `O > C1 * 1.02`
+   - This filters for stocks that opened 2%+ above yesterday's close
+3. This is an approximation — the "first day of swing" check still needs to be done visually
+
+---
+
+## Quick Reference: All 5 Scans Summary
+
+| Scan | Universe | Key PCF Conditions | Sort | Refresh |
+|---|---|---|---|---|
+| **EP 9M** | US Stocks + ETFs + ADRs | `V >= 8900000 AND C >= C1*1.04 AND C >= H*0.75 AND MINv3.1 >= 100000` | Max Vol 25 | Click "Scan" every few min |
+| **Combo Bullish** | US Stocks + ETFs + ADRs | `C >= C1*1.04 AND V >= 1000000 AND MINv3.1 >= 100000` | Max Vol 25 | Click "Scan" every few min |
+| **Combo Bearish** | US Stocks + ETFs + ADRs | `C <= C1*0.96 AND V >= 1000000 AND MINv3.1 >= 100000` | Max Vol 25 | Click "Scan" every few min |
+| **Sugar Wave** | US Common Stocks | Use Pradeep's shared link (platinum) or approximate | Max Vol 25 | Daily |
+| **SOS Filter** | Applied on EP 9M results | `O > C1*1.02` (approximation) + visual check | N/A | With EP 9M |
+
+## Tips for TC2000 Premium Users
+
+1. **Organize your scans** — Use Pradeep's naming convention: put bullish scans at the top, bearish below. Use prefixes like "A - EP 9M", "B - Combo Bullish" to keep them sorted.
+
+2. **Save your layout** — After setting up all scans, save the layout:
+   - **File → Save Layout As → "StockBee Trade Factory"**
+   - This saves your scan windows, chart setup, and watchlist arrangement
+   - Next morning: just open the layout and you're ready
+
+3. **Create watchlist tabs** — Right-click the watchlist panel → **"New Watchlist Tab"**:
+   - Tab 1: "EP 9M" (scan results)
+   - Tab 2: "Combo Bullish" (scan results)
+   - Tab 3: "Combo Bearish" (scan results)
+   - Tab 4: "Sugar Wave" (daily watchlist)
+   - Tab 5: "Open Positions" (your current trades)
+
+4. **Add useful columns** — Right-click any watchlist column header → **"Add Column"**:
+   - Volume (today)
+   - % Change (today)
+   - Float
+   - Market Cap
+   - Fund Ownership (if available)
+   - 52-Week High/Low
+
+5. **Keyboard shortcuts**:
+   - **Spacebar** — flip to next chart (review 100+ charts in minutes)
+   - **F5** — refresh scan results
+   - **Ctrl+S** — save scan
+
+6. **Refresh during market hours** — Since Premium doesn't auto-refresh:
+   - Click the **"Scan" button** (or press F5) every 3-5 minutes during 9:30-10:30 AM
+   - Do the same during 1:30-3:00 PM
+   - Results appear in ~2 seconds
+
+7. **Pre-market setup** — Before 9:30 AM:
+   - Run Combo Bullish and Combo Bearish to see pre-market gaps
+   - These scans work pre-market (use pre-market data feed)
+   - Set up your OPG orders based on what you find
+
+## Common Issues and Solutions
+
+| Problem | Solution |
+|---|---|
+| "You need Premium+ for this feature" warning | You clicked on auto-refresh. Click "Scan" or "Run" instead — this works on Premium. |
+| No results in EP 9M scan | Market hasn't opened yet. EP 9M needs intraday volume. Run after 9:30 AM. |
+| Too many results in Combo scan | Add a price filter (`C >= 3`) and liquidity filter (`MINv3.1 >= 100000`) to narrow |
+| "Max Volume 25" not in sort dropdown | Click "Add Sort Column" → search "MaxVol" or "Max Volume" → select 25-period |
+| Scan is slow | Remove the "1450" condition (if using sugar baby scan) — it slows down significantly |
+| Can't find PCF formula bar | Go to View → Command Line (or press Ctrl+L) |

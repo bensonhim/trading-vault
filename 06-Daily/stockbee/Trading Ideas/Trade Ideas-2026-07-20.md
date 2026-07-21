@@ -171,18 +171,18 @@ RS_20d: -4.79 | RS_65d: 2.28
 
 > Pradeep: top of list = reversals (skip), middle = orderly pullbacks (**buy**), bottom = extended (skip).
 
-| Ticker | TI65 | C65 | C/C7  | Change% | Close   | Volume     |
-| ------ | ---- | --- | ----- | ------- | ------- | ---------- |
-| DWSN   | 1.13 | 83  | 0.614 | -1.8%   | $4.40   | 122,665    |
-| PENG   | 1.29 | 70  | 0.654 | -11.9%  | $53.23  | 6,101,349  |
-| RGNX   | 1.29 | 23  | 0.659 | +4.3%   | $10.32  | 2,279,179  |
-| WYFI   | 1.11 | 51  | 0.699 | +7.9%   | $27.13  | 2,192,644  |
-| ABSI   | 1.34 | 67  | 0.711 | -1.7%   | $8.16   | 3,069,573  |
-| BLZE   | 1.64 | 58  | 0.738 | -0.5%   | $13.16  | 1,898,212  |
-| ALAB   | 1.13 | 66  | 0.740 | +1.8%   | $309.09 | 2,915,023  |
-| APPS   | 1.28 | 49  | 0.744 | +0.0%   | $8.34   | 2,378,357  |
-| SLDB   | 1.17 | 58  | 0.758 | -3.1%   | $8.45   | 1,000,117  |
-| BB     | 1.22 | 67  | 0.772 | -1.8%   | $8.83   | 15,771,276 |
+| Ticker | TI65 | C65 | C/C7 | Change% | Close | Volume |
+|--------|------|-----|------|---------|-------|--------|
+| DWSN | 1.13 | 83 | 0.614 | -1.8% | $4.40 | 122,665 |
+| PENG | 1.29 | 70 | 0.654 | -11.9% | $53.23 | 6,101,349 |
+| RGNX | 1.29 | 23 | 0.659 | +4.3% | $10.32 | 2,279,179 |
+| WYFI | 1.11 | 51 | 0.699 | +7.9% | $27.13 | 2,192,644 |
+| ABSI | 1.34 | 67 | 0.711 | -1.7% | $8.16 | 3,069,573 |
+| BLZE | 1.64 | 58 | 0.738 | -0.5% | $13.16 | 1,898,212 |
+| ALAB | 1.13 | 66 | 0.740 | +1.8% | $309.09 | 2,915,023 |
+| APPS | 1.28 | 49 | 0.744 | +0.0% | $8.34 | 2,378,357 |
+| SLDB | 1.17 | 58 | 0.758 | -3.1% | $8.45 | 1,000,117 |
+| BB | 1.22 | 67 | 0.772 | -1.8% | $8.83 | 15,771,276 |
 
 ---
 
@@ -269,18 +269,18 @@ RS_20d: -4.79 | RS_65d: 2.28
 
 ### DEP Limit Orders
 
-| Ticker | Entry (Limit) | Stop    | Width | Consolidation | Breakout Date |
-| ------ | ------------- | ------- | ----- | ------------- | ------------- |
-| CRNX   | $84.10        | $83.27  | 1.0%  | 9d, 0.67%     | 13d ago       |
-| TECH   | $71.49        | $70.35  | 1.6%  | 10d, 1.28%    | 25d ago       |
-| ABT    | $102.56       | $100.00 | 2.5%  | 2d, 3.01%     | 4d ago        |
-| PYPL   | $57.77        | $56.33  | 2.5%  | 3d, 4.32%     | 5d ago        |
-| XOM    | $150.15       | $146.40 | 2.5%  | 5d, 5.61%     | 7d ago        |
-| MRK    | $130.42       | $127.16 | 2.5%  | 10d, 6.01%    | 25d ago       |
-| BKR    | $59.23        | $57.75  | 2.5%  | 8d, 7.41%     | 12d ago       |
-| NKE    | $45.14        | $44.01  | 2.5%  | 10d, 7.65%    | 19d ago       |
-| CMCSA  | $24.80        | $24.18  | 2.5%  | 10d, 8.33%    | 21d ago       |
-| SNAP   | $4.98         | $4.86   | 2.5%  | 10d, 8.44%    | 19d ago       |
+| Ticker | Entry (Limit) | Stop | Width | Consolidation | Breakout Date |
+|--------|---------------|------|-------|---------------|---------------|
+| CRNX | $84.10 | $83.27 | 1.0% | 9d, 0.67% | 13d ago |
+| TECH | $71.49 | $70.35 | 1.6% | 10d, 1.28% | 25d ago |
+| ABT | $102.56 | $100.00 | 2.5% | 2d, 3.01% | 4d ago |
+| PYPL | $57.77 | $56.33 | 2.5% | 3d, 4.32% | 5d ago |
+| XOM | $150.15 | $146.40 | 2.5% | 5d, 5.61% | 7d ago |
+| MRK | $130.42 | $127.16 | 2.5% | 10d, 6.01% | 25d ago |
+| BKR | $59.23 | $57.75 | 2.5% | 8d, 7.41% | 12d ago |
+| NKE | $45.14 | $44.01 | 2.5% | 10d, 7.65% | 19d ago |
+| CMCSA | $24.80 | $24.18 | 2.5% | 10d, 8.33% | 21d ago |
+| SNAP | $4.98 | $4.86 | 2.5% | 10d, 8.44% | 19d ago |
 
 ### ANTS BSLO Orders (top 10 — sorted by tight tier)
 
@@ -326,13 +326,13 @@ RS_20d: -4.79 | RS_65d: 2.28
 
 ### Sugar Babies in Hot Sectors (with active setups today)
 
-| Ticker | SB Tier  | 504d | 21d | 10d | 5d  | Recency | Sector ETF | RS Rank                   | Status |
-| ------ | -------- | ---- | --- | --- | --- | ------- | ---------- | ------------------------- | ------ |
-| META   | expanded | 15   | 3   | 2   | 1   | 29      | XLC (#2)   | SETTING UP (ACTIVE (5d))  |        |
-| NFLX   | expanded | 7    | 2   | 1   | 1   | 21      | XLC (#2)   | SETTING UP (ACTIVE (5d))  |        |
-| PYPL   | expanded | 6    | 2   | 1   | 1   | 21      | FINX (#3)  | SETTING UP (ACTIVE (5d))  |        |
-| CMCSA  | expanded | 5    | 1   | 1   | 1   | 18      | XLC (#2)   | SETTING UP (ACTIVE (5d))  |        |
-| SNAP   | expanded | 36   | 2   | 1   | 0   | 11      | XLC (#2)   | SETTING UP (ACTIVE (10d)) |        |
+| Ticker | SB Tier | 504d | 21d | 10d | 5d | Recency | Sector ETF | RS Rank | Status |
+|--------|---------|------|-----|-----|-----|---------|-----------|---------|--------|
+| META | expanded | 15 | 3 | 2 | 1 | 29 | XLC (#2) | SETTING UP (ACTIVE (5d)) |
+| NFLX | expanded | 7 | 2 | 1 | 1 | 21 | XLC (#2) | SETTING UP (ACTIVE (5d)) |
+| PYPL | expanded | 6 | 2 | 1 | 1 | 21 | FINX (#3) | SETTING UP (ACTIVE (5d)) |
+| CMCSA | expanded | 5 | 1 | 1 | 1 | 18 | XLC (#2) | SETTING UP (ACTIVE (5d)) |
+| SNAP | expanded | 36 | 2 | 1 | 0 | 11 | XLC (#2) | SETTING UP (ACTIVE (10d)) |
 
 *Recency = 5d×10 + 10d×5 + 21d×3 (Pradeep's recency weighting). Higher = more recent breakout activity.*
 
@@ -370,6 +370,8 @@ RS_20d: -4.79 | RS_65d: 2.28
   - EMA10: $77.68
   - EMA20: $66.24
   - Price above all EMAs (uptrend confirmed)
+- TI65: 1.89 (bullish **YOUNG MOMENTUM**) | C65=1 D65=0
+  C/C7=1.003 (sort ascending for pullbacks)
 
 
 **TECH**
@@ -391,6 +393,8 @@ RS_20d: -4.79 | RS_65d: 2.28
   - EMA10: $70.96
   - EMA20: $67.46
   - Nearest EMA: EMA5 (0.0% away)
+- TI65: 1.25 (bullish **YOUNG MOMENTUM**) | C65=1 D65=0
+  C/C7=1.007 (sort ascending for pullbacks)
 
 
 **ABT**
@@ -410,6 +414,8 @@ RS_20d: -4.79 | RS_65d: 2.28
   - EMA10: $95.91
   - EMA20: $93.93
   - Price above all EMAs (uptrend confirmed)
+- TI65: 1.05 (bullish **YOUNG MOMENTUM**) | C65=1 D65=0
+  C/C7=1.077 (sort ascending for pullbacks)
 
 
 **PYPL**
@@ -431,6 +437,8 @@ RS_20d: -4.79 | RS_65d: 2.28
   - EMA10: $51.64
   - EMA20: $48.32
   - Price above all EMAs (uptrend confirmed)
+- TI65: 1.14 (bullish **YOUNG MOMENTUM**) | C65=1 D65=0
+  C/C7=1.254 (sort ascending for pullbacks)
 
 
 **XOM**
@@ -449,6 +457,8 @@ RS_20d: -4.79 | RS_65d: 2.28
   - EMA10: $144.15
   - EMA20: $143.25
   - Price above all EMAs (uptrend confirmed)
+- TI65: 0.99 (neutral) | C65=0 D65=0
+  C/C7=1.079 (sort ascending for pullbacks)
 
 
 **ACHR**
@@ -464,6 +474,7 @@ RS_20d: -4.79 | RS_65d: 2.28
   - 2026-07-01: +13.5% total (2d swing) | Entry: $4.92 | Stop: $4.71 | Last Close: $5.37 | Vol: 41,806,132 | BREAKEVEN
   - 2026-06-15: +9.3% total | Entry: $5.28 | Stop: $5.27 | Last Close: $5.55 | Vol: 57,338,132 | BREAKEVEN
   - 2026-06-11: +5.0% total | Entry: $5.25 | Stop: $4.88 | Last Close: $5.30 | Vol: 42,626,407 | SUCCESS
+- Catalyst: Magna 53: MGN + Cap10xx10
 - EMA:
   - EMA5: $4.84
   - EMA8: $4.82
@@ -472,6 +483,8 @@ RS_20d: -4.79 | RS_65d: 2.28
   - **Pullback rejection at EMA5 ($4.84)**
     Low $4.61 dipped to EMA, closed $5.31 above (+9.7%)
   - Price above all EMAs (uptrend confirmed)
+- TI65: 0.84 (bearish) | C65=0 D65=1
+  C/C7=1.095 (sort ascending for pullbacks)
 
 
 **CRCL**
@@ -495,6 +508,8 @@ RS_20d: -4.79 | RS_65d: 2.28
   - **Pullback rejection at EMA5 ($63.38)**
     Low $60.87 dipped to EMA, closed $65.45 above (+3.3%)
   - Nearest EMA: EMA10 (1.8% away)
+- TI65: 0.70 (bearish) | C65=0 D65=1
+  C/C7=1.039 (sort ascending for pullbacks)
 
 
 **INTR**
@@ -518,6 +533,8 @@ RS_20d: -4.79 | RS_65d: 2.28
   - **Pullback rejection at EMA5 ($5.56)**
     Low $5.39 dipped to EMA, closed $5.62 above (+1.0%)
   - Price above all EMAs (uptrend confirmed)
+- TI65: 0.89 (bearish) | C65=0 D65=1
+  C/C7=0.984 (sort ascending for pullbacks)
 
 
 **HOG**
@@ -539,6 +556,8 @@ RS_20d: -4.79 | RS_65d: 2.28
   - EMA10: $26.13
   - EMA20: $25.74
   - Price above all EMAs (uptrend confirmed)
+- TI65: 1.06 (bullish **YOUNG MOMENTUM**) | C65=1 D65=0
+  C/C7=1.119 (sort ascending for pullbacks)
 
 
 **EMBC**
@@ -562,6 +581,8 @@ RS_20d: -4.79 | RS_65d: 2.28
   - **Pullback rejection at EMA5 ($3.31)**
     Low $3.28 dipped to EMA, closed $3.44 above (+3.8%)
   - Price above all EMAs (uptrend confirmed)
+- TI65: 0.73 (bearish) | C65=0 D65=1
+  C/C7=1.082 (sort ascending for pullbacks)
 
 ---
 
