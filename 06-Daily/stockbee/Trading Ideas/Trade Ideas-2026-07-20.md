@@ -63,18 +63,18 @@ RS_20d: -4.79 | RS_65d: 2.28
 
 ### Sector RS Heatmap (grouped by theme, top 10)
 
-| Rank | Ticker | Theme | RS_20d | RS_65d | ETF 20d | SPY 20d | Excess | Status |
-|------|--------|-------|--------|--------|---------|---------|--------|--------|
-| 1 | SOXX | semiconductors | 28.96 | 4.84 | -18.0% | -0.6% | -17.4% |  |
-| 2 | QTUM | quantum_computing | 25.39 | 2.32 | -15.8% | -0.6% | -15.2% |  |
-| 3 | DRIV | ev_automotive | 25.07 | -0.15 | -15.6% | -0.6% | -15.0% |  |
-| 4 | SIL | silver_miners | 23.43 | -4.25 | -14.6% | -0.6% | -14.0% |  |
-| 5 | UFO | space_economy | 22.93 | -2.77 | -14.3% | -0.6% | -13.7% |  |
-| 6 | ICLN | clean_energy | 22.53 | -1.09 | -14.0% | -0.6% | -13.4% |  |
-| 7 | AIQ | ai_tech | 18.41 | 1.93 | -11.5% | -0.6% | -10.9% |  |
-| 8 | BLOK | blockchain | 14.95 | 0.54 | -9.3% | -0.6% | -8.7% |  |
-| 9 | PAVE | infrastructure | 7.58 | 0.51 | -4.7% | -0.6% | -4.1% |  |
-| 10 | ITB | home_construction | 6.21 | 0.28 | -3.9% | -0.6% | -3.2% |  |
+| Rank | Ticker | Theme             | RS_20d | RS_65d | ETF 20d | SPY 20d | Excess | Status |
+| ---- | ------ | ----------------- | ------ | ------ | ------- | ------- | ------ | ------ |
+| 1    | SOXX   | semiconductors    | 28.96  | 4.84   | -18.0%  | -0.6%   | -17.4% |        |
+| 2    | QTUM   | quantum_computing | 25.39  | 2.32   | -15.8%  | -0.6%   | -15.2% |        |
+| 3    | DRIV   | ev_automotive     | 25.07  | -0.15  | -15.6%  | -0.6%   | -15.0% |        |
+| 4    | SIL    | silver_miners     | 23.43  | -4.25  | -14.6%  | -0.6%   | -14.0% |        |
+| 5    | UFO    | space_economy     | 22.93  | -2.77  | -14.3%  | -0.6%   | -13.7% |        |
+| 6    | ICLN   | clean_energy      | 22.53  | -1.09  | -14.0%  | -0.6%   | -13.4% |        |
+| 7    | AIQ    | ai_tech           | 18.41  | 1.93   | -11.5%  | -0.6%   | -10.9% |        |
+| 8    | BLOK   | blockchain        | 14.95  | 0.54   | -9.3%   | -0.6%   | -8.7%  |        |
+| 9    | PAVE   | infrastructure    | 7.58   | 0.51   | -4.7%   | -0.6%   | -4.1%  |        |
+| 10   | ITB    | home_construction | 6.21   | 0.28   | -3.9%   | -0.6%   | -3.2%  |        |
 
 ---
 
