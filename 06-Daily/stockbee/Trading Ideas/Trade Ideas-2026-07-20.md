@@ -269,18 +269,18 @@ RS_20d: -4.79 | RS_65d: 2.28
 
 ### DEP Limit Orders
 
-| Ticker | Entry (Limit) | Stop | Width | Consolidation | Breakout Date |
-|--------|---------------|------|-------|---------------|---------------|
-| CRNX | $84.10 | $83.27 | 1.0% | 9d, 0.67% | 13d ago |
-| TECH | $71.49 | $70.35 | 1.6% | 10d, 1.28% | 25d ago |
-| ABT | $102.56 | $100.00 | 2.5% | 2d, 3.01% | 4d ago |
-| PYPL | $57.77 | $56.33 | 2.5% | 3d, 4.32% | 5d ago |
-| XOM | $150.15 | $146.40 | 2.5% | 5d, 5.61% | 7d ago |
-| MRK | $130.42 | $127.16 | 2.5% | 10d, 6.01% | 25d ago |
-| BKR | $59.23 | $57.75 | 2.5% | 8d, 7.41% | 12d ago |
-| NKE | $45.14 | $44.01 | 2.5% | 10d, 7.65% | 19d ago |
-| CMCSA | $24.80 | $24.18 | 2.5% | 10d, 8.33% | 21d ago |
-| SNAP | $4.98 | $4.86 | 2.5% | 10d, 8.44% | 19d ago |
+| Ticker | Entry (Limit) | Stop    | Width | Consolidation | Breakout Date |
+| ------ | ------------- | ------- | ----- | ------------- | ------------- |
+| CRNX   | $84.10        | $83.27  | 1.0%  | 9d, 0.67%     | 13d ago       |
+| TECH   | $71.49        | $70.35  | 1.6%  | 10d, 1.28%    | 25d ago       |
+| ABT    | $102.56       | $100.00 | 2.5%  | 2d, 3.01%     | 4d ago        |
+| PYPL   | $57.77        | $56.33  | 2.5%  | 3d, 4.32%     | 5d ago        |
+| XOM    | $150.15       | $146.40 | 2.5%  | 5d, 5.61%     | 7d ago        |
+| MRK    | $130.42       | $127.16 | 2.5%  | 10d, 6.01%    | 25d ago       |
+| BKR    | $59.23        | $57.75  | 2.5%  | 8d, 7.41%     | 12d ago       |
+| NKE    | $45.14        | $44.01  | 2.5%  | 10d, 7.65%    | 19d ago       |
+| CMCSA  | $24.80        | $24.18  | 2.5%  | 10d, 8.33%    | 21d ago       |
+| SNAP   | $4.98         | $4.86   | 2.5%  | 10d, 8.44%    | 19d ago       |
 
 ### ANTS BSLO Orders (top 10 — sorted by tight tier)
 
@@ -326,13 +326,13 @@ RS_20d: -4.79 | RS_65d: 2.28
 
 ### Sugar Babies in Hot Sectors (with active setups today)
 
-| Ticker | SB Tier | 504d | 21d | 10d | 5d | Recency | Sector ETF | RS Rank | Status |
-|--------|---------|------|-----|-----|-----|---------|-----------|---------|--------|
-| META | expanded | 15 | 3 | 2 | 1 | 29 | XLC (#2) | SETTING UP (ACTIVE (5d)) |
-| NFLX | expanded | 7 | 2 | 1 | 1 | 21 | XLC (#2) | SETTING UP (ACTIVE (5d)) |
-| PYPL | expanded | 6 | 2 | 1 | 1 | 21 | FINX (#3) | SETTING UP (ACTIVE (5d)) |
-| CMCSA | expanded | 5 | 1 | 1 | 1 | 18 | XLC (#2) | SETTING UP (ACTIVE (5d)) |
-| SNAP | expanded | 36 | 2 | 1 | 0 | 11 | XLC (#2) | SETTING UP (ACTIVE (10d)) |
+| Ticker | SB Tier  | 504d | 21d | 10d | 5d  | Recency | Sector ETF | RS Rank                   | Status |
+| ------ | -------- | ---- | --- | --- | --- | ------- | ---------- | ------------------------- | ------ |
+| META   | expanded | 15   | 3   | 2   | 1   | 29      | XLC (#2)   | SETTING UP (ACTIVE (5d))  |        |
+| NFLX   | expanded | 7    | 2   | 1   | 1   | 21      | XLC (#2)   | SETTING UP (ACTIVE (5d))  |        |
+| PYPL   | expanded | 6    | 2   | 1   | 1   | 21      | FINX (#3)  | SETTING UP (ACTIVE (5d))  |        |
+| CMCSA  | expanded | 5    | 1   | 1   | 1   | 18      | XLC (#2)   | SETTING UP (ACTIVE (5d))  |        |
+| SNAP   | expanded | 36   | 2   | 1   | 0   | 11      | XLC (#2)   | SETTING UP (ACTIVE (10d)) |        |
 
 *Recency = 5d×10 + 10d×5 + 21d×3 (Pradeep's recency weighting). Higher = more recent breakout activity.*
 
