@@ -107,11 +107,11 @@ From MTRT screening, create watch list:
 
 **Step 7 — Run Scans Continuously**
 
-| Scan | Purpose |
-|---|---|
-| EP 9M | Find stocks with 9M+ volume + 4%+ move |
-| Combination scans | Various EP variants |
-| Sugar Wave | Sugar baby candidates |
+| Scan              | Purpose                                |
+| ----------------- | -------------------------------------- |
+| EP 9M             | Find stocks with 9M+ volume + 4%+ move |
+| Combination scans | Various EP variants                    |
+| Sugar Wave        | Sugar baby candidates                  |
 
 > "By 10:30, if from the scans, if there is a trade which I find and it meets my criteria, I enter the trade, set stop, exit trade."
 
@@ -192,11 +192,11 @@ The factory runs because decisions are made **once**, not re-litigated every day
 
 Pradeep tracks which stocks are owned by 2,500+ and 5,000+ funds in TC2000/Market Search:
 
-| Fund Ownership | What It Means | Sizing Implication |
-|---|---|---|
-| **5,000+ funds** (e.g., AVGO) | Maximum institutional quality | Can size bigger than normal |
-| **2,500+ funds** (e.g., AMD, Cisco) | High institutional quality | Normal to larger size |
-| **Below 2,500** | Lower institutional interest | Smaller size, more caution |
+| Fund Ownership                      | What It Means                 | Sizing Implication          |
+| ----------------------------------- | ----------------------------- | --------------------------- |
+| **5,000+ funds** (e.g., AVGO)       | Maximum institutional quality | Can size bigger than normal |
+| **2,500+ funds** (e.g., AMD, Cisco) | High institutional quality    | Normal to larger size       |
+| **Below 2,500**                     | Lower institutional interest  | Smaller size, more caution  |
 
 > "When Cisco showed up that day, I said okay, this is it. Cisco — I can go big. Cisco was not a 5,000 fund stock, but now it has gone into 5,000. So things are changing."
 
