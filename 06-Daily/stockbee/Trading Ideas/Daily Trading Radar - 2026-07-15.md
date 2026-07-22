@@ -1,14 +1,16 @@
 ---
 title: "Daily Trading Radar — 2026-07-15"
 date: 2026-07-15
-tags: [daily, trading-radar, stockbee, pradeep-ultratrader, full-bull, full-long]
+tags: [daily, trading-radar, stockbee, pradeep-ultratrader, cautious-bull, reduce-size]
 ---
 
 # Daily Trading Radar — 2026-07-15
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!tip] **FULL_BULL** — Action: **FULL_LONG**
+> [!caution] **CAUTIOUS_BULL** — Action: **REDUCE_SIZE**
+>
+> - 20% study at 32 (< 50) — FULL_BULL downgraded to CAUTIOUS_BULL. Funds not aggressively buying, breakouts unlikely to follow through.
 
 ---
 
@@ -47,8 +49,12 @@ Above 1.0 | Bullish medium-term |
 | Stocks up 20%+ (5d) | 32 | Marginal |
 | Stocks down 20%+ (5d) | 54 | Oversold bounce possible |
 
-> [!warning] Scan Suppression Active: ANTS
+> [!warning] Scan Suppression Active: SOS, ANTS
 > 20% study at 32 — breakouts unlikely to follow through in this environment.
+
+**Breakout Follow-Through (last 10 days):** 3d=34.1% 5d=25.9% [FAILING]
+
+> When 5-day follow-through < 30%, breakouts are systematically failing. Pradeep: 'Just see what happened to breakouts from yesterday, and did they follow through.'
 
 ---
 
@@ -71,37 +77,6 @@ RS_20d: 72.83 | RS_65d: 6.63
 | 8 | XLC | communications | 5.19 | -0.02 | +1.3% | +0.3% | +1.1% |  |
 | 9 | XLI | industrials_broad | 4.00 | 0.46 | +1.0% | +0.3% | +0.8% |  |
 | 10 | ITB | home_construction | 3.43 | 0.36 | +0.9% | +0.3% | +0.6% |  |
-
----
-
-## 4. Sector Precursor Detection
-
-**Sector Precursor Detection (3+ breakouts in same sector):**
-
-- **Consumer Cyclical** (9 tickers, avg +4.0%) → XLY
-  Tickers: URBN, PENN, MGA, LAD, GPI, LEA, AMZN, HAS, MBUU
-
-- **Technology** (8 tickers, avg +4.9%) → XLK
-  Tickers: LION, DOCU, ACIW, AAPL, MQ, UPBD, CRCT, GCT
-
-- **Real Estate** (7 tickers, avg +5.1%) → XLRE
-  Tickers: NMRK, MMI, CBRE, JLL, CWK, FR, CIGI
-
-- **Healthcare** (7 tickers, avg +5.5%) → XLV
-  Tickers: ZLAB, XRAY, STTK, NAGE, SOLV, ESTA, UFPT
-
-- **Communication Services** (6 tickers, avg +5.0%) → XLC
-  Tickers: GOOGL, GOOG, PINS, Z, NXST, AMCX
-
-- **Financial Services** (5 tickers, avg +2.3%) → XLF
-  Tickers: GL, SCHW, MTB, MFC, SYBT
-
-- **Industrials** (4 tickers, avg +-3.1%) → XLI
-  Tickers: LUV, POOL, PNR, ABM
-
-- **Basic Materials** (3 tickers, avg +3.7%) → XLB
-  Tickers: SMG, IOSP, TGLS
-
 
 ---
 
@@ -183,30 +158,10 @@ RS_20d: 72.83 | RS_65d: 6.63
 
 ## 5. Trade Ideas
 
-### SOS Breakout Candidates (50 found — top 20)
+### SOS Breakout Candidates (0 found — top 20)
 
 | # | Ticker | Change% | Volume | Two Lynch | Leg | Priority |
 |---|--------|---------|--------|-----------|-----|----------|
-| 1 | LUV | +3.5% | 5,017,674 | 6/6 | 1 | highest |
-| 2 | URBN | +3.9% | 1,429,749 | 6/6 | 1 | highest |
-| 3 | NMRK | +5.5% | 1,281,658 | 6/6 | 1 | highest |
-| 4 | MMI | +4.3% | 146,268 | 6/6 | 1 | highest |
-| 5 | GOOGL | +3.2% | 28,115,784 | 5/6 | 1 | highest |
-| 6 | GOOG | +3.6% | 18,499,202 | 5/6 | 1 | highest |
-| 7 | LION | +5.0% | 7,765,798 | 5/6 | 1 | highest |
-| 8 | DOCU | +3.6% | 3,543,156 | 5/6 | 1 | highest |
-| 9 | PENN | +4.7% | 3,018,067 | 5/6 | 1 | highest |
-| 10 | ACIW | +3.5% | 2,287,057 | 5/6 | 1 | highest |
-| 11 | CBRE | +6.2% | 1,908,902 | 5/6 | 1 | highest |
-| 12 | POOL | +-3.7% | 1,193,337 | 5/6 | 1 | highest |
-| 13 | MGA | +2.6% | 1,035,486 | 5/6 | 1 | highest |
-| 14 | ZLAB | +5.9% | 959,565 | 5/6 | 1 | highest |
-| 15 | JLL | +4.3% | 530,195 | 5/6 | 1 | highest |
-| 16 | LAD | +3.8% | 351,883 | 5/6 | 1 | highest |
-| 17 | GPI | +6.8% | 228,793 | 5/6 | 1 | highest |
-| 18 | CWK | +7.5% | 2,314,958 | 6/6 | 2 | high |
-| 19 | SMG | +6.0% | 1,319,165 | 6/6 | 2 | high |
-| 20 | GL | +1.4% | 880,784 | 6/6 | 0 | high |
 
 ### DEP Candidates (20 found)
 
@@ -425,130 +380,6 @@ RS_20d: 72.83 | RS_65d: 6.63
 - TI65: 1.08 (bullish **YOUNG MOMENTUM**) | C65=1 D65=0
   C/C7=1.025 (sort ascending for pullbacks)
 
-
-**LUV**
-- Industry: Airlines, Airports & Air Services
-- Sector: Industrials
-- Market Cap: $23.8B
-- Fund Ownership: 1000+ - Gaining Interest (medium size)
-- Group Move: Yes (41 stocks in sector broke out today)
-- Breakout History (5 past swings):
-  - 2026-06-11: +7.4% total | Entry: $42.87 | Stop: $40.42 | Last Close: $44.29 | Vol: 6,346,419 | PROFIT_80_20
-  - 2026-06-09: +5.2% total | Entry: $42.47 | Stop: $40.43 | Last Close: $42.98 | Vol: 6,423,401 | SUCCESS
-  - 2026-05-20: +6.3% total | Entry: $38.68 | Stop: $36.91 | Last Close: $39.53 | Vol: 7,906,900 | BREAKEVEN
-  - 2026-05-06: +4.5% total | Entry: $41.12 | Stop: $39.93 | Last Close: $41.32 | Vol: 9,236,215 | BREAKEVEN
-  - 2026-04-24: +4.5% total | Entry: $39.09 | Stop: $37.31 | Last Close: $39.28 | Vol: 9,396,734 | STOPPED
-- EMA:
-  - EMA5: $48.66
-  - EMA8: $48.86
-  - EMA10: $48.91
-  - EMA20: $47.96
-  - **Pullback rejection at EMA5 ($48.66)**
-    Low $47.77 dipped to EMA, closed $49.25 above (+1.2%)
-  - Price above all EMAs (uptrend confirmed)
-- TI65: 1.12 (bullish **YOUNG MOMENTUM**) | C65=1 D65=0
-  C/C7=0.969 (sort ascending for pullbacks)
-
-
-**URBN**
-- Industry: Apparel - Retail
-- Sector: Consumer Cyclical
-- Sector ETF: XLY (consumer_discretionary)
-- Market Cap: $6.3B
-- Fund Ownership: 1000+ - Gaining Interest (medium size)
-- Group Move: Yes (41 stocks in sector broke out today)
-- Breakout History (5 past swings):
-  - 2026-06-18: +5.5% total | Entry: $75.37 | Stop: $72.25 | Last Close: $76.42 | Vol: 2,041,004 | STOPPED
-  - 2026-06-11: +6.5% total | Entry: $75.60 | Stop: $72.49 | Last Close: $77.38 | Vol: 1,349,155 | BREAKEVEN
-  - 2026-05-20: +4.1% total | Entry: $71.64 | Stop: $66.78 | Last Close: $71.67 | Vol: 2,610,500 | BREAKEVEN
-  - 2026-04-17: +6.8% total | Entry: $72.26 | Stop: $69.98 | Last Close: $74.18 | Vol: 1,740,900 | BREAKEVEN
-  - 2026-04-08: +5.4% total | Entry: $67.33 | Stop: $66.53 | Last Close: $68.22 | Vol: 1,522,000 | BREAKEVEN
-- EMA:
-  - EMA5: $70.73
-  - EMA8: $70.47
-  - EMA10: $70.48
-  - EMA20: $71.20
-  - **Pullback rejection at EMA5 ($70.73)**
-    Low $70.12 dipped to EMA, closed $72.95 above (+3.1%)
-  - Price above all EMAs (uptrend confirmed)
-- TI65: 0.97 (neutral) | C65=0 D65=0
-  C/C7=1.052 (sort ascending for pullbacks)
-
-
-**NMRK**
-- Industry: Real Estate - Services
-- Sector: Real Estate
-- Sector ETF: XLRE (real_estate)
-- Market Cap: $2.5B
-- Fund Ownership: speculative - Speculative Glamour (small size)
-- Group Move: Yes (16 stocks in sector broke out today)
-- Breakout History (5 past swings):
-  - 2026-07-15: +5.5% total | Entry: $15.29 | Stop: $14.52 | Last Close: $15.51 | Vol: 1,281,658 | SUCCESS
-  - 2026-05-05: +4.4% total | Entry: $16.20 | Stop: $15.36 | Last Close: $16.27 | Vol: 1,636,500 | BREAKEVEN
-  - 2026-04-17: +5.5% total | Entry: $16.23 | Stop: $15.72 | Last Close: $16.47 | Vol: 1,131,300 | BREAKEVEN
-  - 2026-04-08: +5.0% total | Entry: $15.17 | Stop: $15.01 | Last Close: $15.32 | Vol: 1,797,700 | BREAKEVEN
-  - 2026-02-18: +6.0% total | Entry: $15.12 | Stop: $14.38 | Last Close: $15.41 | Vol: 1,566,703 | BREAKEVEN
-- EMA:
-  - EMA5: $15.22
-  - EMA8: $15.24
-  - EMA10: $15.24
-  - EMA20: $15.16
-  - **Pullback rejection at EMA5 ($15.22)**
-    Low $14.67 dipped to EMA, closed $15.51 above (+1.9%)
-  - Price above all EMAs (uptrend confirmed)
-- TI65: 1.00 (neutral) | C65=0 D65=0
-  C/C7=0.994 (sort ascending for pullbacks)
-
-
-**MMI**
-- Industry: Real Estate - Services
-- Sector: Real Estate
-- Sector ETF: XLRE (real_estate)
-- Market Cap: $1.2B
-- Fund Ownership: speculative - Speculative Glamour (small size)
-- Group Move: Yes (16 stocks in sector broke out today)
-- Breakout History (5 past swings):
-  - 2026-07-15: +4.4% total | Entry: $31.06 | Stop: $29.72 | Last Close: $31.17 | Vol: 146,268 | BREAKEVEN
-  - 2026-06-26: +4.5% total | Entry: $31.27 | Stop: $29.96 | Last Close: $31.41 | Vol: 406,100 | STOPPED
-  - 2026-05-05: +4.4% total | Entry: $28.56 | Stop: $26.82 | Last Close: $28.67 | Vol: 223,600 | BREAKEVEN
-  - 2025-11-05: +5.1% total | Entry: $30.30 | Stop: $28.67 | Last Close: $30.62 | Vol: 254,523 | STOPPED
-  - 2025-08-22: +5.4% total | Entry: $31.44 | Stop: $30.21 | Last Close: $31.87 | Vol: 185,900 | BREAKEVEN
-- EMA:
-  - EMA5: $30.75
-  - EMA8: $30.81
-  - EMA10: $30.82
-  - EMA20: $30.64
-  - **Pullback rejection at EMA5 ($30.75)**
-    Low $30.02 dipped to EMA, closed $31.17 above (+1.4%)
-  - Price above all EMAs (uptrend confirmed)
-- TI65: 1.05 (bullish **YOUNG MOMENTUM**) | C65=1 D65=0
-  C/C7=0.975 (sort ascending for pullbacks)
-
-
-**GOOGL**
-- Industry: Internet Content & Information
-- Sector: Communication Services
-- Sector ETF: XLC (communications)
-- Market Cap: $4198.7B
-- Fund Ownership: 5000+ - Liquid Glamour (largest size)
-- Group Move: Yes (17 stocks in sector broke out today)
-- Breakout History (5 past swings):
-  - 2026-06-29: +4.8% total | Entry: $350.89 | Stop: $337.26 | Last Close: $353.65 | Vol: 34,213,932 | BREAKEVEN
-  - 2026-04-30: +10.0% total | Entry: $363.72 | Stop: $361.94 | Last Close: $384.57 | Vol: 72,040,000 | PROFIT_80_20
-  - 2026-03-31: +5.1% total | Entry: $284.27 | Stop: $274.16 | Last Close: $287.39 | Vol: 43,875,400 | PROFIT_80_20
-  - 2026-02-20: +4.0% total | Entry: $314.55 | Stop: $300.46 | Last Close: $314.57 | Vol: 53,210,820 | STOPPED
-  - 2025-11-24: +6.3% total | Entry: $311.03 | Stop: $305.91 | Last Close: $317.96 | Vol: 85,165,123 | BREAKEVEN
-- EMA:
-  - EMA5: $362.34
-  - EMA8: $361.04
-  - EMA10: $360.50
-  - EMA20: $360.41
-  - **Pullback rejection at EMA5 ($362.34)**
-    Low $357.76 dipped to EMA, closed $370.92 above (+2.4%)
-  - Price above all EMAs (uptrend confirmed)
-- TI65: 0.99 (neutral) | C65=0 D65=0
-  C/C7=1.012 (sort ascending for pullbacks)
-
 ---
 
 ## 10. Short-Side Setups (145 candidates)
@@ -668,11 +499,12 @@ RS_20d: 72.83 | RS_65d: 6.63
 
 ## 11. Action Summary
 
-- [ ] Full playbook — size into A+ confluences
-- [ ] Place DEP limit orders (top 5)
-- [ ] Place ANTS BSLO orders (top 5 by tight tier)
-- [ ] Monitor SOS breakout triggers intraday
-- [ ] Sector group moves: Consumer Cyclical(9), Technology(8), Real Estate(7)
+- [ ] **REDUCE SIZE** — selective setups only
+- [ ] Only A+ and A confluences — skip B tier
+- [ ] Place DEP limit orders (reduced shares, top 5)
+- [ ] Place ANTS BSLO orders (super-tight/ultra-tight only)
+- [ ] Sell into strength on existing positions
+- [ ] Tighten stops to breakeven
 - [ ] Leading sector: BUG — watch for setups in this sector
 
 ---
