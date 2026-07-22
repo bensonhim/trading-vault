@@ -4,7 +4,7 @@ date: 2026-07-21
 tags: [daily, trading-radar, stockbee, pradeep-ultratrader, cautious-bull, reduce-size]
 ---
 
-# Daily Trading Radar — 2026-07-21
+# Daily Trading Radar — 2026-07-22
 
 ## 1. Market Regime — LLM Judge Verdict
 
@@ -19,13 +19,13 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, cautious-bull, reduc
 
 ### Primary Indicators
 
-| Indicator | 2026-07-21 | 2026-07-20 | 2026-07-17 | 2026-07-16 | 2026-07-15 | Trend |
-|-----------|-------|-------|-------|-------|-------|-------|
-| Net Primary | +75 | -53 | +44 | +144 | +223 | — |
-| T2108 | 50.19% | 49.44% | 53.50% | 56.29% | 53.83% | — |
-| Breakouts | 464 | 131 | 138 | 251 | 235 | — |
-| Breakdowns | 131 | 212 | 166 | 509 | 205 | — |
-| BO:BD Ratio | 3.54 | 0.62 | 0.83 | 0.49 | 1.15 | — |
+| Indicator   | 2026-07-21 | 2026-07-20 | 2026-07-17 | 2026-07-16 | 2026-07-15 | Trend |
+| ----------- | ---------- | ---------- | ---------- | ---------- | ---------- | ----- |
+| Net Primary | +75        | -53        | +44        | +144       | +223       | —     |
+| T2108       | 50.19%     | 49.44%     | 53.50%     | 56.29%     | 53.83%     | —     |
+| Breakouts   | 464        | 131        | 138        | 251        | 235        | —     |
+| Breakdowns  | 131        | 212        | 166        | 509        | 205        | —     |
+| BO:BD Ratio | 3.54       | 0.62       | 0.83       | 0.49       | 1.15       | —     |
 
 ### Secondary Indicators
 
@@ -37,8 +37,7 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, cautious-bull, reduc
 Below 1.0 | Bearish tilt |
 | Fib 13% Up (34d) | 1758 | High | Stocks up 13%+ in 34 days |
 | Fib 13% Down (34d) | 1551 | High | Stocks down 13%+ in 34 days |
-| Fib 13% Ratio | 1.13
-Above 1.0 | Bullish medium-term |
+| Fib 13% Ratio | 1.13 Above 1.0 | Bullish medium-term |
 | 5-Day Ratio | 0.99 | Below 1.0 | Short-term normal |
 | 10-Day Ratio | 0.90 | Below 1.0 | Normal |
 
@@ -55,18 +54,18 @@ RS_20d: 34.18 | RS_65d: 7.43
 
 ### Sector RS Heatmap (grouped by theme, top 10)
 
-| Rank | Ticker | Theme | RS_20d | RS_65d | ETF 20d | SPY 20d | Excess | Status |
-|------|--------|-------|--------|--------|---------|---------|--------|--------|
-| 1 | BUG | cybersecurity | 34.18 | 7.43 | +17.9% | +0.5% | +17.3% | LEADING |
-| 2 | XOP | oil_gas_e&p | 23.39 | 0.59 | +12.2% | +0.5% | +11.7% |  |
-| 3 | IBB | biotech_broad | 13.31 | 1.26 | +7.0% | +0.5% | +6.4% |  |
-| 4 | XLV | healthcare_broad | 12.99 | 1.42 | +6.8% | +0.5% | +6.3% |  |
-| 5 | FINX | fintech | 12.53 | 0.10 | +6.5% | +0.5% | +6.0% |  |
-| 6 | SKYY | cloud_computing | 9.57 | 2.40 | +5.0% | +0.5% | +4.5% |  |
-| 7 | XLF | financials_broad | 8.59 | 1.19 | +4.5% | +0.5% | +4.0% |  |
-| 8 | XLC | communications | 5.68 | -1.04 | +3.0% | +0.5% | +2.5% |  |
-| 9 | XLRE | real_estate | 5.13 | 0.59 | +2.7% | +0.5% | +2.2% |  |
-| 10 | XLU | utilities | 0.86 | -0.36 | +0.5% | +0.5% | -0.1% |  |
+| Rank | Ticker | Theme            | RS_20d | RS_65d | ETF 20d | SPY 20d | Excess | Status  |
+| ---- | ------ | ---------------- | ------ | ------ | ------- | ------- | ------ | ------- |
+| 1    | BUG    | cybersecurity    | 34.18  | 7.43   | +17.9%  | +0.5%   | +17.3% | LEADING |
+| 2    | XOP    | oil_gas_e&p      | 23.39  | 0.59   | +12.2%  | +0.5%   | +11.7% |         |
+| 3    | IBB    | biotech_broad    | 13.31  | 1.26   | +7.0%   | +0.5%   | +6.4%  |         |
+| 4    | XLV    | healthcare_broad | 12.99  | 1.42   | +6.8%   | +0.5%   | +6.3%  |         |
+| 5    | FINX   | fintech          | 12.53  | 0.10   | +6.5%   | +0.5%   | +6.0%  |         |
+| 6    | SKYY   | cloud_computing  | 9.57   | 2.40   | +5.0%   | +0.5%   | +4.5%  |         |
+| 7    | XLF    | financials_broad | 8.59   | 1.19   | +4.5%   | +0.5%   | +4.0%  |         |
+| 8    | XLC    | communications   | 5.68   | -1.04  | +3.0%   | +0.5%   | +2.5%  |         |
+| 9    | XLRE   | real_estate      | 5.13   | 0.59   | +2.7%   | +0.5%   | +2.2%  |         |
+| 10   | XLU    | utilities        | 0.86   | -0.36  | +0.5%   | +0.5%   | -0.1%  |         |
 
 ---
 

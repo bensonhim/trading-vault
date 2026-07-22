@@ -4,7 +4,7 @@ date: 2026-07-16
 tags: [daily, trading-radar, stockbee, pradeep-ultratrader, full-bull, full-long, bug, cybersecurity, real-estate, industrials, dep, xom, crnx, sos, nke, mdlz, ctre, ants, super-tight]
 ---
 
-# Daily Trading Radar — 2026-07-16
+# Daily Trading Radar — 2026-07-17
 
 ## 1. Market Regime — LLM Judge Verdict
 

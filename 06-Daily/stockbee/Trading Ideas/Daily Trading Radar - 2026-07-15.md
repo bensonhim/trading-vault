@@ -4,7 +4,7 @@ date: 2026-07-14
 tags: [daily, trading-radar, stockbee, pradeep-ultratrader, full-bull, full-long, dep, aapl, nke, tech, sos, googl, gs, afrm, bug]
 ---
 
-# Daily Trading Radar — 2026-07-14
+# Daily Trading Radar — 2026-07-15
 
 ## 1. Market Regime — LLM Judge Verdict
 

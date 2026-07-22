@@ -4,7 +4,7 @@ date: 2026-07-17
 tags: [daily, trading-radar, stockbee, pradeep-ultratrader, cautious-bull, reduce-size]
 ---
 
-# Daily Trading Radar — 2026-07-17
+# Daily Trading Radar — 2026-07-20
 
 ## 1. Market Regime — LLM Judge Verdict
 
