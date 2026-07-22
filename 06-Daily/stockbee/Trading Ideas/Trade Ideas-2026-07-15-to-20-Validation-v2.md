@@ -55,17 +55,17 @@ A re-run of the 4-day head-to-head audit (Jul 15, 16, 17, 20) after 13 systemic 
 
 ### DEP Validation
 
-| Radar DEP (NEW) | Pradeep Mentioned? | Verdict |
-|-----------------|---------------------|---------|
-| TECH | ❌ Not mentioned | — |
-| KHC | ❌ Not mentioned | — |
-| MRK | ❌ Not mentioned | — |
-| ABBV | ❌ Not mentioned (Jul 16: "will chop") | — |
-| GIS | ❌ Not mentioned | — |
-| XYZ | ❌ Not mentioned | — |
-| DT | ❌ Not mentioned | — |
-| UAL | ❌ Not mentioned | — |
-| AAL | ❌ Not mentioned | — |
+| Radar DEP (NEW) | Pradeep Mentioned?                    | Verdict |
+| --------------- | ------------------------------------- | ------- |
+| TECH            | ❌ Not mentioned                       | —       |
+| KHC             | ❌ Not mentioned                       | —       |
+| MRK             | ❌ Not mentioned                       | —       |
+| ABBV            | ❌ Not mentioned (Jul 16: "will chop") | —       |
+| GIS             | ❌ Not mentioned                       | —       |
+| XYZ             | ❌ Not mentioned                       | —       |
+| DT              | ❌ Not mentioned                       | —       |
+| UAL             | ❌ Not mentioned                       | —       |
+| AAL             | ❌ Not mentioned                       | —       |
 
 **Radar said:** 9 DEP candidates (20% study at 32, just above the 30 threshold — DEP not suppressed).
 
@@ -83,13 +83,13 @@ A re-run of the 4-day head-to-head audit (Jul 15, 16, 17, 20) after 13 systemic 
 
 ### SIPs Detection
 
-| Pradeep SIPs | Radar Detected? | Notes |
-|--------------|-----------------|-------|
-| PENG | ✅ | In SIPs list, fresh catalyst flag |
-| BLK (BlackRock) | ✅ | In SIPs list, fresh catalyst |
-| AHR | ❌ | 36% gap up — not detected (likely below volume threshold or not in ticker universe) |
-| BABA | ❌ | Gapping up — not detected |
-| CRWD | ❌ | Day 2 SIPs — not detected |
+| Pradeep SIPs    | Radar Detected? | Notes                                                                               |
+| --------------- | --------------- | ----------------------------------------------------------------------------------- |
+| PENG            | ✅               | In SIPs list, fresh catalyst flag                                                   |
+| BLK (BlackRock) | ✅               | In SIPs list, fresh catalyst                                                        |
+| AHR             | ❌               | 36% gap up — not detected (likely below volume threshold or not in ticker universe) |
+| BABA            | ❌               | Gapping up — not detected                                                           |
+| CRWD            | ❌               | Day 2 SIPs — not detected                                                           |
 
 **SIPs score: 5/10** (was 0) — Major improvement from zero. Found 2 of 5 Pradeep SIPs (PENG, BLK). The module is working but has gaps — AHR (36% gap) and BABA should have been caught.
 
@@ -112,15 +112,15 @@ A re-run of the 4-day head-to-head audit (Jul 15, 16, 17, 20) after 13 systemic 
 
 ### Daily Scorecard — July 15
 
-| Category | NEW Score | OLD Score | Delta | Notes |
-|----------|:---------:|:---------:|:-----:|-------|
-| Regime Match | 7 | 1 | +6 | CAUTIOUS_BULL vs FULL_BULL — massive upgrade |
-| SOS Validation | 8 | 0 | +8 | Suppression correct — zero false positives |
-| DEP Validation | 1 | 0 | +1 | Still 9 noise candidates (20% study 32 leaked through) |
-| ANTS Validation | 9 | 0 | +9 | Perfect suppression |
-| SIPs Detection | 5 | 0 | +5 | Found PENG, BLK; missed AHR, BABA, CRWD |
-| Short-Side | 4 | 0 | +4 | Module exists, semis directionally correct |
-| **Total** | **34/60** | **1/60** | **+33** | **57% accuracy (was 1.7%)** |
+| Category        | NEW Score | OLD Score |  Delta  | Notes                                                  |
+| --------------- | :-------: | :-------: | :-----: | ------------------------------------------------------ |
+| Regime Match    |     7     |     1     |   +6    | CAUTIOUS_BULL vs FULL_BULL — massive upgrade           |
+| SOS Validation  |     8     |     0     |   +8    | Suppression correct — zero false positives             |
+| DEP Validation  |     1     |     0     |   +1    | Still 9 noise candidates (20% study 32 leaked through) |
+| ANTS Validation |     9     |     0     |   +9    | Perfect suppression                                    |
+| SIPs Detection  |     5     |     0     |   +5    | Found PENG, BLK; missed AHR, BABA, CRWD                |
+| Short-Side      |     4     |     0     |   +4    | Module exists, semis directionally correct             |
+| **Total**       | **34/60** | **1/60**  | **+33** | **57% accuracy (was 1.7%)**                            |
 
 ---
 
@@ -283,15 +283,15 @@ A re-run of the 4-day head-to-head audit (Jul 15, 16, 17, 20) after 13 systemic 
 
 ### Daily Scorecard — July 17
 
-| Category | NEW Score | OLD Score | Delta | Notes |
-|----------|:---------:|:---------:|:-----:|-------|
-| Regime Match | 6 | 4 | +2 | Better reasoning with 20% study cited |
-| SOS Validation | 9 | 0 | +9 | Suppression + FADE mode |
-| DEP Validation | 10 | 0 | +10 | **Perfect** — zero DEPs, Pradeep said "no DEP" |
-| ANTS Validation | 9 | 0 | +9 | Perfect suppression |
-| SIPs Detection | 2 | 0 | +2 | Module exists but missed all Pradeep SIPs |
-| Short-Side | 4 | 0 | +4 | SMH/SNDK correct; missed GOOG/BB/DDOG/CRWD |
-| **Total** | **40/60** | **4/60** | **+36** | **67% accuracy (was 6.7%)** |
+| Category        | NEW Score | OLD Score |  Delta  | Notes                                          |
+| --------------- | :-------: | :-------: | :-----: | ---------------------------------------------- |
+| Regime Match    |     6     |     4     |   +2    | Better reasoning with 20% study cited          |
+| SOS Validation  |     9     |     0     |   +9    | Suppression + FADE mode                        |
+| DEP Validation  |    10     |     0     |   +10   | **Perfect** — zero DEPs, Pradeep said "no DEP" |
+| ANTS Validation |     9     |     0     |   +9    | Perfect suppression                            |
+| SIPs Detection  |     2     |     0     |   +2    | Module exists but missed all Pradeep SIPs      |
+| Short-Side      |     4     |     0     |   +4    | SMH/SNDK correct; missed GOOG/BB/DDOG/CRWD     |
+| **Total**       | **40/60** | **4/60**  | **+36** | **67% accuracy (was 6.7%)**                    |
 
 ---
 
