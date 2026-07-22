@@ -1,6 +1,6 @@
 ---
 title: "GOOG"
-date: 2026-07-21
+date: 2026-07-22
 tags: [tickers, wiki, auto-compiled]
 mention_count: 62
 sources_count: 38
@@ -13,50 +13,6 @@ promote: false
 *Tickers — compiled from 62 mentions across 38 sources.*
 
 ## Mentions
-
-> [[Session-2023-12-07|Session-2023-12-07]]: | [[GOOG]] | Delayed Reaction | ⚠️ Secondary | Moving, but AMD is better |
-
-> [[Session-2024-01-17|Session-2024-01-17]]: - [[GOOG]] — if closes near low, short it (8-10% downside)
-
-> [[Session-2024-01-17|Session-2024-01-17]]: 5. **Delayed reaction** is Pradeep's favorite setup right now — MBLY, XOP, GOOG
-
-> [[Session-2024-02-16|Session-2024-02-16]]: - [[GOOG]], [[AMZN]]: "they lost the game" — former leaders that have faded
-
-> [[Session-2024-02-16|Session-2024-02-16]]: - 9M EP: [[SMCI]] parabolic, [[META]], [[TSLA]], [[GOOG]], [[SNAP]] (delayed reaction short)
-
-> [[Session-2024-02-21|Session-2024-02-21]]: - [[AXP]] (American Express), [[GOOG]] (Google) — delayed reaction candidates
-
-> [[Session-2025-01-13|Session-2025-01-13]]: | [[GOOG]] | Reversal bullish | N/A | Small position to test hypothesis |
-
-> [[Session-2025-01-14|Session-2025-01-14]]: | [[GOOG]] | Reversal bullish (failed) | N/A | Sold for $12.12/share — didn't stick immediately |
-
-> [[Session-2025-01-15|Session-2025-01-15]]: | [[GOOG]] | Range expansion | TikTok/Supreme Court news | Good setup, watching |
-
-> [[Session-2025-01-15|Session-2025-01-15]]: | [[GOOG]] | Range expansion / reversal bullish | TikTok ruling | Best long candidate; watching |
-
-> [[Session-2025-01-16|Session-2025-01-16]]: | [[GOOG]] | Range expansion / reversal | Multiple catalysts | Small position, watching |
-
-> [[Session-2025-01-23|Session-2025-01-23]]: | [[GOOG]] | Failed breakout | N/A | Looked like breakout intraday, got hammered back |
-
-> [[Session-2025-02-05|Session-2025-02-05]]: | [[GOOG]] | Day trade watch | Negative earnings catalyst, watching for intraday short opportunity |
-
-> [[Session-2025-02-05|Session-2025-02-05]]: | [[GOOG]] | Bearish | Day trade short watch | Negative earnings reaction |
-
-> [[Session-2025-02-07|Session-2025-02-07]]: | [[GOOG]] | Bearish | Delayed reaction short | AI CapEx overinvestment cycle |
-
-> [[Session-2025-07-08|Session-2025-07-08]]: [[GOOG]] looked good in the morning, then Perplexity AI browser news faded it. [[META]] is a late-stage breakout — can work but it's late.
-
-> [[Session-2025-07-08|Session-2025-07-08]]: | [[GOOG]] | Faded on news | ⚠️ Late | Perplexity AI browser news killed the move |
-
-> [[Session-2025-07-09|Session-2025-07-09]]: ### [[GOOG]]: Good Then Faded
-
-> [[Session-2025-07-09|Session-2025-07-09]]: 3. **GOOG faded on Perplexity news** — catalyst disruption
-
-> [[Session-2025-07-09|Session-2025-07-09]]: | [[GOOG]] | Faded on news | ⚠️ Late | Perplexity AI browser news killed the move |
-
-> [[Session-2025-07-10|Session-2025-07-10]]: > Bullish situational awareness — mega caps [[NVDA]], [[AVGO]], [[AMZN]], [[GOOG]], [[MSFT]] fueled the rally. BTC hit all-time high above 112K. "Always look at history of the stock. History tells you a lot."
-
-> [[Session-2025-07-10|Session-2025-07-10]]: Market monitor had a **second strong 300+ green reading**. T2108 rose from 64.29 to 64.87. The 20% study remained bullish at 5:1. Mega caps led — [[NVDA]], [[AVGO]], [[AMZN]], [[GOOG]], [[MSFT]]. Small caps [[TNA]]/[[IWM]] pushed higher. [[BTC]] surged to ATH above 112K.
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-01-05.md|Session-2026-01-05]]: | [[GOOG]] | Anticipation | ⚠️ Watch | Setting up nicely, has AI catalyst |
 
@@ -94,6 +50,50 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-05-15.md|Session-2026-05-15]]: [[GOOG]] — looked like a good breakout. Nothing happened.
 
+> [[../../06-Daily/stockbee/Sessions/Session-2026-05-18.md|Session-2026-05-18]]: | [[GOOG]] | Breakout unlikely in this environment |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-11.md|Session-2026-06-11]]: | [[GOOG]] | Reversal Bullish | Looking decent; not the most aggressive but valid |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-11.md|Session-2026-06-11]]: - Google (GOOG) is a valid reversal bullish candidate — liquid, large cap
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-22.md|Session-2026-06-22]]: | [[GOOG]] | Short candidate | Losing employees, raising money — but not closing near low |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-24.md|Session-2026-06-24]]: | [[GOOG]] | Downtrend |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-24.md|Session-2026-06-24]]: 8. **5,000+ fund ownership stocks are all rolling over** — [[NVDA]], [[GOOG]], [[TSLA]], [[NFLX]], [[META]] all in pullback or downtrend. When this basket reverses, the market turns. Until then, chop.
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-25.md|Session-2026-06-25]]: The narrative on [[GOOG]] is shifting — lost two key people, too bureaucratic, Sundar is not a risk taker. Pradeep's characterisation:
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-25.md|Session-2026-06-25]]: But if [[GOOG]] is going to go up, it will show up in EP 9M scans — react then, don't predict. The Anthropic founder naming [[Tempus AI]] and [[LLY]] (Eli Lilly) as the two AI beneficiaries was noted as a recurring narrative catalyst.
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-25.md|Session-2026-06-25]]: | [[GOOG]] | Anticipation          | "Not really anything which is like TRV, Trevi, or Cure." Same old same old                                                     |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-26.md|Session-2026-06-26]]: | [[GOOG]] / [[GOOGL]] | Orderly pullback | "Very orderly pullback" in PM |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-26.md|Session-2026-06-26]]: | [[GOOG]] / [[GOOGL]] | Orderly pullback | Constructive |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-29.md|Session-2026-06-29]]: | [[GOOG]] / [[GOOGL]] | Start of a swing (PM) | Constructive, orderly pullback |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-29.md|Session-2026-06-29]]: | [[GOOG]] / [[GOOGL]] | Start of a swing | Breaking out; orderly pullback |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-29.md|Session-2026-06-29]]: | [[GOOG]] / [[GOOGL]] | Start of a swing | Breaking out; orderly |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-30.md|Session-2026-06-30]]: | [[GOOG]] / [[GOOGL]] | Start of swing from Sunday list | Not as strong as Dell/Intel/AMD |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-14.md|Session-2026-07-14]]: | [[GOOG]] | Trying breakout | Faded; same pattern |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-14.md|Session-2026-07-14]]: | [[GOOG]] | Trying breakout | Faded |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-16.md|Session-2026-07-16]]: | [[GOOG]] | Selling off | "Where the money is flowing out" |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-16.md|Session-2026-07-16]]: | [[GOOG]]            | Short / range expansion breakdown | Gemini launch delayed; AI selloff | Pradeep took this short — "funds were hiding in Google" |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-16.md|Session-2026-07-16]]: | [[GOOG]] | Short / range expansion breakdown | Pradeep's trade — clear catalyst |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-17.md|Session-2026-07-17]]: | [[GOOG]]                       | Short from yesterday            | Move stop to breakeven — "literally definition of free money" |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-20.md|Session-2026-07-20]]: | [[GOOG]] | Short (remaining) | Stopped out on remaining after taking partial profit |
+
 ## Related Concepts
 
 *(To be enriched)*
@@ -104,20 +104,20 @@ promote: false
 
 ## Sources
 
-- [[../06-Daily/stockbee/Sessions/Session-2023-12-07.md|Session-2023-12-07]]
-- [[../06-Daily/stockbee/Sessions/Session-2024-01-17.md|Session-2024-01-17]]
-- [[../06-Daily/stockbee/Sessions/Session-2024-02-16.md|Session-2024-02-16]]
-- [[../06-Daily/stockbee/Sessions/Session-2024-02-21.md|Session-2024-02-21]]
-- [[../06-Daily/stockbee/Sessions/Session-2025-01-13.md|Session-2025-01-13]]
-- [[../06-Daily/stockbee/Sessions/Session-2025-01-14.md|Session-2025-01-14]]
-- [[../06-Daily/stockbee/Sessions/Session-2025-01-15.md|Session-2025-01-15]]
-- [[../06-Daily/stockbee/Sessions/Session-2025-01-16.md|Session-2025-01-16]]
-- [[../06-Daily/stockbee/Sessions/Session-2025-01-23.md|Session-2025-01-23]]
-- [[../06-Daily/stockbee/Sessions/Session-2025-02-05.md|Session-2025-02-05]]
-- [[../06-Daily/stockbee/Sessions/Session-2025-02-07.md|Session-2025-02-07]]
-- [[../06-Daily/stockbee/Sessions/Session-2025-07-08.md|Session-2025-07-08]]
-- [[../06-Daily/stockbee/Sessions/Session-2025-07-09.md|Session-2025-07-09]]
-- [[../06-Daily/stockbee/Sessions/Session-2025-07-10.md|Session-2025-07-10]]
+- [[../06-Daily/stockbee/Sessions/2023/Session-2023-12-07.md|Session-2023-12-07]]
+- [[../06-Daily/stockbee/Sessions/2024/Session-2024-01-17.md|Session-2024-01-17]]
+- [[../06-Daily/stockbee/Sessions/2024/Session-2024-02-16.md|Session-2024-02-16]]
+- [[../06-Daily/stockbee/Sessions/2024/Session-2024-02-21.md|Session-2024-02-21]]
+- [[../06-Daily/stockbee/Sessions/2025/Session-2025-01-13.md|Session-2025-01-13]]
+- [[../06-Daily/stockbee/Sessions/2025/Session-2025-01-14.md|Session-2025-01-14]]
+- [[../06-Daily/stockbee/Sessions/2025/Session-2025-01-15.md|Session-2025-01-15]]
+- [[../06-Daily/stockbee/Sessions/2025/Session-2025-01-16.md|Session-2025-01-16]]
+- [[../06-Daily/stockbee/Sessions/2025/Session-2025-01-23.md|Session-2025-01-23]]
+- [[../06-Daily/stockbee/Sessions/2025/Session-2025-02-05.md|Session-2025-02-05]]
+- [[../06-Daily/stockbee/Sessions/2025/Session-2025-02-07.md|Session-2025-02-07]]
+- [[../06-Daily/stockbee/Sessions/2025/Session-2025-07-08.md|Session-2025-07-08]]
+- [[../06-Daily/stockbee/Sessions/2025/Session-2025-07-09.md|Session-2025-07-09]]
+- [[../06-Daily/stockbee/Sessions/2025/Session-2025-07-10.md|Session-2025-07-10]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-01-05.md|Session-2026-01-05]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-01-06.md|Session-2026-01-06]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-01-07.md|Session-2026-01-07]]

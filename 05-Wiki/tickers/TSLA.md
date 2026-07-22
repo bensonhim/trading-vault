@@ -1,16 +1,16 @@
 ---
 title: "TSLA"
-date: 2026-07-21
+date: 2026-07-22
 tags: [tickers, wiki, auto-compiled]
-mention_count: 88
-sources_count: 56
+mention_count: 89
+sources_count: 57
 compilation_count: 1
 promote: false
 ---
 
 # TSLA
 
-*Tickers — compiled from 88 mentions across 56 sources.*
+*Tickers — compiled from 89 mentions across 57 sources.*
 
 ## Mentions
 
@@ -30,69 +30,69 @@ promote: false
 
 > [[../../04-Transcripts/stockbee/2025-01-23_9-am.md|2025-01-23_9-am]]: MicroStrategy obviously, that is the story of like in a Bitcoin, Carvana, GetLoss, TWLO, TSLA, Tesla, Birkin's stock which had a recent earnings which is good here.
 
-> [[Session-2023-11-09|Session-2023-11-09]]: ### [[TSLA]] Shot Trade
+> [[../../06-Daily/stockbee/Sessions/Session-2026-01-06.md|Session-2026-01-06]]: | [[TSLA]] | Short candidate | ⚠️ Caution | Waterfall decline, retail favorite |
 
-> [[Session-2023-11-09|Session-2023-11-09]]: Despite the cautious stance, Pradeep put on a [[TSLA]] short at $213.74 with a $1 stop — currently at $207.76, about $6 profit. Process-driven: "Run a scan and find a setup and take a trade."
+> [[../../06-Daily/stockbee/Sessions/Session-2026-01-07.md|Session-2026-01-07]]: | [[TSLA]] | Short candidate | ⚠️ Avoid long | "Who is selling? Smarter people than you" |
 
-> [[Session-2023-11-09|Session-2023-11-09]]: | [[TSLA]] | Short | ✅ $6 profit | $213.74 entry, $1 stop |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-01-14.md|Session-2026-01-14]]: | [[TSLA]] | Short candidate | Pradeep's SIPs — "looks good" on short side |
 
-> [[Session-2023-11-17|Session-2023-11-17]]: | [[TSLA]] | Watching | ⏳ | Better as delayed reaction |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-01-15.md|Session-2026-01-15]]: 6. **Don't short retail favorites.** HOOD, TSLA, PLTR — too many dip buyers waiting.
 
-> [[Session-2023-11-21|Session-2023-11-21]]: [[TSLA]] — liquid lava, continuation setup. [[MSFT]] — also showing continuation.
+> [[../../06-Daily/stockbee/Sessions/Session-2026-01-20.md|Session-2026-01-20]]: | [[TSLA]] | Short / SIPs | Weak stock + catalyst (Musk distraction, policy) |
 
-> [[Session-2023-11-21|Session-2023-11-21]]: | [[TSLA]] | Continuation/Liquid Lava | 🔄 Watching | MS setup forming |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-01-21.md|Session-2026-01-21]]: | [[TSLA]] | Short / SIPs | Weak stock + catalyst (Musk distraction, policy) |
 
-> [[Session-2023-11-28|Session-2023-11-28]]: - [[TSLA]] — SIP (Cybertruck catalyst), liquid lava
+> [[../../06-Daily/stockbee/Sessions/Session-2026-01-22.md|Session-2026-01-22]]: | [[TSLA]] / [[NVDA]] | Day trade / SIPs | Clean intraday moves |
 
-> [[Session-2023-11-28|Session-2023-11-28]]: | [[TSLA]] | SIP/Liquid Lava | 🔄 Watching | Cybertruck catalyst |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-01-27.md|Session-2026-01-27]]: Multiple weak structure shorts identified: [[ABNB]], [[TSLA]], [[WST]] (West Pharma), [[PRU]] (Prudential), [[LULU]], [[ADBE]], [[MOLINA]], [[CI]] (Cigna).
 
-> [[Session-2023-11-29|Session-2023-11-29]]: [[TSLA]], [[GME]], and other stocks that hadn't joined the rally broke out yesterday — expansion, not exhaustion.
+> [[../../06-Daily/stockbee/Sessions/Session-2026-01-29.md|Session-2026-01-29]]: | TSLA | Avoid | No setup | Doesn't meet weak structure criteria, too many bulls |
 
-> [[Session-2023-11-29|Session-2023-11-29]]: 1. **Story stocks joining the party** — GME, TSLA breaking out = bull market expanding
+> [[../../06-Daily/stockbee/Sessions/Session-2026-02-17.md|Session-2026-02-17]]: Only [[AMD]], [[META]], [[TSLA]] looked like valid reversal bullish — but dynamic, may not hold by end of day. Must wait until 3:58 to confirm.
 
-> [[Session-2023-12-04|Session-2023-12-04]]: - **Neglected stocks, younger stocks, IPO 10** — the new leaders, not NVDA/TSLA
+> [[../../06-Daily/stockbee/Sessions/Session-2026-02-17.md|Session-2026-02-17]]: | [[TSLA]] | Reversal bullish (tentative) | Watch 3:58 | Must confirm close near high |
 
-> [[Session-2023-12-04|Session-2023-12-04]]: 4. **Neglected stocks and younger stocks are the leaders** — IOT, ESTC, not NVDA/TSLA
+> [[../../06-Daily/stockbee/Sessions/Session-2026-02-23.md|Session-2026-02-23]]: - **ALVN**, **BII**, **AVR**, **CVX**, **TSLA**
 
-> [[Session-2023-12-07|Session-2023-12-07]]: | [[TSLA]] | Extended | ❌ Avoid | Extended, pulling back |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-02-23.md|Session-2026-02-23]]: - **TSLA** — fanboy stock, skeptical, level players may come in
 
-> [[Session-2023-12-18|Session-2023-12-18]]: | [[TSLA]] | Chop | ❌ Piece of shit | $2.7T company with unhinged CEO, just chopping |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-02-23.md|Session-2026-02-23]]: | TSLA | Short | Skeptical | Fanboy stock, level players may come in |
 
-> [[Session-2023-12-19|Session-2023-12-19]]: | [[TSLA]] | Chop | ❌ Piece of shit | Same as yesterday |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-05-18.md|Session-2026-05-18]]: | [[TSLA]] | EP 9M short having follow-through |
 
-> [[Session-2023-12-20|Session-2023-12-20]]: 9M EP shows mostly extended stocks — NVDA, AMZN, GOOGL, AAPL, TSLA — all extended. Nothing actionable in the scans.
+> [[../../06-Daily/stockbee/Sessions/Session-2026-05-19.md|Session-2026-05-19]]: | [[TSLA]] | Short for 3 days, gap down — take partial profits | "The fanboys will be back" |
 
-> [[Session-2024-02-14|Session-2024-02-14]]: - [[COIN]], [[AMD]], [[UBER]], [[ABNB]], [[META]], [[TSLA]]: gapping up
+> [[../../06-Daily/stockbee/Sessions/Session-2026-05-19.md|Session-2026-05-19]]: | [[TSLA]] | Reversal bullish candidate | Liquid — may work |
 
-> [[Session-2024-02-16|Session-2024-02-16]]: - 9M EP: [[SMCI]] parabolic, [[META]], [[TSLA]], [[GOOG]], [[SNAP]] (delayed reaction short)
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-04.md|Session-2026-06-04]]: Mentioned 7 tickers: NVDA, MSFT, EP, AAPL, TSLA, SOS, ANT | Setups: EP, SOS, ANT, WSS | Catalysts: earnings, news | Sentiment: sell, watch
 
-> [[Session-2024-02-27|Session-2024-02-27]]: - People excited about TSLA, NVDA — "that's for the fools"
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-04.md|Session-2026-06-04]]: 2 matches: NVDA, TSLA | 5 missed by radar: AAPL, ANT, EP, MSFT, SOS | 49 extras (radar only)
 
-> [[Session-2024-02-28|Session-2024-02-28]]: - People excited about TSLA, NVDA — "that's for the fools"
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-04.md|Session-2026-06-04]]: NVDA is making an EP after earnings. AAPL showing SOS. TSLA weak structure short. Bitcoin not our thing. Watch MSFT for ANT setup after guidance upgrade.
 
-> [[Session-2024-07-09|Session-2024-07-09]]: - [[TSLA]] — already up multiple days, too late
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-05.md|Session-2026-06-05]]: **TSLA Warning:** Tesla is retail traders' favorite stock — they "come out of the woodwork" immediately. Be careful.
 
-> [[Session-2024-07-09|Session-2024-07-09]]: | [[TSLA]] | Extended | ❌ Too late | Up multiple days |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-05.md|Session-2026-06-05]]: | Inverse ETFs | [[TSDD]] (inverse TSLA), [[SQQ]] mentioned for directional shorts |
 
-> [[Session-2025-01-06|Session-2025-01-06]]: | [[TSLA]] | N/A | Negative catalyst | 4% breakdown, don't buy here |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-15.md|Session-2026-06-15]]: | [[TSLA]]  | Third day             | "We don't buy stocks up three days in a row"                                                                           |
 
-> [[Session-2025-01-13|Session-2025-01-13]]: | [[TSLA]] | Must-watch | N/A | Watching for setup |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-23.md|Session-2026-06-23]]: | [[TSLA]] | Do not trade | "Random things can happen" — stay away |
 
-> [[Session-2025-01-21|Session-2025-01-21]]: - Shorted TSLA at 428.28, covered at 418.59 — ~$4k profit in minutes
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-24.md|Session-2026-06-24]]: | [[TSLA]] | Downtrend |
 
-> [[Session-2025-01-21|Session-2025-01-21]]: | [[TSLA]] | Momentum burst short (hit) | Missed earnings + bearish reversal | Shorted 428.28 → covered 418.59; quick $4k profit |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-24.md|Session-2026-06-24]]: | [[TSLA]] | Short | Follow-through confirmed |
 
-> [[Session-2025-01-22|Session-2025-01-22]]: | [[TSLA]] | Momentum burst short | Missed earnings + weak structure | Watching for short side, prime for move |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-24.md|Session-2026-06-24]]: | [[TSLA]] | Short | Follow-through confirmed — "that's what I was looking for" |
 
-> [[Session-2025-01-23|Session-2025-01-23]]: | [[TSLA]] | Short watch | Missed earnings | Watching for momentum burst short |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-24.md|Session-2026-06-24]]: 8. **5,000+ fund ownership stocks are all rolling over** — [[NVDA]], [[GOOG]], [[TSLA]], [[NFLX]], [[META]] all in pullback or downtrend. When this basket reverses, the market turns. Until then, chop.
 
-> [[Session-2025-01-29|Session-2025-01-29]]: - [[TSLA]] — earnings today, catalyst play
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-24.md|Session-2026-06-24]]: 10. **Gap-down follow-through = correction, not just chop** — The PM session confirmed that dip buyers who bought yesterday's bounce are now trapped. The range-bound phase is transitioning into a proper pullback. Shorts ([[RGTI]], [[IONI]], [[TSLA]], Fuel Cell) are finally following through.
 
-> [[Session-2025-01-29|Session-2025-01-29]]: | [[TSLA]] | Earnings play | Earnings today — catalyst-driven |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]: | [[TSLA]]                                  | Member chatter                          | No setup here; one-eyed king narrative                                                             |
 
-> [[Session-2025-02-03|Session-2025-02-03]]: | [[TSLA]] | Breakdown / day trade | Down 7%, weak all morning. Possible swing if closes near low |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]: | [[TSLA]]                                  | Member chatter                | No short; trappy stock                                          |
 
-> [[Session-2025-02-03|Session-2025-02-03]]: | [[TSLA]] | Bearish | Breakdown / day trade | Tariff target, weak earnings |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-13.md|Session-2026-07-13]]: | [[TSLA]] | Start of swing | Choppy — unlikely to get big follow-through |
 
 ## Related Concepts
 
@@ -108,19 +108,19 @@ promote: false
 - [[../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]
 - [[../03-Guides/stockbee/Sugar-Babies.md|Sugar-Babies]]
 - [[../04-Transcripts/stockbee/2025-01-23_9-am.md|2025-01-23_9-am]]
-- [[../06-Daily/stockbee/Sessions/Session-2023-11-09.md|Session-2023-11-09]]
-- [[../06-Daily/stockbee/Sessions/Session-2023-11-17.md|Session-2023-11-17]]
-- [[../06-Daily/stockbee/Sessions/Session-2023-11-21.md|Session-2023-11-21]]
-- [[../06-Daily/stockbee/Sessions/Session-2023-11-28.md|Session-2023-11-28]]
-- [[../06-Daily/stockbee/Sessions/Session-2023-11-29.md|Session-2023-11-29]]
-- [[../06-Daily/stockbee/Sessions/Session-2023-12-04.md|Session-2023-12-04]]
-- [[../06-Daily/stockbee/Sessions/Session-2023-12-07.md|Session-2023-12-07]]
-- [[../06-Daily/stockbee/Sessions/Session-2023-12-18.md|Session-2023-12-18]]
-- [[../06-Daily/stockbee/Sessions/Session-2023-12-19.md|Session-2023-12-19]]
-- [[../06-Daily/stockbee/Sessions/Session-2023-12-20.md|Session-2023-12-20]]
-- [[../06-Daily/stockbee/Sessions/Session-2024-02-14.md|Session-2024-02-14]]
-- [[../06-Daily/stockbee/Sessions/Session-2024-02-16.md|Session-2024-02-16]]
-- [[../06-Daily/stockbee/Sessions/Session-2024-02-27.md|Session-2024-02-27]]
-- [[../06-Daily/stockbee/Sessions/Session-2024-02-28.md|Session-2024-02-28]]
-- [[../06-Daily/stockbee/Sessions/Session-2024-07-09.md|Session-2024-07-09]]
-- [[../06-Daily/stockbee/Sessions/Session-2025-01-06.md|Session-2025-01-06]]
+- [[../06-Daily/stockbee/Sessions/2023/Session-2023-11-09.md|Session-2023-11-09]]
+- [[../06-Daily/stockbee/Sessions/2023/Session-2023-11-17.md|Session-2023-11-17]]
+- [[../06-Daily/stockbee/Sessions/2023/Session-2023-11-21.md|Session-2023-11-21]]
+- [[../06-Daily/stockbee/Sessions/2023/Session-2023-11-28.md|Session-2023-11-28]]
+- [[../06-Daily/stockbee/Sessions/2023/Session-2023-11-29.md|Session-2023-11-29]]
+- [[../06-Daily/stockbee/Sessions/2023/Session-2023-12-04.md|Session-2023-12-04]]
+- [[../06-Daily/stockbee/Sessions/2023/Session-2023-12-07.md|Session-2023-12-07]]
+- [[../06-Daily/stockbee/Sessions/2023/Session-2023-12-18.md|Session-2023-12-18]]
+- [[../06-Daily/stockbee/Sessions/2023/Session-2023-12-19.md|Session-2023-12-19]]
+- [[../06-Daily/stockbee/Sessions/2023/Session-2023-12-20.md|Session-2023-12-20]]
+- [[../06-Daily/stockbee/Sessions/2024/Session-2024-02-14.md|Session-2024-02-14]]
+- [[../06-Daily/stockbee/Sessions/2024/Session-2024-02-16.md|Session-2024-02-16]]
+- [[../06-Daily/stockbee/Sessions/2024/Session-2024-02-27.md|Session-2024-02-27]]
+- [[../06-Daily/stockbee/Sessions/2024/Session-2024-02-28.md|Session-2024-02-28]]
+- [[../06-Daily/stockbee/Sessions/2024/Session-2024-07-09.md|Session-2024-07-09]]
+- [[../06-Daily/stockbee/Sessions/2025/Session-2025-01-06.md|Session-2025-01-06]]

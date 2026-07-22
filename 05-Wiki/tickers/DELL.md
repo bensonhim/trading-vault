@@ -1,6 +1,6 @@
 ---
 title: "DELL"
-date: 2026-07-21
+date: 2026-07-22
 tags: [tickers, wiki, auto-compiled]
 mention_count: 38
 sources_count: 19
@@ -15,10 +15,6 @@ promote: false
 ## Mentions
 
 > [[../../03-Guides/stockbee/Sugar-Babies.md|Sugar-Babies]]: | DELL | Current Sugar Baby; tight setup entries |
-
-> [[Session-2025-08-29|Session-2025-08-29]]: | [[DELL]] | Short — delayed reaction bearish | "Insiders selling hand over fist" |
-
-> [[Session-2025-08-29|Session-2025-08-29]]: 10. **DELL insiders selling hand over fist** — delayed reaction bearish
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-06-01.md|Session-2026-06-01]]: A long-time member blew up his entire account by shorting [[DELL]] — an extended stock with no bearish setup.
 
@@ -90,6 +86,10 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-07-16.md|Session-2026-07-16]]: 4. **Breakouts continue to fail** — CBIT, GS, DELL, PENG all looked good and failed. This is the range-bound pattern.
 
+> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-08-29.md|Session-2025-08-29]]: | [[DELL]] | Short — delayed reaction bearish | "Insiders selling hand over fist" |
+
+> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-08-29.md|Session-2025-08-29]]: 10. **DELL insiders selling hand over fist** — delayed reaction bearish
+
 ## Related Concepts
 
 *(To be enriched)*
@@ -101,7 +101,7 @@ promote: false
 ## Sources
 
 - [[../03-Guides/stockbee/Sugar-Babies.md|Sugar-Babies]]
-- [[../06-Daily/stockbee/Sessions/Session-2025-08-29.md|Session-2025-08-29]]
+- [[../06-Daily/stockbee/Sessions/2025/Session-2025-08-29.md|Session-2025-08-29]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-06-01.md|Session-2026-06-01]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-06-05.md|Session-2026-06-05]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-06-08.md|Session-2026-06-08]]

@@ -1,16 +1,16 @@
 ---
 title: "NVDA"
-date: 2026-07-21
+date: 2026-07-22
 tags: [tickers, wiki, auto-compiled]
-mention_count: 239
-sources_count: 102
+mention_count: 240
+sources_count: 103
 compilation_count: 1
 promote: false
 ---
 
 # NVDA
 
-*Tickers — compiled from 239 mentions across 102 sources.*
+*Tickers — compiled from 240 mentions across 103 sources.*
 
 ## Mentions
 
@@ -32,67 +32,67 @@ promote: false
 
 > [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-15_6ff2ac67-abde-4233-9d31-52e2d88fd0c0_deepgram.md|meeting_2026-05-15_6ff2ac67-abde-4233-9d31-52e2d88fd0c0_deepgram]]: Do we have more SLV, NVDA, Tesla, DRAM, MicroStrategy AI.
 
-> [[Session-2023-11-01|Session-2023-11-01]]: | [[NVDA]] | Reversal Bullish | ✅ Yesterday's setup | "Perfect reversal bullish setup yesterday" |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-01-02.md|Session-2026-01-02]]: | [[NVDA]] | Gapping up | Already moved, not ideal entry |
 
-> [[Session-2023-11-01|Session-2023-11-01]]: | [[NVDA]] | Reversal Bullish | ✅ Yesterday | "Perfect reversal bullish setup yesterday" — already moved |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-01-02.md|Session-2026-01-02]]: | AI / Semiconductor | [[NVDA]], [[AMD]], [[CRWV]], Intel, Scan Disk | [[SOXL]] |
 
-> [[Session-2023-11-09|Session-2023-11-09]]: Pradeep bought [[NVDA]] yesterday via FEE — it went $3-4 from entry, he did 80/20, but the 20% got stopped out. Then NVDA went $6 more later. He also gave [[INTC]] room and got stopped at breakeven.
+> [[../../06-Daily/stockbee/Sessions/Session-2026-01-02.md|Session-2026-01-02]]: | [[NVDA]] | Extended | ⚠️ Gapping up | Not ideal entry on gap-up day |
 
-> [[Session-2023-11-09|Session-2023-11-09]]: Pradeep bought [[NVDA]] yesterday via FEE — it went $3-4 from entry, he did 80/20, but the 20% got stopped out. Then NVDA went $6 more later. He also gave [[INTC]] room and got stopped at breakeven.
+> [[../../06-Daily/stockbee/Sessions/Session-2026-01-05.md|Session-2026-01-05]]: | AI / Semiconductor | ✅ Flying | [[NVDA]], [[SOXL]], [[AMD]], Intel, [[CRWV]] |
 
-> [[Session-2023-11-09|Session-2023-11-09]]: - [[NVDA]] — did 80/20, 20% got stopped out, then it went higher
+> [[../../06-Daily/stockbee/Sessions/Session-2026-01-06.md|Session-2026-01-06]]: | [[NVDA]] | Extended | ⚠️ Watch | Eventually will break out big |
 
-> [[Session-2023-11-09|Session-2023-11-09]]: | [[NVDA]] | FEE/80-20 | ⚠️ 20% stopped out | Went $3-4 up, then 20% stopped, then went $6 more |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-01-07.md|Session-2026-01-07]]: | [[NVDA]] | Extended | ⚠️ Watch | "At some stage, this will break out and make at least 10-20%" |
 
-> [[Session-2023-11-10|Session-2023-11-10]]: | [[NVDA]] | FEE | ⚠️ 20% stopped out | Went higher after |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-01-08.md|Session-2026-01-08]]: Third 300+ green day, but with margin compression. T2108 dropped from 57.35 to 53.59. 20% study still over 100 bullish stocks — pullback signal. Markets pulled back from all-time highs, closing mixed. Small caps ([[TNA]], [[IWM]]) closed red. Only mega caps ([[NVDA]], [[AAPL]]) holding up.
 
-> [[Session-2023-11-22|Session-2023-11-22]]: # Pre-Thanksgiving Chop: NVDA Earnings Disappointment, Quick Exits Rule
+> [[../../06-Daily/stockbee/Sessions/Session-2026-01-09.md|Session-2026-01-09]]: [[NVDA]], [[SOXL]], [[TQQ]] all breaking out — the mega caps finally participating.
 
-> [[Session-2023-11-22|Session-2023-11-22]]: > "I'm bullish but cautious. Breadth has deteriorated. After the 1,000+ day, no real buying panic — stop and go. Doing 80/20 even more aggressively. Had a very good month — not going to give it back now." NVDA gapped down after earnings, everything got stopped out. Only one position left.
+> [[../../06-Daily/stockbee/Sessions/Session-2026-01-09.md|Session-2026-01-09]]: | [[NVDA]] | EP 9M liquid lava | "First earnings play of the season" |
 
-> [[Session-2023-11-22|Session-2023-11-22]]: ### NVDA Earnings — Red Flag
+> [[../../06-Daily/stockbee/Sessions/Session-2026-01-09.md|Session-2026-01-09]]: 5. **The real bosses finally showed up.** NVDA, SOXL, TQQ breaking out means mega caps joining.
 
-> [[Session-2023-11-22|Session-2023-11-22]]: > "Most are reacting negatively to earnings. I'll keep an eye on NVDA."
+> [[../../06-Daily/stockbee/Sessions/Session-2026-01-14.md|Session-2026-01-14]]: | [[NVDA]] | Follow-through | Volume not there vs. prior move |
 
-> [[Session-2023-11-22|Session-2023-11-22]]: NVDA rallied 23% into earnings, then didn't react in premarket — a big red flag.
+> [[../../06-Daily/stockbee/Sessions/Session-2026-01-21.md|Session-2026-01-21]]: | [[NVDA]] | Reversal / Fade | Money coming out of big stocks |
 
-> [[Session-2023-11-22|Session-2023-11-22]]: ### NVDA — Don't Chase
+> [[../../06-Daily/stockbee/Sessions/Session-2026-01-22.md|Session-2026-01-22]]: | [[TSLA]] / [[NVDA]] | Day trade / SIPs | Clean intraday moves |
 
-> [[Session-2023-11-22|Session-2023-11-22]]: NVDA didn't react premarket, then sold off. Classic "rally into earnings, sell the news."
+> [[../../06-Daily/stockbee/Sessions/Session-2026-01-30.md|Session-2026-01-30]]: 7. **Intel is a broken business** — negative sales growth, piece of crap. NVDA not rallying despite good fundamentals = market telling you something.
 
-> [[Session-2023-11-22|Session-2023-11-22]]: 2. **NVDA earnings disappointment** — rallied 23% into earnings, no premarket reaction, sold off
+> [[../../06-Daily/stockbee/Sessions/Session-2026-02-06.md|Session-2026-02-06]]: NVDA bouncing but Pradeep not buying:
 
-> [[Session-2023-11-22|Session-2023-11-22]]: | [[NVDA]] | SIP/Earnings | ❌ Avoid | 23% into earnings, no reaction, sold off |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-02-06.md|Session-2026-02-06]]: - Market didn't reward the NVDA catalyst
 
-> [[Session-2023-11-30|Session-2023-11-30]]: Only [[NVDA]] looks mildly interesting on short side, but 50/50 probability. Pradeep doesn't take 50/50 shots.
+> [[../../06-Daily/stockbee/Sessions/Session-2026-02-06.md|Session-2026-02-06]]: | NVDA | Avoid | No entry | Reflex bounce, no volume, don't chase |
 
-> [[Session-2023-11-30|Session-2023-11-30]]: | [[NVDA]] | Short candidate | ⚠️ 50/50 | Not worth the risk |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-02-18.md|Session-2026-02-18]]: | [[NVDA]] | Neutral | Six months sideways, nothing happening |
 
-> [[Session-2023-12-04|Session-2023-12-04]]: - **Neglected stocks, younger stocks, IPO 10** — the new leaders, not NVDA/TSLA
+> [[../../06-Daily/stockbee/Sessions/Session-2026-02-25.md|Session-2026-02-25]]: ### SA: Cautious — Watching for Follow-Through, NVDA Earnings Tonight
 
-> [[Session-2023-12-04|Session-2023-12-04]]: 4. **Neglected stocks and younger stocks are the leaders** — IOT, ESTC, not NVDA/TSLA
+> [[../../06-Daily/stockbee/Sessions/Session-2026-02-25.md|Session-2026-02-25]]: 300+ green day yesterday. Margins improved but secondary indicators still red. 20% study bullish (2:1). VIX pulled back. Small caps (TNA/IWM) rallied, outperforming. NVDA earnings after close — key event.
 
-> [[Session-2023-12-18|Session-2023-12-18]]: | [[NVDA]] | Extended | ❌ Skip | Extended, not a buy here |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-02-25.md|Session-2026-02-25]]: ### NVDA Earnings: The Big Event
 
-> [[Session-2023-12-20|Session-2023-12-20]]: 9M EP shows mostly extended stocks — NVDA, AMZN, GOOGL, AAPL, TSLA — all extended. Nothing actionable in the scans.
+> [[../../06-Daily/stockbee/Sessions/Session-2026-02-25.md|Session-2026-02-25]]: 9. **NVDA earnings tonight** = key catalyst for market direction.
 
-> [[Session-2023-12-21|Session-2023-12-21]]: 9M EP: IREN (9M breakout, showed up early), CCL (extended, catalyst today), NVDA, AAPL — mostly extended.
+> [[../../06-Daily/stockbee/Sessions/Session-2026-02-26.md|Session-2026-02-26]]: # NVDA Earnings Day, Short Squeezes vs Real EPs, Don't Worry Be Happy
 
-> [[Session-2023-12-21|Session-2023-12-21]]: | [[NVDA]] | Extended | ❌ Skip | Extended, not actionable |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-02-26.md|Session-2026-02-26]]: > "I hope the person who was planning to trade NVDA after hours is still alive. After-hours initial reaction to earnings is not something you have any control over."
 
-> [[Session-2023-12-26|Session-2023-12-26]]: Very low volume holiday trading. [[NVDA]], Tesla, AMD — all fading. [[BLNK]] (Blink Charging) was a good 9M from yesterday but also faded. Chinese stocks ([[BABA]], [[BIDU]]) down again.
+> [[../../06-Daily/stockbee/Sessions/Session-2026-02-26.md|Session-2026-02-26]]: ### SA: Cautiously Watching NVDA Earnings Reaction
 
-> [[Session-2023-12-26|Session-2023-12-26]]: 9M EP had some good ones: [[NVDA]], Tesla, [[IWM]], AMD, Intel, [[CCC]], Cipher, Bluebird Bio, [[CAT]], Apple, [[COIN]]. But volume was extremely low.
+> [[../../06-Daily/stockbee/Sessions/Session-2026-02-26.md|Session-2026-02-26]]: Another 300+ green day. 65 breakouts working — not bad. Small caps (TNA/IWM) closed green after reversing earlier losses. Tech sector led the rally. NVDA earnings the big event.
 
-> [[Session-2023-12-26|Session-2023-12-26]]: | [[NVDA]] | 9M EP | ⚠️ Fading | Extended, fading in thin market |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-02-26.md|Session-2026-02-26]]: - **NVDA** — stocks in play, will see what happens
 
-> [[Session-2023-12-28|Session-2023-12-28]]: 9M EP: 37 stocks. [[AMD]], [[NVDA]] — not buys (extended). [[CHRS]] (Coherent) = the standout — 50M shares yesterday, biotech story stock, 9M breakout. Best setup of the day.
+> [[../../06-Daily/stockbee/Sessions/Session-2026-02-26.md|Session-2026-02-26]]: ### NVDA Sold Off
 
-> [[Session-2023-12-28|Session-2023-12-28]]: | [[NVDA]] | Extended | ❌ Skip | Not a buy here |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-02-26.md|Session-2026-02-26]]: NVDA sold off after earnings. Market not scared of the sell-off — the rest of the market held up.
 
-> [[Session-2024-01-02|Session-2024-01-02]]: | [[NVDA]] | 9,000,000 Breakdown (Short) | ✅ Best short | "Something which people are in love with makes the best short" |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-02-26.md|Session-2026-02-26]]: **NVDA short template**: use AVGO earnings as parallel. AVGO had good earnings, then sold off 13%. Same pattern likely for NVDA.
 
-> [[Session-2024-01-02|Session-2024-01-02]]: | **Short** | [[NVDA]], [[ADBE]], [[CCL]] | 9,000,000 breakdowns |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-02-26.md|Session-2026-02-26]]: **NVDA short template**: use AVGO earnings as parallel. AVGO had good earnings, then sold off 13%. Same pattern likely for NVDA.
 
 ## Related Concepts
 
@@ -111,16 +111,16 @@ promote: false
 - [[../04-Transcripts/stockbee/2026-01-02_9_15-am.md|2026-01-02_9_15-am]]
 - [[../04-Transcripts/stockbee/2026-05-15_9_15-am.md|2026-05-15_9_15-am]]
 - [[../04-Transcripts/stockbee/Meetings/meeting_2026-05-15_6ff2ac67-abde-4233-9d31-52e2d88fd0c0_deepgram.md|meeting_2026-05-15_6ff2ac67-abde-4233-9d31-52e2d88fd0c0_deepgram]]
-- [[../06-Daily/stockbee/Sessions/Session-2023-11-01.md|Session-2023-11-01]]
-- [[../06-Daily/stockbee/Sessions/Session-2023-11-09.md|Session-2023-11-09]]
-- [[../06-Daily/stockbee/Sessions/Session-2023-11-10.md|Session-2023-11-10]]
-- [[../06-Daily/stockbee/Sessions/Session-2023-11-22.md|Session-2023-11-22]]
-- [[../06-Daily/stockbee/Sessions/Session-2023-11-30.md|Session-2023-11-30]]
-- [[../06-Daily/stockbee/Sessions/Session-2023-12-04.md|Session-2023-12-04]]
-- [[../06-Daily/stockbee/Sessions/Session-2023-12-18.md|Session-2023-12-18]]
-- [[../06-Daily/stockbee/Sessions/Session-2023-12-20.md|Session-2023-12-20]]
-- [[../06-Daily/stockbee/Sessions/Session-2023-12-21.md|Session-2023-12-21]]
-- [[../06-Daily/stockbee/Sessions/Session-2023-12-26.md|Session-2023-12-26]]
-- [[../06-Daily/stockbee/Sessions/Session-2023-12-28.md|Session-2023-12-28]]
-- [[../06-Daily/stockbee/Sessions/Session-2024-01-02.md|Session-2024-01-02]]
-- [[../06-Daily/stockbee/Sessions/Session-2024-01-03.md|Session-2024-01-03]]
+- [[../06-Daily/stockbee/Sessions/2023/Session-2023-11-01.md|Session-2023-11-01]]
+- [[../06-Daily/stockbee/Sessions/2023/Session-2023-11-09.md|Session-2023-11-09]]
+- [[../06-Daily/stockbee/Sessions/2023/Session-2023-11-10.md|Session-2023-11-10]]
+- [[../06-Daily/stockbee/Sessions/2023/Session-2023-11-22.md|Session-2023-11-22]]
+- [[../06-Daily/stockbee/Sessions/2023/Session-2023-11-30.md|Session-2023-11-30]]
+- [[../06-Daily/stockbee/Sessions/2023/Session-2023-12-04.md|Session-2023-12-04]]
+- [[../06-Daily/stockbee/Sessions/2023/Session-2023-12-18.md|Session-2023-12-18]]
+- [[../06-Daily/stockbee/Sessions/2023/Session-2023-12-20.md|Session-2023-12-20]]
+- [[../06-Daily/stockbee/Sessions/2023/Session-2023-12-21.md|Session-2023-12-21]]
+- [[../06-Daily/stockbee/Sessions/2023/Session-2023-12-26.md|Session-2023-12-26]]
+- [[../06-Daily/stockbee/Sessions/2023/Session-2023-12-28.md|Session-2023-12-28]]
+- [[../06-Daily/stockbee/Sessions/2024/Session-2024-01-02.md|Session-2024-01-02]]
+- [[../06-Daily/stockbee/Sessions/2024/Session-2024-01-03.md|Session-2024-01-03]]

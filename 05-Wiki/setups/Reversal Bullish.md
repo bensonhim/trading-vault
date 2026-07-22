@@ -1,16 +1,16 @@
 ---
 title: "Reversal Bullish"
-date: 2026-07-21
+date: 2026-07-22
 tags: [setups, wiki, auto-compiled]
-mention_count: 1514
-sources_count: 413
+mention_count: 1533
+sources_count: 416
 compilation_count: 1
 promote: false
 ---
 
 # Reversal Bullish
 
-*Setups — compiled from 1514 mentions across 413 sources.*
+*Setups — compiled from 1533 mentions across 416 sources.*
 
 ## Mentions
 

@@ -1,6 +1,6 @@
 ---
 title: "FOMO"
-date: 2026-07-21
+date: 2026-07-22
 tags: [concepts, wiki, auto-compiled]
 mention_count: 168
 sources_count: 97

@@ -1,16 +1,16 @@
 ---
 title: "NBIS"
-date: 2026-07-21
+date: 2026-07-22
 tags: [tickers, wiki, auto-compiled]
-mention_count: 90
-sources_count: 43
+mention_count: 92
+sources_count: 45
 compilation_count: 1
 promote: false
 ---
 
 # NBIS
 
-*Tickers — compiled from 90 mentions across 43 sources.*
+*Tickers — compiled from 92 mentions across 45 sources.*
 
 ## Mentions
 
@@ -76,6 +76,8 @@ promote: false
 
 > [[../../04-Transcripts/stockbee/2026-07-02_9_15-am.md|2026-07-02_9_15-am]]: He was buying NBIS.
 
+> [[../../04-Transcripts/stockbee/2026-07-21_9_15-am.md|2026-07-21_9_15-am]]: That NBIS is today's SIPs.
+
 > [[../../04-Transcripts/stockbee/14. Sugar Babies Guide/Pradeep Bonde - Sugar Babies Guide-Part 10 - Sugar Babies Deeper Look_deepgram.md|Pradeep Bonde - Sugar Babies Guide-Part 10 - Sugar Babies Deeper Look_deepgram]]: NBIS is based on our things.
 
 > [[../../04-Transcripts/stockbee/14. Sugar Babies Guide/Pradeep Bonde - Sugar Babies Guide-Part 10 - Sugar Babies Deeper Look_deepgram.md|Pradeep Bonde - Sugar Babies Guide-Part 10 - Sugar Babies Deeper Look_deepgram]]: You should be trading NBIS.
@@ -91,8 +93,6 @@ promote: false
 > [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-13_8db5e63e-1562-4362-8e37-316a228efa08_deepgram.md|meeting_2026-05-13_8db5e63e-1562-4362-8e37-316a228efa08_deepgram]]: NBIS, keep an eye on NBIS as a delayed reaction.
 
 > [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-13_8db5e63e-1562-4362-8e37-316a228efa08_deepgram.md|meeting_2026-05-13_8db5e63e-1562-4362-8e37-316a228efa08_deepgram]]: So so you research the start, put the catalyst here so that when it shows up in your scan, that's why when I see something which I research like NBIS, right, and I see that there is a good catalyst, I put some markers for myself to know this is something which is important I must pay attention to.
-
-> [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-13_9c3299cf-f66d-448b-92e1-d04307fafb79_deepgram.md|meeting_2026-05-13_9c3299cf-f66d-448b-92e1-d04307fafb79_deepgram]]: And, basically, this NBIS is the only thing which, like, can I basically, I think, as a catalyst, right, and then potential to make, 40 to 50% more?
 
 ## Related Concepts
 

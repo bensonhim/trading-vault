@@ -1,6 +1,6 @@
 ---
 title: "KO"
-date: 2026-07-21
+date: 2026-07-22
 tags: [tickers, wiki, auto-compiled]
 mention_count: 10
 sources_count: 7
@@ -13,12 +13,6 @@ promote: false
 *Tickers — compiled from 10 mentions across 7 sources.*
 
 ## Mentions
-
-> [[Session-2025-07-30|Session-2025-07-30]]: | [[KO]] (Coca-Cola) | Getting into crypto | Story stock — "one crypto coin free when you buy $20 of t-shirts" |
-
-> [[Session-2025-07-31|Session-2025-07-31]]: | [[KO]] (Coca-Cola) | Getting into crypto | "One crypto coin free when you buy $20 of t-shirts" |
-
-> [[Session-2025-08-01|Session-2025-08-01]]: | [[KO]] (Coca-Cola) | Getting into crypto | Story stock meme |
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-01-08.md|Session-2026-01-08]]: Consumer staples ([[PG]], [[CL]], [[KO]]) and defense stocks making crazy moves:
 
@@ -34,6 +28,12 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-07-17.md|Session-2026-07-17]]: | [[KO]]                         | Defensive rotation              | Getting hit now — selling spreading                           |
 
+> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-07-30.md|Session-2025-07-30]]: | [[KO]] (Coca-Cola) | Getting into crypto | Story stock — "one crypto coin free when you buy $20 of t-shirts" |
+
+> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-07-31.md|Session-2025-07-31]]: | [[KO]] (Coca-Cola) | Getting into crypto | "One crypto coin free when you buy $20 of t-shirts" |
+
+> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-08-01.md|Session-2025-08-01]]: | [[KO]] (Coca-Cola) | Getting into crypto | Story stock meme |
+
 ## Related Concepts
 
 *(To be enriched)*
@@ -44,9 +44,9 @@ promote: false
 
 ## Sources
 
-- [[../06-Daily/stockbee/Sessions/Session-2025-07-30.md|Session-2025-07-30]]
-- [[../06-Daily/stockbee/Sessions/Session-2025-07-31.md|Session-2025-07-31]]
-- [[../06-Daily/stockbee/Sessions/Session-2025-08-01.md|Session-2025-08-01]]
+- [[../06-Daily/stockbee/Sessions/2025/Session-2025-07-30.md|Session-2025-07-30]]
+- [[../06-Daily/stockbee/Sessions/2025/Session-2025-07-31.md|Session-2025-07-31]]
+- [[../06-Daily/stockbee/Sessions/2025/Session-2025-08-01.md|Session-2025-08-01]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-01-08.md|Session-2026-01-08]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-05-12.md|Session-2026-05-12]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-07-16.md|Session-2026-07-16]]

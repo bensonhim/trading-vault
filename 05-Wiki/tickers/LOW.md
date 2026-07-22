@@ -1,6 +1,6 @@
 ---
 title: "LOW"
-date: 2026-07-21
+date: 2026-07-22
 tags: [tickers, wiki, auto-compiled]
 mention_count: 10
 sources_count: 6
@@ -15,8 +15,6 @@ promote: false
 ## Mentions
 
 > [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 1.md|Bullish Momentum Burst Guide-Section 1]]: **Reality:** ADR is backward-looking. Before a burst, a stock has LOW ADR. The burst CAUSES the high ADR.
-
-> [[Session-2025-08-20|Session-2025-08-20]]: | [[LOW]] (Lowe's) | Day trade — earnings play | "Range $6-7, day traders can capture" |
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-01-28.md|Session-2026-01-28]]: XRT down 3 days in a row. [[TJX]], [[COST]], [[HD]], [[LOW]] all correcting. Consumer confidence weakening.
 
@@ -34,6 +32,8 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-02-17.md|Session-2026-02-17]]: 1. **Short setups dominate** — WMT, XLP, KHC, ORLY, LOW all short
 
+> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-08-20.md|Session-2025-08-20]]: | [[LOW]] (Lowe's) | Day trade — earnings play | "Range $6-7, day traders can capture" |
+
 ## Related Concepts
 
 *(To be enriched)*
@@ -45,7 +45,7 @@ promote: false
 ## Sources
 
 - [[../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 1.md|Bullish Momentum Burst Guide-Section 1]]
-- [[../06-Daily/stockbee/Sessions/Session-2025-08-20.md|Session-2025-08-20]]
+- [[../06-Daily/stockbee/Sessions/2025/Session-2025-08-20.md|Session-2025-08-20]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-01-28.md|Session-2026-01-28]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-02-04.md|Session-2026-02-04]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-02-13.md|Session-2026-02-13]]

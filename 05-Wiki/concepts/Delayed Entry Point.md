@@ -1,6 +1,6 @@
 ---
 title: "Delayed Entry Point"
-date: 2026-07-21
+date: 2026-07-22
 tags: [concepts, wiki, auto-compiled]
 mention_count: 33
 sources_count: 19
@@ -78,7 +78,7 @@ promote: false
 
 > [[../../04-Transcripts/stockbee/videos/2026-04-26_mind-clarity-dep.md|2026-04-26_mind-clarity-dep]]: And there is no delayed entry possible.
 
-> [[Session-2024-01-29|Session-2024-01-29]]: - Many stocks with earnings catalysts pulling back → setting up for delayed entry
+> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-01-29.md|Session-2024-01-29]]: - Many stocks with earnings catalysts pulling back → setting up for delayed entry
 
 ## Related Concepts
 
@@ -108,4 +108,4 @@ promote: false
 - [[../04-Transcripts/stockbee/videos/2026-02-24_how-to-create-delayed-eo-watchlist.md|2026-02-24_how-to-create-delayed-eo-watchlist]]
 - [[../04-Transcripts/stockbee/videos/2026-04-17_how-to-delayed-reaction-ep.md|2026-04-17_how-to-delayed-reaction-ep]]
 - [[../04-Transcripts/stockbee/videos/2026-04-26_mind-clarity-dep.md|2026-04-26_mind-clarity-dep]]
-- [[../06-Daily/stockbee/Sessions/Session-2024-01-29.md|Session-2024-01-29]]
+- [[../06-Daily/stockbee/Sessions/2024/Session-2024-01-29.md|Session-2024-01-29]]

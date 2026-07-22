@@ -1,16 +1,16 @@
 ---
 title: "Institutional Quality"
-date: 2026-07-21
+date: 2026-07-22
 tags: [concepts, wiki, auto-compiled]
-mention_count: 677
-sources_count: 307
+mention_count: 678
+sources_count: 308
 compilation_count: 1
 promote: false
 ---
 
 # Institutional Quality
 
-*Concepts — compiled from 677 mentions across 307 sources.*
+*Concepts — compiled from 678 mentions across 308 sources.*
 
 ## Mentions
 
@@ -78,7 +78,7 @@ promote: false
 
 > [[../../03-Guides/stockbee/03. Bullish Momentum Burst Guide/Bullish Momentum Burst Guide-Section 5.md|Bullish Momentum Burst Guide-Section 5]]: - Defense — methodical, institutional ownership suppresses volatility
 
-> [[../../03-Guides/stockbee/04. TI65 Guide/04. TI65 Guide.md|04. TI65 Guide]]: | **Example** | IBD RS Rating of 97 — ranked #3 among all stocks | TI65 of 1.05 — 7-day MA is 5% above 65-day MA |
+> [[../../03-Guides/stockbee/04. TI65 Guide/04. TI65 Guide.md|04. TI65 Guide]]: | **Example**          | IBD RS Rating of 97 — ranked #3 among all stocks               | TI65 of 1.05 — 7-day MA is 5% above 65-day MA           |
 
 > [[../../03-Guides/stockbee/07. MDT Guide/07. MDT Guide.md|07. MDT Guide]]: | **Part 1** | MDT as Ranking | What is MDT? C/AVGC126 formula, ranking stocks like IBD RS |
 
