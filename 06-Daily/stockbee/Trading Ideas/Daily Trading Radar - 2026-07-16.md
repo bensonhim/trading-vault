@@ -1,288 +1,498 @@
 ---
-title: "Daily Trading Radar — 2026-07-15"
-date: 2026-07-15
-tags: [daily, trading-radar, stockbee, pradeep-ultratrader, full-bull, full-long, bug, cybersecurity, dep, crnx, xom, bkr, sos, urbn, nmrk, mga, mmi, ants, super-tight, ultra-tight]
+title: "Daily Trading Radar — 2026-07-16"
+date: 2026-07-16
+tags: [daily, trading-radar, stockbee, pradeep-ultratrader, cautious-bull, reduce-size]
 ---
 
 # Daily Trading Radar — 2026-07-16
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!tip] **FULL_BULL** — Action: **FULL_LONG** (confidence: 60%)
-> Net primary positive, T2108 at 52.25%, cybersecurity (BUG) leading with RS_20d=72.83 (+18.6% vs SPY +0.3%). Multiple 6/6 Two Lynch SOS breakouts. Full playbook.
+> [!caution] **CAUTIOUS_BULL** — Action: **REDUCE_SIZE**
+>
+> - 5-day ratio 0.68 < 0.8
+> - 10-day ratio 0.74 < 0.8
+> - Monthly 25% ratio 0.74 < 0.8
+> - Breakdown spike: 509 vs 251
+> - Breakdown (509) > Breakout (251) = selling pressure
 
 ---
 
 ## 2. Market Monitor (Primary Breadth)
 
-| Indicator | Jul 15 | Jul 14 | Jul 13 | Jul 10 | Trend |
-|-----------|---------|---------|---------|-------|-------|
-| Net Primary | +223 | +233 | +210 | +349 | Stable positive |
-| T2108 | 53.83% | 52.25% | 52.53% | 52.0% | Rising slightly |
-| Breakouts (4%+) | 235 | 232 | 207 | 129 | Improving |
-| Breakdowns (4%+) | 205 | 185 | 458 | 181 | Declining from Jul 13 spike |
+### Primary Indicators
 
-**Primary Trend Assessment:** Net primary stable positive (+210 to +349 range). T2108 rising slightly (52.0% → 53.8%). Breakouts improving (129 → 235). Jul 13 had a breakdown spike (458) that reversed by Jul 14 (185). Market stabilizing and trending bullish.
+| Indicator | 2026-07-16 | 2026-07-15 | 2026-07-14 | 2026-07-13 | 2026-07-10 | Trend |
+|-----------|-------|-------|-------|-------|-------|-------|
+| Net Primary | +144 | +223 | +233 | +210 | +349 | — |
+| T2108 | 56.29% | 53.83% | 52.25% | 52.53% | 52.02% | — |
+| Breakouts | 251 | 235 | 232 | 207 | 129 | — |
+| Breakdowns | 509 | 205 | 185 | 458 | 181 | — |
+| BO:BD Ratio | 0.49 | 1.15 | 1.25 | 0.45 | 0.71 | — |
 
-> [!note] Pradeep's Rule
-> "If you just trade breakouts when the primary indicator is green, you will find most of the time, most of the breakouts work." — Primary is green (+223). Full playbook.
+### Secondary Indicators
+
+| Indicator | 2026-07-16 | Signal | Interpretation |
+|-----------|---------|--------|----------------|
+| Monthly 25% Up | 168 | Normal | Stocks up 25%+ in a month |
+| Monthly 25% Down | 228 | Elevated | Stocks down 25%+ in a month |
+| Monthly 25% Ratio | 0.74
+Below 1.0 | Bearish tilt |
+| Fib 13% Up (34d) | 1871 | High | Stocks up 13%+ in 34 days |
+| Fib 13% Down (34d) | 1615 | High | Stocks down 13%+ in 34 days |
+| Fib 13% Ratio | 1.16
+Above 1.0 | Bullish medium-term |
+| 5-Day Ratio | 0.68 | Below 1.0 | Short-term weakness |
+| 10-Day Ratio | 0.74 | Below 1.0 | Sustained weakness |
+
+> [!warning] Secondary Indicator Warnings
+
+- 5-day ratio below 0.8 — short-term breakdown pressure
+- 10-day ratio below 0.8 — sustained weakness over 10 days
+- Monthly 25% ratio below 0.8 — more stocks down 25%+ than up
+- Breakdown spike: 509 vs 251 (ratio 0.49)
+
+
+> [!abstract] 20% Study (Pradeep's #1 SA Signal)
+
+| Metric | Value | Signal |
+|--------|-------|--------|
+| Stocks up 20%+ (5d) | 30 | Marginal |
+| Stocks down 20%+ (5d) | 111 | Oversold bounce possible |
+
+> [!warning] Scan Suppression Active: SOS, ANTS
+> 20% study at 30 — breakouts unlikely to follow through in this environment.
+
+**Breakout Follow-Through (last 10 days):** 3d=30.2% 5d=25.9% [FAILING]
+
+> When 5-day follow-through < 30%, breakouts are systematically failing. Pradeep: 'Just see what happened to breakouts from yesterday, and did they follow through.'
 
 ---
 
 ## 3. Sector Relative Strength
 
-**Leading Sector:** BUG (cybersecurity) — RS_20d: 72.83 | RS_65d: 6.50
+**Leading Sector:** BUG (cybersecurity)
+RS_20d: 62.74 | RS_65d: 6.87
 
 ### Sector RS Heatmap (grouped by theme, top 10)
 
 | Rank | Ticker | Theme | RS_20d | RS_65d | ETF 20d | SPY 20d | Excess | Status |
 |------|--------|-------|--------|--------|---------|---------|--------|--------|
-| 1 | BUG | cybersecurity | 72.83 | 6.50 | +18.6% | +0.3% | +18.3% | LEADING |
-| 2 | XBI | biotech_small | 57.41 | 1.71 | +14.6% | +0.3% | +14.4% | — |
-| 3 | GNOM | genomics | 46.54 | — | +11.9% | +0.3% | +11.6% | — |
-| 4 | IBB | biotech_broad | 40.38 | — | +10.3% | +0.3% | +10.0% | — |
-| 5 | XLF | financials_broad | 23.44 | — | +6.0% | +0.3% | +5.7% | — |
-
-> [!note] XBI and IBB are both biotech — only XBI shown (higher RS). IBB would be next but same sector group.
-
----
-
-## 4. Sector Precursor Detection (3+ breakouts in same sector)
-
-- **Consumer Cyclical** (13 tickers, avg +4.4%) → XLY
-  Tickers: URBN, MGA, AEO, PENN, LAD, GPI, LEA, AMZN, CWH, ROST + 3 more
-
-- **Healthcare** (8 tickers, avg +5.5%) → XLV
-  Tickers: ZLAB, XRAY, STTK, NAGE, SOLV, COLL, ESTA, UFPT
-
-- **Real Estate** (7 tickers, avg +5.1%) → XLRE
-  Tickers: NMRK, MMI, CBRE, JLL, CWK, FR, CIGI
-
-- **Technology** (7 tickers, avg +5.5%) → XLK
-  Tickers: LION, AAPL, YMM, MQ, UPBD, CRCT, GCT
-
-- **Communication Services** (6 tickers, avg +5.0%) → XLC
-  Tickers: GOOGL, GOOG, PINS, Z, NXST, AMCX
-
-- **Financial Services** (4 tickers, avg +2.0%) → XLF
-  Tickers: GL, SYBT, SCHW, MTB
-
-> [!warning] Consumer Cyclical has 13 breakouts — sector ETF (XLY) may strengthen. Real Estate (7) is a new group move — watch XLRE.
+| 1 | BUG | cybersecurity | 62.74 | 6.87 | +19.4% | +0.3% | +19.1% | LEADING |
+| 2 | XBI | biotech_small | 40.06 | 1.57 | +12.4% | +0.3% | +12.1% |  |
+| 3 | XOP | oil_gas_e&p | 20.71 | -0.09 | +6.4% | +0.3% | +6.1% |  |
+| 4 | XLV | healthcare_broad | 20.19 | 1.01 | +6.3% | +0.3% | +6.0% |  |
+| 5 | XLF | financials_broad | 15.43 | 1.06 | +4.8% | +0.3% | +4.5% |  |
+| 6 | FINX | fintech | 11.00 | 0.78 | +3.4% | +0.3% | +3.1% |  |
+| 7 | ITB | home_construction | 6.34 | 0.55 | +2.0% | +0.3% | +1.6% |  |
+| 8 | XLRE | real_estate | 5.41 | 0.68 | +1.7% | +0.3% | +1.4% |  |
+| 9 | XLU | utilities | 5.04 | -0.14 | +1.6% | +0.3% | +1.2% |  |
+| 10 | SKYY | cloud_computing | 2.53 | 2.54 | +0.8% | +0.3% | +0.5% |  |
 
 ---
 
-## 5. Trade Ideas — All Candidates
+## 4b. TI65 Trend Intensity
 
-### SOS Breakout Candidates (50 found — top 20)
+> [!info] **TI65 = AVGC7 / AVGC65** — absolute momentum indicator (Pradeep).
+> ≥1.05 = bullish velocity, ≤0.95 = bearish velocity, 0.95–1.05 = neutral.
+> C65 = days in bullish TI65 (last 100). C65 ≤ 10 = **young momentum** (highest R/R).
+
+| Universe | Count | Notes |
+|----------|-------|-------|
+| Bullish (≥1.05, vol≥100K) | 1279 | Active uptrends |
+| Bearish (≤0.95, vol≥1M) | 411 | Active downtrends (short universe) |
+| Bearish (≤0.95, vol≥100K) | 752 | Wider bearish universe |
+| Neutral | 1834 | No clear trend |
+| **Young momentum** (C65 ≤ 10) | **102** | **First 10 days of bullish TI65 — highest reward/risk** |
+| Total scanned | 4330 | All tickers with ≥65 days history |
+
+### Young Momentum — TI65 Bullish, sorted by C65 ascending (20 shown, top 10)
+
+| Ticker | TI65 | C65 | D65 | C/C7 | Change% | Close | Volume |
+|--------|------|-----|-----|------|---------|-------|--------|
+| LPLA | 1.06 | 1 | 54 | 1.075 | +0.5% | $330.77 | 828,606 |
+| XYL | 1.06 | 1 | 65 | 1.038 | +3.2% | $125.30 | 2,244,941 |
+| WK | 1.05 | 1 | 91 | 1.076 | +4.8% | $56.97 | 613,390 |
+| ATEC | 1.05 | 1 | 87 | 0.988 | +2.5% | $9.27 | 2,067,298 |
+| JXN | 1.08 | 2 | 20 | 1.150 | +1.1% | $125.70 | 637,467 |
+| CTAS | 1.07 | 2 | 41 | 1.134 | +7.2% | $206.25 | 4,194,226 |
+| TRI | 1.06 | 2 | 63 | 1.089 | +3.5% | $98.82 | 2,482,826 |
+| CXM | 1.06 | 2 | 64 | 1.066 | +1.4% | $5.83 | 2,883,551 |
+| OFIX | 1.05 | 2 | 65 | 1.014 | +5.3% | $11.89 | 201,956 |
+| BCTX | 1.05 | 2 | 70 | 1.103 | -2.3% | $3.85 | 164,775 |
+
+### TI65 Anticipation — Bullish + ±0.4% narrow range day (116 candidates, top 20)
+
+> Stocks with established bullish momentum having a flat day — likely breakout setup.
+
+| Ticker | TI65 | C65 | C/C7 | Change% | Close | Volume |
+|--------|------|-----|------|---------|-------|--------|
+| LILA | 1.26 | 52 | 0.993 | +0.00% | $7.49 | 380,439 |
+| WEAV | 1.23 | 39 | 1.079 | +0.00% | $7.35 | 869,665 |
+| CLBT | 1.17 | 14 | 0.955 | +0.00% | $15.83 | 1,191,938 |
+| UIS | 1.16 | 59 | 1.044 | +0.00% | $3.80 | 742,654 |
+| BRZE | 1.12 | 39 | 1.074 | +0.00% | $26.21 | 1,658,509 |
+| OPRX **YOUNG** | 1.12 | 6 | 1.057 | +0.00% | $6.65 | 284,944 |
+| PLTK | 1.10 | 49 | 1.090 | +0.00% | $4.11 | 1,068,739 |
+| GBTG | 1.09 | 51 | 1.001 | +0.00% | $9.40 | 2,081,296 |
+| RSKD | 1.07 | 51 | 0.981 | +0.00% | $5.15 | 792,211 |
+| CCRN | 1.07 | 90 | 1.002 | +0.00% | $13.24 | 636,034 |
+| IVZ | 1.07 | 37 | 1.106 | +0.00% | $30.30 | 4,503,267 |
+| WRB | 1.06 | 11 | 0.977 | +0.00% | $69.88 | 1,371,512 |
+| OGN | 1.05 | 63 | 0.999 | +0.00% | $13.49 | 2,695,184 |
+| CRNX **YOUNG** | 1.95 | 8 | 1.004 | +0.01% | $83.91 | 3,537,560 |
+| PANW | 1.33 | 57 | 1.050 | -0.01% | $353.99 | 5,865,351 |
+| SCHW **YOUNG** | 1.11 | 7 | 1.008 | +0.01% | $102.80 | 10,281,192 |
+| RHP | 1.09 | 69 | 0.982 | +0.02% | $125.01 | 427,385 |
+| CM | 1.06 | 60 | 1.042 | -0.02% | $120.74 | 1,061,963 |
+| SOBO | 1.05 | 74 | 1.044 | +0.03% | $37.60 | 551,863 |
+| QDEL | 1.30 | 12 | 1.073 | +0.05% | $18.24 | 1,136,877 |
+
+### TI65 Pullback Scan — Bullish, sorted by C/C7 ascending (20 shown, top 10)
+
+> Pradeep: top of list = reversals (skip), middle = orderly pullbacks (**buy**), bottom = extended (skip).
+
+| Ticker | TI65 | C65 | C/C7 | Change% | Close | Volume |
+|--------|------|-----|------|---------|-------|--------|
+| SDOT | 1.07 | 11 | 0.356 | -6.6% | $14.25 | 647,552 |
+| CLRO | 1.98 | 14 | 0.521 | -6.2% | $7.21 | 187,753 |
+| RXT | 1.08 | 87 | 0.623 | -5.4% | $4.21 | 16,703,950 |
+| FCEL | 1.10 | 60 | 0.665 | -14.8% | $17.26 | 10,732,596 |
+| ARI | 1.13 | 42 | 0.686 | -33.4% | $7.02 | 12,877,244 |
+| DWSN | 1.32 | 83 | 0.687 | -4.8% | $4.34 | 212,556 |
+| STUB | 1.12 | 41 | 0.712 | +1.8% | $9.63 | 9,583,273 |
+| UPC | 1.37 | 29 | 0.720 | -7.1% | $4.55 | 216,707 |
+| ABSI | 1.50 | 65 | 0.726 | -15.7% | $8.23 | 7,414,844 |
+| RGNX | 1.46 | 21 | 0.746 | -8.7% | $11.20 | 1,815,914 |
+
+---
+
+## 5. Trade Ideas
+
+### SIPs — Stocks in Play (30 found, 12 fresh catalyst — top 15)
+
+> [!info] Pradeep: 'When nothing else works, SIPs are the only thing that works.'
+> Stocks with fresh catalyst (earnings, news, partnerships) + volume. Day trade / 1-2 day swing.
+> **[EXTENDED]** = already up 20%+ in 5d = 'priced in'. **[DILUTION]** = small-cap gap, shelf offering risk.
+
+| Ticker | Gap% | Change% | Volume | 5d Move | Flags |
+|--------|------|---------|--------|---------|-------|
+| ABT | +6.7% | +10.7% | 32,755,801 | +5% | fresh |
+| RUBI | +71.0% | -6.2% | 25,948,128 | -25% | fresh |
+| UNH | +7.4% | +1.2% | 13,252,060 | -2% | fresh |
+| CMPS | +8.9% | -6.6% | 11,907,601 | -9% | fresh |
+| HELP | +6.5% | +8.1% | 3,778,585 | +6% | fresh |
+| DFTX | +4.3% | -3.4% | 3,457,640 | -9% | fresh |
+| FULC | +5.9% | -1.7% | 2,724,571 | -3% | fresh |
+| JBHT | +7.1% | +8.0% | 2,452,489 | +6% | fresh |
+| HUM | +4.1% | -5.2% | 2,288,355 | -3% | fresh |
+| KC | +5.0% | +0.3% | 1,984,061 | -4% | fresh |
+| GHRS | +11.6% | +8.2% | 1,483,361 | +7% | fresh |
+| PESI | +8.8% | +3.6% | 1,166,461 | +8% | fresh |
+| ATAI | +31.9% | +33.4% | 165,656,796 | +34% | EXTENDED |
+| STAK | -0.5% | +68.1% | 57,335,575 | -1% | fresh |
+| LCID | +0.8% | +8.6% | 45,435,548 | +11% | fresh |
+
+### SOS Breakout Candidates (0 found — top 20)
 
 | # | Ticker | Change% | Volume | Two Lynch | Leg | Priority |
 |---|--------|---------|--------|-----------|-----|----------|
-| 1 | URBN | +3.9% | 1,429,749 | 6/6 | 1st | highest |
-| 2 | NMRK | +5.5% | 1,281,658 | 6/6 | 1st | highest |
-| 3 | MGA | +2.6% | 1,035,486 | 6/6 | 1st | highest |
-| 4 | MMI | +4.3% | 146,268 | 6/6 | 1st | highest |
-| 5 | GOOGL | +3.2% | 28,115,784 | 5/6 | 1st | highest |
-| 6 | GOOG | +3.6% | 18,499,202 | 5/6 | 1st | highest |
-| 7 | LION | +5.0% | 7,765,798 | 5/6 | 1st | highest |
-| 8 | AEO | +7.8% | 7,390,883 | 5/6 | 1st | highest |
-| 9 | PENN | +4.7% | 3,018,067 | 5/6 | 1st | highest |
-| 10 | CBRE | +6.2% | 1,908,902 | 5/6 | 1st | highest |
-| 11 | ZLAB | +5.9% | 959,565 | 5/6 | 1st | highest |
-| 12 | JLL | +4.3% | 530,195 | 5/6 | 1st | highest |
-| 13 | LAD | +3.8% | 351,883 | 5/6 | 1st | highest |
-| 14 | GPI | +6.8% | 228,793 | 5/6 | 1st | highest |
-| 15 | CWK | +7.5% | 2,314,958 | 6/6 | 2nd | high |
-| 16 | SMG | +6.0% | 1,319,165 | 6/6 | 2nd | high |
-| 17 | AAPL | +4.0% | 60,237,712 | 5/6 | 2nd | high |
-| 18 | AMZN | +3.0% | 43,340,551 | 5/6 | 1st | high |
-| 19 | PINS | +4.7% | 14,066,474 | 5/6 | 2nd | high |
-| 20 | YMM | +6.5% | 12,308,791 | 5/6 | 2nd | high |
 
 ### DEP Candidates (20 found)
 
 | # | Ticker | Days Since | Pullback | Width | Entry | Stop | Priority |
 |---|--------|-----------|----------|-------|-------|------|----------|
-| 1 | XOM | 2d | 2d | 2.80% | $146.15 | $142.49 | highest |
-| 2 | BKR | 7d | 5d | 5.68% | $59.23 | $57.75 | highest |
-| 3 | BTE | 8d | 6d | 8.98% | $4.47 | $4.36 | highest |
-| 4 | CRNX | 8d | 6d | 0.67% | $84.10 | $83.27 | high |
-| 5 | TECH | 20d | 10d | 1.28% | $71.49 | $70.35 | high |
-| 6 | KHC | 14d | 9d | 5.31% | $25.88 | $25.23 | high |
-| 7 | CCC | 5d | 3d | 7.35% | $6.53 | $6.37 | high |
-| 8 | NKE | 14d | 9d | 7.65% | $45.14 | $44.01 | high |
-| 9 | GIS | 14d | 9d | 7.71% | $37.68 | $36.74 | high |
-| 10 | CMCSA | 16d | 10d | 8.33% | $24.80 | $24.18 | high |
-| 11 | SNAP | 14d | 9d | 8.44% | $4.98 | $4.86 | high |
-| 12 | OWL | 13d | 8d | 10.69% | $10.14 | $9.89 | high |
-| 13 | APGE | 23d | 10d | 1.0% | $134.00 | $132.27 | medium |
-| 14 | ABBV | 19d | 10d | 6.96% | $261.90 | $255.35 | medium |
-| 15 | CAG | 14d | 9d | 9.15% | $14.66 | $14.29 | medium |
-| 16 | NFLX | 19d | 10d | 10.48% | $78.54 | $76.58 | medium |
-| 17 | CHYM | 19d | 10d | 13.11% | $22.28 | $21.72 | high |
-| 18 | FLO | 19d | 10d | 15.71% | $9.01 | $8.78 | medium |
-| 19 | AAL | 21d | 10d | 16.64% | $18.89 | $18.42 | medium |
-| 20 | BMBL | 20d | 10d | 18.97% | $3.55 | $3.46 | medium |
+| 1 | TECH | 21d | 10d | 1.28% | $71.49 | $70.35 | high |
+| 2 | XOM | 3d | 3d | 3.39% | $147.00 | $143.32 | highest |
+| 3 | PR | 9d | 7d | 5.17% | $20.03 | $19.53 | highest |
+| 4 | BKR | 8d | 6d | 5.68% | $59.23 | $57.75 | highest |
+| 5 | MRK | 21d | 10d | 6.01% | $130.42 | $127.16 | high |
+| 6 | NKE | 15d | 10d | 7.65% | $45.14 | $44.01 | high |
+| 7 | FOXA | 14d | 9d | 7.84% | $57.06 | $55.63 | high |
+| 8 | CMCSA | 17d | 10d | 8.33% | $24.80 | $24.18 | high |
+| 9 | XYZ | 20d | 10d | 8.4% | $81.14 | $79.11 | medium |
+| 10 | GEN | 15d | 10d | 8.99% | $27.38 | $26.70 | high |
+| 11 | DT | 20d | 10d | 10.11% | $46.72 | $45.55 | high |
+| 12 | NFLX | 20d | 10d | 10.48% | $78.54 | $76.58 | medium |
+| 13 | OWL | 14d | 9d | 10.69% | $10.14 | $9.89 | high |
+| 14 | DOW | 9d | 7d | 11.5% | $31.31 | $30.53 | high |
+| 15 | VG | 8d | 6d | 12.45% | $13.65 | $13.31 | highest |
+| 16 | CHTR | 17d | 10d | 13.91% | $145.70 | $142.05 | medium |
+| 17 | UAL | 22d | 10d | 13.98% | $138.91 | $135.44 | medium |
+| 18 | MSTR | 14d | 9d | 16.4% | $104.88 | $102.26 | high |
+| 19 | AAL | 22d | 10d | 16.64% | $18.89 | $18.42 | medium |
+| 20 | U | 15d | 10d | 16.78% | $33.15 | $32.32 | medium |
 
-### ANTS Candidates (35 found — all 2T minimum, with tight tier)
+### ANTS Candidates (0 found — top 20 with tight tier)
 
-| # | Ticker | Price | Tight Tier | Tight Days | Priority | Notes |
-|---|--------|-------|-----------|------------|----------|-------|
-| 1 | T | $21.43 | super-tight | 3 | highest | 3T super-tight |
-| 2 | LCID | $5.95 | ultra-tight | 2 | highest | 2T ultra-tight (coiled spring) |
-| 3 | PFE | $24.82 | super-tight | 3 | highest | 3T super-tight |
-| 4 | CMCSA | $23.49 | super-tight | 3 | highest | 3T super-tight |
-| 5 | HIMS | $37.17 | super-tight | 2 | highest | 2T super-tight |
-| 6 | NCLH | $19.73 | super-tight | 3 | highest | 3T super-tight |
-| 7 | AMZN | $254.96 | tight | 2 | highest | 2T, 5000+ funds |
-| 8 | NFLX | $73.68 | tight | 2 | highest | 2T |
-| 9 | GOOGL | $370.92 | tight | 2 | highest | 2T, 5000+ funds |
-| 10 | GOOG | $370.21 | tight | 2 | highest | 2T, 5000+ funds |
-| 11 | PLTR | $133.76 | tight | 2 | highest | 2T |
-| 12 | BB | $10.64 | tight | 4 | highest | 4T tight |
-| 13 | KO | $82.45 | tight | 3 | highest | 3T |
-| 14 | CPRT | $27.28 | tight | 3 | highest | 3T |
-| 15 | YMM | $9.20 | tight | 4 | highest | 4T |
-| 16 | KHC | $25.45 | tight | 4 | highest | 4T |
-| 17 | GIS | $37.22 | tight | 3 | highest | 3T |
-| 18 | RIVN | $17.80 | tight | 2 | highest | 2T, EV sector |
-| 19 | DELL | $412.68 | tight | 2 | highest | 2T |
-| 20 | XOM | $144.51 | tight | 2 | highest | 2T, energy |
+| # | Ticker | Price | Tight Tier | Tight Days | Priority |
+|---|--------|-------|-----------|------------|----------|
 
 ---
 
 ## 6. Pre-Market Order Sheet
 
-### DEP Limit Orders (top 10)
+### DEP Limit Orders
 
 | Ticker | Entry (Limit) | Stop | Width | Consolidation | Breakout Date |
 |--------|---------------|------|-------|---------------|---------------|
-| XOM | $146.15 | $142.49 | 2.50% | 2d, 2.8% width | Jul 13 (2d ago) |
-| BKR | $59.23 | $57.75 | 2.50% | 5d, 5.68% width | Jul 8 (7d ago) |
-| BTE | $4.47 | $4.36 | 2.50% | 6d, 8.98% width | Jul 7 (8d ago) |
-| CRNX | $84.10 | $83.27 | 0.99% | 6d, 0.67% width (very tight) | Jul 7 (8d ago) |
-| TECH | $71.49 | $70.35 | 1.59% | 10d, 1.28% width (very tight) | Jun 25 (20d ago) |
-| KHC | $25.88 | $25.23 | 2.50% | 9d, 5.31% width | Jul 1 (14d ago) |
-| NKE | $45.14 | $44.01 | 2.50% | 9d, 7.65% width | Jul 1 (14d ago) |
-| CCC | $6.53 | $6.37 | 2.50% | 3d, 7.35% width | Jul 10 (5d ago) |
-| CMCSA | $24.80 | $24.18 | 2.50% | 10d, 8.33% width | Jun 29 (16d ago) |
-| APGE | $134.00 | $132.27 | 1.29% | 10d, 1.0% width (extremely tight) | Jun 22 (23d ago) |
+| TECH | $71.49 | $70.35 | 1.6% | 10d, 1.28% | 21d ago |
+| XOM | $147.00 | $143.32 | 2.5% | 3d, 3.39% | 3d ago |
+| PR | $20.03 | $19.53 | 2.5% | 7d, 5.17% | 9d ago |
+| BKR | $59.23 | $57.75 | 2.5% | 6d, 5.68% | 8d ago |
+| MRK | $130.42 | $127.16 | 2.5% | 10d, 6.01% | 21d ago |
+| NKE | $45.14 | $44.01 | 2.5% | 10d, 7.65% | 15d ago |
+| FOXA | $57.06 | $55.63 | 2.5% | 9d, 7.84% | 14d ago |
+| CMCSA | $24.80 | $24.18 | 2.5% | 10d, 8.33% | 17d ago |
+| XYZ | $81.14 | $79.11 | 2.5% | 10d, 8.4% | 20d ago |
+| GEN | $27.38 | $26.70 | 2.5% | 10d, 8.99% | 15d ago |
 
 ### ANTS BSLO Orders (top 10 — sorted by tight tier)
 
 | Ticker | Trigger (BSLO) | Tight Tier | Tight Days | Notes |
 |--------|----------------|-----------|------------|-------|
-| LCID | $6.01 (+1%) | ultra-tight | 2 | Coiled spring — highest probability |
-| T | $21.64 (+1%) | super-tight | 3 | 3T super-tight |
-| PFE | $25.07 (+1%) | super-tight | 3 | 3T super-tight |
-| CMCSA | $23.72 (+1%) | super-tight | 3 | Also in DEP list |
-| HIMS | $37.54 (+1%) | super-tight | 2 | 2T super-tight |
-| NCLH | $19.93 (+1%) | super-tight | 3 | 3T super-tight |
-| AMZN | $257.51 (+1%) | tight | 2 | 5000+ funds, Liquid Glamour |
-| NFLX | $74.42 (+1%) | tight | 2 | Communications sector |
-| GOOGL | $374.63 (+1%) | tight | 2 | 5000+ funds, Liquid Glamour |
-| PLTR | $135.10 (+1%) | tight | 2 | Technology sector |
 
 ---
 
-## 7. Intraday Watchlist (SOS)
+## 7. Active Sugar Babies
 
-### SOS Breakout Candidates (top 20 — monitor for 4% trigger)
+| Rank | Ticker | 21d | 5d | 504d | Tier |
+|------|--------|-----|-----|------|------|
+| 1 | ATAI | 6 | 2 | 14 | core |
+| 2 | COMP | 6 | 2 | 32 | expanded |
+| 3 | DRAM | 6 | 2 | 15 | core |
+| 4 | FCEL | 6 | 2 | 23 | core |
+| 5 | MSTZ | 6 | 2 | 70 | core |
+| 6 | NWL | 6 | 2 | 24 | expanded |
+| 7 | AMD | 6 | 1 | 55 | core |
+| 8 | NOWL | 6 | 1 | 15 | core |
+| 9 | SMCI | 6 | 1 | 74 | expanded |
+| 10 | SOXS | 6 | 1 | 35 | core |
+| 11 | IBRX | 5 | 3 | 32 | expanded |
+| 12 | CIFR | 5 | 2 | 73 | core |
+| 13 | JBLU | 5 | 2 | 59 | core |
+| 14 | MARA | 5 | 2 | 78 | core |
+| 15 | NVDL | 5 | 2 | 64 | core |
+| 16 | RXRX | 5 | 2 | 65 | expanded |
+| 17 | SLS | 5 | 2 | 14 | expanded |
+| 18 | AMAT | 5 | 1 | 22 | expanded |
+| 19 | FRMI | 5 | 1 | 20 | core |
+| 20 | HIMS | 5 | 1 | 67 | core |
 
-| Ticker | Two Lynch | Leg | Volume | Sector | Sector ETF | Notes |
-|--------|-----------|-----|--------|--------|-----------|-------|
-| URBN | 6/6 | 1st | 1.4M | Consumer Cyclical | XLY | Perfect TL, consumer sector group move |
-| NMRK | 6/6 | 1st | 1.3M | Real Estate | XLRE | Perfect TL, real estate group move (7 tickers) |
-| MGA | 6/6 | 1st | 1.0M | Consumer Cyclical | XLY | Perfect TL |
-| MMI | 6/6 | 1st | 146K | Real Estate | XLRE | Perfect TL, low volume |
-| GOOGL | 5/6 | 1st | 28.1M | Communication Services | XLC | High volume, 5000+ funds |
-| GOOG | 5/6 | 1st | 18.5M | Communication Services | XLC | High volume |
-| AAPL | 5/6 | 2nd | 60.2M | Technology | XLK | 5000+ funds, also in ANTS |
-| AMZN | 5/6 | 1st | 43.3M | Consumer Cyclical | XLY | 5000+ funds, also in ANTS |
+### Sugar Babies in Hot Sectors (with active setups today)
 
----
+| Ticker | SB Tier | 504d | 21d | 10d | 5d | Recency | Sector ETF | RS Rank | Status |
+|--------|---------|------|-----|-----|-----|---------|-----------|---------|--------|
+| TECH | expanded | 1 | 1 | 1 | 1 | 18 | XBI (#2) | SETTING UP (ACTIVE (5d)) |
+| GEN | expanded | 7 | 2 | 1 | 0 | 11 | BUG (#1) | SETTING UP (ACTIVE (10d)) * |
 
-## 8. Active Sugar Babies (Recent Breakouts)
-
-| Rank | Ticker | 21d | 5d  | 504d | Tier |
-| ---- | ------ | --- | --- | ---- | ---- |
-| 1    | IREN   | 2   | 0   | 103  | core |
-| 2    | WULF   | 3   | 0   | 94   | core |
-| 3    | OKLO   | 3   | 0   | 91   | core |
-
-> [!note] Full Sugar Baby watchlist (1,903 tickers) in Google Sheets "SB Watchlist" tab. Active SBs (269) in "SB Active" tab.
-
----
-
-## 9. Similar Historical Conditions
-
-| Date | Similarity | Pradeep's Call | T2108 | Net | Outcome |
-|------|-----------|----------------|-------|-----|---------|
-| Jun 10, 2026 | 51% | cautious / REDUCE_SIZE | 41.7% | +232 | SPY rose +2.1% over 5d |
-| May 11, 2026 | 49% | bullish / FULL_LONG | 52.7% | +581 | SPY fell -0.1% over 5d |
-
-> [!note] Historical context mixed — 1 positive, 1 flat. Similar conditions led to slight positive to flat market action.
+*Recency = 5d×10 + 10d×5 + 21d×3 (Pradeep's recency weighting). Higher = more recent breakout activity.*
 
 ---
 
-## 10. Ticker Details
+## 8. Similar Historical Conditions
 
-### CRNX — Biotechnology | XBI | $8.9B | 1000+ funds
-
-**DEP Setup:** Breakout Jul 7, 6-day consolidation, 0.67% width (extremely tight)
-
-| Date   | Total Move   | Entry  | Stop   | Last Close | Volume | Result    |
-| ------ | ------------ | ------ | ------ | ---------- | ------ | --------- |
-| Jun 26 | +138.7% (3d) | $36.39 | $34.76 | $83.53     | 5.0M   | BREAKEVEN |
-| Jun 9  | +4.5%        | $34.82 | $33.20 | $34.97     | 885K   | STOPPED   |
-| Jun 4  | +4.7%        | $34.41 | $33.30 | $34.63     | 1.1M   | STOPPED   |
-| May 4  | +11.5% (2d)  | $40.58 | $38.61 | $43.49     | 1.2M   | BREAKEVEN |
-| Apr 17 | +5.1%        | $40.58 | $39.31 | $41.00     | 1.1M   | STOPPED   |
-
-**Assessment:** +138.7% breakout (major catalyst) with very tight 0.67% consolidation. Biotech sector (XBI) is #2 leading. High risk, high reward.
+| Date | Similarity | Pradeep's Call | Outcome |
+|------|-----------|----------------|---------|
+| 2026-05-19 | 52% | bullish/FULL_LONG | SPY rose 2.3% over 5 days |
+| 2026-05-19 | 52% | bullish/FULL_LONG | SPY rose 2.3% over 5 days |
+| 2026-05-07 | 45% | cautious/REDUCE_SIZE | SPY rose 2.3% over 5 days |
 
 ---
 
-### APGE — Biotechnology | XBI | $8.3B | 1000+ funds
+## 9. Ticker Details
 
-**DEP Setup:** Breakout Jun 22, 10-day consolidation, 1.0% width (extremely tight)
 
-| Date | Total Move | Entry | Stop | Last Close | Volume | Result |
-|------|-----------|-------|------|-----------|--------|--------|
-| Jun 22 | +46.7% | $94.00 | $131.13 | $132.55 | 61.7M | PROFIT_80_20 |
-| Jun 11 | +8.2% | $86.03 | $81.89 | $89.50 | 793K | BREAKEVEN |
-| Jun 3 | +15.5% (2d) | $81.86 | $77.92 | $90.90 | 1.1M | BREAKEVEN |
-| May 29 | +5.6% | $80.93 | $76.23 | $82.14 | 1.4M | SUCCESS |
+**TECH**
+- Industry: Biotechnology
+- Sector: Healthcare
+- Sector ETF: XBI (biotech_small)
+- Market Cap: $11.2B
+- Fund Ownership: 1000+ - Gaining Interest (medium size)
+- Group Move: Yes (84 stocks in sector broke out today)
+- Breakout History (5 past swings):
+  - 2026-06-24: +25.7% total (2d swing) | Entry: $58.51 | Stop: $56.28 | Last Close: $70.70 | Vol: 4,232,100 | PROFIT_80_20
+  - 2026-06-18: +5.3% total | Entry: $57.20 | Stop: $54.60 | Last Close: $57.94 | Vol: 3,773,100 | SUCCESS
+  - 2026-06-15: +4.0% total | Entry: $56.16 | Stop: $54.10 | Last Close: $56.17 | Vol: 3,298,763 | SUCCESS
+  - 2026-06-04: +4.6% total | Entry: $52.88 | Stop: $50.83 | Last Close: $53.18 | Vol: 4,200,697 | SUCCESS
+  - 2026-05-28: +5.7% total | Entry: $50.01 | Stop: $47.52 | Last Close: $50.84 | Vol: 2,852,420 | BREAKEVEN
+- EMA:
+  - EMA5: $71.41
+  - EMA8: $70.98
+  - EMA10: $70.52
+  - EMA20: $66.63
+  - Price above all EMAs (uptrend confirmed)
+- TI65: 1.26 (bullish **YOUNG MOMENTUM**) | C65=1 D65=0
+  C/C7=1.016 (sort ascending for pullbacks)
 
-**Assessment:** +46.7% breakout, extremely tight 1.0% consolidation, 10 days. Biotech sector leading. Small position only.
+
+**XOM**
+- Industry: Oil & Gas Integrated
+- Sector: Energy
+- Sector ETF: XLE (energy_broad)
+- Market Cap: $628.8B
+- Fund Ownership: 5000+ - Liquid Glamour (largest size)
+- Group Move: Yes (5 stocks in sector broke out today)
+- Breakout History (2 past swings):
+  - 2026-07-13: +4.1% total | Entry: $144.44 | Stop: $139.09 | Last Close: $144.51 | Vol: 18,724,339 | BREAKEVEN
+  - 2026-05-15: +4.1% total | Entry: $157.82 | Stop: $151.47 | Last Close: $157.92 | Vol: 27,882,407 | BREAKEVEN
+- EMA:
+  - EMA5: $143.94
+  - EMA8: $142.77
+  - EMA10: $142.29
+  - EMA20: $142.41
+  - Price above all EMAs (uptrend confirmed)
+- TI65: 0.97 (neutral) | C65=0 D65=0
+  C/C7=1.030 (sort ascending for pullbacks)
+
+
+**PR**
+- Industry: Oil & Gas Exploration & Production
+- Sector: Energy
+- Sector ETF: XLE (energy_broad)
+- Market Cap: $17.6B
+- Fund Ownership: 1000+ - Gaining Interest (medium size)
+- Group Move: Yes (5 stocks in sector broke out today)
+- Breakout History (5 past swings):
+  - 2026-07-07: +4.9% total | Entry: $18.92 | Stop: $18.08 | Last Close: $19.09 | Vol: 11,388,600 | PROFIT_80_20
+  - 2026-01-08: +4.4% total | Entry: $13.81 | Stop: $13.18 | Last Close: $13.87 | Vol: 14,359,897 | PROFIT_80_20
+  - 2025-11-06: +5.5% total | Entry: $12.27 | Stop: $11.86 | Last Close: $12.45 | Vol: 19,888,510 | PROFIT_80_20
+  - 2025-08-22: +4.8% total | Entry: $13.14 | Stop: $12.51 | Last Close: $13.23 | Vol: 7,544,100 | BREAKEVEN
+  - 2025-07-08: +4.7% total | Entry: $13.77 | Stop: $13.09 | Last Close: $13.86 | Vol: 11,579,474 | STOPPED
+- EMA:
+  - EMA5: $19.52
+  - EMA8: $19.36
+  - EMA10: $19.29
+  - EMA20: $19.16
+  - Price above all EMAs (uptrend confirmed)
+- TI65: 0.99 (neutral) | C65=0 D65=0
+  C/C7=1.033 (sort ascending for pullbacks)
+
+
+**BKR**
+- Industry: Oil & Gas Equipment & Services
+- Sector: Energy
+- Sector ETF: XLE (energy_broad)
+- Market Cap: $55.9B
+- Fund Ownership: 2500+ - Institutional Quality (big size)
+- Group Move: Yes (5 stocks in sector broke out today)
+- Breakout History (5 past swings):
+  - 2026-07-08: +5.7% total | Entry: $56.65 | Stop: $54.59 | Last Close: $57.58 | Vol: 16,775,600 | BREAKEVEN
+  - 2026-04-24: +6.9% total | Entry: $66.85 | Stop: $64.88 | Last Close: $68.71 | Vol: 15,504,408 | BREAKEVEN
+  - 2026-03-19: +5.6% total | Entry: $59.58 | Stop: $55.77 | Last Close: $60.51 | Vol: 14,652,200 | BREAKEVEN
+  - 2026-01-21: +9.8% total (2d swing) | Entry: $52.94 | Stop: $51.16 | Last Close: $55.89 | Vol: 10,701,911 | BREAKEVEN
+  - 2026-01-15: +4.0% total | Entry: $51.62 | Stop: $49.04 | Last Close: $51.63 | Vol: 11,621,538 | SUCCESS
+- EMA:
+  - EMA5: $56.99
+  - EMA8: $56.87
+  - EMA10: $56.86
+  - EMA20: $57.95
+  - Nearest EMA: EMA10 (0.6% away)
+- TI65: 0.92 (bearish) | C65=0 D65=1
+  C/C7=1.038 (sort ascending for pullbacks)
+
+
+**MRK**
+- Industry: Drug Manufacturers - General
+- Sector: Healthcare
+- Sector ETF: XLV (healthcare_broad)
+- Market Cap: $311.9B
+- Fund Ownership: 5000+ - Liquid Glamour (largest size)
+- Group Move: Yes (84 stocks in sector broke out today)
+- Breakout History (5 past swings):
+  - 2026-06-25: +4.0% total | Entry: $125.42 | Stop: $119.79 | Last Close: $125.45 | Vol: 14,049,625 | BREAKEVEN
+  - 2026-06-04: +4.8% total | Entry: $118.44 | Stop: $115.09 | Last Close: $119.40 | Vol: 15,933,945 | BREAKEVEN
+  - 2026-05-22: +5.6% total | Entry: $119.65 | Stop: $118.04 | Last Close: $121.54 | Vol: 14,754,581 | STOPPED
+  - 2025-11-25: +5.2% total | Entry: $102.03 | Stop: $97.43 | Last Close: $103.25 | Vol: 22,225,531 | BREAKEVEN
+  - 2025-11-11: +4.8% total | Entry: $88.16 | Stop: $84.41 | Last Close: $88.87 | Vol: 15,436,039 | PROFIT_80_20
+- EMA:
+  - EMA5: $124.94
+  - EMA8: $124.88
+  - EMA10: $124.82
+  - EMA20: $123.28
+  - **Pullback rejection at EMA5 ($124.94)**
+    Low $124.00 dipped to EMA, closed $127.63 above (+2.1%)
+  - Price above all EMAs (uptrend confirmed)
+- TI65: 1.06 (bullish **YOUNG MOMENTUM**) | C65=1 D65=0
+  C/C7=0.991 (sort ascending for pullbacks)
 
 ---
 
-### TECH — Biotechnology | XBI | $11.2B | 1000+ funds
+## 10. Short-Side Setups (30 candidates)
 
-**DEP Setup:** Breakout Jun 25 (+19.3% earnings gap), 10-day consolidation, 1.28% width (very tight)
+### Bearish DEP (5) — negative EP → breakdown below consolidation
 
-| Date | Total Move | Entry | Stop | Last Close | Volume | Result |
-|------|-----------|-------|------|-----------|--------|--------|
-| Jun 24 | +25.7% (2d) | $58.51 | $56.28 | $70.70 | 4.2M | PROFIT_80_20 |
-| Jun 18 | +5.3% | $57.20 | $54.60 | $57.94 | 3.8M | SUCCESS |
-| Jun 15 | +4.0% | $56.16 | $54.10 | $56.17 | 3.3M | SUCCESS |
-| Jun 4 | +4.6% | $52.88 | $50.83 | $53.18 | 4.2M | SUCCESS |
-| May 28 | +5.7% | $50.01 | $47.52 | $50.84 | 2.9M | BREAKEVEN |
+| Ticker | EP Age | EP Change | Entry | Stop | Notes |
+|--------|--------|-----------|-------|------|-------|
+| PL | 6d | -4.2% | $24.90 | $25.96 | Negative EP 6d ago (-4.2%), breaking consolidation |
+| PURR | 3d | -5.2% | $7.35 | $7.61 | Negative EP 3d ago (-5.2%), breaking consolidation |
+| CMPS | 10d | -5.7% | $12.99 | $13.97 | Negative EP 10d ago (-5.7%), breaking consolidation |
+| SMH | 3d | -4.2% | $590.77 | $600.31 | Negative EP 3d ago (-4.2%), breaking consolidation |
+| FPS | 3d | -6.9% | $41.18 | $42.62 | Negative EP 3d ago (-6.9%), breaking consolidation |
 
-**Assessment:** 3 SUCCESS + 1 PROFIT_80_20 in last 5 swings. Earnings gap catalyst (Jun 25, +19.3%). Very tight 1.28% consolidation. Biotech sector leading.
+### WSS Enhanced (5) — waterfall / sector breakdown / cult breakdown
+
+| Ticker | Pattern | Change % | Entry | Stop | Notes |
+|--------|---------|----------|-------|------|-------|
+| ONDS | sector_breakdown | -5.7% | $6.65 | $6.83 | Sector weakness breakdown |
+| INTC | sector_breakdown | -5.8% | $96.98 | $100.18 | Sector weakness breakdown |
+| ORCL | sector_breakdown | -6.2% | $124.27 | $128.26 | Sector weakness breakdown |
+| ASTS | sector_breakdown | -17.0% | $55.01 | $59.09 | Sector weakness breakdown |
+| JOBY | sector_breakdown | -5.4% | $7.34 | $7.52 | Sector weakness breakdown |
+
+### Sugar Baby Short (5) — former SBs now in weakening sectors
+
+| Ticker | SB Tier | Sector ETF | Decline from Peak | Notes |
+|--------|---------|-----------|-------------------|-------|
+| DFNS | expanded | PPA | -82.1% | SB in weakening sector PPA (RS_20d=-13.81), down 82% from peak |
+| CAST | expanded | XLK | -74.4% | SB in weakening sector XLK (RS_20d=-15.07), down 74% from peak |
+| ASTC | expanded | PPA | -71.6% | SB in weakening sector PPA (RS_20d=-13.81), down 72% from peak |
+| LHSW | expanded | XLK | -65.4% | SB in weakening sector XLK (RS_20d=-15.07), down 65% from peak |
+| NVVE | expanded | XLY | -61.1% | SB in weakening sector XLY (RS_20d=-2.40), down 61% from peak |
+
+### Bearish Reversal (5) — 3:58 PM exhaustion
+
+| Ticker | Intraday Gain | Close Position | Notes |
+|--------|----------------|-----------------|-------|
+| DOCN | +6.9% | 28% | Reversal: was up 6.9% intraday, closed at 28% of range |
+| KRO | +6.0% | 22% | Reversal: was up 6.0% intraday, closed at 22% of range |
+| TMCI | +8.2% | 16% | Reversal: was up 8.2% intraday, closed at 16% of range |
+| KLAC | +5.1% | 22% | Reversal: was up 5.1% intraday, closed at 22% of range |
+| AMAT | +5.1% | 11% | Reversal: was up 5.1% intraday, closed at 11% of range |
+
+### Bearish Study (10) — down >15% in 25d, cap <$10B (study list)
+
+**Weak sectors by count:**
+
+- Industrials: 4
+- Technology: 4
+- Energy: 1
+- Financial Services: 1
+
+| Ticker | Change 25d | Sector | Cap $B | Priority |
+|--------|------------|--------|--------|----------|
+| BIYA | -65.7% | Industrials | $0.01 | high |
+| FAC | -65.1% | Industrials | $0.17 | high |
+| SOC | -65.0% | Energy | $0.44 | high |
+| MNTS | -61.6% | Industrials | $0.03 | high |
+| TOYO | -59.6% | Technology | $0.22 | high |
+| ABTC | -57.3% | Financial Services | $0.38 | high |
+| ASTI | -53.8% | Technology | $0.01 | high |
+| LUNR | -51.1% | Industrials | $2.38 | high |
+| MRLN | -51.0% | Technology | $0.11 | high |
+| NVTS | -48.5% | Technology | $3.19 | high |
 
 ---
 
 ## 11. Action Summary
 
-- [ ] Full playbook — 4 SOS with 6/6 Two Lynch scores (URBN, NMRK, MGA, MMI)
-- [ ] Place DEP limit orders: XOM $146.15, BKR $59.23, CRNX $84.10, TECH $71.49
-- [ ] Place ANTS BSLO orders: LCID (ultra-tight), T (3T super-tight), PFE (3T super-tight)
-- [ ] Monitor SOS intraday: URBN, NMRK, MGA, MMI (all 6/6 TL), GOOGL (28M vol)
-- [ ] Cybersecurity (BUG) is leading sector — watch for cyber setups forming
-- [ ] Consumer Cyclical sector group move (13 breakouts) — watch XLY
-- [ ] Real Estate sector group move (7 breakouts) — watch XLRE
-- [ ] Biotech (XBI) still #2 — CRNX, APGE, TECH are in leading sector
+- [ ] **REDUCE SIZE** — selective setups only
+- [ ] Only A+ and A confluences — skip B tier
+- [ ] Place DEP limit orders (reduced shares, top 5)
+- [ ] Place ANTS BSLO orders (super-tight/ultra-tight only)
+- [ ] Sell into strength on existing positions
+- [ ] Tighten stops to breakeven
+- [ ] Leading sector: BUG — watch for setups in this sector
 
 ---
 
@@ -299,5 +509,5 @@ tags: [daily, trading-radar, stockbee, pradeep-ultratrader, full-bull, full-long
 ---
 
 *Generated by Pradeep Ultratrader Trading Radar Engine*
-*Data source: FMP EOD dividend-adjusted | MM: StockBee (sole truth) | Tight day: ATR-based with tier system*
+*Data: FMP batch quote (today) + EOD dividend-adjusted (historical) | MM: StockBee Google Sheet | Tight day: ATR-based tier system*
 *Google Sheets: [Trading Radar Watchlist](https://docs.google.com/spreadsheets/d/1o0A2AkzjcPwrha7US5SSwl97zuPGvUk_JIHd4FZCaQE/edit)*
