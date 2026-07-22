@@ -1,17 +1,18 @@
 ---
-title: "Daily Trading Radar — 2026-07-21"
-date: 2026-07-21
-tags: [daily, trading-radar, stockbee, pradeep-ultratrader, cautious-bull, reduce-size]
+title: "Daily Trading Radar — 2026-07-22"
+date: 2026-07-22
+tags: [trading-radar, stockbee, pradeep-bonde, daily-report]
+data_date: 2026-07-21
 ---
 
-# Daily Trading Radar — 2026-07-21
+# Daily Trading Radar — 2026-07-22
 
 ## 1. Market Regime — LLM Judge Verdict
 
 > [!caution] **CAUTIOUS_BULL** — Action: **REDUCE_SIZE**
 >
 > - Monthly 25% ratio 0.80 < 0.8
-> - 20% study at 26 (< 30) = funds not aggressively buying, breakouts unlikely to follow through
+> - 20% study at 26 (< 35) = funds not aggressively buying, breakouts unlikely to follow through
 > - Secondary indicators weakening (5d/10d ratio < 0.8 or breakdown spike) — downgrade to REDUCE_SIZE
 
 ---
@@ -50,10 +51,10 @@ Above 1.0 | Bullish medium-term |
 
 > [!abstract] 20% Study (Pradeep's #1 SA Signal)
 
-| Metric | Value | Signal |
-|--------|-------|--------|
-| Stocks up 20%+ (5d) | 26 | ⚠️ Low — breakouts unlikely to follow through |
-| Stocks down 20%+ (5d) | 46 | Normal |
+| Metric                | Value | Signal                                        |
+| --------------------- | ----- | --------------------------------------------- |
+| Stocks up 20%+ (5d)   | 26    | ⚠️ Low — breakouts unlikely to follow through |
+| Stocks down 20%+ (5d) | 46    | Normal                                        |
 
 > [!warning] Scan Suppression Active: SOS, DEP, ANTS
 > 20% study at 26 — breakouts unlikely to follow through in this environment.
@@ -172,30 +173,46 @@ RS_20d: 34.18 | RS_65d: 7.43
 
 | Ticker | Gap% | Change% | Volume | 5d Move | Flags |
 |--------|------|---------|--------|---------|-------|
-| INTC | +6.3% | +8.6% | 102,081,994 | -2% | fresh |
-| MU | +6.9% | +12.2% | 47,959,865 | -1% | fresh |
-| AMD | +4.5% | +8.1% | 27,662,560 | -1% | fresh |
+| INTC | +6.3% | +8.6% | 102,081,994 | -2% | LARGE-CAP |
+| MU | +6.9% | +12.2% | 47,959,865 | -1% | LARGE-CAP |
+| AMD | +4.5% | +8.1% | 27,662,560 | -1% | LARGE-CAP |
 | KEEL | +6.2% | +7.1% | 26,064,042 | +4% | fresh |
 | NBIS | +5.7% | +18.8% | 25,305,672 | +12% | fresh |
-| MRVL | +5.5% | +6.7% | 21,759,687 | -7% | fresh |
+| MRVL | +5.5% | +6.7% | 21,759,687 | -7% | LARGE-CAP |
 | CRCL | +5.3% | +8.6% | 18,074,497 | +12% | fresh |
 | POET | +4.7% | +12.1% | 14,510,542 | -5% | fresh |
-| BE | +7.1% | +14.8% | 13,772,177 | -7% | fresh |
-| SNDK | +8.7% | +14.3% | 13,605,820 | -10% | fresh |
+| BE | +7.1% | +14.8% | 13,772,177 | -7% | LARGE-CAP |
+| SNDK | +8.7% | +14.3% | 13,605,820 | -10% | LARGE-CAP |
 | COIN | +4.7% | +9.6% | 13,557,830 | +9% | fresh |
 | NVTS | +4.4% | +11.2% | 12,098,051 | -2% | fresh |
-| LRCX | +7.0% | +5.0% | 11,760,389 | -7% | fresh |
-| MMM | +6.3% | +7.3% | 10,912,630 | +9% | fresh |
-| ORLY | +6.2% | +4.1% | 10,609,126 | +3% | fresh |
+| LRCX | +7.0% | +5.0% | 11,760,389 | -7% | LARGE-CAP |
+| MMM | +6.3% | +7.3% | 10,912,630 | +9% | LARGE-CAP |
+| ORLY | +6.2% | +4.1% | 10,609,126 | +3% | LARGE-CAP |
 
-### SOS / FADE Candidates (0 found — top 20)
+### FADE Candidates — Yesterday's Failing Breakouts (15)
 
-> [!warning] FADE MODE — 20% study < 30. Breakouts unlikely to follow through.
-> These are FADE candidates (short on gap-up failure), NOT buy candidates.
+> [!warning] FADE MODE — 20% study < 35. Breakouts not following through.
+> These stocks broke out yesterday (+4%) but are failing today. Short on bounce or breakdown.
 > Pradeep: 'Fading breakouts is a better strategy than buying breakouts here.'
 
-| # | Ticker | Change% | Volume | Two Lynch | Leg | Priority |
-|---|--------|---------|--------|-----------|-----|----------|
+| Ticker | Yesterday BO Close | Today Close | Fail % | Volume |
+|--------|-------------------|-------------|--------|--------|
+| ZYBT | $8.01 | $2.85 | -64.4% | 37,507,304 |
+| CLBK | $24.50 | $11.08 | -54.8% | 57,488,985 |
+| PHOE | $36.50 | $26.60 | -27.1% | 68,737 |
+| KUST | $1.27 | $0.96 | -24.3% | 3,531,918 |
+| MRAI | $2.22 | $1.70 | -23.4% | 220,560 |
+| GORO | $3.29 | $2.58 | -21.6% | 3,208,504 |
+| ADVB | $8.90 | $7.08 | -20.4% | 1,797,358 |
+| PRPH | $0.07 | $0.06 | -14.1% | 40,126 |
+| SKYQ | $4.74 | $4.08 | -13.9% | 7,661,487 |
+| CHAI | $0.45 | $0.39 | -13.2% | 21,865,031 |
+| CHRN | $28.89 | $25.38 | -12.2% | 461,453 |
+| ONCO | $1.00 | $0.89 | -11.0% | 368,445 |
+| AMC | $2.46 | $2.20 | -10.6% | 86,088,991 |
+| NXTT | $0.92 | $0.82 | -10.3% | 124,748 |
+| MEHA | $0.01 | $0.01 | -9.9% | 320,440 |
+
 
 ### DEP Candidates (0 found)
 
@@ -317,9 +334,9 @@ RS_20d: 34.18 | RS_65d: 7.43
 ## 11. Action Summary
 
 - [ ] **REDUCE SIZE** — selective setups only
-- [ ] Only A+ and A confluences — skip B tier
-- [ ] Place DEP limit orders (reduced shares, top 5)
-- [ ] Place ANTS BSLO orders (super-tight/ultra-tight only)
+- [ ] No DEP candidates — no limit orders to place
+- [ ] ANTS suppressed in this market — no BSLO orders
+- [ ] **Focus on SIPs** — 30 fresh catalyst stocks for day trade
 - [ ] Sell into strength on existing positions
 - [ ] Tighten stops to breakeven
 - [ ] Leading sector: BUG — watch for setups in this sector
