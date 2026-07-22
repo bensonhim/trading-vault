@@ -158,35 +158,48 @@ RS_20d: 72.83 | RS_65d: 6.63
 
 ## 5. Trade Ideas
 
+### SIPs — Stocks in Play (30 found, 18 fresh catalyst — top 15)
+
+> [!info] Pradeep: 'When nothing else works, SIPs are the only thing that works.'
+> Stocks with fresh catalyst (earnings, news, partnerships) + volume. Day trade / 1-2 day swing.
+> **[EXTENDED]** = already up 20%+ in 5d = 'priced in'. **[DILUTION]** = small-cap gap, shelf offering risk.
+
+| Ticker | Gap% | Change% | Volume | 5d Move | Flags |
+|--------|------|---------|--------|---------|-------|
+| EOSE | +7.5% | +1.9% | 31,012,908 | -3% | fresh |
+| PENG | +4.9% | -6.4% | 9,684,440 | -7% | fresh |
+| ANNX | +5.8% | +17.1% | 8,833,397 | +9% | fresh |
+| LION | +7.2% | +5.0% | 7,765,798 | +3% | fresh |
+| KOPN | +11.7% | +12.5% | 7,572,679 | +7% | fresh |
+| KRMN | +5.8% | +6.4% | 5,732,752 | -2% | fresh |
+| UMAC | +4.9% | -0.9% | 4,313,348 | -10% | fresh |
+| AMPG | +5.7% | -6.0% | 2,903,505 | +0% | fresh |
+| LPTH | +5.4% | -0.9% | 2,880,746 | -10% | fresh |
+| NXT | +4.9% | +4.3% | 2,809,745 | -1% | fresh |
+| AVEX | +7.1% | +7.1% | 2,456,961 | +3% | fresh |
+| CRVO | +4.2% | -0.3% | 2,215,156 | -10% | fresh |
+| BLK | +7.3% | +6.6% | 1,578,120 | +10% | fresh |
+| MNSO | +7.6% | +9.4% | 1,511,322 | +7% | fresh |
+| MANE | +7.8% | +12.3% | 1,337,939 | +5% | fresh |
+
 ### SOS Breakout Candidates (0 found — top 20)
 
 | # | Ticker | Change% | Volume | Two Lynch | Leg | Priority |
 |---|--------|---------|--------|-----------|-----|----------|
 
-### DEP Candidates (20 found)
+### DEP Candidates (9 found)
 
 | # | Ticker | Days Since | Pullback | Width | Entry | Stop | Priority |
 |---|--------|-----------|----------|-------|-------|------|----------|
-| 1 | CRNX | 8d | 6d | 0.67% | $84.10 | $83.27 | high |
-| 2 | APGE | 23d | 10d | 1.0% | $134.00 | $132.27 | medium |
-| 3 | TECH | 20d | 10d | 1.28% | $71.49 | $70.35 | high |
-| 4 | XOM | 2d | 2d | 2.8% | $146.15 | $142.49 | highest |
-| 5 | KHC | 14d | 9d | 5.31% | $25.88 | $25.23 | high |
-| 6 | BKR | 7d | 5d | 5.68% | $59.23 | $57.75 | highest |
-| 7 | ABBV | 19d | 10d | 6.96% | $261.90 | $255.35 | medium |
-| 8 | CCC | 5d | 3d | 7.35% | $6.53 | $6.37 | high |
-| 9 | NKE | 14d | 9d | 7.65% | $45.14 | $44.01 | high |
-| 10 | GIS | 14d | 9d | 7.71% | $37.68 | $36.74 | high |
-| 11 | CMCSA | 16d | 10d | 8.33% | $24.80 | $24.18 | high |
-| 12 | SNAP | 14d | 9d | 8.44% | $4.98 | $4.86 | high |
-| 13 | BTE | 8d | 6d | 8.98% | $4.47 | $4.36 | highest |
-| 14 | CAG | 14d | 9d | 9.15% | $14.66 | $14.29 | medium |
-| 15 | NFLX | 19d | 10d | 10.48% | $78.54 | $76.58 | medium |
-| 16 | OWL | 13d | 8d | 10.69% | $10.14 | $9.89 | high |
-| 17 | CHYM | 19d | 10d | 13.11% | $22.28 | $21.72 | high |
-| 18 | FLO | 19d | 10d | 15.71% | $9.01 | $8.78 | medium |
-| 19 | AAL | 21d | 10d | 16.64% | $18.89 | $18.42 | medium |
-| 20 | BMBL | 20d | 10d | 18.97% | $3.55 | $3.46 | medium |
+| 1 | TECH | 20d | 10d | 1.28% | $71.49 | $70.35 | high |
+| 2 | KHC | 14d | 9d | 5.31% | $25.88 | $25.23 | high |
+| 3 | MRK | 20d | 10d | 6.01% | $130.42 | $127.16 | high |
+| 4 | ABBV | 19d | 10d | 6.96% | $261.90 | $255.35 | medium |
+| 5 | GIS | 14d | 9d | 7.71% | $37.68 | $36.74 | high |
+| 6 | XYZ | 19d | 10d | 8.4% | $81.14 | $79.11 | medium |
+| 7 | DT | 19d | 10d | 10.11% | $46.72 | $45.55 | high |
+| 8 | UAL | 21d | 10d | 13.98% | $138.91 | $135.44 | medium |
+| 9 | AAL | 21d | 10d | 16.64% | $18.89 | $18.42 | medium |
 
 ### ANTS Candidates (0 found — top 20 with tight tier)
 
@@ -201,16 +214,15 @@ RS_20d: 72.83 | RS_65d: 6.63
 
 | Ticker | Entry (Limit) | Stop | Width | Consolidation | Breakout Date |
 |--------|---------------|------|-------|---------------|---------------|
-| CRNX | $84.10 | $83.27 | 1.0% | 6d, 0.67% | 8d ago |
-| APGE | $134.00 | $132.27 | 1.3% | 10d, 1.0% | 23d ago |
 | TECH | $71.49 | $70.35 | 1.6% | 10d, 1.28% | 20d ago |
-| XOM | $146.15 | $142.49 | 2.5% | 2d, 2.8% | 2d ago |
 | KHC | $25.88 | $25.23 | 2.5% | 9d, 5.31% | 14d ago |
-| BKR | $59.23 | $57.75 | 2.5% | 5d, 5.68% | 7d ago |
+| MRK | $130.42 | $127.16 | 2.5% | 10d, 6.01% | 20d ago |
 | ABBV | $261.90 | $255.35 | 2.5% | 10d, 6.96% | 19d ago |
-| CCC | $6.53 | $6.37 | 2.5% | 3d, 7.35% | 5d ago |
-| NKE | $45.14 | $44.01 | 2.5% | 9d, 7.65% | 14d ago |
 | GIS | $37.68 | $36.74 | 2.5% | 9d, 7.71% | 14d ago |
+| XYZ | $81.14 | $79.11 | 2.5% | 10d, 8.4% | 19d ago |
+| DT | $46.72 | $45.55 | 2.5% | 10d, 10.11% | 19d ago |
+| UAL | $138.91 | $135.44 | 2.5% | 10d, 13.98% | 21d ago |
+| AAL | $18.89 | $18.42 | 2.5% | 10d, 16.64% | 21d ago |
 
 ### ANTS BSLO Orders (top 10 — sorted by tight tier)
 
@@ -248,9 +260,7 @@ RS_20d: 72.83 | RS_65d: 6.63
 
 | Ticker | SB Tier | 504d | 21d | 10d | 5d | Recency | Sector ETF | RS Rank | Status |
 |--------|---------|------|-----|-----|-----|---------|-----------|---------|--------|
-| APGE | expanded | 1 | 1 | 1 | 1 | 18 | XBI (#2) | SETTING UP (ACTIVE (5d)) |
 | TECH | expanded | 1 | 1 | 1 | 1 | 18 | XBI (#2) | SETTING UP (ACTIVE (5d)) |
-| CRNX | expanded | 2 | 1 | 1 | 0 | 8 | XBI (#2) | SETTING UP (ACTIVE (10d)) |
 
 *Recency = 5d×10 + 10d×5 + 21d×3 (Pradeep's recency weighting). Higher = more recent breakout activity.*
 
@@ -267,52 +277,6 @@ RS_20d: 72.83 | RS_65d: 6.63
 ---
 
 ## 9. Ticker Details
-
-
-**CRNX**
-- Industry: Biotechnology
-- Sector: Healthcare
-- Sector ETF: XBI (biotech_small)
-- Market Cap: $8.9B
-- Fund Ownership: 1000+ - Gaining Interest (medium size)
-- Group Move: Yes (112 stocks in sector broke out today)
-- Breakout History (5 past swings):
-  - 2026-06-26: +138.7% total (3d swing) | Entry: $36.39 | Stop: $34.76 | Last Close: $83.53 | Vol: 5,046,396 | BREAKEVEN
-  - 2026-06-09: +4.5% total | Entry: $34.82 | Stop: $33.20 | Last Close: $34.97 | Vol: 884,725 | STOPPED
-  - 2026-06-04: +4.7% total | Entry: $34.41 | Stop: $33.30 | Last Close: $34.63 | Vol: 1,090,541 | STOPPED
-  - 2026-05-04: +11.5% total (2d swing) | Entry: $40.58 | Stop: $38.61 | Last Close: $43.49 | Vol: 1,152,978 | BREAKEVEN
-  - 2026-04-17: +5.1% total | Entry: $40.58 | Stop: $39.31 | Last Close: $41.00 | Vol: 1,102,100 | STOPPED
-- EMA:
-  - EMA5: $81.17
-  - EMA8: $75.99
-  - EMA10: $72.57
-  - EMA20: $60.28
-  - Price above all EMAs (uptrend confirmed)
-- TI65: 1.98 (bullish **YOUNG MOMENTUM**) | C65=1 D65=0
-  C/C7=1.996 (sort ascending for pullbacks)
-
-
-**APGE**
-- Industry: Biotechnology
-- Sector: Healthcare
-- Sector ETF: XBI (biotech_small)
-- Market Cap: $8.3B
-- Fund Ownership: 1000+ - Gaining Interest (medium size)
-- Group Move: Yes (112 stocks in sector broke out today)
-- Breakout History (5 past swings):
-  - 2026-06-22: +46.7% total | Entry: $94.00 | Stop: $131.13 | Last Close: $132.55 | Vol: 61,663,544 | PROFIT_80_20
-  - 2026-06-11: +8.2% total | Entry: $86.03 | Stop: $81.89 | Last Close: $89.50 | Vol: 792,700 | BREAKEVEN
-  - 2026-06-03: +15.5% total (2d swing) | Entry: $81.86 | Stop: $77.92 | Last Close: $90.90 | Vol: 1,129,126 | BREAKEVEN
-  - 2026-05-29: +5.6% total | Entry: $80.93 | Stop: $76.23 | Last Close: $82.14 | Vol: 1,417,277 | SUCCESS
-  - 2026-04-09: +4.1% total | Entry: $86.44 | Stop: $81.81 | Last Close: $86.52 | Vol: 770,216 | STOPPED
-- EMA:
-  - EMA5: $133.85
-  - EMA8: $133.07
-  - EMA10: $132.09
-  - EMA20: $122.16
-  - Price above all EMAs (uptrend confirmed)
-- TI65: 1.37 (bullish **YOUNG MOMENTUM**) | C65=1 D65=0
-  C/C7=1.006 (sort ascending for pullbacks)
 
 
 **TECH**
@@ -338,28 +302,6 @@ RS_20d: 72.83 | RS_65d: 6.63
   C/C7=1.008 (sort ascending for pullbacks)
 
 
-**XOM**
-- Industry: Oil & Gas Integrated
-- Sector: Energy
-- Sector ETF: XLE (energy_broad)
-- Market Cap: $628.8B
-- Fund Ownership: 5000+ - Liquid Glamour (largest size)
-- Group Move: Yes (7 stocks in sector broke out today)
-- Breakout History (2 past swings):
-  - 2026-07-13: +4.1% total | Entry: $144.44 | Stop: $139.09 | Last Close: $144.51 | Vol: 18,724,339 | BREAKEVEN
-  - 2026-05-15: +4.1% total | Entry: $157.82 | Stop: $151.47 | Last Close: $157.92 | Vol: 27,882,407 | BREAKEVEN
-- EMA:
-  - EMA5: $142.93
-  - EMA8: $141.86
-  - EMA10: $141.46
-  - EMA20: $142.02
-  - **Pullback rejection at EMA5 ($142.93)**
-    Low $142.03 dipped to EMA, closed $144.51 above (+1.1%)
-  - Price above all EMAs (uptrend confirmed)
-- TI65: 0.97 (neutral) | C65=0 D65=0
-  C/C7=1.059 (sort ascending for pullbacks)
-
-
 **KHC**
 - Industry: Packaged Foods
 - Sector: Consumer Defensive
@@ -380,11 +322,80 @@ RS_20d: 72.83 | RS_65d: 6.63
 - TI65: 1.08 (bullish **YOUNG MOMENTUM**) | C65=1 D65=0
   C/C7=1.025 (sort ascending for pullbacks)
 
+
+**MRK**
+- Industry: Drug Manufacturers - General
+- Sector: Healthcare
+- Sector ETF: XLV (healthcare_broad)
+- Market Cap: $311.9B
+- Fund Ownership: 5000+ - Liquid Glamour (largest size)
+- Group Move: Yes (112 stocks in sector broke out today)
+- Breakout History (5 past swings):
+  - 2026-06-25: +4.0% total | Entry: $125.42 | Stop: $119.79 | Last Close: $125.45 | Vol: 14,049,625 | BREAKEVEN
+  - 2026-06-04: +4.8% total | Entry: $118.44 | Stop: $115.09 | Last Close: $119.40 | Vol: 15,933,945 | BREAKEVEN
+  - 2026-05-22: +5.6% total | Entry: $119.65 | Stop: $118.04 | Last Close: $121.54 | Vol: 14,754,581 | STOPPED
+  - 2025-11-25: +5.2% total | Entry: $102.03 | Stop: $97.43 | Last Close: $103.25 | Vol: 22,225,531 | BREAKEVEN
+  - 2025-11-11: +4.8% total | Entry: $88.16 | Stop: $84.41 | Last Close: $88.87 | Vol: 15,436,039 | PROFIT_80_20
+- EMA:
+  - EMA5: $123.59
+  - EMA8: $124.10
+  - EMA10: $124.18
+  - EMA20: $122.84
+  - **Pullback rejection at EMA5 ($123.59)**
+    Low $122.75 dipped to EMA, closed $123.61 above (+0.0%)
+  - Nearest EMA: EMA5 (0.0% away)
+- TI65: 1.06 (bullish **YOUNG MOMENTUM**) | C65=1 D65=0
+  C/C7=0.975 (sort ascending for pullbacks)
+
+
+**ABBV**
+- Industry: Drug Manufacturers - General
+- Sector: Healthcare
+- Sector ETF: XLV (healthcare_broad)
+- Market Cap: $452.6B
+- Fund Ownership: 5000+ - Liquid Glamour (largest size)
+- Group Move: Yes (112 stocks in sector broke out today)
+- Breakout History (4 past swings):
+  - 2026-06-22: +17.0% total (2d swing) | Entry: $225.15 | Stop: $219.72 | Last Close: $253.35 | Vol: 9,912,800 | PROFIT_80_20
+  - 2026-01-07: +4.2% total | Entry: $229.12 | Stop: $218.90 | Last Close: $229.65 | Vol: 10,285,400 | STOPPED
+  - 2025-10-01: +5.5% total | Entry: $235.23 | Stop: $224.36 | Last Close: $238.72 | Vol: 12,243,139 | STOPPED
+  - 2025-09-11: +4.1% total | Entry: $215.01 | Stop: $209.61 | Last Close: $215.12 | Vol: 7,648,085 | STOPPED
+- EMA:
+  - EMA5: $246.84
+  - EMA8: $247.66
+  - EMA10: $247.50
+  - EMA20: $242.38
+  - Nearest EMA: EMA20 (0.7% away)
+- TI65: 1.13 (bullish **YOUNG MOMENTUM**) | C65=1 D65=0
+  C/C7=0.958 (sort ascending for pullbacks)
+
+
+**GIS**
+- Industry: Packaged Foods
+- Sector: Consumer Defensive
+- Market Cap: $19.8B
+- Fund Ownership: 1000+ - Gaining Interest (medium size)
+- Group Move: Yes (10 stocks in sector broke out today)
+- Breakout History (3 past swings):
+  - 2026-07-01: +8.5% total | Entry: $35.58 | Stop: $35.55 | Last Close: $37.13 | Vol: 27,489,207 | BREAKEVEN
+  - 2026-02-04: +4.3% total | Entry: $46.74 | Stop: $44.41 | Last Close: $46.88 | Vol: 12,143,919 | BREAKEVEN
+  - 2026-01-30: +4.1% total | Entry: $44.66 | Stop: $42.51 | Last Close: $44.71 | Vol: 9,623,917 | SUCCESS
+- EMA:
+  - EMA5: $36.56
+  - EMA8: $36.30
+  - EMA10: $36.14
+  - EMA20: $35.29
+  - **Pullback rejection at EMA5 ($36.56)**
+    Low $35.80 dipped to EMA, closed $37.22 above (+1.8%)
+  - Price above all EMAs (uptrend confirmed)
+- TI65: 1.06 (bullish **YOUNG MOMENTUM**) | C65=1 D65=0
+  C/C7=1.048 (sort ascending for pullbacks)
+
 ---
 
-## 10. Short-Side Setups (145 candidates)
+## 10. Short-Side Setups (35 candidates)
 
-### Bearish DEP (20) — negative EP → breakdown below consolidation
+### Bearish DEP (5) — negative EP → breakdown below consolidation
 
 | Ticker | EP Age | EP Change | Entry | Stop | Notes |
 |--------|--------|-----------|-------|------|-------|
@@ -393,13 +404,8 @@ RS_20d: 72.83 | RS_65d: 6.63
 | PL | 5d | -4.2% | $25.56 | $25.96 | Negative EP 5d ago (-4.2%), breaking consolidation |
 | UUUU | 8d | -6.6% | $13.05 | $13.58 | Negative EP 8d ago (-6.6%), breaking consolidation |
 | COUR | 20d | -5.3% | $5.64 | $5.98 | Negative EP 20d ago (-5.3%), breaking consolidation |
-| NAVN | 7d | -6.3% | $25.63 | $26.13 | Negative EP 7d ago (-6.3%), breaking consolidation |
-| GDXJ | 8d | -4.8% | $95.60 | $99.00 | Negative EP 8d ago (-4.8%), breaking consolidation |
-| GSOL | 7d | -4.9% | $5.85 | $5.89 | Negative EP 7d ago (-4.9%), breaking consolidation |
-| RBRK | 5d | -4.9% | $83.84 | $88.05 | Negative EP 5d ago (-4.9%), breaking consolidation |
-| NG | 8d | -5.6% | $5.84 | $6.10 | Negative EP 8d ago (-5.6%), breaking consolidation |
 
-### WSS Enhanced (20) — waterfall / sector breakdown / cult breakdown
+### WSS Enhanced (5) — waterfall / sector breakdown / cult breakdown
 
 | Ticker | Pattern | Change % | Entry | Stop | Notes |
 |--------|---------|----------|-------|------|-------|
@@ -408,13 +414,8 @@ RS_20d: 72.83 | RS_65d: 6.63
 | MU | sector_breakdown | -8.0% | $904.28 | $956.66 | Sector weakness breakdown |
 | MRVL | sector_breakdown | -7.3% | $206.26 | $217.30 | Sector weakness breakdown |
 | CSCO | sector_breakdown | -4.5% | $111.77 | $115.41 | Sector weakness breakdown |
-| RGTI | sector_breakdown | -5.3% | $15.25 | $15.98 | Sector weakness breakdown |
-| IONQ | sector_breakdown | -4.5% | $37.51 | $39.11 | Sector weakness breakdown |
-| CMG | sector_breakdown | -4.9% | $34.63 | $35.74 | Sector weakness breakdown |
-| HPE | sector_breakdown | -4.4% | $47.39 | $49.81 | Sector weakness breakdown |
-| SNDK | sector_breakdown | -8.1% | $1615.00 | $1729.50 | Sector weakness breakdown |
 
-### Sugar Baby Short (20) — former SBs now in weakening sectors
+### Sugar Baby Short (5) — former SBs now in weakening sectors
 
 | Ticker | SB Tier | Sector ETF | Decline from Peak | Notes |
 |--------|---------|-----------|-------------------|-------|
@@ -423,13 +424,8 @@ RS_20d: 72.83 | RS_65d: 6.63
 | ASTC | expanded | PPA | -70.0% | SB in weakening sector PPA (RS_20d=-8.46), down 70% from peak |
 | LHSW | expanded | XLK | -66.9% | SB in weakening sector XLK (RS_20d=-20.43), down 67% from peak |
 | ANY | expanded | XLK | -55.8% | SB in weakening sector XLK (RS_20d=-20.43), down 56% from peak |
-| SIDU | core | PPA | -54.4% | SB in weakening sector PPA (RS_20d=-8.46), down 54% from peak |
-| SPCE | expanded | UFO | -52.7% | SB in weakening sector UFO (RS_20d=-53.38), down 53% from peak |
-| AXTI | core | SMH | -51.8% | SB in weakening sector SMH (RS_20d=-34.13), down 52% from peak |
-| LUNR | expanded | PPA | -51.5% | SB in weakening sector PPA (RS_20d=-8.46), down 52% from peak |
-| SATL | expanded | PPA | -47.3% | SB in weakening sector PPA (RS_20d=-8.46), down 47% from peak |
 
-### Momentum Inversion (20) — former leaders rolling over
+### Momentum Inversion (5) — former leaders rolling over
 
 | Ticker | Was (25d ago) | Now | Notes |
 |--------|----------------|-----|-------|
@@ -438,13 +434,8 @@ RS_20d: 72.83 | RS_65d: 6.63
 | LASE | +404.1% | -66.0% | Was up 404% in 25d, now down 66% |
 | MNTS | +326.7% | -71.9% | Was up 327% in 25d, now down 72% |
 | RXT | +311.9% | -39.0% | Was up 312% in 25d, now down 39% |
-| SUNE | +286.8% | -54.1% | Was up 287% in 25d, now down 54% |
-| HYLN | +273.5% | -48.2% | Was up 274% in 25d, now down 48% |
-| GOVX | +213.8% | -72.3% | Was up 214% in 25d, now down 72% |
-| SPCE | +183.8% | -64.0% | Was up 184% in 25d, now down 64% |
-| SNGX | +181.9% | -61.8% | Was up 182% in 25d, now down 62% |
 
-### Bearish Reversal (15) — 3:58 PM exhaustion
+### Bearish Reversal (5) — 3:58 PM exhaustion
 
 | Ticker | Intraday Gain | Close Position | Notes |
 |--------|----------------|-----------------|-------|
@@ -453,24 +444,15 @@ RS_20d: 72.83 | RS_65d: 6.63
 | EQPT | +6.5% | 25% | Reversal: was up 6.5% intraday, closed at 25% of range |
 | EH | +6.0% | 11% | Reversal: was up 6.0% intraday, closed at 11% of range |
 | HPP | +6.9% | 1% | Reversal: was up 6.9% intraday, closed at 1% of range |
-| ALIT | +7.9% | 5% | Reversal: was up 7.9% intraday, closed at 5% of range |
-| RKT | +4.7% | 15% | Reversal: was up 4.7% intraday, closed at 15% of range |
-| RIVN | +5.5% | 11% | Reversal: was up 5.5% intraday, closed at 11% of range |
-| QS | +4.3% | 13% | Reversal: was up 4.3% intraday, closed at 13% of range |
-| GT | +4.6% | 22% | Reversal: was up 4.6% intraday, closed at 22% of range |
 
-### Bearish Study (50) — down >15% in 25d, cap <$10B (study list)
+### Bearish Study (10) — down >15% in 25d, cap <$10B (study list)
 
 **Weak sectors by count:**
 
-- Technology: 22
-- Industrials: 15
-- Financial Services: 3
-- Healthcare: 3
-- Basic Materials: 3
-- Consumer Cyclical: 2
+- Industrials: 5
+- Technology: 3
 - Energy: 1
-- Utilities: 1
+- Financial Services: 1
 
 | Ticker | Change 25d | Sector | Cap $B | Priority |
 |--------|------------|--------|--------|----------|
@@ -484,16 +466,6 @@ RS_20d: 72.83 | RS_65d: 6.63
 | LUNR | -50.1% | Industrials | $2.38 | high |
 | RDW | -49.6% | Industrials | $2.33 | high |
 | FJET | -46.3% | Industrials | $0.13 | high |
-| NVTS | -45.8% | Technology | $3.19 | high |
-| MX | -45.7% | Technology | $0.14 | high |
-| HYLN | -45.3% | Consumer Cyclical | $0.73 | high |
-| SATL | -43.3% | Technology | $0.52 | high |
-| FLY | -42.1% | Industrials | $3.54 | high |
-| PCT | -41.3% | Industrials | $1.36 | high |
-| AXTI | -41.2% | Technology | $2.67 | high |
-| AMPX | -39.8% | Industrials | $1.57 | high |
-| EVMN | -38.3% | Healthcare | $0.17 | high |
-| VOYG | -37.3% | Industrials | $1.76 | high |
 
 ---
 
