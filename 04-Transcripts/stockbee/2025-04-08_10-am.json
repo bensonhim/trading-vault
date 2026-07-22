@@ -1,0 +1,1451 @@
+{
+  "segments": [
+    {
+      "start": 34.18,
+      "end": 34.68,
+      "text": "Okay."
+    },
+    {
+      "start": 34.9,
+      "end": 40.1,
+      "text": "Let's look at so two distinct styles, home runs, mini home runs, and singles."
+    },
+    {
+      "start": 40.1,
+      "end": 57.06,
+      "text": "For home runs and mini home runs, we're looking at e p, delay d p, e p nine, delay d p nine, sugar babies."
+    },
+    {
+      "start": 57.52,
+      "end": 58.02,
+      "text": "Right?"
+    },
+    {
+      "start": 58.08,
+      "end": 62.88,
+      "text": "And for singles, we are looking at momentum burst."
+    },
+    {
+      "start": 62.88,
+      "end": 63.12,
+      "text": "Right?"
+    },
+    {
+      "start": 63.12,
+      "end": 64.0,
+      "text": "Kind of, basically."
+    },
+    {
+      "start": 64.0,
+      "end": 66.66,
+      "text": "So let's start by looking at our setups."
+    },
+    {
+      "start": 66.72,
+      "end": 66.96,
+      "text": "Right?"
+    },
+    {
+      "start": 66.96,
+      "end": 68.4,
+      "text": "And, basically, e p 9,000,000."
+    },
+    {
+      "start": 68.4,
+      "end": 74.405,
+      "text": "So in e p 9,000,000, as of now, you have 33 stocks, so we copy all of them into e p 9,000,000."
+    },
+    {
+      "start": 75.104996,
+      "end": 81.125,
+      "text": "And this is all a process, like a factory, sorted always by volume."
+    },
+    {
+      "start": 81.424995,
+      "end": 81.825,
+      "text": "Right?"
+    },
+    {
+      "start": 81.825,
+      "end": 82.325,
+      "text": "NVIDIA."
+    },
+    {
+      "start": 82.865,
+      "end": 84.884995,
+      "text": "That's the second day of the swing, basically."
+    },
+    {
+      "start": 84.945,
+      "end": 85.445,
+      "text": "Right?"
+    },
+    {
+      "start": 85.71,
+      "end": 93.25,
+      "text": "So Excel, TQQ, a letter, Nano region."
+    },
+    {
+      "start": 95.229996,
+      "end": 95.729996,
+      "text": "SSTV."
+    },
+    {
+      "start": 96.35,
+      "end": 96.85,
+      "text": "Intel."
+    },
+    {
+      "start": 99.155,
+      "end": 99.655,
+      "text": "Apple."
+    },
+    {
+      "start": 100.755005,
+      "end": 101.975,
+      "text": "Amazon, FXI."
+    },
+    {
+      "start": 102.835,
+      "end": 103.335,
+      "text": "XLF."
+    },
+    {
+      "start": 103.795,
+      "end": 104.295,
+      "text": "No."
+    },
+    {
+      "start": 104.435,
+      "end": 105.335,
+      "text": "K k k."
+    },
+    {
+      "start": 105.475,
+      "end": 106.135,
+      "text": "It's MCI."
+    },
+    {
+      "start": 106.595,
+      "end": 108.055,
+      "text": "Ford Motors and Company."
+    },
+    {
+      "start": 108.195,
+      "end": 108.695,
+      "text": "Grab."
+    },
+    {
+      "start": 111.395004,
+      "end": 111.895004,
+      "text": "Tesla."
+    },
+    {
+      "start": 112.355,
+      "end": 113.575,
+      "text": "Let me just was."
+    },
+    {
+      "start": 118.6,
+      "end": 122.6,
+      "text": "With you, it'll would rank up."
+    },
+    {
+      "start": 122.6,
+      "end": 124.03999,
+      "text": "So is there a bible setup?"
+    },
+    {
+      "start": 124.03999,
+      "end": 125.799995,
+      "text": "That's the question which I have to ask."
+    },
+    {
+      "start": 125.799995,
+      "end": 126.299995,
+      "text": "Right?"
+    },
+    {
+      "start": 126.439995,
+      "end": 129.58,
+      "text": "Is, is there a bible or a suitable setup here?"
+    },
+    {
+      "start": 130.035,
+      "end": 131.795,
+      "text": "And the answer is no."
+    },
+    {
+      "start": 131.795,
+      "end": 132.115,
+      "text": "Right?"
+    },
+    {
+      "start": 132.115,
+      "end": 133.575,
+      "text": "And so that's it, basically."
+    },
+    {
+      "start": 135.47499,
+      "end": 141.875,
+      "text": "So now let's look at, like, in a basically, the bull bullish side has, like, an some 33 stocks."
+    },
+    {
+      "start": 141.875,
+      "end": 145.55,
+      "text": "The bearish side has, like, an 847 stocks."
+    },
+    {
+      "start": 145.55,
+      "end": 151.56999,
+      "text": "So if, you take the bullish side, copy all symbols to bullish work."
+    },
+    {
+      "start": 151.79,
+      "end": 154.45,
+      "text": "I'm not going to do LTV in a market like this."
+    },
+    {
+      "start": 154.98999,
+      "end": 156.43,
+      "text": "LTV is not going to work."
+    },
+    {
+      "start": 156.43,
+      "end": 156.67,
+      "text": "Right?"
+    },
+    {
+      "start": 156.67,
+      "end": 161.305,
+      "text": "You need something which is, like, clear breakout, right, and for it to work in this market."
+    },
+    {
+      "start": 162.325,
+      "end": 166.025,
+      "text": "VG Venture Global Utilities, right, and that's near water."
+    },
+    {
+      "start": 168.64499,
+      "end": 174.2,
+      "text": "So for t g x, annual car max fast a I g."
+    },
+    {
+      "start": 174.2,
+      "end": 176.6,
+      "text": "Again, what kind of a setup we are looking for?"
+    },
+    {
+      "start": 176.6,
+      "end": 185.10501,
+      "text": "We are looking at either, bottom bounce here or, it's like a bottom bounce is the kind of set of which will work."
+    },
+    {
+      "start": 185.10501,
+      "end": 185.425,
+      "text": "Right?"
+    },
+    {
+      "start": 185.425,
+      "end": 190.16501,
+      "text": "And so do you see a bottom bounce here, anywhere in this stocks?"
+    },
+    {
+      "start": 195.65001,
+      "end": 196.15001,
+      "text": "Clocks."
+    },
+    {
+      "start": 196.77,
+      "end": 197.27,
+      "text": "API."
+    },
+    {
+      "start": 199.41,
+      "end": 202.55,
+      "text": "If not."
+    },
+    {
+      "start": 203.09001,
+      "end": 204.23001,
+      "text": "X 52."
+    },
+    {
+      "start": 207.25,
+      "end": 207.57,
+      "text": "Okay."
+    },
+    {
+      "start": 207.57,
+      "end": 209.35,
+      "text": "There's nothing here which is actionable."
+    },
+    {
+      "start": 209.565,
+      "end": 211.085,
+      "text": "So we go to the bearish side."
+    },
+    {
+      "start": 211.085,
+      "end": 220.065,
+      "text": "When we look at the bearish side, right, and basically look at copy all symbols to bearish work and go and look at bearish work."
+    },
+    {
+      "start": 222.90001,
+      "end": 223.40001,
+      "text": "Amazon."
+    },
+    {
+      "start": 223.86,
+      "end": 227.3,
+      "text": "Again, gap and then give up the gains."
+    },
+    {
+      "start": 227.3,
+      "end": 227.8,
+      "text": "Right?"
+    },
+    {
+      "start": 228.02,
+      "end": 229.32,
+      "text": "That's the theme today."
+    },
+    {
+      "start": 230.02,
+      "end": 235.64,
+      "text": "Oklo, Levi, CVS, ExcelV, Rocket, what?"
+    },
+    {
+      "start": 236.1,
+      "end": 238.615,
+      "text": "UnitedHealth, BA."
+    },
+    {
+      "start": 241.475,
+      "end": 243.895,
+      "text": "So do you see anything in this also?"
+    },
+    {
+      "start": 245.55501,
+      "end": 248.05501,
+      "text": "The Dow Jones doesn't look good."
+    },
+    {
+      "start": 253.52,
+      "end": 254.34001,
+      "text": "My GPS."
+    },
+    {
+      "start": 254.88,
+      "end": 258.08002,
+      "text": "Well, that's like a continuation shot, but it's not right."
+    },
+    {
+      "start": 258.08002,
+      "end": 259.06,
+      "text": "Let me see."
+    },
+    {
+      "start": 267.185,
+      "end": 268.725,
+      "text": "Murphy Island, yes."
+    },
+    {
+      "start": 270.145,
+      "end": 270.58502,
+      "text": "That's okay."
+    },
+    {
+      "start": 270.58502,
+      "end": 280.53,
+      "text": "It looks like a very weak start, but It's right."
+    },
+    {
+      "start": 282.05,
+      "end": 286.59003,
+      "text": "Chemicals right now."
+    },
+    {
+      "start": 288.11002,
+      "end": 289.97,
+      "text": "That's not looking too good, Danhore."
+    },
+    {
+      "start": 298.235,
+      "end": 300.63498,
+      "text": "So as I said, like, in a when do you shot?"
+    },
+    {
+      "start": 300.63498,
+      "end": 304.735,
+      "text": "You shot when you have, like, in a setup on the indexes which is shot."
+    },
+    {
+      "start": 305.115,
+      "end": 305.58,
+      "text": "Right?"
+    },
+    {
+      "start": 305.65997,
+      "end": 308.53998,
+      "text": "In a bearish market, you shot when there is a setup on the indexes."
+    },
+    {
+      "start": 308.53998,
+      "end": 310.72,
+      "text": "Is there a setup on the indexes which is short?"
+    },
+    {
+      "start": 313.18,
+      "end": 313.5,
+      "text": "No."
+    },
+    {
+      "start": 313.5,
+      "end": 313.9,
+      "text": "Right?"
+    },
+    {
+      "start": 313.9,
+      "end": 327.555,
+      "text": "So this restoration hardware, that I'm watching is a delayed reaction, but, like, can I again, you need to have a clear breakdown for me to get attracted to that and which may not happen immediately?"
+    },
+    {
+      "start": 339.29,
+      "end": 340.67,
+      "text": "Lockheed Martin PPG."
+    },
+    {
+      "start": 341.45,
+      "end": 342.27002,
+      "text": "Bend company."
+    },
+    {
+      "start": 344.29498,
+      "end": 347.175,
+      "text": "That's, again, looking like a weak structure shot."
+    },
+    {
+      "start": 347.175,
+      "end": 347.41498,
+      "text": "Right?"
+    },
+    {
+      "start": 347.41498,
+      "end": 351.335,
+      "text": "And so and there is a little bit of buying which is coming in."
+    },
+    {
+      "start": 351.335,
+      "end": 352.455,
+      "text": "You see the green one."
+    },
+    {
+      "start": 352.455,
+      "end": 355.35498,
+      "text": "Little bit little bit like an egg green."
+    },
+    {
+      "start": 379.04498,
+      "end": 382.245,
+      "text": "So, again, I mean, it's like and these are 100,000 shares traded."
+    },
+    {
+      "start": 382.245,
+      "end": 387.125,
+      "text": "You don't want to go short something which is as thin as this in a bearish market."
+    },
+    {
+      "start": 387.125,
+      "end": 387.445,
+      "text": "Right?"
+    },
+    {
+      "start": 387.445,
+      "end": 390.745,
+      "text": "You want more liquid stuff, but I'm just going through everything."
+    },
+    {
+      "start": 394.94,
+      "end": 397.12,
+      "text": "So nothing here to do."
+    },
+    {
+      "start": 397.18002,
+      "end": 397.68002,
+      "text": "Right?"
+    },
+    {
+      "start": 398.7,
+      "end": 400.94,
+      "text": "So what is your option?"
+    },
+    {
+      "start": 400.94,
+      "end": 408.39502,
+      "text": "Option is to look for something here, which, like, you know, there was a little bit of a rally there, small rally right under there."
+    },
+    {
+      "start": 408.695,
+      "end": 414.21503,
+      "text": "Saksal is just, like, you know, doing nothing much today, after the yesterday's move."
+    },
+    {
+      "start": 414.21503,
+      "end": 417.355,
+      "text": "Nvidia, Tesla also had a little bit."
+    },
+    {
+      "start": 419.01,
+      "end": 419.91,
+      "text": "Same Max."
+    },
+    {
+      "start": 419.97,
+      "end": 425.43,
+      "text": "And I I don't see anything which is, like, you know, looking like, to me, very attractive."
+    },
+    {
+      "start": 425.49002,
+      "end": 429.35,
+      "text": "UnitedHealth, CVS, they all ended up getting their thing, n Max, AVGO."
+    },
+    {
+      "start": 430.05002,
+      "end": 433.125,
+      "text": "So I don't see anything."
+    },
+    {
+      "start": 434.465,
+      "end": 438.465,
+      "text": "So I don't want to do anything till good setup start showing up."
+    },
+    {
+      "start": 438.465,
+      "end": 438.705,
+      "text": "Right?"
+    },
+    {
+      "start": 438.705,
+      "end": 440.705,
+      "text": "Again, go back to p 9,000,000."
+    },
+    {
+      "start": 440.705,
+      "end": 442.785,
+      "text": "Do it all over again and again and again."
+    },
+    {
+      "start": 442.785,
+      "end": 443.525,
+      "text": "Right, Toni?"
+    },
+    {
+      "start": 444.21002,
+      "end": 445.63,
+      "text": "Where the money is flowing."
+    },
+    {
+      "start": 445.69,
+      "end": 445.85,
+      "text": "Right?"
+    },
+    {
+      "start": 445.85,
+      "end": 448.33002,
+      "text": "And this is where big money is coming in."
+    },
+    {
+      "start": 448.33002,
+      "end": 448.83002,
+      "text": "Right?"
+    },
+    {
+      "start": 449.61002,
+      "end": 450.43,
+      "text": "Any questions?"
+    },
+    {
+      "start": 454.81,
+      "end": 456.69498,
+      "text": "Apple success."
+    },
+    {
+      "start": 457.155,
+      "end": 457.395,
+      "text": "Amazon."
+    },
+    {
+      "start": 457.395,
+      "end": 458.53497,
+      "text": "If it's no."
+    },
+    {
+      "start": 458.995,
+      "end": 459.79498,
+      "text": "No questions."
+    },
+    {
+      "start": 459.79498,
+      "end": 462.775,
+      "text": "I will see you people at 2PM."
+    },
+    {
+      "start": 463.395,
+      "end": 463.895,
+      "text": "Right?"
+    },
+    {
+      "start": 463.955,
+      "end": 464.85498,
+      "text": "At 2PM."
+    },
+    {
+      "start": 466.275,
+      "end": 470.19498,
+      "text": "For swing traders, nothing to do currently as of now."
+    },
+    {
+      "start": 470.19498,
+      "end": 470.69498,
+      "text": "Right?"
+    },
+    {
+      "start": 471.6,
+      "end": 473.62,
+      "text": "Hey, EG."
+    },
+    {
+      "start": 473.76,
+      "end": 474.26,
+      "text": "Mhmm."
+    },
+    {
+      "start": 475.44,
+      "end": 481.54,
+      "text": "I watched your video on, how to short and stuff, and and you said to look for the weak, sectors."
+    },
+    {
+      "start": 482.0,
+      "end": 482.48,
+      "text": "Mhmm."
+    },
+    {
+      "start": 482.96,
+      "end": 500.875,
+      "text": "But, don't you also wanna, look at the stuff that hasn't broke yet near highs if it goes into a if this, widens out this, broad broadening the selling or or no like There is no money there is no money in those sectors."
+    },
+    {
+      "start": 500.88,
+      "end": 501.2,
+      "text": "Right?"
+    },
+    {
+      "start": 501.2,
+      "end": 508.66,
+      "text": "And those are going to be sectors like utilities, like, in a things which are, like, in a very, they have dividends."
+    },
+    {
+      "start": 508.72,
+      "end": 508.96,
+      "text": "Right?"
+    },
+    {
+      "start": 508.96,
+      "end": 516.955,
+      "text": "And that's why you see, when the sell off started, like, things like, Verizon and all, they started, like, rallying a little bit."
+    },
+    {
+      "start": 516.955,
+      "end": 517.455,
+      "text": "Right?"
+    },
+    {
+      "start": 517.835,
+      "end": 521.595,
+      "text": "These are why these stocks are rallying because they're, this thing."
+    },
+    {
+      "start": 521.595,
+      "end": 524.555,
+      "text": "The money will flow into separate heavens kind of a thing."
+    },
+    {
+      "start": 524.555,
+      "end": 525.915,
+      "text": "Means, do you want to make money?"
+    },
+    {
+      "start": 525.915,
+      "end": 531.17,
+      "text": "This comes back to the other video which I did, which is, like, in a selecting stocks, stocks selection."
+    },
+    {
+      "start": 531.47003,
+      "end": 533.31,
+      "text": "Which stock do you want to select here?"
+    },
+    {
+      "start": 533.31,
+      "end": 539.41003,
+      "text": "The one which are going to go down a lot, sixty, seventy, 80% or something which will go down just eight or 10%."
+    },
+    {
+      "start": 539.71,
+      "end": 542.75,
+      "text": "What if they've already been down, like, 60%?"
+    },
+    {
+      "start": 542.75,
+      "end": 548.21497,
+      "text": "Anything which is down 60% can get cut again 60% and can again."
+    },
+    {
+      "start": 548.21497,
+      "end": 558.235,
+      "text": "That's why I said, like, in a study what happened in if there is a bear duration bearish market, study what happened in 2008, 2009, or what happened in, like, in a this thing."
+    },
+    {
+      "start": 558.295,
+      "end": 563.95,
+      "text": "Stocks after going down, right, and then Citibank and this is where, like, in a you can get very tempted."
+    },
+    {
+      "start": 563.95,
+      "end": 564.19,
+      "text": "Right?"
+    },
+    {
+      "start": 564.19,
+      "end": 570.29004,
+      "text": "And, basically, after Citibank went down, everybody he was saying, Citi, oh, it's at the lowest level."
+    },
+    {
+      "start": 570.91003,
+      "end": 573.65,
+      "text": "It's a price to sales, p, this and that."
+    },
+    {
+      "start": 573.71,
+      "end": 575.87,
+      "text": "And, Citi was down 50%."
+    },
+    {
+      "start": 575.87,
+      "end": 576.91003,
+      "text": "That's like your money."
+    },
+    {
+      "start": 576.91003,
+      "end": 577.365,
+      "text": "Right?"
+    },
+    {
+      "start": 577.365,
+      "end": 582.425,
+      "text": "And then Citi goes down another 40%, and then goes down another, 90%."
+    },
+    {
+      "start": 582.565,
+      "end": 584.885,
+      "text": "And then people said, this is the sure money."
+    },
+    {
+      "start": 584.885,
+      "end": 585.365,
+      "text": "Right?"
+    },
+    {
+      "start": 585.365,
+      "end": 587.445,
+      "text": "And then it goes down another 90%."
+    },
+    {
+      "start": 587.445,
+      "end": 591.0,
+      "text": "This is how, like, when things grow break."
+    },
+    {
+      "start": 591.08,
+      "end": 593.08,
+      "text": "That is what happens in the bearish market."
+    },
+    {
+      "start": 593.08,
+      "end": 593.58,
+      "text": "Right?"
+    },
+    {
+      "start": 593.64,
+      "end": 594.5467,
+      "text": "Same with the bearish market."
+    },
+    {
+      "start": 594.68,
+      "end": 595.34,
+      "text": "T Mobile."
+    },
+    {
+      "start": 596.04,
+      "end": 596.78,
+      "text": "T Mobile?"
+    },
+    {
+      "start": 597.0,
+      "end": 600.46,
+      "text": "Is that, that was a sick call or is that, safe, Amy?"
+    },
+    {
+      "start": 600.6,
+      "end": 602.06,
+      "text": "But what is the problem?"
+    },
+    {
+      "start": 602.12,
+      "end": 604.36,
+      "text": "Why do you want to short T Mobile?"
+    },
+    {
+      "start": 604.36,
+      "end": 605.1,
+      "text": "Tell me."
+    },
+    {
+      "start": 605.255,
+      "end": 608.935,
+      "text": "T Mobile, business is not affected by all this tariff or no tariff."
+    },
+    {
+      "start": 608.935,
+      "end": 609.175,
+      "text": "No."
+    },
+    {
+      "start": 609.175,
+      "end": 609.815,
+      "text": "It's not."
+    },
+    {
+      "start": 609.815,
+      "end": 610.535,
+      "text": "It's not."
+    },
+    {
+      "start": 610.535,
+      "end": 618.455,
+      "text": "You are still going to be monthly paying, like, in a after you paid your Sugar Baby, the next payment you are going to make sure is mobile phone."
+    },
+    {
+      "start": 618.455,
+      "end": 618.955,
+      "text": "Right?"
+    },
+    {
+      "start": 619.34,
+      "end": 622.62,
+      "text": "Because if there is no mobile phone, you know Sugar Baby also you can call."
+    },
+    {
+      "start": 622.62,
+      "end": 624.64,
+      "text": "So, why do you want to do that, right?"
+    },
+    {
+      "start": 624.7,
+      "end": 625.34,
+      "text": "-I don't."
+    },
+    {
+      "start": 625.34,
+      "end": 625.74,
+      "text": "Thank you."
+    },
+    {
+      "start": 625.74,
+      "end": 627.34,
+      "text": "-Then, utility, utility also."
+    },
+    {
+      "start": 627.34,
+      "end": 628.96,
+      "text": "You have to pay money, right?"
+    },
+    {
+      "start": 629.26,
+      "end": 629.74,
+      "text": "-Yes."
+    },
+    {
+      "start": 629.74,
+      "end": 641.875,
+      "text": "-So, but what is weak in this, what has sold, and the good way to look at it is, whatever is down 50% close or 20% close bearish, this is going to get weaker if the market continues, right?"
+    },
+    {
+      "start": 641.875,
+      "end": 648.25,
+      "text": "That's how this AgSea, which has been cut down, might get cut down another 30% or 50%."
+    },
+    {
+      "start": 648.25,
+      "end": 648.49,
+      "text": "Right?"
+    },
+    {
+      "start": 648.49,
+      "end": 653.15,
+      "text": "All these oil and gas stocks, which have been cut down, they'll get even worse, kind of a thing."
+    },
+    {
+      "start": 653.29,
+      "end": 657.37,
+      "text": "So, or this VFC, which makes, jeans or something."
+    },
+    {
+      "start": 657.37,
+      "end": 657.69,
+      "text": "Right?"
+    },
+    {
+      "start": 657.69,
+      "end": 659.79,
+      "text": "Isn't VF corporation appara yeah."
+    },
+    {
+      "start": 659.85,
+      "end": 662.01,
+      "text": "Some underwear jeans or whatever they make."
+    },
+    {
+      "start": 662.01,
+      "end": 662.415,
+      "text": "Right?"
+    },
+    {
+      "start": 662.495,
+      "end": 665.695,
+      "text": "This can go to 0 or $1, $2."
+    },
+    {
+      "start": 665.695,
+      "end": 672.815,
+      "text": "Exceeds some of the stocks, like, in a of companies went down to, like, in a single digit during the bearish market."
+    },
+    {
+      "start": 672.815,
+      "end": 673.315,
+      "text": "Right?"
+    },
+    {
+      "start": 673.615,
+      "end": 674.755,
+      "text": "Consumer discretionary."
+    },
+    {
+      "start": 675.055,
+      "end": 677.795,
+      "text": "So that's what you want to be yeah."
+    },
+    {
+      "start": 681.89,
+      "end": 683.65,
+      "text": "I just happen to see that stock."
+    },
+    {
+      "start": 683.65,
+      "end": 690.37,
+      "text": "That's why I talked about Oxy, but, I'm just, saying that the sectors like this Celanese, which is a chemical company and all."
+    },
+    {
+      "start": 690.37,
+      "end": 690.61005,
+      "text": "Right?"
+    },
+    {
+      "start": 690.61005,
+      "end": 692.905,
+      "text": "And, they are going to keep on going down."
+    },
+    {
+      "start": 692.905,
+      "end": 694.205,
+      "text": "RMRP Oil Corporation."
+    },
+    {
+      "start": 694.265,
+      "end": 694.505,
+      "text": "Right?"
+    },
+    {
+      "start": 694.505,
+      "end": 695.645,
+      "text": "S t EL."
+    },
+    {
+      "start": 696.265,
+      "end": 699.385,
+      "text": "It might go into completely, like, in a go to $10."
+    },
+    {
+      "start": 699.385,
+      "end": 703.565,
+      "text": "Like, it's a once the story unravels, it keeps on traveling."
+    },
+    {
+      "start": 705.42,
+      "end": 709.26,
+      "text": "So you go where the weakness is, not where the strength is."
+    },
+    {
+      "start": 709.26,
+      "end": 709.5,
+      "text": "Right?"
+    },
+    {
+      "start": 709.5,
+      "end": 711.83997,
+      "text": "And that already that bus has passed."
+    },
+    {
+      "start": 712.3,
+      "end": 715.19995,
+      "text": "What is here showing up, which is, like, very weak sectors."
+    },
+    {
+      "start": 717.19495,
+      "end": 720.095,
+      "text": "Value and what are we looking at?"
+    },
+    {
+      "start": 720.235,
+      "end": 720.735,
+      "text": "Industry."
+    },
+    {
+      "start": 720.795,
+      "end": 721.295,
+      "text": "Right?"
+    },
+    {
+      "start": 721.83496,
+      "end": 723.77496,
+      "text": "Our sector, we can put it sector."
+    },
+    {
+      "start": 724.39496,
+      "end": 725.77496,
+      "text": "So where is the sector?"
+    },
+    {
+      "start": 727.755,
+      "end": 728.235,
+      "text": "Alright."
+    },
+    {
+      "start": 728.235,
+      "end": 739.5,
+      "text": "So consumer cyclical, which is consumer discretionary, energy sector, because, the, health care technology."
+    },
+    {
+      "start": 739.64,
+      "end": 739.88,
+      "text": "Right?"
+    },
+    {
+      "start": 739.88,
+      "end": 741.64,
+      "text": "And what is going to make you money?"
+    },
+    {
+      "start": 741.64,
+      "end": 742.62,
+      "text": "Health care technology."
+    },
+    {
+      "start": 742.76,
+      "end": 747.325,
+      "text": "This, any new Fortress Energy was like in a a wind company."
+    },
+    {
+      "start": 747.385,
+      "end": 747.885,
+      "text": "Right?"
+    },
+    {
+      "start": 748.425,
+      "end": 749.705,
+      "text": "This is a wind company."
+    },
+    {
+      "start": 749.705,
+      "end": 752.745,
+      "text": "So, obviously, Trump doesn't like wind."
+    },
+    {
+      "start": 752.745,
+      "end": 753.065,
+      "text": "Right?"
+    },
+    {
+      "start": 753.065,
+      "end": 756.92004,
+      "text": "And I means like in a he's completely enemy of wind."
+    },
+    {
+      "start": 756.92004,
+      "end": 757.42004,
+      "text": "Right?"
+    },
+    {
+      "start": 757.48004,
+      "end": 760.44,
+      "text": "So this has, completely gone with crazy."
+    },
+    {
+      "start": 760.44,
+      "end": 763.34,
+      "text": "Otherwise, like in a everything else Can I see your screen, EJ?"
+    },
+    {
+      "start": 765.0,
+      "end": 766.30005,
+      "text": "Can I see your screen?"
+    },
+    {
+      "start": 766.44,
+      "end": 766.94,
+      "text": "Okay."
+    },
+    {
+      "start": 768.185,
+      "end": 768.925,
+      "text": "So here."
+    },
+    {
+      "start": 769.145,
+      "end": 769.645,
+      "text": "Right?"
+    },
+    {
+      "start": 770.185,
+      "end": 774.505,
+      "text": "When you put, like, in a sector on stocks which are 20 close bearish."
+    },
+    {
+      "start": 774.505,
+      "end": 774.665,
+      "text": "Right?"
+    },
+    {
+      "start": 774.665,
+      "end": 779.945,
+      "text": "And if you make this, like, let's say, is now instead of this within last x bars and make this five."
+    },
+    {
+      "start": 779.945,
+      "end": 780.445,
+      "text": "Right?"
+    },
+    {
+      "start": 780.905,
+      "end": 782.765,
+      "text": "Which sectors have gone down the most?"
+    },
+    {
+      "start": 783.99,
+      "end": 791.37,
+      "text": "Basic material, consumer cyclical, you see consumer cyclical, energy, health care, health care, health care, health care, and technology."
+    },
+    {
+      "start": 791.43,
+      "end": 791.75,
+      "text": "Right?"
+    },
+    {
+      "start": 791.75,
+      "end": 800.235,
+      "text": "And industrial, obviously, means like in a, if there is a slowdown, industrial is going to be disproportionately affected."
+    },
+    {
+      "start": 800.235,
+      "end": 800.395,
+      "text": "Right?"
+    },
+    {
+      "start": 800.395,
+      "end": 801.695,
+      "text": "But technology sector."
+    },
+    {
+      "start": 802.075,
+      "end": 807.695,
+      "text": "Technology is the one which is and all these stocks which are down, like Venture Global, I don't know what that shit is."
+    },
+    {
+      "start": 807.755,
+      "end": 813.94,
+      "text": "But, something like knee, which is down, is because it's a wind energy, and, Trump doesn't like wind energy."
+    },
+    {
+      "start": 813.94,
+      "end": 814.18,
+      "text": "Right?"
+    },
+    {
+      "start": 814.18,
+      "end": 814.89996,
+      "text": "And that's why."
+    },
+    {
+      "start": 814.89996,
+      "end": 820.89996,
+      "text": "So that's the where is shipping here?"
+    },
+    {
+      "start": 820.89996,
+      "end": 823.56,
+      "text": "Do you see shipping here, in this thing?"
+    },
+    {
+      "start": 824.945,
+      "end": 825.265,
+      "text": "Right."
+    },
+    {
+      "start": 825.265,
+      "end": 828.72504,
+      "text": "What has sold up in the last five, five days?"
+    },
+    {
+      "start": 828.865,
+      "end": 830.005,
+      "text": "Consumer cyclical."
+    },
+    {
+      "start": 830.305,
+      "end": 830.805,
+      "text": "Right?"
+    },
+    {
+      "start": 830.865,
+      "end": 834.72504,
+      "text": "Anything consumer cyclical, just consumer discretionary, energy sector."
+    },
+    {
+      "start": 835.025,
+      "end": 835.525,
+      "text": "Right?"
+    },
+    {
+      "start": 836.065,
+      "end": 840.99005,
+      "text": "And then, like, you know, this health care services, technology."
+    },
+    {
+      "start": 841.77,
+      "end": 842.01,
+      "text": "Right?"
+    },
+    {
+      "start": 842.01,
+      "end": 843.21,
+      "text": "And that's the major thing."
+    },
+    {
+      "start": 843.21,
+      "end": 843.37,
+      "text": "Right?"
+    },
+    {
+      "start": 843.37,
+      "end": 843.87,
+      "text": "Plastics."
+    },
+    {
+      "start": 843.93,
+      "end": 844.25,
+      "text": "Right?"
+    },
+    {
+      "start": 844.25,
+      "end": 849.85004,
+      "text": "And so the other way to look at it is, like, I mean, you can just go to the, sectors here."
+    },
+    {
+      "start": 849.85004,
+      "end": 850.01,
+      "text": "Right?"
+    },
+    {
+      "start": 850.01,
+      "end": 851.71,
+      "text": "And then there must be sector indexes."
+    },
+    {
+      "start": 851.77,
+      "end": 852.225,
+      "text": "Right?"
+    },
+    {
+      "start": 852.46497,
+      "end": 856.40497,
+      "text": "And sort them by, or go into the momentum tab."
+    },
+    {
+      "start": 856.70496,
+      "end": 864.865,
+      "text": "And when you go to the momentum tab, go into sectors, indexes, and sort them by ten days, fifteen days, whatever."
+    },
+    {
+      "start": 864.865,
+      "end": 865.02496,
+      "text": "Right?"
+    },
+    {
+      "start": 865.02496,
+      "end": 869.17,
+      "text": "And in twenty five days, let's say, which sector was the weakest in twenty five days."
+    },
+    {
+      "start": 869.17,
+      "end": 869.67,
+      "text": "Right?"
+    },
+    {
+      "start": 870.69,
+      "end": 871.58997,
+      "text": "And what is it?"
+    },
+    {
+      "start": 872.37,
+      "end": 874.47,
+      "text": "Energy followed by technology."
+    },
+    {
+      "start": 875.17,
+      "end": 881.875,
+      "text": "So what is the sector which is getting badly affected by, this thing is, technology."
+    },
+    {
+      "start": 881.93506,
+      "end": 882.17505,
+      "text": "Right?"
+    },
+    {
+      "start": 882.17505,
+      "end": 889.53503,
+      "text": "And any relief rally also where means, ultimately, whether it is a bull market or bear market."
+    },
+    {
+      "start": 889.53503,
+      "end": 890.03503,
+      "text": "Right?"
+    },
+    {
+      "start": 890.17505,
+      "end": 892.515,
+      "text": "Where do you make build money in a bull market?"
+    },
+    {
+      "start": 893.5,
+      "end": 897.04004,
+      "text": "In technology, health care, consumer discretionary."
+    },
+    {
+      "start": 897.26,
+      "end": 897.58,
+      "text": "Right?"
+    },
+    {
+      "start": 897.58,
+      "end": 899.68005,
+      "text": "Where do you make big money in a bear market?"
+    },
+    {
+      "start": 902.62006,
+      "end": 903.12006,
+      "text": "Same."
+    },
+    {
+      "start": 903.5,
+      "end": 904.78,
+      "text": "It's the same old story."
+    },
+    {
+      "start": 904.78,
+      "end": 905.28,
+      "text": "Right?"
+    },
+    {
+      "start": 905.42004,
+      "end": 906.56,
+      "text": "It's the same story."
+    },
+    {
+      "start": 907.905,
+      "end": 911.185,
+      "text": "That's why you cannot hold this technology stock, buy and hold."
+    },
+    {
+      "start": 911.185,
+      "end": 911.685,
+      "text": "Right?"
+    },
+    {
+      "start": 911.825,
+      "end": 916.625,
+      "text": "That's why you cannot just hold, like, in a something like TTQ, or like in a Saksal."
+    },
+    {
+      "start": 916.625,
+      "end": 916.945,
+      "text": "Right?"
+    },
+    {
+      "start": 916.945,
+      "end": 920.305,
+      "text": "And because when they go down, it goes down like crazy."
+    },
+    {
+      "start": 920.305,
+      "end": 920.805,
+      "text": "Right?"
+    },
+    {
+      "start": 921.68,
+      "end": 923.76,
+      "text": "So that's why."
+    },
+    {
+      "start": 923.76,
+      "end": 925.62,
+      "text": "So technology."
+    },
+    {
+      "start": 928.367,
+      "end": 929.407,
+      "text": "Good for long and short."
+    },
+    {
+      "start": 929.407,
+      "end": 929.64703,
+      "text": "Right?"
+    },
+    {
+      "start": 929.64703,
+      "end": 930.947,
+      "text": "And that's what it is."
+    },
+    {
+      "start": 932.847,
+      "end": 933.247,
+      "text": "Okay."
+    },
+    {
+      "start": 933.247,
+      "end": 934.467,
+      "text": "I will see you people."
+    }
+  ],
+  "language": "en",
+  "backend": "deepgram"
+}
