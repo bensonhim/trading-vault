@@ -1,0 +1,696 @@
+{
+  "segments": [
+    {
+      "start": 2.56,
+      "end": 3.06,
+      "text": "Okay."
+    },
+    {
+      "start": 3.1999998,
+      "end": 7.3799996,
+      "text": "Let's start our TradeFactory and go through it quickly."
+    },
+    {
+      "start": 7.8399997,
+      "end": 15.059999,
+      "text": "One of my objectives is to make this meeting quicker so that, like, you know, we don't spend too much time on two PM meetings."
+    },
+    {
+      "start": 15.12,
+      "end": 15.36,
+      "text": "Right?"
+    },
+    {
+      "start": 15.36,
+      "end": 17.805,
+      "text": "So e p 9,000,000 combo."
+    },
+    {
+      "start": 18.505,
+      "end": 20.825,
+      "text": "In e p nine million, you're looking for a cats."
+    },
+    {
+      "start": 20.825,
+      "end": 22.685,
+      "text": "Cats is something which is a clear catalyst."
+    },
+    {
+      "start": 22.744999,
+      "end": 24.445,
+      "text": "Dog is something which is a story."
+    },
+    {
+      "start": 24.585,
+      "end": 29.645,
+      "text": "And liquid lava is a stock which shows up in 9,000,000 every day because it is highly liquid."
+    },
+    {
+      "start": 29.945,
+      "end": 30.445,
+      "text": "Right?"
+    },
+    {
+      "start": 31.23,
+      "end": 31.73,
+      "text": "Combo."
+    },
+    {
+      "start": 32.43,
+      "end": 35.01,
+      "text": "For combo, you're looking at start of a swing."
+    },
+    {
+      "start": 35.63,
+      "end": 41.89,
+      "text": "If it is a biotech, health care company, technology, or FHP, focus on high priced stocks or bucket stocks."
+    },
+    {
+      "start": 43.415,
+      "end": 47.915,
+      "text": "Bottom bounce."
+    },
+    {
+      "start": 59.879997,
+      "end": 68.119995,
+      "text": "Startup swing biotech, bottom bounce happens only when the market is near the low low."
+    },
+    {
+      "start": 68.119995,
+      "end": 68.619995,
+      "text": "Right?"
+    },
+    {
+      "start": 68.84,
+      "end": 75.765,
+      "text": "Consolidation seldom follow through, unless there is a catalyst and volume and continuation."
+    },
+    {
+      "start": 75.985,
+      "end": 78.305,
+      "text": "That's what first and second leg only."
+    },
+    {
+      "start": 78.305,
+      "end": 84.37,
+      "text": "Most of the things which you're going to see nowadays are already in third legs or fourth leg."
+    },
+    {
+      "start": 84.37,
+      "end": 84.770004,
+      "text": "Right?"
+    },
+    {
+      "start": 84.770004,
+      "end": 86.07,
+      "text": "So that's the thing."
+    },
+    {
+      "start": 86.13,
+      "end": 87.35,
+      "text": "And ands and reversals."
+    },
+    {
+      "start": 87.409996,
+      "end": 87.729996,
+      "text": "Right?"
+    },
+    {
+      "start": 87.729996,
+      "end": 88.39,
+      "text": "And, basically."
+    },
+    {
+      "start": 88.85,
+      "end": 90.07,
+      "text": "So let's see."
+    },
+    {
+      "start": 91.89,
+      "end": 94.93,
+      "text": "Let's start by looking at, like, an e p 9,000,000."
+    },
+    {
+      "start": 94.93,
+      "end": 101.225,
+      "text": "And when you look at e p 9,000,000, right, copy all symbols to e p 9,000,000."
+    },
+    {
+      "start": 101.365,
+      "end": 109.305,
+      "text": "And when you go into e p 9,000,000, right, I already marked the things from e p 9,000,000."
+    },
+    {
+      "start": 109.810005,
+      "end": 123.43,
+      "text": "So you have Fannie Mae, Peloton, right, and, those are the two things which are from, maybe one more thing might be the that media stock, right, and, basically."
+    },
+    {
+      "start": 124.445,
+      "end": 130.30501,
+      "text": "But those are the only two things which I see as something which may be actionable."
+    },
+    {
+      "start": 130.445,
+      "end": 130.685,
+      "text": "Right?"
+    },
+    {
+      "start": 130.685,
+      "end": 137.985,
+      "text": "And, basically, I don't see anything else which is actionable, right, as of now."
+    },
+    {
+      "start": 140.67,
+      "end": 140.99,
+      "text": "Okay."
+    },
+    {
+      "start": 140.99,
+      "end": 144.29001,
+      "text": "So that's like in a two from the newsletter."
+    },
+    {
+      "start": 144.59,
+      "end": 144.99,
+      "text": "Right?"
+    },
+    {
+      "start": 144.99,
+      "end": 149.71,
+      "text": "And we see remove all symbols."
+    },
+    {
+      "start": 149.71,
+      "end": 149.95,
+      "text": "Right?"
+    },
+    {
+      "start": 149.95,
+      "end": 155.595,
+      "text": "And, basically so then, like, combination bearish has 188 stocks."
+    },
+    {
+      "start": 155.595,
+      "end": 159.035,
+      "text": "Combination bullish has, like, 191 stocks."
+    },
+    {
+      "start": 159.035,
+      "end": 163.995,
+      "text": "We start with combination bearish and copy all of them into bearish work."
+    },
+    {
+      "start": 164.315,
+      "end": 175.92,
+      "text": "The setup, which is likely to work for a bearish setup is like in a basically start of a swing or continuation setup, which is weak structure shot."
+    },
+    {
+      "start": 176.46,
+      "end": 182.725,
+      "text": "None of those two I see in, this list today, so I don't have anything which is from the, thing."
+    },
+    {
+      "start": 182.725,
+      "end": 182.965,
+      "text": "Right?"
+    },
+    {
+      "start": 182.965,
+      "end": 186.105,
+      "text": "And, basically, so that also goes, remote."
+    },
+    {
+      "start": 186.565,
+      "end": 189.445,
+      "text": "So let's go and look at combination bullish."
+    },
+    {
+      "start": 189.445,
+      "end": 192.265,
+      "text": "Combination bullish has 191 stocks."
+    },
+    {
+      "start": 192.485,
+      "end": 194.745,
+      "text": "Copy all the them into bullish work."
+    },
+    {
+      "start": 194.885,
+      "end": 203.23,
+      "text": "And, I don't see low threshold is working very well in this market, so I'm not going to be doing."
+    },
+    {
+      "start": 203.45,
+      "end": 206.19,
+      "text": "So here, I already done the work."
+    },
+    {
+      "start": 206.41,
+      "end": 212.565,
+      "text": "So Dave, which was my anticipation idea from, the newsletter from today morning or the watch list."
+    },
+    {
+      "start": 212.88501,
+      "end": 215.845,
+      "text": "So that's, like, an ETNV, start of a swing."
+    },
+    {
+      "start": 215.845,
+      "end": 216.66501,
+      "text": "It's a biotechnology."
+    },
+    {
+      "start": 217.52501,
+      "end": 217.925,
+      "text": "Right?"
+    },
+    {
+      "start": 217.925,
+      "end": 219.365,
+      "text": "Apps, start of a swing."
+    },
+    {
+      "start": 219.365,
+      "end": 221.705,
+      "text": "It's a technology plus a continuation setup."
+    },
+    {
+      "start": 222.005,
+      "end": 222.245,
+      "text": "Right?"
+    },
+    {
+      "start": 222.245,
+      "end": 225.765,
+      "text": "And, basically, this is again three three six three nine ten."
+    },
+    {
+      "start": 225.765,
+      "end": 227.285,
+      "text": "So that's a continuation setup."
+    },
+    {
+      "start": 227.285,
+      "end": 227.52501,
+      "text": "Right?"
+    },
+    {
+      "start": 227.52501,
+      "end": 230.29,
+      "text": "And, basically, apps continuation setup."
+    },
+    {
+      "start": 230.51,
+      "end": 240.29,
+      "text": "This is start of a swing, software technology, elastic, NV, high priced stocks, start of a swing, right, and basically, KNTK."
+    },
+    {
+      "start": 241.175,
+      "end": 242.695,
+      "text": "This is a continuation setup."
+    },
+    {
+      "start": 242.695,
+      "end": 246.375,
+      "text": "The first leg is seventeen percent and three days of, this thing."
+    },
+    {
+      "start": 246.375,
+      "end": 247.195,
+      "text": "So we're going."
+    },
+    {
+      "start": 247.575,
+      "end": 252.955,
+      "text": "ETRI, this is again a high price stock, start of a swing, a kind of a setup."
+    },
+    {
+      "start": 253.015,
+      "end": 260.56,
+      "text": "Alab, this is again start up a swing kind of a, setup plus a continuation setup."
+    },
+    {
+      "start": 260.56,
+      "end": 266.74002,
+      "text": "Laser, which is like this is the first leg, which is around 60% and then breaking out."
+    },
+    {
+      "start": 266.96002,
+      "end": 269.14,
+      "text": "Peloton, which is from 9,000,000 breakout."
+    },
+    {
+      "start": 269.36002,
+      "end": 272.035,
+      "text": "A VBP, start up a swing, Right?"
+    },
+    {
+      "start": 272.035,
+      "end": 280.935,
+      "text": "And, basically, then AC Moore, which is again, like, some sort of a continuation setup, from technology start up a swing."
+    },
+    {
+      "start": 281.315,
+      "end": 283.795,
+      "text": "TTEC, start up a swing."
+    },
+    {
+      "start": 283.795,
+      "end": 284.11502,
+      "text": "Right?"
+    },
+    {
+      "start": 284.11502,
+      "end": 286.93,
+      "text": "And CNTA, start of a swing."
+    },
+    {
+      "start": 286.93,
+      "end": 291.75,
+      "text": "Biotechnology, this is a little bit choppy, so we can decide not to go in here."
+    },
+    {
+      "start": 292.37,
+      "end": 297.33,
+      "text": "M Fannie Mae, which is like an from 9,000,000 breakout."
+    },
+    {
+      "start": 297.33,
+      "end": 297.56998,
+      "text": "Right?"
+    },
+    {
+      "start": 297.56998,
+      "end": 298.61,
+      "text": "And it's a nice one."
+    },
+    {
+      "start": 298.93,
+      "end": 305.065,
+      "text": "You can't buy it unless you activated, ping shit in, interactive broker."
+    },
+    {
+      "start": 305.065,
+      "end": 305.30502,
+      "text": "Right?"
+    },
+    {
+      "start": 305.30502,
+      "end": 310.52502,
+      "text": "MLYS, this is start of a swing, momentum burst, right, and basically from this thing."
+    },
+    {
+      "start": 310.825,
+      "end": 313.885,
+      "text": "I n m a IMNM, start of a swing."
+    },
+    {
+      "start": 315.73,
+      "end": 318.23,
+      "text": "Healthcare technology, start of a swing alone is enough."
+    },
+    {
+      "start": 318.37,
+      "end": 325.67,
+      "text": "And Peloton technology start, start of a swing plus 9,000,000 plus I think it's also liquid lava everyday it says."
+    },
+    {
+      "start": 325.89,
+      "end": 335.905,
+      "text": "So copy flagged into newsletter, and those are the 17 ideas or 18 ideas."
+    },
+    {
+      "start": 335.96503,
+      "end": 336.20502,
+      "text": "Right?"
+    },
+    {
+      "start": 336.20502,
+      "end": 343.665,
+      "text": "And, basically, what is too late to get into, like, an none of them is too late to get into."
+    },
+    {
+      "start": 343.96,
+      "end": 345.47998,
+      "text": "You'll have to adjust your size."
+    },
+    {
+      "start": 345.47998,
+      "end": 346.84,
+      "text": "Your stops become wider."
+    },
+    {
+      "start": 346.84,
+      "end": 347.0,
+      "text": "Right?"
+    },
+    {
+      "start": 347.0,
+      "end": 348.28,
+      "text": "And, basically, that's the thing."
+    },
+    {
+      "start": 348.28,
+      "end": 348.44,
+      "text": "Right?"
+    },
+    {
+      "start": 348.44,
+      "end": 352.22,
+      "text": "And, basically, NUC is like an NUC or fading."
+    },
+    {
+      "start": 353.08,
+      "end": 355.18,
+      "text": "So we can, like, remove NUC."
+    },
+    {
+      "start": 355.24,
+      "end": 355.47998,
+      "text": "Right?"
+    },
+    {
+      "start": 355.47998,
+      "end": 359.795,
+      "text": "And, basically, then APS, AT and B, TAV."
+    },
+    {
+      "start": 360.655,
+      "end": 364.355,
+      "text": "Anything else is, like, an not so good, basically."
+    },
+    {
+      "start": 364.495,
+      "end": 364.655,
+      "text": "Right?"
+    },
+    {
+      "start": 364.655,
+      "end": 365.395,
+      "text": "And, basically."
+    },
+    {
+      "start": 365.535,
+      "end": 369.695,
+      "text": "So, anything else, if you're talking about, is not so good."
+    },
+    {
+      "start": 369.695,
+      "end": 370.895,
+      "text": "That's why it is not here."
+    },
+    {
+      "start": 370.895,
+      "end": 371.215,
+      "text": "Right?"
+    },
+    {
+      "start": 371.215,
+      "end": 372.275,
+      "text": "This is my selection."
+    },
+    {
+      "start": 372.51,
+      "end": 374.19,
+      "text": "You can have other selections also."
+    },
+    {
+      "start": 374.19,
+      "end": 374.35,
+      "text": "Right?"
+    },
+    {
+      "start": 374.35,
+      "end": 376.51,
+      "text": "And, basically, that's the whole thing."
+    },
+    {
+      "start": 376.51,
+      "end": 376.75,
+      "text": "Right?"
+    },
+    {
+      "start": 376.75,
+      "end": 380.43002,
+      "text": "And, basically, will they have a follow through?"
+    },
+    {
+      "start": 380.43002,
+      "end": 383.31,
+      "text": "That's the million dollar question, which nobody knows the answer to."
+    },
+    {
+      "start": 383.31,
+      "end": 383.81,
+      "text": "Right?"
+    },
+    {
+      "start": 384.59,
+      "end": 386.19,
+      "text": "Are breakouts likely to work?"
+    },
+    {
+      "start": 386.19,
+      "end": 386.655,
+      "text": "Yes."
+    },
+    {
+      "start": 386.895,
+      "end": 387.535,
+      "text": "Basically, why?"
+    },
+    {
+      "start": 387.535,
+      "end": 390.095,
+      "text": "Because there is we are in a bullish market."
+    },
+    {
+      "start": 390.095,
+      "end": 390.495,
+      "text": "Right?"
+    },
+    {
+      "start": 390.495,
+      "end": 392.975,
+      "text": "But is there a guarantee that breakouts are going to work?"
+    },
+    {
+      "start": 392.975,
+      "end": 393.475,
+      "text": "No."
+    },
+    {
+      "start": 393.855,
+      "end": 394.255,
+      "text": "Right?"
+    },
+    {
+      "start": 394.255,
+      "end": 401.075,
+      "text": "So copy all symbols to clipboard and we are done for the day."
+    },
+    {
+      "start": 419.26498,
+      "end": 433.88,
+      "text": "And, basically, where, like, anticipation, I'm not really going to do anticipation because I started doing anticipation in the night because, anyway, this market, I have not had luck trying three fifty eight."
+    },
+    {
+      "start": 433.88,
+      "end": 444.03998,
+      "text": "So if you want to see what my anticipation setups is going to be, right, and then my anticipation setups are going to be one or two ideas will be posted here."
+    },
+    {
+      "start": 444.03998,
+      "end": 448.07498,
+      "text": "My anticipation were TransMedics, Nutex, and Louvre for today."
+    },
+    {
+      "start": 448.07498,
+      "end": 448.235,
+      "text": "Right?"
+    },
+    {
+      "start": 448.235,
+      "end": 449.995,
+      "text": "And a day was the number one idea."
+    },
+    {
+      "start": 449.995,
+      "end": 450.495,
+      "text": "Right?"
+    },
+    {
+      "start": 450.555,
+      "end": 452.175,
+      "text": "So that I will put in there."
+    },
+    {
+      "start": 452.235,
+      "end": 461.19998,
+      "text": "So only thing which I'm going to look at at this stage, which is also not the right time to look at because, ideally, you should look at it at around 03:30 or like that."
+    },
+    {
+      "start": 461.19998,
+      "end": 462.18,
+      "text": "Right, Anna, basically?"
+    },
+    {
+      "start": 463.68,
+      "end": 463.91998,
+      "text": "Yes."
+    },
+    {
+      "start": 463.91998,
+      "end": 467.12,
+      "text": "9,000,000 record have more probability of working always."
+    },
+    {
+      "start": 467.12,
+      "end": 467.83997,
+      "text": "Right, Anna?"
+    },
+    {
+      "start": 467.83997,
+      "end": 469.46,
+      "text": "So reversal bullish."
+    },
+    {
+      "start": 469.75998,
+      "end": 481.51498,
+      "text": "So I'm going to be looking at reversal bullish, but I'd also look at reversal bullish at 03:30 or in the last ten minutes because that's when really, the entry should be right and basically."
+    },
+    {
+      "start": 481.815,
+      "end": 483.655,
+      "text": "So do you see anything reversal bullish?"
+    },
+    {
+      "start": 483.655,
+      "end": 484.155,
+      "text": "No."
+    },
+    {
+      "start": 485.01498,
+      "end": 485.335,
+      "text": "Right?"
+    },
+    {
+      "start": 485.335,
+      "end": 486.69498,
+      "text": "And that's what it is."
+    },
+    {
+      "start": 486.69498,
+      "end": 495.67,
+      "text": "And I will see you people tomorrow morning again at some stage in the morning."
+    },
+    {
+      "start": 495.89,
+      "end": 496.39,
+      "text": "Right?"
+    }
+  ],
+  "language": "en",
+  "backend": "deepgram"
+}
