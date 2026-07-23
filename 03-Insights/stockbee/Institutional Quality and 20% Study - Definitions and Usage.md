@@ -84,13 +84,13 @@ DEP is the "yogi" version of [[EP 9M]] — a planned, deliberate first-pullback 
 
 The **20% study** (Pradeep's primary Market Monitor indicator) counts the number of stocks in the universe that are up **25%+ in the last 65 trading days**.
 
-| Reading | Market Regime | Action |
-|---------|--------------|--------|
-| **Above 600–1,000** | Excessive bullishness | Trade bullish breakouts; most will work |
-| **Around 200** | Neutral / transitional | Selective; calibrate risk |
-| **Below 200** | Bearish — primary indicator extreme | Prepare for turn; don't stay bearish |
-| **Below 20 (T2108)** | Solid bearish market | Suppress long setups |
-| **Single digits (T2108)** | Capitulation / major bottom | Bull markets start here; get ready to buy |
+| Reading                   | Market Regime                       | Action                                    |
+| ------------------------- | ----------------------------------- | ----------------------------------------- |
+| **Above 600–1,000**       | Excessive bullishness               | Trade bullish breakouts; most will work   |
+| **Around 200**            | Neutral / transitional              | Selective; calibrate risk                 |
+| **Below 200**             | Bearish — primary indicator extreme | Prepare for turn; don't stay bearish      |
+| **Below 20 (T2108)**      | Solid bearish market                | Suppress long setups                      |
+| **Single digits (T2108)** | Capitulation / major bottom         | Bull markets start here; get ready to buy |
 
 > "If you just trade breakouts when the primary indicator is green, you will find most of the time, most of the breakouts work during that time." — Pradeep, *Market Monitor Guide Part 8*
 
@@ -154,10 +154,10 @@ Not all fund ownership is equal. Pradeep tracks specific high-conviction funds w
 
 Within [[EP 9M]], Pradeep classifies candidates by catalyst quality to decide sizing:
 
-| Category | Definition | Sizing |
-|----------|-----------|--------|
-| **Cat** | Clear catalyst (earnings, big order, contract) — e.g. [[PNL]] | **Large size** — up to 25–30% of account |
-| **Dog** | Story stock, no revenue/earnings — e.g. [[QS]], [[OKLO]] | **Small size** — < 5% of account |
+| Category        | Definition                                                                                                                                    | Sizing                                                         |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| **Cat**         | Clear catalyst (earnings, big order, contract) — e.g. [[PNL]]                                                                                 | **Large size** — up to 25–30% of account                       |
+| **Dog**         | Story stock, no revenue/earnings — e.g. [[QS]], [[OKLO]]                                                                                      | **Small size** — < 5% of account                               |
 | **Liquid Lava** | Trades 9M+ volume *daily* (real business) — e.g. [[INTC]], [[MRVL]], [[AAPL]], [[DELL]], [[DOW]], [[C]], [[BAC]], [[WFC]], [[NVDA]], [[SNDK]] | **Large size** — can size up because real business + liquidity |
 
 > "Can I look and I there is a lot of difference in 5,000 plus fund ownership kind of a thing? I am willing to put eighty, ninety, 100% of my account on a good swing on something like Amazon, Microsoft, Apple. Will I put 100% of my account on just a liquid lava like Oklo? Tell me." — Pradeep, *Stock Selection Guide: Fund Ownership*
