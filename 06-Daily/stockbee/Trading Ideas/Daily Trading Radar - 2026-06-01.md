@@ -9,20 +9,17 @@ data_date: 2026-05-31
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **RANGE_BOUND** — Action: **SIPs_ONLY**
+> [!caution] **CAUTIOUS_BULL** — Action: **REDUCE_SIZE**
 >
-> - **20% Study (bullish):** 25
-> - **20% Study (bearish):** 42
-> - **T2108:** 50.9%
-> - **Net Primary:** -26
-> - **Breakouts:** 160 | **Breakdowns:** 240
+> - **20% Study (bullish):** 0
+> - **20% Study (bearish):** 0
+> - **T2108:** 45.6%
+> - **Net Primary:** +742
+> - **Breakouts:** 329 | **Breakdowns:** 218
 > - **Follow-through:** 3d=45.7% 5d=46.7% (OK)
 >
-> - Monthly 25% ratio 0.59 < 0.8
 > - TI65 bullish universe 0 < 800 (market losing momentum)
 > - TI65 young momentum 0 < 30 (few new trends starting)
-> - 20% study at 25 (< 30) = funds not aggressively buying, breakouts unlikely to follow through
-> - 20% study at 25 (< 30) — downgraded to RANGE_BOUND/SIPs_ONLY. Funds not buying, breakouts unlikely to follow through.
 
 ---
 
@@ -42,35 +39,16 @@ data_date: 2026-05-31
 
 | Indicator | 2026-05-31 | Signal | Interpretation |
 |-----------|---------|--------|----------------|
-| Monthly 25% Up | 101 | Normal | Stocks up 25%+ in a month |
-| Monthly 25% Down | 170 | Normal | Stocks down 25%+ in a month |
-| Monthly 25% Ratio | 0.59
-Below 1.0 | Bearish tilt |
-| Fib 13% Up (34d) | 1670 | High | Stocks up 13%+ in 34 days |
-| Fib 13% Down (34d) | 1608 | High | Stocks down 13%+ in 34 days |
-| Fib 13% Ratio | 1.04
+| Monthly 25% Up | 266 | Elevated | Stocks up 25%+ in a month |
+| Monthly 25% Down | 113 | Normal | Stocks down 25%+ in a month |
+| Monthly 25% Ratio | 2.35
+Above 1.0 | Bullish |
+| Fib 13% Up (34d) | 1867 | High | Stocks up 13%+ in 34 days |
+| Fib 13% Down (34d) | 1363 | Normal | Stocks down 13%+ in 34 days |
+| Fib 13% Ratio | 1.37
 Above 1.0 | Bullish medium-term |
-| 5-Day Ratio | 0.91 | Below 1.0 | Short-term normal |
-| 10-Day Ratio | 0.92 | Below 1.0 | Normal |
-
-> [!warning] Secondary Indicator Warnings
-
-- Monthly 25% ratio below 0.8 — more stocks down 25%+ than up
-
-
-> [!abstract] 20% Study (Pradeep's #1 SA Signal)
-
-| Metric | Value | Signal |
-|--------|-------|--------|
-| Stocks up 20%+ (5d) | 25 | ⚠️ Low — breakouts unlikely to follow through |
-| Stocks down 20%+ (5d) | 42 | Normal |
-
-> [!warning] Scan Suppression Active: SOS, DEP, ANTS
-> 20% study at 25 — breakouts unlikely to follow through in this environment.
-
-**Breakout Follow-Through (last 10 days):** 3d=45.7% 5d=46.7% [OK]
-
-> When 5-day follow-through < 30%, breakouts are systematically failing. Pradeep: 'Just see what happened to breakouts from yesterday, and did they follow through.'
+| 5-Day Ratio | 2.47 | Above 1.0 | Short-term bullish |
+| 10-Day Ratio | 1.58 | Above 1.0 | Bullish |
 
 ---
 
@@ -78,29 +56,12 @@ Above 1.0 | Bullish medium-term |
 
 ---
 
-## 4b. TI65 Trend Intensity
-
-> [!info] **TI65 = AVGC7 / AVGC65** — absolute momentum indicator (Pradeep).
-> ≥1.05 = bullish velocity, ≤0.95 = bearish velocity, 0.95–1.05 = neutral.
-> C65 = days in bullish TI65 (last 100). C65 ≤ 10 = **young momentum** (highest R/R).
-
-| Universe | Count | Notes |
-|----------|-------|-------|
-| Bullish (≥1.05, vol≥100K) | 0 | Active uptrends |
-| Bearish (≤0.95, vol≥1M) | 0 | Active downtrends (short universe) |
-| Bearish (≤0.95, vol≥100K) | 0 | Wider bearish universe |
-| Neutral | 0 | No clear trend |
-| **Young momentum** (C65 ≤ 10) | **0** | **First 10 days of bullish TI65 — highest reward/risk** |
-| Total scanned | 1 | All tickers with ≥65 days history |
-
----
-
 ## 5. Trade Ideas
 
-### FADE MODE Active (20% study < 35)
+### SOS Breakout Candidates (0 found — top 20)
 
-> [!warning] Breakouts unlikely to follow through. No yesterday breakouts failing today (or no data).
-
+| # | Ticker | Change% | Volume | Two Lynch | Leg | Priority |
+|---|--------|---------|--------|-----------|-----|----------|
 
 ### DEP Candidates (0 found)
 
@@ -145,13 +106,13 @@ Above 1.0 | Bullish medium-term |
 | 11 | SIDU | 9 | 3 | 9 | expanded |
 | 12 | SNXX | 9 | 3 | 30 | core |
 | 13 | USAR | 9 | 3 | 51 | expanded |
-| 14 | MSTU | 9 | 2 | 5 | expanded |
+| 14 | MSTU | 9 | 2 | 9 | expanded |
 | 15 | APLD | 8 | 4 | 89 | core |
 | 16 | DRAM | 8 | 4 | 9 | expanded |
 | 17 | FCEL | 8 | 4 | 9 | expanded |
 | 18 | MU | 8 | 4 | 9 | expanded |
-| 19 | AMD | 8 | 3 | 7 | core |
-| 20 | MULL | 8 | 3 | 25 | core |
+| 19 | SPCE | 8 | 4 | 7 | expanded |
+| 20 | AMD | 8 | 3 | 7 | core |
 
 ---
 
@@ -165,7 +126,7 @@ Above 1.0 | Bullish medium-term |
 
 ---
 
-## 10. Short-Side Setups (6 candidates)
+## 10. Short-Side Setups (1 candidates)
 
 ### EP 9M Short (1) — negative surprise gap-downs
 
@@ -173,27 +134,15 @@ Above 1.0 | Bullish medium-term |
 |--------|-------|----------|-------|------|-------|
 | PEGA | -30.6% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
 
-### Bearish DEP (5) — negative EP → breakdown below consolidation
-
-| Ticker | EP Age | EP Change | Entry | Stop | Notes |
-|--------|--------|-----------|-------|------|-------|
-| JBS | 17d | -4.9% | $12.48 | $13.28 | Negative EP 17d ago (-4.9%), breaking consolidation |
-| Z | 23d | -5.2% | $35.44 | $40.44 | Negative EP 23d ago (-5.2%), breaking consolidation |
-| NWL | 13d | -4.8% | $3.46 | $3.59 | Negative EP 13d ago (-4.8%), breaking consolidation |
-| OKE | 25d | -4.9% | $85.16 | $95.24 | Negative EP 25d ago (-4.9%), breaking consolidation |
-| XP | 9d | -6.2% | $16.74 | $17.00 | Negative EP 9d ago (-6.2%), breaking consolidation |
-
 ---
 
 ## 11. Action Summary
 
-- [ ] **RANGE_BOUND / SIPs ONLY** — breakouts unlikely to follow through
-- [ ] No swing longs — SIPs and intraday only
-- [ ] Pradeep: 'My wallet is closed. Nothing to do.'
-- [ ] No SIPs candidates found — run SIPs scan live during market hours
-- [ ] Monitor 6 short-side setups
-- [ ] Fading breakouts may be better than buying breakouts
-- [ ] Watch for capitulation signal (T2108 < 10%)
+- [ ] **REDUCE SIZE** — selective setups only
+- [ ] No DEP candidates — no limit orders to place
+- [ ] ANTS suppressed in this market — no BSLO orders
+- [ ] Sell into strength on existing positions
+- [ ] Tighten stops to breakeven
 
 ---
 
