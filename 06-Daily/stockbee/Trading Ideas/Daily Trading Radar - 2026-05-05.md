@@ -263,19 +263,19 @@ RS_20d: 3.82 | RS_65d: 7.50
 | 5 | AMDL | 8 | 3 | 9 | core |
 | 6 | IREN | 8 | 3 | 99 | expanded |
 | 7 | QUBT | 8 | 3 | 9 | expanded |
-| 8 | SMCI | 8 | 3 | 74 | expanded |
-| 9 | SNXX | 8 | 3 | 30 | core |
-| 10 | CLSK | 8 | 2 | 9 | expanded |
-| 11 | INTC | 8 | 2 | 9 | expanded |
-| 12 | CRML | 7 | 3 | 36 | expanded |
-| 13 | QBTS | 7 | 3 | 71 | expanded |
-| 14 | TSLL | 7 | 3 | 81 | expanded |
-| 15 | AAOI | 7 | 2 | 4 | expanded |
-| 16 | AUR | 7 | 2 | 48 | core |
-| 17 | HIMS | 7 | 2 | 9 | expanded |
-| 18 | HTZ | 7 | 2 | 9 | expanded |
-| 19 | MARA | 7 | 2 | 8 | expanded |
-| 20 | MP | 7 | 2 | 4 | expanded |
+| 8 | RIOT | 8 | 3 | 8 | expanded |
+| 9 | SMCI | 8 | 3 | 74 | expanded |
+| 10 | SNXX | 8 | 3 | 30 | core |
+| 11 | CLSK | 8 | 2 | 9 | expanded |
+| 12 | INTC | 8 | 2 | 9 | expanded |
+| 13 | MSTU | 8 | 2 | 5 | expanded |
+| 14 | APLD | 7 | 3 | 89 | core |
+| 15 | CIFR | 7 | 3 | 9 | expanded |
+| 16 | CRML | 7 | 3 | 36 | expanded |
+| 17 | MU | 7 | 3 | 9 | expanded |
+| 18 | QBTS | 7 | 3 | 71 | expanded |
+| 19 | TSLL | 7 | 3 | 81 | expanded |
+| 20 | AAOI | 7 | 2 | 4 | expanded |
 
 ---
 
