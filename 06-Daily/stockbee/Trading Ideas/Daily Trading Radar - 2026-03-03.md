@@ -9,7 +9,7 @@ data_date: 2026-03-02
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **RANGE_BOUND** — Action: **SIPs_ONLY**
+> [!caution] **CAUTIOUS_BULL** — Action: **REDUCE_SIZE**
 >
 > - **20% Study (bullish):** 59
 > - **20% Study (bearish):** 43
@@ -21,7 +21,6 @@ data_date: 2026-03-02
 > - Former leader rolling over: SIL (silver_miners)
 > - Follow-through 5d rate 29% < 30% — breakouts failing, no momentum
 > - Former leader rolling over but breadth positive — reduce size, watch for confirmation
-> - Follow-through 29% < 30% — downgraded to RANGE_BOUND/SIPs_ONLY. Breakouts failing, no momentum.
 
 ---
 
@@ -238,13 +237,12 @@ RS_20d: -0.80 | RS_65d: 4.02
 
 ## 11. Action Summary
 
-- [ ] **RANGE_BOUND / SIPs ONLY** — breakouts unlikely to follow through
-- [ ] No swing longs — SIPs and intraday only
-- [ ] Pradeep: 'My wallet is closed. Nothing to do.'
+- [ ] **REDUCE SIZE** — selective setups only
+- [ ] No DEP candidates — no limit orders to place
+- [ ] Place ANTS BSLO orders (super-tight/ultra-tight only, 35 available)
 - [ ] **Focus on SIPs** — 30 fresh catalyst stocks for day trade
-- [ ] Monitor 1 short-side setups
-- [ ] Fading breakouts may be better than buying breakouts
-- [ ] Watch for capitulation signal (T2108 < 10%)
+- [ ] Sell into strength on existing positions
+- [ ] Tighten stops to breakeven
 - [ ] Leading sector: QTUM — watch for setups in this sector
 
 ---
