@@ -20,7 +20,7 @@ data_date: 2026-07-15
 >
 > - 20% study at 17 (< 30) = funds not aggressively buying, breakouts unlikely to follow through
 > - Follow-through 5d rate 26% < 30% — breakouts failing, no momentum
-> - 20% study at 17 (< 30) + Net Primary +0 + 5d ratio 0.93 — all indicators weak, downgraded to RANGE_BOUND/SIPs_ONLY.
+> - 20% study at 17 (< 30) + Net Primary +223 + 5d ratio 0.93 — all indicators weak, downgraded to RANGE_BOUND/SIPs_ONLY.
 
 ---
 
@@ -184,13 +184,15 @@ RS_20d: 72.83 | RS_65d: 6.63
 
 ---
 
-## 10. Short-Side Setups (1 candidates)
+## 10. Short-Side Setups (3 candidates)
 
-### EP 9M Short (1) — negative surprise gap-downs
+### EP 9M Short (3) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -19.3% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| ZCMD | 119.2% | -18.41% | $3.50 | $4.98 | unknown_negative (intraday_down) |
+| STM | 0.0% | -15.62% | $55.49 | $56.42 | unknown_negative (intraday_down) |
+| TSLA | -13.9% | -12.35% | $327.82 | $341.86 | unknown_negative (gap_down) |
 
 ---
 
@@ -200,7 +202,7 @@ RS_20d: 72.83 | RS_65d: 6.63
 - [ ] No swing longs — SIPs and intraday only
 - [ ] Pradeep: 'My wallet is closed. Nothing to do.'
 - [ ] **Focus on SIPs** — 18 fresh catalyst stocks for day trade
-- [ ] Monitor 1 short-side setups
+- [ ] Monitor 3 short-side setups
 - [ ] Fading breakouts may be better than buying breakouts
 - [ ] Watch for capitulation signal (T2108 < 10%)
 - [ ] Leading sector: BUG — watch for setups in this sector

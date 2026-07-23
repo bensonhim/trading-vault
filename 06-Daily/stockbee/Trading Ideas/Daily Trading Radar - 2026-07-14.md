@@ -191,13 +191,15 @@ RS_20d: 9.48 | RS_65d: 1.71
 
 ---
 
-## 10. Short-Side Setups (1 candidates)
+## 10. Short-Side Setups (3 candidates)
 
-### EP 9M Short (1) — negative surprise gap-downs
+### EP 9M Short (3) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -20.7% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| ZCMD | 85.7% | -18.41% | $3.50 | $4.98 | unknown_negative (intraday_down) |
+| STM | 0.0% | -16.01% | $55.24 | $56.42 | unknown_negative (intraday_down) |
+| TSLA | -16.4% | -12.44% | $327.48 | $341.86 | unknown_negative (gap_down) |
 
 ---
 
@@ -207,7 +209,7 @@ RS_20d: 9.48 | RS_65d: 1.71
 - [ ] No swing longs — SIPs and intraday only
 - [ ] Pradeep: 'My wallet is closed. Nothing to do.'
 - [ ] **Focus on SIPs** — 9 fresh catalyst stocks for day trade
-- [ ] Monitor 1 short-side setups
+- [ ] Monitor 3 short-side setups
 - [ ] Fading breakouts may be better than buying breakouts
 - [ ] Watch for capitulation signal (T2108 < 10%)
 - [ ] Leading sector: XBI — watch for setups in this sector

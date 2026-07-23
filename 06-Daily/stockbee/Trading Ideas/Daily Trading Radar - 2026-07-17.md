@@ -22,7 +22,7 @@ data_date: 2026-07-16
 > - 10-day ratio 0.74 < 0.8
 > - Monthly 25% ratio 0.74 < 0.8
 > - Breakdown spike: 509 vs 251
-> - Breakdown (509) > Breakout (251) = selling pressure
+> - Net primary 144 declining
 
 ---
 
@@ -193,13 +193,14 @@ RS_20d: 62.74 | RS_65d: 6.87
 
 ---
 
-## 10. Short-Side Setups (1 candidates)
+## 10. Short-Side Setups (2 candidates)
 
-### EP 9M Short (1) — negative surprise gap-downs
+### EP 9M Short (2) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -20.8% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| STM | 0.0% | -15.62% | $55.49 | $56.42 | unknown_negative (intraday_down) |
+| TSLA | -13.6% | -12.37% | $327.74 | $341.86 | unknown_negative (gap_down) |
 
 ---
 
@@ -209,7 +210,7 @@ RS_20d: 62.74 | RS_65d: 6.87
 - [ ] No swing longs — SIPs and intraday only
 - [ ] Pradeep: 'My wallet is closed. Nothing to do.'
 - [ ] **Focus on SIPs** — 12 fresh catalyst stocks for day trade
-- [ ] Monitor 1 short-side setups
+- [ ] Monitor 2 short-side setups
 - [ ] Fading breakouts may be better than buying breakouts
 - [ ] Watch for capitulation signal (T2108 < 10%)
 - [ ] Leading sector: BUG — watch for setups in this sector

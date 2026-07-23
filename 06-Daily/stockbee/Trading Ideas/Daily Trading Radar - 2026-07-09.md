@@ -20,8 +20,8 @@ data_date: 2026-07-08
 >
 > - Former leader rolling over: SOXX (semiconductors)
 > - Breakdown (309) > Breakout (185) = selling pressure
+> - ROTATION TRAP: positive breadth from beaten-down stocks, not leaders
 > - 20% study at 12 (< 30) = funds not aggressively buying, breakouts unlikely to follow through
-> - Leading sector rolling over + market confirmation
 
 ---
 
@@ -188,13 +188,15 @@ RS_20d: 24.66 | RS_65d: 1.90
 
 ---
 
-## 10. Short-Side Setups (1 candidates)
+## 10. Short-Side Setups (3 candidates)
 
-### EP 9M Short (1) — negative surprise gap-downs
+### EP 9M Short (3) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -23.1% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| ZCMD | 71.4% | -18.41% | $3.50 | $4.98 | unknown_negative (intraday_down) |
+| STM | 0.0% | -15.21% | $55.77 | $56.42 | unknown_negative (intraday_down) |
+| TSLA | -15.4% | -12.45% | $327.44 | $341.86 | unknown_negative (gap_down) |
 
 ---
 
@@ -203,7 +205,7 @@ RS_20d: 24.66 | RS_65d: 1.90
 - [ ] **NO NEW LONGS** — process over chasing
 - [ ] Manage existing positions only
 - [ ] SIPs only — 17 fresh catalyst for day trade
-- [ ] Monitor 1 short-side setups
+- [ ] Monitor 3 short-side setups
 - [ ] Watch for capitulation signal (T2108 < 10%)
 - [ ] Leading sector: XBI — watch for setups in this sector
 
