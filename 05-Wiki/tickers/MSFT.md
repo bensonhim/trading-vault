@@ -1,16 +1,16 @@
 ---
 title: "MSFT"
-date: 2026-07-22
+date: 2026-07-23
 tags: [tickers, wiki, auto-compiled]
-mention_count: 54
-sources_count: 36
+mention_count: 58
+sources_count: 39
 compilation_count: 1
 promote: false
 ---
 
 # MSFT
 
-*Tickers — compiled from 54 mentions across 36 sources.*
+*Tickers — compiled from 58 mentions across 39 sources.*
 
 ## Mentions
 
@@ -39,6 +39,14 @@ promote: false
 > [[../../06-Daily/stockbee/Sessions/Session-2026-02-23.md|Session-2026-02-23]]: | QQQ/TQQ | Short | Market short | If MSFT/AMZN go, TQQ keeps going |
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-02-23.md|Session-2026-02-23]]: | MSFT | Short | Next Oracle? | Trajectory looks like Oracle |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-04-13.md|Session-2026-04-13]]: | [[MSFT]] (Microsoft) | Liquid Lava EP 9M | Very high quality name, continuation |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-04-21.md|Session-2026-04-21]]: | [[MSFT]] (Microsoft) | Continuation, first leg out of consolidation | "Not something I'd get excited about." FHP. Old people's stock |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-04-21.md|Session-2026-04-21]]: | [[MSFT]] (Microsoft) | First leg out of consolidation | "Old people's stock." Not interested. FHP |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-04-22.md|Session-2026-04-22]]: | [[MSFT]] | Extended, continuation | "Old people's stock." Not interested |
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-05-01.md|Session-2026-05-01]]: | [[GOOG]] / [[MSFT]] | Good earnings for large caps, but they typically digest and make 8–15% moves. Not game-changing for this style |
 
@@ -85,14 +93,6 @@ promote: false
 > [[../../06-Daily/stockbee/Sessions/2024/Session-2024-07-24.md|Session-2024-07-24]]: Nothing actionable. Large caps getting hammered. [[UNH]] and [[NVDA]] best-holding large caps. Everything else — AAPL, META, MSFT — looking like "wounded soldiers."
 
 > [[../../06-Daily/stockbee/Sessions/2024/Session-2024-08-22.md|Session-2024-08-22]]: | [[MSFT]] | Short (range expansion) | ⏳ Open | 1.78% risk, earnings not great, weak bounce |
-
-> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-08-26.md|Session-2024-08-26]]: | [[MSFT]] | Short (range expansion) | ✅ Working | In profit, stop moved to breakeven-plus |
-
-> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-08-27.md|Session-2024-08-27]]: | [[MSFT]] | Short (range expansion) | ✅ Working | Stop moved up, in profit |
-
-> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-01-22.md|Session-2025-01-22]]: | [[MSFT]] | Intraday SIPs | Catalyst | Gap up intraday opportunity only |
-
-> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-02-07.md|Session-2025-02-07]]: | [[MSFT]] | Bearish | Short (delayed reaction) | Short from $410.77, carrying overnight |
 
 ## Related Concepts
 

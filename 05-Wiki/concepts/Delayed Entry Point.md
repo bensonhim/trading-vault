@@ -1,16 +1,16 @@
 ---
 title: "Delayed Entry Point"
-date: 2026-07-22
+date: 2026-07-23
 tags: [concepts, wiki, auto-compiled]
-mention_count: 33
-sources_count: 19
+mention_count: 40
+sources_count: 24
 compilation_count: 1
 promote: false
 ---
 
 # Delayed Entry Point
 
-*Concepts — compiled from 33 mentions across 19 sources.*
+*Concepts — compiled from 40 mentions across 24 sources.*
 
 ## Mentions
 
@@ -19,6 +19,10 @@ promote: false
 > [[../../04-Transcripts/stockbee/2025-01-13_10-am.md|2025-01-13_10-am]]: All these are not even setting up for, like, delayed entry.
 
 > [[../../04-Transcripts/stockbee/2025-02-07_10-am.md|2025-02-07_10-am]]: But for something to really get excited as a delayed entry to really you have to have a setup.
+
+> [[../../04-Transcripts/stockbee/2025-06-04_2-pm.md|2025-06-04_2-pm]]: C r d o, delayed entry setup.
+
+> [[../../04-Transcripts/stockbee/2025-06-23_2-pm.md|2025-06-23_2-pm]]: And a lot of breakouts like this, they get sold off, and then later, they are getting delayed entry.
 
 > [[../../04-Transcripts/stockbee/2025-08-21_2-pm.md|2025-08-21_2-pm]]: And, basically, which makes obviously, UnitedHealth, also, like, in a mix sense as a delayed entry here.
 
@@ -35,6 +39,10 @@ promote: false
 > [[../../04-Transcripts/stockbee/2025-08-25_9_15-am.md|2025-08-25_9_15-am]]: You could have delayed entry here also, try to nestle.
 
 > [[../../04-Transcripts/stockbee/2026-02-03_3-pm.md|2026-02-03_3-pm]]: Find stocks based on a process, NTRT, MTRT, and, like, an f isolate the one which are really game changing catalyst versus the one which are just one day kind of a catalyst and then, look for a delayed entry.
+
+> [[../../04-Transcripts/stockbee/2026-03-23_9_15-am.md|2026-03-23_9_15-am]]: I was watching PL for delayed entry.
+
+> [[../../04-Transcripts/stockbee/2026-03-23_9_15-am.md|2026-03-23_9_15-am]]: There is no delayed entry there.
 
 > [[../../04-Transcripts/stockbee/2026-05-07_9_15_AM.md|2026-05-07_9_15_AM]]: I don't know idea on biotechnology what is the catalyst on that, but, yes, that's a delayed entry if you want to get in there.
 
@@ -78,6 +86,12 @@ promote: false
 
 > [[../../04-Transcripts/stockbee/videos/2026-04-26_mind-clarity-dep.md|2026-04-26_mind-clarity-dep]]: And there is no delayed entry possible.
 
+> [[../../06-Daily/stockbee/Sessions/Session-2024-01-11.md|Session-2024-01-11]]: 9. **BA short = template trade** — Genuine catalyst (737 Max), 9M volume (47M), delayed entry, $1 stop, now free money
+
+> [[../../06-Daily/stockbee/Sessions/Session-2024-01-11.md|Session-2024-01-11]]: 10. **Mobileye short = same template** — Missed earnings, 43M volume, highest since IPO, delayed entry, now breakeven
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-15.md|Session-2025-01-15]]: | ISRG | Consolidation + catalyst | Wait for delayed entry, wide spread danger |
+
 > [[../../06-Daily/stockbee/Sessions/2024/Session-2024-01-29.md|Session-2024-01-29]]: - Many stocks with earnings catalysts pulling back → setting up for delayed entry
 
 ## Related Concepts
@@ -98,14 +112,15 @@ promote: false
 - [[../04-Transcripts/stockbee/19. Deep Dive Guide/Pradeep Bonde - Deep Dive Guide-Part 5 - X-Ray Reading_deepgram.md|Pradeep Bonde - Deep Dive Guide-Part 5 - X-Ray Reading_deepgram]]
 - [[../04-Transcripts/stockbee/2025-01-13_10-am.md|2025-01-13_10-am]]
 - [[../04-Transcripts/stockbee/2025-02-07_10-am.md|2025-02-07_10-am]]
+- [[../04-Transcripts/stockbee/2025-06-04_2-pm.md|2025-06-04_2-pm]]
+- [[../04-Transcripts/stockbee/2025-06-23_2-pm.md|2025-06-23_2-pm]]
 - [[../04-Transcripts/stockbee/2025-08-21_2-pm.md|2025-08-21_2-pm]]
 - [[../04-Transcripts/stockbee/2025-08-25_9_15-am.md|2025-08-25_9_15-am]]
 - [[../04-Transcripts/stockbee/2026-02-03_3-pm.md|2026-02-03_3-pm]]
+- [[../04-Transcripts/stockbee/2026-03-23_9_15-am.md|2026-03-23_9_15-am]]
 - [[../04-Transcripts/stockbee/2026-05-07_9_15_AM.md|2026-05-07_9_15_AM]]
 - [[../04-Transcripts/stockbee/Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs.md|Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs]]
 - [[../04-Transcripts/stockbee/videos/2026-02-04_x-ray-reading.md|2026-02-04_x-ray-reading]]
 - [[../04-Transcripts/stockbee/videos/2026-02-10_daily-process.md|2026-02-10_daily-process]]
 - [[../04-Transcripts/stockbee/videos/2026-02-24_how-to-create-delayed-eo-watchlist.md|2026-02-24_how-to-create-delayed-eo-watchlist]]
 - [[../04-Transcripts/stockbee/videos/2026-04-17_how-to-delayed-reaction-ep.md|2026-04-17_how-to-delayed-reaction-ep]]
-- [[../04-Transcripts/stockbee/videos/2026-04-26_mind-clarity-dep.md|2026-04-26_mind-clarity-dep]]
-- [[../06-Daily/stockbee/Sessions/2024/Session-2024-01-29.md|Session-2024-01-29]]

@@ -1,16 +1,16 @@
 ---
 title: "AMZN"
-date: 2026-07-22
+date: 2026-07-23
 tags: [tickers, wiki, auto-compiled]
-mention_count: 50
-sources_count: 33
+mention_count: 56
+sources_count: 39
 compilation_count: 1
 promote: false
 ---
 
 # AMZN
 
-*Tickers — compiled from 50 mentions across 33 sources.*
+*Tickers — compiled from 56 mentions across 39 sources.*
 
 ## Mentions
 
@@ -22,11 +22,23 @@ promote: false
 
 > [[../../04-Transcripts/stockbee/09. Momentum Burst Bearish Guide/Pradeep Bonde - Momentum Burst Bearish Guide-Part 3_deepgram.md|Pradeep Bonde - Momentum Burst Bearish Guide-Part 3_deepgram]]: - **Core principle**: When SPY drops 1.5%+ in a single day, individual stocks break down in near-perfect correlation — AMD, NVIDIA, AMZN, GOOGL all mirror SPY's pattern
 
+> [[../../06-Daily/stockbee/Sessions/Session-2025-04-15.md|Session-2025-04-15]]: - NVDA, AAPL, META, AMZN, ADBE — "their party is over for the time being"
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-06-05.md|Session-2025-06-05]]: - **Amazon (AMZN)**: Good daily pattern, humanoid robot/delivery news as catalyst
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-06-26.md|Session-2025-06-26]]: - Larger stocks breaking out (AMZN, UNH, SCHW) for longer-term plays
+
 > [[../../06-Daily/stockbee/Sessions/Session-2026-02-09.md|Session-2026-02-09]]: | AMZN | — | No setup | Nothing by our standards |
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-02-23.md|Session-2026-02-23]]: - **W**, **CITI**, **AMZN**, **LVS**, **LYFT**, **VFC**, **DOCS**
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-02-23.md|Session-2026-02-23]]: | QQQ/TQQ | Short | Market short | If MSFT/AMZN go, TQQ keeps going |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-04-14.md|Session-2026-04-14]]: | [[AMZN]] | Struggled all year | "Suddenly comes in with maximum volume." But extended, no setup |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-04-16.md|Session-2026-04-16]]: | [[AMZN]] (Amazon) | Anticipation (2 tight days) | Very tight action. "That's a good one" |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-04-17.md|Session-2026-04-17]]: | [[AMZN]] (Amazon) | Anticipation, but not tight enough | "Not a very tight pant." Almost broke out. Would remove |
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-05-01.md|Session-2026-05-01]]: | [[AMZN]] | "Don't get involved." Extended. Historically, every good Amazon earnings = Bezos sells and it crashes |
 
@@ -81,18 +93,6 @@ promote: false
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-09.md|Session-2023-11-09]]: | [[AMZN]] | Antipation (held) | ✅ Sold for profit | 3rd day, profit protection |
 
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-22.md|Session-2023-11-22]]: [[AMD]], [[AMZN]], [[SRC]], [[IWM]], [[CCL]] — all stopped out. Only [[STNA]] remaining.
-
-> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-22.md|Session-2023-11-22]]: | [[AMZN]] | — | ⚠️ Stopped out | Turned negative |
-
-> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-12-05.md|Session-2023-12-05]]: | [[AMZN]] | Liquid Lava | ⚠️ Faded | Took stop out |
-
-> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-12-18.md|Session-2023-12-18]]: | [[AMZN]] | Extended | ❌ 4th day | Fourth day of breakout, too late |
-
-> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-12-20.md|Session-2023-12-20]]: 9M EP shows mostly extended stocks — NVDA, AMZN, GOOGL, AAPL, TSLA — all extended. Nothing actionable in the scans.
-
-> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-12-20.md|Session-2023-12-20]]: | [[AMZN]] | Breakout | ❌ Fading | Tried to break out, got hammered back |
-
-> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-02-07.md|Session-2024-02-07]]: - [[AMZN]]: gap up, now consolidating (Bezos/ex-wife selling will cap it)
 
 ## Related Concepts
 

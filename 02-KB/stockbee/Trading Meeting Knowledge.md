@@ -1,13 +1,13 @@
 ---
 title: "Trading Meeting Knowledge"
-date: 2026-07-22
+date: 2026-07-23
 tags: [knowledge, pradeep-bonde, meetings, methodology, market-monitor, evolving, trading]
 ---
 
 # Trading Meeting Knowledge
 
-> Living document compiled from 657 StockBee daily meeting transcripts (May 1 – Jun 10, 2026).
-> Last updated: **Wednesday, July 22, 2026**
+> Living document compiled from 908 StockBee daily meeting transcripts (May 1 – Jun 10, 2026).
+> Last updated: **Thursday, July 23, 2026**
 > This note distills **how Pradeep monitors the market** and **applies his trading methodology** in real-time.
 
 ---
@@ -136,26 +136,26 @@ From daily meeting commentary:
 
 Tickers repeatedly discussed across sessions (setup candidates, examples, or warnings):
 
-- [[EP]] — mentioned 2519 times
-- [[AI]] — mentioned 982 times
-- [[AMD]] — mentioned 624 times
-- [[DEP]] — mentioned 552 times
-- [[AM]] — mentioned 406 times
-- [[SMCI]] — mentioned 393 times
-- [[LTV]] — mentioned 379 times
-- [[IPO]] — mentioned 378 times
-- [[IWM]] — mentioned 302 times
-- [[TQQ]] — mentioned 293 times
-- [[OPG]] — mentioned 284 times
-- [[NTRT]] — mentioned 271 times
-- [[TNA]] — mentioned 268 times
-- [[FOMO]] — mentioned 267 times
-- [[PM]] — mentioned 265 times
-- [[US]] — mentioned 246 times
-- [[SOS]] — mentioned 227 times
-- [[COVID]] — mentioned 188 times
-- [[MTRT]] — mentioned 175 times
-- [[DNA]] — mentioned 169 times
+- [[EP]] — mentioned 3431 times
+- [[AI]] — mentioned 1411 times
+- [[AMD]] — mentioned 809 times
+- [[DEP]] — mentioned 628 times
+- [[US]] — mentioned 598 times
+- [[AM]] — mentioned 552 times
+- [[TQQ]] — mentioned 518 times
+- [[IPO]] — mentioned 517 times
+- [[SMCI]] — mentioned 483 times
+- [[LTV]] — mentioned 463 times
+- [[IWM]] — mentioned 448 times
+- [[OPG]] — mentioned 404 times
+- [[PM]] — mentioned 392 times
+- [[TNA]] — mentioned 384 times
+- [[FOMO]] — mentioned 382 times
+- [[COVID]] — mentioned 336 times
+- [[NTRT]] — mentioned 323 times
+- [[SOS]] — mentioned 315 times
+- [[CEO]] — mentioned 236 times
+- [[ETF]] — mentioned 233 times
 
 ---
 
@@ -252,6 +252,45 @@ All daily session curated notes:
 - [[Session-2026-05-05.md|Session-2026-05-05]]
 - [[Session-2026-05-04.md|Session-2026-05-04]]
 - [[Session-2026-05-01.md|Session-2026-05-01]]
+- [[Session-2026-04-28.md|Session-2026-04-28]]
+- [[Session-2026-04-27.md|Session-2026-04-27]]
+- [[Session-2026-04-24.md|Session-2026-04-24]]
+- [[Session-2026-04-23.md|Session-2026-04-23]]
+- [[Session-2026-04-22.md|Session-2026-04-22]]
+- [[Session-2026-04-21.md|Session-2026-04-21]]
+- [[Session-2026-04-20.md|Session-2026-04-20]]
+- [[Session-2026-04-17.md|Session-2026-04-17]]
+- [[Session-2026-04-16.md|Session-2026-04-16]]
+- [[Session-2026-04-15.md|Session-2026-04-15]]
+- [[Session-2026-04-14.md|Session-2026-04-14]]
+- [[Session-2026-04-13.md|Session-2026-04-13]]
+- [[Session-2026-04-10.md|Session-2026-04-10]]
+- [[Session-2026-04-09.md|Session-2026-04-09]]
+- [[Session-2026-04-08.md|Session-2026-04-08]]
+- [[Session-2026-04-07.md|Session-2026-04-07]]
+- [[Session-2026-04-06.md|Session-2026-04-06]]
+- [[Session-2026-04-02.md|Session-2026-04-02]]
+- [[Session-2026-04-01.md|Session-2026-04-01]]
+- [[Session-2026-03-31.md|Session-2026-03-31]]
+- [[Session-2026-03-30.md|Session-2026-03-30]]
+- [[Session-2026-03-26.md|Session-2026-03-26]]
+- [[Session-2026-03-25.md|Session-2026-03-25]]
+- [[Session-2026-03-23.md|Session-2026-03-23]]
+- [[Session-2026-03-20.md|Session-2026-03-20]]
+- [[Session-2026-03-19.md|Session-2026-03-19]]
+- [[Session-2026-03-18.md|Session-2026-03-18]]
+- [[Session-2026-03-17.md|Session-2026-03-17]]
+- [[Session-2026-03-16.md|Session-2026-03-16]]
+- [[Session-2026-03-13.md|Session-2026-03-13]]
+- [[Session-2026-03-12.md|Session-2026-03-12]]
+- [[Session-2026-03-11.md|Session-2026-03-11]]
+- [[Session-2026-03-10.md|Session-2026-03-10]]
+- [[Session-2026-03-09.md|Session-2026-03-09]]
+- [[Session-2026-03-06.md|Session-2026-03-06]]
+- [[Session-2026-03-05.md|Session-2026-03-05]]
+- [[Session-2026-03-04.md|Session-2026-03-04]]
+- [[Session-2026-03-03.md|Session-2026-03-03]]
+- [[Session-2026-03-02.md|Session-2026-03-02]]
 - [[Session-2026-02-27.md|Session-2026-02-27]]
 - [[Session-2026-02-26.md|Session-2026-02-26]]
 - [[Session-2026-02-25.md|Session-2026-02-25]]
@@ -287,6 +326,168 @@ All daily session curated notes:
 - [[Session-2026-01-06.md|Session-2026-01-06]]
 - [[Session-2026-01-05.md|Session-2026-01-05]]
 - [[Session-2026-01-02.md|Session-2026-01-02]]
+- [[Session-2025-06-27.md|Session-2025-06-27]]
+- [[Session-2025-06-26.md|Session-2025-06-26]]
+- [[Session-2025-06-25.md|Session-2025-06-25]]
+- [[Session-2025-06-24.md|Session-2025-06-24]]
+- [[Session-2025-06-23.md|Session-2025-06-23]]
+- [[Session-2025-06-20.md|Session-2025-06-20]]
+- [[Session-2025-06-16.md|Session-2025-06-16]]
+- [[Session-2025-06-13.md|Session-2025-06-13]]
+- [[Session-2025-06-12.md|Session-2025-06-12]]
+- [[Session-2025-06-11.md|Session-2025-06-11]]
+- [[Session-2025-06-10.md|Session-2025-06-10]]
+- [[Session-2025-06-09.md|Session-2025-06-09]]
+- [[Session-2025-06-06.md|Session-2025-06-06]]
+- [[Session-2025-06-05.md|Session-2025-06-05]]
+- [[Session-2025-05-30.md|Session-2025-05-30]]
+- [[Session-2025-05-29.md|Session-2025-05-29]]
+- [[Session-2025-05-28.md|Session-2025-05-28]]
+- [[Session-2025-05-27.md|Session-2025-05-27]]
+- [[Session-2025-05-23.md|Session-2025-05-23]]
+- [[Session-2025-05-22.md|Session-2025-05-22]]
+- [[Session-2025-05-21.md|Session-2025-05-21]]
+- [[Session-2025-05-20.md|Session-2025-05-20]]
+- [[Session-2025-05-19.md|Session-2025-05-19]]
+- [[Session-2025-05-16.md|Session-2025-05-16]]
+- [[Session-2025-05-15.md|Session-2025-05-15]]
+- [[Session-2025-05-14.md|Session-2025-05-14]]
+- [[Session-2025-05-13.md|Session-2025-05-13]]
+- [[Session-2025-05-12.md|Session-2025-05-12]]
+- [[Session-2025-05-09.md|Session-2025-05-09]]
+- [[Session-2025-05-08.md|Session-2025-05-08]]
+- [[Session-2025-05-07.md|Session-2025-05-07]]
+- [[Session-2025-05-06.md|Session-2025-05-06]]
+- [[Session-2025-05-05.md|Session-2025-05-05]]
+- [[Session-2025-05-02.md|Session-2025-05-02]]
+- [[Session-2025-05-01.md|Session-2025-05-01]]
+- [[Session-2025-04-29.md|Session-2025-04-29]]
+- [[Session-2025-04-28.md|Session-2025-04-28]]
+- [[Session-2025-04-22.md|Session-2025-04-22]]
+- [[Session-2025-04-21.md|Session-2025-04-21]]
+- [[Session-2025-04-17.md|Session-2025-04-17]]
+- [[Session-2025-04-16.md|Session-2025-04-16]]
+- [[Session-2025-04-15.md|Session-2025-04-15]]
+- [[Session-2025-04-14.md|Session-2025-04-14]]
+- [[Session-2025-04-11.md|Session-2025-04-11]]
+- [[Session-2025-04-10.md|Session-2025-04-10]]
+- [[Session-2025-04-09.md|Session-2025-04-09]]
+- [[Session-2025-04-08.md|Session-2025-04-08]]
+- [[Session-2025-04-07.md|Session-2025-04-07]]
+- [[Session-2025-04-04.md|Session-2025-04-04]]
+- [[Session-2025-04-03.md|Session-2025-04-03]]
+- [[Session-2025-04-02.md|Session-2025-04-02]]
+- [[Session-2025-04-01.md|Session-2025-04-01]]
+- [[Session-2025-03-31.md|Session-2025-03-31]]
+- [[Session-2025-03-28.md|Session-2025-03-28]]
+- [[Session-2025-03-27.md|Session-2025-03-27]]
+- [[Session-2025-03-26.md|Session-2025-03-26]]
+- [[Session-2025-03-25.md|Session-2025-03-25]]
+- [[Session-2025-03-24.md|Session-2025-03-24]]
+- [[Session-2025-03-18.md|Session-2025-03-18]]
+- [[Session-2025-03-17.md|Session-2025-03-17]]
+- [[Session-2025-03-14.md|Session-2025-03-14]]
+- [[Session-2025-03-13.md|Session-2025-03-13]]
+- [[Session-2025-03-12.md|Session-2025-03-12]]
+- [[Session-2025-03-11.md|Session-2025-03-11]]
+- [[Session-2025-03-10.md|Session-2025-03-10]]
+- [[Session-2025-03-07.md|Session-2025-03-07]]
+- [[Session-2025-03-06.md|Session-2025-03-06]]
+- [[Session-2025-03-05.md|Session-2025-03-05]]
+- [[Session-2025-03-04.md|Session-2025-03-04]]
+- [[Session-2025-03-03.md|Session-2025-03-03]]
+- [[Session-2025-01-29.md|Session-2025-01-29]]
+- [[Session-2025-01-28.md|Session-2025-01-28]]
+- [[Session-2025-01-27.md|Session-2025-01-27]]
+- [[Session-2025-01-24.md|Session-2025-01-24]]
+- [[Session-2025-01-23.md|Session-2025-01-23]]
+- [[Session-2025-01-22.md|Session-2025-01-22]]
+- [[Session-2025-01-21.md|Session-2025-01-21]]
+- [[Session-2025-01-17.md|Session-2025-01-17]]
+- [[Session-2025-01-16.md|Session-2025-01-16]]
+- [[Session-2025-01-15.md|Session-2025-01-15]]
+- [[Session-2025-01-14.md|Session-2025-01-14]]
+- [[Session-2025-01-13.md|Session-2025-01-13]]
+- [[Session-2025-01-10.md|Session-2025-01-10]]
+- [[Session-2025-01-08.md|Session-2025-01-08]]
+- [[Session-2025-01-07.md|Session-2025-01-07]]
+- [[Session-2025-01-06.md|Session-2025-01-06]]
+- [[Session-2025-01-03.md|Session-2025-01-03]]
+- [[Session-2025-01-02.md|Session-2025-01-02]]
+- [[Session-2024-08-29.md|Session-2024-08-29]]
+- [[Session-2024-08-28.md|Session-2024-08-28]]
+- [[Session-2024-08-27.md|Session-2024-08-27]]
+- [[Session-2024-08-26.md|Session-2024-08-26]]
+- [[Session-2024-08-22.md|Session-2024-08-22]]
+- [[Session-2024-08-21.md|Session-2024-08-21]]
+- [[Session-2024-08-20.md|Session-2024-08-20]]
+- [[Session-2024-08-19.md|Session-2024-08-19]]
+- [[Session-2024-08-14.md|Session-2024-08-14]]
+- [[Session-2024-08-13.md|Session-2024-08-13]]
+- [[Session-2024-08-12.md|Session-2024-08-12]]
+- [[Session-2024-08-09.md|Session-2024-08-09]]
+- [[Session-2024-08-08.md|Session-2024-08-08]]
+- [[Session-2024-08-07.md|Session-2024-08-07]]
+- [[Session-2024-08-06.md|Session-2024-08-06]]
+- [[Session-2024-08-05.md|Session-2024-08-05]]
+- [[Session-2024-08-02.md|Session-2024-08-02]]
+- [[Session-2024-08-01.md|Session-2024-08-01]]
+- [[Session-2024-07-31.md|Session-2024-07-31]]
+- [[Session-2024-07-30.md|Session-2024-07-30]]
+- [[Session-2024-07-29.md|Session-2024-07-29]]
+- [[Session-2024-07-26.md|Session-2024-07-26]]
+- [[Session-2024-07-25.md|Session-2024-07-25]]
+- [[Session-2024-07-24.md|Session-2024-07-24]]
+- [[Session-2024-07-23.md|Session-2024-07-23]]
+- [[Session-2024-07-22.md|Session-2024-07-22]]
+- [[Session-2024-07-19.md|Session-2024-07-19]]
+- [[Session-2024-07-18.md|Session-2024-07-18]]
+- [[Session-2024-07-17.md|Session-2024-07-17]]
+- [[Session-2024-07-16.md|Session-2024-07-16]]
+- [[Session-2024-07-15.md|Session-2024-07-15]]
+- [[Session-2024-07-12.md|Session-2024-07-12]]
+- [[Session-2024-07-11.md|Session-2024-07-11]]
+- [[Session-2024-07-10.md|Session-2024-07-10]]
+- [[Session-2024-07-09.md|Session-2024-07-09]]
+- [[Session-2024-02-29.md|Session-2024-02-29]]
+- [[Session-2024-02-28.md|Session-2024-02-28]]
+- [[Session-2024-02-27.md|Session-2024-02-27]]
+- [[Session-2024-02-26.md|Session-2024-02-26]]
+- [[Session-2024-02-22.md|Session-2024-02-22]]
+- [[Session-2024-02-21.md|Session-2024-02-21]]
+- [[Session-2024-02-20.md|Session-2024-02-20]]
+- [[Session-2024-02-16.md|Session-2024-02-16]]
+- [[Session-2024-02-15.md|Session-2024-02-15]]
+- [[Session-2024-02-14.md|Session-2024-02-14]]
+- [[Session-2024-02-13.md|Session-2024-02-13]]
+- [[Session-2024-02-12.md|Session-2024-02-12]]
+- [[Session-2024-02-08.md|Session-2024-02-08]]
+- [[Session-2024-02-07.md|Session-2024-02-07]]
+- [[Session-2024-02-06.md|Session-2024-02-06]]
+- [[Session-2024-02-05.md|Session-2024-02-05]]
+- [[Session-2024-02-02.md|Session-2024-02-02]]
+- [[Session-2024-02-01.md|Session-2024-02-01]]
+- [[Session-2024-01-31.md|Session-2024-01-31]]
+- [[Session-2024-01-30.md|Session-2024-01-30]]
+- [[Session-2024-01-29.md|Session-2024-01-29]]
+- [[Session-2024-01-26.md|Session-2024-01-26]]
+- [[Session-2024-01-25.md|Session-2024-01-25]]
+- [[Session-2024-01-24.md|Session-2024-01-24]]
+- [[Session-2024-01-23.md|Session-2024-01-23]]
+- [[Session-2024-01-22.md|Session-2024-01-22]]
+- [[Session-2024-01-19.md|Session-2024-01-19]]
+- [[Session-2024-01-18.md|Session-2024-01-18]]
+- [[Session-2024-01-17.md|Session-2024-01-17]]
+- [[Session-2024-01-16.md|Session-2024-01-16]]
+- [[Session-2024-01-12.md|Session-2024-01-12]]
+- [[Session-2024-01-11.md|Session-2024-01-11]]
+- [[Session-2024-01-10.md|Session-2024-01-10]]
+- [[Session-2024-01-09.md|Session-2024-01-09]]
+- [[Session-2024-01-08.md|Session-2024-01-08]]
+- [[Session-2024-01-05.md|Session-2024-01-05]]
+- [[Session-2024-01-04.md|Session-2024-01-04]]
+- [[Session-2024-01-03.md|Session-2024-01-03]]
+- [[Session-2024-01-02.md|Session-2024-01-02]]
 
 ---
 
@@ -294,7 +495,7 @@ All daily session curated notes:
 
 | Date | Change |
 |------|--------|
-| 2026-07-22 | Initial creation from 657 meeting transcripts (May 1 – Jun 10, 2026) |
+| 2026-07-23 | Initial creation from 908 meeting transcripts (May 1 – Jun 10, 2026) |
 
 ---
 

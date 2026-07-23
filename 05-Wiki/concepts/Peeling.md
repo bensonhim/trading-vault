@@ -1,16 +1,16 @@
 ---
 title: "Peeling"
-date: 2026-07-22
+date: 2026-07-23
 tags: [concepts, wiki, auto-compiled]
-mention_count: 48
-sources_count: 34
+mention_count: 55
+sources_count: 39
 compilation_count: 1
 promote: false
 ---
 
 # Peeling
 
-*Concepts — compiled from 48 mentions across 34 sources.*
+*Concepts — compiled from 55 mentions across 39 sources.*
 
 ## Mentions
 
@@ -64,6 +64,18 @@ promote: false
 
 > [[../../04-Transcripts/stockbee/2025-02-18_9-am.md|2025-02-18_9-am]]: Which is peeling, pill.
 
+> [[../../04-Transcripts/stockbee/2025-03-13_2-pm.md|2025-03-13_2-pm]]: [127:23] Would I consider peeling?
+
+> [[../../04-Transcripts/stockbee/2025-03-13_2-pm.md|2025-03-13_2-pm]]: [127:25] I don't consider peeling in for one k and all, basically.
+
+> [[../../04-Transcripts/stockbee/2025-05-01_2-pm.md|2025-05-01_2-pm]]: So once it start reaching that kind of a thing is when I would look at peeling it.
+
+> [[../../04-Transcripts/stockbee/2025-06-09_9-am.md|2025-06-09_9-am]]: I wanna ask a question about, peeling.
+
+> [[../../04-Transcripts/stockbee/2025-06-09_9-am.md|2025-06-09_9-am]]: First thing in the morning at 09:30, you're asking question about peeling now, not only you, all of you people asking question.
+
+> [[../../04-Transcripts/stockbee/2025-06-11_2-pm.md|2025-06-11_2-pm]]: That you are just not like any understanding, look, you are not peeling, you are not like anything, right?
+
 > [[../../04-Transcripts/stockbee/2025-08-25_9_15-am.md|2025-08-25_9_15-am]]: Do things like, you know, peeling this thing.
 
 > [[../../04-Transcripts/stockbee/2025-08-28_2-pm.md|2025-08-28_2-pm]]: They are just peeling positions.
@@ -81,18 +93,6 @@ promote: false
 > [[../../04-Transcripts/stockbee/16. DEP Guide/Pradeep Bonde - DEP Guide-Part 2 - How to find Delayed Reactions EP_deepgram.md|Pradeep Bonde - DEP Guide-Part 2 - How to find Delayed Reactions EP_deepgram]]: I'm not looking for peeling these kind of stocks.
 
 > [[../../04-Transcripts/stockbee/18. Mind Clarity Guide/Pradeep Bonde - Mind Clarity Guide-Part 1 - Mind Clarity for traders_deepgram.md|Pradeep Bonde - Mind Clarity Guide-Part 1 - Mind Clarity for traders_deepgram]]: You also need to do peeling.
-
-> [[../../04-Transcripts/stockbee/18. Mind Clarity Guide/Pradeep Bonde - Mind Clarity Guide-Part 1 - Mind Clarity for traders_deepgram.md|Pradeep Bonde - Mind Clarity Guide-Part 1 - Mind Clarity for traders_deepgram]]: You need to do peeling.
-
-> [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-14_82cc7373-fb7d-4ea0-aab2-460a98910e1f_deepgram.md|meeting_2026-05-14_82cc7373-fb7d-4ea0-aab2-460a98910e1f_deepgram]]: Chemical peeling.
-
-> [[../../04-Transcripts/stockbee/videos/2026-01-05_selecting-primary-setup.md|2026-01-05_selecting-primary-setup]]: Peeling is my preferred exit strategy.
-
-> [[../../04-Transcripts/stockbee/videos/2026-02-28_setup-execution.md|2026-02-28_setup-execution]]: If it starts moving even faster and you want to still, if you don't want to do peeling and you want to like, and I make sure that like, you still get to participate, then you move your stop to 1% trail.
-
-> [[../../04-Transcripts/stockbee/videos/2026-03-07_baseline-market-understanding.md|2026-03-07_baseline-market-understanding]]: You'll understand peeling and why it is used.
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-11.md|Session-2026-06-11]]: - **Peeling strategy**: Oversize to 75% of account, peel at 10% profit, let remainder ride
 
 ## Related Concepts
 
@@ -122,5 +122,5 @@ promote: false
 - [[../04-Transcripts/stockbee/2025-02-07_9-am.md|2025-02-07_9-am]]
 - [[../04-Transcripts/stockbee/2025-02-10_10-am.md|2025-02-10_10-am]]
 - [[../04-Transcripts/stockbee/2025-02-18_9-am.md|2025-02-18_9-am]]
-- [[../04-Transcripts/stockbee/2025-08-25_9_15-am.md|2025-08-25_9_15-am]]
-- [[../04-Transcripts/stockbee/2025-08-28_2-pm.md|2025-08-28_2-pm]]
+- [[../04-Transcripts/stockbee/2025-03-13_2-pm.md|2025-03-13_2-pm]]
+- [[../04-Transcripts/stockbee/2025-05-01_2-pm.md|2025-05-01_2-pm]]

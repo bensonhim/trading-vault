@@ -1,20 +1,48 @@
 ---
 title: "MRVL"
-date: 2026-07-22
+date: 2026-07-23
 tags: [tickers, wiki, auto-compiled]
-mention_count: 35
-sources_count: 19
+mention_count: 49
+sources_count: 26
 compilation_count: 1
 promote: false
 ---
 
 # MRVL
 
-*Tickers — compiled from 35 mentions across 19 sources.*
+*Tickers — compiled from 49 mentions across 26 sources.*
 
 ## Mentions
 
+> [[../../04-Transcripts/stockbee/2026-03-16_9_15-am.md|2026-03-16_9_15-am]]: This marble, MRVL, as a delayed reaction, may work.
+
+> [[../../04-Transcripts/stockbee/2026-03-16_9_15-am.md|2026-03-16_9_15-am]]: That I think that's not a bad idea, MRVL, because it has a real catalyst.
+
+> [[../../04-Transcripts/stockbee/2026-03-16_9_15-am.md|2026-03-16_9_15-am]]: I think in a MRVL, I would like any look at MRVL as a posi possibility, which is like and it has a catalyst recent catalyst also.
+
+> [[../../04-Transcripts/stockbee/2026-03-16_9_15-am.md|2026-03-16_9_15-am]]: I think in a MRVL, I would like any look at MRVL as a posi possibility, which is like and it has a catalyst recent catalyst also.
+
 > [[../../04-Transcripts/stockbee/videos/2026-03-08_momentum-watchlist.md|2026-03-08_momentum-watchlist]]: Like, say, let's say, like, an MRVL had a catalyst.
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-24.md|Session-2025-01-24]]: - Example: MDT, TSLA, MRVL, GILD held up well → haven't done much
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-03-16.md|Session-2026-03-16]]: | [[MRVL]] | Delayed reaction with catalyst | Decent setup but choppy past behavior. Low expectation: 10-15% max |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-03-16.md|Session-2026-03-16]]: 12. **MRVL delayed reaction** — decent setup with catalyst but choppy past. 10-15% max expectation, not a lollipop.
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-03-17.md|Session-2026-03-17]]: | [[MRVL]] | Delayed reaction | Has catalyst but choppy past behavior. Low expectation: 10-15% max. |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-04-20.md|Session-2026-04-20]]: | [[MRVL]] | Extended, multiple legs | "If you're buying Marvel, I have a bridge for sale." Worst idea |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-04-27.md|Session-2026-04-27]]: The semiconductor pullback is playing out exactly as expected. AMD, INTC, MRVL — all fading. Extended stocks correcting. NVIDIA is the exception — it was in a consolidation, not extended. "This sector is a done deal for the time being."
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-04-27.md|Session-2026-04-27]]: | [[MRVL]] | Extended, fading | All semis fading except NVIDIA |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-04-27.md|Session-2026-04-27]]: 2. **SOX pullback is a foregone conclusion** — Extended semiconductors are fading. AMD, INTC, MRVL all pulling back. NVIDIA is the exception (consolidation breakout, not extended).
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-04-28.md|Session-2026-04-28]]: > "AMD, MRVL, SOXL — all fading. This was 100% expected. Not even a surprise."
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-04-28.md|Session-2026-04-28]]: 4. **SOX pullback = foregone conclusion** — AMD, MRVL, SOXL all fading. Not a crash — an orderly consolidation. "It will take a couple of weeks for these stocks to set up again."
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-05-01.md|Session-2026-05-01]]: | [[MRVL]] | Fourth day of a move. "Where were you during the move?" No setup left |
 
@@ -66,24 +94,6 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/2024/Session-2024-02-29.md|Session-2024-02-29]]: | [[MRVL]] | Semi continuation | |
 
-> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-01-02.md|Session-2025-01-02]]: - **Marvel (MRVL)**: delayed reaction, clear earnings catalyst — Pradeep's favorite entry of the day
-
-> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-01-02.md|Session-2025-01-02]]: 2. **Marvel (MRVL)** — still bullish despite stopped out, delayed reaction remains valid
-
-> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-01-02.md|Session-2025-01-02]]: 9. **Top 5 watchlist: GOOGL, MRVL, CRDO, GDS, RH** — anticipation setups for next day
-
-> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-01-02.md|Session-2025-01-02]]: | [[MRVL]] | Delayed reaction | Earnings | Stopped out at breakeven, still bullish |
-
-> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-01-03.md|Session-2025-01-03]]: | [[MRVL]] | Delayed reaction | Earnings | Stopped out 2¢ below buy point, then recovered |
-
-> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-01-13.md|Session-2025-01-13]]: - Marvel (MRVL): reselling catalyst, watching
-
-> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-01-13.md|Session-2025-01-13]]: | [[MRVL]] | Must-watch / delayed reaction | Reselling catalyst | Watching for setup |
-
-> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-01-14.md|Session-2025-01-14]]: | [[MRVL]] | Continuation | Reselling catalyst | Watching, but market conditions wrong |
-
-> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-08-06.md|Session-2025-08-06]]: Long watchlist: [[SHOP]] (delayed reaction), [[MRVL]] (already in watchlist, delayed reaction), [[IR]] (delayed reaction), [[BL]] (software), [[ILMN]] (delayed reaction), [[HIMS]] (delayed reaction).
-
 ## Related Concepts
 
 *(To be enriched)*
@@ -94,6 +104,7 @@ promote: false
 
 ## Sources
 
+- [[../04-Transcripts/stockbee/2026-03-16_9_15-am.md|2026-03-16_9_15-am]]
 - [[../04-Transcripts/stockbee/videos/2026-03-08_momentum-watchlist.md|2026-03-08_momentum-watchlist]]
 - [[../06-Daily/stockbee/Sessions/2024/Session-2024-01-11.md|Session-2024-01-11]]
 - [[../06-Daily/stockbee/Sessions/2024/Session-2024-02-29.md|Session-2024-02-29]]
@@ -102,14 +113,14 @@ promote: false
 - [[../06-Daily/stockbee/Sessions/2025/Session-2025-01-13.md|Session-2025-01-13]]
 - [[../06-Daily/stockbee/Sessions/2025/Session-2025-01-14.md|Session-2025-01-14]]
 - [[../06-Daily/stockbee/Sessions/2025/Session-2025-08-06.md|Session-2025-08-06]]
+- [[../06-Daily/stockbee/Sessions/Session-2025-01-24.md|Session-2025-01-24]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-03-16.md|Session-2026-03-16]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-03-17.md|Session-2026-03-17]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-04-20.md|Session-2026-04-20]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-04-27.md|Session-2026-04-27]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-04-28.md|Session-2026-04-28]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-05-01.md|Session-2026-05-01]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-05-05.md|Session-2026-05-05]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-05-13.md|Session-2026-05-13]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-05-18.md|Session-2026-05-18]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-06-15.md|Session-2026-06-15]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-06-16.md|Session-2026-06-16]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-06-18.md|Session-2026-06-18]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-06-25.md|Session-2026-06-25]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-06-30.md|Session-2026-06-30]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-07-01.md|Session-2026-07-01]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]

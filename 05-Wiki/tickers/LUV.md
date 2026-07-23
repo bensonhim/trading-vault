@@ -1,6 +1,6 @@
 ---
 title: "LUV"
-date: 2026-07-22
+date: 2026-07-23
 tags: [tickers, wiki, auto-compiled]
 mention_count: 7
 sources_count: 6

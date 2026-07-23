@@ -1,18 +1,26 @@
 ---
 title: "HOOD"
-date: 2026-07-22
+date: 2026-07-23
 tags: [tickers, wiki, auto-compiled]
-mention_count: 52
-sources_count: 25
+mention_count: 57
+sources_count: 28
 compilation_count: 1
 promote: false
 ---
 
 # HOOD
 
-*Tickers — compiled from 52 mentions across 25 sources.*
+*Tickers — compiled from 57 mentions across 28 sources.*
 
 ## Mentions
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-23.md|Session-2025-01-23]]: - Financial sector: HOOD, SOFI, MFH — still working
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-05-27.md|Session-2025-05-27]]: - HOOD = continuation setup, earnings coming
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-05-27.md|Session-2025-05-27]]: - Tesla, Palantir, LIS, HOOD, Rocket Lab on watch list
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-05-27.md|Session-2025-05-27]]: 10. HOOD = continuation setup, earnings coming
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-01-02.md|Session-2026-01-02]]: | [[HOOD]] | Reversal bullish | ✅ Good reversal | Possible afternoon play |
 
@@ -23,6 +31,8 @@ promote: false
 > [[../../06-Daily/stockbee/Sessions/Session-2026-01-15.md|Session-2026-01-15]]: On HOOD (Robinhood) and other retail favorites:
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-01-15.md|Session-2026-01-15]]: 6. **Don't short retail favorites.** HOOD, TSLA, PLTR — too many dip buyers waiting.
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-03-31.md|Session-2026-03-31]]: | [[HOOD]] | Bottom fish | Might not be a bad idea. |
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-05-01.md|Session-2026-05-01]]: Contrast with [[HOOD]]: no clear catalyst for sustained downside — just a one-day pullback.
 
@@ -84,16 +94,6 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/2025/Session-2025-02-14.md|Session-2025-02-14]]: | [[HOOD]] | Watch | Delayed reaction (moved from SIPs) | Just sitting after earnings |
 
-> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-02-20.md|Session-2025-02-20]]: - HOOD — delayed reaction
-
-> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-02-20.md|Session-2025-02-20]]: | [[HOOD]] | Bullish | Delayed reaction | — |
-
-> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-02-21.md|Session-2025-02-21]]: - HOOD, HIMS, RDDT — delayed reactions (but RDDT/HOOD had negative reactions, may be shorts)
-
-> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-02-21.md|Session-2025-02-21]]: - HOOD, HIMS, RDDT — delayed reactions (but RDDT/HOOD had negative reactions, may be shorts)
-
-> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-02-21.md|Session-2025-02-21]]: - RDDT and HOOD had negative reactions — those are short setups, not delayed reaction longs
-
 ## Related Concepts
 
 *(To be enriched)*
@@ -121,6 +121,6 @@ promote: false
 - [[../06-Daily/stockbee/Sessions/2025/Session-2025-08-13.md|Session-2025-08-13]]
 - [[../06-Daily/stockbee/Sessions/2025/Session-2025-08-14.md|Session-2025-08-14]]
 - [[../06-Daily/stockbee/Sessions/2025/Session-2025-08-20.md|Session-2025-08-20]]
+- [[../06-Daily/stockbee/Sessions/Session-2025-01-23.md|Session-2025-01-23]]
+- [[../06-Daily/stockbee/Sessions/Session-2025-05-27.md|Session-2025-05-27]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-01-02.md|Session-2026-01-02]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-01-05.md|Session-2026-01-05]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-01-15.md|Session-2026-01-15]]

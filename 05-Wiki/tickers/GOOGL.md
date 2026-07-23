@@ -1,16 +1,16 @@
 ---
 title: "GOOGL"
-date: 2026-07-22
+date: 2026-07-23
 tags: [tickers, wiki, auto-compiled]
-mention_count: 36
-sources_count: 23
+mention_count: 41
+sources_count: 26
 compilation_count: 1
 promote: false
 ---
 
 # GOOGL
 
-*Tickers — compiled from 36 mentions across 23 sources.*
+*Tickers — compiled from 41 mentions across 26 sources.*
 
 ## Mentions
 
@@ -21,6 +21,16 @@ promote: false
 > [[../../04-Transcripts/stockbee/09. Momentum Burst Bearish Guide/Pradeep Bonde - Momentum Burst Bearish Guide-Part 3_deepgram.md|Pradeep Bonde - Momentum Burst Bearish Guide-Part 3_deepgram]]: - **Core principle**: When SPY drops 1.5%+ in a single day, individual stocks break down in near-perfect correlation — AMD, NVIDIA, AMZN, GOOGL all mirror SPY's pattern
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-02-18.md|Session-2026-02-18]]: XLP already on third leg — trade is over. Insurance sector also selling. No buyers in technology names ([[META]], [[MSFT]], [[GOOGL]] all stepped on by an elephant).
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-03-17.md|Session-2026-03-17]]: | [[Google (GOOGL)]] | Long / Breakout | Breaking out of consolidation. Will eventually go to $400. **Long taken, small size.** |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-03-17.md|Session-2026-03-17]]: | Google (GOOGL) | Long | Small | Breaking out of consolidation |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-03-18.md|Session-2026-03-18]]: | [[Google (GOOGL)]] | Long held | "Come on, get going." Waiting for breakout. Bought yesterday afternoon. |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-03-19.md|Session-2026-03-19]]: | [[Google (GOOGL)]] | Long — stopped out | ❌ Gave too much room. Stopped out at loss. |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-03-19.md|Session-2026-03-19]]: | [[Google (GOOGL)]] | Setting up | Still believes it goes to $350-400. Setting up for possible run. |
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-05-13.md|Session-2026-05-13]]: | [[GOOGL]] | Start of swing | Good setup but already 42% extended; liquid lava but risk/reward unfavorable in this market |
 
@@ -84,8 +94,6 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/2025/Session-2025-01-24.md|Session-2025-01-24]]: | [[GOOGL]] | VCP, 6-cup consolidation | Trying to break out, earnings ~10 days away, $5-10 upside potential |
 
-> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-01-27.md|Session-2025-01-27]]: | [[GOOGL]] | VCP trying | Down $7, trying to hold — earnings in ~10 days |
-
 ## Related Concepts
 
 *(To be enriched)*
@@ -111,8 +119,8 @@ promote: false
 - [[../06-Daily/stockbee/Sessions/2025/Session-2025-01-24.md|Session-2025-01-24]]
 - [[../06-Daily/stockbee/Sessions/2025/Session-2025-01-27.md|Session-2025-01-27]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-02-18.md|Session-2026-02-18]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-03-17.md|Session-2026-03-17]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-03-18.md|Session-2026-03-18]]
+- [[../06-Daily/stockbee/Sessions/Session-2026-03-19.md|Session-2026-03-19]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-05-13.md|Session-2026-05-13]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-05-27.md|Session-2026-05-27]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-05-28.md|Session-2026-05-28]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-06-12.md|Session-2026-06-12]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-06-15.md|Session-2026-06-15]]

@@ -1,16 +1,16 @@
 ---
 title: "CRM"
-date: 2026-07-22
+date: 2026-07-23
 tags: [tickers, wiki, auto-compiled]
-mention_count: 126
-sources_count: 74
+mention_count: 163
+sources_count: 99
 compilation_count: 1
 promote: false
 ---
 
 # CRM
 
-*Tickers — compiled from 126 mentions across 74 sources.*
+*Tickers — compiled from 163 mentions across 99 sources.*
 
 ## Mentions
 

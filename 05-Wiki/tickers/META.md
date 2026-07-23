@@ -1,16 +1,16 @@
 ---
 title: "META"
-date: 2026-07-22
+date: 2026-07-23
 tags: [tickers, wiki, auto-compiled]
-mention_count: 88
-sources_count: 50
+mention_count: 94
+sources_count: 54
 compilation_count: 1
 promote: false
 ---
 
 # META
 
-*Tickers — compiled from 88 mentions across 50 sources.*
+*Tickers — compiled from 94 mentions across 54 sources.*
 
 ## Mentions
 
@@ -19,6 +19,14 @@ promote: false
 > [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: | Fund Ownership | **LLY, JPM, V, MA, NVDA, AAPL, AMZN, META, MSFT, AVGO** | 5,000+ funds = must-own | When these break down, the market is unhealthy; when they rally, the turn is real |
 
 > [[../../03-Guides/stockbee/22. Reversals Guide.md|22. Reversals Guide]]: | **META** | Sept 2024 | Short-term oversold reversal | One of the "best setups" in that period |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-15.md|Session-2025-01-15]]: - Instead of buying META directly, FNGU gives 2x exposure
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-15.md|Session-2025-01-15]]: | FNGU | 2x Meta ETF | Volatile alternative to META |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-04-15.md|Session-2025-04-15]]: - NVDA, AAPL, META, AMZN, ADBE — "their party is over for the time being"
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-06-16.md|Session-2025-06-16]]: - **META**: Moving up on news (bought Scale AI, Google scaling back = Meta benefiting)
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-01-29.md|Session-2026-01-29]]: - **[[META]]** — gapping up on earnings, day trade only. Better as delayed reaction EP
 
@@ -41,6 +49,10 @@ promote: false
 > [[../../06-Daily/stockbee/Sessions/Session-2026-02-18.md|Session-2026-02-18]]: XLP already on third leg — trade is over. Insurance sector also selling. No buyers in technology names ([[META]], [[MSFT]], [[GOOGL]] all stepped on by an elephant).
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-02-18.md|Session-2026-02-18]]: | [[META]] | Bearish | No momentum, no buyers |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-04-22.md|Session-2026-04-22]]: | [[META]] | Low threshold breakout | "We have better setups than META today." |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-04-22.md|Session-2026-04-22]]: | [[META]] | Low threshold breakout | "We have better setups than META today." |
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-05-05.md|Session-2026-05-05]]: | [[META]] | Investment in AI = negative reaction, but not a broken business | ❌ No |
 
@@ -81,18 +93,6 @@ promote: false
 > [[../../06-Daily/stockbee/Sessions/2024/Session-2024-02-13.md|Session-2024-02-13]]: - Stocks that gapped down ([[UBER]], [[META]]): immediate dip buyers
 
 > [[../../06-Daily/stockbee/Sessions/2024/Session-2024-02-14.md|Session-2024-02-14]]: - [[COIN]], [[AMD]], [[UBER]], [[ABNB]], [[META]], [[TSLA]]: gapping up
-
-> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-02-16.md|Session-2024-02-16]]: - 9M EP: [[SMCI]] parabolic, [[META]], [[TSLA]], [[GOOG]], [[SNAP]] (delayed reaction short)
-
-> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-02-21.md|Session-2024-02-21]]: - Stocks that made big earnings moves (META, AMZN, DECK) — ran out of gas, now sideways
-
-> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-02-22.md|Session-2024-02-22]]: - [[META]]: day-traded for fun on lower timeframe, not a swing — $1.2T market cap, not buying on a gap without catalyst
-
-> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-07-10.md|Session-2024-07-10]]: | [[META]] | Delayed reaction 9,000,000 | ⚠️ Possible | High-priced, delayed reaction |
-
-> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-07-10.md|Session-2024-07-10]]: | [[META]] | Delayed reaction 9,000,000 | ⚠️ Possible | High-priced, story-driven |
-
-> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-07-24.md|Session-2024-07-24]]: Nothing actionable. Large caps getting hammered. [[UNH]] and [[NVDA]] best-holding large caps. Everything else — AAPL, META, MSFT — looking like "wounded soldiers."
 
 ## Related Concepts
 

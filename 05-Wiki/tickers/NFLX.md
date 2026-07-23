@@ -1,22 +1,38 @@
 ---
 title: "NFLX"
-date: 2026-07-22
+date: 2026-07-23
 tags: [tickers, wiki, auto-compiled]
-mention_count: 46
-sources_count: 26
+mention_count: 54
+sources_count: 32
 compilation_count: 1
 promote: false
 ---
 
 # NFLX
 
-*Tickers — compiled from 46 mentions across 26 sources.*
+*Tickers — compiled from 54 mentions across 32 sources.*
 
 ## Mentions
 
 > [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: - **NFLX (referenced as NFVES/NFES)**: 32,000% move with back-to-back 39%+ sales growth.
 
 > [[../../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]: | Sales Growth | **NFLX (NFES)** | ~30 quarters of 39%+ sales growth | 32,000% move; monopoly-like inverter product in a booming category |
+
+> [[../../04-Transcripts/stockbee/2026-03-11_9_15-am.md|2026-03-11_9_15-am]]: So market is opening, and NFLX is showing some life.
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-03-07.md|Session-2025-03-07]]: AVGO/Broadcom, Tesla (TSLA, down 41% from high), NVDA, Arista (ANET), Netflix (NFLX), PayPal (PYPL), CDNS, Walmart (WMT), Starbucks (SBUX), DoorDash (DASH), MARVEL, MongoDB (MDB), Gap (GPS), Burlington (BURL), CVS, Cilidian Science, AB
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-04-17.md|Session-2026-04-17]]: | [[NFLX]] (Netflix) | Owner leaving, earnings issues | "Double catalyst — earnings slowdown + founder leaving. Not the best test." |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-04-20.md|Session-2026-04-20]]: | [[NFLX]] | Delayed EP with catalyst | Owner leaving + earnings slowdown. Not the best test |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-04-20.md|Session-2026-04-20]]: | [[NFLX]] | Delayed EP with catalyst | "The only one where there is a catalyst" on short side |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-04-21.md|Session-2026-04-21]]: | [[NFLX]] (Netflix) | EP 9M short, delayed reaction | "Clear catalyst. I'll take that." Only short with catalyst |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-04-21.md|Session-2026-04-21]]: | [[NFLX]] (Netflix) | EP 9M short, delayed reaction | "Clear catalyst. I'll take that." Only short with real catalyst |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-04-22.md|Session-2026-04-22]]: | [[NFLX]] | EP 9M short | No big follow through. Sitting there |
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-06-24.md|Session-2026-06-24]]: | [[NFLX]] | Downtrend |
 
@@ -78,22 +94,6 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/2025/Session-2025-02-04.md|Session-2025-02-04]]: Day two of tariff chaos. Markets choppy — bounce, correct, bounce, correct. Pradeep's conviction: **day trading is the game now**. Swing traders getting stopped out left and right. The one standout swing: [[NFLX]], which Pradeep had flagged since before earnings. Everything else: reduced size, delayed reactions, or pure intraday.
 
-> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-02-04.md|Session-2025-02-04]]: - [[NFLX]] — classic delayed reaction pattern on large stocks
-
-> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-02-04.md|Session-2025-02-04]]: | [[NFLX]] | Delayed reaction (primary idea) | "Capable of making $50-200 move from here." Position from yesterday, stop at breakeven |
-
-> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-02-04.md|Session-2025-02-04]]: | [[NFLX]] | Bullish | Delayed reaction / swing | Earnings catalyst, $50-200 upside target |
-
-> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-02-05.md|Session-2025-02-05]]: | [[NFLX]] | Holding swing position | Bought yesterday, stop at breakeven. "Capable of making $100-200 from here" |
-
-> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-02-05.md|Session-2025-02-05]]: | [[NFLX]] | Bullish | Holding swing | Earnings catalyst, $100-200 upside |
-
-> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-02-07.md|Session-2025-02-07]]: | [[NFLX]] | Bullish | Creeping move | Dangerous — can reverse violently. Take off profits |
-
-> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-02-07.md|Session-2025-02-07]]: | [[NFLX]] | Bullish (cautious) | Creeping move | Earnings, but can reverse violently |
-
-> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-02-10.md|Session-2025-02-10]]: - Last week was actually not bad: [[NFLX]], [[LAES]], [[FNMA]] all worked
-
 ## Related Concepts
 
 *(To be enriched)*
@@ -105,6 +105,7 @@ promote: false
 ## Sources
 
 - [[../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]
+- [[../04-Transcripts/stockbee/2026-03-11_9_15-am.md|2026-03-11_9_15-am]]
 - [[../06-Daily/stockbee/Sessions/2023/Session-2023-11-10.md|Session-2023-11-10]]
 - [[../06-Daily/stockbee/Sessions/2023/Session-2023-11-13.md|Session-2023-11-13]]
 - [[../06-Daily/stockbee/Sessions/2023/Session-2023-11-29.md|Session-2023-11-29]]
@@ -123,4 +124,3 @@ promote: false
 - [[../06-Daily/stockbee/Sessions/2025/Session-2025-02-10.md|Session-2025-02-10]]
 - [[../06-Daily/stockbee/Sessions/2025/Session-2025-02-14.md|Session-2025-02-14]]
 - [[../06-Daily/stockbee/Sessions/2025/Session-2025-02-27.md|Session-2025-02-27]]
-- [[../06-Daily/stockbee/Sessions/2025/Session-2025-07-21.md|Session-2025-07-21]]

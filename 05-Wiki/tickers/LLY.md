@@ -1,16 +1,16 @@
 ---
 title: "LLY"
-date: 2026-07-22
+date: 2026-07-23
 tags: [tickers, wiki, auto-compiled]
-mention_count: 76
-sources_count: 32
+mention_count: 108
+sources_count: 49
 compilation_count: 1
 promote: false
 ---
 
 # LLY
 
-*Tickers — compiled from 76 mentions across 32 sources.*
+*Tickers — compiled from 108 mentions across 49 sources.*
 
 ## Mentions
 
@@ -42,6 +42,18 @@ promote: false
 
 > [[../../04-Transcripts/stockbee/2025-01-14_10-am.md|2025-01-14_10-am]]: Signet and LLY.
 
+> [[../../04-Transcripts/stockbee/2025-04-07_9-am.md|2025-04-07_9-am]]: So looking for a low risk delayed reaction entry to short on LLY or NVO, anybody any of the companies in the obesity drug, sector.
+
+> [[../../04-Transcripts/stockbee/2025-04-28_9-am.md|2025-04-28_9-am]]: I would be closing LLY before earnings.
+
+> [[../../04-Transcripts/stockbee/2025-04-28_9-am.md|2025-04-28_9-am]]: LLY, it's a start up swing.
+
+> [[../../04-Transcripts/stockbee/2025-06-09_9-am.md|2025-06-09_9-am]]: So somebody was asking LLY.
+
+> [[../../04-Transcripts/stockbee/2025-06-09_9-am.md|2025-06-09_9-am]]: And so LLY, again, like and it's it's a good not a bad setup.
+
+> [[../../04-Transcripts/stockbee/2025-06-13_9-am.md|2025-06-13_9-am]]: How does, easy, LLY looking to you?
+
 > [[../../04-Transcripts/stockbee/2026-01-05_3-pm.md|2026-01-05_3-pm]]: So it is something which is a clear catalyst for both these stocks, LLY and GPCR, basically.
 
 > [[../../04-Transcripts/stockbee/2026-01-15_9_15-am.md|2026-01-15_9_15-am]]: Like an LLY on intraday.
@@ -58,41 +70,29 @@ promote: false
 
 > [[../../04-Transcripts/stockbee/2026-02-04_9_15-am.md|2026-02-04_9_15-am]]: [117:36] What happens to LLY after this?
 
+> [[../../04-Transcripts/stockbee/2026-04-09_9_15-am.md|2026-04-09_9_15-am]]: LLY is not a long today.
+
+> [[../../04-Transcripts/stockbee/2026-04-09_9_15-am.md|2026-04-09_9_15-am]]: LLY was a long where?
+
+> [[../../04-Transcripts/stockbee/2026-04-09_9_15-am.md|2026-04-09_9_15-am]]: LLY was a long year at $3.58.
+
 > [[../../04-Transcripts/stockbee/19. Deep Dive Guide/Pradeep Bonde - Deep Dive Guide-Part 5 - X-Ray Reading_deepgram.md|Pradeep Bonde - Deep Dive Guide-Part 5 - X-Ray Reading_deepgram]]: LLY still worked.
 
 > [[../../04-Transcripts/stockbee/videos/2026-02-04_x-ray-reading.md|2026-02-04_x-ray-reading]]: You look at LLY.
 
 > [[../../04-Transcripts/stockbee/videos/2026-02-04_x-ray-reading.md|2026-02-04_x-ray-reading]]: [114:32] LLY still worked.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-01-05.md|Session-2026-01-05]]: | [[ABBV]] | Catalyst | ✅ Watch | Wegovy pill launch = clear catalyst for LLY and GPCR |
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-14.md|Session-2025-01-14]]: - **LLY guided down** — Q4 revenue below consensus, Q1 guidance in line
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-02-04.md|Session-2026-02-04]]: Mega-cap tech (except [[LLY]] and maybe [[GOOG]]) going nowhere. Money rotating into aerospace, electronics, defense, industrial. The party in large tech names is over — money is going somewhere else.
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-14.md|Session-2025-01-14]]: - "These are all vapor" — LLY, NVDA, QBTS all fugazi
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-02-04.md|Session-2026-02-04]]: From earnings released overnight: [[LLY]] (Eli Lilly), [[SMCI]], [[WCC]] (Wesco), [[CMG]] (Chipotle) — all have potential for 20-40% moves in next 1-2 months.
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-14.md|Session-2025-01-14]]: - **LLY SIPs: came in at 9:00, news at 9:06 → spectacular bearish SIPs, most people missed it**
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-02-04.md|Session-2026-02-04]]: **[[LLY]]** (Eli Lilly) — earnings breakout, owned by 5,000+ funds. Funds buying. Small tracking position.
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-14.md|Session-2025-01-14]]: - LLY — bearish SIPs worked spectacularly
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-02-04.md|Session-2026-02-04]]: 5. **SMCI + LLY = best setups today.** Both have catalyst, volume, and institutional ownership.
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-14.md|Session-2025-01-14]]: - LLY missed because news came at 9:06 during the meeting
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-02-04.md|Session-2026-02-04]]: | LLY | Long | DEP 9M | Earnings breakout, 5000+ fund ownership |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-02-05.md|Session-2026-02-05]]: | LLY | Long (failed) | DEP yesterday | Got sold despite clear catalyst |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-02-23.md|Session-2026-02-23]]: Up pre-market: ACLX, VRT, EHAB, Legion, FBIO, SST, KBR, EIBRX, LLY, DPZ, ATSD
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-02-23.md|Session-2026-02-23]]: | LLY | Long | SIPs watch | Positive catalyst, large cap |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-24.md|Session-2026-06-24]]: | [[LLY]] | One of the few holding |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-25.md|Session-2026-06-25]]: But if [[GOOG]] is going to go up, it will show up in EP 9M scans — react then, don't predict. The Anthropic founder naming [[Tempus AI]] and [[LLY]] (Eli Lilly) as the two AI beneficiaries was noted as a recurring narrative catalyst.
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-26.md|Session-2026-06-26]]: | [[LLY]] | News catalyst | European CHMP recommendation for chronic lymphocytic leukemia |
-
-> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-03.md|Session-2023-11-03]]: | [[LLY]] | Delayed Earnings Reaction | ✅ Good setup | Eli Lilly |
-
-> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-06.md|Session-2023-11-06]]: | [[LLY]] | Delayed Earnings Reaction | Good setup, sold for 60%+ profit |
-
-> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-06.md|Session-2023-11-06]]: | [[LLY]] | Delayed Earnings | ✅ Took profit | Sold all for 60%+ |
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-14.md|Session-2025-01-14]]: | LLY | Watch list addition | Potential $100-200 when it sets up |
 
 ## Related Concepts
 
@@ -111,16 +111,16 @@ promote: false
 - [[../04-Transcripts/stockbee/2023-11-09_9-am.md|2023-11-09_9-am]]
 - [[../04-Transcripts/stockbee/2023-11-28_11-am.md|2023-11-28_11-am]]
 - [[../04-Transcripts/stockbee/2025-01-14_10-am.md|2025-01-14_10-am]]
+- [[../04-Transcripts/stockbee/2025-04-07_9-am.md|2025-04-07_9-am]]
+- [[../04-Transcripts/stockbee/2025-04-28_9-am.md|2025-04-28_9-am]]
+- [[../04-Transcripts/stockbee/2025-06-09_9-am.md|2025-06-09_9-am]]
+- [[../04-Transcripts/stockbee/2025-06-13_9-am.md|2025-06-13_9-am]]
 - [[../04-Transcripts/stockbee/2026-01-05_3-pm.md|2026-01-05_3-pm]]
 - [[../04-Transcripts/stockbee/2026-01-15_9_15-am.md|2026-01-15_9_15-am]]
 - [[../04-Transcripts/stockbee/2026-01-21_3-pm.md|2026-01-21_3-pm]]
 - [[../04-Transcripts/stockbee/2026-02-04_9_15-am.md|2026-02-04_9_15-am]]
+- [[../04-Transcripts/stockbee/2026-04-09_9_15-am.md|2026-04-09_9_15-am]]
 - [[../04-Transcripts/stockbee/videos/2026-02-04_x-ray-reading.md|2026-02-04_x-ray-reading]]
 - [[../06-Daily/stockbee/Sessions/2023/Session-2023-11-03.md|Session-2023-11-03]]
 - [[../06-Daily/stockbee/Sessions/2023/Session-2023-11-06.md|Session-2023-11-06]]
 - [[../06-Daily/stockbee/Sessions/2024/Session-2024-02-07.md|Session-2024-02-07]]
-- [[../06-Daily/stockbee/Sessions/2024/Session-2024-08-20.md|Session-2024-08-20]]
-- [[../06-Daily/stockbee/Sessions/2024/Session-2024-08-26.md|Session-2024-08-26]]
-- [[../06-Daily/stockbee/Sessions/2024/Session-2024-08-27.md|Session-2024-08-27]]
-- [[../06-Daily/stockbee/Sessions/2024/Session-2024-08-29.md|Session-2024-08-29]]
-- [[../06-Daily/stockbee/Sessions/2025/Session-2025-01-14.md|Session-2025-01-14]]

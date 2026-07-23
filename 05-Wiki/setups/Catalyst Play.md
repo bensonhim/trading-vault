@@ -1,20 +1,24 @@
 ---
 title: "Catalyst Play"
-date: 2026-07-22
+date: 2026-07-23
 tags: [setups, wiki, auto-compiled]
-mention_count: 19
-sources_count: 16
+mention_count: 28
+sources_count: 25
 compilation_count: 1
 promote: false
 ---
 
 # Catalyst Play
 
-*Setups — compiled from 19 mentions across 16 sources.*
+*Setups — compiled from 28 mentions across 25 sources.*
 
 ## Mentions
 
 > [[../../04-Transcripts/stockbee/2024-08-21_2-pm.md|2024-08-21_2-pm]]: There are, like, any Obviously, the idea is to find a game changing catalyst play which will, make your account go up hundred, two hundred.
+
+> [[../../04-Transcripts/stockbee/2025-05-19_9-am.md|2025-05-19_9-am]]: So really looking at, like, how the, catalyst plays out today.
+
+> [[../../04-Transcripts/stockbee/2026-03-06_3-pm.md|2026-03-06_3-pm]]: So I would just go and first fix my understanding of catalyst before taking any more trades on any delayed reaction because the basic problem is, I think the set of understanding and ability to find a real, catalyst play also, right?
 
 > [[../../04-Transcripts/stockbee/2026-06-01_3-pm.md|2026-06-01_3-pm]]: If something has news, you're how to, like, in a look at it as a news catalyst play.
 
@@ -23,6 +27,20 @@ promote: false
 > [[../../04-Transcripts/stockbee/Meetings/meeting_2026-06-01_fe5dabee-987b-4aa8-8023-e45808dfb104_deepgram.md|meeting_2026-06-01_fe5dabee-987b-4aa8-8023-e45808dfb104_deepgram]]: If something has news, you're how to, like, in a look at it as a news catalyst play.
 
 > [[../../04-Transcripts/stockbee/videos/2026-02-24_how-to-create-delayed-eo-watchlist.md|2026-02-24_how-to-create-delayed-eo-watchlist]]: That might be if you are looking at something which is marginal catalyst play.
+
+> [[../../06-Daily/stockbee/Sessions/Session-2024-01-12.md|Session-2024-01-12]]: | **Catalyst trade** | 5–50%+ per trade | BA short, Mobileye short, genuine EP with news |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-08.md|Session-2025-01-08]]: 4. **Position sizing IS the stop** — for high-conviction, small-position catalyst plays
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-10.md|Session-2025-01-10]]: - FuboTV — catalyst play, position sizing
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-13.md|Session-2025-01-13]]: | FuboTV | Catalyst play, tracking position |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-23.md|Session-2025-01-23]]: - Story stocks: know the catalyst, trade the setup
+
+> [[../../06-Daily/stockbee/Sessions/Session-2025-05-02.md|Session-2025-05-02]]: 16. HIMS earnings Monday after close — 60 possible target if catalyst plays out
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-03-04.md|Session-2026-03-04]]: He entered BW as a SIPs/catalyst play. Got stopped out on the remaining swing position in the morning, but re-entered later when the catalyst persisted. The 80/20 pill: booked 80% profit on first leg, kept 20% swing with breakeven stop.
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-06-30.md|Session-2026-06-30]]: | [[NNBR]] | Small-cap catalyst play | Traded for fun, not account-changing size |
 
@@ -64,6 +82,8 @@ promote: false
 
 - [[../04-Transcripts/stockbee/17. Catalyst Guide/Pradeep Bonde - Catalyst Guide-Part 1 - Understanding Catalyst_deepgram.md|Pradeep Bonde - Catalyst Guide-Part 1 - Understanding Catalyst_deepgram]]
 - [[../04-Transcripts/stockbee/2024-08-21_2-pm.md|2024-08-21_2-pm]]
+- [[../04-Transcripts/stockbee/2025-05-19_9-am.md|2025-05-19_9-am]]
+- [[../04-Transcripts/stockbee/2026-03-06_3-pm.md|2026-03-06_3-pm]]
 - [[../04-Transcripts/stockbee/2026-06-01_3-pm.md|2026-06-01_3-pm]]
 - [[../04-Transcripts/stockbee/Meetings/meeting_2026-06-01_fe5dabee-987b-4aa8-8023-e45808dfb104_deepgram.md|meeting_2026-06-01_fe5dabee-987b-4aa8-8023-e45808dfb104_deepgram]]
 - [[../04-Transcripts/stockbee/videos/2026-02-24_how-to-create-delayed-eo-watchlist.md|2026-02-24_how-to-create-delayed-eo-watchlist]]
@@ -76,5 +96,7 @@ promote: false
 - [[../06-Daily/stockbee/Sessions/2025/Session-2025-01-29.md|Session-2025-01-29]]
 - [[../06-Daily/stockbee/Sessions/2025/Session-2025-07-15.md|Session-2025-07-15]]
 - [[../06-Daily/stockbee/Sessions/2025/Session-2025-07-24.md|Session-2025-07-24]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-06-30.md|Session-2026-06-30]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-07-01.md|Session-2026-07-01]]
+- [[../06-Daily/stockbee/Sessions/Session-2024-01-12.md|Session-2024-01-12]]
+- [[../06-Daily/stockbee/Sessions/Session-2025-01-08.md|Session-2025-01-08]]
+- [[../06-Daily/stockbee/Sessions/Session-2025-01-10.md|Session-2025-01-10]]
+- [[../06-Daily/stockbee/Sessions/Session-2025-01-13.md|Session-2025-01-13]]

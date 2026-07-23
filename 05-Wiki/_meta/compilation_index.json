@@ -3,159 +3,159 @@
   "pages": {
     "Market Monitor": {
       "category": "concepts",
-      "source_hash": "7a00a587b56abc17",
+      "source_hash": "a2b8a691f3fc4d0c",
       "file": "05-Wiki\\concepts\\Market Monitor.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Start of a Swing": {
       "category": "concepts",
-      "source_hash": "553603721da01ca7",
+      "source_hash": "bba5e095b6943846",
       "file": "05-Wiki\\concepts\\Start of a Swing.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Breakout": {
       "category": "setups",
-      "source_hash": "db83f948386387a7",
+      "source_hash": "80c309b1dfce5249",
       "file": "05-Wiki\\setups\\Breakout.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Scans and Filters": {
       "category": "concepts",
-      "source_hash": "138148241cd151eb",
+      "source_hash": "2674dda97e71530d",
       "file": "05-Wiki\\concepts\\Scans and Filters.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Anticipation": {
       "category": "concepts",
-      "source_hash": "a59033158137ca72",
+      "source_hash": "5006358969784012",
       "file": "05-Wiki\\concepts\\Anticipation.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Sugar Baby": {
       "category": "setups",
-      "source_hash": "30b26568a27f62ee",
+      "source_hash": "6b9166e769471d7c",
       "file": "05-Wiki\\setups\\Sugar Baby.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "LOW": {
       "category": "tickers",
-      "source_hash": "dc751ccd1665e7cc",
+      "source_hash": "fdc7cff4e2f1dd90",
       "file": "05-Wiki\\tickers\\LOW.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Catalyst": {
       "category": "concepts",
-      "source_hash": "a7200f851b653637",
+      "source_hash": "1c49ef46d981eb9c",
       "file": "05-Wiki\\concepts\\Catalyst.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Catalyst Lifespan": {
       "category": "concepts",
-      "source_hash": "1ba9b36970fac53b",
+      "source_hash": "5b66c9577ff67d62",
       "file": "05-Wiki\\concepts\\Catalyst Lifespan.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "NVDA": {
       "category": "tickers",
-      "source_hash": "5d7fb96ea47559b2",
+      "source_hash": "73518c149a3bcab1",
       "file": "05-Wiki\\tickers\\NVDA.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "LLY": {
       "category": "tickers",
-      "source_hash": "c8c415e210787aa7",
+      "source_hash": "ada26aa44118607a",
       "file": "05-Wiki\\tickers\\LLY.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Process Mindset": {
       "category": "concepts",
-      "source_hash": "bd15987adc08f8af",
+      "source_hash": "5141cdbf4317797c",
       "file": "05-Wiki\\concepts\\Process Mindset.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Institutional Quality": {
       "category": "concepts",
-      "source_hash": "ea8d1ff8a9df0f2c",
+      "source_hash": "46eda955094664d8",
       "file": "05-Wiki\\concepts\\Institutional Quality.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "EP9M": {
       "category": "setups",
-      "source_hash": "57c631abe2dd06e3",
+      "source_hash": "b1ecafeb61b2bc43",
       "file": "05-Wiki\\setups\\EP9M.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Delayed Entry Point": {
       "category": "concepts",
-      "source_hash": "e2b913eb5b761dcc",
+      "source_hash": "32cb6c5b9f264bf0",
       "file": "05-Wiki\\concepts\\Delayed Entry Point.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Breakeven": {
       "category": "concepts",
-      "source_hash": "329b95139a52843c",
+      "source_hash": "d2914e567583039b",
       "file": "05-Wiki\\concepts\\Breakeven.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Deep Dive": {
       "category": "setups",
-      "source_hash": "04ec78b9643ff34b",
+      "source_hash": "cf331c025a053646",
       "file": "05-Wiki\\setups\\Deep Dive.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Stock Selection": {
       "category": "concepts",
-      "source_hash": "d0e564f594b627d3",
+      "source_hash": "885a80e845c2168f",
       "file": "05-Wiki\\concepts\\Stock Selection.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Entries": {
       "category": "concepts",
-      "source_hash": "e0be71709097e5f9",
+      "source_hash": "1126886cf035fb8e",
       "file": "05-Wiki\\concepts\\Entries.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Position Sizing": {
       "category": "concepts",
-      "source_hash": "be9b913f92687cef",
+      "source_hash": "904b2c902e29e6fb",
       "file": "05-Wiki\\concepts\\Position Sizing.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Momentum Burst": {
       "category": "concepts",
-      "source_hash": "de2829a9b9ca40a8",
+      "source_hash": "a6c7cee3eb942eaf",
       "file": "05-Wiki\\concepts\\Momentum Burst.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "FOMO": {
       "category": "concepts",
-      "source_hash": "f6a202cab89e3428",
+      "source_hash": "36de942e55d2d4a5",
       "file": "05-Wiki\\concepts\\FOMO.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Episodic Pivot": {
       "category": "concepts",
-      "source_hash": "e6bc5bf831a28d45",
+      "source_hash": "4c0bda17576c439f",
       "file": "05-Wiki\\concepts\\Episodic Pivot.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Chasing": {
       "category": "concepts",
-      "source_hash": "c4544af631b9ec5e",
+      "source_hash": "f31a2dbb2a1fa95c",
       "file": "05-Wiki\\concepts\\Chasing.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Stops": {
       "category": "concepts",
-      "source_hash": "8ee968277edfa31a",
+      "source_hash": "e0b5bd9a60ed345b",
       "file": "05-Wiki\\concepts\\Stops.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Bullish Momentum Burst": {
       "category": "concepts",
-      "source_hash": "2097582db0d7fbc0",
-      "file": "wiki\\concepts\\Bullish Momentum Burst.md",
-      "last_compiled": "2026-06-10T17:12:37.780701"
+      "source_hash": "baa5546b8cc884e4",
+      "file": "05-Wiki\\concepts\\Bullish Momentum Burst.md",
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Reversal": {
       "category": "concepts",
@@ -165,75 +165,75 @@
     },
     "Mind Clarity": {
       "category": "concepts",
-      "source_hash": "89966fa601841d0a",
+      "source_hash": "2656bb08a9202cee",
       "file": "05-Wiki\\concepts\\Mind Clarity.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Trade Management": {
       "category": "concepts",
-      "source_hash": "91ef23de4168786b",
+      "source_hash": "0d8a4980ef750969",
       "file": "05-Wiki\\concepts\\Trade Management.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Peeling": {
       "category": "concepts",
-      "source_hash": "a9ba53268bd86242",
+      "source_hash": "9e5ee5e53913f253",
       "file": "05-Wiki\\concepts\\Peeling.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Confluences": {
       "category": "concepts",
-      "source_hash": "75becf95aba4745d",
+      "source_hash": "23bb8a217b166583",
       "file": "05-Wiki\\concepts\\Confluences.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Tight Days": {
       "category": "concepts",
-      "source_hash": "34c18f368b47edf0",
+      "source_hash": "4f72bf1200acafa0",
       "file": "05-Wiki\\concepts\\Tight Days.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Reversal Bullish": {
       "category": "setups",
-      "source_hash": "2fac7bb96f2adfe2",
+      "source_hash": "1b4ceb2b52d8cfab",
       "file": "05-Wiki\\setups\\Reversal Bullish.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Bearish Trading": {
       "category": "setups",
-      "source_hash": "fc0825f351c3706b",
+      "source_hash": "7c2465cfda73d9d9",
       "file": "05-Wiki\\setups\\Bearish Trading.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Broken Business": {
       "category": "concepts",
-      "source_hash": "9fe4660f274f789e",
+      "source_hash": "3ebe2aae0eea3e16",
       "file": "05-Wiki\\concepts\\Broken Business.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Weak Structure Short": {
       "category": "concepts",
-      "source_hash": "4e3ae8d1262d52f4",
+      "source_hash": "4565e92d9d2fc861",
       "file": "05-Wiki\\concepts\\Weak Structure Short.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "FHP": {
       "category": "setups",
-      "source_hash": "8061c947b739d0e3",
+      "source_hash": "8ef1a37024d90ddc",
       "file": "05-Wiki\\setups\\FHP.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Dollar Breakout": {
       "category": "setups",
-      "source_hash": "e80551fd8bf99f8e",
+      "source_hash": "74750d52f9ae49cf",
       "file": "05-Wiki\\setups\\Dollar Breakout.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Deep Work": {
       "category": "concepts",
-      "source_hash": "ba2084ed7bb7e363",
+      "source_hash": "a177ee22ad3bac9b",
       "file": "05-Wiki\\concepts\\Deep Work.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Momentum Burst Bearish": {
       "category": "concepts",
@@ -243,27 +243,27 @@
     },
     "Situational Awareness": {
       "category": "concepts",
-      "source_hash": "1bfa0f51952838df",
+      "source_hash": "4122afd352588327",
       "file": "05-Wiki\\concepts\\Situational Awareness.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "NBIS": {
       "category": "tickers",
-      "source_hash": "e4b5ce39ca7f3922",
+      "source_hash": "2554b08199d2bc39",
       "file": "05-Wiki\\tickers\\NBIS.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "AVGO": {
       "category": "tickers",
-      "source_hash": "e6c516ff2c29836b",
+      "source_hash": "04ee5229c74f6081",
       "file": "05-Wiki\\tickers\\AVGO.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "KO": {
       "category": "tickers",
       "source_hash": "2792c4992a097d37",
       "file": "05-Wiki\\tickers\\KO.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "F": {
       "category": "tickers",
@@ -281,121 +281,127 @@
       "category": "tickers",
       "source_hash": "658520c75bea3db2",
       "file": "05-Wiki\\tickers\\GOOG.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "GOOGL": {
       "category": "tickers",
-      "source_hash": "77454eb40478922a",
+      "source_hash": "e215f16bd181aafe",
       "file": "05-Wiki\\tickers\\GOOGL.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "AMD": {
       "category": "tickers",
-      "source_hash": "783d03899413b5c0",
+      "source_hash": "36c3a422876cdf58",
       "file": "05-Wiki\\tickers\\AMD.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "GLW": {
       "category": "tickers",
-      "source_hash": "c40af81c0423755f",
+      "source_hash": "5ac65ba3f652dd82",
       "file": "05-Wiki\\tickers\\GLW.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "META": {
       "category": "tickers",
-      "source_hash": "d4d15ef90e0c60d4",
+      "source_hash": "230a02d0e32e9614",
       "file": "05-Wiki\\tickers\\META.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "HOOD": {
       "category": "tickers",
-      "source_hash": "9b12de21f6136b9d",
+      "source_hash": "89edf1ea251ff672",
       "file": "05-Wiki\\tickers\\HOOD.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "RXT": {
       "category": "tickers",
       "source_hash": "7c41ef7351002ac2",
       "file": "05-Wiki\\tickers\\RXT.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "DELL": {
       "category": "tickers",
       "source_hash": "ed65b2f54057ad31",
       "file": "05-Wiki\\tickers\\DELL.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "AMZN": {
       "category": "tickers",
-      "source_hash": "55f3ed8d551b656b",
+      "source_hash": "35283c2dbde6c4a4",
       "file": "05-Wiki\\tickers\\AMZN.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "TSLA": {
       "category": "tickers",
-      "source_hash": "b96c527e4ead8891",
+      "source_hash": "b4345a56cfe0ed3b",
       "file": "05-Wiki\\tickers\\TSLA.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "DAL": {
       "category": "tickers",
-      "source_hash": "37602c1baa8e1753",
+      "source_hash": "f862550fd13391bb",
       "file": "05-Wiki\\tickers\\DAL.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "LUV": {
       "category": "tickers",
       "source_hash": "b95af55e3b9a9433",
       "file": "05-Wiki\\tickers\\LUV.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "BA": {
       "category": "tickers",
-      "source_hash": "54588d8e9fb4e840",
+      "source_hash": "d8922c9f66e924b4",
       "file": "05-Wiki\\tickers\\BA.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "MRVL": {
       "category": "tickers",
-      "source_hash": "2f0bb4476eb2b92b",
+      "source_hash": "500489de164d7b07",
       "file": "05-Wiki\\tickers\\MRVL.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "CRM": {
       "category": "tickers",
-      "source_hash": "8f4548efff484459",
+      "source_hash": "2eef688b7e3cba08",
       "file": "05-Wiki\\tickers\\CRM.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "PLTR": {
       "category": "tickers",
-      "source_hash": "be58e201731d3fbb",
+      "source_hash": "859122ae887c5d6f",
       "file": "05-Wiki\\tickers\\PLTR.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "AAPL": {
       "category": "tickers",
-      "source_hash": "86f4843266e903a3",
+      "source_hash": "fafc62e346ab94ff",
       "file": "05-Wiki\\tickers\\AAPL.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "MSFT": {
       "category": "tickers",
-      "source_hash": "789d51d7c64d8ef6",
+      "source_hash": "2ecff08090f3677f",
       "file": "05-Wiki\\tickers\\MSFT.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "Catalyst Play": {
       "category": "setups",
-      "source_hash": "6d018dac360dec4e",
+      "source_hash": "e6559cac6899fa0c",
       "file": "05-Wiki\\setups\\Catalyst Play.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
     },
     "NFLX": {
       "category": "tickers",
-      "source_hash": "58aea0e3fb61c078",
+      "source_hash": "b9ff18beb00a98e1",
       "file": "05-Wiki\\tickers\\NFLX.md",
-      "last_compiled": "2026-07-22T10:12:35.338100"
+      "last_compiled": "2026-07-23T09:54:14.547371"
+    },
+    "Weak Structure Short Setup": {
+      "category": "setups",
+      "source_hash": "4414cb4e94a07818",
+      "file": "05-Wiki\\setups\\Weak Structure Short Setup.md",
+      "last_compiled": "2026-07-23T09:54:14.547371"
     }
   },
   "source_hashes": {
@@ -865,6 +871,175 @@
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-02-27_10-am.md": "00d59c1a9f0aaa40",
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-02-27_2-pm.md": "7924fa7beb4201e6",
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-02-27_9-am.md": "cabcab9cd1c3942e",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-03_10-am.md": "73601b74588fef2f",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-03_2-pm.md": "61b1b2a101a6e25c",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-03_9-am.md": "562efade40cb5b6a",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-04_10-am.md": "477cd84739b769af",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-04_2-pm.md": "44191c71ae123d3d",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-04_9-am.md": "9d0d58649c7a77c2",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-05_10-am.md": "5e60e26b96ae5243",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-05_2-pm.md": "364c2465687db90a",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-05_9-am.md": "66819f5661e5aea0",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-06_10-am.md": "5863848b0b452268",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-06_2-pm.md": "9cb2afc7c0ac7091",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-06_9-am.md": "26bfac629d4a2af4",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-07_10-am.md": "b116f716564d358d",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-07_2-pm.md": "bacd7a3098998eaf",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-07_9-am.md": "af91723b1fc6982c",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-10_10-am.md": "f40cd19a4bc1f81a",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-10_2-pm.md": "cea8c05d502fb700",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-10_9-am.md": "a70a764b27c16122",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-11_10-am.md": "d0de46f0c8bf3783",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-11_2-pm.md": "96ef734e82cabd40",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-11_9-am.md": "d48913a0b0ca57e5",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-12_10-am.md": "4eb79dfeea1535e4",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-12_2-pm.md": "dbea39511aff8ad6",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-12_9-am.md": "89d5d42264714c46",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-13_10-am.md": "e6540ec96c628a9e",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-13_2-pm.md": "5f14d6132fd03d72",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-13_9-am.md": "c1128ce682ace9b5",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-14_10-am.md": "8032b8452a5554d9",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-14_2-pm.md": "7f617faacde1a26f",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-14_9-am.md": "95d5922c48c23262",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-17_10-am.md": "a786707ea7f35f68",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-17_2-pm.md": "434a6ef2a918cc86",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-17_9-am.md": "2e6a67f7cf949adf",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-18_10-am.md": "38b3883747573e82",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-18_9-am.md": "39c7599a47fdd185",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-24_10-am.md": "6ce22bd2e7afca24",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-24_2-pm.md": "a06147dc05baa36f",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-24_9-am.md": "6f395dce4807ddc1",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-25_10-am.md": "f1f73bae3ce133b4",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-25_2-pm.md": "9f46e12c98a3d071",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-25_9-am.md": "21eed514eb545539",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-26_10-am.md": "dcda9ee8ff6f0aa7",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-26_2-pm.md": "04dcee687dfbbf86",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-26_9-am.md": "9b116d193dfb3645",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-27_10-am.md": "98b03f77d3cfa8c1",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-27_2-pm.md": "af4c2441d1e12d02",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-27_9-am.md": "0e85d19afc4360a0",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-28_10-am.md": "d1aafdd8450c72e1",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-28_2-pm.md": "1eac8183e52a2a05",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-28_9-am.md": "e44026446068d78c",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-31_10-am.md": "e321a6c31664fe12",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-31_2-pm.md": "9981cf060078c93f",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-03-31_9-am.md": "9bb856e34ad75df0",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-01_10-am.md": "ae07ab77eaa969f3",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-01_2-pm.md": "12c13dcfef2c6fee",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-01_9-am.md": "3ebb706d4a411af6",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-02_10-am.md": "032e5d719ee34ad6",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-02_2-pm.md": "56ff8271f33cab0d",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-02_9-am.md": "524af3bb8867ea0e",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-03_10-am.md": "0c0e24253274723c",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-03_2-pm.md": "d8c1a11c5bcb17e5",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-03_9-am.md": "426a935d16684dad",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-04_10-am.md": "26b2c152bce402c6",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-04_2-pm.md": "4e192f0675cf702d",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-04_9-am.md": "3f695be8731181ca",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-07_10-am.md": "4b24a7314f7ebeb3",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-07_2-pm.md": "cce28e26c1f61d48",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-07_9-am.md": "5e57a9a36594df58",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-08_10-am.md": "3d5faf3d44358927",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-08_2-pm.md": "86e5691d2c1ed3c8",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-08_9-am.md": "d1411e83a8346513",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-09_10-am.md": "930220eba631e44a",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-09_2-pm.md": "5feb1e38c927755e",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-09_9-am.md": "56b6f9d623fbcc69",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-10_10-am.md": "352487ddf24eb3ce",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-10_2-pm.md": "4becbf8baf3784a6",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-10_9-am.md": "96bb49f11b229ff3",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-11_10-am.md": "39138da6a1acc63c",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-11_2-pm.md": "9fcd6e4a2dad0041",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-11_9-am.md": "6b08e5320659bc46",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-14_10-am.md": "28d84d480ee61153",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-14_2-pm.md": "f4f8bf18e4f30883",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-14_9-am.md": "ea0aeb7f6ce0be04",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-15_10-am.md": "7590afb0cda57baa",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-15_2-pm.md": "08067fcc83be2409",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-15_9-am.md": "94feaf8184df6d90",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-16_10-am.md": "5b58887ae1eb7e69",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-16_2-pm.md": "224fdf7124b7c9f3",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-16_9-am.md": "fa7fe79f1edcf348",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-17_10-am.md": "c9cdbdda2ebd7a16",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-17_2-pm.md": "9d3df464610b4f48",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-17_9-am.md": "462b662a55a79c57",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-21_2-pm.md": "bf8d5795af2f9d52",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-21_9-am.md": "f687bb39825d6ee4",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-22_2-pm.md": "5859cd0206d15e47",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-22_9-am.md": "37666ae56fd96a0a",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-28_9-am.md": "659cdb44c408306b",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-29_2-pm.md": "f3507d94e0575f08",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-04-29_9-am.md": "ff5b642f25e33014",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-01_2-pm.md": "e1663df2be67334a",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-01_9-am.md": "de7948c5cd84a54f",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-02_2-pm.md": "baa416dad8f1b1d5",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-02_9-am.md": "f858dd1cc355dbfb",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-05_2-pm.md": "e96eb63796b1ce49",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-05_9-am.md": "1a935efe14aff3c5",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-06_2-pm.md": "8eb2f59b626c5a84",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-06_9-am.md": "de6bddfa80423a66",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-07_2-pm.md": "f76ef34f6d6d5367",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-07_9-am.md": "b2ad2bc95cde6822",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-08_2-pm.md": "fe404dd9fb5020d8",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-08_9-am.md": "ea3a6d066e511df4",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-09_2-pm.md": "9aa1bd667d399aaf",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-09_9-am.md": "66fcdc085e324d0b",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-12_2-pm.md": "a41c5a1ab9e3ef38",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-12_9-am.md": "e8e3dd004ac4a3f3",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-12_Unknown.md": "9b59355ce4a43077",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-13_2-pm.md": "264a6f555a04eda9",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-13_9-am.md": "f75e0c0da89f3b4c",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-13_Unknown.md": "9006b99a5fabb79a",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-14_2-pm.md": "4c2e1c48cafe518a",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-14_9-am.md": "fb30a6b9b60ff03b",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-14_Unknown.md": "ae6988c2f877d295",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-15_2-pm.md": "67817cbbe8ac046a",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-15_9-am.md": "a8f12e6a50717641",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-15_Unknown.md": "6b07e0f9c5b328e7",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-16_9-am.md": "246f98b503c87a80",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-19_2-pm.md": "377cca81dd550a35",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-19_9-am.md": "4e38639790462ad4",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-20_2-pm.md": "f26913be815aa30f",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-20_9-am.md": "bff27a3e0a842241",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-21_2-pm.md": "f0d838da721eb924",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-21_9-am.md": "d40ce3bbe3278d82",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-22_9-am.md": "6c3ed17959dfde15",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-23_2-pm.md": "8d53b70d57f9320c",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-23_9-am.md": "b7c9c3a8a6a8c8f4",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-27_2-pm.md": "3eda7da76c707aa9",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-27_9-am.md": "d5f071434dfa0ca7",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-28_2-pm.md": "4a7d60c30af6e959",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-28_9-am.md": "744c6e78190bf53e",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-29_2-pm.md": "aeba63553b1ee6c4",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-05-30_9-am.md": "e01653e8e8db4b7d",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-06-02_2-pm.md": "bcf331a8150278db",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-06-04_2-pm.md": "910ba411ae20862e",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-06-05_2-pm.md": "f165bf4848f7a5a5",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-06-05_9-am.md": "9fe972e042fce017",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-06-06_2-pm.md": "93f780bd377dbb7a",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-06-06_9-am.md": "86a11dce67404671",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-06-09_9-am.md": "a3707db2986789cb",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-06-10_2-pm.md": "afba820c4352bf8e",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-06-10_9-am.md": "c87719eb58d414e5",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-06-11_2-pm.md": "5387bfaf9675c933",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-06-11_9-am.md": "52c143bc06a77f05",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-06-12_2-pm.md": "a4a18184c476d98d",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-06-12_9-am.md": "343b4e282e2790fe",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-06-13_9-am.md": "7a575dd78485773d",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-06-16_2-pm.md": "9747c4cfee499ac7",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-06-16_9-am.md": "40f23af46c15708d",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-06-20_2-pm.md": "acab9592d8561a2a",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-06-20_9-am.md": "a9a436121ee423b6",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-06-23_2-pm.md": "7d5b24f576dc1f5e",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-06-23_9-am.md": "ccac501faa7735b1",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-06-24_2-pm.md": "ed9f4bce248c0f86",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-06-24_9-am.md": "b9596fd7929ea9d9",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-06-25_2-pm.md": "150579bf88f8ed41",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-06-25_9-am.md": "91bfce8311f2a3f1",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-06-26_2-pm.md": "5a0f7405343d966a",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-06-26_9-am.md": "2c14c61ea1af5024",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-06-27_2-pm.md": "32ff4af09d5ed4df",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-06-27_9-am.md": "6c7484ec2d6e0327",
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-07-01_2-pm.md": "ab491a0a9cd12502",
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-07-01_9-am.md": "5c43ec6b70ef5cbf",
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2025-07-02_9-am.md": "4009a3165152ac17",
@@ -1002,6 +1177,86 @@
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-02-26_9_15-am.md": "a644f1e2250eccc4",
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-02-27_3-pm.md": "b334047a283f92ef",
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-02-27_9_15-am.md": "c99a8f5555cb1d42",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-02_3-pm.md": "b6026dfac0c1c86c",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-02_9_15-am.md": "7a7626972b6dbae3",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-03_3-pm.md": "8b0f45e269a14453",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-03_9_15-am.md": "a3839954de9a1720",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-04_3-pm.md": "e9c36c2a22e681fc",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-04_9_15-am.md": "c2f369040e84d378",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-05_3-pm.md": "b05afd5dda792509",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-05_9_15-am.md": "ea387a562244cc4a",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-06_3-pm.md": "573e72983737577f",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-06_9_15-am.md": "7b68f88285f9e0bd",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-09_3-pm.md": "e11aa3b0bb2a08b4",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-09_9_15-am.md": "0261c300b1dc1b51",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-10_3-pm.md": "6a6346627f8a7efd",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-10_9_15-am.md": "8e011de3cca66cc9",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-11_3-pm.md": "0c3a85aeb3472173",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-11_9_15-am.md": "0a035ebfe5b5f7b0",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-12_3-pm.md": "89cf8a7778a31dec",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-12_9_15-am.md": "de2ce8ba2486a9e7",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-12_Unknown.md": "a58c5bf3f52c7eb3",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-13_3-pm.md": "017aaa4f4ac284f1",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-13_9_15-am.md": "c1141bac00006944",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-16_3-pm.md": "aa9093e6c60b6b81",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-16_9_15-am.md": "d8314840f5bba7c4",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-17_3-pm.md": "06aec3c1b41d0287",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-17_9_15-am.md": "6cb411537e68c759",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-18_3-pm.md": "5743c93c22a73f79",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-18_9_15-am.md": "5d9fc921cf19eea6",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-19_3-pm.md": "3bfbd4e363971b24",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-19_9_15-am.md": "029c9b03b7a9e706",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-20_3-pm.md": "2b341a3a5116316f",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-20_9_15-am.md": "09958af546cd8aaa",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-23_3-pm.md": "2227edbfd84edc71",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-23_9_15-am.md": "455be99fc7fa60f0",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-24_9_15-am.md": "de0d263f68faf879",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-25_3-pm.md": "b17f376a5537145f",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-25_9_15-am.md": "7955acf2b490e548",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-26_3-pm.md": "b7eb376e93a75d9f",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-26_9_15-am.md": "5ecfc9c9ea4812b7",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-30_3-pm.md": "8848c8f00d021155",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-30_9_15-am.md": "a9d5c0531621ab45",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-31_3-pm.md": "aab17e89fdff038e",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-03-31_9_15-am.md": "e534a9d7c0c6f5ca",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-01_3-pm.md": "a992f09bc837a530",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-01_9_15-am.md": "d6a4fe78c2e1bc52",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-02_3-pm.md": "b55d5555f5b6b0e5",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-02_9_15-am.md": "b1ba2d3e1a476d82",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-06_3-pm.md": "85fddb9af79fdb22",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-06_9_15-am.md": "de77dfbf9cf96e82",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-07_3-pm.md": "c25f1f682660b942",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-07_9_15-am.md": "8295b8d5ca185c77",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-08_3-pm.md": "821e5a4d898a097c",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-08_9_15-am.md": "28974d34c44b2e02",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-09_3-pm.md": "eee2e5c51d594669",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-09_9_15-am.md": "9325edf81bad8f5d",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-10_3-pm.md": "1e9a1f1f120490fb",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-10_9_15-am.md": "a91210438c9afd39",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-13_3-pm.md": "d441ee322ffaa921",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-13_9_15-am.md": "8cf9801fd3572607",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-14_3-pm.md": "4b372249cbb5c90e",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-14_9_15-am.md": "9bf1d8885a79f53f",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-15_3-pm.md": "2239bc89306cf8f1",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-15_9_15-am.md": "54ef3c9bda11886e",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-16_3-pm.md": "6cac149218b36251",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-16_9_15-am.md": "f8d8ac94d80e5910",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-17_3-pm.md": "91cc9176e05e3a0c",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-17_9_15-am.md": "8d74e6425e394b33",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-20_3-pm.md": "5d66516896c04bff",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-20_9_15-am.md": "e8c49373e6d55272",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-21_3-pm.md": "1c4b472592d4b9d5",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-21_9_15-am.md": "27c9afa49282a1be",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-22_3-pm.md": "5b11f9d6c9372506",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-22_9_15-am.md": "d44e0577020921a3",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-23_3-pm.md": "aa3e9089c71fb7c2",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-23_9_15-am.md": "5a7a1a36b99b4a81",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-24_3-pm.md": "c1b898f2981a9d3e",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-24_9_15-am.md": "0491874ea9453ac8",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-27_3-pm.md": "c26c9a9f9f8548d3",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-27_9_15-am.md": "493d2f9f56a4bc91",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-28_3-pm.md": "e2d5d2da269be281",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-04-28_9_15-am.md": "efa2f2c605e892f7",
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-05-01_3-pm.md": "73f509a11dc7f3ca",
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-05-01_9_15-am.md": "b0691a0b63f53dfe",
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-05-04_3-pm.md": "ef1ff4d28716757a",
@@ -1098,6 +1353,8 @@
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-07-20_9_15-am.md": "46fd60fb0bb2eede",
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-07-21_3-pm.md": "e9796169f875b5e5",
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-07-21_9_15-am.md": "2539958ca399e5aa",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-07-22_3-pm.md": "cdd3f208d535e7af",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\2026-07-22_9_15-am.md": "2d1171c6d06645f4",
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\Chart Fanatics - STEAL This $100 Million Dollar Trading Strategy (Used by Market Wizards)_subs.md": "142d350edd04c444",
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\Chart Fanatics - Trading LIVE with the #1 Scalper in the WORLD (EXTREME Accuracy)_subs.md": "2f8d1544708bcb70",
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\MENTAL_CLARITY_SEARCH_RESULTS.md": "7fce0cc7dc0edc5b",
@@ -1414,6 +1671,168 @@
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\videos\\2026-06-29_how-to-create-dep-and-momentum-watchlist.md": "5322c94923283ca8",
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\videos\\2026-07-02_framework.md": "c5f750cfb5c34b57",
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\04-Transcripts\\stockbee\\videos\\2026-07-03_what-is-setting-up.md": "b358a465fd5f08a0",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-01-02.md": "50b159cadfb2c7a0",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-01-03.md": "4a75d0236d4b7482",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-01-04.md": "e652640c8604034b",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-01-05.md": "d038e199294e26f2",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-01-08.md": "8b67fc68c3b91af0",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-01-09.md": "e8c12b12c76cff5a",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-01-10.md": "3ff4311722254417",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-01-11.md": "78a9307cff8424de",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-01-12.md": "4641fdb60f934e43",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-01-16.md": "4597762deb672898",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-01-17.md": "d35a0a4d7d749cee",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-01-18.md": "08f12e3be7c4a75c",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-01-19.md": "fcec0ef2803f4825",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-01-22.md": "85e5e397d7c069da",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-01-23.md": "302fbfc3088b81e8",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-01-24.md": "152dd0b9f2d758b4",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-01-25.md": "51c5a6e9bde6da43",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-01-26.md": "389733023a37dd42",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-01-29.md": "a3eb663cf2e32cc4",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-01-30.md": "e4761b3b46099399",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-01-31.md": "3d4ae87925674b2d",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-02-01.md": "4c0a8ec1561cc321",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-02-02.md": "b8fdb8544c34d542",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-02-05.md": "5b9feb4c97f4dbd8",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-02-06.md": "eebc58ec4a0a08b8",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-02-07.md": "e1b66fc98f3f1016",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-02-08.md": "9d6e8bc952ec66d3",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-02-12.md": "478f332e03bb04d2",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-02-13.md": "98bba39545748e90",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-02-14.md": "e41e82d09bf30a84",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-02-15.md": "8605d5c9af196781",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-02-16.md": "b4ee75b49ff9c003",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-02-20.md": "a2e55caf986ff518",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-02-21.md": "93d66d3dc0329033",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-02-22.md": "999b004a194111a8",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-02-26.md": "d4b0d3521e95d0bb",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-02-27.md": "048d4da96633968d",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-02-28.md": "3dd935ad9a64f2bf",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-02-29.md": "4827c4f05768852a",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-07-09.md": "db4c6a5325e1cbf3",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-07-10.md": "bfe605e70ddc158e",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-07-11.md": "6bcc76fd576899fb",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-07-12.md": "1d61c758db071bd7",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-07-15.md": "312e429b11001f1e",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-07-16.md": "e42e1589bc0f116a",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-07-17.md": "add80807623aca65",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-07-18.md": "bd13be02d0b04498",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-07-19.md": "b86c52ddd2aaa192",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-07-22.md": "851d768abc7f5573",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-07-23.md": "a05de943b5d6ed52",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-07-24.md": "8aa193e727da2065",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-07-25.md": "7b1c17836995442e",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-07-26.md": "1c2d19b76f5a217b",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-07-29.md": "415feb1d02dc17e4",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-07-30.md": "f765338acdfccc16",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-07-31.md": "f7edf8f6e1c52c6c",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-08-01.md": "729cbf6c7c521677",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-08-02.md": "45a2857229aeb3e6",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-08-05.md": "b83315388bc4b550",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-08-06.md": "8e45a2609cc3a0cb",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-08-07.md": "40f8b846acae5273",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-08-08.md": "fc34313649384b19",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-08-09.md": "0b4ad009d2886817",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-08-12.md": "5414d191f8c3ac77",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-08-13.md": "995a99f3453c0122",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-08-14.md": "7fa871fc8a5723b6",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-08-19.md": "62b4d5eef04589ca",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-08-20.md": "1e97a37661e6a8d6",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-08-21.md": "eaff21fff9712593",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-08-22.md": "c4607a79bcebd479",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-08-26.md": "c64b5cf9fc4fce1b",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-08-27.md": "60ad200d0e6702ef",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-08-28.md": "db87d5ad2b8935b3",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2024-08-29.md": "540852dd44731631",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-01-02.md": "e15a5a9bbb2f93c6",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-01-03.md": "f096a5eb39e0c03c",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-01-06.md": "fb5d559af9ba4e19",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-01-07.md": "b1b9b7bb9ff3b1b8",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-01-08.md": "5444d4fe0cc90e26",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-01-10.md": "72684fd8ff23d7f3",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-01-13.md": "151b81b6cda41f60",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-01-14.md": "37328e46ef1c04d9",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-01-15.md": "d63cca6d7c5b3943",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-01-16.md": "8b2c41df7358024f",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-01-17.md": "94f8b4e2a58fe8b6",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-01-21.md": "53dce133cf21ee49",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-01-22.md": "e05ec490b21d1253",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-01-23.md": "6973fcb014484287",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-01-24.md": "61f232a84db043ce",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-01-27.md": "b30024ac5f1e334b",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-01-28.md": "258940d6fe190aa3",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-01-29.md": "bbf745d0527b00a4",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-03-03.md": "a50e61b5bd410ba1",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-03-04.md": "e62eed50bb6763b4",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-03-05.md": "b3b8f428dd352d7c",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-03-06.md": "6a802fd5fa78d21a",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-03-07.md": "694e258614ec5dd0",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-03-10.md": "e506c9f888ce6921",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-03-11.md": "93e536f53e48aaf9",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-03-12.md": "e9c941b6193acf09",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-03-13.md": "6942f0082f4d6efc",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-03-14.md": "191f10dc9528a9d2",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-03-17.md": "f23b6f68537f66a9",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-03-18.md": "c6d4e702ca9e598b",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-03-24.md": "4cd960ac416312cd",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-03-25.md": "50c9e81c9ca7022c",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-03-26.md": "3d10ba7a352a70f2",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-03-27.md": "4fe1bff03c5bc045",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-03-28.md": "d44b4d7b09d6c53b",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-03-31.md": "1d2d3fc68ad175df",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-04-01.md": "671d547103341cd0",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-04-02.md": "cde33b68abaebf65",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-04-03.md": "7bb6e49a67830381",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-04-04.md": "77e70cbb7a395c33",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-04-07.md": "b8b1a7ce117e1eea",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-04-08.md": "4d1606a404266e54",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-04-09.md": "dd30919e9114fe51",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-04-10.md": "bdb20504394b9ba9",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-04-11.md": "bfe03a57b018b6a8",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-04-14.md": "40e8a9b275752f3d",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-04-15.md": "0ae536eb368524c0",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-04-16.md": "a5385f0ae8370fb4",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-04-17.md": "9628116f7d6cfaec",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-04-21.md": "93f5524f3a7e6284",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-04-22.md": "d69965612f9c3ea9",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-04-28.md": "cc5ec9cd0f99d4cf",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-04-29.md": "02e3a75bd6a4f7be",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-05-01.md": "c7b6630d0df69359",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-05-02.md": "190ee5218265684f",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-05-05.md": "1cd812f786c9030a",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-05-06.md": "5694a55e2ad86f05",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-05-07.md": "a6fc4a2f20f2b9ea",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-05-08.md": "ebec708c228dbd92",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-05-09.md": "dbd827a1af4ff206",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-05-12.md": "7144bbf14cbba2e0",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-05-13.md": "6976deda7ebe6bb2",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-05-14.md": "7bd0ba49d3907ba6",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-05-15.md": "a3fb9ea70395f2ce",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-05-16.md": "1391a9de7e46f40f",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-05-19.md": "ad91490cebeba94a",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-05-20.md": "72b17c6654b73b47",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-05-21.md": "bcfd3f7f4328c4f8",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-05-22.md": "221b3ce8298d1b09",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-05-23.md": "5b355859fe86cbe9",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-05-27.md": "907bd82d874785af",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-05-28.md": "c3a2376182ebc551",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-05-29.md": "b7faabfd3e6c99da",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-05-30.md": "2da3efecece5e980",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-06-05.md": "5f028e0664177bdc",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-06-06.md": "2626ad39bb493e98",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-06-09.md": "e88318df4c01a4cd",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-06-10.md": "c7da55b82ef0e2b1",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-06-11.md": "cdf987bedc4cdff3",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-06-12.md": "2f1dad6e781c9f61",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-06-13.md": "6f1fcdd591939b7a",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-06-16.md": "cc452aadf8996864",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-06-20.md": "753081263d500f3a",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-06-23.md": "7cfd2b1b22b97bb2",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-06-24.md": "5e796229ed81edd1",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-06-25.md": "9b5f440c3cfec7b8",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-06-26.md": "e91653d73e401929",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2025-06-27.md": "ba3ade9d00da0f74",
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-01-02.md": "ba0796dc9f8c297f",
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-01-05.md": "7d74616985b10fa4",
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-01-06.md": "21b52c9b86274a87",
@@ -1449,6 +1868,45 @@
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-02-25.md": "e4699086a0c8af5a",
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-02-26.md": "5f5416e0ea5b2acd",
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-02-27.md": "950046c12a3bd4bf",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-03-02.md": "268934356f435eb8",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-03-03.md": "cdaec35061f9bab1",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-03-04.md": "049e2bb001a854aa",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-03-05.md": "f6db6fe9bfd6491b",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-03-06.md": "fd0f2ff0e60100e2",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-03-09.md": "172a29a84dbda0b4",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-03-10.md": "2b786dde4a54c731",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-03-11.md": "b9252dae9eb0268e",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-03-12.md": "428faccc2b5e7e10",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-03-13.md": "b9d6c426f4fd5d4f",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-03-16.md": "5874a4706f338a8f",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-03-17.md": "0035b41a19f05024",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-03-18.md": "f5f12338bd136ef1",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-03-19.md": "ac75b1e5e186e65b",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-03-20.md": "331f63ea1c455fc0",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-03-23.md": "4d802b8b259284c9",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-03-25.md": "836ea34e1b88ee74",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-03-26.md": "2815d7fff0fc95cb",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-03-30.md": "422b64c210aeb7c9",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-03-31.md": "658d872693a553cf",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-04-01.md": "1ae85c862357407f",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-04-02.md": "4e021449dfc44907",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-04-06.md": "97130d02cc455861",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-04-07.md": "d16ffb9f4b8cfefa",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-04-08.md": "9a890c64d846f9c0",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-04-09.md": "95f2d086c2e2ec28",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-04-10.md": "749917fd0ae3522d",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-04-13.md": "0ffac2d22085f634",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-04-14.md": "a7651a98d43be69f",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-04-15.md": "978156cc2b94c432",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-04-16.md": "2bb86c378eac707e",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-04-17.md": "87da99507a64c90f",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-04-20.md": "a11164622abddee7",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-04-21.md": "fb5956b892084ceb",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-04-22.md": "fdf1e3709a0c3481",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-04-23.md": "0858c800f53ec85b",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-04-24.md": "19df97f79549f311",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-04-27.md": "92c47de7729a032e",
+    "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-04-28.md": "725d3da4786a94df",
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-05-01.md": "27818f1a83bc004b",
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-05-04.md": "b442a97c63e1d54e",
     "C:\\Users\\msh897\\Documents\\Obsidian\\trading-vault\\06-Daily\\stockbee\\Sessions\\Session-2026-05-05.md": "a978051aafee8682",

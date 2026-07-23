@@ -1,16 +1,16 @@
 ---
 title: "Catalyst"
-date: 2026-07-22
+date: 2026-07-23
 tags: [concepts, wiki, auto-compiled]
-mention_count: 4292
-sources_count: 809
+mention_count: 5420
+sources_count: 1093
 compilation_count: 1
 promote: false
 ---
 
 # Catalyst
 
-*Concepts — compiled from 4292 mentions across 809 sources.*
+*Concepts — compiled from 5420 mentions across 1093 sources.*
 
 ## Mentions
 

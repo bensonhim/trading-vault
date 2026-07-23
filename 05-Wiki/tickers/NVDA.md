@@ -1,16 +1,16 @@
 ---
 title: "NVDA"
-date: 2026-07-22
+date: 2026-07-23
 tags: [tickers, wiki, auto-compiled]
-mention_count: 240
-sources_count: 103
+mention_count: 290
+sources_count: 133
 compilation_count: 1
 promote: false
 ---
 
 # NVDA
 
-*Tickers — compiled from 240 mentions across 103 sources.*
+*Tickers — compiled from 290 mentions across 133 sources.*
 
 ## Mentions
 
@@ -24,6 +24,12 @@ promote: false
 
 > [[../../03-Guides/stockbee/09. Momentum Burst Bearish Guide/09. Momentum Burst Bearish Guide.md|09. Momentum Burst Bearish Guide]]: In bearish markets, individual stocks move in near-perfect correlation with SPY. When SPY drops 1.5%+ in a day, almost all stocks — AMD, NVDA, AMZN, GOOGL — break down simultaneously.
 
+> [[../../04-Transcripts/stockbee/2025-03-05_9-am.md|2025-03-05_9-am]]: In some of these stocks which are in play, like, not necessarily today's stocks in play, but Tesla is in play, NVDA is in play every day.
+
+> [[../../04-Transcripts/stockbee/2025-04-07_10-am.md|2025-04-07_10-am]]: At the moment, 72% of the orders on NVDA are buy orders on Vanguard Total Index Fund 77% are bullish order Tesla is like 68% are bullish orders Amazon is like 60.
+
+> [[../../04-Transcripts/stockbee/2025-06-11_9-am.md|2025-06-11_9-am]]: Then you have, like, you know, basically, TSL, Quebec, NVTS, NVDA, Saksal, QBTS.
+
 > [[../../04-Transcripts/stockbee/2026-01-02_9_15-am.md|2026-01-02_9_15-am]]: NVDA is 4,600,000,000,000.
 
 > [[../../04-Transcripts/stockbee/2026-05-15_9_15-am.md|2026-05-15_9_15-am]]: Do we have more SLV, NVDA, Tesla, DRAM, MicroStrategy AI.
@@ -32,67 +38,61 @@ promote: false
 
 > [[../../04-Transcripts/stockbee/Meetings/meeting_2026-05-15_6ff2ac67-abde-4233-9d31-52e2d88fd0c0_deepgram.md|meeting_2026-05-15_6ff2ac67-abde-4233-9d31-52e2d88fd0c0_deepgram]]: Do we have more SLV, NVDA, Tesla, DRAM, MicroStrategy AI.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-01-02.md|Session-2026-01-02]]: | [[NVDA]] | Gapping up | Already moved, not ideal entry |
+> [[../../06-Daily/stockbee/Sessions/Session-2024-01-02.md|Session-2024-01-02]]: | [[NVDA]] | EP 9M breakdown (short) | People in love with it; best short candidate |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-01-02.md|Session-2026-01-02]]: | AI / Semiconductor | [[NVDA]], [[AMD]], [[CRWV]], Intel, Scan Disk | [[SOXL]] |
+> [[../../06-Daily/stockbee/Sessions/Session-2024-01-18.md|Session-2024-01-18]]: The gap up created FOMO. Members bought NVDA, AVGO, Palo Alto Networks at the open. All faded. Pradeep drank water instead.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-01-02.md|Session-2026-01-02]]: | [[NVDA]] | Extended | ⚠️ Gapping up | Not ideal entry on gap-up day |
+> [[../../06-Daily/stockbee/Sessions/Session-2024-01-18.md|Session-2024-01-18]]: A member mentioned Oracle Financial Services went up 20%+ overnight in India. Pradeep's point: things happen when you buy setups. Was there a setup on NVDA today? No. Oracle Financial Services had a real catalyst.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-01-05.md|Session-2026-01-05]]: | AI / Semiconductor | ✅ Flying | [[NVDA]], [[SOXL]], [[AMD]], Intel, [[CRWV]] |
+> [[../../06-Daily/stockbee/Sessions/Session-2024-01-18.md|Session-2024-01-18]]: - **Fidelity/others**: Manual entry per account → only use trades that don't depend on fast execution (longer holds like NVDA swing)
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-01-06.md|Session-2026-01-06]]: | [[NVDA]] | Extended | ⚠️ Watch | Eventually will break out big |
+> [[../../06-Daily/stockbee/Sessions/Session-2024-01-24.md|Session-2024-01-24]]: 14. **Don't buy extended stocks** — NVDA, CRWD (3rd leg), LRN (+78%), AVGO (+33%) = not worth the risk
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-01-07.md|Session-2026-01-07]]: | [[NVDA]] | Extended | ⚠️ Watch | "At some stage, this will break out and make at least 10-20%" |
+> [[../../06-Daily/stockbee/Sessions/Session-2024-01-25.md|Session-2024-01-25]]: - **Short-term: choppy** — large tech stocks extended (NVDA, semis), pullback likely
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-01-08.md|Session-2026-01-08]]: Third 300+ green day, but with margin compression. T2108 dropped from 57.35 to 53.59. 20% study still over 100 bullish stocks — pullback signal. Markets pulled back from all-time highs, closing mixed. Small caps ([[TNA]], [[IWM]]) closed red. Only mega caps ([[NVDA]], [[AAPL]]) holding up.
+> [[../../06-Daily/stockbee/Sessions/Session-2024-02-02.md|Session-2024-02-02]]: - NVDA now in parabolic move (like Qualcomm in dot-com)
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-01-09.md|Session-2026-01-09]]: [[NVDA]], [[SOXL]], [[TQQ]] all breaking out — the mega caps finally participating.
+> [[../../06-Daily/stockbee/Sessions/Session-2024-02-02.md|Session-2024-02-02]]: - Qualcomm went 2618% — can NVDA do similar? Possible but size limits
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-01-09.md|Session-2026-01-09]]: | [[NVDA]] | EP 9M liquid lava | "First earnings play of the season" |
+> [[../../06-Daily/stockbee/Sessions/Session-2024-02-02.md|Session-2024-02-02]]: 9. **NVDA goes parabolic** — like Qualcomm in dot-com, but all parabolic moves end in buyer exhaustion
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-01-09.md|Session-2026-01-09]]: 5. **The real bosses finally showed up.** NVDA, SOXL, TQQ breaking out means mega caps joining.
+> [[../../06-Daily/stockbee/Sessions/Session-2024-02-06.md|Session-2024-02-06]]: - 9M breakouts having no follow-through (except NVDA/SMCI which are "class by itself")
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-01-14.md|Session-2026-01-14]]: | [[NVDA]] | Follow-through | Volume not there vs. prior move |
+> [[../../06-Daily/stockbee/Sessions/Session-2024-02-06.md|Session-2024-02-06]]: - Nvidia the only real stock in play — Pradeep did a small NVDA trade, closed immediately
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-01-21.md|Session-2026-01-21]]: | [[NVDA]] | Reversal / Fade | Money coming out of big stocks |
+> [[../../06-Daily/stockbee/Sessions/Session-2024-02-06.md|Session-2024-02-06]]: | NVDA | SIPs (day trade only) | Only real stock in play today |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-01-22.md|Session-2026-01-22]]: | [[TSLA]] / [[NVDA]] | Day trade / SIPs | Clean intraday moves |
+> [[../../06-Daily/stockbee/Sessions/Session-2024-02-07.md|Session-2024-02-07]]: - For every SMCI/NVDA, 100 other stocks doing nothing after catalyst
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-01-30.md|Session-2026-01-30]]: 7. **Intel is a broken business** — negative sales growth, piece of crap. NVDA not rallying despite good fundamentals = market telling you something.
+> [[../../06-Daily/stockbee/Sessions/Session-2024-02-07.md|Session-2024-02-07]]: - When asked about Hello (pump stock): "All stocks are pump and dump. NVDA is being pumped like crazy right now."
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-02-06.md|Session-2026-02-06]]: NVDA bouncing but Pradeep not buying:
+> [[../../06-Daily/stockbee/Sessions/Session-2024-02-07.md|Session-2024-02-07]]: - At some point, NVDA will be 70% down — that's the nature of markets
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-02-06.md|Session-2026-02-06]]: - Market didn't reward the NVDA catalyst
+> [[../../06-Daily/stockbee/Sessions/Session-2024-02-14.md|Session-2024-02-14]]: Market sold off on CPI data. Pradeep's assessment: overreaction, not a market top. No 9M breakdowns near highs. Leaders (NVDA, SMCI) didn't even get scratched. Bull market doesn't top with one bad day. Be selective in hot themes: biotech, technology, AI, crypto.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-02-06.md|Session-2026-02-06]]: | NVDA | Avoid | No entry | Reflex bounce, no volume, don't chase |
+> [[../../06-Daily/stockbee/Sessions/Session-2024-02-14.md|Session-2024-02-14]]: 2. **Leaders unscathed** — NVDA, SMCI recovered or kept going
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-02-18.md|Session-2026-02-18]]: | [[NVDA]] | Neutral | Six months sideways, nothing happening |
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-14.md|Session-2025-01-14]]: - "These are all vapor" — LLY, NVDA, QBTS all fugazi
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-02-25.md|Session-2026-02-25]]: ### SA: Cautious — Watching for Follow-Through, NVDA Earnings Tonight
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-27.md|Session-2025-01-27]]: - NVDA -15%, SOXL, MARA, quantum stocks all hammered
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-02-25.md|Session-2026-02-25]]: 300+ green day yesterday. Margins improved but secondary indicators still red. 20% study bullish (2:1). VIX pulled back. Small caps (TNA/IWM) rallied, outperforming. NVDA earnings after close — key event.
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-27.md|Session-2025-01-27]]: - NVDA gap down but volume not extreme — might bounce back first before delayed reaction
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-02-25.md|Session-2026-02-25]]: ### NVDA Earnings: The Big Event
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-27.md|Session-2025-01-27]]: - NVDA gap down — will take time to recover or may not recover for some time
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-02-25.md|Session-2026-02-25]]: 9. **NVDA earnings tonight** = key catalyst for market direction.
+> [[../../06-Daily/stockbee/Sessions/Session-2025-01-27.md|Session-2025-01-27]]: 10. **NVDA gap down -15%** — wait for delayed reaction, might take weeks
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-02-26.md|Session-2026-02-26]]: # NVDA Earnings Day, Short Squeezes vs Real EPs, Don't Worry Be Happy
+> [[../../06-Daily/stockbee/Sessions/Session-2025-03-06.md|Session-2025-03-06]]: Burlington (BURL), MongoDB (MDB), AVGO/Broadcom, Apple (AAPL), Walmart (WMT), Tesla (TSLA), NVDA, Starbucks (SBUX), DoorDash (DASH), MARVEL, Okta (OKTA), GB
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-02-26.md|Session-2026-02-26]]: > "I hope the person who was planning to trade NVDA after hours is still alive. After-hours initial reaction to earnings is not something you have any control over."
+> [[../../06-Daily/stockbee/Sessions/Session-2025-03-07.md|Session-2025-03-07]]: 1. **DeepSeek** changed the AI narrative. NVDA gapped down 16% that day and never recovered. 30+ AI models released since. AI becoming a commodity game. Companies questioning massive capex.
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-02-26.md|Session-2026-02-26]]: ### SA: Cautiously Watching NVDA Earnings Reaction
+> [[../../06-Daily/stockbee/Sessions/Session-2025-03-07.md|Session-2025-03-07]]: AVGO/Broadcom, Tesla (TSLA, down 41% from high), NVDA, Arista (ANET), Netflix (NFLX), PayPal (PYPL), CDNS, Walmart (WMT), Starbucks (SBUX), DoorDash (DASH), MARVEL, MongoDB (MDB), Gap (GPS), Burlington (BURL), CVS, Cilidian Science, AB
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-02-26.md|Session-2026-02-26]]: Another 300+ green day. 65 breakouts working — not bad. Small caps (TNA/IWM) closed green after reversing earlier losses. Tech sector led the rally. NVDA earnings the big event.
+> [[../../06-Daily/stockbee/Sessions/Session-2025-03-10.md|Session-2025-03-10]]: 2. **DeepSeek** changed the AI narrative. NVDA gapped down 16% and never recovered. 30+ AI models released since. AI becoming a commodity game
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-02-26.md|Session-2026-02-26]]: - **NVDA** — stocks in play, will see what happens
+> [[../../06-Daily/stockbee/Sessions/Session-2025-03-10.md|Session-2025-03-10]]: - Someone showed their portfolio: 60% in Tesla, plus NVDA, MSTR
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-02-26.md|Session-2026-02-26]]: ### NVDA Sold Off
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-02-26.md|Session-2026-02-26]]: NVDA sold off after earnings. Market not scared of the sell-off — the rest of the market held up.
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-02-26.md|Session-2026-02-26]]: **NVDA short template**: use AVGO earnings as parallel. AVGO had good earnings, then sold off 13%. Same pattern likely for NVDA.
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-02-26.md|Session-2026-02-26]]: **NVDA short template**: use AVGO earnings as parallel. AVGO had good earnings, then sold off 13%. Same pattern likely for NVDA.
+> [[../../06-Daily/stockbee/Sessions/Session-2025-03-11.md|Session-2025-03-11]]: - Pradeep looked at someone's portfolio: 60% Tesla, plus NVDA, MSTR
 
 ## Related Concepts
 
@@ -108,6 +108,9 @@ promote: false
 - [[../03-Guides/stockbee/20. Stock Selection Guide.md|20. Stock Selection Guide]]
 - [[../03-Guides/stockbee/Sugar-Babies.md|Sugar-Babies]]
 - [[../04-Transcripts/stockbee/15. Start of a Swing Guide/Pradeep Bonde - Start of a Swing Guide-Part 3 - Start of a Swing_deepgram.md|Pradeep Bonde - Start of a Swing Guide-Part 3 - Start of a Swing_deepgram]]
+- [[../04-Transcripts/stockbee/2025-03-05_9-am.md|2025-03-05_9-am]]
+- [[../04-Transcripts/stockbee/2025-04-07_10-am.md|2025-04-07_10-am]]
+- [[../04-Transcripts/stockbee/2025-06-11_9-am.md|2025-06-11_9-am]]
 - [[../04-Transcripts/stockbee/2026-01-02_9_15-am.md|2026-01-02_9_15-am]]
 - [[../04-Transcripts/stockbee/2026-05-15_9_15-am.md|2026-05-15_9_15-am]]
 - [[../04-Transcripts/stockbee/Meetings/meeting_2026-05-15_6ff2ac67-abde-4233-9d31-52e2d88fd0c0_deepgram.md|meeting_2026-05-15_6ff2ac67-abde-4233-9d31-52e2d88fd0c0_deepgram]]
@@ -121,6 +124,3 @@ promote: false
 - [[../06-Daily/stockbee/Sessions/2023/Session-2023-12-20.md|Session-2023-12-20]]
 - [[../06-Daily/stockbee/Sessions/2023/Session-2023-12-21.md|Session-2023-12-21]]
 - [[../06-Daily/stockbee/Sessions/2023/Session-2023-12-26.md|Session-2023-12-26]]
-- [[../06-Daily/stockbee/Sessions/2023/Session-2023-12-28.md|Session-2023-12-28]]
-- [[../06-Daily/stockbee/Sessions/2024/Session-2024-01-02.md|Session-2024-01-02]]
-- [[../06-Daily/stockbee/Sessions/2024/Session-2024-01-03.md|Session-2024-01-03]]

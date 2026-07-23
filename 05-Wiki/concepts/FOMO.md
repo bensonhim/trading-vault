@@ -1,16 +1,16 @@
 ---
 title: "FOMO"
-date: 2026-07-22
+date: 2026-07-23
 tags: [concepts, wiki, auto-compiled]
-mention_count: 168
-sources_count: 97
+mention_count: 297
+sources_count: 155
 compilation_count: 1
 promote: false
 ---
 
 # FOMO
 
-*Concepts — compiled from 168 mentions across 97 sources.*
+*Concepts — compiled from 297 mentions across 155 sources.*
 
 ## Mentions
 
