@@ -1,28 +1,28 @@
 ---
-title: "Daily Trading Radar — 2025-01-14"
-date: 2025-01-14
+title: "Daily Trading Radar — 2025-05-02"
+date: 2025-05-02
 tags: [trading-radar, stockbee, pradeep-bonde, daily-report]
-data_date: 2025-01-13
+data_date: 2025-05-01
 ---
 
-# Daily Trading Radar — 2025-01-14
+# Daily Trading Radar — 2025-05-02
 
 ## 1. Market Regime — LLM Judge Verdict
 
 > [!caution] **RANGE_BOUND** — Action: **SIPs_ONLY**
 >
-> - **20% Study (bullish):** 17
-> - **20% Study (bearish):** 80
-> - **T2108:** 22.0%
-> - **Net Primary:** -193
-> - **Breakouts:** 188 | **Breakdowns:** 331
-> - **Follow-through:** 3d=27.2% 5d=9.6% (FAILING)
+> - **20% Study (bullish):** 28
+> - **20% Study (bearish):** 20
+> - **T2108:** 38.3%
+> - **Net Primary:** -556
+> - **Breakouts:** 259 | **Breakdowns:** 165
+> - **Follow-through:** 3d=50.8% 5d=48.8% (OK)
 >
-> - 5-day ratio 0.67 < 0.8
-> - Monthly 25% ratio 0.28 < 0.8
-> - TI65 bullish universe 92 < 800 (market losing momentum)
-> - TI65 young momentum 3 < 30 (few new trends starting)
-> - TI65 bearish/bullish ratio high: 60/92
+> - Former leader rolling over: GNOM (genomics)
+> - Monthly 25% ratio 0.74 < 0.8
+> - TI65 bullish universe 445 < 800 (market losing momentum)
+> - TI65 bearish/bullish ratio high: 710/445
+> - 20% study at 28 (< 30) = funds not aggressively buying, breakouts unlikely to follow through
 
 ---
 
@@ -30,32 +30,31 @@ data_date: 2025-01-13
 
 ### Primary Indicators
 
-| Indicator | 2025-01-13 | 2025-01-13 | 2025-01-10 | 2025-01-10 | 2025-01-08 | Trend |
+| Indicator | 2025-05-01 | 2025-05-01 | 2025-04-30 | 2025-04-30 | 2025-04-29 | Trend |
 |-----------|-------|-------|-------|-------|-------|-------|
-| Net Primary | -193 | -193 | -159 | -159 | +10 | — |
-| T2108 | 21.99% | 21.99% | 20.41% | 20.41% | 22.74% | — |
-| Breakouts | 188 | 188 | 176 | 176 | 114 | — |
-| Breakdowns | 331 | 331 | 486 | 486 | 339 | — |
-| BO:BD Ratio | 0.57 | 0.57 | 0.36 | 0.36 | 0.34 | — |
+| Net Primary | -556 | -556 | -624 | -624 | -587 | — |
+| T2108 | 38.32% | 38.32% | 36.49% | 36.49% | 38.46% | — |
+| Breakouts | 259 | 259 | 223 | 223 | 194 | — |
+| Breakdowns | 165 | 165 | 228 | 228 | 106 | — |
+| BO:BD Ratio | 1.57 | 1.57 | 0.98 | 0.98 | 1.83 | — |
 
 ### Secondary Indicators
 
-| Indicator | 2025-01-13 | Signal | Interpretation |
+| Indicator | 2025-05-01 | Signal | Interpretation |
 |-----------|---------|--------|----------------|
-| Monthly 25% Up | 41 | Normal | Stocks up 25%+ in a month |
-| Monthly 25% Down | 148 | Normal | Stocks down 25%+ in a month |
-| Monthly 25% Ratio | 0.28
+| Monthly 25% Up | 64 | Normal | Stocks up 25%+ in a month |
+| Monthly 25% Down | 87 | Normal | Stocks down 25%+ in a month |
+| Monthly 25% Ratio | 0.74
 Below 1.0 | Bearish tilt |
-| Fib 13% Up (34d) | 996 | Normal | Stocks up 13%+ in 34 days |
-| Fib 13% Down (34d) | 2283 | High | Stocks down 13%+ in 34 days |
-| Fib 13% Ratio | 0.44
-Below 1.0 | Bearish medium-term |
-| 5-Day Ratio | 0.67 | Below 1.0 | Short-term weakness |
-| 10-Day Ratio | 1.19 | Above 1.0 | Bullish |
+| Fib 13% Up (34d) | 2137 | High | Stocks up 13%+ in 34 days |
+| Fib 13% Down (34d) | 1461 | Normal | Stocks down 13%+ in 34 days |
+| Fib 13% Ratio | 1.46
+Above 1.0 | Bullish medium-term |
+| 5-Day Ratio | 1.39 | Above 1.0 | Short-term bullish |
+| 10-Day Ratio | 2.14 | Above 1.0 | Bullish |
 
 > [!warning] Secondary Indicator Warnings
 
-- 5-day ratio below 0.8 — short-term breakdown pressure
 - Monthly 25% ratio below 0.8 — more stocks down 25%+ than up
 
 
@@ -63,13 +62,13 @@ Below 1.0 | Bearish medium-term |
 
 | Metric | Value | Signal |
 |--------|-------|--------|
-| Stocks up 20%+ (5d) | 17 | ⚠️ Low — breakouts unlikely to follow through |
-| Stocks down 20%+ (5d) | 80 | Oversold bounce possible |
+| Stocks up 20%+ (5d) | 28 | ⚠️ Low — breakouts unlikely to follow through |
+| Stocks down 20%+ (5d) | 20 | Normal |
 
 > [!warning] Scan Suppression Active: SOS, DEP, ANTS
-> 20% study at 17 — breakouts unlikely to follow through in this environment.
+> 20% study at 28 — breakouts unlikely to follow through in this environment.
 
-**Breakout Follow-Through (last 10 days):** 3d=27.2% 5d=9.6% [FAILING]
+**Breakout Follow-Through (last 10 days):** 3d=50.8% 5d=48.8% [OK]
 
 > When 5-day follow-through < 30%, breakouts are systematically failing. Pradeep: 'Just see what happened to breakouts from yesterday, and did they follow through.'
 
@@ -77,11 +76,32 @@ Below 1.0 | Bearish medium-term |
 
 ## 3. Sector Relative Strength
 
+**Leading Sector:** SMH (semiconductors)
+RS_20d: 0.78 | RS_65d: 1.60
+
+> [!warning] Former Leader Rolling Over
+> GNOM (genomics)
+
+### Sector RS Heatmap (grouped by theme, top 10)
+
+| Rank | Ticker | Theme | RS_20d | RS_65d | ETF 20d | SPY 20d | Excess | Status |
+|------|--------|-------|--------|--------|---------|---------|--------|--------|
+| 1 | XOP | oil_gas_e&p | 14.67 | 2.38 | -15.7% | -1.1% | -14.7% |  |
+| 2 | XLV | healthcare_broad | 4.95 | 0.87 | -5.3% | -1.1% | -4.2% |  |
+| 3 | ITB | home_construction | 4.57 | 2.08 | -4.9% | -1.1% | -3.8% |  |
+| 4 | XLB | materials | 3.75 | 0.75 | -4.0% | -1.1% | -2.9% |  |
+| 5 | SOXX | semiconductors | 2.90 | 1.89 | -3.1% | -1.1% | -2.0% |  |
+| 6 | XLF | financials_broad | 2.61 | 0.64 | -2.8% | -1.1% | -1.7% |  |
+| 7 | XLY | consumer_discretionary | 2.28 | 1.92 | -2.4% | -1.1% | -1.4% |  |
+| 8 | DRIV | ev_automotive | 2.27 | 1.49 | -2.4% | -1.1% | -1.4% |  |
+| 9 | XLRE | real_estate | 1.46 | -0.08 | -1.6% | -1.1% | -0.5% |  |
+| 10 | IBB | biotech_broad | 1.41 | 1.30 | -1.5% | -1.1% | -0.4% |  |
+
 ---
 
 ## 5. Trade Ideas
 
-### SIPs — Stocks in Play (30 found, 20 fresh catalyst — top 15)
+### SIPs — Stocks in Play (30 found, 30 fresh catalyst — top 15)
 
 > [!info] Pradeep: 'When nothing else works, SIPs are the only thing that works.'
 > Stocks with fresh catalyst (earnings, news, partnerships) + volume. Day trade / 1-2 day swing.
@@ -89,21 +109,21 @@ Below 1.0 | Bearish medium-term |
 
 | Ticker | Gap% | Change% | Volume | 5d Move | Flags |
 |--------|------|---------|--------|---------|-------|
-| CVS | +4.9% | +7.3% | 25,668,839 | +13% | LARGE-CAP |
-| AEO | +5.1% | -4.5% | 7,493,348 | -9% | fresh |
-| OPCH | +14.6% | +15.6% | 5,928,437 | +18% | fresh |
-| DXCM | +5.5% | +2.7% | 5,520,300 | -2% | fresh |
-| ATEC | +4.3% | +9.1% | 5,132,734 | +16% | fresh |
-| OPFI | +7.5% | +4.8% | 3,188,600 | +13% | fresh |
-| TXG | +5.3% | +0.8% | 2,992,700 | +1% | fresh |
-| CLMT | +4.1% | +1.1% | 2,559,574 | -7% | fresh |
-| ARQT | +8.5% | -1.3% | 2,323,438 | -7% | fresh |
-| JUNS | +8.8% | -2.7% | 2,303,604 | -2% | fresh |
-| HUM | +4.8% | +6.8% | 1,989,194 | +9% | fresh |
-| VINC | +5.0% | -5.8% | 1,960,832 | -22% | fresh |
-| NTRA | +4.2% | -3.3% | 1,734,187 | +1% | fresh |
-| HHH | +8.2% | +9.5% | 1,525,606 | +3% | fresh |
-| LZ | +4.5% | +4.8% | 1,486,500 | +2% | fresh |
+| HOOD | +4.1% | -5.1% | 88,530,700 | -3% | LARGE-CAP |
+| BBAI | +4.4% | -2.0% | 75,383,100 | +15% | fresh |
+| MARA | +4.2% | +5.1% | 61,180,734 | +0% | fresh |
+| MSFT | +9.1% | +7.6% | 58,938,100 | +10% | LARGE-CAP |
+| WULF | +5.4% | +16.6% | 48,986,130 | +7% | fresh |
+| META | +7.8% | +4.2% | 31,159,033 | +7% | LARGE-CAP |
+| AUR | +5.5% | -5.0% | 24,769,929 | +1% | fresh |
+| CLSK | +5.6% | +6.1% | 23,177,309 | -2% | fresh |
+| RBLX | +4.6% | +2.9% | 21,650,106 | +5% | fresh |
+| CVS | +8.7% | +4.1% | 20,880,100 | +5% | LARGE-CAP |
+| KSS | +6.2% | +7.6% | 19,549,012 | +3% | fresh |
+| IREN | +4.8% | +4.3% | 19,118,000 | +1% | fresh |
+| HST | +5.0% | +3.0% | 17,651,445 | +4% | fresh |
+| ANET | +6.7% | +6.8% | 16,458,022 | +17% | LARGE-CAP |
+| VRT | +7.3% | +8.4% | 16,440,700 | +10% | LARGE-CAP |
 
 ### FADE MODE Active (20% study < 35)
 
@@ -167,9 +187,9 @@ Below 1.0 | Bearish medium-term |
 
 | Date | Similarity | Pradeep's Call | Outcome |
 |------|-----------|----------------|---------|
-| 2025-01-10 | 61% | bearish/SHORTS_ONLY | SPY rose 2.9% over 5 days |
-| 2025-01-10 | 61% | bearish/SHORTS_ONLY | SPY rose 2.9% over 5 days |
-| 2025-01-08 | 46% | bullish/FULL_LONG | SPY rose 0.4% over 5 days |
+| 2025-02-26 | 71% | bullish/FULL_LONG | SPY fell -1.9% over 5 days |
+| 2025-02-26 | 71% | bullish/FULL_LONG | SPY fell -1.9% over 5 days |
+| 2025-02-24 | 52% | bearish/SHORTS_ONLY | SPY fell -2.2% over 5 days |
 
 ---
 
@@ -179,7 +199,7 @@ Below 1.0 | Bearish medium-term |
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -47.5% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| PEGA | -46.0% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
 
 ---
 
@@ -188,10 +208,11 @@ Below 1.0 | Bearish medium-term |
 - [ ] **RANGE_BOUND / SIPs ONLY** — breakouts unlikely to follow through
 - [ ] No swing longs — SIPs and intraday only
 - [ ] Pradeep: 'My wallet is closed. Nothing to do.'
-- [ ] **Focus on SIPs** — 20 fresh catalyst stocks for day trade
+- [ ] **Focus on SIPs** — 30 fresh catalyst stocks for day trade
 - [ ] Monitor 1 short-side setups
 - [ ] Fading breakouts may be better than buying breakouts
 - [ ] Watch for capitulation signal (T2108 < 10%)
+- [ ] Leading sector: SMH — watch for setups in this sector
 
 ---
 

@@ -1,11 +1,11 @@
 ---
-title: "Daily Trading Radar — 2025-01-08"
-date: 2025-01-08
+title: "Daily Trading Radar — 2025-05-05"
+date: 2025-05-05
 tags: [trading-radar, stockbee, pradeep-bonde, daily-report]
-data_date: 2025-01-07
+data_date: 2025-05-02
 ---
 
-# Daily Trading Radar — 2025-01-08
+# Daily Trading Radar — 2025-05-05
 
 ## 1. Market Regime — LLM Judge Verdict
 
@@ -13,14 +13,14 @@ data_date: 2025-01-07
 >
 > - **20% Study (bullish):** 0
 > - **20% Study (bearish):** 0
-> - **T2108:** 23.9%
-> - **Net Primary:** +237
-> - **Breakouts:** 179 | **Breakdowns:** 173
-> - **Follow-through:** 3d=39.2% 5d=35.4% (OK)
+> - **T2108:** 50.0%
+> - **Net Primary:** -221
+> - **Breakouts:** 495 | **Breakdowns:** 111
+> - **Follow-through:** 3d=51.7% 5d=52.0% (OK)
 >
-> - Monthly 25% ratio 0.75 < 0.8
-> - TI65 bullish universe 108 < 800 (market losing momentum)
-> - TI65 young momentum 6 < 30 (few new trends starting)
+> - TI65 bullish universe 483 < 800 (market losing momentum)
+> - TI65 bearish/bullish ratio high: 641/483
+> - Secondary indicators weakening (5d/10d ratio < 0.8 or breakdown spike) — downgrade to REDUCE_SIZE
 
 ---
 
@@ -28,42 +28,56 @@ data_date: 2025-01-07
 
 ### Primary Indicators
 
-| Indicator | 2025-01-07 | 2025-01-07 | 2025-01-06 | 2025-01-06 | 2025-01-03 | Trend |
+| Indicator | 2025-05-02 | 2025-05-02 | 2025-05-01 | 2025-05-01 | 2025-04-30 | Trend |
 |-----------|-------|-------|-------|-------|-------|-------|
-| Net Primary | +237 | +237 | +339 | +339 | +321 | — |
-| T2108 | 23.89% | 23.89% | 24.84% | 24.84% | 24.89% | — |
-| Breakouts | 179 | 179 | 374 | 374 | 476 | — |
-| Breakdowns | 173 | 173 | 206 | 206 | 62 | — |
-| BO:BD Ratio | 1.03 | 1.03 | 1.82 | 1.82 | 7.68 | — |
+| Net Primary | -221 | -221 | -556 | -556 | -624 | — |
+| T2108 | 50.02% | 50.02% | 38.32% | 38.32% | 36.49% | — |
+| Breakouts | 495 | 495 | 259 | 259 | 223 | — |
+| Breakdowns | 111 | 111 | 165 | 165 | 228 | — |
+| BO:BD Ratio | 4.46 | 4.46 | 1.57 | 1.57 | 0.98 | — |
 
 ### Secondary Indicators
 
-| Indicator | 2025-01-07 | Signal | Interpretation |
+| Indicator | 2025-05-02 | Signal | Interpretation |
 |-----------|---------|--------|----------------|
-| Monthly 25% Up | 74 | Normal | Stocks up 25%+ in a month |
-| Monthly 25% Down | 99 | Normal | Stocks down 25%+ in a month |
-| Monthly 25% Ratio | 0.75
-Below 1.0 | Bearish tilt |
-| Fib 13% Up (34d) | 1329 | Normal | Stocks up 13%+ in 34 days |
-| Fib 13% Down (34d) | 1741 | High | Stocks down 13%+ in 34 days |
-| Fib 13% Ratio | 0.76
-Below 1.0 | Bearish medium-term |
-| 5-Day Ratio | 2.58 | Above 1.0 | Short-term bullish |
-| 10-Day Ratio | 2.50 | Above 1.0 | Bullish |
-
-> [!warning] Secondary Indicator Warnings
-
-- Monthly 25% ratio below 0.8 — more stocks down 25%+ than up
+| Monthly 25% Up | 205 | Elevated | Stocks up 25%+ in a month |
+| Monthly 25% Down | 43 | Normal | Stocks down 25%+ in a month |
+| Monthly 25% Ratio | 4.77
+Above 1.0 | Bullish |
+| Fib 13% Up (34d) | 2500 | High | Stocks up 13%+ in 34 days |
+| Fib 13% Down (34d) | 1276 | Normal | Stocks down 13%+ in 34 days |
+| Fib 13% Ratio | 1.96
+Above 1.0 | Bullish medium-term |
+| 5-Day Ratio | 1.84 | Above 1.0 | Short-term bullish |
+| 10-Day Ratio | 2.26 | Above 1.0 | Bullish |
 
 ---
 
 ## 3. Sector Relative Strength
 
+**Leading Sector:** BLOK (blockchain)
+RS_20d: 3.03 | RS_65d: 1.79
+
+### Sector RS Heatmap (grouped by theme, top 10)
+
+| Rank | Ticker | Theme | RS_20d | RS_65d | ETF 20d | SPY 20d | Excess | Status |
+|------|--------|-------|--------|--------|---------|---------|--------|--------|
+| 1 | BLOK | blockchain | 3.03 | 1.79 | +17.0% | +5.6% | +11.4% | LEADING |
+| 2 | SMH | semiconductors | 2.14 | 1.54 | +12.0% | +5.6% | +6.4% |  |
+| 3 | XLK | technology_broad | 1.95 | 1.15 | +10.9% | +5.6% | +5.3% |  |
+| 4 | SKYY | cloud_computing | 1.89 | 2.89 | +10.6% | +5.6% | +5.0% |  |
+| 5 | PPA | aerospace_defense | 1.79 | -0.97 | +10.0% | +5.6% | +4.4% |  |
+| 6 | QTUM | quantum_computing | 1.78 | 0.71 | +10.0% | +5.6% | +4.4% |  |
+| 7 | PAVE | infrastructure | 1.78 | 1.03 | +9.9% | +5.6% | +4.3% |  |
+| 8 | BUG | cybersecurity | 1.51 | -0.04 | +8.5% | +5.6% | +2.9% |  |
+| 9 | FINX | fintech | 1.30 | 2.38 | +7.3% | +5.6% | +1.7% |  |
+| 10 | XBI | biotech_small | 1.23 | 1.77 | +6.9% | +5.6% | +1.3% |  |
+
 ---
 
 ## 5. Trade Ideas
 
-### SIPs — Stocks in Play (30 found, 24 fresh catalyst — top 15)
+### SIPs — Stocks in Play (30 found, 30 fresh catalyst — top 15)
 
 > [!info] Pradeep: 'When nothing else works, SIPs are the only thing that works.'
 > Stocks with fresh catalyst (earnings, news, partnerships) + volume. Day trade / 1-2 day swing.
@@ -71,21 +85,21 @@ Below 1.0 | Bearish medium-term |
 
 | Ticker | Gap% | Change% | Volume | 5d Move | Flags |
 |--------|------|---------|--------|---------|-------|
-| GETY | +44.0% | +24.1% | 65,771,442 | +0% | fresh |
-| MU | +4.2% | +2.7% | 53,570,014 | +0% | LARGE-CAP |
-| CVNA | +5.7% | +5.0% | 45,598,500 | +0% | LARGE-CAP |
-| FUBO | +7.3% | +7.9% | 31,999,635 | +0% | fresh |
-| ENVX | +13.6% | +15.0% | 21,674,200 | +0% | fresh |
-| XTIA | +138.6% | +29.7% | 10,672,918 | +0% | fresh |
-| NUVB | +4.2% | +14.4% | 7,882,030 | +0% | fresh |
-| LAC | +4.1% | +0.6% | 6,323,000 | +0% | fresh |
-| SSTK | +23.2% | +14.8% | 5,091,805 | +0% | fresh |
-| NRXP | +8.3% | +32.8% | 4,618,600 | +0% | fresh |
-| ANVS | +4.1% | -5.6% | 4,282,300 | -1% | fresh |
-| CRNT | +4.0% | -2.2% | 3,811,805 | +0% | fresh |
-| ROKU | +5.4% | -2.4% | 3,435,413 | +0% | fresh |
-| DHT | +5.0% | +7.3% | 3,331,102 | +0% | fresh |
-| ZENA | +13.2% | +4.0% | 2,244,128 | +0% | fresh |
+| ASTS | +5.8% | +14.8% | 19,989,000 | +11% | fresh |
+| CART | +9.3% | +13.6% | 12,383,607 | +8% | fresh |
+| DXCM | +7.1% | +16.2% | 10,696,540 | +14% | fresh |
+| ZETA | +6.1% | +1.4% | 10,281,018 | +4% | fresh |
+| W | +5.3% | +7.8% | 10,072,900 | +15% | fresh |
+| HSAI | +6.6% | +5.4% | 7,945,600 | +20% | fresh |
+| UPST | +8.0% | +5.0% | 7,645,343 | +3% | fresh |
+| TWLO | +4.9% | +2.3% | 7,165,000 | +5% | fresh |
+| APP | +4.5% | +10.1% | 6,998,000 | +11% | LARGE-CAP |
+| FLR | +5.0% | -0.0% | 5,569,137 | +1% | fresh |
+| UAMY | +4.0% | +5.6% | 5,535,300 | +0% | fresh |
+| FIVN | +7.7% | -1.0% | 5,035,527 | -1% | fresh |
+| FTAI | +7.6% | +3.5% | 4,384,739 | -14% | fresh |
+| FIVE | +12.1% | +11.9% | 4,346,440 | +12% | fresh |
+| OLN | +5.1% | +2.5% | 4,142,900 | +1% | fresh |
 
 ### SOS Breakout Candidates (0 found — top 20)
 
@@ -149,9 +163,9 @@ Below 1.0 | Bearish medium-term |
 
 | Date | Similarity | Pradeep's Call | Outcome |
 |------|-----------|----------------|---------|
-| 2025-01-06 | 52% | cautious/REDUCE_SIZE | SPY fell -2.2% over 5 days |
-| 2025-01-06 | 52% | cautious/REDUCE_SIZE | SPY fell -2.2% over 5 days |
-| 2025-01-03 | 48% | bullish/FULL_LONG | SPY fell -1.8% over 5 days |
+| 2025-02-11 | 51% | bullish/REDUCE_SIZE | SPY rose 1.3% over 5 days |
+| 2025-02-11 | 51% | bullish/REDUCE_SIZE | SPY rose 1.3% over 5 days |
+| 2025-02-13 | 50% | bullish/FULL_LONG | SPY fell -1.6% over 5 days |
 
 ---
 
@@ -161,7 +175,7 @@ Below 1.0 | Bearish medium-term |
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -46.9% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| PEGA | -46.0% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
 
 ---
 
@@ -170,9 +184,10 @@ Below 1.0 | Bearish medium-term |
 - [ ] **REDUCE SIZE** — selective setups only
 - [ ] No DEP candidates — no limit orders to place
 - [ ] ANTS suppressed in this market — no BSLO orders
-- [ ] **Focus on SIPs** — 24 fresh catalyst stocks for day trade
+- [ ] **Focus on SIPs** — 30 fresh catalyst stocks for day trade
 - [ ] Sell into strength on existing positions
 - [ ] Tighten stops to breakeven
+- [ ] Leading sector: BLOK — watch for setups in this sector
 
 ---
 

@@ -11,8 +11,8 @@ data_date: 2025-01-10
 
 > [!caution] **RANGE_BOUND** — Action: **SIPs_ONLY**
 >
-> - **20% Study (bullish):** 25
-> - **20% Study (bearish):** 42
+> - **20% Study (bullish):** 0
+> - **20% Study (bearish):** 0
 > - **T2108:** 20.4%
 > - **Net Primary:** -159
 > - **Breakouts:** 176 | **Breakdowns:** 486
@@ -58,89 +58,9 @@ Below 1.0 | Bearish medium-term |
 - Monthly 25% ratio below 0.8 — more stocks down 25%+ than up
 - Breakdown spike: 486 vs 176 (ratio 0.36)
 
-
-> [!abstract] 20% Study (Pradeep's #1 SA Signal)
-
-| Metric | Value | Signal |
-|--------|-------|--------|
-| Stocks up 20%+ (5d) | 25 | ⚠️ Low — breakouts unlikely to follow through |
-| Stocks down 20%+ (5d) | 42 | Normal |
-
-> [!warning] Scan Suppression Active: SOS, DEP, ANTS
-> 20% study at 25 — breakouts unlikely to follow through in this environment.
-
-**Breakout Follow-Through (last 10 days):** 3d=37.9% 5d=15.6% [FAILING]
-
-> When 5-day follow-through < 30%, breakouts are systematically failing. Pradeep: 'Just see what happened to breakouts from yesterday, and did they follow through.'
-
-
-> [!danger] SELLING SPREADING — Selling spreading to 12 sectors: Unknown (11->175), Financial Services (0->131), Healthcare (0->338), Consumer Cyclical (0->64), Communication Services (0->38), Industrials (0->96), Technology (2->136), Real Estate (0->32), Energy (0->20), Utilities (0->12), Basic Materials (0->22), Consumer Defensive (0->36)
-> Pradeep: 'Selling is going to spread to the other stocks which are holding up.'
-
 ---
 
 ## 3. Sector Relative Strength
-
----
-
-## 4b. TI65 Trend Intensity
-
-> [!info] **TI65 = AVGC7 / AVGC65** — absolute momentum indicator (Pradeep).
-> ≥1.05 = bullish velocity, ≤0.95 = bearish velocity, 0.95–1.05 = neutral.
-> C65 = days in bullish TI65 (last 100). C65 ≤ 10 = **young momentum** (highest R/R).
-
-| Universe | Count | Notes |
-|----------|-------|-------|
-| Bullish (≥1.05, vol≥100K) | 99 | Active uptrends |
-| Bearish (≤0.95, vol≥1M) | 55 | Active downtrends (short universe) |
-| Bearish (≤0.95, vol≥100K) | 148 | Wider bearish universe |
-| Neutral | 10556 | No clear trend |
-| **Young momentum** (C65 ≤ 10) | **5** | **First 10 days of bullish TI65 — highest reward/risk** |
-| Total scanned | 11076 | All tickers with ≥65 days history |
-
-### Young Momentum — TI65 Bullish, sorted by C65 ascending (20 shown, top 10)
-
-| Ticker | TI65 | C65 | D65 | C/C7 | Change% | Close | Volume |
-|--------|------|-----|-----|------|---------|-------|--------|
-| AIMD | 1.24 | 4 | 85 | 1.564 | +23.7% | $3.55 | 3,319,265 |
-| ALGM | 1.09 | 4 | 63 | 1.064 | -3.0% | $22.96 | 1,655,820 |
-| BDMD | 2.34 | 5 | 63 | 8.438 | +15.8% | $8.86 | 359,412 |
-| ARBE | 1.57 | 5 | 51 | 1.781 | +9.4% | $3.74 | 20,492,945 |
-| 3OIL.L | 1.15 | 5 | 72 | 1.167 | +5.6% | $33.35 | 148,790 |
-| AZTA | 1.11 | 12 | 63 | 1.035 | -0.2% | $51.70 | 426,915 |
-| 3NGL.L | 1.27 | 13 | 75 | 1.110 | +6.2% | $21.36 | 237,612 |
-| ASUR | 1.11 | 16 | 0 | 1.196 | -0.7% | $11.25 | 119,400 |
-| AVL | 1.36 | 18 | 13 | 0.900 | -4.5% | $26.30 | 257,400 |
-| BA | 1.09 | 18 | 45 | 0.974 | +0.1% | $172.00 | 7,556,800 |
-
-### TI65 Anticipation — Bullish + ±0.4% narrow range day (5 candidates, top 20)
-
-> Stocks with established bullish momentum having a flat day — likely breakout setup.
-
-| Ticker | TI65 | C65 | C/C7 | Change% | Close | Volume |
-|--------|------|-----|------|---------|-------|--------|
-| BA | 1.09 | 18 | 0.974 | +0.14% | $172.00 | 7,556,800 |
-| ARQ | 1.05 | 50 | 0.871 | -0.16% | $6.30 | 374,100 |
-| AZTA | 1.11 | 12 | 1.035 | -0.21% | $51.70 | 426,915 |
-| BB | 1.41 | 32 | 1.060 | +0.25% | $4.06 | 20,872,730 |
-| BKE | 1.06 | 71 | 0.985 | +0.35% | $43.44 | 566,200 |
-
-### TI65 Pullback Scan — Bullish, sorted by C/C7 ascending (20 shown, top 10)
-
-> Pradeep: top of list = reversals (skip), middle = orderly pullbacks (**buy**), bottom = extended (skip).
-
-| Ticker | TI65 | C65 | C/C7 | Change% | Close | Volume |
-|--------|------|-----|------|---------|-------|--------|
-| ARQQ | 1.96 | 40 | 0.506 | -10.9% | $21.92 | 836,400 |
-| BKYI | 1.51 | 24 | 0.630 | +4.2% | $15.00 | 431,680 |
-| AMST | 1.20 | 38 | 0.667 | +23.3% | $3.33 | 850,432 |
-| BMR | 1.31 | 20 | 0.670 | -4.7% | $3.88 | 199,235 |
-| AISP | 1.67 | 37 | 0.670 | +1.5% | $4.62 | 1,525,200 |
-| BBAI | 1.61 | 78 | 0.674 | -2.4% | $3.24 | 22,945,400 |
-| AENT | 1.73 | 76 | 0.758 | -18.5% | $7.56 | 111,843 |
-| ALGS | 1.82 | 55 | 0.833 | -12.2% | $33.71 | 670,100 |
-| ATOM | 2.04 | 61 | 0.850 | -7.5% | $10.97 | 1,349,811 |
-| ARQ | 1.05 | 50 | 0.871 | -0.2% | $6.30 | 374,100 |
 
 ---
 
@@ -170,16 +90,10 @@ Below 1.0 | Bearish medium-term |
 | DHT | +5.4% | +6.6% | 2,775,928 | +11% | fresh |
 | PRM | +5.1% | +5.4% | 2,509,900 | -0% | fresh |
 
-### FADE Candidates — Yesterday's Failing Breakouts (1)
+### SOS Breakout Candidates (0 found — top 20)
 
-> [!warning] FADE MODE — 20% study < 35. Breakouts not following through.
-> These stocks broke out yesterday (+4%) but are failing today. Short on bounce or breakdown.
-> Pradeep: 'Fading breakouts is a better strategy than buying breakouts here.'
-
-| Ticker | Yesterday BO Close | Today Close | Fail % | Volume |
-|--------|-------------------|-------------|--------|--------|
-| FWRG.L | $582.10 | $553.65 | -4.9% | 348,710 |
-
+| # | Ticker | Change% | Volume | Two Lynch | Leg | Priority |
+|---|--------|---------|--------|-----------|-----|----------|
 
 ### DEP Candidates (0 found)
 
@@ -212,25 +126,25 @@ Below 1.0 | Bearish medium-term |
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
 | 1 | SBET | 9 | 5 | 38 | expanded |
-| 2 | RUN | 9 | 4 | 8 | expanded |
-| 3 | OKLO | 9 | 3 | 91 | core |
-| 4 | IREN | 8 | 3 | 99 | expanded |
-| 5 | QUBT | 8 | 3 | 9 | expanded |
-| 6 | SMCI | 8 | 3 | 74 | expanded |
-| 7 | QBTS | 7 | 3 | 71 | expanded |
-| 8 | TSLL | 7 | 3 | 81 | expanded |
-| 9 | AUR | 7 | 2 | 48 | core |
-| 10 | HIMS | 7 | 2 | 9 | expanded |
-| 11 | MP | 7 | 2 | 4 | expanded |
-| 12 | NVTS | 7 | 2 | 8 | expanded |
-| 13 | PTIR | 7 | 2 | 5 | expanded |
-| 14 | RXRX | 7 | 2 | 9 | expanded |
-| 15 | TMC | 7 | 2 | 6 | expanded |
-| 16 | AMPX | 6 | 4 | 9 | expanded |
-| 17 | CRCL | 6 | 4 | 8 | expanded |
-| 18 | AMD | 6 | 3 | 7 | core |
-| 19 | BBAI | 6 | 3 | 7 | core |
-| 20 | CVNA | 6 | 3 | 7 | expanded |
+| 2 | AMDL | 9 | 4 | 9 | core |
+| 3 | IREN | 9 | 4 | 99 | expanded |
+| 4 | OKLO | 9 | 4 | 91 | core |
+| 5 | RIOT | 9 | 4 | 8 | expanded |
+| 6 | RUN | 9 | 4 | 8 | expanded |
+| 7 | TSLL | 9 | 4 | 81 | expanded |
+| 8 | CLSK | 9 | 3 | 9 | expanded |
+| 9 | KEEL | 9 | 3 | 9 | expanded |
+| 10 | NVTS | 9 | 3 | 8 | expanded |
+| 11 | SIDU | 9 | 3 | 9 | expanded |
+| 12 | SNXX | 9 | 3 | 30 | core |
+| 13 | USAR | 9 | 3 | 51 | expanded |
+| 14 | MSTU | 9 | 2 | 9 | expanded |
+| 15 | APLD | 8 | 4 | 89 | core |
+| 16 | DRAM | 8 | 4 | 9 | expanded |
+| 17 | FCEL | 8 | 4 | 9 | expanded |
+| 18 | MU | 8 | 4 | 9 | expanded |
+| 19 | SPCE | 8 | 4 | 7 | expanded |
+| 20 | AMD | 8 | 3 | 7 | core |
 
 ---
 
@@ -243,65 +157,13 @@ Below 1.0 | Bearish medium-term |
 
 ---
 
-## 10. Short-Side Setups (26 candidates)
+## 10. Short-Side Setups (1 candidates)
 
 ### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
 | PEGA | -48.3% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
-
-### Bearish DEP (5) — negative EP → breakdown below consolidation
-
-| Ticker | EP Age | EP Change | Entry | Stop | Notes |
-|--------|--------|-----------|-------|------|-------|
-| ZIM | 4d | -4.6% | $15.48 | $16.07 | Negative EP 4d ago (-4.6%), breaking consolidation |
-| BKNG | 23d | -4.1% | $189.51 | $202.43 | Negative EP 23d ago (-4.1%), breaking consolidation |
-| BN | 23d | -6.0% | $36.65 | $38.56 | Negative EP 23d ago (-6.0%), breaking consolidation |
-| AEO | 23d | -4.6% | $15.43 | $16.24 | Negative EP 23d ago (-4.6%), breaking consolidation |
-| BEN | 23d | -5.6% | $18.11 | $19.01 | Negative EP 23d ago (-5.6%), breaking consolidation |
-
-### WSS Enhanced (5) — waterfall / sector breakdown / cult breakdown
-
-| Ticker | Pattern | Change % | Entry | Stop | Notes |
-|--------|---------|----------|-------|------|-------|
-| AMD | sector_breakdown | -4.8% | $116.04 | $118.17 | Sector weakness breakdown |
-| AUR | sector_breakdown | -13.3% | $6.99 | $7.54 | Sector weakness breakdown |
-| AMDL | sector_breakdown | -9.4% | $7.00 | $7.27 | Sector weakness breakdown |
-| APLD | sector_breakdown | -4.8% | $8.29 | $8.57 | Sector weakness breakdown |
-| AFRM | sector_breakdown | -5.7% | $55.31 | $56.87 | Sector weakness breakdown |
-
-### Bearish Reversal (5) — 3:58 PM exhaustion
-
-| Ticker | Intraday Gain | Close Position | Notes |
-|--------|----------------|-----------------|-------|
-| HIT | +7.4% | 21% | Reversal: was up 7.4% intraday, closed at 21% of range |
-| EHTH | +6.9% | 26% | Reversal: was up 6.9% intraday, closed at 27% of range |
-| EXK | +4.7% | 8% | Reversal: was up 4.7% intraday, closed at 8% of range |
-| CNP | +4.3% | 21% | Reversal: was up 4.3% intraday, closed at 21% of range |
-| ALHC | +4.5% | 18% | Reversal: was up 4.5% intraday, closed at 19% of range |
-
-### Bearish Study (10) — down >15% in 25d, cap <$10B (study list)
-
-**Weak sectors by count:**
-
-- Healthcare: 7
-- Unknown: 1
-- Technology: 1
-- Basic Materials: 1
-
-| Ticker | Change 25d | Sector | Cap $B | Priority |
-|--------|------------|--------|--------|----------|
-| AGIO | -42.1% | Healthcare | $2.37 | high |
-| ANAB | -41.0% | Healthcare | $2.7 | high |
-| BMEA | -40.6% | Healthcare | $0.08 | high |
-| AMDL | -36.9% | Unknown | ? | high |
-| BLND | -35.4% | Technology | $0.43 | high |
-| AMLX | -33.5% | Healthcare | $1.51 | high |
-| ALT | -30.3% | Healthcare | $0.26 | high |
-| AQST | -28.5% | Healthcare | $0.4 | medium |
-| BCAX | -27.9% | Healthcare | $1.54 | medium |
-| BAK | -27.0% | Basic Materials | $1.06 | medium |
 
 ---
 
@@ -311,7 +173,7 @@ Below 1.0 | Bearish medium-term |
 - [ ] No swing longs — SIPs and intraday only
 - [ ] Pradeep: 'My wallet is closed. Nothing to do.'
 - [ ] **Focus on SIPs** — 22 fresh catalyst stocks for day trade
-- [ ] Monitor 11 short-side setups
+- [ ] Monitor 1 short-side setups
 - [ ] Fading breakouts may be better than buying breakouts
 - [ ] Watch for capitulation signal (T2108 < 10%)
 
