@@ -166,16 +166,6 @@ RS_20d: -1.59 | RS_65d: 4.58
 
 ---
 
-## 10. Short-Side Setups (1 candidates)
-
-### EP 9M Short (1) — negative surprise gap-downs
-
-| Ticker | Gap % | Change % | Entry | Stop | Notes |
-|--------|-------|----------|-------|------|-------|
-| PEGA | -47.5% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
-
----
-
 ## 11. Action Summary
 
 - [ ] **SHORTS ONLY** — or cash

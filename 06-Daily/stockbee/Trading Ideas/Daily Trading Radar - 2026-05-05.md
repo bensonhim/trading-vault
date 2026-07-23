@@ -222,16 +222,6 @@ RS_20d: 3.82 | RS_65d: 7.50
 
 ---
 
-## 10. Short-Side Setups (1 candidates)
-
-### EP 9M Short (1) — negative surprise gap-downs
-
-| Ticker | Gap % | Change % | Entry | Stop | Notes |
-|--------|-------|----------|-------|------|-------|
-| PEGA | -31.5% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
-
----
-
 ## 11. Action Summary
 
 - [ ] Full playbook — size into A+ confluences (0 SOS, 0 DEP available)

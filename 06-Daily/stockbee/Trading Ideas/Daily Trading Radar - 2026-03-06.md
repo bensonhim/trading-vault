@@ -187,22 +187,11 @@ RS_20d: -0.77 | RS_65d: 85.05
 
 ---
 
-## 10. Short-Side Setups (1 candidates)
-
-### EP 9M Short (1) — negative surprise gap-downs
-
-| Ticker | Gap % | Change % | Entry | Stop | Notes |
-|--------|-------|----------|-------|------|-------|
-| PEGA | -47.3% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
-
----
-
 ## 11. Action Summary
 
 - [ ] **NO NEW LONGS** — process over chasing
 - [ ] Manage existing positions only
 - [ ] SIPs only — 19 fresh catalyst for day trade
-- [ ] Monitor 1 short-side setups
 - [ ] Watch for capitulation signal (T2108 < 10%)
 - [ ] Leading sector: AIQ — watch for setups in this sector
 

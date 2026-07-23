@@ -181,15 +181,6 @@ RS_20d: 0.66 | RS_65d: 3.26
 | 19 | SPCE | 8 | 4 | 7 | expanded |
 | 20 | AMD | 8 | 3 | 7 | core |
 
-### Sugar Babies in Hot Sectors (with active setups today)
-
-| Ticker | SB Tier | 504d | 21d | 10d | 5d | Recency | Sector ETF | RS Rank | Status |
-|--------|---------|------|-----|-----|-----|---------|-----------|---------|--------|
-| ADVB | core | 3 | 2 | 2 | 2 | 36 | XLV (#1) | SETTING UP (ACTIVE (5d)) * |
-| ZCMD | expanded | 1 | 1 | 1 | 1 | 18 | XLV (#1) | SETTING UP (ACTIVE (5d)) * |
-
-*Recency = 5d×10 + 10d×5 + 21d×3 (Pradeep's recency weighting). Higher = more recent breakout activity.*
-
 ---
 
 ## 8. Similar Historical Conditions
@@ -202,22 +193,11 @@ RS_20d: 0.66 | RS_65d: 3.26
 
 ---
 
-## 10. Short-Side Setups (1 candidates)
-
-### EP 9M Short (1) — negative surprise gap-downs
-
-| Ticker | Gap % | Change % | Entry | Stop | Notes |
-|--------|-------|----------|-------|------|-------|
-| PEGA | -44.4% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
-
----
-
 ## 11. Action Summary
 
 - [ ] **NO NEW LONGS** — process over chasing
 - [ ] Manage existing positions only
 - [ ] SIPs only — 15 fresh catalyst for day trade
-- [ ] Monitor 1 short-side setups
 - [ ] Watch for capitulation signal (T2108 < 10%)
 - [ ] Leading sector: XLC — watch for setups in this sector
 
