@@ -1,28 +1,28 @@
 ---
-title: "Daily Trading Radar — 2025-04-16"
-date: 2025-04-16
+title: "Daily Trading Radar — 2025-04-11"
+date: 2025-04-11
 tags: [trading-radar, stockbee, pradeep-bonde, daily-report]
-data_date: 2025-04-15
+data_date: 2025-04-10
 ---
 
-# Daily Trading Radar — 2025-04-16
+# Daily Trading Radar — 2025-04-11
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **RANGE_BOUND** — Action: **SIPs_ONLY**
+> [!tip] **CAPITULATION** — Action: **FULL_LONG**
 >
-> - **20% Study (bullish):** 23
-> - **20% Study (bearish):** 20
-> - **T2108:** 16.4%
-> - **Net Primary:** -1499
-> - **Breakouts:** 172 | **Breakdowns:** 121
-> - **Follow-through:** 3d=48.0% 5d=43.3% (OK)
+> - **20% Study (bullish):** 26
+> - **20% Study (bearish):** 24
+> - **T2108:** 8.5%
+> - **Net Primary:** -1915
+> - **Breakouts:** 78 | **Breakdowns:** 171
+> - **Follow-through:** 3d=30.0% 5d=18.8% (FAILING)
 >
-> - 10-day ratio 0.78 < 0.8
-> - Monthly 25% ratio 0.12 < 0.8
-> - TI65 bullish universe 204 < 800 (market losing momentum)
-> - TI65 bearish/bullish ratio high: 1048/204
-> - 20% study at 23 (< 30) = funds not aggressively buying, breakouts unlikely to follow through
+> - 10-day ratio 0.57 < 0.8
+> - Monthly 25% ratio 0.10 < 0.8
+> - Breakdown spike: 171 vs 78
+> - TI65 bullish universe 214 < 800 (market losing momentum)
+> - TI65 young momentum 25 < 30 (few new trends starting)
 
 ---
 
@@ -30,46 +30,47 @@ data_date: 2025-04-15
 
 ### Primary Indicators
 
-| Indicator | 2025-04-15 | 2025-04-15 | 2025-04-14 | 2025-04-14 | 2025-04-11 | Trend |
+| Indicator | 2025-04-10 | 2025-04-10 | 2025-04-09 | 2025-04-09 | 2025-04-08 | Trend |
 |-----------|-------|-------|-------|-------|-------|-------|
-| Net Primary | -1499 | -1499 | -1559 | -1559 | -1723 | — |
-| T2108 | 16.38% | 16.38% | 16.57% | 16.57% | 13.46% | — |
-| Breakouts | 172 | 172 | 348 | 348 | 373 | — |
-| Breakdowns | 121 | 121 | 104 | 104 | 78 | — |
-| BO:BD Ratio | 1.42 | 1.42 | 3.35 | 3.35 | 4.78 | — |
+| Net Primary | -1915 | -1915 | -1508 | -1508 | -2245 | — |
+| T2108 | 8.52% | 8.52% | 10.63% | 10.63% | 4.12% | — |
+| Breakouts | 78 | 78 | 2443 | 2443 | 94 | — |
+| Breakdowns | 171 | 171 | 58 | 58 | 438 | — |
+| BO:BD Ratio | 0.46 | 0.46 | 42.12 | 42.12 | 0.21 | — |
 
 ### Secondary Indicators
 
-| Indicator | 2025-04-15 | Signal | Interpretation |
+| Indicator | 2025-04-10 | Signal | Interpretation |
 |-----------|---------|--------|----------------|
-| Monthly 25% Up | 29 | Normal | Stocks up 25%+ in a month |
-| Monthly 25% Down | 236 | Elevated | Stocks down 25%+ in a month |
-| Monthly 25% Ratio | 0.12
+| Monthly 25% Up | 25 | Normal | Stocks up 25%+ in a month |
+| Monthly 25% Down | 242 | Elevated | Stocks down 25%+ in a month |
+| Monthly 25% Ratio | 0.10
 Below 1.0 | Bearish tilt |
-| Fib 13% Up (34d) | 1075 | Normal | Stocks up 13%+ in 34 days |
-| Fib 13% Down (34d) | 2543 | High | Stocks down 13%+ in 34 days |
-| Fib 13% Ratio | 0.42
+| Fib 13% Up (34d) | 589 | Normal | Stocks up 13%+ in 34 days |
+| Fib 13% Down (34d) | 2992 | High | Stocks down 13%+ in 34 days |
+| Fib 13% Ratio | 0.20
 Below 1.0 | Bearish medium-term |
-| 5-Day Ratio | 6.42 | Above 1.0 | Short-term bullish |
-| 10-Day Ratio | 0.78 | Below 1.0 | Sustained weakness |
+| 5-Day Ratio | 0.98 | Below 1.0 | Short-term normal |
+| 10-Day Ratio | 0.57 | Below 1.0 | Sustained weakness |
 
 > [!warning] Secondary Indicator Warnings
 
 - 10-day ratio below 0.8 — sustained weakness over 10 days
 - Monthly 25% ratio below 0.8 — more stocks down 25%+ than up
+- Breakdown spike: 171 vs 78 (ratio 0.46)
 
 
 > [!abstract] 20% Study (Pradeep's #1 SA Signal)
 
 | Metric | Value | Signal |
 |--------|-------|--------|
-| Stocks up 20%+ (5d) | 23 | ⚠️ Low — breakouts unlikely to follow through |
-| Stocks down 20%+ (5d) | 20 | Normal |
+| Stocks up 20%+ (5d) | 26 | ⚠️ Low — breakouts unlikely to follow through |
+| Stocks down 20%+ (5d) | 24 | Normal |
 
 > [!warning] Scan Suppression Active: SOS, DEP, ANTS
-> 20% study at 23 — breakouts unlikely to follow through in this environment.
+> 20% study at 26 — breakouts unlikely to follow through in this environment.
 
-**Breakout Follow-Through (last 10 days):** 3d=48.0% 5d=43.3% [OK]
+**Breakout Follow-Through (last 10 days):** 3d=30.0% 5d=18.8% [FAILING]
 
 > When 5-day follow-through < 30%, breakouts are systematically failing. Pradeep: 'Just see what happened to breakouts from yesterday, and did they follow through.'
 
@@ -77,23 +78,23 @@ Below 1.0 | Bearish medium-term |
 
 ## 3. Sector Relative Strength
 
-**Leading Sector:** XLY (consumer_discretionary)
-RS_20d: 0.54 | RS_65d: 2.00
+**Leading Sector:** PAVE (infrastructure)
+RS_20d: 0.93 | RS_65d: 1.10
 
 ### Sector RS Heatmap (grouped by theme, top 10)
 
 | Rank | Ticker | Theme | RS_20d | RS_65d | ETF 20d | SPY 20d | Excess | Status |
 |------|--------|-------|--------|--------|---------|---------|--------|--------|
-| 1 | XOP | oil_gas_e&p | 4.49 | 3.20 | -17.4% | -3.9% | -13.6% |  |
-| 2 | DRIV | ev_automotive | 3.59 | 1.94 | -13.9% | -3.9% | -10.1% |  |
-| 3 | SOXX | semiconductors | 3.50 | 2.83 | -13.6% | -3.9% | -9.7% |  |
-| 4 | XBI | biotech_small | 2.87 | 2.03 | -11.2% | -3.9% | -7.3% |  |
-| 5 | QTUM | quantum_computing | 2.61 | 1.27 | -10.1% | -3.9% | -6.2% |  |
-| 6 | SKYY | cloud_computing | 2.32 | 2.51 | -9.0% | -3.9% | -5.1% |  |
-| 7 | AIQ | ai_tech | 1.93 | 1.23 | -7.5% | -3.9% | -3.6% |  |
-| 8 | XLB | materials | 1.69 | 0.35 | -6.5% | -3.9% | -2.7% |  |
-| 9 | ITB | home_construction | 1.58 | 1.52 | -6.1% | -3.9% | -2.2% |  |
-| 10 | XLV | healthcare_broad | 1.51 | 0.14 | -5.9% | -3.9% | -2.0% |  |
+| 1 | GNOM | genomics | 3.84 | 2.49 | -17.6% | -4.6% | -13.0% |  |
+| 2 | XOP | oil_gas_e&p | 3.14 | 1.92 | -14.4% | -4.6% | -9.8% |  |
+| 3 | DRIV | ev_automotive | 3.08 | 1.75 | -14.1% | -4.6% | -9.6% |  |
+| 4 | SOXX | semiconductors | 2.94 | 2.26 | -13.5% | -4.6% | -8.9% |  |
+| 5 | QTUM | quantum_computing | 1.82 | 1.61 | -8.3% | -4.6% | -3.8% |  |
+| 6 | AIQ | ai_tech | 1.68 | 1.26 | -7.7% | -4.6% | -3.1% |  |
+| 7 | XLB | materials | 1.63 | 0.54 | -7.5% | -4.6% | -2.9% |  |
+| 8 | SKYY | cloud_computing | 1.61 | 1.92 | -7.3% | -4.6% | -2.8% |  |
+| 9 | BLOK | blockchain | 1.53 | 2.38 | -7.0% | -4.6% | -2.4% |  |
+| 10 | UFO | space_economy | 1.45 | 1.27 | -6.7% | -4.6% | -2.1% |  |
 
 ---
 
@@ -107,21 +108,21 @@ RS_20d: 0.54 | RS_65d: 2.00
 
 | Ticker | Gap% | Change% | Volume | 5d Move | Flags |
 |--------|------|---------|--------|---------|-------|
-| ERIC | +6.8% | +8.3% | 46,513,400 | +19% | fresh |
-| MP | +6.1% | -9.1% | 15,803,233 | +14% | fresh |
-| HXHX | +18.8% | -22.2% | 8,523,300 | +0% | fresh |
-| LEGN | +5.8% | +5.1% | 4,447,512 | +10% | fresh |
-| NMAX | +12.3% | +0.5% | 4,409,403 | -33% | fresh |
-| MTVA | +7.1% | -56.0% | 2,213,248 | -41% | fresh |
-| PLTR | +1.0% | +6.2% | 118,457,700 | +27% | EXTENDED; LARGE-CAP |
-| BAC | +3.1% | +3.6% | 84,677,800 | +8% | LARGE-CAP |
-| NFLX | +2.0% | +4.8% | 77,120,000 | +12% | LARGE-CAP |
-| HPE | +0.0% | +5.1% | 48,695,200 | +20% | LARGE-CAP |
-| WBD | +0.0% | +2.9% | 38,578,300 | +7% | LARGE-CAP |
-| RKLB | +4.3% | +10.1% | 30,434,200 | +23% | EXTENDED |
-| CVNA | +2.2% | +4.4% | 26,120,545 | +21% | EXTENDED; LARGE-CAP |
-| WFC | +0.5% | +2.3% | 20,903,300 | +4% | LARGE-CAP |
-| CRWD | +1.2% | +3.7% | 20,819,200 | +21% | EXTENDED; LARGE-CAP |
+| DXCM | +8.9% | +0.7% | 8,912,116 | +9% | fresh |
+| KROS | +13.0% | +18.5% | 3,967,741 | +19% | fresh |
+| SUNE | +50.0% | +0.0% | 2,872,465 | -92% | fresh |
+| LOVE | +15.0% | +16.1% | 2,601,715 | +20% | fresh |
+| BYRN | +5.0% | +9.1% | 1,972,600 | +14% | fresh |
+| ACT | +6.8% | +4.4% | 1,648,078 | -0% | fresh |
+| IAG | +2.0% | +5.7% | 34,373,408 | +5% | fresh |
+| B | +0.8% | +2.3% | 30,895,203 | -1% | LARGE-CAP |
+| DFDV | +5.1% | +64.2% | 27,308,400 | +834% | EXTENDED |
+| KGC | +0.8% | +5.2% | 24,166,840 | +8% | fresh |
+| NEM | +0.3% | +4.5% | 23,184,600 | +5% | LARGE-CAP |
+| FSM | +0.2% | +8.3% | 19,281,643 | +2% | fresh |
+| NEOG | +2.4% | +12.2% | 14,820,652 | -31% | fresh |
+| PRFX | +54.4% | +18.1% | 14,817,620 | -2% | DILUTION |
+| LUCY | -1.2% | +102.0% | 14,537,400 | +115% | EXTENDED |
 
 ### FADE MODE Active (20% study < 35)
 
@@ -187,20 +188,15 @@ RS_20d: 0.54 | RS_65d: 2.00
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -27.9% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| PEGA | -29.7% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
 
 ---
 
 ## 11. Action Summary
 
-- [ ] **RANGE_BOUND / SIPs ONLY** — breakouts unlikely to follow through
-- [ ] No swing longs — SIPs and intraday only
-- [ ] Pradeep: 'My wallet is closed. Nothing to do.'
-- [ ] **Focus on SIPs** — 6 fresh catalyst stocks for day trade
-- [ ] Monitor 1 short-side setups
-- [ ] Fading breakouts may be better than buying breakouts
-- [ ] Watch for capitulation signal (T2108 < 10%)
-- [ ] Leading sector: XLY — watch for setups in this sector
+- [ ] Full playbook — size into A+ confluences (0 SOS, 0 DEP available)
+- [ ] Watch 6 fresh SIPs for day trade entries
+- [ ] Leading sector: PAVE — watch for setups in this sector
 
 ---
 
