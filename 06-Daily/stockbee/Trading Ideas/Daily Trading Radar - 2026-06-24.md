@@ -1,22 +1,25 @@
 ---
-title: "Daily Trading Radar — 2026-06-23"
-date: 2026-06-23
+title: "Daily Trading Radar — 2026-06-24"
+date: 2026-06-24
 tags: [trading-radar, stockbee, pradeep-bonde, daily-report]
-data_date: 2026-06-22
+data_date: 2026-06-23
 ---
 
-# Daily Trading Radar — 2026-06-23
+# Daily Trading Radar — 2026-06-24
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!tip] **FULL_BULL** — Action: **FULL_LONG**
+> [!warning] **DISTRIBUTING** — Action: **NO_NEW_LONGS**
 >
-> - **20% Study (bullish):** 39
-> - **20% Study (bearish):** 21
-> - **T2108:** 44.1%
-> - **Net Primary:** +472
-> - **Breakouts:** 158 | **Breakdowns:** 168
-> - **Follow-through:** 3d=40.3% 5d=31.7% (OK)
+> - **20% Study (bullish):** 43
+> - **20% Study (bearish):** 24
+> - **T2108:** 45.3%
+> - **Net Primary:** +432
+> - **Breakouts:** 192 | **Breakdowns:** 279
+> - **Follow-through:** 3d=40.3% 5d=40.3% (OK)
+>
+> - Former leader rolling over: SOXX (semiconductors)
+> - Leading sector rolling over + market confirmation
 
 ---
 
@@ -24,41 +27,41 @@ data_date: 2026-06-22
 
 ### Primary Indicators
 
-| Indicator | 2026-06-22 | 2026-06-22 | 2026-06-18 | 2026-06-18 | 2026-06-17 | Trend |
+| Indicator | 2026-06-23 | 2026-06-23 | 2026-06-22 | 2026-06-22 | 2026-06-18 | Trend |
 |-----------|-------|-------|-------|-------|-------|-------|
-| Net Primary | +472 | +472 | +560 | +560 | +452 | — |
-| T2108 | 44.10% | 44.10% | 44.44% | 44.44% | 42.92% | — |
-| Breakouts | 158 | 158 | 576 | 576 | 275 | — |
-| Breakdowns | 168 | 168 | 236 | 236 | 328 | — |
-| BO:BD Ratio | 0.94 | 0.94 | 2.44 | 2.44 | 0.84 | — |
+| Net Primary | +432 | +432 | +472 | +472 | +560 | — |
+| T2108 | 45.26% | 45.26% | 44.10% | 44.10% | 44.44% | — |
+| Breakouts | 192 | 192 | 158 | 158 | 576 | — |
+| Breakdowns | 279 | 279 | 168 | 168 | 236 | — |
+| BO:BD Ratio | 0.69 | 0.69 | 0.94 | 0.94 | 2.44 | — |
 
 ### Secondary Indicators
 
-| Indicator | 2026-06-22 | Signal | Interpretation |
+| Indicator | 2026-06-23 | Signal | Interpretation |
 |-----------|---------|--------|----------------|
-| Monthly 25% Up | 183 | Normal | Stocks up 25%+ in a month |
-| Monthly 25% Down | 100 | Normal | Stocks down 25%+ in a month |
-| Monthly 25% Ratio | 1.83
+| Monthly 25% Up | 161 | Normal | Stocks up 25%+ in a month |
+| Monthly 25% Down | 119 | Normal | Stocks down 25%+ in a month |
+| Monthly 25% Ratio | 1.35
 Above 1.0 | Bullish |
-| Fib 13% Up (34d) | 1744 | High | Stocks up 13%+ in 34 days |
-| Fib 13% Down (34d) | 1751 | High | Stocks down 13%+ in 34 days |
-| Fib 13% Ratio | 1.00
+| Fib 13% Up (34d) | 1708 | High | Stocks up 13%+ in 34 days |
+| Fib 13% Down (34d) | 1765 | High | Stocks down 13%+ in 34 days |
+| Fib 13% Ratio | 0.97
 Below 1.0 | Bearish medium-term |
-| 5-Day Ratio | 1.33 | Above 1.0 | Short-term bullish |
-| 10-Day Ratio | 1.47 | Above 1.0 | Bullish |
+| 5-Day Ratio | 1.11 | Above 1.0 | Short-term bullish |
+| 10-Day Ratio | 1.36 | Above 1.0 | Bullish |
 
 
 > [!abstract] 20% Study (Pradeep's #1 SA Signal)
 
 | Metric | Value | Signal |
 |--------|-------|--------|
-| Stocks up 20%+ (5d) | 39 | Marginal |
-| Stocks down 20%+ (5d) | 21 | Normal |
+| Stocks up 20%+ (5d) | 43 | Marginal |
+| Stocks down 20%+ (5d) | 24 | Normal |
 
 > [!warning] Scan Suppression Active: SOS, ANTS
-> 20% study at 39 — breakouts unlikely to follow through in this environment.
+> 20% study at 43 — breakouts unlikely to follow through in this environment.
 
-**Breakout Follow-Through (last 10 days):** 3d=40.3% 5d=31.7% [OK]
+**Breakout Follow-Through (last 10 days):** 3d=40.3% 5d=40.3% [OK]
 
 > When 5-day follow-through < 30%, breakouts are systematically failing. Pradeep: 'Just see what happened to breakouts from yesterday, and did they follow through.'
 
@@ -66,29 +69,32 @@ Below 1.0 | Bearish medium-term |
 
 ## 3. Sector Relative Strength
 
-**Leading Sector:** SOXX (semiconductors)
-RS_20d: 51.51 | RS_65d: 7.13
+**Leading Sector:** BUG (cybersecurity)
+RS_20d: 0.70 | RS_65d: 2.51
+
+> [!warning] Former Leader Rolling Over
+> SOXX (semiconductors)
 
 ### Sector RS Heatmap (grouped by theme, top 10)
 
 | Rank | Ticker | Theme | RS_20d | RS_65d | ETF 20d | SPY 20d | Excess | Status |
 |------|--------|-------|--------|--------|---------|---------|--------|--------|
-| 1 | SOXX | semiconductors | 51.51 | 7.13 | +24.9% | +0.5% | +24.4% | LEADING |
-| 2 | QTUM | quantum_computing | 26.71 | 3.99 | +12.9% | +0.5% | +12.4% |  |
-| 3 | GNOM | genomics | 24.13 | 1.56 | +11.7% | +0.5% | +11.2% | TOP FORMING |
-| 4 | PAVE | infrastructure | 17.82 | 1.35 | +8.6% | +0.5% | +8.1% |  |
-| 5 | XLK | technology_broad | 15.96 | 3.02 | +7.7% | +0.5% | +7.2% |  |
-| 6 | ITB | home_construction | 15.22 | 0.51 | +7.4% | +0.5% | +6.9% |  |
-| 7 | XLF | financials_broad | 8.63 | 0.81 | +4.2% | +0.5% | +3.7% |  |
-| 8 | XLB | materials | 7.39 | 0.56 | +3.6% | +0.5% | +3.1% |  |
-| 9 | BLOK | blockchain | 7.09 | 1.99 | +3.4% | +0.5% | +3.0% |  |
-| 10 | PPA | aerospace_defense | 5.98 | -0.08 | +2.9% | +0.5% | +2.4% |  |
+| 1 | UFO | space_economy | 16.31 | 0.37 | -22.2% | -1.4% | -20.9% |  |
+| 2 | SIL | silver_miners | 7.98 | -0.44 | -10.9% | -1.4% | -9.5% |  |
+| 3 | XOP | oil_gas_e&p | 6.89 | -0.90 | -9.4% | -1.4% | -8.0% |  |
+| 4 | XLC | communications | 5.03 | -0.39 | -6.8% | -1.4% | -5.5% |  |
+| 5 | DRIV | ev_automotive | 3.80 | 2.24 | -5.2% | -1.4% | -3.8% |  |
+| 6 | XLY | consumer_discretionary | 3.20 | 0.35 | -4.4% | -1.4% | -3.0% |  |
+| 7 | SKYY | cloud_computing | 2.02 | 1.18 | -2.8% | -1.4% | -1.4% |  |
+| 8 | FINX | fintech | 1.57 | 0.01 | -2.1% | -1.4% | -0.8% |  |
+| 9 | BUG | cybersecurity | 0.70 | 2.51 | -1.0% | -1.4% | +0.4% | LEADING |
+| 10 | XLU | utilities | -0.00 | -0.16 | +0.0% | -1.4% | +1.4% |  |
 
 ---
 
 ## 5. Trade Ideas
 
-### SIPs — Stocks in Play (30 found, 21 fresh catalyst — top 15)
+### SIPs — Stocks in Play (30 found, 4 fresh catalyst — top 15)
 
 > [!info] Pradeep: 'When nothing else works, SIPs are the only thing that works.'
 > Stocks with fresh catalyst (earnings, news, partnerships) + volume. Day trade / 1-2 day swing.
@@ -96,21 +102,21 @@ RS_20d: 51.51 | RS_65d: 7.13
 
 | Ticker | Gap% | Change% | Volume | 5d Move | Flags |
 |--------|------|---------|--------|---------|-------|
-| SMCI | +5.5% | +15.7% | 128,512,315 | +16% | fresh |
-| KEEL | +5.9% | +5.9% | 109,643,500 | +19% | fresh |
-| AXTI | +10.6% | +9.3% | 11,975,000 | -5% | fresh |
-| SNDK | +5.0% | +4.1% | 9,977,600 | +15% | LARGE-CAP |
-| VSH | +5.5% | -1.0% | 8,348,842 | +8% | fresh |
-| AMKR | +4.0% | +3.4% | 7,234,410 | +13% | fresh |
-| CABA | +5.3% | +6.0% | 6,505,563 | +0% | fresh |
-| PENG | +14.4% | +1.2% | 5,113,345 | +6% | fresh |
-| ACA | +6.7% | +6.7% | 4,455,343 | +12% | fresh |
-| TER | +4.2% | +4.4% | 4,338,542 | +13% | LARGE-CAP |
-| MXL | +4.2% | +8.7% | 3,522,400 | +14% | fresh |
-| MLTX | +4.2% | +15.4% | 3,494,000 | +19% | fresh |
-| AUPH | +5.4% | +6.5% | 3,393,738 | +11% | fresh |
-| SMTC | +4.9% | +10.4% | 3,199,400 | +5% | fresh |
-| FRVO | +8.7% | +3.6% | 3,184,519 | +3% | fresh |
+| ZETA | +5.7% | +5.6% | 16,273,533 | -1% | fresh |
+| YMAT | +11.2% | +20.4% | 3,846,300 | +11% | fresh |
+| GRRR | +6.4% | +3.5% | 3,640,400 | -2% | fresh |
+| EPC | +9.1% | +15.4% | 3,082,944 | +14% | fresh |
+| FCUV | +0.5% | +89.4% | 77,224,746 | +33% | EXTENDED |
+| T | +1.0% | +3.2% | 73,551,936 | -2% | LARGE-CAP |
+| INFQ | +2.5% | +12.3% | 42,803,100 | +8% | fresh |
+| CMCSA | +1.0% | +2.1% | 40,351,915 | -5% | LARGE-CAP |
+| LAES | -2.6% | +7.7% | 37,992,300 | -1% | fresh |
+| BLZE | +27.0% | +43.6% | 35,463,300 | +44% | EXTENDED; DILUTION |
+| NOW | +2.3% | +3.1% | 32,559,715 | -8% | LARGE-CAP |
+| WMT | +2.2% | +1.9% | 23,411,423 | -1% | LARGE-CAP |
+| VZ | +0.8% | +3.0% | 23,019,146 | -1% | LARGE-CAP |
+| CRM | +1.0% | +2.2% | 20,720,700 | -7% | LARGE-CAP |
+| RXT | -2.9% | +6.3% | 18,810,800 | +23% | EXTENDED |
 
 ### SOS Breakout Candidates (0 found — top 20)
 
@@ -174,9 +180,9 @@ RS_20d: 51.51 | RS_65d: 7.13
 
 | Date | Similarity | Pradeep's Call | Outcome |
 |------|-----------|----------------|---------|
-| 2026-06-17 | 70% | cautious/REDUCE_SIZE | SPY fell -0.6% over 5 days |
-| 2026-06-17 | 70% | cautious/REDUCE_SIZE | SPY fell -0.6% over 5 days |
-| 2026-05-13 | 69% | cautious/REDUCE_SIZE | SPY fell -0.1% over 5 days |
+| 2026-05-13 | 67% | cautious/REDUCE_SIZE | SPY fell -0.1% over 5 days |
+| 2026-05-13 | 67% | cautious/REDUCE_SIZE | SPY fell -0.1% over 5 days |
+| 2026-06-17 | 64% | cautious/REDUCE_SIZE | SPY fell -0.6% over 5 days |
 
 ---
 
@@ -186,15 +192,18 @@ RS_20d: 51.51 | RS_65d: 7.13
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -17.6% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| PEGA | -15.6% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
 
 ---
 
 ## 11. Action Summary
 
-- [ ] Full playbook — size into A+ confluences (0 SOS, 0 DEP available)
-- [ ] Watch 21 fresh SIPs for day trade entries
-- [ ] Leading sector: SOXX — watch for setups in this sector
+- [ ] **NO NEW LONGS** — process over chasing
+- [ ] Manage existing positions only
+- [ ] SIPs only — 4 fresh catalyst for day trade
+- [ ] Monitor 1 short-side setups
+- [ ] Watch for capitulation signal (T2108 < 10%)
+- [ ] Leading sector: BUG — watch for setups in this sector
 
 ---
 

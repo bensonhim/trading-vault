@@ -2,27 +2,25 @@
 title: "Daily Trading Radar — 2026-04-06"
 date: 2026-04-06
 tags: [trading-radar, stockbee, pradeep-bonde, daily-report]
-data_date: 2026-04-02
+data_date: 2026-04-03
 ---
 
 # Daily Trading Radar — 2026-04-06
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **RANGE_BOUND** — Action: **SIPs_ONLY**
+> [!caution] **CAUTIOUS_BULL** — Action: **REDUCE_SIZE**
 >
 > - **20% Study (bullish):** 47
 > - **20% Study (bearish):** 23
 > - **T2108:** 27.5%
 > - **Net Primary:** -363
 > - **Breakouts:** 240 | **Breakdowns:** 92
-> - **Follow-through:** 3d=31.2% 5d=26.4% (FAILING)
+> - **Follow-through:** 3d=33.3% 5d=31.0% (OK)
 >
 > - Monthly 25% ratio 0.70 < 0.8
-> - TI65 bullish universe 709 < 800 (market losing momentum)
-> - TI65 bearish/bullish ratio high: 891/709
-> - Follow-through 5d rate 26% < 30% — breakouts failing, no momentum
-> - Secondary indicators weakening (5d/10d ratio < 0.8 or breakdown spike) — downgrade to REDUCE_SIZE
+> - TI65 bullish universe 0 < 800 (market losing momentum)
+> - TI65 young momentum 0 < 30 (few new trends starting)
 
 ---
 
@@ -40,7 +38,7 @@ data_date: 2026-04-02
 
 ### Secondary Indicators
 
-| Indicator | 2026-04-02 | Signal | Interpretation |
+| Indicator | 2026-04-03 | Signal | Interpretation |
 |-----------|---------|--------|----------------|
 | Monthly 25% Up | 96 | Normal | Stocks up 25%+ in a month |
 | Monthly 25% Down | 138 | Normal | Stocks down 25%+ in a month |
@@ -65,34 +63,16 @@ Below 1.0 | Bearish medium-term |
 | Stocks up 20%+ (5d) | 47 | Marginal |
 | Stocks down 20%+ (5d) | 23 | Normal |
 
-> [!warning] Scan Suppression Active: SOS, DEP, ANTS
+> [!warning] Scan Suppression Active: SOS, ANTS
 > 20% study at 47 — breakouts unlikely to follow through in this environment.
 
-**Breakout Follow-Through (last 10 days):** 3d=31.2% 5d=26.4% [FAILING]
+**Breakout Follow-Through (last 10 days):** 3d=33.3% 5d=31.0% [OK]
 
 > When 5-day follow-through < 30%, breakouts are systematically failing. Pradeep: 'Just see what happened to breakouts from yesterday, and did they follow through.'
 
 ---
 
 ## 3. Sector Relative Strength
-
-**Leading Sector:** XLK (technology_broad)
-RS_20d: 0.82 | RS_65d: 1.51
-
-### Sector RS Heatmap (grouped by theme, top 10)
-
-| Rank | Ticker | Theme | RS_20d | RS_65d | ETF 20d | SPY 20d | Excess | Status |
-|------|--------|-------|--------|--------|---------|---------|--------|--------|
-| 1 | ITB | home_construction | 2.90 | 1.67 | -10.1% | -3.5% | -6.6% |  |
-| 2 | FINX | fintech | 2.82 | 5.31 | -9.8% | -3.5% | -6.3% |  |
-| 3 | SIL | silver_miners | 2.74 | -2.24 | -9.5% | -3.5% | -6.0% | TOP FORMING |
-| 4 | BLOK | blockchain | 2.30 | 3.11 | -8.0% | -3.5% | -4.5% |  |
-| 5 | XLY | consumer_discretionary | 2.02 | 2.35 | -7.0% | -3.5% | -3.5% |  |
-| 6 | PPA | aerospace_defense | 1.57 | -1.61 | -5.5% | -3.5% | -2.0% |  |
-| 7 | XLC | communications | 1.55 | 1.13 | -5.4% | -3.5% | -1.9% |  |
-| 8 | AIQ | ai_tech | 1.38 | 1.84 | -4.8% | -3.5% | -1.3% |  |
-| 9 | XLI | industrials_broad | 1.31 | -1.07 | -4.6% | -3.5% | -1.1% |  |
-| 10 | XLV | healthcare_broad | 1.22 | 1.23 | -4.2% | -3.5% | -0.8% |  |
 
 ---
 
@@ -186,20 +166,18 @@ RS_20d: 0.82 | RS_65d: 1.51
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -41.4% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| PEGA | -41.8% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
 
 ---
 
 ## 11. Action Summary
 
-- [ ] **RANGE_BOUND / SIPs ONLY** — breakouts unlikely to follow through
-- [ ] No swing longs — SIPs and intraday only
-- [ ] Pradeep: 'My wallet is closed. Nothing to do.'
+- [ ] **REDUCE SIZE** — selective setups only
+- [ ] No DEP candidates — no limit orders to place
+- [ ] ANTS suppressed in this market — no BSLO orders
 - [ ] **Focus on SIPs** — 27 fresh catalyst stocks for day trade
-- [ ] Monitor 1 short-side setups
-- [ ] Fading breakouts may be better than buying breakouts
-- [ ] Watch for capitulation signal (T2108 < 10%)
-- [ ] Leading sector: XLK — watch for setups in this sector
+- [ ] Sell into strength on existing positions
+- [ ] Tighten stops to breakeven
 
 ---
 
