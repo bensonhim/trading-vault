@@ -9,7 +9,7 @@ data_date: 2026-05-21
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **CAUTIOUS_BULL** — Action: **REDUCE_SIZE**
+> [!tip] **FULL_BULL** — Action: **FULL_LONG**
 >
 > - **20% Study (bullish):** 39
 > - **20% Study (bearish):** 21
@@ -17,8 +17,6 @@ data_date: 2026-05-21
 > - **Net Primary:** +399
 > - **Breakouts:** 385 | **Breakdowns:** 113
 > - **Follow-through:** 3d=31.2% 5d=30.4% (OK)
->
-> - 20% study at 39 (< 50) — FULL_BULL downgraded to CAUTIOUS_BULL. Funds not aggressively buying, breakouts unlikely to follow through.
 
 ---
 
@@ -194,12 +192,8 @@ RS_20d: 5.75 | RS_65d: 2.80
 
 ## 11. Action Summary
 
-- [ ] **REDUCE SIZE** — selective setups only
-- [ ] No DEP candidates — no limit orders to place
-- [ ] ANTS suppressed in this market — no BSLO orders
-- [ ] **Focus on SIPs** — 30 fresh catalyst stocks for day trade
-- [ ] Sell into strength on existing positions
-- [ ] Tighten stops to breakeven
+- [ ] Full playbook — size into A+ confluences (0 SOS, 0 DEP available)
+- [ ] Watch 30 fresh SIPs for day trade entries
 - [ ] Leading sector: BUG — watch for setups in this sector
 
 ---

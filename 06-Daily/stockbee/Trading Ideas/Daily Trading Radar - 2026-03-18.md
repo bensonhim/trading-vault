@@ -21,7 +21,7 @@ data_date: 2026-03-17
 > - 5-day ratio 0.79 < 0.8
 > - TI65 bearish/bullish ratio high: 778/877
 > - 20% study at 18 (< 30) = funds not aggressively buying, breakouts unlikely to follow through
-> - 20% study at 18 (< 30) — downgraded to RANGE_BOUND/SIPs_ONLY. Funds not buying, breakouts unlikely to follow through.
+> - 20% study at 18 (< 30) + Net Primary +0 + 5d ratio 0.79 — all indicators weak, downgraded to RANGE_BOUND/SIPs_ONLY.
 
 ---
 

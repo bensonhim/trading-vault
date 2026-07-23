@@ -22,7 +22,7 @@ data_date: 2026-05-18
 > - 20% study at 27 (< 30) = funds not aggressively buying, breakouts unlikely to follow through
 > - Follow-through 5d rate 23% < 30% — breakouts failing, no momentum
 > - Secondary indicators weakening (5d/10d ratio < 0.8 or breakdown spike) — downgrade to REDUCE_SIZE
-> - 20% study at 27 (< 30) — downgraded to RANGE_BOUND/SIPs_ONLY. Funds not buying, breakouts unlikely to follow through.
+> - 20% study at 27 (< 30) + Net Primary +0 + 5d ratio 0.74 — all indicators weak, downgraded to RANGE_BOUND/SIPs_ONLY.
 
 ---
 

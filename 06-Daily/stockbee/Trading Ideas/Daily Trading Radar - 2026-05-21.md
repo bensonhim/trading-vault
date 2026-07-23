@@ -19,7 +19,7 @@ data_date: 2026-05-20
 > - **Follow-through:** 3d=31.3% 5d=31.0% (OK)
 >
 > - 20% study at 16 (< 30) = funds not aggressively buying, breakouts unlikely to follow through
-> - 20% study at 16 (< 30) — downgraded to RANGE_BOUND/SIPs_ONLY. Funds not buying, breakouts unlikely to follow through.
+> - 20% study at 16 (< 30) + Net Primary +0 + 5d ratio 0.96 — all indicators weak, downgraded to RANGE_BOUND/SIPs_ONLY.
 
 ---
 
