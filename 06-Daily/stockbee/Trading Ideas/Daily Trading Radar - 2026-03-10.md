@@ -9,7 +9,7 @@ data_date: 2026-03-09
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **RANGE_BOUND** — Action: **SIPs_ONLY**
+> [!warning] **DISTRIBUTING** — Action: **NO_NEW_LONGS**
 >
 > - **20% Study (bullish):** 37
 > - **20% Study (bearish):** 27
@@ -20,8 +20,7 @@ data_date: 2026-03-09
 >
 > - Former leader rolling over: FINX (fintech)
 > - Follow-through 5d rate 21% < 30% — breakouts failing, no momentum
-> - Former leader rolling over but breadth positive — reduce size, watch for confirmation
-> - Follow-through 21% < 30% + Net +0 + 5d 0.84 — all weak, downgraded to RANGE_BOUND/SIPs_ONLY.
+> - Leading sector rolling over + market confirmation
 
 ---
 
@@ -199,12 +198,10 @@ RS_20d: 0.54 | RS_65d: 17.63
 
 ## 11. Action Summary
 
-- [ ] **RANGE_BOUND / SIPs ONLY** — breakouts unlikely to follow through
-- [ ] No swing longs — SIPs and intraday only
-- [ ] Pradeep: 'My wallet is closed. Nothing to do.'
-- [ ] **Focus on SIPs** — 18 fresh catalyst stocks for day trade
+- [ ] **NO NEW LONGS** — process over chasing
+- [ ] Manage existing positions only
+- [ ] SIPs only — 18 fresh catalyst for day trade
 - [ ] Monitor 1 short-side setups
-- [ ] Fading breakouts may be better than buying breakouts
 - [ ] Watch for capitulation signal (T2108 < 10%)
 - [ ] Leading sector: XLK — watch for setups in this sector
 

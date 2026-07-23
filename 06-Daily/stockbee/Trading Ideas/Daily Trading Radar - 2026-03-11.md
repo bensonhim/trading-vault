@@ -20,7 +20,6 @@ data_date: 2026-03-10
 >
 > - Monthly 25% ratio 0.79 < 0.8
 > - TI65 bearish/bullish ratio high: 695/1208
-> - Secondary indicators weakening (5d/10d ratio < 0.8 or breakdown spike) — downgrade to REDUCE_SIZE
 
 ---
 

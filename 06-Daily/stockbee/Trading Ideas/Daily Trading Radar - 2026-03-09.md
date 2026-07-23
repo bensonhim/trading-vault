@@ -9,7 +9,7 @@ data_date: 2026-03-06
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!warning] **DISTRIBUTING** — Action: **NO_NEW_LONGS**
+> [!warning] **BEARISH** — Action: **SHORTS_ONLY**
 >
 > - **20% Study (bullish):** 0
 > - **20% Study (bearish):** 0
@@ -21,7 +21,6 @@ data_date: 2026-03-06
 > - Former leader rolling over: FINX (fintech)
 > - Breakdown spike: 388 vs 141
 > - Breakdown (388) > Breakout (141) = selling pressure
-> - Leading sector rolling over + market confirmation
 
 ---
 
@@ -179,11 +178,8 @@ RS_20d: -1.59 | RS_65d: 4.58
 
 ## 11. Action Summary
 
-- [ ] **NO NEW LONGS** — process over chasing
-- [ ] Manage existing positions only
-- [ ] SIPs only — 8 fresh catalyst for day trade
-- [ ] Monitor 1 short-side setups
-- [ ] Watch for capitulation signal (T2108 < 10%)
+- [ ] **SHORTS ONLY** — or cash
+- [ ] No new longs under any circumstance
 - [ ] Leading sector: XLK — watch for setups in this sector
 
 ---
