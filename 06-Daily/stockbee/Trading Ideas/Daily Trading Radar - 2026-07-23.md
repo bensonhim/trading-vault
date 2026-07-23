@@ -30,21 +30,21 @@ data_date: 2026-07-22
 
 ### Primary Indicators
 
-| Indicator | 2026-07-22 | 2026-07-21 | 2026-07-20 | 2026-07-17 | 2026-07-16 | Trend |
-|-----------|-------|-------|-------|-------|-------|-------|
-| Net Primary | -26 | +75 | -53 | +44 | +144 | — |
-| T2108 | 50.93% | 50.19% | 49.44% | 53.50% | 56.29% | — |
-| Breakouts | 160 | 464 | 131 | 138 | 251 | — |
-| Breakdowns | 240 | 131 | 212 | 166 | 509 | — |
-| BO:BD Ratio | 0.67 | 3.54 | 0.62 | 0.83 | 0.49 | — |
+| Indicator   | 2026-07-22 | 2026-07-21 | 2026-07-20 | 2026-07-17 | 2026-07-16 | Trend |
+| ----------- | ---------- | ---------- | ---------- | ---------- | ---------- | ----- |
+| Net Primary | -26        | +75        | -53        | +44        | +144       | —     |
+| T2108       | 50.93%     | 50.19%     | 49.44%     | 53.50%     | 56.29%     | —     |
+| Breakouts   | 160        | 464        | 131        | 138        | 251        | —     |
+| Breakdowns  | 240        | 131        | 212        | 166        | 509        | —     |
+| BO:BD Ratio | 0.67       | 3.54       | 0.62       | 0.83       | 0.49       | —     |
 
 ### Secondary Indicators
 
-| Indicator | 2026-07-22 | Signal | Interpretation |
-|-----------|---------|--------|----------------|
-| Monthly 25% Up | 101 | Normal | Stocks up 25%+ in a month |
-| Monthly 25% Down | 170 | Normal | Stocks down 25%+ in a month |
-| Monthly 25% Ratio | 0.59
+| Indicator         | 2026-07-22 | Signal | Interpretation              |
+| ----------------- | ---------- | ------ | --------------------------- |
+| Monthly 25% Up    | 101        | Normal | Stocks up 25%+ in a month   |
+| Monthly 25% Down  | 170        | Normal | Stocks down 25%+ in a month |
+| Monthly 25% Ratio | 0.59       |        |                             |
 Below 1.0 | Bearish tilt |
 | Fib 13% Up (34d) | 1670 | High | Stocks up 13%+ in 34 days |
 | Fib 13% Down (34d) | 1608 | High | Stocks down 13%+ in 34 days |
