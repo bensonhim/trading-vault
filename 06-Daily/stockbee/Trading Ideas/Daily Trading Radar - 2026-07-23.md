@@ -11,18 +11,18 @@ data_date: 2026-07-22
 
 > [!caution] **RANGE_BOUND** — Action: **SIPs_ONLY**
 >
-> - **20% Study (bullish):** 27
-> - **20% Study (bearish):** 49
+> - **20% Study (bullish):** 25
+> - **20% Study (bearish):** 42
 > - **T2108:** 50.9%
 > - **Net Primary:** -26
 > - **Breakouts:** 160 | **Breakdowns:** 240
 > - **Follow-through:** 3d=26.6% 5d=26.6% (FAILING)
 >
 > - Monthly 25% ratio 0.59 < 0.8
-> - 20% study at 27 (< 30) = funds not aggressively buying, breakouts unlikely to follow through
+> - 20% study at 25 (< 30) = funds not aggressively buying, breakouts unlikely to follow through
 > - Follow-through 5d rate 27% < 30% — breakouts failing, no momentum
 > - Secondary indicators weakening (5d/10d ratio < 0.8 or breakdown spike) — downgrade to REDUCE_SIZE
-> - 20% study at 27 (< 30) — downgraded to RANGE_BOUND/SIPs_ONLY. Funds not buying, breakouts unlikely to follow through.
+> - 20% study at 25 (< 30) — downgraded to RANGE_BOUND/SIPs_ONLY. Funds not buying, breakouts unlikely to follow through.
 
 ---
 
@@ -30,21 +30,21 @@ data_date: 2026-07-22
 
 ### Primary Indicators
 
-| Indicator   | 2026-07-22 | 2026-07-21 | 2026-07-20 | 2026-07-17 | 2026-07-16 | Trend |
-| ----------- | ---------- | ---------- | ---------- | ---------- | ---------- | ----- |
-| Net Primary | -26        | +75        | -53        | +44        | +144       | —     |
-| T2108       | 50.93%     | 50.19%     | 49.44%     | 53.50%     | 56.29%     | —     |
-| Breakouts   | 160        | 464        | 131        | 138        | 251        | —     |
-| Breakdowns  | 240        | 131        | 212        | 166        | 509        | —     |
-| BO:BD Ratio | 0.67       | 3.54       | 0.62       | 0.83       | 0.49       | —     |
+| Indicator | 2026-07-22 | 2026-07-21 | 2026-07-20 | 2026-07-17 | 2026-07-16 | Trend |
+|-----------|-------|-------|-------|-------|-------|-------|
+| Net Primary | -26 | +75 | -53 | +44 | +144 | — |
+| T2108 | 50.93% | 50.19% | 49.44% | 53.50% | 56.29% | — |
+| Breakouts | 160 | 464 | 131 | 138 | 251 | — |
+| Breakdowns | 240 | 131 | 212 | 166 | 509 | — |
+| BO:BD Ratio | 0.67 | 3.54 | 0.62 | 0.83 | 0.49 | — |
 
 ### Secondary Indicators
 
-| Indicator         | 2026-07-22 | Signal | Interpretation              |
-| ----------------- | ---------- | ------ | --------------------------- |
-| Monthly 25% Up    | 101        | Normal | Stocks up 25%+ in a month   |
-| Monthly 25% Down  | 170        | Normal | Stocks down 25%+ in a month |
-| Monthly 25% Ratio | 0.59       |        |                             |
+| Indicator | 2026-07-22 | Signal | Interpretation |
+|-----------|---------|--------|----------------|
+| Monthly 25% Up | 101 | Normal | Stocks up 25%+ in a month |
+| Monthly 25% Down | 170 | Normal | Stocks down 25%+ in a month |
+| Monthly 25% Ratio | 0.59
 Below 1.0 | Bearish tilt |
 | Fib 13% Up (34d) | 1670 | High | Stocks up 13%+ in 34 days |
 | Fib 13% Down (34d) | 1608 | High | Stocks down 13%+ in 34 days |
@@ -62,11 +62,11 @@ Above 1.0 | Bullish medium-term |
 
 | Metric | Value | Signal |
 |--------|-------|--------|
-| Stocks up 20%+ (5d) | 27 | ⚠️ Low — breakouts unlikely to follow through |
-| Stocks down 20%+ (5d) | 49 | Normal |
+| Stocks up 20%+ (5d) | 25 | ⚠️ Low — breakouts unlikely to follow through |
+| Stocks down 20%+ (5d) | 42 | Normal |
 
 > [!warning] Scan Suppression Active: SOS, DEP, ANTS
-> 20% study at 27 — breakouts unlikely to follow through in this environment.
+> 20% study at 25 — breakouts unlikely to follow through in this environment.
 
 **Breakout Follow-Through (last 10 days):** 3d=26.6% 5d=26.6% [FAILING]
 
@@ -117,18 +117,18 @@ RS_20d: 7.37 | RS_65d: 2.02
 
 ### Young Momentum — TI65 Bullish, sorted by C65 ascending (20 shown, top 10)
 
-| Ticker | TI65 | C65 | D65 | C/C7   | Change% | Close   | Volume     |
-| ------ | ---- | --- | --- | ------ | ------- | ------- | ---------- |
-| NU     | 1.05 | 1   | 75  | 1.061  | +0.8%   | $14.51  | 94,319,968 |
-| REXR   | 1.05 | 1   | 31  | 1.058  | -1.0%   | $36.77  | 3,775,760  |
-| SSB    | 1.05 | 1   | 17  | 1.017  | -0.1%   | $102.19 | 725,379    |
-| OCFC   | 1.05 | 1   | 0   | 1.028  | -0.7%   | $19.67  | 926,372    |
-| SF     | 1.05 | 1   | 34  | 1.055  | +2.2%   | $79.31  | 1,707,909  |
-| ASBP   | 1.10 | 2   | 96  | 1.300  | +2.9%   | $7.76   | 131,471    |
-| LCID   | 1.09 | 2   | 83  | 1.230  | -7.4%   | $6.78   | 17,116,954 |
-| APAM   | 1.06 | 2   | 29  | 1.063  | -0.6%   | $38.98  | 608,116    |
-| J      | 1.06 | 2   | 37  | 1.031  | +0.7%   | $130.50 | 464,879    |
-| DFNS   | 4.17 | 3   | 97  | 50.107 | -28.5%  | $4.70   | 1,093,350  |
+| Ticker | TI65 | C65 | D65 | C/C7 | Change% | Close | Volume |
+|--------|------|-----|-----|------|---------|-------|--------|
+| NU | 1.05 | 1 | 75 | 1.061 | +0.8% | $14.51 | 94,319,968 |
+| REXR | 1.05 | 1 | 31 | 1.058 | -1.0% | $36.77 | 3,775,760 |
+| SSB | 1.05 | 1 | 17 | 1.017 | -0.1% | $102.19 | 725,379 |
+| OCFC | 1.05 | 1 | 0 | 1.028 | -0.7% | $19.67 | 926,372 |
+| SF | 1.05 | 1 | 34 | 1.055 | +2.2% | $79.31 | 1,707,909 |
+| ASBP | 1.10 | 2 | 96 | 1.300 | +2.9% | $7.76 | 131,471 |
+| LCID | 1.09 | 2 | 83 | 1.230 | -7.4% | $6.78 | 17,116,954 |
+| APAM | 1.06 | 2 | 29 | 1.063 | -0.6% | $38.98 | 608,116 |
+| J | 1.06 | 2 | 37 | 1.031 | +0.7% | $130.50 | 464,879 |
+| DFNS | 4.17 | 3 | 97 | 50.107 | -28.5% | $4.70 | 1,093,350 |
 
 ### TI65 Anticipation — Bullish + ±0.4% narrow range day (193 candidates, top 20)
 
@@ -173,6 +173,25 @@ RS_20d: 7.37 | RS_65d: 2.02
 | PENG | 1.17 | 72 | 0.767 | +1.9% | $59.20 | 2,236,740 |
 | AIIO | 1.36 | 46 | 0.772 | -4.0% | $3.09 | 1,060,565 |
 | RGNX | 1.19 | 25 | 0.800 | -1.4% | $10.20 | 1,153,044 |
+
+### TI65 Young Pullback — Anticipation Candidates (10 stocks)
+
+> [!tip] **Pradeep's #1 TI65 workflow output:** Young trend (C65 <= 10) + orderly pullback (C/C7 0.85-1.05).
+> These are stocks that JUST turned bullish AND are in a pullback/flat day. Highest reward/risk.
+> Buy on breakout above today's high, or place BSLO above consolidation.
+
+| Ticker | TI65 | C65 | D65 | C/C7 | Change% | Close | Volume | Action |
+|--------|------|-----|-----|------|---------|-------|--------|--------|
+| SSB | 1.05 | 1 | 17 | 1.017 | -0.1% | $102.19 | 725,379 | flat day — BSLO |
+| OCFC | 1.05 | 1 | 0 | 1.028 | -0.7% | $19.67 | 926,372 | near flat — watch |
+| J | 1.06 | 2 | 37 | 1.031 | +0.7% | $130.50 | 464,879 | near flat — watch |
+| FSV | 1.05 | 3 | 38 | 0.989 | -1.2% | $141.63 | 180,189 | flat day — BSLO |
+| BFAM | 1.06 | 3 | 59 | 0.964 | -3.4% | $72.04 | 1,348,161 | flat day — BSLO |
+| HUBS | 1.06 | 3 | 81 | 0.942 | -6.2% | $204.90 | 1,637,618 | pullback — buy dip |
+| AFL | 1.05 | 4 | 0 | 1.002 | -0.0% | $123.58 | 1,522,441 | flat day — BSLO |
+| CCB | 1.05 | 4 | 60 | 0.987 | +0.4% | $77.55 | 130,453 | flat day — BSLO |
+| BOKF | 1.05 | 4 | 0 | 1.025 | +1.1% | $141.55 | 325,157 | near flat — watch |
+| SPFI | 1.05 | 4 | 2 | 1.026 | -0.1% | $43.84 | 169,380 | near flat — watch |
 
 ---
 
@@ -374,13 +393,6 @@ RS_20d: 7.37 | RS_65d: 2.02
 
 ## 11. Action Summary
 
-- [ ] **RANGE_BOUND / SIPs ONLY** — breakouts unlikely to follow through
-- [ ] No swing longs — SIPs and intraday only
-- [ ] Pradeep: 'My wallet is closed. Nothing to do.'
-- [ ] **Focus on SIPs** — 16 fresh catalyst stocks for day trade
-- [ ] Monitor 11 short-side setups
-- [ ] Fading breakouts may be better than buying breakouts
-- [ ] Watch for capitulation signal (T2108 < 10%)
 - [ ] Leading sector: XOP — watch for setups in this sector
 
 ---
