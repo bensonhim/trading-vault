@@ -2,27 +2,21 @@
 title: "Daily Trading Radar — 2026-05-26"
 date: 2026-05-26
 tags: [trading-radar, stockbee, pradeep-bonde, daily-report]
-data_date: 2026-05-25
+data_date: 2026-05-22
 ---
 
 # Daily Trading Radar — 2026-05-26
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **RANGE_BOUND** — Action: **SIPs_ONLY**
+> [!tip] **FULL_BULL** — Action: **FULL_LONG**
 >
-> - **20% Study (bullish):** 25
-> - **20% Study (bearish):** 42
-> - **T2108:** 50.9%
-> - **Net Primary:** -26
-> - **Breakouts:** 160 | **Breakdowns:** 240
-> - **Follow-through:** 3d=36.3% 5d=40.7% (OK)
->
-> - Monthly 25% ratio 0.59 < 0.8
-> - TI65 bullish universe 26 < 800 (market losing momentum)
-> - TI65 young momentum 3 < 30 (few new trends starting)
-> - 20% study at 25 (< 30) = funds not aggressively buying, breakouts unlikely to follow through
-> - 20% study at 25 (< 30) — downgraded to RANGE_BOUND/SIPs_ONLY. Funds not buying, breakouts unlikely to follow through.
+> - **20% Study (bullish):** 0
+> - **20% Study (bearish):** 0
+> - **T2108:** 47.7%
+> - **Net Primary:** +474
+> - **Breakouts:** 339 | **Breakdowns:** 119
+> - **Follow-through:** 3d=34.0% 5d=31.0% (OK)
 
 ---
 
@@ -40,127 +34,73 @@ data_date: 2026-05-25
 
 ### Secondary Indicators
 
-| Indicator | 2026-05-25 | Signal | Interpretation |
+| Indicator | 2026-05-22 | Signal | Interpretation |
 |-----------|---------|--------|----------------|
-| Monthly 25% Up | 101 | Normal | Stocks up 25%+ in a month |
-| Monthly 25% Down | 170 | Normal | Stocks down 25%+ in a month |
-| Monthly 25% Ratio | 0.59
-Below 1.0 | Bearish tilt |
-| Fib 13% Up (34d) | 1670 | High | Stocks up 13%+ in 34 days |
-| Fib 13% Down (34d) | 1608 | High | Stocks down 13%+ in 34 days |
-| Fib 13% Ratio | 1.04
+| Monthly 25% Up | 213 | Elevated | Stocks up 25%+ in a month |
+| Monthly 25% Down | 112 | Normal | Stocks down 25%+ in a month |
+| Monthly 25% Ratio | 1.90
+Above 1.0 | Bullish |
+| Fib 13% Up (34d) | 1710 | High | Stocks up 13%+ in 34 days |
+| Fib 13% Down (34d) | 1458 | Normal | Stocks down 13%+ in 34 days |
+| Fib 13% Ratio | 1.17
 Above 1.0 | Bullish medium-term |
-| 5-Day Ratio | 0.91 | Below 1.0 | Short-term normal |
-| 10-Day Ratio | 0.92 | Below 1.0 | Normal |
-
-> [!warning] Secondary Indicator Warnings
-
-- Monthly 25% ratio below 0.8 — more stocks down 25%+ than up
-
-
-> [!abstract] 20% Study (Pradeep's #1 SA Signal)
-
-| Metric | Value | Signal |
-|--------|-------|--------|
-| Stocks up 20%+ (5d) | 25 | ⚠️ Low — breakouts unlikely to follow through |
-| Stocks down 20%+ (5d) | 42 | Normal |
-
-> [!warning] Scan Suppression Active: SOS, DEP, ANTS
-> 20% study at 25 — breakouts unlikely to follow through in this environment.
-
-**Breakout Follow-Through (last 10 days):** 3d=36.3% 5d=40.7% [OK]
-
-> When 5-day follow-through < 30%, breakouts are systematically failing. Pradeep: 'Just see what happened to breakouts from yesterday, and did they follow through.'
+| 5-Day Ratio | 1.68 | Above 1.0 | Short-term bullish |
+| 10-Day Ratio | 1.12 | Above 1.0 | Bullish |
 
 ---
 
 ## 3. Sector Relative Strength
 
----
+**Leading Sector:** BUG (cybersecurity)
+RS_20d: 6.68 | RS_65d: 3.00
 
-## 4b. TI65 Trend Intensity
+### Sector RS Heatmap (grouped by theme, top 10)
 
-> [!info] **TI65 = AVGC7 / AVGC65** — absolute momentum indicator (Pradeep).
-> ≥1.05 = bullish velocity, ≤0.95 = bearish velocity, 0.95–1.05 = neutral.
-> C65 = days in bullish TI65 (last 100). C65 ≤ 10 = **young momentum** (highest R/R).
-
-| Universe | Count | Notes |
-|----------|-------|-------|
-| Bullish (≥1.05, vol≥100K) | 26 | Active uptrends |
-| Bearish (≤0.95, vol≥1M) | 2 | Active downtrends (short universe) |
-| Bearish (≤0.95, vol≥100K) | 7 | Wider bearish universe |
-| Neutral | 499 | No clear trend |
-| **Young momentum** (C65 ≤ 10) | **3** | **First 10 days of bullish TI65 — highest reward/risk** |
-| Total scanned | 711 | All tickers with ≥65 days history |
-
-### Young Momentum — TI65 Bullish, sorted by C65 ascending (20 shown, top 10)
-
-| Ticker | TI65 | C65 | D65 | C/C7 | Change% | Close | Volume |
-|--------|------|-----|-----|------|---------|-------|--------|
-| XEQT.TO | 1.05 | 1 | 0 | 1.029 | +1.8% | $44.44 | 1,300,800 |
-| VEQT.TO | 1.05 | 2 | 0 | 1.029 | +1.8% | $60.50 | 503,410 |
-| ZEQT.TO | 1.06 | 7 | 0 | 1.041 | +3.2% | $23.20 | 141,202 |
-| VFV.TO | 1.08 | 12 | 0 | 1.026 | +1.4% | $185.34 | 211,800 |
-| XSP.TO | 1.07 | 12 | 2 | 1.019 | +1.4% | $76.27 | 179,444 |
-| GDXD.TO | 1.06 | 17 | 68 | 1.122 | -9.1% | $10.79 | 221,900 |
-| HDIV.TO | 1.07 | 18 | 0 | 1.028 | +0.5% | $23.11 | 200,937 |
-| HYLD.TO | 1.11 | 20 | 6 | 1.026 | +2.0% | $15.90 | 263,613 |
-| XDIV.TO | 1.07 | 21 | 0 | 1.030 | -0.2% | $43.07 | 277,400 |
-| BTCC.TO | 1.06 | 21 | 60 | 0.970 | +2.0% | $13.65 | 101,100 |
-
-### TI65 Anticipation — Bullish + ±0.4% narrow range day (3 candidates, top 20)
-
-> Stocks with established bullish momentum having a flat day — likely breakout setup.
-
-| Ticker | TI65 | C65 | C/C7 | Change% | Close | Volume |
-|--------|------|-----|------|---------|-------|--------|
-| VDY.TO | 1.07 | 34 | 1.046 | +0.03% | $74.08 | 390,619 |
-| XDIV.TO | 1.07 | 21 | 1.030 | -0.19% | $43.07 | 277,400 |
-| XEI.TO | 1.06 | 45 | 1.035 | -0.33% | $38.98 | 344,000 |
-
-### TI65 Pullback Scan — Bullish, sorted by C/C7 ascending (20 shown, top 10)
-
-> Pradeep: top of list = reversals (skip), middle = orderly pullbacks (**buy**), bottom = extended (skip).
-
-| Ticker | TI65 | C65 | C/C7 | Change% | Close | Volume |
-|--------|------|-----|------|---------|-------|--------|
-| HOU.TO | 1.21 | 81 | 0.863 | -11.8% | $21.90 | 1,563,700 |
-| MSTE.TO | 1.13 | 25 | 0.948 | +5.8% | $3.63 | 555,631 |
-| BTCC.TO | 1.06 | 21 | 0.970 | +2.0% | $13.65 | 101,100 |
-| YTSL.NE | 1.07 | 26 | 0.989 | +2.9% | $20.54 | 162,929 |
-| XEG.TO | 1.08 | 82 | 0.996 | -3.3% | $26.92 | 2,039,727 |
-| ENCC.TO | 1.08 | 64 | 1.014 | -2.0% | $12.77 | 256,900 |
-| ENCL.TO | 1.10 | 70 | 1.017 | -2.5% | $22.96 | 149,903 |
-| XSP.TO | 1.07 | 12 | 1.019 | +1.4% | $76.27 | 179,444 |
-| XQQ.TO | 1.12 | 23 | 1.020 | +1.6% | $73.02 | 176,300 |
-| VFV.TO | 1.08 | 12 | 1.026 | +1.4% | $185.34 | 211,800 |
-
-### TI65 Young Pullback — Anticipation Candidates (3 stocks)
-
-> [!tip] **Pradeep's #1 TI65 workflow output:** Young trend (C65 <= 10) + orderly pullback (C/C7 0.85-1.05).
-> These are stocks that JUST turned bullish AND are in a pullback/flat day. Highest reward/risk.
-> Buy on breakout above today's high, or place BSLO above consolidation.
-
-| Ticker | TI65 | C65 | D65 | C/C7 | Change% | Close | Volume | Action |
-|--------|------|-----|-----|------|---------|-------|--------|--------|
-| XEQT.TO | 1.05 | 1 | 0 | 1.029 | +1.8% | $44.44 | 1,300,800 | near flat — watch |
-| VEQT.TO | 1.05 | 2 | 0 | 1.029 | +1.8% | $60.50 | 503,410 | near flat — watch |
-| ZEQT.TO | 1.06 | 7 | 0 | 1.041 | +3.2% | $23.20 | 141,202 | near flat — watch |
+| Rank | Ticker | Theme | RS_20d | RS_65d | ETF 20d | SPY 20d | Excess | Status |
+|------|--------|-------|--------|--------|---------|---------|--------|--------|
+| 1 | BUG | cybersecurity | 6.68 | 3.00 | +29.7% | +4.4% | +25.2% | LEADING |
+| 2 | UFO | space_economy | 4.80 | 3.99 | +21.3% | +4.4% | +16.9% |  |
+| 3 | SOXX | semiconductors | 3.70 | 5.54 | +16.4% | +4.4% | +12.0% |  |
+| 4 | QTUM | quantum_computing | 3.50 | 3.43 | +15.6% | +4.4% | +11.1% |  |
+| 5 | AIQ | ai_tech | 3.13 | 2.94 | +13.9% | +4.4% | +9.5% |  |
+| 6 | SKYY | cloud_computing | 2.75 | 1.89 | +12.2% | +4.4% | +7.8% |  |
+| 7 | ICLN | clean_energy | 2.74 | 2.07 | +12.1% | +4.4% | +7.7% |  |
+| 8 | DRIV | ev_automotive | 2.68 | 2.67 | +11.9% | +4.4% | +7.5% |  |
+| 9 | BLOK | blockchain | 1.44 | 2.08 | +6.4% | +4.4% | +2.0% |  |
+| 10 | XLV | healthcare_broad | 0.89 | -0.47 | +4.0% | +4.4% | -0.5% |  |
 
 ---
 
 ## 5. Trade Ideas
 
-### FADE Candidates — Yesterday's Failing Breakouts (1)
+### SIPs — Stocks in Play (30 found, 27 fresh catalyst — top 15)
 
-> [!warning] FADE MODE — 20% study < 35. Breakouts not following through.
-> These stocks broke out yesterday (+4%) but are failing today. Short on bounce or breakdown.
-> Pradeep: 'Fading breakouts is a better strategy than buying breakouts here.'
+> [!info] Pradeep: 'When nothing else works, SIPs are the only thing that works.'
+> Stocks with fresh catalyst (earnings, news, partnerships) + volume. Day trade / 1-2 day swing.
+> **[EXTENDED]** = already up 20%+ in 5d = 'priced in'. **[DILUTION]** = small-cap gap, shelf offering risk.
 
-| Ticker | Yesterday BO Close | Today Close | Fail % | Volume |
-|--------|-------------------|-------------|--------|--------|
-| HND.TO | $24.15 | $23.90 | -1.0% | 120,419 |
+| Ticker | Gap% | Change% | Volume | 5d Move | Flags |
+|--------|------|---------|--------|---------|-------|
+| AMD | +4.5% | +4.0% | 34,758,602 | +10% | LARGE-CAP |
+| RKLB | +4.8% | +8.2% | 32,970,700 | +9% | fresh |
+| EOSE | +4.3% | -1.4% | 24,593,900 | +2% | fresh |
+| FLO | +8.7% | +13.2% | 17,830,249 | +11% | fresh |
+| KIDZ | +20.2% | +24.8% | 17,354,920 | -2% | fresh |
+| MRK | +4.0% | +5.6% | 14,754,581 | +10% | LARGE-CAP |
+| LION | +5.0% | +15.8% | 11,246,020 | +18% | fresh |
+| WDAY | +5.7% | +5.2% | 10,789,758 | +2% | fresh |
+| IMRX | +14.8% | +3.3% | 10,177,181 | +4% | fresh |
+| ZM | +12.1% | +9.2% | 9,632,558 | +5% | fresh |
+| BE | +4.0% | -1.8% | 9,523,500 | +10% | LARGE-CAP |
+| EL | +12.7% | +11.9% | 8,107,758 | +10% | fresh |
+| SMTC | +5.8% | +7.0% | 6,409,877 | +14% | fresh |
+| GSIT | +7.5% | +4.2% | 5,791,477 | +0% | fresh |
+| ROST | +5.4% | +8.1% | 4,589,063 | +10% | LARGE-CAP |
 
+### SOS Breakout Candidates (0 found — top 20)
+
+| # | Ticker | Change% | Volume | Two Lynch | Leg | Priority |
+|---|--------|---------|--------|-----------|-----|----------|
 
 ### DEP Candidates (0 found)
 
@@ -201,17 +141,17 @@ Above 1.0 | Bullish medium-term |
 | 7 | TSLL | 9 | 4 | 81 | expanded |
 | 8 | CLSK | 9 | 3 | 9 | expanded |
 | 9 | KEEL | 9 | 3 | 9 | expanded |
-| 10 | SIDU | 9 | 3 | 9 | expanded |
-| 11 | SNXX | 9 | 3 | 30 | core |
-| 12 | USAR | 9 | 3 | 51 | expanded |
-| 13 | MSTU | 9 | 2 | 5 | expanded |
-| 14 | APLD | 8 | 4 | 89 | core |
-| 15 | DRAM | 8 | 4 | 8 | expanded |
-| 16 | FCEL | 8 | 4 | 9 | expanded |
-| 17 | MU | 8 | 4 | 9 | expanded |
-| 18 | AMD | 8 | 3 | 7 | core |
-| 19 | MULL | 8 | 3 | 25 | core |
-| 20 | NBIS | 8 | 3 | 9 | expanded |
+| 10 | NVTS | 9 | 3 | 8 | expanded |
+| 11 | SIDU | 9 | 3 | 9 | expanded |
+| 12 | SNXX | 9 | 3 | 30 | core |
+| 13 | USAR | 9 | 3 | 51 | expanded |
+| 14 | MSTU | 9 | 2 | 9 | expanded |
+| 15 | APLD | 8 | 4 | 89 | core |
+| 16 | DRAM | 8 | 4 | 9 | expanded |
+| 17 | FCEL | 8 | 4 | 9 | expanded |
+| 18 | MU | 8 | 4 | 9 | expanded |
+| 19 | SPCE | 8 | 4 | 7 | expanded |
+| 20 | AMD | 8 | 3 | 7 | core |
 
 ---
 
@@ -219,40 +159,27 @@ Above 1.0 | Bullish medium-term |
 
 | Date | Similarity | Pradeep's Call | Outcome |
 |------|-----------|----------------|---------|
-| 2026-05-22 | 80% | cautious/REDUCE_SIZE | SPY rose 1.7% over 5 days |
-| 2026-05-22 | 80% | cautious/REDUCE_SIZE | SPY rose 1.7% over 5 days |
 | 2026-05-21 | 64% | bullish/FULL_LONG | SPY rose 1.9% over 5 days |
+| 2026-05-21 | 64% | bullish/FULL_LONG | SPY rose 1.9% over 5 days |
+| 2026-05-14 | 61% | choppy/REDUCE_SIZE | SPY fell -0.7% over 5 days |
 
 ---
 
-## 10. Short-Side Setups (7 candidates)
+## 10. Short-Side Setups (1 candidates)
 
 ### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -27.8% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
-
-### Bearish DEP (5) — negative EP → breakdown below consolidation
-
-| Ticker | EP Age | EP Change | Entry | Stop | Notes |
-|--------|--------|-----------|-------|------|-------|
-| XSD2.L | 19d | -4.4% | $43.35 | $46.67 | Negative EP 19d ago (-4.4%), breaking consolidation |
-| EXK | 6d | -5.1% | $9.33 | $9.36 | Negative EP 6d ago (-5.1%), breaking consolidation |
-| LYB | 19d | -5.5% | $69.35 | $74.28 | Negative EP 19d ago (-5.5%), breaking consolidation |
-| SVM | 6d | -6.4% | $12.22 | $12.55 | Negative EP 6d ago (-6.4%), breaking consolidation |
-| SDOW | 25d | -4.8% | $27.26 | $29.54 | Negative EP 25d ago (-4.8%), breaking consolidation |
-
-### WSS Enhanced (1) — waterfall / sector breakdown / cult breakdown
-
-| Ticker | Pattern | Change % | Entry | Stop | Notes |
-|--------|---------|----------|-------|------|-------|
-| HOU.TO | waterfall | -11.8% | $21.90 | $22.47 | Waterfall decline → weak bounce → resumed selling |
+| PEGA | -27.6% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
 
 ---
 
 ## 11. Action Summary
 
+- [ ] Full playbook — size into A+ confluences (0 SOS, 0 DEP available)
+- [ ] Watch 27 fresh SIPs for day trade entries
+- [ ] Leading sector: BUG — watch for setups in this sector
 
 ---
 

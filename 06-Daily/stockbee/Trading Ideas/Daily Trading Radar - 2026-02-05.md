@@ -11,8 +11,8 @@ data_date: 2026-02-04
 
 > [!warning] **DISTRIBUTING** — Action: **NO_NEW_LONGS**
 >
-> - **20% Study (bullish):** 25
-> - **20% Study (bearish):** 42
+> - **20% Study (bullish):** 22
+> - **20% Study (bearish):** 69
 > - **T2108:** 57.8%
 > - **Net Primary:** +280
 > - **Breakouts:** 279 | **Breakdowns:** 505
@@ -64,19 +64,15 @@ Below 1.0 | Bearish medium-term |
 
 | Metric | Value | Signal |
 |--------|-------|--------|
-| Stocks up 20%+ (5d) | 25 | ⚠️ Low — breakouts unlikely to follow through |
-| Stocks down 20%+ (5d) | 42 | Normal |
+| Stocks up 20%+ (5d) | 22 | ⚠️ Low — breakouts unlikely to follow through |
+| Stocks down 20%+ (5d) | 69 | Oversold bounce possible |
 
 > [!warning] Scan Suppression Active: SOS, DEP, ANTS
-> 20% study at 25 — breakouts unlikely to follow through in this environment.
+> 20% study at 22 — breakouts unlikely to follow through in this environment.
 
 **Breakout Follow-Through (last 10 days):** 3d=26.7% 5d=20.0% [FAILING]
 
 > When 5-day follow-through < 30%, breakouts are systematically failing. Pradeep: 'Just see what happened to breakouts from yesterday, and did they follow through.'
-
-
-> [!danger] SELLING SPREADING — Selling spreading to 6 sectors: Unknown (311->480), Basic Materials (7->57), Healthcare (197->318), Industrials (82->171), Energy (17->35), Utilities (3->13)
-> Pradeep: 'Selling is going to spread to the other stocks which are holding up.'
 
 ---
 
@@ -105,102 +101,31 @@ RS_20d: 0.99 | RS_65d: 2.40
 
 ---
 
-## 4b. TI65 Trend Intensity
-
-> [!info] **TI65 = AVGC7 / AVGC65** — absolute momentum indicator (Pradeep).
-> ≥1.05 = bullish velocity, ≤0.95 = bearish velocity, 0.95–1.05 = neutral.
-> C65 = days in bullish TI65 (last 100). C65 ≤ 10 = **young momentum** (highest R/R).
-
-| Universe | Count | Notes |
-|----------|-------|-------|
-| Bullish (≥1.05, vol≥100K) | 1813 | Active uptrends |
-| Bearish (≤0.95, vol≥1M) | 485 | Active downtrends (short universe) |
-| Bearish (≤0.95, vol≥100K) | 871 | Wider bearish universe |
-| Neutral | 7107 | No clear trend |
-| **Young momentum** (C65 ≤ 10) | **177** | **First 10 days of bullish TI65 — highest reward/risk** |
-| Total scanned | 11918 | All tickers with ≥65 days history |
-
-### Young Momentum — TI65 Bullish, sorted by C65 ascending (20 shown, top 10)
-
-| Ticker | TI65 | C65 | D65 | C/C7 | Change% | Close | Volume |
-|--------|------|-----|-----|------|---------|-------|--------|
-| POAS | 1.15 | 1 | 16 | 1.849 | +32.3% | $6.60 | 1,363,336 |
-| VZ | 1.07 | 1 | 16 | 1.186 | +1.6% | $45.53 | 46,213,110 |
-| IEO | 1.06 | 1 | 0 | 1.076 | +3.2% | $100.89 | 112,851 |
-| EPD | 1.06 | 1 | 0 | 1.083 | +1.6% | $34.70 | 10,186,846 |
-| MTDR | 1.06 | 1 | 39 | 1.104 | +5.4% | $46.30 | 2,066,236 |
-| GABC | 1.06 | 1 | 0 | 1.090 | +2.6% | $43.61 | 204,701 |
-| LVHI | 1.05 | 1 | 0 | 1.050 | +1.6% | $38.95 | 1,178,600 |
-| KXI | 1.05 | 1 | 0 | 1.052 | +1.5% | $70.03 | 182,200 |
-| CME | 1.05 | 1 | 0 | 1.037 | +0.5% | $286.26 | 3,183,300 |
-| AMLP | 1.05 | 1 | 0 | 1.026 | +0.6% | $48.67 | 1,951,838 |
-
-### TI65 Anticipation — Bullish + ±0.4% narrow range day (227 candidates, top 20)
-
-> Stocks with established bullish momentum having a flat day — likely breakout setup.
-
-| Ticker | TI65 | C65 | C/C7 | Change% | Close | Volume |
-|--------|------|-----|------|---------|-------|--------|
-| JDZG | 1.35 | 21 | 1.054 | +0.00% | $390.00 | 129,250 |
-| SLVR | 1.31 | 87 | 0.849 | +0.00% | $67.59 | 457,048 |
-| DBRG | 1.18 | 71 | 1.003 | +0.00% | $15.43 | 9,132,700 |
-| PBYI | 1.17 | 75 | 1.104 | +0.00% | $7.10 | 638,157 |
-| VREX | 1.13 | 56 | 0.999 | +0.00% | $13.93 | 258,787 |
-| FLS | 1.09 | 74 | 1.026 | +0.00% | $79.29 | 1,765,800 |
-| ARI | 1.09 | 11 | 1.086 | +0.00% | $6.84 | 1,003,921 |
-| ICOM.L | 1.08 | 11 | 0.979 | +0.00% | $8.63 | 406,643 |
-| VSS | 1.08 | 15 | 1.000 | +0.00% | $152.84 | 184,341 |
-| GSG **YOUNG** | 1.07 | 6 | 1.008 | +0.00% | $25.06 | 1,154,528 |
-| CUBI | 1.07 | 43 | 1.011 | +0.00% | $78.34 | 500,400 |
-| AQN | 1.07 | 30 | 1.016 | +0.00% | $6.39 | 5,083,439 |
-| IUIS.L | 1.06 | 15 | 1.030 | +0.00% | $14.26 | 189,681 |
-| AOSL | 1.05 | 22 | 1.015 | +0.00% | $22.27 | 509,754 |
-| VIS | 1.06 | 15 | 1.025 | +0.02% | $326.07 | 135,400 |
-| CM | 1.05 | 84 | 1.038 | +0.02% | $93.56 | 572,925 |
-| MOD | 1.22 | 48 | 1.344 | +0.03% | $199.53 | 2,361,900 |
-| CERY | 1.08 | 14 | 0.989 | -0.03% | $31.03 | 357,645 |
-| TD | 1.07 | 73 | 1.006 | -0.03% | $94.08 | 2,741,700 |
-| IAUM | 1.15 | 96 | 0.977 | -0.04% | $49.25 | 10,235,200 |
-
-### TI65 Pullback Scan — Bullish, sorted by C/C7 ascending (20 shown, top 10)
-
-> Pradeep: top of list = reversals (skip), middle = orderly pullbacks (**buy**), bottom = extended (skip).
-
-| Ticker | TI65 | C65 | C/C7 | Change% | Close | Volume |
-|--------|------|-----|------|---------|-------|--------|
-| AHMA | 2.40 | 40 | 0.228 | -76.6% | $6.75 | 1,658,100 |
-| 3SIL.L | 1.93 | 100 | 0.316 | -0.3% | $39.87 | 331,440 |
-| 3LSI.L | 1.91 | 100 | 0.319 | +1.5% | $2972.40 | 731,260 |
-| BNAI | 4.47 | 50 | 0.359 | -4.5% | $22.27 | 1,052,932 |
-| SLVU.TO | 1.61 | 100 | 0.496 | +5.7% | $40.19 | 1,373,817 |
-| AGQ | 1.62 | 100 | 0.500 | +5.6% | $175.49 | 13,072,348 |
-| NVOX | 1.14 | 19 | 0.526 | -11.8% | $17.68 | 2,256,400 |
-| LPLA.L | 1.26 | 80 | 0.569 | -1.6% | $6.13 | 165,575 |
-| AMDG | 1.08 | 44 | 0.602 | -35.8% | $21.35 | 630,300 |
-| AMUU | 1.08 | 44 | 0.604 | -34.5% | $43.98 | 781,841 |
-
-### TI65 Young Pullback — Anticipation Candidates (10 stocks)
-
-> [!tip] **Pradeep's #1 TI65 workflow output:** Young trend (C65 <= 10) + orderly pullback (C/C7 0.85-1.05).
-> These are stocks that JUST turned bullish AND are in a pullback/flat day. Highest reward/risk.
-> Buy on breakout above today's high, or place BSLO above consolidation.
-
-| Ticker | TI65 | C65 | D65 | C/C7 | Change% | Close | Volume | Action |
-|--------|------|-----|-----|------|---------|-------|--------|--------|
-| HAUZ | 1.05 | 1 | 0 | 1.022 | +1.1% | $24.48 | 130,430 | near flat — watch |
-| AMLP | 1.05 | 1 | 0 | 1.026 | +0.6% | $48.67 | 1,951,838 | near flat — watch |
-| MLPA | 1.05 | 1 | 0 | 1.027 | +0.8% | $50.21 | 411,152 | near flat — watch |
-| PAPI | 1.05 | 1 | 0 | 1.034 | +1.6% | $26.97 | 110,300 | near flat — watch |
-| CME | 1.05 | 1 | 0 | 1.037 | +0.5% | $286.26 | 3,183,300 | near flat — watch |
-| USOI | 1.05 | 1 | 1 | 1.038 | +0.5% | $38.35 | 567,943 | near flat — watch |
-| HDEF | 1.05 | 1 | 0 | 1.046 | +1.6% | $32.11 | 421,413 | near flat — watch |
-| FBY | 1.06 | 2 | 30 | 0.989 | -3.6% | $10.28 | 462,548 | flat day — BSLO |
-| MDLZ | 1.05 | 2 | 46 | 1.015 | -0.1% | $58.40 | 20,600,400 | flat day — BSLO |
-| IYK | 1.05 | 2 | 0 | 1.040 | +0.7% | $72.64 | 672,400 | near flat — watch |
-
----
-
 ## 5. Trade Ideas
+
+### SIPs — Stocks in Play (30 found, 28 fresh catalyst — top 15)
+
+> [!info] Pradeep: 'When nothing else works, SIPs are the only thing that works.'
+> Stocks with fresh catalyst (earnings, news, partnerships) + volume. Day trade / 1-2 day swing.
+> **[EXTENDED]** = already up 20%+ in 5d = 'priced in'. **[DILUTION]** = small-cap gap, shelf offering risk.
+
+| Ticker | Gap% | Change% | Volume | 5d Move | Flags |
+|--------|------|---------|--------|---------|-------|
+| SMCI | +11.1% | +13.8% | 115,558,234 | +8% | fresh |
+| HIMS | +6.5% | -4.5% | 31,676,000 | -15% | fresh |
+| JCI | +6.8% | +4.4% | 15,320,724 | +11% | LARGE-CAP |
+| RUN | +7.2% | +12.2% | 14,446,100 | -3% | fresh |
+| MTCH | +14.8% | +5.9% | 13,896,859 | -2% | fresh |
+| MGM | +11.8% | +8.1% | 13,039,345 | +13% | fresh |
+| TGB | +4.2% | -5.2% | 11,725,430 | +1% | fresh |
+| BYAH | +49.5% | +26.9% | 11,362,902 | -20% | fresh |
+| EMR | +4.8% | +3.4% | 9,706,700 | +6% | LARGE-CAP |
+| SWKS | +5.0% | +5.5% | 8,476,700 | +7% | fresh |
+| SEDG | +10.4% | +13.1% | 7,469,949 | -2% | fresh |
+| SONO | +10.1% | +6.4% | 7,276,814 | +7% | fresh |
+| LLY | +7.1% | +10.3% | 7,119,400 | +8% | LARGE-CAP |
+| AXTI | +5.4% | -5.0% | 7,046,441 | +11% | fresh |
+| AXTA | +6.0% | +6.2% | 4,034,600 | +1% | fresh |
 
 ### FADE MODE Active (20% study < 35)
 
@@ -238,25 +163,25 @@ RS_20d: 0.99 | RS_65d: 2.40
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
 | 1 | SBET | 9 | 5 | 38 | expanded |
-| 2 | OKLO | 9 | 4 | 91 | core |
-| 3 | RIOT | 9 | 4 | 8 | expanded |
-| 4 | RUN | 9 | 4 | 8 | expanded |
-| 5 | CLSK | 9 | 3 | 9 | expanded |
-| 6 | USAR | 9 | 2 | 51 | expanded |
-| 7 | AMDL | 8 | 4 | 9 | core |
-| 8 | APLD | 8 | 4 | 89 | core |
-| 9 | IREN | 8 | 4 | 99 | expanded |
-| 10 | QUBT | 8 | 3 | 9 | expanded |
-| 11 | SMCI | 8 | 3 | 74 | expanded |
-| 12 | SNXX | 8 | 3 | 30 | core |
-| 13 | INTC | 8 | 2 | 9 | expanded |
-| 14 | MSTU | 8 | 2 | 5 | expanded |
-| 15 | AMD | 7 | 3 | 7 | core |
-| 16 | AUR | 7 | 3 | 49 | core |
-| 17 | CIFR | 7 | 3 | 9 | expanded |
-| 18 | CRML | 7 | 3 | 36 | expanded |
-| 19 | MU | 7 | 3 | 9 | expanded |
-| 20 | NBIS | 7 | 3 | 9 | expanded |
+| 2 | AMDL | 9 | 4 | 9 | core |
+| 3 | IREN | 9 | 4 | 99 | expanded |
+| 4 | OKLO | 9 | 4 | 91 | core |
+| 5 | RIOT | 9 | 4 | 8 | expanded |
+| 6 | RUN | 9 | 4 | 8 | expanded |
+| 7 | TSLL | 9 | 4 | 81 | expanded |
+| 8 | CLSK | 9 | 3 | 9 | expanded |
+| 9 | KEEL | 9 | 3 | 9 | expanded |
+| 10 | NVTS | 9 | 3 | 8 | expanded |
+| 11 | SIDU | 9 | 3 | 9 | expanded |
+| 12 | SNXX | 9 | 3 | 30 | core |
+| 13 | USAR | 9 | 3 | 51 | expanded |
+| 14 | MSTU | 9 | 2 | 9 | expanded |
+| 15 | APLD | 8 | 4 | 89 | core |
+| 16 | DRAM | 8 | 4 | 9 | expanded |
+| 17 | FCEL | 8 | 4 | 9 | expanded |
+| 18 | MU | 8 | 4 | 9 | expanded |
+| 19 | SPCE | 8 | 4 | 7 | expanded |
+| 20 | AMD | 8 | 3 | 7 | core |
 
 ---
 
@@ -270,8 +195,23 @@ RS_20d: 0.99 | RS_65d: 2.40
 
 ---
 
+## 10. Short-Side Setups (1 candidates)
+
+### EP 9M Short (1) — negative surprise gap-downs
+
+| Ticker | Gap % | Change % | Entry | Stop | Notes |
+|--------|-------|----------|-------|------|-------|
+| PEGA | -37.8% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+
+---
+
 ## 11. Action Summary
 
+- [ ] **NO NEW LONGS** — process over chasing
+- [ ] Manage existing positions only
+- [ ] SIPs only — 28 fresh catalyst for day trade
+- [ ] Monitor 1 short-side setups
+- [ ] Watch for capitulation signal (T2108 < 10%)
 - [ ] Leading sector: XLY — watch for setups in this sector
 
 ---
