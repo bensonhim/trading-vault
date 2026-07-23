@@ -9,7 +9,7 @@ data_date: 2026-05-26
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!tip] **FULL_BULL** — Action: **FULL_LONG**
+> [!caution] **CAUTIOUS_BULL** — Action: **REDUCE_SIZE**
 >
 > - **20% Study (bullish):** 128
 > - **20% Study (bearish):** 13
@@ -19,6 +19,7 @@ data_date: 2026-05-26
 > - **Follow-through:** 3d=30.0% 5d=16.7% (FAILING)
 >
 > - Follow-through 5d rate 17% < 30% — breakouts failing, no momentum
+> - Follow-through 17% < 30% but Net +590 and 5d 2.45 strong — breakouts may be 1-day pops. Reduced size, watch for follow-through improvement.
 
 ---
 
@@ -223,21 +224,25 @@ RS_20d: 5.90 | RS_65d: 5.08
 
 ---
 
-## 10. Short-Side Setups (1 candidates)
+## 10. Short-Side Setups (2 candidates)
 
-### EP 9M Short (1) — negative surprise gap-downs
+### EP 9M Short (2) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -27.8% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| ZCMD | -97.2% | -11.42% | $3.80 | $3.80 | unknown_negative (gap_down) |
+| TSLA | -19.9% | -10.66% | $334.14 | $341.86 | unknown_negative (gap_down) |
 
 ---
 
 ## 11. Action Summary
 
-- [ ] Full playbook — size into A+ confluences (0 SOS, 0 DEP available)
-- [ ] Place ANTS BSLO orders (top 5 by tight tier)
-- [ ] Watch 30 fresh SIPs for day trade entries
+- [ ] **REDUCE SIZE** — selective setups only
+- [ ] No DEP candidates — no limit orders to place
+- [ ] Place ANTS BSLO orders (super-tight/ultra-tight only, 35 available)
+- [ ] **Focus on SIPs** — 30 fresh catalyst stocks for day trade
+- [ ] Sell into strength on existing positions
+- [ ] Tighten stops to breakeven
 - [ ] Leading sector: UFO — watch for setups in this sector
 
 ---

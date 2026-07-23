@@ -22,7 +22,7 @@ data_date: 2026-05-18
 > - 20% study at 27 (< 30) = funds not aggressively buying, breakouts unlikely to follow through
 > - Follow-through 5d rate 23% < 30% — breakouts failing, no momentum
 > - Secondary indicators weakening (5d/10d ratio < 0.8 or breakdown spike) — downgrade to REDUCE_SIZE
-> - 20% study at 27 (< 30) + Net Primary +0 + 5d ratio 0.74 — all indicators weak, downgraded to RANGE_BOUND/SIPs_ONLY.
+> - 20% study at 27 (< 30) + Net Primary +231 + 5d ratio 0.74 — all indicators weak, downgraded to RANGE_BOUND/SIPs_ONLY.
 
 ---
 
@@ -196,7 +196,7 @@ RS_20d: 5.57 | RS_65d: 2.41
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -26.4% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| ZCMD | -97.2% | -11.42% | $3.80 | $3.80 | unknown_negative (gap_down) |
 
 ---
 

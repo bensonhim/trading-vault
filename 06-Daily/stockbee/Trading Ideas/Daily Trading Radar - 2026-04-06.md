@@ -166,7 +166,7 @@ Below 1.0 | Bearish medium-term |
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -41.8% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| ZCMD | -97.7% | -11.42% | $3.80 | $3.80 | unknown_negative (gap_down) |
 
 ---
 

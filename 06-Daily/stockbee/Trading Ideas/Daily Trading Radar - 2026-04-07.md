@@ -9,7 +9,7 @@ data_date: 2026-04-06
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **CAUTIOUS_BULL** — Action: **REDUCE_SIZE**
+> [!caution] **RANGE_BOUND** — Action: **SIPs_ONLY**
 >
 > - **20% Study (bullish):** 87
 > - **20% Study (bearish):** 23
@@ -21,7 +21,7 @@ data_date: 2026-04-06
 > - TI65 bullish universe 675 < 800 (market losing momentum)
 > - TI65 bearish/bullish ratio high: 787/675
 > - Follow-through 5d rate 24% < 30% — breakouts failing, no momentum
-> - Secondary indicators weakening (5d/10d ratio < 0.8 or breakdown spike) — downgrade to REDUCE_SIZE
+> - Follow-through 24% < 30% + Net -300 + 5d 2.01 — all weak, downgraded to RANGE_BOUND/SIPs_ONLY.
 
 ---
 
@@ -211,18 +211,19 @@ RS_20d: 0.51 | RS_65d: 2.39
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -41.8% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| ZCMD | -97.7% | -11.42% | $3.80 | $3.80 | unknown_negative (gap_down) |
 
 ---
 
 ## 11. Action Summary
 
-- [ ] **REDUCE SIZE** — selective setups only
-- [ ] No DEP candidates — no limit orders to place
-- [ ] Place ANTS BSLO orders (super-tight/ultra-tight only, 35 available)
+- [ ] **RANGE_BOUND / SIPs ONLY** — breakouts unlikely to follow through
+- [ ] No swing longs — SIPs and intraday only
+- [ ] Pradeep: 'My wallet is closed. Nothing to do.'
 - [ ] **Focus on SIPs** — 10 fresh catalyst stocks for day trade
-- [ ] Sell into strength on existing positions
-- [ ] Tighten stops to breakeven
+- [ ] Monitor 1 short-side setups
+- [ ] Fading breakouts may be better than buying breakouts
+- [ ] Watch for capitulation signal (T2108 < 10%)
 - [ ] Leading sector: XLF — watch for setups in this sector
 
 ---

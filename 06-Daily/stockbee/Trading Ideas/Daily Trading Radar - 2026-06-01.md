@@ -243,7 +243,7 @@ RS_20d: 7.00 | RS_65d: 4.82
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -26.7% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| ZCMD | -92.5% | -11.42% | $3.80 | $3.80 | unknown_negative (gap_down) |
 
 ---
 

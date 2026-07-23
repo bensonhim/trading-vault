@@ -21,7 +21,6 @@ data_date: 2026-04-07
 > - Monthly 25% ratio 0.70 < 0.8
 > - TI65 bullish universe 711 < 800 (market losing momentum)
 > - TI65 bearish/bullish ratio high: 857/711
-> - Secondary indicators weakening (5d/10d ratio < 0.8 or breakdown spike) — downgrade to REDUCE_SIZE
 
 ---
 
@@ -176,16 +175,6 @@ RS_20d: 0.81 | RS_65d: 4.70
 | 18 | MU | 8 | 4 | 9 | expanded |
 | 19 | SPCE | 8 | 4 | 7 | expanded |
 | 20 | AMD | 8 | 3 | 7 | core |
-
----
-
-## 10. Short-Side Setups (1 candidates)
-
-### EP 9M Short (1) — negative surprise gap-downs
-
-| Ticker | Gap % | Change % | Entry | Stop | Notes |
-|--------|-------|----------|-------|------|-------|
-| PEGA | -41.6% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
 
 ---
 

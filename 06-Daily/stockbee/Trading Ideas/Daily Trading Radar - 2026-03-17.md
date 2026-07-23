@@ -179,14 +179,6 @@ RS_20d: 0.80 | RS_65d: 9.29
 | 19 | SPCE | 8 | 4 | 7 | expanded |
 | 20 | AMD | 8 | 3 | 7 | core |
 
-### Sugar Babies in Hot Sectors (with active setups today)
-
-| Ticker | SB Tier | 504d | 21d | 10d | 5d | Recency | Sector ETF | RS Rank | Status |
-|--------|---------|------|-----|-----|-----|---------|-----------|---------|--------|
-| PN | expanded | 3 | 1 | 1 | 1 | 18 | ICLN (#2) | SETTING UP (ACTIVE (5d)) |
-
-*Recency = 5d×10 + 10d×5 + 21d×3 (Pradeep's recency weighting). Higher = more recent breakout activity.*
-
 ---
 
 ## 10. Short-Side Setups (1 candidates)
@@ -195,7 +187,7 @@ RS_20d: 0.80 | RS_65d: 9.29
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -41.5% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| ZCMD | -97.8% | -11.42% | $3.80 | $3.80 | unknown_negative (gap_down) |
 
 ---
 

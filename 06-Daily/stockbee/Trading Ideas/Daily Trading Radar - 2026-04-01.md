@@ -9,7 +9,7 @@ data_date: 2026-03-31
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **CAUTIOUS_BULL** — Action: **REDUCE_SIZE**
+> [!caution] **RANGE_BOUND** — Action: **SIPs_ONLY**
 >
 > - **20% Study (bullish):** 16
 > - **20% Study (bearish):** 39
@@ -179,34 +179,28 @@ RS_20d: 0.78 | RS_65d: 1.63
 | 19 | SPCE | 8 | 4 | 7 | expanded |
 | 20 | AMD | 8 | 3 | 7 | core |
 
-### Sugar Babies in Hot Sectors (with active setups today)
-
-| Ticker | SB Tier | 504d | 21d | 10d | 5d | Recency | Sector ETF | RS Rank | Status |
-|--------|---------|------|-----|-----|-----|---------|-----------|---------|--------|
-| PN | expanded | 3 | 1 | 1 | 1 | 18 | ICLN (#1) | SETTING UP (ACTIVE (5d)) * |
-
-*Recency = 5d×10 + 10d×5 + 21d×3 (Pradeep's recency weighting). Higher = more recent breakout activity.*
-
 ---
 
-## 10. Short-Side Setups (1 candidates)
+## 10. Short-Side Setups (2 candidates)
 
-### EP 9M Short (1) — negative surprise gap-downs
+### EP 9M Short (2) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -40.2% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| ZCMD | -97.8% | -11.42% | $3.80 | $3.80 | unknown_negative (gap_down) |
+| TSLA | -4.0% | -10.59% | $334.42 | $341.86 | unknown_negative (gap_down) |
 
 ---
 
 ## 11. Action Summary
 
-- [ ] **REDUCE SIZE** — selective setups only
-- [ ] No DEP candidates — no limit orders to place
-- [ ] ANTS suppressed in this market — no BSLO orders
+- [ ] **RANGE_BOUND / SIPs ONLY** — breakouts unlikely to follow through
+- [ ] No swing longs — SIPs and intraday only
+- [ ] Pradeep: 'My wallet is closed. Nothing to do.'
 - [ ] **Focus on SIPs** — 30 fresh catalyst stocks for day trade
-- [ ] Sell into strength on existing positions
-- [ ] Tighten stops to breakeven
+- [ ] Monitor 2 short-side setups
+- [ ] Fading breakouts may be better than buying breakouts
+- [ ] Watch for capitulation signal (T2108 < 10%)
 - [ ] Leading sector: XLK — watch for setups in this sector
 
 ---

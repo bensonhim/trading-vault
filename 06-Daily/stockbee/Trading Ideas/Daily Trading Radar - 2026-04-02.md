@@ -22,7 +22,7 @@ data_date: 2026-04-01
 > - TI65 bullish universe 755 < 800 (market losing momentum)
 > - TI65 bearish/bullish ratio high: 977/755
 > - Follow-through 5d rate 29% < 30% — breakouts failing, no momentum
-> - Secondary indicators weakening (5d/10d ratio < 0.8 or breakdown spike) — downgrade to REDUCE_SIZE
+> - Follow-through 29% < 30% + Net -413 + 5d 0.96 — all weak, downgraded to RANGE_BOUND/SIPs_ONLY.
 
 ---
 
@@ -178,14 +178,6 @@ RS_20d: 0.86 | RS_65d: 2.21
 | 19 | SPCE | 8 | 4 | 7 | expanded |
 | 20 | AMD | 8 | 3 | 7 | core |
 
-### Sugar Babies in Hot Sectors (with active setups today)
-
-| Ticker | SB Tier | 504d | 21d | 10d | 5d | Recency | Sector ETF | RS Rank | Status |
-|--------|---------|------|-----|-----|-----|---------|-----------|---------|--------|
-| PN | expanded | 3 | 1 | 1 | 1 | 18 | ICLN (#1) | SETTING UP (ACTIVE (5d)) * |
-
-*Recency = 5d×10 + 10d×5 + 21d×3 (Pradeep's recency weighting). Higher = more recent breakout activity.*
-
 ---
 
 ## 10. Short-Side Setups (1 candidates)
@@ -194,7 +186,7 @@ RS_20d: 0.86 | RS_65d: 2.21
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -41.7% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| ZCMD | -97.7% | -11.42% | $3.80 | $3.80 | unknown_negative (gap_down) |
 
 ---
 

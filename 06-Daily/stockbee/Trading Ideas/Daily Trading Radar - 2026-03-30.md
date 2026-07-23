@@ -9,7 +9,7 @@ data_date: 2026-03-27
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!warning] **DISTRIBUTING** — Action: **NO_NEW_LONGS**
+> [!warning] **BEARISH** — Action: **SHORTS_ONLY**
 >
 > - **20% Study (bullish):** 0
 > - **20% Study (bearish):** 0
@@ -168,23 +168,21 @@ RS_20d: 0.90 | RS_65d: 1.84
 
 ---
 
-## 10. Short-Side Setups (1 candidates)
+## 10. Short-Side Setups (2 candidates)
 
-### EP 9M Short (1) — negative surprise gap-downs
+### EP 9M Short (2) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -41.1% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| ZCMD | -97.7% | -11.42% | $3.80 | $3.80 | unknown_negative (gap_down) |
+| TSLA | -8.4% | -10.81% | $333.60 | $341.86 | unknown_negative (gap_down) |
 
 ---
 
 ## 11. Action Summary
 
-- [ ] **NO NEW LONGS** — process over chasing
-- [ ] Manage existing positions only
-- [ ] SIPs only — 14 fresh catalyst for day trade
-- [ ] Monitor 1 short-side setups
-- [ ] Watch for capitulation signal (T2108 < 10%)
+- [ ] **SHORTS ONLY** — or cash
+- [ ] No new longs under any circumstance
 - [ ] Leading sector: XLF — watch for setups in this sector
 
 ---

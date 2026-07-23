@@ -20,9 +20,9 @@ data_date: 2026-05-19
 >
 > - 5-day ratio 0.69 < 0.8
 > - Breakdown spike: 265 vs 127
+> - Net primary 73 declining
 > - Breakdown (265) > Breakout (127) = selling pressure
 > - 20% study at 24 (< 30) = funds not aggressively buying, breakouts unlikely to follow through
-> - Follow-through 5d rate 28% < 30% — breakouts failing, no momentum
 
 ---
 
@@ -197,7 +197,7 @@ RS_20d: 4.98 | RS_65d: 2.20
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -27.4% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| ZCMD | -97.5% | -11.42% | $3.80 | $3.80 | unknown_negative (gap_down) |
 
 ---
 

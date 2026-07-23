@@ -19,7 +19,7 @@ data_date: 2026-05-20
 > - **Follow-through:** 3d=31.3% 5d=31.0% (OK)
 >
 > - 20% study at 16 (< 30) = funds not aggressively buying, breakouts unlikely to follow through
-> - 20% study at 16 (< 30) + Net Primary +0 + 5d ratio 0.96 — all indicators weak, downgraded to RANGE_BOUND/SIPs_ONLY.
+> - 20% study at 16 (< 30) + Net Primary +290 + 5d ratio 0.96 — all indicators weak, downgraded to RANGE_BOUND/SIPs_ONLY.
 
 ---
 
@@ -189,7 +189,7 @@ RS_20d: 5.25 | RS_65d: 2.63
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -26.0% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| ZCMD | -97.4% | -11.42% | $3.80 | $3.80 | unknown_negative (gap_down) |
 
 ---
 
