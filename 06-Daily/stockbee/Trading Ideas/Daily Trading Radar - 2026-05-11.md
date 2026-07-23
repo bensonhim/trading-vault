@@ -2,24 +2,21 @@
 title: "Daily Trading Radar — 2026-05-11"
 date: 2026-05-11
 tags: [trading-radar, stockbee, pradeep-bonde, daily-report]
-data_date: 2026-05-09
+data_date: 2026-05-08
 ---
 
 # Daily Trading Radar — 2026-05-11
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **CAUTIOUS_BULL** — Action: **REDUCE_SIZE**
+> [!tip] **FULL_BULL** — Action: **FULL_LONG**
 >
 > - **20% Study (bullish):** 0
 > - **20% Study (bearish):** 0
 > - **T2108:** 57.0%
 > - **Net Primary:** +709
 > - **Breakouts:** 319 | **Breakdowns:** 229
-> - **Follow-through:** 3d=40.2% 5d=51.8% (OK)
->
-> - TI65 bullish universe 0 < 800 (market losing momentum)
-> - TI65 young momentum 0 < 30 (few new trends starting)
+> - **Follow-through:** 3d=36.9% 5d=41.2% (OK)
 
 ---
 
@@ -37,7 +34,7 @@ data_date: 2026-05-09
 
 ### Secondary Indicators
 
-| Indicator | 2026-05-09 | Signal | Interpretation |
+| Indicator | 2026-05-08 | Signal | Interpretation |
 |-----------|---------|--------|----------------|
 | Monthly 25% Up | 363 | Elevated | Stocks up 25%+ in a month |
 | Monthly 25% Down | 81 | Normal | Stocks down 25%+ in a month |
@@ -53,6 +50,24 @@ Above 1.0 | Bullish medium-term |
 ---
 
 ## 3. Sector Relative Strength
+
+**Leading Sector:** SOXX (semiconductors)
+RS_20d: 4.04 | RS_65d: 7.39
+
+### Sector RS Heatmap (grouped by theme, top 10)
+
+| Rank | Ticker | Theme | RS_20d | RS_65d | ETF 20d | SPY 20d | Excess | Status |
+|------|--------|-------|--------|--------|---------|---------|--------|--------|
+| 1 | SOXX | semiconductors | 4.04 | 7.39 | +34.6% | +8.6% | +26.0% | LEADING |
+| 2 | BUG | cybersecurity | 3.77 | 1.71 | +32.2% | +8.6% | +23.7% |  |
+| 3 | AIQ | ai_tech | 3.06 | 3.36 | +26.2% | +8.6% | +17.6% |  |
+| 4 | SKYY | cloud_computing | 2.89 | 2.06 | +24.7% | +8.6% | +16.1% |  |
+| 5 | QTUM | quantum_computing | 2.82 | 3.79 | +24.2% | +8.6% | +15.6% |  |
+| 6 | DRIV | ev_automotive | 2.42 | 3.02 | +20.7% | +8.6% | +12.2% |  |
+| 7 | BLOK | blockchain | 2.25 | 2.42 | +19.3% | +8.6% | +10.7% |  |
+| 8 | ICLN | clean_energy | 1.38 | 1.66 | +11.8% | +8.6% | +3.3% |  |
+| 9 | FINX | fintech | 1.37 | 0.55 | +11.8% | +8.6% | +3.2% | TOP FORMING |
+| 10 | UFO | space_economy | 0.88 | 3.26 | +7.6% | +8.6% | -1.0% |  |
 
 ---
 
@@ -156,18 +171,15 @@ Above 1.0 | Bullish medium-term |
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -31.1% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| PEGA | -32.5% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
 
 ---
 
 ## 11. Action Summary
 
-- [ ] **REDUCE SIZE** — selective setups only
-- [ ] No DEP candidates — no limit orders to place
-- [ ] ANTS suppressed in this market — no BSLO orders
-- [ ] **Focus on SIPs** — 30 fresh catalyst stocks for day trade
-- [ ] Sell into strength on existing positions
-- [ ] Tighten stops to breakeven
+- [ ] Full playbook — size into A+ confluences (0 SOS, 0 DEP available)
+- [ ] Watch 30 fresh SIPs for day trade entries
+- [ ] Leading sector: SOXX — watch for setups in this sector
 
 ---
 

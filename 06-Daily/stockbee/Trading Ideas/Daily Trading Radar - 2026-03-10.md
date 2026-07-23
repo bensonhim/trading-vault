@@ -21,7 +21,7 @@ data_date: 2026-03-09
 > - Former leader rolling over: FINX (fintech)
 > - Follow-through 5d rate 21% < 30% — breakouts failing, no momentum
 > - Former leader rolling over but breadth positive — reduce size, watch for confirmation
-> - Follow-through 21% < 30% — downgraded to RANGE_BOUND/SIPs_ONLY. Breakouts failing, no momentum.
+> - Follow-through 21% < 30% + Net +0 + 5d 0.84 — all weak, downgraded to RANGE_BOUND/SIPs_ONLY.
 
 ---
 
