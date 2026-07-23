@@ -21,8 +21,7 @@ data_date: 2026-07-22
 > - Monthly 25% ratio 0.59 < 0.8
 > - 20% study at 19 (< 30) = funds not aggressively buying, breakouts unlikely to follow through
 > - Follow-through 5d rate 27% < 30% — breakouts failing, no momentum
-> - Secondary indicators weakening (5d/10d ratio < 0.8 or breakdown spike) — downgrade to REDUCE_SIZE
-> - 20% study at 19 (< 30) + Net Primary +0 + 5d ratio 0.91 — all indicators weak, downgraded to RANGE_BOUND/SIPs_ONLY.
+> - 20% study at 19 (< 30) + Net Primary -26 + 5d ratio 0.91 — all indicators weak, downgraded to RANGE_BOUND/SIPs_ONLY.
 
 ---
 
@@ -178,6 +177,14 @@ RS_20d: 7.37 | RS_65d: 2.02
 | 19 | SPCE | 8 | 4 | 7 | expanded |
 | 20 | AMD | 8 | 3 | 7 | core |
 
+### Sugar Babies in Hot Sectors (with active setups today)
+
+| Ticker | SB Tier | 504d | 21d | 10d | 5d | Recency | Sector ETF | RS Rank | Status |
+|--------|---------|------|-----|-----|-----|---------|-----------|---------|--------|
+| SKYQ | expanded | 9 | 5 | 3 | 2 | 50 | XLE (#3) | SETTING UP (ACTIVE (5d)) |
+
+*Recency = 5d×10 + 10d×5 + 21d×3 (Pradeep's recency weighting). Higher = more recent breakout activity.*
+
 ---
 
 ## 8. Similar Historical Conditions
@@ -190,13 +197,14 @@ RS_20d: 7.37 | RS_65d: 2.02
 
 ---
 
-## 10. Short-Side Setups (1 candidates)
+## 10. Short-Side Setups (2 candidates)
 
-### EP 9M Short (1) — negative surprise gap-downs
+### EP 9M Short (2) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -19.9% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| STM | 0.0% | -15.77% | $55.40 | $56.42 | unknown_negative (intraday_down) |
+| TSLA | -10.0% | -12.47% | $327.37 | $341.86 | earnings_miss (gap_down) |
 
 ---
 
@@ -206,7 +214,7 @@ RS_20d: 7.37 | RS_65d: 2.02
 - [ ] No swing longs — SIPs and intraday only
 - [ ] Pradeep: 'My wallet is closed. Nothing to do.'
 - [ ] **Focus on SIPs** — 16 fresh catalyst stocks for day trade
-- [ ] Monitor 1 short-side setups
+- [ ] Monitor 2 short-side setups
 - [ ] Fading breakouts may be better than buying breakouts
 - [ ] Watch for capitulation signal (T2108 < 10%)
 - [ ] Leading sector: XOP — watch for setups in this sector

@@ -172,13 +172,14 @@ Above 1.0 | Bullish medium-term |
 
 ---
 
-## 10. Short-Side Setups (1 candidates)
+## 10. Short-Side Setups (2 candidates)
 
-### EP 9M Short (1) — negative surprise gap-downs
+### EP 9M Short (2) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -4.7% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| TSLA | -8.8% | -12.55% | $327.06 | $341.86 | unknown_negative (gap_down) |
+| STM | 0.0% | -15.67% | $55.47 | $56.42 | earnings_miss (intraday_down) |
 
 ---
 
@@ -188,7 +189,7 @@ Above 1.0 | Bullish medium-term |
 - [ ] No swing longs — SIPs and intraday only
 - [ ] Pradeep: 'My wallet is closed. Nothing to do.'
 - [ ] **Focus on SIPs** — 16 fresh catalyst stocks for day trade
-- [ ] Monitor 1 short-side setups
+- [ ] Monitor 2 short-side setups
 - [ ] Fading breakouts may be better than buying breakouts
 - [ ] Watch for capitulation signal (T2108 < 10%)
 

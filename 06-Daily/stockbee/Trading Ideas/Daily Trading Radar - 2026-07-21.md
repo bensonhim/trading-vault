@@ -9,7 +9,7 @@ data_date: 2026-07-20
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!warning] **DISTRIBUTING** — Action: **NO_NEW_LONGS**
+> [!warning] **BEARISH** — Action: **SHORTS_ONLY**
 >
 > - **20% Study (bullish):** 13
 > - **20% Study (bearish):** 26
@@ -195,23 +195,21 @@ RS_20d: -4.79 | RS_65d: 2.28
 
 ---
 
-## 10. Short-Side Setups (1 candidates)
+## 10. Short-Side Setups (2 candidates)
 
-### EP 9M Short (1) — negative surprise gap-downs
+### EP 9M Short (2) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -23.0% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| STM | 0.0% | -15.71% | $55.44 | $56.42 | unknown_negative (intraday_down) |
+| TSLA | -10.5% | -12.42% | $327.55 | $341.86 | unknown_negative (gap_down) |
 
 ---
 
 ## 11. Action Summary
 
-- [ ] **NO NEW LONGS** — process over chasing
-- [ ] Manage existing positions only
-- [ ] SIPs only — 19 fresh catalyst for day trade
-- [ ] Monitor 1 short-side setups
-- [ ] Watch for capitulation signal (T2108 < 10%)
+- [ ] **SHORTS ONLY** — or cash
+- [ ] No new longs under any circumstance
 - [ ] Leading sector: GNOM — watch for setups in this sector
 
 ---
