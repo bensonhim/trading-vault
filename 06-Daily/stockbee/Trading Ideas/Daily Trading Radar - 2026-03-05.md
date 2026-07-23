@@ -19,6 +19,7 @@ data_date: 2026-03-04
 > - **Follow-through:** 3d=40.7% 5d=41.3% (OK)
 >
 > - Former leader rolling over: SIL (silver_miners)
+> - ROTATION TRAP: positive breadth from beaten-down stocks, not leaders
 > - Former leader rolling over but breadth positive — reduce size, watch for confirmation
 
 ---

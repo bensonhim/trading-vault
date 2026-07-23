@@ -19,6 +19,7 @@ data_date: 2026-03-02
 > - **Follow-through:** 3d=32.3% 5d=29.0% (FAILING)
 >
 > - Former leader rolling over: SIL (silver_miners)
+> - ROTATION TRAP: positive breadth from beaten-down stocks, not leaders
 > - Follow-through 5d rate 29% < 30% — breakouts failing, no momentum
 > - Former leader rolling over but breadth positive — reduce size, watch for confirmation
 

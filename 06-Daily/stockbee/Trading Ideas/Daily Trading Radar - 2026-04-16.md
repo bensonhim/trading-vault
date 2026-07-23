@@ -9,7 +9,7 @@ data_date: 2026-04-15
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **CAUTIOUS_BULL** — Action: **REDUCE_SIZE**
+> [!tip] **FULL_BULL** — Action: **FULL_LONG**
 >
 > - **20% Study (bullish):** 79
 > - **20% Study (bearish):** 19
@@ -19,7 +19,8 @@ data_date: 2026-04-15
 > - **Follow-through:** 3d=44.0% 5d=52.0% (OK)
 >
 > - Former leader rolling over: XOP (oil_gas_e&p)
-> - Former leader rolling over but breadth positive — reduce size, watch for confirmation
+> - ROTATION TRAP: positive breadth from beaten-down stocks, not leaders
+> - Former leader rolling over (XOP (oil_gas_e&p)) but breadth strong (Net +330, 5d 2.37) — rotation, not distribution. FULL_BULL.
 
 ---
 
@@ -256,12 +257,10 @@ RS_20d: 3.91 | RS_65d: 19.89
 
 ## 11. Action Summary
 
-- [ ] **REDUCE SIZE** — selective setups only
-- [ ] No DEP candidates — no limit orders to place
-- [ ] Place ANTS BSLO orders (super-tight/ultra-tight only, 35 available)
-- [ ] **Focus on SIPs** — 11 fresh catalyst stocks for day trade
-- [ ] Sell into strength on existing positions
-- [ ] Tighten stops to breakeven
+- [ ] Full playbook — size into A+ confluences (50 SOS, 0 DEP available)
+- [ ] Place ANTS BSLO orders (top 5 by tight tier)
+- [ ] Monitor SOS breakout triggers intraday
+- [ ] Watch 11 fresh SIPs for day trade entries
 - [ ] Leading sector: SOXX — watch for setups in this sector
 
 ---

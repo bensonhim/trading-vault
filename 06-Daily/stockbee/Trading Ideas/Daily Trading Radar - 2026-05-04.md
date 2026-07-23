@@ -19,6 +19,7 @@ data_date: 2026-05-01
 > - **Follow-through:** 3d=37.7% 5d=33.7% (OK)
 >
 > - Former leader rolling over: XOP (oil_gas_e&p)
+> - ROTATION TRAP: positive breadth from beaten-down stocks, not leaders
 > - Former leader rolling over but breadth positive — reduce size, watch for confirmation
 
 ---

@@ -20,7 +20,7 @@ data_date: 2026-03-05
 >
 > - Former leader rolling over: FINX (fintech)
 > - Breakdown (407) > Breakout (213) = selling pressure
-> - Leading sector rolling over + market confirmation
+> - ROTATION TRAP: positive breadth from beaten-down stocks, not leaders
 
 ---
 

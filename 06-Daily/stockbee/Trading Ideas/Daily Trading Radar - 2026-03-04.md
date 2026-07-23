@@ -20,8 +20,9 @@ data_date: 2026-03-03
 >
 > - Former leader rolling over: SIL (silver_miners)
 > - Breakdown spike: 446 vs 137
+> - Net primary 1 declining
 > - Breakdown (446) > Breakout (137) = selling pressure
-> - Leading sector rolling over + market confirmation
+> - ROTATION TRAP: positive breadth from beaten-down stocks, not leaders
 
 ---
 
