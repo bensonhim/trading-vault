@@ -140,25 +140,25 @@ Above 1.0 | Bullish medium-term |
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
 | 1 | SBET | 9 | 5 | 38 | expanded |
-| 2 | OKLO | 9 | 4 | 91 | core |
-| 3 | RUN | 9 | 4 | 8 | expanded |
-| 4 | USAR | 9 | 2 | 51 | expanded |
-| 5 | AMDL | 8 | 3 | 9 | core |
-| 6 | IREN | 8 | 3 | 99 | expanded |
-| 7 | QUBT | 8 | 3 | 9 | expanded |
-| 8 | SMCI | 8 | 3 | 74 | expanded |
-| 9 | SNXX | 8 | 3 | 30 | core |
-| 10 | CLSK | 8 | 2 | 9 | expanded |
-| 11 | INTC | 8 | 2 | 9 | expanded |
-| 12 | CRML | 7 | 3 | 36 | expanded |
-| 13 | QBTS | 7 | 3 | 71 | expanded |
-| 14 | TSLL | 7 | 3 | 81 | expanded |
-| 15 | AAOI | 7 | 2 | 4 | expanded |
-| 16 | AUR | 7 | 2 | 48 | core |
-| 17 | HIMS | 7 | 2 | 9 | expanded |
-| 18 | HTZ | 7 | 2 | 9 | expanded |
-| 19 | MARA | 7 | 2 | 8 | expanded |
-| 20 | MP | 7 | 2 | 4 | expanded |
+| 2 | AMDL | 9 | 4 | 9 | core |
+| 3 | IREN | 9 | 4 | 99 | expanded |
+| 4 | OKLO | 9 | 4 | 91 | core |
+| 5 | RIOT | 9 | 4 | 8 | expanded |
+| 6 | RUN | 9 | 4 | 8 | expanded |
+| 7 | TSLL | 9 | 4 | 81 | expanded |
+| 8 | CLSK | 9 | 3 | 9 | expanded |
+| 9 | KEEL | 9 | 3 | 9 | expanded |
+| 10 | NVTS | 9 | 3 | 8 | expanded |
+| 11 | SIDU | 9 | 3 | 9 | expanded |
+| 12 | SNXX | 9 | 3 | 30 | core |
+| 13 | USAR | 9 | 3 | 51 | expanded |
+| 14 | MSTU | 9 | 2 | 9 | expanded |
+| 15 | APLD | 8 | 4 | 89 | core |
+| 16 | DRAM | 8 | 4 | 9 | expanded |
+| 17 | FCEL | 8 | 4 | 9 | expanded |
+| 18 | MU | 8 | 4 | 9 | expanded |
+| 19 | SPCE | 8 | 4 | 7 | expanded |
+| 20 | AMD | 8 | 3 | 7 | core |
 
 ---
 
