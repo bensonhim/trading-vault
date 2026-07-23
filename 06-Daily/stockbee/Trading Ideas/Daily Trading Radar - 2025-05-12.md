@@ -1,11 +1,11 @@
 ---
-title: "Daily Trading Radar — 2026-05-04"
-date: 2026-05-04
+title: "Daily Trading Radar — 2025-05-12"
+date: 2025-05-12
 tags: [trading-radar, stockbee, pradeep-bonde, daily-report]
-data_date: 2026-05-01
+data_date: 2025-05-09
 ---
 
-# Daily Trading Radar — 2026-05-04
+# Daily Trading Radar — 2025-05-12
 
 ## 1. Market Regime — LLM Judge Verdict
 
@@ -13,13 +13,14 @@ data_date: 2026-05-01
 >
 > - **20% Study (bullish):** 0
 > - **20% Study (bearish):** 0
-> - **T2108:** 59.2%
-> - **Net Primary:** +585
-> - **Breakouts:** 342 | **Breakdowns:** 122
-> - **Follow-through:** 3d=37.7% 5d=33.7% (OK)
+> - **T2108:** 55.4%
+> - **Net Primary:** -52
+> - **Breakouts:** 254 | **Breakdowns:** 186
+> - **Follow-through:** 3d=42.0% 5d=36.0% (OK)
 >
-> - Former leader rolling over: XOP (oil_gas_e&p)
-> - Former leader rolling over but breadth positive — reduce size, watch for confirmation
+> - TI65 bullish universe 645 < 800 (market losing momentum)
+> - TI65 bearish/bullish ratio high: 508/645
+> - Secondary indicators weakening (5d/10d ratio < 0.8 or breakdown spike) — downgrade to REDUCE_SIZE
 
 ---
 
@@ -27,59 +28,56 @@ data_date: 2026-05-01
 
 ### Primary Indicators
 
-| Indicator | 2026-05-01 | 2026-05-01 | 2026-04-30 | 2026-04-30 | 2026-04-29 | Trend |
+| Indicator | 2025-05-09 | 2025-05-09 | 2025-05-08 | 2025-05-08 | 2025-05-07 | Trend |
 |-----------|-------|-------|-------|-------|-------|-------|
-| Net Primary | +585 | +585 | +467 | +467 | +215 | — |
-| T2108 | 59.19% | 59.19% | 60.03% | 60.03% | 54.88% | — |
-| Breakouts | 342 | 342 | 559 | 559 | 172 | — |
-| Breakdowns | 122 | 122 | 116 | 116 | 409 | — |
-| BO:BD Ratio | 2.80 | 2.80 | 4.82 | 4.82 | 0.42 | — |
+| Net Primary | -52 | -52 | -96 | -96 | -447 | — |
+| T2108 | 55.37% | 55.37% | 54.80% | 54.80% | 47.31% | — |
+| Breakouts | 254 | 254 | 600 | 600 | 230 | — |
+| Breakdowns | 186 | 186 | 176 | 176 | 207 | — |
+| BO:BD Ratio | 1.37 | 1.37 | 3.41 | 3.41 | 1.11 | — |
 
 ### Secondary Indicators
 
-| Indicator | 2026-05-01 | Signal | Interpretation |
+| Indicator | 2025-05-09 | Signal | Interpretation |
 |-----------|---------|--------|----------------|
-| Monthly 25% Up | 323 | Elevated | Stocks up 25%+ in a month |
-| Monthly 25% Down | 52 | Normal | Stocks down 25%+ in a month |
-| Monthly 25% Ratio | 6.21
+| Monthly 25% Up | 339 | Elevated | Stocks up 25%+ in a month |
+| Monthly 25% Down | 42 | Normal | Stocks down 25%+ in a month |
+| Monthly 25% Ratio | 8.07
 Above 1.0 | Bullish |
-| Fib 13% Up (34d) | 2283 | High | Stocks up 13%+ in 34 days |
-| Fib 13% Down (34d) | 963 | Normal | Stocks down 13%+ in 34 days |
-| Fib 13% Ratio | 2.37
+| Fib 13% Up (34d) | 2415 | High | Stocks up 13%+ in 34 days |
+| Fib 13% Down (34d) | 1303 | Normal | Stocks down 13%+ in 34 days |
+| Fib 13% Ratio | 1.85
 Above 1.0 | Bullish medium-term |
-| 5-Day Ratio | 1.30 | Above 1.0 | Short-term bullish |
-| 10-Day Ratio | 1.10 | Above 1.0 | Bullish |
+| 5-Day Ratio | 1.13 | Above 1.0 | Short-term bullish |
+| 10-Day Ratio | 1.39 | Above 1.0 | Bullish |
 
 ---
 
 ## 3. Sector Relative Strength
 
-**Leading Sector:** SOXX (semiconductors)
-RS_20d: 3.76 | RS_65d: 7.49
-
-> [!warning] Former Leader Rolling Over
-> XOP (oil_gas_e&p)
+**Leading Sector:** BLOK (blockchain)
+RS_20d: 3.27 | RS_65d: 1.52
 
 ### Sector RS Heatmap (grouped by theme, top 10)
 
 | Rank | Ticker | Theme | RS_20d | RS_65d | ETF 20d | SPY 20d | Excess | Status |
 |------|--------|-------|--------|--------|---------|---------|--------|--------|
-| 1 | SOXX | semiconductors | 3.76 | 7.49 | +37.1% | +9.9% | +27.3% | LEADING |
-| 2 | QTUM | quantum_computing | 2.32 | 3.10 | +22.9% | +9.9% | +13.0% |  |
-| 3 | DRIV | ev_automotive | 2.25 | 3.35 | +22.2% | +9.9% | +12.3% |  |
-| 4 | AIQ | ai_tech | 2.04 | 1.53 | +20.2% | +9.9% | +10.3% |  |
-| 5 | BLOK | blockchain | 1.98 | -1.45 | +19.5% | +9.9% | +9.7% |  |
-| 6 | ICLN | clean_energy | 1.62 | 2.57 | +16.1% | +9.9% | +6.2% |  |
-| 7 | FINX | fintech | 1.16 | -2.40 | +11.5% | +9.9% | +1.6% |  |
-| 8 | SKYY | cloud_computing | 1.14 | -0.44 | +11.2% | +9.9% | +1.3% |  |
-| 9 | PAVE | infrastructure | 1.06 | 2.91 | +10.5% | +9.9% | +0.6% |  |
-| 10 | XLY | consumer_discretionary | 0.98 | -0.61 | +9.7% | +9.9% | -0.2% |  |
+| 1 | BLOK | blockchain | 3.27 | 1.52 | +24.8% | +7.6% | +17.2% | LEADING |
+| 2 | QTUM | quantum_computing | 2.05 | 0.73 | +15.5% | +7.6% | +7.9% |  |
+| 3 | SOXX | semiconductors | 1.98 | 1.89 | +15.0% | +7.6% | +7.4% |  |
+| 4 | XOP | oil_gas_e&p | 1.83 | 2.01 | +13.8% | +7.6% | +6.3% |  |
+| 5 | SKYY | cloud_computing | 1.79 | 2.57 | +13.6% | +7.6% | +6.0% |  |
+| 6 | AIQ | ai_tech | 1.76 | 1.04 | +13.3% | +7.6% | +5.8% |  |
+| 7 | DRIV | ev_automotive | 1.71 | 1.15 | +13.0% | +7.6% | +5.4% |  |
+| 8 | PAVE | infrastructure | 1.64 | 0.63 | +12.4% | +7.6% | +4.8% |  |
+| 9 | FINX | fintech | 1.60 | 1.87 | +12.1% | +7.6% | +4.5% |  |
+| 10 | SIL | silver_miners | 1.53 | -2.62 | +11.6% | +7.6% | +4.0% |  |
 
 ---
 
 ## 5. Trade Ideas
 
-### SIPs — Stocks in Play (30 found, 30 fresh catalyst — top 15)
+### SIPs — Stocks in Play (30 found, 24 fresh catalyst — top 15)
 
 > [!info] Pradeep: 'When nothing else works, SIPs are the only thing that works.'
 > Stocks with fresh catalyst (earnings, news, partnerships) + volume. Day trade / 1-2 day swing.
@@ -87,21 +85,21 @@ RS_20d: 3.76 | RS_65d: 7.49
 
 | Ticker | Gap% | Change% | Volume | 5d Move | Flags |
 |--------|------|---------|--------|---------|-------|
-| OWL | +4.5% | +2.3% | 53,175,600 | +9% | fresh |
-| RIOT | +7.4% | +7.3% | 32,904,607 | -1% | fresh |
-| FIG | +5.8% | +5.9% | 24,134,212 | +7% | fresh |
-| ZETA | +4.9% | +1.0% | 20,947,903 | +6% | fresh |
-| RDDT | +12.4% | +13.1% | 14,252,200 | +7% | fresh |
-| NWL | +9.1% | +11.5% | 14,212,700 | +10% | fresh |
-| PSKY | +5.3% | +8.3% | 12,286,000 | +1% | fresh |
-| ASAN | +5.2% | +10.6% | 12,034,100 | +9% | fresh |
-| HUN | +5.0% | +1.8% | 10,648,802 | +7% | fresh |
-| SST | +13.9% | +21.6% | 10,177,500 | +1% | fresh |
-| GTLB | +7.0% | +8.6% | 9,894,219 | +12% | fresh |
-| AIG | +4.3% | +5.3% | 9,456,300 | +5% | fresh |
-| SNOW | +4.0% | +3.3% | 9,351,325 | +0% | LARGE-CAP |
-| GTM | +4.0% | +6.4% | 8,659,500 | +8% | fresh |
-| ROKU | +7.7% | +6.0% | 8,103,836 | +7% | fresh |
+| PINS | +9.0% | +4.9% | 44,159,600 | +9% | fresh |
+| TOST | +8.7% | +11.4% | 24,000,500 | +13% | fresh |
+| MCHP | +13.5% | +12.6% | 21,360,900 | +15% | fresh |
+| NET | +7.5% | +6.5% | 9,048,305 | +7% | LARGE-CAP |
+| TXG | +12.5% | +1.6% | 7,830,437 | +4% | fresh |
+| TU | +4.4% | +7.1% | 6,112,000 | +6% | fresh |
+| HNST | +6.4% | +10.5% | 5,980,000 | -3% | fresh |
+| AVPT | +7.8% | +8.3% | 3,733,109 | +10% | fresh |
+| FROG | +9.7% | +10.6% | 3,227,308 | +12% | fresh |
+| ST | +9.3% | +13.8% | 2,991,551 | +16% | fresh |
+| CARG | +13.3% | +11.2% | 2,891,567 | +10% | fresh |
+| TREX | +5.1% | -0.9% | 2,121,860 | -4% | fresh |
+| FOXF | +13.6% | +11.4% | 2,051,300 | +12% | fresh |
+| AMN | +10.4% | +8.2% | 2,017,100 | +4% | fresh |
+| CVSA | +5.8% | +17.6% | 1,962,600 | +19% | fresh |
 
 ### SOS Breakout Candidates (0 found — top 20)
 
@@ -165,9 +163,9 @@ RS_20d: 3.76 | RS_65d: 7.49
 
 | Date | Similarity | Pradeep's Call | Outcome |
 |------|-----------|----------------|---------|
-| 2026-02-09 | 56% | bullish/FULL_LONG | SPY fell -1.6% over 5 days |
-| 2026-02-09 | 56% | bullish/FULL_LONG | SPY fell -1.6% over 5 days |
-| 2026-02-18 | 51% | bullish/FULL_LONG | SPY rose 1.0% over 5 days |
+| 2025-02-14 | 59% | bullish/REDUCE_SIZE | SPY fell -2.0% over 5 days |
+| 2025-02-14 | 59% | bullish/REDUCE_SIZE | SPY fell -2.0% over 5 days |
+| 2025-02-18 | 56% | bullish/REDUCE_SIZE | SPY fell -2.8% over 5 days |
 
 ---
 
@@ -177,7 +175,7 @@ RS_20d: 3.76 | RS_65d: 7.49
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -32.2% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| PEGA | -47.1% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
 
 ---
 
@@ -186,10 +184,10 @@ RS_20d: 3.76 | RS_65d: 7.49
 - [ ] **REDUCE SIZE** — selective setups only
 - [ ] No DEP candidates — no limit orders to place
 - [ ] ANTS suppressed in this market — no BSLO orders
-- [ ] **Focus on SIPs** — 30 fresh catalyst stocks for day trade
+- [ ] **Focus on SIPs** — 24 fresh catalyst stocks for day trade
 - [ ] Sell into strength on existing positions
 - [ ] Tighten stops to breakeven
-- [ ] Leading sector: SOXX — watch for setups in this sector
+- [ ] Leading sector: BLOK — watch for setups in this sector
 
 ---
 
