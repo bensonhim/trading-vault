@@ -9,10 +9,10 @@ data_date: 2024-01-23
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **RANGE_BOUND** — Action: **SIPs_ONLY**
+> [!caution] **CAUTIOUS_BULL** — Action: **REDUCE_SIZE**
 >
-> - **20% Study (bullish):** 25
-> - **20% Study (bearish):** 42
+> - **20% Study (bullish):** 0
+> - **20% Study (bearish):** 1
 > - **T2108:** 53.4%
 > - **Net Primary:** +1272
 > - **Breakouts:** 191 | **Breakdowns:** 96
@@ -21,8 +21,6 @@ data_date: 2024-01-23
 > - TI65 bullish universe 11 < 800 (market losing momentum)
 > - TI65 young momentum 11 < 30 (few new trends starting)
 > - TI65 bearish/bullish ratio high: 19/11
-> - 20% study at 25 (< 30) = funds not aggressively buying, breakouts unlikely to follow through
-> - 20% study at 25 (< 30) — downgraded to RANGE_BOUND/SIPs_ONLY. Funds not buying, breakouts unlikely to follow through.
 
 ---
 
@@ -58,11 +56,11 @@ Above 1.0 | Bullish medium-term |
 
 | Metric | Value | Signal |
 |--------|-------|--------|
-| Stocks up 20%+ (5d) | 25 | ⚠️ Low — breakouts unlikely to follow through |
-| Stocks down 20%+ (5d) | 42 | Normal |
+| Stocks up 20%+ (5d) | 0 | ⚠️ VERY LOW — funds not buying |
+| Stocks down 20%+ (5d) | 1 | Normal |
 
 > [!warning] Scan Suppression Active: SOS, DEP, ANTS
-> 20% study at 25 — breakouts unlikely to follow through in this environment.
+> 20% study at 0 — breakouts unlikely to follow through in this environment.
 
 **Breakout Follow-Through (last 10 days):** 3d=31.6% 5d=36.8% [OK]
 
@@ -71,75 +69,6 @@ Above 1.0 | Bullish medium-term |
 ---
 
 ## 3. Sector Relative Strength
-
----
-
-## 4b. TI65 Trend Intensity
-
-> [!info] **TI65 = AVGC7 / AVGC65** — absolute momentum indicator (Pradeep).
-> ≥1.05 = bullish velocity, ≤0.95 = bearish velocity, 0.95–1.05 = neutral.
-> C65 = days in bullish TI65 (last 100). C65 ≤ 10 = **young momentum** (highest R/R).
-
-| Universe | Count | Notes |
-|----------|-------|-------|
-| Bullish (≥1.05, vol≥100K) | 11 | Active uptrends |
-| Bearish (≤0.95, vol≥1M) | 19 | Active downtrends (short universe) |
-| Bearish (≤0.95, vol≥100K) | 43 | Wider bearish universe |
-| Neutral | 945 | No clear trend |
-| **Young momentum** (C65 ≤ 10) | **11** | **First 10 days of bullish TI65 — highest reward/risk** |
-| Total scanned | 1152 | All tickers with ≥65 days history |
-
-### Young Momentum — TI65 Bullish, sorted by C65 ascending (11 shown, top 10)
-
-| Ticker | TI65 | C65 | D65 | C/C7 | Change% | Close | Volume |
-|--------|------|-----|-----|------|---------|-------|--------|
-| ACIC | 1.07 | 1 | 0 | 1.184 | +0.2% | $10.61 | 256,226 |
-| APEI | 1.06 | 1 | 0 | 1.141 | +1.1% | $12.47 | 194,159 |
-| BITI.TO | 1.05 | 1 | 0 | 1.112 | +2.0% | $8.62 | 217,795 |
-| AVIR | 1.05 | 2 | 0 | 1.059 | +4.7% | $3.79 | 994,305 |
-| BFRG | 1.24 | 3 | 0 | 2.662 | +1.9% | $6.84 | 4,604,491 |
-| AMD | 1.07 | 3 | 0 | 1.138 | +0.1% | $168.42 | 76,830,455 |
-| APGE | 1.06 | 3 | 0 | 1.091 | +1.0% | $34.75 | 332,468 |
-| ANIX | 1.08 | 4 | 0 | 1.096 | +1.0% | $4.90 | 168,760 |
-| ACMR | 1.06 | 4 | 0 | 1.024 | -3.0% | $21.00 | 1,615,427 |
-| AMD3.L | 1.20 | 6 | 0 | 1.458 | +1.6% | $4.33 | 246,302 |
-
-### TI65 Anticipation — Bullish + ±0.4% narrow range day (2 candidates, top 20)
-
-> Stocks with established bullish momentum having a flat day — likely breakout setup.
-
-| Ticker | TI65 | C65 | C/C7 | Change% | Close | Volume |
-|--------|------|-----|------|---------|-------|--------|
-| AMD **YOUNG** | 1.07 | 3 | 1.138 | +0.14% | $168.42 | 76,830,455 |
-| ACIC **YOUNG** | 1.07 | 1 | 1.184 | +0.19% | $10.61 | 256,226 |
-
-### TI65 Pullback Scan — Bullish, sorted by C/C7 ascending (11 shown, top 10)
-
-> Pradeep: top of list = reversals (skip), middle = orderly pullbacks (**buy**), bottom = extended (skip).
-
-| Ticker | TI65 | C65 | C/C7 | Change% | Close | Volume |
-|--------|------|-----|------|---------|-------|--------|
-| ARDX | 1.08 | 7 | 0.993 | -1.8% | $8.66 | 4,700,679 |
-| ACMR | 1.06 | 4 | 1.024 | -3.0% | $21.00 | 1,615,427 |
-| AVIR | 1.05 | 2 | 1.059 | +4.7% | $3.79 | 994,305 |
-| APGE | 1.06 | 3 | 1.091 | +1.0% | $34.75 | 332,468 |
-| ANIX | 1.08 | 4 | 1.096 | +1.0% | $4.90 | 168,760 |
-| BITI.TO | 1.05 | 1 | 1.112 | +2.0% | $8.62 | 217,795 |
-| AMD | 1.07 | 3 | 1.138 | +0.1% | $168.42 | 76,830,455 |
-| APEI | 1.06 | 1 | 1.141 | +1.1% | $12.47 | 194,159 |
-| ACIC | 1.07 | 1 | 1.184 | +0.2% | $10.61 | 256,226 |
-| AMD3.L | 1.20 | 6 | 1.458 | +1.6% | $4.33 | 246,302 |
-
-### TI65 Young Pullback — Anticipation Candidates (2 stocks)
-
-> [!tip] **Pradeep's #1 TI65 workflow output:** Young trend (C65 <= 10) + orderly pullback (C/C7 0.85-1.05).
-> These are stocks that JUST turned bullish AND are in a pullback/flat day. Highest reward/risk.
-> Buy on breakout above today's high, or place BSLO above consolidation.
-
-| Ticker | TI65 | C65 | D65 | C/C7 | Change% | Close | Volume | Action |
-|--------|------|-----|-----|------|---------|-------|--------|--------|
-| ACMR | 1.06 | 4 | 0 | 1.024 | -3.0% | $21.00 | 1,615,427 | near flat — watch |
-| ARDX | 1.08 | 7 | 0 | 0.993 | -1.8% | $8.66 | 4,700,679 | flat day — BSLO |
 
 ---
 
@@ -169,30 +98,10 @@ Above 1.0 | Bullish medium-term |
 | AMTX | +2.1% | +6.4% | 625,010 | +4% | fresh |
 | AMRC | +4.3% | +3.2% | 499,615 | -0% | fresh |
 
-### FADE Candidates — Yesterday's Failing Breakouts (15)
+### SOS Breakout Candidates (0 found — top 20)
 
-> [!warning] FADE MODE — 20% study < 35. Breakouts not following through.
-> These stocks broke out yesterday (+4%) but are failing today. Short on bounce or breakdown.
-> Pradeep: 'Fading breakouts is a better strategy than buying breakouts here.'
-
-| Ticker | Yesterday BO Close | Today Close | Fail % | Volume |
-|--------|-------------------|-------------|--------|--------|
-| ANVS | $12.93 | $11.64 | -10.0% | 369,381 |
-| AXG | $3.56 | $3.27 | -8.2% | 99,049 |
-| AFRM | $44.35 | $41.88 | -5.6% | 12,769,489 |
-| AURA | $8.02 | $7.64 | -4.7% | 137,224 |
-| ABCL | $5.51 | $5.31 | -3.6% | 886,408 |
-| AGL | $168.00 | $162.50 | -3.3% | 299,855 |
-| BBBY | $24.65 | $23.85 | -3.2% | 927,000 |
-| ATNM | $5.31 | $5.14 | -3.2% | 109,056 |
-| AISP | $1.58 | $1.53 | -3.2% | 263,774 |
-| ACMR | $21.65 | $21.00 | -3.0% | 1,615,427 |
-| AHCO | $7.21 | $7.00 | -2.9% | 766,164 |
-| ARQ | $3.07 | $2.99 | -2.6% | 83,900 |
-| 3LNV.L | $8.20 | $7.99 | -2.6% | 34,352 |
-| ASUR | $8.99 | $8.76 | -2.6% | 167,633 |
-| ARCB | $121.78 | $119.11 | -2.2% | 226,700 |
-
+| # | Ticker | Change% | Volume | Two Lynch | Leg | Priority |
+|---|--------|---------|--------|-----------|-----|----------|
 
 ### DEP Candidates (0 found)
 
@@ -225,25 +134,25 @@ Above 1.0 | Bullish medium-term |
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
 | 1 | SBET | 9 | 5 | 38 | expanded |
-| 2 | RUN | 9 | 4 | 8 | expanded |
-| 3 | OKLO | 9 | 3 | 91 | core |
-| 4 | IREN | 8 | 3 | 99 | expanded |
-| 5 | QUBT | 8 | 3 | 9 | expanded |
-| 6 | SMCI | 8 | 3 | 74 | expanded |
-| 7 | QBTS | 7 | 3 | 71 | expanded |
-| 8 | TSLL | 7 | 3 | 81 | expanded |
-| 9 | AUR | 7 | 2 | 48 | core |
-| 10 | HIMS | 7 | 2 | 9 | expanded |
-| 11 | MP | 7 | 2 | 4 | expanded |
-| 12 | NVTS | 7 | 2 | 8 | expanded |
-| 13 | PTIR | 7 | 2 | 5 | expanded |
-| 14 | RXRX | 7 | 2 | 9 | expanded |
-| 15 | TMC | 7 | 2 | 6 | expanded |
-| 16 | AMPX | 6 | 4 | 9 | expanded |
-| 17 | CRCL | 6 | 4 | 8 | expanded |
-| 18 | AMD | 6 | 3 | 7 | core |
-| 19 | BBAI | 6 | 3 | 8 | core |
-| 20 | CVNA | 6 | 3 | 7 | expanded |
+| 2 | AMDL | 9 | 4 | 9 | core |
+| 3 | IREN | 9 | 4 | 99 | expanded |
+| 4 | OKLO | 9 | 4 | 91 | core |
+| 5 | RIOT | 9 | 4 | 8 | expanded |
+| 6 | RUN | 9 | 4 | 8 | expanded |
+| 7 | TSLL | 9 | 4 | 81 | expanded |
+| 8 | CLSK | 9 | 3 | 9 | expanded |
+| 9 | KEEL | 9 | 3 | 9 | expanded |
+| 10 | NVTS | 9 | 3 | 8 | expanded |
+| 11 | SIDU | 9 | 3 | 9 | expanded |
+| 12 | SNXX | 9 | 3 | 30 | core |
+| 13 | USAR | 9 | 3 | 51 | expanded |
+| 14 | MSTU | 9 | 2 | 9 | expanded |
+| 15 | APLD | 8 | 4 | 89 | core |
+| 16 | DRAM | 8 | 4 | 9 | expanded |
+| 17 | FCEL | 8 | 4 | 9 | expanded |
+| 18 | MU | 8 | 4 | 9 | expanded |
+| 19 | SPCE | 8 | 4 | 7 | expanded |
+| 20 | AMD | 8 | 3 | 7 | core |
 
 ---
 
@@ -256,7 +165,7 @@ Above 1.0 | Bullish medium-term |
 
 ---
 
-## 10. Short-Side Setups (8 candidates)
+## 10. Short-Side Setups (1 candidates)
 
 ### EP 9M Short (1) — negative surprise gap-downs
 
@@ -264,27 +173,16 @@ Above 1.0 | Bullish medium-term |
 |--------|-------|----------|-------|------|-------|
 | PEGA | 0.0% | -16.0% | $25.99 | $27.48 | unknown_negative (intraday_down) |
 
-### Bearish DEP (5) — negative EP → breakdown below consolidation
-
-| Ticker | EP Age | EP Change | Entry | Stop | Notes |
-|--------|--------|-----------|-------|------|-------|
-| ARKB | 5d | -4.5% | $13.40 | $13.91 | Negative EP 5d ago (-4.5%), breaking consolidation |
-| BCRX | 7d | -4.1% | $5.62 | $5.96 | Negative EP 7d ago (-4.1%), breaking consolidation |
-| BITB | 5d | -4.5% | $21.97 | $22.73 | Negative EP 5d ago (-4.5%), breaking consolidation |
-| APLD | 6d | -7.2% | $4.86 | $4.93 | Negative EP 6d ago (-7.2%), breaking consolidation |
-| BIRK | 5d | -7.7% | $46.32 | $47.60 | Negative EP 5d ago (-7.7%), breaking consolidation |
-
-### Bearish Reversal (2) — 3:58 PM exhaustion
-
-| Ticker | Intraday Gain | Close Position | Notes |
-|--------|----------------|-----------------|-------|
-| ALT | +6.0% | 22% | Reversal: was up 6.0% intraday, closed at 22% of range |
-| AMC | +4.2% | 0% | Reversal: was up 4.2% intraday, closed at 0% of range |
-
 ---
 
 ## 11. Action Summary
 
+- [ ] **REDUCE SIZE** — selective setups only
+- [ ] No DEP candidates — no limit orders to place
+- [ ] ANTS suppressed in this market — no BSLO orders
+- [ ] **Focus on SIPs** — 2 fresh catalyst stocks for day trade
+- [ ] Sell into strength on existing positions
+- [ ] Tighten stops to breakeven
 
 ---
 

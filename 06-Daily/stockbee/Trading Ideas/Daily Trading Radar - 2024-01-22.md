@@ -11,8 +11,8 @@ data_date: 2024-01-19
 
 > [!caution] **RANGE_BOUND** — Action: **SIPs_ONLY**
 >
-> - **20% Study (bullish):** 25
-> - **20% Study (bearish):** 42
+> - **20% Study (bullish):** 0
+> - **20% Study (bearish):** 4
 > - **T2108:** 50.0%
 > - **Net Primary:** +1040
 > - **Breakouts:** 182 | **Breakdowns:** 141
@@ -63,11 +63,11 @@ Above 1.0 | Bullish medium-term |
 
 | Metric | Value | Signal |
 |--------|-------|--------|
-| Stocks up 20%+ (5d) | 25 | ⚠️ Low — breakouts unlikely to follow through |
-| Stocks down 20%+ (5d) | 42 | Normal |
+| Stocks up 20%+ (5d) | 0 | ⚠️ VERY LOW — funds not buying |
+| Stocks down 20%+ (5d) | 4 | Normal |
 
 > [!warning] Scan Suppression Active: SOS, DEP, ANTS
-> 20% study at 25 — breakouts unlikely to follow through in this environment.
+> 20% study at 0 — breakouts unlikely to follow through in this environment.
 
 **Breakout Follow-Through (last 10 days):** 3d=25.4% 5d=15.9% [FAILING]
 
@@ -76,59 +76,6 @@ Above 1.0 | Bullish medium-term |
 ---
 
 ## 3. Sector Relative Strength
-
----
-
-## 4b. TI65 Trend Intensity
-
-> [!info] **TI65 = AVGC7 / AVGC65** — absolute momentum indicator (Pradeep).
-> ≥1.05 = bullish velocity, ≤0.95 = bearish velocity, 0.95–1.05 = neutral.
-> C65 = days in bullish TI65 (last 100). C65 ≤ 10 = **young momentum** (highest R/R).
-
-| Universe | Count | Notes |
-|----------|-------|-------|
-| Bullish (≥1.05, vol≥100K) | 7 | Active uptrends |
-| Bearish (≤0.95, vol≥1M) | 10 | Active downtrends (short universe) |
-| Bearish (≤0.95, vol≥100K) | 24 | Wider bearish universe |
-| Neutral | 996 | No clear trend |
-| **Young momentum** (C65 ≤ 10) | **7** | **First 10 days of bullish TI65 — highest reward/risk** |
-| Total scanned | 1147 | All tickers with ≥65 days history |
-
-### Young Momentum — TI65 Bullish, sorted by C65 ascending (7 shown, top 10)
-
-| Ticker | TI65 | C65 | D65 | C/C7 | Change% | Close | Volume |
-|--------|------|-----|-----|------|---------|-------|--------|
-| APGE | 1.05 | 1 | 0 | 1.096 | +4.7% | $33.69 | 583,538 |
-| BFRG | 1.05 | 1 | 0 | 1.746 | +25.7% | $4.89 | 38,587,688 |
-| AMD | 1.05 | 1 | 0 | 1.167 | +7.1% | $174.23 | 140,367,915 |
-| ANIX | 1.07 | 2 | 0 | 1.222 | +0.6% | $4.96 | 158,482 |
-| ACMR | 1.07 | 2 | 0 | 1.054 | +2.8% | $20.46 | 1,065,065 |
-| AMD3.L | 1.12 | 4 | 0 | 1.395 | +5.2% | $4.27 | 441,668 |
-| ARDX | 1.10 | 5 | 0 | 0.910 | +3.0% | $8.28 | 6,386,990 |
-
-### TI65 Pullback Scan — Bullish, sorted by C/C7 ascending (7 shown, top 10)
-
-> Pradeep: top of list = reversals (skip), middle = orderly pullbacks (**buy**), bottom = extended (skip).
-
-| Ticker | TI65 | C65 | C/C7 | Change% | Close | Volume |
-|--------|------|-----|------|---------|-------|--------|
-| ARDX | 1.10 | 5 | 0.910 | +3.0% | $8.28 | 6,386,990 |
-| ACMR | 1.07 | 2 | 1.054 | +2.8% | $20.46 | 1,065,065 |
-| APGE | 1.05 | 1 | 1.096 | +4.7% | $33.69 | 583,538 |
-| AMD | 1.05 | 1 | 1.167 | +7.1% | $174.23 | 140,367,915 |
-| ANIX | 1.07 | 2 | 1.222 | +0.6% | $4.96 | 158,482 |
-| AMD3.L | 1.12 | 4 | 1.395 | +5.2% | $4.27 | 441,668 |
-| BFRG | 1.05 | 1 | 1.746 | +25.7% | $4.89 | 38,587,688 |
-
-### TI65 Young Pullback — Anticipation Candidates (1 stocks)
-
-> [!tip] **Pradeep's #1 TI65 workflow output:** Young trend (C65 <= 10) + orderly pullback (C/C7 0.85-1.05).
-> These are stocks that JUST turned bullish AND are in a pullback/flat day. Highest reward/risk.
-> Buy on breakout above today's high, or place BSLO above consolidation.
-
-| Ticker | TI65 | C65 | D65 | C/C7 | Change% | Close | Volume | Action |
-|--------|------|-----|-----|------|---------|-------|--------|--------|
-| ARDX | 1.10 | 5 | 0 | 0.910 | +3.0% | $8.28 | 6,386,990 | pullback — buy dip |
 
 ---
 
@@ -158,24 +105,10 @@ Above 1.0 | Bullish medium-term |
 | APO | +0.6% | +2.5% | 2,653,862 | +4% | LARGE-CAP |
 | ALGM | +1.4% | +5.3% | 2,036,317 | +4% | fresh |
 
-### FADE Candidates — Yesterday's Failing Breakouts (9)
+### SOS Breakout Candidates (0 found — top 20)
 
-> [!warning] FADE MODE — 20% study < 35. Breakouts not following through.
-> These stocks broke out yesterday (+4%) but are failing today. Short on bounce or breakdown.
-> Pradeep: 'Fading breakouts is a better strategy than buying breakouts here.'
-
-| Ticker | Yesterday BO Close | Today Close | Fail % | Volume |
-|--------|-------------------|-------------|--------|--------|
-| ABAT | $2.97 | $2.61 | -12.1% | 729,065 |
-| APP | $43.09 | $41.14 | -4.5% | 3,288,412 |
-| BCEL | $0.31 | $0.30 | -3.2% | 8,259,826 |
-| BITI.TO | $8.35 | $8.16 | -2.3% | 108,678 |
-| BITI | $56.19 | $55.10 | -1.9% | 1,143,520 |
-| APT | $5.08 | $5.01 | -1.4% | 97,563 |
-| BDRY | $11.19 | $11.05 | -1.2% | 163,796 |
-| AAL | $13.82 | $13.66 | -1.2% | 38,805,455 |
-| ALK | $34.96 | $34.84 | -0.3% | 1,861,762 |
-
+| # | Ticker | Change% | Volume | Two Lynch | Leg | Priority |
+|---|--------|---------|--------|-----------|-----|----------|
 
 ### DEP Candidates (0 found)
 
@@ -208,25 +141,25 @@ Above 1.0 | Bullish medium-term |
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
 | 1 | SBET | 9 | 5 | 38 | expanded |
-| 2 | RUN | 9 | 4 | 8 | expanded |
-| 3 | OKLO | 9 | 3 | 91 | core |
-| 4 | IREN | 8 | 3 | 99 | expanded |
-| 5 | QUBT | 8 | 3 | 9 | expanded |
-| 6 | SMCI | 8 | 3 | 74 | expanded |
-| 7 | QBTS | 7 | 3 | 71 | expanded |
-| 8 | TSLL | 7 | 3 | 81 | expanded |
-| 9 | AUR | 7 | 2 | 48 | core |
-| 10 | HIMS | 7 | 2 | 9 | expanded |
-| 11 | MP | 7 | 2 | 4 | expanded |
-| 12 | NVTS | 7 | 2 | 8 | expanded |
-| 13 | PTIR | 7 | 2 | 5 | expanded |
-| 14 | RXRX | 7 | 2 | 9 | expanded |
-| 15 | TMC | 7 | 2 | 6 | expanded |
-| 16 | AMPX | 6 | 4 | 9 | expanded |
-| 17 | CRCL | 6 | 4 | 8 | expanded |
-| 18 | AMD | 6 | 3 | 7 | core |
-| 19 | BBAI | 6 | 3 | 7 | core |
-| 20 | CVNA | 6 | 3 | 7 | expanded |
+| 2 | AMDL | 9 | 4 | 9 | core |
+| 3 | IREN | 9 | 4 | 99 | expanded |
+| 4 | OKLO | 9 | 4 | 91 | core |
+| 5 | RIOT | 9 | 4 | 8 | expanded |
+| 6 | RUN | 9 | 4 | 8 | expanded |
+| 7 | TSLL | 9 | 4 | 81 | expanded |
+| 8 | CLSK | 9 | 3 | 9 | expanded |
+| 9 | KEEL | 9 | 3 | 9 | expanded |
+| 10 | NVTS | 9 | 3 | 8 | expanded |
+| 11 | SIDU | 9 | 3 | 9 | expanded |
+| 12 | SNXX | 9 | 3 | 30 | core |
+| 13 | USAR | 9 | 3 | 51 | expanded |
+| 14 | MSTU | 9 | 2 | 9 | expanded |
+| 15 | APLD | 8 | 4 | 89 | core |
+| 16 | DRAM | 8 | 4 | 9 | expanded |
+| 17 | FCEL | 8 | 4 | 9 | expanded |
+| 18 | MU | 8 | 4 | 9 | expanded |
+| 19 | SPCE | 8 | 4 | 7 | expanded |
+| 20 | AMD | 8 | 3 | 7 | core |
 
 ---
 
@@ -239,7 +172,7 @@ Above 1.0 | Bullish medium-term |
 
 ---
 
-## 10. Short-Side Setups (7 candidates)
+## 10. Short-Side Setups (1 candidates)
 
 ### EP 9M Short (1) — negative surprise gap-downs
 
@@ -247,26 +180,17 @@ Above 1.0 | Bullish medium-term |
 |--------|-------|----------|-------|------|-------|
 | PEGA | 0.0% | -16.0% | $25.99 | $27.48 | unknown_negative (intraday_down) |
 
-### Bearish DEP (5) — negative EP → breakdown below consolidation
-
-| Ticker | EP Age | EP Change | Entry | Stop | Notes |
-|--------|--------|-----------|-------|------|-------|
-| ARRY | 3d | -6.0% | $13.39 | $13.53 | Negative EP 3d ago (-6.0%), breaking consolidation |
-| AES | 8d | -4.5% | $15.35 | $16.29 | Negative EP 8d ago (-4.5%), breaking consolidation |
-| AAOI | 7d | -5.1% | $16.62 | $17.29 | Negative EP 7d ago (-5.1%), breaking consolidation |
-| AEHR | 7d | -4.2% | $17.12 | $17.29 | Negative EP 7d ago (-4.2%), breaking consolidation |
-| BCRX | 3d | -4.1% | $5.76 | $5.96 | Negative EP 3d ago (-4.1%), breaking consolidation |
-
-### Bearish Reversal (1) — 3:58 PM exhaustion
-
-| Ticker | Intraday Gain | Close Position | Notes |
-|--------|----------------|-----------------|-------|
-| BHC | +4.6% | 22% | Reversal: was up 4.6% intraday, closed at 22% of range |
-
 ---
 
 ## 11. Action Summary
 
+- [ ] **RANGE_BOUND / SIPs ONLY** — breakouts unlikely to follow through
+- [ ] No swing longs — SIPs and intraday only
+- [ ] Pradeep: 'My wallet is closed. Nothing to do.'
+- [ ] **Focus on SIPs** — 1 fresh catalyst stocks for day trade
+- [ ] Monitor 1 short-side setups
+- [ ] Fading breakouts may be better than buying breakouts
+- [ ] Watch for capitulation signal (T2108 < 10%)
 
 ---
 
