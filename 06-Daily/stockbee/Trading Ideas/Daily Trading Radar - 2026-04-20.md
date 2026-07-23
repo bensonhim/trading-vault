@@ -47,10 +47,6 @@ Above 1.0 | Bullish medium-term |
 | 5-Day Ratio | 3.84 | Above 1.0 | Short-term bullish |
 | 10-Day Ratio | 2.57 | Above 1.0 | Bullish |
 
-
-> [!danger] SELLING SPREADING — Selling spreading to 3 sectors: Unknown (64->217), Basic Materials (13->29), Energy (8->79)
-> Pradeep: 'Selling is going to spread to the other stocks which are holding up.'
-
 ---
 
 ## 3. Sector Relative Strength
@@ -75,102 +71,31 @@ RS_20d: 2.80 | RS_65d: 9.40
 
 ---
 
-## 4b. TI65 Trend Intensity
-
-> [!info] **TI65 = AVGC7 / AVGC65** — absolute momentum indicator (Pradeep).
-> ≥1.05 = bullish velocity, ≤0.95 = bearish velocity, 0.95–1.05 = neutral.
-> C65 = days in bullish TI65 (last 100). C65 ≤ 10 = **young momentum** (highest R/R).
-
-| Universe | Count | Notes |
-|----------|-------|-------|
-| Bullish (≥1.05, vol≥100K) | 1239 | Active uptrends |
-| Bearish (≤0.95, vol≥1M) | 501 | Active downtrends (short universe) |
-| Bearish (≤0.95, vol≥100K) | 949 | Wider bearish universe |
-| Neutral | 8596 | No clear trend |
-| **Young momentum** (C65 ≤ 10) | **145** | **First 10 days of bullish TI65 — highest reward/risk** |
-| Total scanned | 12036 | All tickers with ≥65 days history |
-
-### Young Momentum — TI65 Bullish, sorted by C65 ascending (20 shown, top 10)
-
-| Ticker | TI65 | C65 | D65 | C/C7 | Change% | Close | Volume |
-|--------|------|-----|-----|------|---------|-------|--------|
-| EFOI | 1.31 | 1 | 77 | 3.311 | +210.5% | $6.49 | 167,170,015 |
-| MYSE | 1.13 | 1 | 89 | 2.490 | +15.4% | $3.81 | 33,771,901 |
-| ASST | 1.10 | 1 | 93 | 1.523 | +11.7% | $15.61 | 7,712,200 |
-| RIOX | 1.08 | 1 | 84 | 1.234 | +13.5% | $30.60 | 268,338 |
-| HYPD | 1.08 | 1 | 66 | 1.389 | +14.1% | $4.46 | 878,100 |
-| MIMI | 1.08 | 1 | 85 | 1.345 | +1.5% | $3.39 | 1,699,528 |
-| NVDX | 1.07 | 1 | 53 | 1.219 | +3.4% | $18.43 | 13,031,800 |
-| 5QQQ.L | 1.07 | 1 | 61 | 1.393 | +6.5% | $146.30 | 431,044 |
-| DAPP | 1.06 | 1 | 72 | 1.175 | +4.5% | $19.38 | 977,518 |
-| QLD | 1.06 | 1 | 15 | 1.144 | +2.6% | $76.68 | 5,542,410 |
-
-### TI65 Anticipation — Bullish + ±0.4% narrow range day (93 candidates, top 20)
-
-> Stocks with established bullish momentum having a flat day — likely breakout setup.
-
-| Ticker | TI65 | C65 | C/C7 | Change% | Close | Volume |
-|--------|------|-----|------|---------|-------|--------|
-| IRD | 1.41 | 82 | 1.117 | +0.00% | $5.75 | 748,038 |
-| ALTO | 1.38 | 86 | 1.130 | +0.00% | $4.94 | 1,503,500 |
-| INTC | 1.33 | 55 | 1.162 | +0.00% | $68.50 | 118,831,534 |
-| IMUX | 1.17 | 45 | 0.840 | +0.00% | $10.00 | 330,950 |
-| RFIL | 1.15 | 63 | 1.206 | +0.00% | $13.92 | 344,011 |
-| TOI | 1.12 | 11 | 1.142 | +0.00% | $3.54 | 1,745,200 |
-| EVC | 1.10 | 53 | 1.118 | +0.00% | $3.51 | 389,300 |
-| PKST | 1.06 | 58 | 1.001 | +0.00% | $20.94 | 405,100 |
-| GSAT | 1.22 | 56 | 1.068 | -0.01% | $80.02 | 1,991,314 |
-| ETR | 1.11 | 39 | 1.008 | +0.01% | $114.89 | 3,754,300 |
-| UFO | 1.13 | 60 | 1.073 | -0.02% | $54.62 | 1,181,800 |
-| ACLS | 1.24 | 30 | 1.135 | -0.03% | $118.73 | 449,925 |
-| CNK | 1.13 | 41 | 1.010 | +0.03% | $29.91 | 2,833,044 |
-| SCHL | 1.11 | 67 | 1.010 | +0.03% | $39.57 | 757,200 |
-| AMDL | 1.29 | 16 | 1.427 | +0.04% | $22.50 | 10,139,800 |
-| AMD | 1.17 | 18 | 1.201 | +0.05% | $278.39 | 35,519,900 |
-| SWBI | 1.15 | 85 | 1.003 | +0.07% | $14.72 | 390,700 |
-| VRSN | 1.12 | 11 | 1.012 | +0.07% | $273.32 | 805,446 |
-| SRRK | 1.08 | 73 | 0.999 | -0.08% | $49.96 | 1,757,600 |
-| IDA | 1.05 | 32 | 1.011 | -0.08% | $147.07 | 473,128 |
-
-### TI65 Pullback Scan — Bullish, sorted by C/C7 ascending (20 shown, top 10)
-
-> Pradeep: top of list = reversals (skip), middle = orderly pullbacks (**buy**), bottom = extended (skip).
-
-| Ticker | TI65 | C65 | C/C7 | Change% | Close | Volume |
-|--------|------|-----|------|---------|-------|--------|
-| ANNA | 1.14 | 33 | 0.573 | -13.3% | $3.64 | 1,309,011 |
-| UGRO | 1.80 | 17 | 0.610 | -1.6% | $11.32 | 286,374 |
-| ARTL | 1.33 | 46 | 0.649 | -8.6% | $4.44 | 104,400 |
-| TSDD | 1.11 | 46 | 0.716 | -6.1% | $8.66 | 21,077,306 |
-| TSLQ | 1.11 | 46 | 0.717 | -6.1% | $20.41 | 15,424,048 |
-| TSLZ | 1.10 | 44 | 0.717 | -5.6% | $13.16 | 9,541,104 |
-| FSLY | 1.26 | 71 | 0.750 | -1.3% | $24.56 | 12,701,046 |
-| NRGU | 1.06 | 67 | 0.787 | -14.3% | $30.47 | 405,726 |
-| VG | 1.07 | 62 | 0.793 | -9.6% | $11.44 | 39,132,709 |
-| 3LOI.L | 1.36 | 56 | 0.817 | -27.0% | $2803.00 | 182,866 |
-
-### TI65 Young Pullback — Anticipation Candidates (10 stocks)
-
-> [!tip] **Pradeep's #1 TI65 workflow output:** Young trend (C65 <= 10) + orderly pullback (C/C7 0.85-1.05).
-> These are stocks that JUST turned bullish AND are in a pullback/flat day. Highest reward/risk.
-> Buy on breakout above today's high, or place BSLO above consolidation.
-
-| Ticker | TI65 | C65 | D65 | C/C7 | Change% | Close | Volume | Action |
-|--------|------|-----|-----|------|---------|-------|--------|--------|
-| BKE | 1.05 | 1 | 6 | 1.023 | +3.1% | $54.62 | 528,200 | near flat — watch |
-| PRKS | 1.05 | 1 | 56 | 1.024 | +0.4% | $36.07 | 1,240,417 | near flat — watch |
-| EAPR | 1.05 | 1 | 0 | 1.031 | +1.3% | $32.43 | 215,200 | near flat — watch |
-| ICVT | 1.05 | 1 | 0 | 1.043 | +0.8% | $111.71 | 1,874,445 | near flat — watch |
-| ASMU | 1.07 | 2 | 24 | 1.041 | +6.7% | $24.86 | 111,838 | near flat — watch |
-| WST | 1.07 | 4 | 33 | 1.029 | +1.4% | $273.52 | 837,416 | near flat — watch |
-| CLSE | 1.06 | 4 | 0 | 1.030 | +0.7% | $30.62 | 258,544 | near flat — watch |
-| SYBT | 1.07 | 4 | 14 | 1.037 | +1.8% | $72.26 | 156,613 | near flat — watch |
-| LEVI | 1.10 | 4 | 25 | 1.050 | +3.1% | $22.76 | 2,398,328 | near flat — watch |
-| OFG | 1.06 | 5 | 5 | 1.000 | +1.5% | $42.31 | 390,900 | flat day — BSLO |
-
----
-
 ## 5. Trade Ideas
+
+### SIPs — Stocks in Play (30 found, 30 fresh catalyst — top 15)
+
+> [!info] Pradeep: 'When nothing else works, SIPs are the only thing that works.'
+> Stocks with fresh catalyst (earnings, news, partnerships) + volume. Day trade / 1-2 day swing.
+> **[EXTENDED]** = already up 20%+ in 5d = 'priced in'. **[DILUTION]** = small-cap gap, shelf offering risk.
+
+| Ticker | Gap% | Change% | Volume | 5d Move | Flags |
+|--------|------|---------|--------|---------|-------|
+| AAL | +7.2% | +4.2% | 80,991,300 | +13% | fresh |
+| CCL | +6.4% | +7.0% | 37,524,034 | +4% | fresh |
+| RKT | +4.8% | +5.5% | 37,318,900 | +12% | fresh |
+| NCLH | +6.8% | +4.8% | 31,605,200 | +5% | fresh |
+| COMP | +4.5% | +11.5% | 27,698,230 | +14% | fresh |
+| STLA | +4.5% | +5.8% | 22,059,725 | +7% | fresh |
+| AVEX | +18.0% | +38.1% | 16,686,700 | +0% | fresh |
+| UAL | +8.3% | +7.1% | 13,120,700 | +6% | fresh |
+| DAL | +6.5% | +2.6% | 12,765,649 | +6% | LARGE-CAP |
+| HL | +4.5% | +2.2% | 12,707,225 | +0% | fresh |
+| LUV | +6.7% | +5.1% | 10,387,600 | +8% | fresh |
+| ALK | +6.2% | +10.3% | 8,535,722 | +15% | fresh |
+| ULCC | +6.4% | +7.6% | 8,435,100 | +19% | fresh |
+| EXK | +4.3% | +4.7% | 7,978,800 | +8% | fresh |
+| ALLY | +5.2% | +8.1% | 7,596,124 | +10% | fresh |
 
 ### SOS Breakout Candidates (0 found — top 20)
 
@@ -240,8 +165,20 @@ RS_20d: 2.80 | RS_65d: 9.40
 
 ---
 
+## 10. Short-Side Setups (1 candidates)
+
+### EP 9M Short (1) — negative surprise gap-downs
+
+| Ticker | Gap % | Change % | Entry | Stop | Notes |
+|--------|-------|----------|-------|------|-------|
+| PEGA | -42.7% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+
+---
+
 ## 11. Action Summary
 
+- [ ] Full playbook — size into A+ confluences (0 SOS, 0 DEP available)
+- [ ] Watch 30 fresh SIPs for day trade entries
 - [ ] Leading sector: SOXX — watch for setups in this sector
 
 ---
