@@ -19,7 +19,7 @@ data_date: 2026-06-25
 > - **Follow-through:** 3d=34.5% 5d=33.6% (OK)
 >
 > - Former leader rolling over: SOXX (semiconductors)
-> - Leading sector rolling over + market confirmation
+> - ROTATION TRAP: positive breadth from beaten-down stocks, not leaders
 
 ---
 
@@ -178,7 +178,7 @@ RS_20d: 0.74 | RS_65d: 2.62
 
 | Ticker | SB Tier | 504d | 21d | 10d | 5d | Recency | Sector ETF | RS Rank | Status |
 |--------|---------|------|-----|-----|-----|---------|-----------|---------|--------|
-| SMCI | expanded | 74 | 8 | 6 | 3 | 84 | XLK (#1) | SETTING UP (ACTIVE (5d)) * |
+| CLF | expanded | 9 | 5 | 4 | 2 | 55 | XLB (#3) | SETTING UP (ACTIVE (5d)) |
 
 *Recency = 5d×10 + 10d×5 + 21d×3 (Pradeep's recency weighting). Higher = more recent breakout activity.*
 
@@ -194,13 +194,14 @@ RS_20d: 0.74 | RS_65d: 2.62
 
 ---
 
-## 10. Short-Side Setups (1 candidates)
+## 10. Short-Side Setups (2 candidates)
 
-### EP 9M Short (1) — negative surprise gap-downs
+### EP 9M Short (2) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -17.1% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| STM | 0.0% | -14.69% | $56.11 | $56.42 | unknown_negative (intraday_down) |
+| TSLA | -9.2% | -12.6% | $326.88 | $341.86 | unknown_negative (gap_down) |
 
 ---
 
@@ -209,7 +210,7 @@ RS_20d: 0.74 | RS_65d: 2.62
 - [ ] **NO NEW LONGS** — process over chasing
 - [ ] Manage existing positions only
 - [ ] SIPs only — 30 fresh catalyst for day trade
-- [ ] Monitor 1 short-side setups
+- [ ] Monitor 2 short-side setups
 - [ ] Watch for capitulation signal (T2108 < 10%)
 - [ ] Leading sector: AIQ — watch for setups in this sector
 

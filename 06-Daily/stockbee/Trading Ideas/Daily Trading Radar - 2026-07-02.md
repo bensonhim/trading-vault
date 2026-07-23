@@ -238,13 +238,14 @@ RS_20d: 0.53 | RS_65d: 4.77
 
 ---
 
-## 10. Short-Side Setups (1 candidates)
+## 10. Short-Side Setups (2 candidates)
 
-### EP 9M Short (1) — negative surprise gap-downs
+### EP 9M Short (2) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -17.3% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| STM | 0.0% | -14.52% | $56.22 | $56.42 | unknown_negative (intraday_down) |
+| TSLA | -18.9% | -12.53% | $327.16 | $341.86 | unknown_negative (gap_down) |
 
 ---
 

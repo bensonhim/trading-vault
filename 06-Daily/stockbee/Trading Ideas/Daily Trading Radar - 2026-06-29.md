@@ -19,6 +19,7 @@ data_date: 2026-06-26
 > - **Follow-through:** 3d=31.6% 5d=30.3% (OK)
 >
 > - Former leader rolling over: SOXX (semiconductors)
+> - ROTATION TRAP: positive breadth from beaten-down stocks, not leaders
 > - Former leader rolling over but breadth positive — reduce size, watch for confirmation
 
 ---
@@ -159,6 +160,14 @@ RS_20d: 0.94 | RS_65d: 2.79
 | 19 | SPCE | 8 | 4 | 7 | expanded |
 | 20 | AMD | 8 | 3 | 7 | core |
 
+### Sugar Babies in Hot Sectors (with active setups today)
+
+| Ticker | SB Tier | 504d | 21d | 10d | 5d | Recency | Sector ETF | RS Rank | Status |
+|--------|---------|------|-----|-----|-----|---------|-----------|---------|--------|
+| CLF | expanded | 9 | 5 | 4 | 2 | 55 | XLB (#1) | SETTING UP (ACTIVE (5d)) * |
+
+*Recency = 5d×10 + 10d×5 + 21d×3 (Pradeep's recency weighting). Higher = more recent breakout activity.*
+
 ---
 
 ## 8. Similar Historical Conditions
@@ -171,13 +180,14 @@ RS_20d: 0.94 | RS_65d: 2.79
 
 ---
 
-## 10. Short-Side Setups (1 candidates)
+## 10. Short-Side Setups (2 candidates)
 
-### EP 9M Short (1) — negative surprise gap-downs
+### EP 9M Short (2) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -13.7% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| STM | 0.0% | -15.08% | $55.85 | $56.42 | unknown_negative (intraday_down) |
+| TSLA | -9.1% | -12.59% | $326.91 | $341.86 | unknown_negative (gap_down) |
 
 ---
 

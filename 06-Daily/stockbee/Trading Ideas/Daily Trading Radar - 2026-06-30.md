@@ -19,6 +19,7 @@ data_date: 2026-06-29
 > - **Follow-through:** 3d=32.9% 5d=39.5% (OK)
 >
 > - Former leader rolling over: SOXX (semiconductors)
+> - ROTATION TRAP: positive breadth from beaten-down stocks, not leaders
 > - Former leader rolling over but breadth positive — reduce size, watch for confirmation
 
 ---
@@ -244,13 +245,14 @@ RS_20d: -0.46 | RS_65d: 3.38
 
 ---
 
-## 10. Short-Side Setups (1 candidates)
+## 10. Short-Side Setups (2 candidates)
 
-### EP 9M Short (1) — negative surprise gap-downs
+### EP 9M Short (2) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -19.4% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| STM | 0.0% | -14.93% | $55.95 | $56.42 | unknown_negative (intraday_down) |
+| TSLA | -10.2% | -12.72% | $326.44 | $341.86 | unknown_negative (gap_down) |
 
 ---
 

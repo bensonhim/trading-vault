@@ -9,7 +9,7 @@ data_date: 2026-06-30
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **CAUTIOUS_BULL** — Action: **REDUCE_SIZE**
+> [!tip] **FULL_BULL** — Action: **FULL_LONG**
 >
 > - **20% Study (bullish):** 105
 > - **20% Study (bearish):** 26
@@ -19,7 +19,8 @@ data_date: 2026-06-30
 > - **Follow-through:** 3d=37.2% 5d=44.1% (OK)
 >
 > - Former leader rolling over: SOXX (semiconductors)
-> - Former leader rolling over but breadth positive — reduce size, watch for confirmation
+> - ROTATION TRAP: positive breadth from beaten-down stocks, not leaders
+> - Former leader rolling over (SOXX (semiconductors)) but breadth strong (Net +644, 5d 1.68) — rotation, not distribution. FULL_BULL.
 
 ---
 
@@ -225,6 +226,7 @@ RS_20d: 0.72 | RS_65d: 3.21
 
 | Ticker | SB Tier | 504d | 21d | 10d | 5d | Recency | Sector ETF | RS Rank | Status |
 |--------|---------|------|-----|-----|-----|---------|-----------|---------|--------|
+| CLF | expanded | 9 | 5 | 4 | 2 | 55 | XLB (#1) | SETTING UP (ACTIVE (5d)) * |
 | TGB | expanded | 3 | 3 | 2 | 1 | 29 | XLB (#1) | SETTING UP (ACTIVE (5d)) * |
 
 *Recency = 5d×10 + 10d×5 + 21d×3 (Pradeep's recency weighting). Higher = more recent breakout activity.*
@@ -241,24 +243,23 @@ RS_20d: 0.72 | RS_65d: 3.21
 
 ---
 
-## 10. Short-Side Setups (1 candidates)
+## 10. Short-Side Setups (2 candidates)
 
-### EP 9M Short (1) — negative surprise gap-downs
+### EP 9M Short (2) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -18.6% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| STM | 0.0% | -15.04% | $55.88 | $56.42 | unknown_negative (intraday_down) |
+| TSLA | -17.2% | -12.48% | $327.35 | $341.86 | unknown_negative (gap_down) |
 
 ---
 
 ## 11. Action Summary
 
-- [ ] **REDUCE SIZE** — selective setups only
-- [ ] No DEP candidates — no limit orders to place
-- [ ] Place ANTS BSLO orders (super-tight/ultra-tight only, 35 available)
-- [ ] **Focus on SIPs** — 26 fresh catalyst stocks for day trade
-- [ ] Sell into strength on existing positions
-- [ ] Tighten stops to breakeven
+- [ ] Full playbook — size into A+ confluences (50 SOS, 0 DEP available)
+- [ ] Place ANTS BSLO orders (top 5 by tight tier)
+- [ ] Monitor SOS breakout triggers intraday
+- [ ] Watch 26 fresh SIPs for day trade entries
 - [ ] Leading sector: BUG — watch for setups in this sector
 
 ---

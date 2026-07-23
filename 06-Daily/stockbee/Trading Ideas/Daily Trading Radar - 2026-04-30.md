@@ -22,7 +22,7 @@ data_date: 2026-04-29
 > - 5-day ratio 0.60 < 0.8
 > - Breakdown spike: 409 vs 172
 > - Breakdown (409) > Breakout (172) = selling pressure
-> - Leading sector rolling over + market confirmation
+> - ROTATION TRAP: positive breadth from beaten-down stocks, not leaders
 
 ---
 
@@ -194,13 +194,14 @@ RS_20d: 3.92 | RS_65d: 10.41
 
 ---
 
-## 10. Short-Side Setups (1 candidates)
+## 10. Short-Side Setups (2 candidates)
 
-### EP 9M Short (1) — negative surprise gap-downs
+### EP 9M Short (2) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -31.0% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| STM | 0.0% | -14.43% | $56.28 | $56.42 | unknown_negative (intraday_down) |
+| TSLA | -9.3% | -12.25% | $328.20 | $341.86 | unknown_negative (gap_down) |
 
 ---
 
@@ -209,7 +210,7 @@ RS_20d: 3.92 | RS_65d: 10.41
 - [ ] **NO NEW LONGS** — process over chasing
 - [ ] Manage existing positions only
 - [ ] SIPs only — 30 fresh catalyst for day trade
-- [ ] Monitor 1 short-side setups
+- [ ] Monitor 2 short-side setups
 - [ ] Watch for capitulation signal (T2108 < 10%)
 - [ ] Leading sector: SOXX — watch for setups in this sector
 

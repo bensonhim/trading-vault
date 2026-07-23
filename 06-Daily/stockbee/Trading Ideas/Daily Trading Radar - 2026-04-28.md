@@ -19,8 +19,8 @@ data_date: 2026-04-27
 > - **Follow-through:** 3d=31.7% 5d=23.7% (FAILING)
 >
 > - Follow-through 5d rate 24% < 30% — breakouts failing, no momentum
-> - 20% study at 34 (< 50) + Net Primary +0 + 5d ratio 0.84 — indicators weak, FULL_BULL downgraded to CAUTIOUS_BULL.
-> - Follow-through 24% < 30% + Net +0 + 5d 0.84 — all weak, downgraded to RANGE_BOUND/SIPs_ONLY.
+> - 20% study at 34 (< 50) + Net Primary +489 + 5d ratio 0.84 — indicators weak, FULL_BULL downgraded to CAUTIOUS_BULL.
+> - Follow-through 24% < 30% + Net +489 + 5d 0.84 — all weak, downgraded to RANGE_BOUND/SIPs_ONLY.
 
 ---
 
@@ -184,13 +184,14 @@ RS_20d: 3.19 | RS_65d: 7.52
 
 ---
 
-## 10. Short-Side Setups (1 candidates)
+## 10. Short-Side Setups (2 candidates)
 
-### EP 9M Short (1) — negative surprise gap-downs
+### EP 9M Short (2) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -33.6% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| STM | 0.0% | -15.4% | $55.64 | $55.73 | unknown_negative (intraday_down) |
+| TSLA | -9.4% | -12.01% | $329.10 | $341.86 | unknown_negative (gap_down) |
 
 ---
 
@@ -200,7 +201,7 @@ RS_20d: 3.19 | RS_65d: 7.52
 - [ ] No swing longs — SIPs and intraday only
 - [ ] Pradeep: 'My wallet is closed. Nothing to do.'
 - [ ] **Focus on SIPs** — 20 fresh catalyst stocks for day trade
-- [ ] Monitor 1 short-side setups
+- [ ] Monitor 2 short-side setups
 - [ ] Fading breakouts may be better than buying breakouts
 - [ ] Watch for capitulation signal (T2108 < 10%)
 - [ ] Leading sector: SOXX — watch for setups in this sector

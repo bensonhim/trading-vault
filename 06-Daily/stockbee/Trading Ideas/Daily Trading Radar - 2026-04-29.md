@@ -20,8 +20,8 @@ data_date: 2026-04-28
 >
 > - Former leader rolling over: XOP (oil_gas_e&p)
 > - Breakdown (295) > Breakout (156) = selling pressure
+> - ROTATION TRAP: positive breadth from beaten-down stocks, not leaders
 > - 20% study at 26 (< 30) = funds not aggressively buying, breakouts unlikely to follow through
-> - Leading sector rolling over + market confirmation
 
 ---
 
@@ -188,13 +188,14 @@ RS_20d: 3.30 | RS_65d: 7.73
 
 ---
 
-## 10. Short-Side Setups (1 candidates)
+## 10. Short-Side Setups (2 candidates)
 
-### EP 9M Short (1) — negative surprise gap-downs
+### EP 9M Short (2) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -32.6% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| STM | 0.0% | -14.32% | $56.35 | $56.35 | unknown_negative (intraday_down) |
+| TSLA | -9.9% | -12.13% | $328.66 | $341.86 | unknown_negative (gap_down) |
 
 ---
 
@@ -203,7 +204,7 @@ RS_20d: 3.30 | RS_65d: 7.73
 - [ ] **NO NEW LONGS** — process over chasing
 - [ ] Manage existing positions only
 - [ ] SIPs only — 24 fresh catalyst for day trade
-- [ ] Monitor 1 short-side setups
+- [ ] Monitor 2 short-side setups
 - [ ] Watch for capitulation signal (T2108 < 10%)
 - [ ] Leading sector: SOXX — watch for setups in this sector
 
