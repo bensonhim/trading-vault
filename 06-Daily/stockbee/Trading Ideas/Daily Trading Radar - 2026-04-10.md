@@ -9,7 +9,7 @@ data_date: 2026-04-09
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **CAUTIOUS_BULL** — Action: **REDUCE_SIZE**
+> [!warning] **DISTRIBUTING** — Action: **NO_NEW_LONGS**
 >
 > - **20% Study (bullish):** 48
 > - **20% Study (bearish):** 18
@@ -19,7 +19,7 @@ data_date: 2026-04-09
 > - **Follow-through:** 3d=33.2% 5d=56.8% (OK)
 >
 > - Former leader rolling over: FINX (fintech)
-> - Former leader rolling over but breadth positive — reduce size, watch for confirmation
+> - Leading sector rolling over + market confirmation
 
 ---
 
@@ -182,18 +182,17 @@ RS_20d: 4.89 | RS_65d: 9.33
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -39.8% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| TSLA | -0.7% | -10.23% | $335.74 | $341.86 | unknown_negative (intraday_down) |
 
 ---
 
 ## 11. Action Summary
 
-- [ ] **REDUCE SIZE** — selective setups only
-- [ ] No DEP candidates — no limit orders to place
-- [ ] ANTS suppressed in this market — no BSLO orders
-- [ ] **Focus on SIPs** — 6 fresh catalyst stocks for day trade
-- [ ] Sell into strength on existing positions
-- [ ] Tighten stops to breakeven
+- [ ] **NO NEW LONGS** — process over chasing
+- [ ] Manage existing positions only
+- [ ] SIPs only — 6 fresh catalyst for day trade
+- [ ] Monitor 1 short-side setups
+- [ ] Watch for capitulation signal (T2108 < 10%)
 - [ ] Leading sector: XLF — watch for setups in this sector
 
 ---

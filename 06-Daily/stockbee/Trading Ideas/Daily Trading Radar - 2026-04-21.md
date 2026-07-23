@@ -233,7 +233,7 @@ RS_20d: 2.76 | RS_65d: 1.65
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -43.1% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| TSLA | -14.9% | -11.61% | $330.57 | $341.86 | unknown_negative (gap_down) |
 
 ---
 

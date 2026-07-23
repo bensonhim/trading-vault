@@ -19,6 +19,7 @@ data_date: 2026-06-11
 > - **Follow-through:** 3d=26.3% 5d=32.7% (FAILING)
 >
 > - Former leader rolling over: SOXX (semiconductors)
+> - ROTATION TRAP: positive breadth from beaten-down stocks, not leaders
 > - Former leader rolling over but breadth positive — reduce size, watch for confirmation
 
 ---
@@ -222,7 +223,7 @@ RS_20d: -1.56 | RS_65d: 2.75
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -24.7% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| TSLA | -10.6% | -11.54% | $330.86 | $341.86 | unknown_negative (gap_down) |
 
 ---
 

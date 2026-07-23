@@ -21,8 +21,8 @@ data_date: 2026-06-10
 > - Former leader rolling over: SOXX (semiconductors)
 > - 5-day ratio 0.70 < 0.8
 > - Monthly 25% ratio 0.73 < 0.8
+> - ROTATION TRAP: positive breadth from beaten-down stocks, not leaders
 > - 20% study at 27 (< 30) = funds not aggressively buying, breakouts unlikely to follow through
-> - Follow-through 5d rate 30% < 30% — breakouts failing, no momentum
 
 ---
 
@@ -182,14 +182,6 @@ RS_20d: -0.32 | RS_65d: 3.19
 | 19 | SPCE | 8 | 4 | 7 | expanded |
 | 20 | AMD | 8 | 3 | 7 | core |
 
-### Sugar Babies in Hot Sectors (with active setups today)
-
-| Ticker | SB Tier | 504d | 21d | 10d | 5d | Recency | Sector ETF | RS Rank | Status |
-|--------|---------|------|-----|-----|-----|---------|-----------|---------|--------|
-| SMCI | expanded | 74 | 8 | 6 | 3 | 84 | XLK (#2) | SETTING UP (ACTIVE (5d)) |
-
-*Recency = 5d×10 + 10d×5 + 21d×3 (Pradeep's recency weighting). Higher = more recent breakout activity.*
-
 ---
 
 ## 8. Similar Historical Conditions
@@ -208,7 +200,7 @@ RS_20d: -0.32 | RS_65d: 3.19
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -27.4% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| TSLA | -14.0% | -11.13% | $332.37 | $341.86 | unknown_negative (gap_down) |
 
 ---
 

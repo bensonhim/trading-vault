@@ -9,7 +9,7 @@ data_date: 2026-04-10
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!warning] **DISTRIBUTING** — Action: **NO_NEW_LONGS**
+> [!warning] **BEARISH** — Action: **SHORTS_ONLY**
 >
 > - **20% Study (bullish):** 0
 > - **20% Study (bearish):** 0
@@ -20,7 +20,6 @@ data_date: 2026-04-10
 >
 > - Former leader rolling over: FINX (fintech)
 > - Breakdown (239) > Breakout (159) = selling pressure
-> - Leading sector rolling over + market confirmation
 
 ---
 
@@ -168,17 +167,14 @@ RS_20d: 1.97 | RS_65d: 6.28
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -37.8% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| TSLA | -1.3% | -10.42% | $335.05 | $341.86 | unknown_negative (intraday_down) |
 
 ---
 
 ## 11. Action Summary
 
-- [ ] **NO NEW LONGS** — process over chasing
-- [ ] Manage existing positions only
-- [ ] SIPs only — 12 fresh catalyst for day trade
-- [ ] Monitor 1 short-side setups
-- [ ] Watch for capitulation signal (T2108 < 10%)
+- [ ] **SHORTS ONLY** — or cash
+- [ ] No new longs under any circumstance
 - [ ] Leading sector: XLF — watch for setups in this sector
 
 ---

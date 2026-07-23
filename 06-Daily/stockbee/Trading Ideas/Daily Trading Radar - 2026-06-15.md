@@ -9,7 +9,7 @@ data_date: 2026-06-12
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **CAUTIOUS_BULL** — Action: **REDUCE_SIZE**
+> [!tip] **FULL_BULL** — Action: **FULL_LONG**
 >
 > - **20% Study (bullish):** 0
 > - **20% Study (bearish):** 0
@@ -19,7 +19,8 @@ data_date: 2026-06-12
 > - **Follow-through:** 3d=29.9% 5d=34.2% (FAILING)
 >
 > - Former leader rolling over: SOXX (semiconductors)
-> - Former leader rolling over but breadth positive — reduce size, watch for confirmation
+> - ROTATION TRAP: positive breadth from beaten-down stocks, not leaders
+> - Former leader rolling over (SOXX (semiconductors)) but breadth strong (Net +535, 5d 1.63) — rotation, not distribution. FULL_BULL.
 
 ---
 
@@ -159,6 +160,14 @@ RS_20d: -1.91 | RS_65d: 1.12
 | 19 | SPCE | 8 | 4 | 7 | expanded |
 | 20 | AMD | 8 | 3 | 7 | core |
 
+### Sugar Babies in Hot Sectors (with active setups today)
+
+| Ticker | SB Tier | 504d | 21d | 10d | 5d | Recency | Sector ETF | RS Rank | Status |
+|--------|---------|------|-----|-----|-----|---------|-----------|---------|--------|
+| CLF | expanded | 9 | 5 | 4 | 2 | 55 | XLB (#2) | SETTING UP (ACTIVE (5d)) |
+
+*Recency = 5d×10 + 10d×5 + 21d×3 (Pradeep's recency weighting). Higher = more recent breakout activity.*
+
 ---
 
 ## 8. Similar Historical Conditions
@@ -177,18 +186,14 @@ RS_20d: -1.91 | RS_65d: 1.12
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -24.4% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| TSLA | -14.6% | -11.36% | $331.54 | $341.86 | unknown_negative (gap_down) |
 
 ---
 
 ## 11. Action Summary
 
-- [ ] **REDUCE SIZE** — selective setups only
-- [ ] No DEP candidates — no limit orders to place
-- [ ] ANTS suppressed in this market — no BSLO orders
-- [ ] **Focus on SIPs** — 16 fresh catalyst stocks for day trade
-- [ ] Sell into strength on existing positions
-- [ ] Tighten stops to breakeven
+- [ ] Full playbook — size into A+ confluences (0 SOS, 0 DEP available)
+- [ ] Watch 16 fresh SIPs for day trade entries
 - [ ] Leading sector: PAVE — watch for setups in this sector
 
 ---

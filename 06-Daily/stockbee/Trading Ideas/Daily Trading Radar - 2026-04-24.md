@@ -21,8 +21,8 @@ data_date: 2026-04-23
 > - Former leader rolling over: XOP (oil_gas_e&p)
 > - Breakdown spike: 496 vs 157
 > - Breakdown (496) > Breakout (157) = selling pressure
+> - ROTATION TRAP: positive breadth from beaten-down stocks, not leaders
 > - 20% study at 27 (< 30) = funds not aggressively buying, breakouts unlikely to follow through
-> - Leading sector rolling over + market confirmation
 
 ---
 
@@ -199,7 +199,7 @@ RS_20d: 3.53 | RS_65d: 6.36
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -33.8% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| TSLA | -12.0% | -12.36% | $327.80 | $341.86 | unknown_negative (gap_down) |
 
 ---
 

@@ -9,7 +9,7 @@ data_date: 2026-04-22
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **CAUTIOUS_BULL** — Action: **REDUCE_SIZE**
+> [!tip] **FULL_BULL** — Action: **FULL_LONG**
 >
 > - **20% Study (bullish):** 43
 > - **20% Study (bearish):** 21
@@ -19,7 +19,8 @@ data_date: 2026-04-22
 > - **Follow-through:** 3d=52.0% 5d=46.7% (OK)
 >
 > - Former leader rolling over: XOP (oil_gas_e&p)
-> - Former leader rolling over but breadth positive — reduce size, watch for confirmation
+> - ROTATION TRAP: positive breadth from beaten-down stocks, not leaders
+> - Former leader rolling over (XOP (oil_gas_e&p)) but breadth strong (Net +682, 5d 1.92) — rotation, not distribution. FULL_BULL.
 
 ---
 
@@ -192,18 +193,14 @@ RS_20d: 3.00 | RS_65d: 8.42
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| PEGA | -36.9% | -16.0% | $25.99 | $27.48 | unknown_negative (gap_down) |
+| TSLA | -11.8% | -12.19% | $328.43 | $341.86 | earnings_miss (gap_down) |
 
 ---
 
 ## 11. Action Summary
 
-- [ ] **REDUCE SIZE** — selective setups only
-- [ ] No DEP candidates — no limit orders to place
-- [ ] ANTS suppressed in this market — no BSLO orders
-- [ ] **Focus on SIPs** — 30 fresh catalyst stocks for day trade
-- [ ] Sell into strength on existing positions
-- [ ] Tighten stops to breakeven
+- [ ] Full playbook — size into A+ confluences (0 SOS, 0 DEP available)
+- [ ] Watch 30 fresh SIPs for day trade entries
 - [ ] Leading sector: SOXX — watch for setups in this sector
 
 ---
