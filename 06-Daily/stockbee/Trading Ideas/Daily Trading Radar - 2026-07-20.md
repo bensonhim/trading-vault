@@ -83,18 +83,18 @@ RS_20d: 37.60 | RS_65d: 9.40
 
 ### Sector RS Heatmap (grouped by theme, top 10)
 
-| Rank | Ticker | Theme | RS_20d | RS_65d | ETF 20d | SPY 20d | Excess | Status |
-|------|--------|-------|--------|--------|---------|---------|--------|--------|
-| 1 | BUG | cybersecurity | 37.60 | 9.40 | +21.5% | +0.6% | +20.9% | LEADING |
-| 2 | XBI | biotech_small | 18.83 | 1.88 | +10.8% | +0.6% | +10.2% |  |
-| 3 | XOP | oil_gas_e&p | 17.12 | 0.64 | +9.8% | +0.6% | +9.2% |  |
-| 4 | XLV | healthcare_broad | 12.86 | 1.19 | +7.4% | +0.6% | +6.8% |  |
-| 5 | XLF | financials_broad | 7.79 | 1.24 | +4.5% | +0.6% | +3.9% |  |
-| 6 | XLRE | real_estate | 7.34 | 0.75 | +4.2% | +0.6% | +3.6% |  |
-| 7 | SKYY | cloud_computing | 5.54 | 3.36 | +3.2% | +0.6% | +2.6% |  |
-| 8 | FINX | fintech | 4.11 | 0.31 | +2.4% | +0.6% | +1.8% |  |
-| 9 | XLU | utilities | 3.92 | -0.30 | +2.2% | +0.6% | +1.7% | TOP FORMING |
-| 10 | ITB | home_construction | 2.81 | 0.27 | +1.6% | +0.6% | +1.0% | TOP FORMING |
+| Rank | Ticker | Theme             | RS_20d | RS_65d | ETF 20d | SPY 20d | Excess | Status      |
+| ---- | ------ | ----------------- | ------ | ------ | ------- | ------- | ------ | ----------- |
+| 1    | BUG    | cybersecurity     | 37.60  | 9.40   | +21.5%  | +0.6%   | +20.9% | LEADING     |
+| 2    | XBI    | biotech_small     | 18.83  | 1.88   | +10.8%  | +0.6%   | +10.2% |             |
+| 3    | XOP    | oil_gas_e&p       | 17.12  | 0.64   | +9.8%   | +0.6%   | +9.2%  |             |
+| 4    | XLV    | healthcare_broad  | 12.86  | 1.19   | +7.4%   | +0.6%   | +6.8%  |             |
+| 5    | XLF    | financials_broad  | 7.79   | 1.24   | +4.5%   | +0.6%   | +3.9%  |             |
+| 6    | XLRE   | real_estate       | 7.34   | 0.75   | +4.2%   | +0.6%   | +3.6%  |             |
+| 7    | SKYY   | cloud_computing   | 5.54   | 3.36   | +3.2%   | +0.6%   | +2.6%  |             |
+| 8    | FINX   | fintech           | 4.11   | 0.31   | +2.4%   | +0.6%   | +1.8%  |             |
+| 9    | XLU    | utilities         | 3.92   | -0.30  | +2.2%   | +0.6%   | +1.7%  | TOP FORMING |
+| 10   | ITB    | home_construction | 2.81   | 0.27   | +1.6%   | +0.6%   | +1.0%  | TOP FORMING |
 
 ---
 
