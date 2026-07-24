@@ -2,15 +2,15 @@
 title: "Deep Work"
 date: 2026-07-24
 tags: [concepts, wiki, auto-compiled]
-mention_count: 2497
-sources_count: 932
+mention_count: 2498
+sources_count: 933
 compilation_count: 1
 promote: false
 ---
 
 # Deep Work
 
-*Concepts — compiled from 2497 mentions across 932 sources.*
+*Concepts — compiled from 2498 mentions across 933 sources.*
 
 ## Mentions
 

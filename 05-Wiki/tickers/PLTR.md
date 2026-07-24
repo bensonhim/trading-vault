@@ -2,15 +2,15 @@
 title: "PLTR"
 date: 2026-07-24
 tags: [tickers, wiki, auto-compiled]
-mention_count: 91
-sources_count: 55
+mention_count: 94
+sources_count: 56
 compilation_count: 1
 promote: false
 ---
 
 # PLTR
 
-*Tickers — compiled from 91 mentions across 55 sources.*
+*Tickers — compiled from 94 mentions across 56 sources.*
 
 ## Mentions
 
@@ -84,15 +84,15 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-07-22.md|Session-2026-07-22]]: 4. **Two clean PM setups: NVDA long, PLTR short** — NVDA = liquid lava EP 9M; PLTR = relentless selling all day. Both in the AI/semiconductor pocket that the market is rewarding.
 
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-23.md|Session-2026-07-23]]: | [[PLTR]] | EP 9M short | Still holding 20% runner, stop to breakeven |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-23.md|Session-2026-07-23]]: | [[PLTR]] | Short (20% runner) | Still holding, stop to breakeven for boot camp |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-23.md|Session-2026-07-23]]: 7. **Shorts working better than longs** — Both Google and PLTR shorts had follow-through. Microsoft would have been better. Longs are squatting.
+
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-02.md|Session-2023-11-02]]: | [[PLTR]] | Sugar Baby / Earnings | ⚠️ Stop at $17 | "Also a sugar baby" |
 
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-02.md|Session-2023-11-02]]: | [[PLTR]] | Sugar Baby + Earnings | ⚠️ Stop at $17, "also a sugar baby" |
-
-> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-03.md|Session-2023-11-03]]: - [[PLTR]] — still holding
-
-> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-03.md|Session-2023-11-03]]: | [[PLTR]] | Sugar Baby | 🔄 Holding | Still in position |
-
-> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-06.md|Session-2023-11-06]]: | [[PLTR]] | Holding | 🔄 In position | Still holding |
 
 ## Related Concepts
 
