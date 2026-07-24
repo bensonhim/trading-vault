@@ -1,16 +1,16 @@
 ---
 title: "NVDA"
-date: 2026-07-23
+date: 2026-07-24
 tags: [tickers, wiki, auto-compiled]
-mention_count: 290
-sources_count: 133
+mention_count: 299
+sources_count: 134
 compilation_count: 1
 promote: false
 ---
 
 # NVDA
 
-*Tickers — compiled from 290 mentions across 133 sources.*
+*Tickers — compiled from 299 mentions across 134 sources.*
 
 ## Mentions
 

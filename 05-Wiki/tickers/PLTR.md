@@ -1,16 +1,16 @@
 ---
 title: "PLTR"
-date: 2026-07-23
+date: 2026-07-24
 tags: [tickers, wiki, auto-compiled]
-mention_count: 85
-sources_count: 54
+mention_count: 91
+sources_count: 55
 compilation_count: 1
 promote: false
 ---
 
 # PLTR
 
-*Tickers — compiled from 85 mentions across 54 sources.*
+*Tickers — compiled from 91 mentions across 55 sources.*
 
 ## Mentions
 
@@ -72,6 +72,18 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-07-16.md|Session-2026-07-16]]: | [[TBLA]] / [[SCSW]] / [[PLTR]] | Continuation setting up | Not exciting |
 
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-22.md|Session-2026-07-22]]: - [[PLTR]]: "Relentless selling in Palantir since morning."
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-22.md|Session-2026-07-22]]: - [[PLTR]]: potential short, but "extremely popular stocks — if they show SOS next day, the degenerates go and buy it, just buy-the-dip kind of a thing."
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-22.md|Session-2026-07-22]]: ### Two Opportunities: NVDA Long, PLTR Short
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-22.md|Session-2026-07-22]]: | [[PLTR]] | Short | Relentless selling | More convincing action; software stocks all going down |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-22.md|Session-2026-07-22]]: 4. **Two clean PM setups: NVDA long, PLTR short** — NVDA = liquid lava EP 9M; PLTR = relentless selling all day. Both in the AI/semiconductor pocket that the market is rewarding.
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-22.md|Session-2026-07-22]]: 4. **Two clean PM setups: NVDA long, PLTR short** — NVDA = liquid lava EP 9M; PLTR = relentless selling all day. Both in the AI/semiconductor pocket that the market is rewarding.
+
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-02.md|Session-2023-11-02]]: | [[PLTR]] | Sugar Baby / Earnings | ⚠️ Stop at $17 | "Also a sugar baby" |
 
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-02.md|Session-2023-11-02]]: | [[PLTR]] | Sugar Baby + Earnings | ⚠️ Stop at $17, "also a sugar baby" |
@@ -81,18 +93,6 @@ promote: false
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-03.md|Session-2023-11-03]]: | [[PLTR]] | Sugar Baby | 🔄 Holding | Still in position |
 
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-06.md|Session-2023-11-06]]: | [[PLTR]] | Holding | 🔄 In position | Still holding |
-
-> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-07.md|Session-2023-11-07]]: - [[PLTR]] — held
-
-> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-07.md|Session-2023-11-07]]: | [[PLTR]] | Sugar Baby | 🔄 Held | Still in position |
-
-> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-10.md|Session-2023-11-10]]: | [[PLTR]] | Various | 🔄 Holding | Still in position |
-
-> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-14.md|Session-2023-11-14]]: - [[PLTR]] — carrying
-
-> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-14.md|Session-2023-11-14]]: | [[PLTR]] | Various | 🔄 Holding | Still carrying |
-
-> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-12-04.md|Session-2023-12-04]]: - **Palantir (PLTR)** — struggling, not participating (red flag on a bullish day)
 
 ## Related Concepts
 

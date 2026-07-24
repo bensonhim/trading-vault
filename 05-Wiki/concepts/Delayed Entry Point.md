@@ -1,6 +1,6 @@
 ---
 title: "Delayed Entry Point"
-date: 2026-07-23
+date: 2026-07-24
 tags: [concepts, wiki, auto-compiled]
 mention_count: 40
 sources_count: 24
