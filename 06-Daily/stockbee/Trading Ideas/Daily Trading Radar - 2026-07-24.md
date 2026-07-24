@@ -9,20 +9,20 @@ data_date: 2026-07-23
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **RANGE_BOUND** — Action: **SIPs_ONLY**
+> [!warning] **DISTRIBUTING** — Action: **NO_NEW_LONGS**
 >
-> - **20% Study (bullish):** 19
-> - **20% Study (bearish):** 20
-> - **T2108:** 50.9%
-> - **Net Primary:** -26
-> - **Breakouts:** 160 | **Breakdowns:** 240
-> - **Follow-through:** 3d=27.1% 5d=27.7% (FAILING)
+> - **20% Study (bullish):** 16
+> - **20% Study (bearish):** 22
+> - **T2108:** 51.4%
+> - **Net Primary:** -27
+> - **Breakouts:** 164 | **Breakdowns:** 242
+> - **Follow-through:** 3d=32.0% 5d=31.7% (OK)
 >
-> - Monthly 25% ratio 0.59 < 0.8
-> - TI65 bullish universe 0 < 800 (market losing momentum)
-> - TI65 young momentum 0 < 30 (few new trends starting)
-> - 20% study at 19 (< 30) = funds not aggressively buying, breakouts unlikely to follow through
-> - Follow-through 5d rate 28% < 30% — breakouts failing, no momentum
+> - 0% follow-through on 572 breakouts (July 21) — catastrophic breakout failure
+> - Net Primary deteriorating from +143 to -27 over 5 days
+> - T2108 falling from 56.6% to 51.4% — breadth weakening
+> - 20% study at 16 — funds not buying aggressively
+> - 20-day mature rally — easy breakouts already happened
 
 ---
 
@@ -32,11 +32,11 @@ data_date: 2026-07-23
 
 | Indicator | 2026-07-22 | 2026-07-21 | 2026-07-20 | 2026-07-17 | 2026-07-16 | Trend |
 |-----------|-------|-------|-------|-------|-------|-------|
-| Net Primary | -26 | +75 | -53 | +44 | +144 | — |
-| T2108 | 50.93% | 50.19% | 49.44% | 53.50% | 56.29% | — |
-| Breakouts | 160 | 464 | 131 | 138 | 251 | — |
-| Breakdowns | 240 | 131 | 212 | 166 | 509 | — |
-| BO:BD Ratio | 0.67 | 3.54 | 0.62 | 0.83 | 0.49 | — |
+| Net Primary | -27 | +75 | -55 | +44 | +143 | — |
+| T2108 | 51.44% | 50.88% | 49.35% | 53.50% | 56.57% | — |
+| Breakouts | 164 | 473 | 132 | 138 | 254 | — |
+| Breakdowns | 242 | 132 | 215 | 166 | 516 | — |
+| BO:BD Ratio | 0.68 | 3.58 | 0.61 | 0.83 | 0.49 | — |
 
 ### Secondary Indicators
 
@@ -47,7 +47,7 @@ data_date: 2026-07-23
 | Monthly 25% Ratio | 0.59
 Below 1.0 | Bearish tilt |
 | Fib 13% Up (34d) | 1670 | High | Stocks up 13%+ in 34 days |
-| Fib 13% Down (34d) | 1608 | High | Stocks down 13%+ in 34 days |
+| Fib 13% Down (34d) | 1609 | High | Stocks down 13%+ in 34 days |
 | Fib 13% Ratio | 1.04
 Above 1.0 | Bullish medium-term |
 | 5-Day Ratio | 0.91 | Below 1.0 | Short-term normal |
@@ -62,13 +62,13 @@ Above 1.0 | Bullish medium-term |
 
 | Metric | Value | Signal |
 |--------|-------|--------|
-| Stocks up 20%+ (5d) | 19 | ⚠️ Low — breakouts unlikely to follow through |
-| Stocks down 20%+ (5d) | 20 | Normal |
+| Stocks up 20%+ (5d) | 16 | ⚠️ Low — breakouts unlikely to follow through |
+| Stocks down 20%+ (5d) | 22 | Normal |
 
 > [!warning] Scan Suppression Active: SOS, DEP, ANTS
-> 20% study at 19 — breakouts unlikely to follow through in this environment.
+> 20% study at 16 — breakouts unlikely to follow through in this environment.
 
-**Breakout Follow-Through (last 10 days):** 3d=27.1% 5d=27.7% [FAILING]
+**Breakout Follow-Through (last 10 days):** 3d=32.0% 5d=31.7% [OK]
 
 > When 5-day follow-through < 30%, breakouts are systematically failing. Pradeep: 'Just see what happened to breakouts from yesterday, and did they follow through.'
 
@@ -78,9 +78,26 @@ Above 1.0 | Bullish medium-term |
 
 ---
 
+## 4b. TI65 Trend Intensity
+
+> [!info] **TI65 = AVGC7 / AVGC65** — absolute momentum indicator (Pradeep).
+> ≥1.05 = bullish velocity, ≤0.95 = bearish velocity, 0.95–1.05 = neutral.
+> C65 = days in bullish TI65 (last 100). C65 ≤ 10 = **young momentum** (highest R/R).
+
+| Universe | Count | Notes |
+|----------|-------|-------|
+| Bullish (≥1.05, vol≥100K) | 0 | Active uptrends |
+| Bearish (≤0.95, vol≥1M) | 0 | Active downtrends (short universe) |
+| Bearish (≤0.95, vol≥100K) | 0 | Wider bearish universe |
+| Neutral | 0 | No clear trend |
+| **Young momentum** (C65 ≤ 10) | **0** | **First 10 days of bullish TI65 — highest reward/risk** |
+| Total scanned | 0 | All tickers with ≥65 days history |
+
+---
+
 ## 5. Trade Ideas
 
-### SIPs — Stocks in Play (30 found, 16 fresh catalyst — top 15)
+### SIPs — Stocks in Play (30 found, 30 fresh catalyst — top 15)
 
 > [!info] Pradeep: 'When nothing else works, SIPs are the only thing that works.'
 > Stocks with fresh catalyst (earnings, news, partnerships) + volume. Day trade / 1-2 day swing.
@@ -88,21 +105,21 @@ Above 1.0 | Bullish medium-term |
 
 | Ticker | Gap% | Change% | Volume | 5d Move | Flags |
 |--------|------|---------|--------|---------|-------|
-| T | +5.0% | +3.5% | 187,131,557 | +8% | LARGE-CAP |
-| SMCI | +13.3% | +19.8% | 161,965,574 | +14% | fresh |
-| NG | +5.7% | +10.3% | 25,769,225 | +9% | fresh |
-| USAS | +4.1% | +1.2% | 6,461,283 | +4% | fresh |
-| AIRJ | +16.7% | +22.0% | 6,121,085 | +15% | fresh |
-| NRGV | +8.3% | -3.7% | 5,677,468 | +3% | fresh |
-| SKYQ | +5.4% | +1.2% | 4,067,856 | +18% | fresh |
-| CME | +4.3% | +5.0% | 3,896,492 | +2% | LARGE-CAP |
-| WAB | +4.8% | +10.0% | 3,262,679 | +12% | fresh |
-| FTAI | +7.3% | +5.8% | 2,642,331 | +4% | fresh |
-| PAG | +10.2% | +9.9% | 2,561,190 | +7% | fresh |
-| CRSR | +4.7% | +7.3% | 2,356,867 | +12% | fresh |
-| WFRD | +5.2% | +4.5% | 2,329,625 | +6% | fresh |
-| RPM | +5.4% | +5.8% | 1,859,020 | +4% | fresh |
-| EFOR | +9.4% | +11.3% | 1,132,744 | +18% | fresh |
+| VIVK | +174.6% | +102.3% | 130,508,121 | -42% | fresh |
+| INTC | +6.4% | +8.3% | 60,214,946 | -2% | LARGE-CAP |
+| MU | +6.9% | +12.7% | 33,473,669 | -1% | LARGE-CAP |
+| KEEL | +6.2% | +7.3% | 17,911,748 | +4% | fresh |
+| NBIS | +5.7% | +17.4% | 15,569,529 | +10% | LARGE-CAP |
+| MRVL | +5.9% | +7.5% | 14,263,703 | -6% | LARGE-CAP |
+| AMD | +4.4% | +6.1% | 12,911,298 | -3% | LARGE-CAP |
+| CRCL | +5.3% | +8.2% | 11,458,972 | +12% | fresh |
+| SNDK | +8.6% | +12.0% | 10,079,196 | -11% | LARGE-CAP |
+| POET | +5.1% | +12.3% | 9,406,524 | -5% | fresh |
+| COIN | +4.7% | +12.0% | 7,620,156 | +11% | fresh |
+| NVTS | +4.8% | +10.1% | 7,404,985 | -3% | fresh |
+| MMM | +6.3% | +7.6% | 7,143,556 | +9% | LARGE-CAP |
+| BE | +7.1% | +15.4% | 6,731,593 | -7% | LARGE-CAP |
+| ORLY | +6.5% | +3.6% | 6,657,435 | +2% | LARGE-CAP |
 
 ### FADE MODE Active (20% study < 35)
 
@@ -139,58 +156,57 @@ Above 1.0 | Bullish medium-term |
 
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
-| 1 | SBET | 9 | 5 | 38 | expanded |
-| 2 | AMDL | 9 | 4 | 9 | core |
-| 3 | IREN | 9 | 4 | 99 | expanded |
-| 4 | OKLO | 9 | 4 | 91 | core |
-| 5 | RIOT | 9 | 4 | 8 | expanded |
-| 6 | RUN | 9 | 4 | 8 | expanded |
-| 7 | TSLL | 9 | 4 | 81 | expanded |
-| 8 | CLSK | 9 | 3 | 9 | expanded |
-| 9 | KEEL | 9 | 3 | 9 | expanded |
-| 10 | NVTS | 9 | 3 | 8 | expanded |
-| 11 | SIDU | 9 | 3 | 9 | expanded |
-| 12 | SNXX | 9 | 3 | 30 | core |
-| 13 | USAR | 9 | 3 | 51 | expanded |
-| 14 | MSTU | 9 | 2 | 9 | expanded |
-| 15 | APLD | 8 | 4 | 89 | core |
-| 16 | DRAM | 8 | 4 | 9 | expanded |
-| 17 | FCEL | 8 | 4 | 9 | expanded |
-| 18 | MU | 8 | 4 | 9 | expanded |
-| 19 | SPCE | 8 | 4 | 7 | expanded |
-| 20 | AMD | 8 | 3 | 7 | core |
+| 1 | NBIS | 8 | 4 | 62 | core |
+| 2 | SATL | 8 | 3 | 21 | core |
+| 3 | SNDK | 8 | 3 | 47 | core |
+| 4 | RIOT | 7 | 4 | 57 | core |
+| 5 | HTZ | 7 | 3 | 23 | expanded |
+| 6 | INTC | 7 | 3 | 45 | core |
+| 7 | MRVL | 7 | 3 | 41 | expanded |
+| 8 | LUNR | 7 | 2 | 37 | expanded |
+| 9 | FLY | 6 | 3 | 11 | expanded |
+| 10 | USAR | 6 | 3 | 51 | core |
+| 11 | ASTS | 6 | 2 | 56 | core |
+| 12 | CRCL | 6 | 2 | 42 | core |
+| 13 | FCEL | 6 | 2 | 23 | core |
+| 14 | FSLY | 6 | 2 | 17 | expanded |
+| 15 | JBLU | 6 | 2 | 38 | core |
+| 16 | ONDS | 6 | 2 | 47 | core |
+| 17 | RGTI | 6 | 2 | 62 | core |
+| 18 | AMAT | 6 | 1 | 18 | expanded |
+| 19 | AMD | 6 | 1 | 45 | expanded |
+| 20 | FRMI | 6 | 1 | 20 | expanded |
 
 ---
 
-## 8. Similar Historical Conditions
+## 10. Short-Side Setups (8 candidates)
 
-| Date | Similarity | Pradeep's Call | Outcome |
-|------|-----------|----------------|---------|
-| 2026-05-12 | 56% | cautious/REDUCE_SIZE | SPY fell -0.6% over 5 days |
-| 2026-05-12 | 56% | cautious/REDUCE_SIZE | SPY fell -0.6% over 5 days |
-| 2026-07-02 | 54% | cautious/REDUCE_SIZE | SPY rose 1.4% over 5 days |
-
----
-
-## 10. Short-Side Setups (2 candidates)
-
-### EP 9M Short (2) — negative surprise gap-downs
+### EP 9M Short (3) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| TSLA | -8.8% | -12.55% | $327.06 | $341.86 | unknown_negative (gap_down) |
-| STM | 0.0% | -15.67% | $55.47 | $56.42 | earnings_miss (intraday_down) |
+| LBRT | 4.3% | -21.96% | $19.62 | $26.00 | unknown_negative (intraday_down) |
+| ACI | -15.1% | -21.64% | $11.44 | $12.50 | earnings_miss (gap_down) |
+| TSLA | -10.2% | -14.52% | $319.69 | $341.86 | unknown_negative (gap_down) |
+
+### Bearish DEP (5) — negative EP → breakdown below consolidation
+
+| Ticker | EP Age | EP Change | Entry | Stop | Notes |
+|--------|--------|-----------|-------|------|-------|
+| CELH | 16d | -4.1% | $28.99 | $30.60 | Negative EP 16d ago (-4.1%), breaking consolidation |
+| ZETA | 7d | -4.5% | $21.34 | $21.68 | Negative EP 7d ago (-4.5%), breaking consolidation |
+| MBGL | 13d | -6.6% | $20.11 | $21.00 | Negative EP 13d ago (-6.6%), breaking consolidation |
+| MRNA | 7d | -7.5% | $59.49 | $61.82 | Negative EP 7d ago (-7.5%), breaking consolidation |
+| SRPT | 9d | -4.6% | $16.83 | $17.61 | Negative EP 9d ago (-4.6%), breaking consolidation |
 
 ---
 
 ## 11. Action Summary
 
-- [ ] **RANGE_BOUND / SIPs ONLY** — breakouts unlikely to follow through
-- [ ] No swing longs — SIPs and intraday only
-- [ ] Pradeep: 'My wallet is closed. Nothing to do.'
-- [ ] **Focus on SIPs** — 16 fresh catalyst stocks for day trade
-- [ ] Monitor 2 short-side setups
-- [ ] Fading breakouts may be better than buying breakouts
+- [ ] **NO NEW LONGS** — process over chasing
+- [ ] Manage existing positions only
+- [ ] SIPs only — 30 fresh catalyst for day trade
+- [ ] Monitor 8 short-side setups
 - [ ] Watch for capitulation signal (T2108 < 10%)
 
 ---

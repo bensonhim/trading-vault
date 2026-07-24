@@ -18,11 +18,10 @@ data_date: 2026-04-20
 > - **Breakouts:** 262 | **Breakdowns:** 108
 > - **Follow-through:** 3d=39.7% 5d=32.7% (OK)
 >
-> - Rally is 15 days mature from the 19.24% T2108 low — extended but breadth still expanding
-> - SPY and QQQ both closed near lows of their intraday ranges — mild distribution signal to monitor
-> - Breakout follow-through data is N/A — cannot confirm breakouts are sticking
-> - T2108 at 63% and rising — approaching overbought territory if it exceeds 85%
-> - LLM: Net Primary has improved dramatically from +202 to +718 over 5 days with T2108 rising into the healthy 63% range, and breakouts are dominating breakdowns by 3:1 over the period. The 20% study at 79 sits in the healthy 50-100 zone that does NOT trigger a downgrade, and the 5-day BO/BD ratio of ~3.2 confirms strong momentum. While the 15-day rally maturity and intraday close-near-low pattern warrant attention, Pradeep's rules are clear: rally maturity alone does not override bullish breadth when Net Primary is +200+ and 5d ratio exceeds 2.0.
+> - Rally is 15 days mature — tighten stops on new entries and avoid chasing extended stocks
+> - Follow-through data unavailable (N/A) — cannot confirm breakout quality
+> - SPY and QQQ closed near intraday lows — watch for intraday distribution pattern on next session
+> - LLM: Net Primary has surged from +202 to +718 over 5 days with T2108 rising from 53% to 63% — both primary indicators strongly bullish and improving. The 20% study at 79 is in the healthy 50-100 zone and does NOT trigger a downgrade. Despite the 15-day rally maturity, strong breadth overrides the maturity rule which applies to range-bound markets, not trending markets with Net Primary >+500.
 
 ---
 
@@ -293,26 +292,26 @@ Above 1.0 | Bullish medium-term |
 
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
-| 1 | SATL | 8 | 1 | 21 | core |
-| 2 | HTZ | 7 | 3 | 23 | core |
-| 3 | INTC | 7 | 2 | 45 | core |
-| 4 | MRVL | 7 | 2 | 41 | core |
-| 5 | RIOT | 7 | 2 | 48 | core |
-| 6 | USAR | 6 | 3 | 51 | core |
-| 7 | ASTS | 6 | 2 | 56 | core |
-| 8 | FCEL | 6 | 2 | 22 | core |
-| 9 | JBLU | 6 | 2 | 37 | core |
-| 10 | RGTI | 6 | 2 | 62 | core |
-| 11 | AMAT | 6 | 1 | 18 | core |
-| 12 | AMD | 6 | 1 | 45 | expanded |
-| 13 | FLY | 6 | 1 | 11 | expanded |
-| 14 | FRMI | 6 | 1 | 19 | expanded |
-| 15 | NWL | 6 | 0 | 20 | expanded |
-| 16 | HIMS | 5 | 4 | 47 | core |
-| 17 | CLSK | 5 | 3 | 52 | core |
-| 18 | CVNA | 5 | 3 | 34 | expanded |
-| 19 | AAOI | 5 | 2 | 26 | core |
-| 20 | ATAI | 5 | 2 | 13 | expanded |
+| 1 | SATL | 9 | 3 | 21 | core |
+| 2 | NBIS | 8 | 4 | 62 | core |
+| 3 | SNDK | 8 | 3 | 47 | core |
+| 4 | RIOT | 7 | 4 | 57 | core |
+| 5 | HTZ | 7 | 3 | 23 | expanded |
+| 6 | INTC | 7 | 3 | 45 | core |
+| 7 | MRVL | 7 | 3 | 41 | expanded |
+| 8 | ASTS | 7 | 2 | 56 | core |
+| 9 | LUNR | 7 | 2 | 37 | expanded |
+| 10 | FLY | 6 | 3 | 11 | expanded |
+| 11 | RGTI | 6 | 3 | 62 | core |
+| 12 | USAR | 6 | 3 | 51 | core |
+| 13 | CRCL | 6 | 2 | 42 | core |
+| 14 | FCEL | 6 | 2 | 23 | core |
+| 15 | FSLY | 6 | 2 | 17 | expanded |
+| 16 | JBLU | 6 | 2 | 38 | core |
+| 17 | ONDS | 6 | 2 | 47 | core |
+| 18 | RCAT | 6 | 2 | 42 | core |
+| 19 | RKLB | 6 | 2 | 57 | core |
+| 20 | AMAT | 6 | 1 | 18 | expanded |
 
 ---
 
