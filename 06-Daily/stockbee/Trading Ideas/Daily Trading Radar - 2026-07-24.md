@@ -84,14 +84,14 @@ Above 1.0 | Bullish medium-term |
 > ≥1.05 = bullish velocity, ≤0.95 = bearish velocity, 0.95–1.05 = neutral.
 > C65 = days in bullish TI65 (last 100). C65 ≤ 10 = **young momentum** (highest R/R).
 
-| Universe | Count | Notes |
-|----------|-------|-------|
-| Bullish (≥1.05, vol≥100K) | 0 | Active uptrends |
-| Bearish (≤0.95, vol≥1M) | 0 | Active downtrends (short universe) |
-| Bearish (≤0.95, vol≥100K) | 0 | Wider bearish universe |
-| Neutral | 0 | No clear trend |
+| Universe                      | Count | Notes                                                   |
+| ----------------------------- | ----- | ------------------------------------------------------- |
+| Bullish (≥1.05, vol≥100K)     | 0     | Active uptrends                                         |
+| Bearish (≤0.95, vol≥1M)       | 0     | Active downtrends (short universe)                      |
+| Bearish (≤0.95, vol≥100K)     | 0     | Wider bearish universe                                  |
+| Neutral                       | 0     | No clear trend                                          |
 | **Young momentum** (C65 ≤ 10) | **0** | **First 10 days of bullish TI65 — highest reward/risk** |
-| Total scanned | 0 | All tickers with ≥65 days history |
+| Total scanned                 | 0     | All tickers with ≥65 days history                       |
 
 ---
 
