@@ -9,7 +9,7 @@ data_date: 2026-07-23
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **RANGE_BOUND** — Action: **SIPs_ONLY**
+> [!caution] **CAUTIOUS_BULL_LOW** — Action: **REDUCE_SIZE**
 >
 > - **20% Study (bullish):** 24
 > - **20% Study (bearish):** 19
@@ -18,9 +18,11 @@ data_date: 2026-07-23
 > - **Breakouts:** 138 | **Breakdowns:** 325
 > - **Follow-through:** 3d=33.1% 5d=32.6% (OK)
 >
-> - 20% study at 24 (< 30) = funds not aggressively buying, breakouts unlikely to follow through
-> - 20% study at 24 (< 30) + Net Primary +0 + 5d ratio 0.00 — all indicators weak, downgraded to RANGE_BOUND/SIPs_ONLY.
-> - LLM: Rules-based fallback (LLM unavailable): 20% study at 24 (< 30) = funds not aggressively buying, breakouts unlikely to follow through; 20% study at 24 (< 30) + Net Primary +0 + 5d ratio 0.00 — all indicators weak, downgraded to RANGE_BOUND/SIPs_ONLY.
+> - Net Primary turned negative (-154) and deteriorating over 5 days
+> - T2108 falling steadily from 53.5% to 47.2%
+> - Breakdowns sustained above 240 for 2 consecutive days — not a one-day spike
+> - Follow-through rate collapsed to 26% — breakouts failing aggressively
+> - 20% study at 24 is very low — funds are not buying aggressively
 
 ---
 
