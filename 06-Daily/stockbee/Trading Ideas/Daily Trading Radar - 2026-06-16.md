@@ -9,7 +9,7 @@ data_date: 2026-06-15
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!tip] **FULL_BULL** — Action: **FULL_LONG**
+> [!caution] **CAUTIOUS_BULL_HIGH** — Action: **REDUCE_SIZE**
 >
 > - **20% Study (bullish):** 64
 > - **20% Study (bearish):** 31
@@ -18,11 +18,8 @@ data_date: 2026-06-15
 > - **Breakouts:** 426 | **Breakdowns:** 244
 > - **Follow-through:** 3d=40.9% 5d=47.5% (OK)
 >
-> - Rally is 18 days mature — easy breakouts have already happened, be selective with entries
-> - SPY and QQQ closed near intraday lows — watch for intraday distribution pattern repeating
-> - Follow-through data is N/A — cannot confirm breakouts are sustaining
-> - 20% study elevated near 70 — approaching caution territory (>100), monitor closely
-> - LLM: Net Primary is at +572 and improving from +310 over five days, confirming strong institutional buying. T2108 is rising from 41.6% to 48.7% (healthy bull range) and breakouts dominate breakdowns 426 to 244 (1.7x). The 20% study at 64 is in the healthy 50-100 zone and does NOT trigger caution. While the 18-day rally is mature and intraday action closed near lows, neither overrides strongly bullish primary breadth indicators.
+> - Rally 18 days old + 20% study overbought = extended, high correction risk
+> - LLM: Rules-based fallback (LLM unavailable): Rally 18 days old + 20% study overbought = extended, high correction risk
 
 ---
 
@@ -296,22 +293,22 @@ Above 1.0 | Bullish medium-term |
 | 2 | IREN | 10 | 4 | 70 | core |
 | 3 | FCEL | 9 | 4 | 23 | expanded |
 | 4 | KEEL | 9 | 4 | 19 | expanded |
-| 5 | RIOT | 9 | 4 | 57 | core |
+| 5 | RIOT | 9 | 4 | 58 | core |
 | 6 | SATL | 9 | 4 | 21 | core |
 | 7 | USAR | 9 | 4 | 51 | core |
 | 8 | CLSK | 9 | 3 | 53 | core |
 | 9 | NVTS | 9 | 3 | 51 | core |
-| 10 | APLD | 8 | 4 | 57 | core |
-| 11 | MU | 8 | 4 | 49 | core |
-| 12 | NBIS | 8 | 4 | 62 | core |
-| 13 | POET | 8 | 4 | 28 | expanded |
-| 14 | SPCE | 8 | 4 | 14 | expanded |
-| 15 | AMD | 8 | 3 | 45 | expanded |
-| 16 | FIG | 8 | 3 | 28 | expanded |
-| 17 | INTC | 8 | 3 | 45 | core |
-| 18 | MRVL | 8 | 3 | 41 | expanded |
-| 19 | QCOM | 8 | 3 | 15 | expanded |
-| 20 | RGTI | 8 | 3 | 62 | core |
+| 10 | AMD | 8 | 4 | 45 | expanded |
+| 11 | APLD | 8 | 4 | 57 | core |
+| 12 | MU | 8 | 4 | 49 | core |
+| 13 | NBIS | 8 | 4 | 62 | core |
+| 14 | POET | 8 | 4 | 28 | expanded |
+| 15 | SMCI | 8 | 4 | 44 | expanded |
+| 16 | SPCE | 8 | 4 | 14 | expanded |
+| 17 | FIG | 8 | 3 | 28 | expanded |
+| 18 | INTC | 8 | 3 | 45 | core |
+| 19 | MRVL | 8 | 3 | 41 | expanded |
+| 20 | QCOM | 8 | 3 | 15 | expanded |
 
 ---
 
@@ -367,7 +364,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Financial - Credit Services
 - Sector: Financial Services
 - Sector ETF: XLF (financials_broad)
-- Market Cap: $6.2B
+- Market Cap: $6.0B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (59 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -435,15 +432,13 @@ Above 1.0 | Bullish medium-term |
 
 ---
 
-## 10. Short-Side Setups (23 candidates)
+## 10. Short-Side Setups (21 candidates)
 
-### EP 9M Short (3) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| STM | 0.0% | -18.67% | $53.49 | $56.63 | unknown_negative (intraday_down) |
-| EVH | 12.1% | -16.62% | $4.64 | $5.40 | unknown_negative (intraday_down) |
-| TSLA | -16.1% | -14.52% | $319.69 | $341.86 | unknown_negative (gap_down) |
+| MXL | 2.6% | -21.54% | $71.59 | $87.55 | unknown_negative (intraday_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

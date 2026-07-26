@@ -18,11 +18,8 @@ data_date: 2026-06-18
 > - **Breakouts:** 576 | **Breakdowns:** 236
 > - **Follow-through:** 3d=50.2% 5d=44.9% (OK)
 >
-> - Follow-through rate at 45% — breakouts struggling, reduce size to 75%
-> - T2108 falling from 50.2% to 44.4% — breadth weakening internally despite positive Net Primary
-> - Rally is 21 days mature — easy breakouts already happened, be selective with A+ setups only
-> - Intraday close near lows on both SPY and QQQ — mild distribution signal, watch for confirmation
-> - Breakdowns elevated on 6/16 and 6/17 (248 and 328) but 6/18 showed strong breakout response (576 BO vs 236 BD)
+> - Rally 21 days old + 20% study overbought = extended, high correction risk
+> - LLM: Rules-based fallback (LLM unavailable): Rally 21 days old + 20% study overbought = extended, high correction risk
 
 ---
 
@@ -301,7 +298,7 @@ Above 1.0 | Bullish medium-term |
 | 2 | IREN | 10 | 4 | 70 | core |
 | 3 | FCEL | 9 | 4 | 23 | expanded |
 | 4 | KEEL | 9 | 4 | 19 | expanded |
-| 5 | RIOT | 9 | 4 | 57 | core |
+| 5 | RIOT | 9 | 4 | 58 | core |
 | 6 | SATL | 9 | 4 | 21 | core |
 | 7 | USAR | 9 | 4 | 51 | core |
 | 8 | CLSK | 9 | 3 | 53 | core |
@@ -311,7 +308,7 @@ Above 1.0 | Bullish medium-term |
 | 12 | MU | 8 | 4 | 49 | core |
 | 13 | NBIS | 8 | 4 | 62 | core |
 | 14 | POET | 8 | 4 | 28 | expanded |
-| 15 | SMCI | 8 | 4 | 43 | expanded |
+| 15 | SMCI | 8 | 4 | 44 | expanded |
 | 16 | SPCE | 8 | 4 | 14 | expanded |
 | 17 | FIG | 8 | 3 | 28 | expanded |
 | 18 | INTC | 8 | 3 | 45 | core |
@@ -326,7 +323,7 @@ Above 1.0 | Bullish medium-term |
 **DLTR**
 - Industry: Discount Stores
 - Sector: Consumer Defensive
-- Market Cap: $22.6B
+- Market Cap: $23.1B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (28 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -351,7 +348,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Semiconductors
 - Sector: Technology
 - Sector ETF: SMH (semiconductors)
-- Market Cap: $180.3B
+- Market Cap: $176.0B
 - Fund Ownership: 5000+ - Liquid Glamour (largest size)
 - Group Move: Yes (155 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -376,7 +373,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Semiconductors
 - Sector: Technology
 - Sector ETF: SMH (semiconductors)
-- Market Cap: $259.4B
+- Market Cap: $254.4B
 - Fund Ownership: 5000+ - Liquid Glamour (largest size)
 - Group Move: Yes (155 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -399,7 +396,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Chemicals - Specialty
 - Sector: Basic Materials
 - Sector ETF: XLB (materials)
-- Market Cap: $4.6B
+- Market Cap: $4.7B
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (19 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -425,7 +422,7 @@ Above 1.0 | Bullish medium-term |
 - Sector: Consumer Cyclical
 - Sector ETF: XLY (consumer_discretionary)
 - Market Cap: $5.0B
-- Fund Ownership: speculative - Speculative Glamour (small size)
+- Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (89 stocks in sector broke out today)
 - Breakout History (5 past swings):
   - 2026-06-18: +4.1% total | Entry: $71.49 | Stop: $68.47 | Last Close: $71.56 | Vol: 1,096,400 | BREAKEVEN
@@ -446,15 +443,13 @@ Above 1.0 | Bullish medium-term |
 
 ---
 
-## 10. Short-Side Setups (28 candidates)
+## 10. Short-Side Setups (26 candidates)
 
-### EP 9M Short (3) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| STM | 0.0% | -18.67% | $53.49 | $56.63 | unknown_negative (intraday_down) |
-| EVH | 15.2% | -16.62% | $4.64 | $5.40 | unknown_negative (intraday_down) |
-| TSLA | -14.0% | -14.52% | $319.69 | $341.86 | unknown_negative (gap_down) |
+| MXL | 4.6% | -21.54% | $71.59 | $87.55 | unknown_negative (intraday_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

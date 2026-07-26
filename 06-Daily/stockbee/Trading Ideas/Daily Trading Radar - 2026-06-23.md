@@ -9,7 +9,7 @@ data_date: 2026-06-22
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **CAUTIOUS_BULL_LOW** — Action: **REDUCE_SIZE**
+> [!caution] **CAUTIOUS_BULL_HIGH** — Action: **REDUCE_SIZE**
 >
 > - **20% Study (bullish):** 66
 > - **20% Study (bearish):** 38
@@ -18,11 +18,8 @@ data_date: 2026-06-22
 > - **Breakouts:** 158 | **Breakdowns:** 168
 > - **Follow-through:** 3d=48.2% 5d=46.5% (OK)
 >
-> - Net Primary declining from +572 to +472 — bull is aging
-> - T2108 falling from 48.7% to 44.1% — breadth weakening
-> - Breakdowns exceeding breakouts on 3 of last 5 days
-> - 12-day rally maturity — easy breakouts already happened
-> - Intraday distribution pattern — SPY and QQQ closing near lows
+> - Rally 12 days old + 20% study overbought = extended, high correction risk
+> - LLM: Rules-based fallback (LLM unavailable): Rally 12 days old + 20% study overbought = extended, high correction risk
 
 ---
 
@@ -307,7 +304,7 @@ Below 1.0 | Bearish medium-term |
 | 2 | IREN | 10 | 4 | 70 | core |
 | 3 | FCEL | 9 | 4 | 23 | expanded |
 | 4 | KEEL | 9 | 4 | 19 | expanded |
-| 5 | RIOT | 9 | 4 | 57 | core |
+| 5 | RIOT | 9 | 4 | 58 | core |
 | 6 | SATL | 9 | 4 | 21 | core |
 | 7 | USAR | 9 | 4 | 51 | core |
 | 8 | CLSK | 9 | 3 | 53 | core |
@@ -317,7 +314,7 @@ Below 1.0 | Bearish medium-term |
 | 12 | MU | 8 | 4 | 49 | core |
 | 13 | NBIS | 8 | 4 | 62 | core |
 | 14 | POET | 8 | 4 | 28 | expanded |
-| 15 | SMCI | 8 | 4 | 43 | expanded |
+| 15 | SMCI | 8 | 4 | 44 | expanded |
 | 16 | SPCE | 8 | 4 | 14 | expanded |
 | 17 | FIG | 8 | 3 | 28 | expanded |
 | 18 | INTC | 8 | 3 | 45 | core |
@@ -333,7 +330,7 @@ Below 1.0 | Bearish medium-term |
 - Industry: Drug Manufacturers - General
 - Sector: Healthcare
 - Sector ETF: XLV (healthcare_broad)
-- Market Cap: $453.8B
+- Market Cap: $458.1B
 - Fund Ownership: 5000+ - Liquid Glamour (largest size)
 - Group Move: Yes (161 stocks in sector broke out today)
 - Breakout History (4 past swings):
@@ -356,7 +353,7 @@ Below 1.0 | Bearish medium-term |
 **CMBT**
 - Industry: Marine Shipping
 - Sector: Industrials
-- Market Cap: $3.6B
+- Market Cap: $4.6B
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (58 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -381,7 +378,7 @@ Below 1.0 | Bearish medium-term |
 - Industry: Engineering & Construction
 - Sector: Industrials
 - Sector ETF: ITB (home_construction)
-- Market Cap: $13.2B
+- Market Cap: $12.9B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (58 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -406,7 +403,7 @@ Below 1.0 | Bearish medium-term |
 - Industry: Biotechnology
 - Sector: Healthcare
 - Sector ETF: XBI (biotech_small)
-- Market Cap: $1.7B
+- Market Cap: $1.9B
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (161 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -431,7 +428,7 @@ Below 1.0 | Bearish medium-term |
 - Industry: Semiconductors
 - Sector: Technology
 - Sector ETF: SMH (semiconductors)
-- Market Cap: $29.1B
+- Market Cap: $26.1B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (73 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -453,15 +450,13 @@ Below 1.0 | Bearish medium-term |
 
 ---
 
-## 10. Short-Side Setups (23 candidates)
+## 10. Short-Side Setups (21 candidates)
 
-### EP 9M Short (3) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| STM | 0.0% | -18.67% | $53.49 | $56.63 | unknown_negative (intraday_down) |
-| MBLY | -3.7% | -14.92% | $7.47 | $8.25 | unknown_negative (minor_gap_down) |
-| EVH | 19.8% | -16.62% | $4.64 | $5.40 | unknown_negative (intraday_down) |
+| MXL | -2.4% | -21.54% | $71.59 | $87.55 | unknown_negative (minor_gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
