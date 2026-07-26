@@ -18,11 +18,11 @@ data_date: 2026-06-23
 > - **Breakouts:** 192 | **Breakdowns:** 279
 > - **Follow-through:** 3d=47.4% 5d=45.1% (OK)
 >
-> - Follow-through rate at 35% — breakouts failing, reduce size and tighten stops
-> - Net Primary deteriorating from +560 to +432 over 5 days — bull is aging
-> - T2108 falling from 49.6% to 45.3% — breadth weakening
-> - Breakdowns exceeding breakouts on last 2 days (279>192, 168>158)
-> - Rally 13 days mature — easy breakouts already happened
+> - Follow-through at 35% — breakouts failing, reduce size and tighten stops
+> - Net Primary deteriorating from +534 to +432 over 5 days — bull losing momentum
+> - Breakdowns exceeding breakouts (279 vs 192) on latest day
+> - Intraday distribution pattern — SPY and QQQ closing near lows
+> - Rally mature at 13 days — easy breakouts already happened
 
 ---
 
@@ -234,7 +234,7 @@ Below 1.0 | Bearish medium-term |
 | 2 | IREN | 10 | 4 | 70 | core |
 | 3 | FCEL | 9 | 4 | 23 | expanded |
 | 4 | KEEL | 9 | 4 | 19 | expanded |
-| 5 | RIOT | 9 | 4 | 57 | core |
+| 5 | RIOT | 9 | 4 | 58 | core |
 | 6 | SATL | 9 | 4 | 21 | core |
 | 7 | USAR | 9 | 4 | 51 | core |
 | 8 | CLSK | 9 | 3 | 53 | core |
@@ -244,7 +244,7 @@ Below 1.0 | Bearish medium-term |
 | 12 | MU | 8 | 4 | 49 | core |
 | 13 | NBIS | 8 | 4 | 62 | core |
 | 14 | POET | 8 | 4 | 28 | expanded |
-| 15 | SMCI | 8 | 4 | 43 | expanded |
+| 15 | SMCI | 8 | 4 | 44 | expanded |
 | 16 | SPCE | 8 | 4 | 14 | expanded |
 | 17 | FIG | 8 | 3 | 28 | expanded |
 | 18 | INTC | 8 | 3 | 45 | core |
@@ -253,15 +253,13 @@ Below 1.0 | Bearish medium-term |
 
 ---
 
-## 10. Short-Side Setups (23 candidates)
+## 10. Short-Side Setups (21 candidates)
 
-### EP 9M Short (3) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| STM | 0.0% | -18.67% | $53.49 | $56.63 | unknown_negative (intraday_down) |
-| MBLY | -2.3% | -14.92% | $7.47 | $8.25 | unknown_negative (minor_gap_down) |
-| EVH | 20.1% | -16.62% | $4.64 | $5.40 | unknown_negative (intraday_down) |
+| MXL | -10.1% | -21.54% | $71.59 | $87.55 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
