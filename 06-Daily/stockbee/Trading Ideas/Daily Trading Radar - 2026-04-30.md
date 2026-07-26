@@ -18,11 +18,11 @@ data_date: 2026-04-29
 > - **Breakouts:** 172 | **Breakdowns:** 409
 > - **Follow-through:** 3d=34.7% 5d=32.0% (OK)
 >
-> - Net Primary deteriorating rapidly: +494 → +215 over 5 days
-> - Breakdowns surging: 158 → 409 in 3 days, now 2.4x breakouts
-> - Follow-through rate at 31% — breakouts failing badly
-> - Intraday distribution pattern: SPY and QQQ closing near lows
+> - Net Primary deteriorating 5 days straight (+494 to +215) — bull is dying
+> - Breakdowns surging 158 to 409 in 2 days — selling pressure accelerating
+> - Follow-through rate 31% — breakouts failing, do not chase new entries
 > - T2108 falling from 60.6% to 54.9% — breadth weakening
+> - Rally mature at 21 days — easy breakouts already happened
 
 ---
 

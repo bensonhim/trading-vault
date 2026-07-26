@@ -18,11 +18,11 @@ data_date: 2026-07-01
 > - **Breakouts:** 389 | **Breakdowns:** 219
 > - **Follow-through:** 3d=46.0% 5d=47.7% (OK)
 >
-> - Follow-through rate at 45% — breakouts failing more than succeeding, reduce position size
-> - Rally is 19 days mature — easy breakouts already happened, be selective with A+ setups only
-> - SPY and QQQ both closed near intraday lows — watch for intraday distribution pattern if it persists
-> - Breakout count dropped sharply from 880 (06-26) to 389 (07-01) — momentum narrowing
-> - LLM: Net Primary is strongly bullish at +686 and improving over 5 days (+313→+686), with T2108 stable in the healthy 51% range and 20% study at 95 (healthy 50-100 zone, no downgrade needed). However, follow-through rate at 45% is below the 50% caution threshold, meaning breakouts are struggling to sustain momentum despite strong breadth — this downgrades from FULL_BULL to CAUTIOUS_BULL_HIGH and requires reduced size with tightened stops.
+> - Follow-through rate 45% — breakouts failing to follow through, reduce size
+> - Rally mature at 19 days — easy breakouts already happened
+> - 20% study at 95 — approaching caution territory (>100), buying binge may be peaking
+> - Intraday distribution pattern — SPY and QQQ closed near lows
+> - Extended rally (mature + overbought) — vulnerable to pullback
 
 ---
 
@@ -298,7 +298,7 @@ Above 1.0 | Bullish medium-term |
 | 2 | IREN | 10 | 4 | 70 | core |
 | 3 | FCEL | 9 | 4 | 23 | expanded |
 | 4 | KEEL | 9 | 4 | 19 | expanded |
-| 5 | RIOT | 9 | 4 | 57 | core |
+| 5 | RIOT | 9 | 4 | 58 | core |
 | 6 | SATL | 9 | 4 | 21 | core |
 | 7 | USAR | 9 | 4 | 51 | core |
 | 8 | CLSK | 9 | 3 | 53 | core |
@@ -308,7 +308,7 @@ Above 1.0 | Bullish medium-term |
 | 12 | MU | 8 | 4 | 49 | core |
 | 13 | NBIS | 8 | 4 | 62 | core |
 | 14 | POET | 8 | 4 | 28 | expanded |
-| 15 | SMCI | 8 | 4 | 43 | expanded |
+| 15 | SMCI | 8 | 4 | 44 | expanded |
 | 16 | SPCE | 8 | 4 | 14 | expanded |
 | 17 | FIG | 8 | 3 | 28 | expanded |
 | 18 | INTC | 8 | 3 | 45 | core |
@@ -323,7 +323,7 @@ Above 1.0 | Bullish medium-term |
 **CL**
 - Industry: Household & Personal Products
 - Sector: Consumer Defensive
-- Market Cap: $72.1B
+- Market Cap: $72.6B
 - Fund Ownership: 2500+ - Institutional Quality (big size)
 - Group Move: Yes (41 stocks in sector broke out today)
 - Breakout History (3 past swings):
@@ -345,7 +345,7 @@ Above 1.0 | Bullish medium-term |
 **CCEP**
 - Industry: Beverages - Non-Alcoholic
 - Sector: Consumer Defensive
-- Market Cap: $45.9B
+- Market Cap: $46.6B
 - Fund Ownership: 2500+ - Institutional Quality (big size)
 - Group Move: Yes (41 stocks in sector broke out today)
 - Breakout History (3 past swings):
@@ -390,7 +390,7 @@ Above 1.0 | Bullish medium-term |
 **MATX**
 - Industry: Marine Shipping
 - Sector: Industrials
-- Market Cap: $6.5B
+- Market Cap: $6.4B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (63 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -419,7 +419,7 @@ Above 1.0 | Bullish medium-term |
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (67 stocks in sector broke out today)
 - Breakout History (2 past swings):
-  - 2026-07-01: +4.2% total | Entry: $33.39 | Stop: $31.96 | Last Close: $33.45 | Vol: 285,332 | BREAKEVEN
+  - 2026-07-01: +4.2% total | Entry: $33.39 | Stop: $31.96 | Last Close: $33.45 | Vol: 285,332 | STOPPED
   - 2025-12-31: +4.9% total | Entry: $26.57 | Stop: $25.45 | Last Close: $26.81 | Vol: 105,888 | BREAKEVEN
 - EMA:
   - EMA5: $32.29
@@ -434,15 +434,13 @@ Above 1.0 | Bullish medium-term |
 
 ---
 
-## 10. Short-Side Setups (23 candidates)
+## 10. Short-Side Setups (21 candidates)
 
-### EP 9M Short (3) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| STM | 0.0% | -18.67% | $53.49 | $56.63 | unknown_negative (intraday_down) |
-| LBRT | -0.7% | -21.96% | $19.62 | $26.00 | unknown_negative (intraday_down) |
-| EVH | -0.7% | -16.62% | $4.64 | $5.40 | unknown_negative (intraday_down) |
+| MXL | -32.3% | -21.54% | $71.59 | $87.55 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

@@ -18,11 +18,11 @@ data_date: 2026-04-14
 > - **Breakouts:** 420 | **Breakdowns:** 130
 > - **Follow-through:** 3d=40.7% 5d=46.3% (OK)
 >
-> - 16-day rally is extended — easy breakouts already happened, be selective with new entries
-> - Intraday distribution pattern: SPY and QQQ both closed near lows despite range-bound action
-> - Follow-through at 62% is caution territory — breakouts are working but not consistently
-> - Net Primary at +202 is positive but on the lower end — needs to continue improving to confirm full bull
-> - LLM: Net Primary has improved sharply from -165 to +202 over 5 days with T2108 rising from 44% to 53% and breakouts dominating breakdowns (420 vs 130 today), confirming a genuine breadth recovery from the 3/20 capitulation low. However, the 16-day rally is mature, intraday action closed near lows on both SPY and QQQ, and follow-through at 62% is in the caution zone — these signals warrant reduced size and tighter stops even as the trend improves. The 20% study at 68 is healthy (50-100 range) and does NOT trigger a downgrade.
+> - Rally is 16 days mature — easy breakouts already happened
+> - 20% study at 68 — caution territory, buying binge confirmed but watch for exhaustion
+> - Intraday distribution pattern on both SPY and QQQ — institutions may be using strength to distribute
+> - Follow-through at 62% — breakouts working but mixed, not clean
+> - Net Primary just turned positive — recovery is young, not yet confirmed as durable trend
 
 ---
 
@@ -285,26 +285,26 @@ Above 1.0 | Bullish medium-term |
 
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
-| 1 | NBIS | 8 | 4 | 62 | core |
-| 2 | SATL | 8 | 3 | 21 | core |
-| 3 | SNDK | 8 | 3 | 47 | core |
-| 4 | RIOT | 7 | 4 | 57 | core |
-| 5 | HTZ | 7 | 3 | 23 | expanded |
-| 6 | INTC | 7 | 3 | 45 | core |
-| 7 | MRVL | 7 | 3 | 41 | expanded |
-| 8 | LUNR | 7 | 2 | 37 | expanded |
-| 9 | FLY | 6 | 3 | 11 | expanded |
-| 10 | USAR | 6 | 3 | 51 | core |
-| 11 | ASTS | 6 | 2 | 56 | core |
-| 12 | CRCL | 6 | 2 | 42 | core |
-| 13 | FCEL | 6 | 2 | 23 | core |
-| 14 | FSLY | 6 | 2 | 17 | expanded |
-| 15 | JBLU | 6 | 2 | 38 | core |
-| 16 | ONDS | 6 | 2 | 47 | core |
-| 17 | RGTI | 6 | 2 | 62 | core |
-| 18 | AMAT | 6 | 1 | 18 | expanded |
-| 19 | AMD | 6 | 1 | 45 | expanded |
-| 20 | FRMI | 6 | 1 | 20 | expanded |
+| 1 | SIDU | 11 | 4 | 19 | expanded |
+| 2 | IREN | 10 | 4 | 70 | core |
+| 3 | FCEL | 9 | 4 | 23 | expanded |
+| 4 | KEEL | 9 | 4 | 19 | expanded |
+| 5 | RIOT | 9 | 4 | 58 | core |
+| 6 | SATL | 9 | 4 | 21 | core |
+| 7 | USAR | 9 | 4 | 51 | core |
+| 8 | CLSK | 9 | 3 | 53 | core |
+| 9 | NVTS | 9 | 3 | 51 | core |
+| 10 | AMD | 8 | 4 | 45 | expanded |
+| 11 | APLD | 8 | 4 | 57 | core |
+| 12 | MU | 8 | 4 | 49 | core |
+| 13 | NBIS | 8 | 4 | 62 | core |
+| 14 | POET | 8 | 4 | 28 | expanded |
+| 15 | SMCI | 8 | 4 | 44 | expanded |
+| 16 | SPCE | 8 | 4 | 14 | expanded |
+| 17 | FIG | 8 | 3 | 28 | expanded |
+| 18 | INTC | 8 | 3 | 45 | core |
+| 19 | MRVL | 8 | 3 | 41 | expanded |
+| 20 | QCOM | 8 | 3 | 15 | expanded |
 
 ---
 
@@ -340,7 +340,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Entertainment
 - Sector: Communication Services
 - Sector ETF: XLC (communications)
-- Market Cap: $286.9B
+- Market Cap: $291.9B
 - Fund Ownership: 5000+ - Liquid Glamour (largest size)
 - Group Move: Yes (21 stocks in sector broke out today)
 - Breakout History (3 past swings):
@@ -363,7 +363,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Biotechnology
 - Sector: Healthcare
 - Sector ETF: XBI (biotech_small)
-- Market Cap: $1.6B
+- Market Cap: $1.5B
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (178 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -388,7 +388,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Restaurants
 - Sector: Consumer Cyclical
 - Sector ETF: XLY (consumer_discretionary)
-- Market Cap: $7.4B
+- Market Cap: $7.2B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (55 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -413,7 +413,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Biotechnology
 - Sector: Healthcare
 - Sector ETF: XBI (biotech_small)
-- Market Cap: $2.2B
+- Market Cap: $2.6B
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (178 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -435,15 +435,13 @@ Above 1.0 | Bullish medium-term |
 
 ---
 
-## 10. Short-Side Setups (23 candidates)
+## 10. Short-Side Setups (21 candidates)
 
-### EP 9M Short (3) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| TSLA | -3.2% | -14.52% | $319.69 | $341.86 | unknown_negative (minor_gap_down) |
-| STM | 0.0% | -18.67% | $53.49 | $56.63 | unknown_negative (intraday_down) |
-| MBLY | 9.1% | -14.92% | $7.47 | $8.25 | unknown_negative (intraday_down) |
+| MXL | 306.7% | -21.54% | $71.59 | $87.55 | unknown_negative (intraday_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

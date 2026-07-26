@@ -18,11 +18,11 @@ data_date: 2026-05-01
 > - **Breakouts:** 342 | **Breakdowns:** 122
 > - **Follow-through:** 3d=36.0% 5d=31.7% (OK)
 >
-> - Follow-through at 53% — breakouts struggling, not failing but not thriving
-> - SPY and QQQ both closed near lows — possible intraday distribution pattern
-> - Breakdown spike on 4/28-4/29 (295, 409) resolved quickly but shows fragility
-> - Rally is 21 days mature — easy breakouts already happened
-> - 20% study at 0 — lagging, but monitor for catch-up in coming days
+> - Rally is 21 days mature — easy breakouts already happened, be selective
+> - Follow-through at 53% is mediocre — breakouts are mixed, not clean
+> - 20% study at 0 is very low but LAGGING — do not suppress longs; buying binge hasn't shown up in 5-day window yet
+> - T2108 trend slightly falling (60.6% to 59.2%) — monitor for further deterioration
+> - SPY/QQQ closed near intraday lows — mild intraday distribution signal to watch
 
 ---
 

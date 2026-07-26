@@ -9,7 +9,7 @@ data_date: 2026-06-04
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **CAUTIOUS_BULL_LOW** — Action: **REDUCE_SIZE**
+> [!caution] **CAUTIOUS_BULL_HIGH** — Action: **REDUCE_SIZE**
 >
 > - **20% Study (bullish):** 34
 > - **20% Study (bearish):** 38
@@ -18,11 +18,11 @@ data_date: 2026-06-04
 > - **Breakouts:** 397 | **Breakdowns:** 116
 > - **Follow-through:** 3d=41.2% 5d=46.0% (OK)
 >
-> - Follow-through rate at 35% — breakouts failing, reduce size and tighten stops
-> - Net Primary declining from +777 to +502 over 5 days — bull is aging
-> - Intraday distribution pattern on SPY and QQQ — closing near lows
-> - Rally mature at 11 days — easy breakouts already happened
-> - 6/03 showed 441 breakdowns vs 154 breakouts — one-day washout but monitor for repetition
+> - Follow-through rate at 35% — breakouts are failing to follow through, reduce position size
+> - Net Primary deteriorating from +777 to +502 before bouncing to +642 — trend weakening
+> - Rally is 11 days mature — easy breakouts already happened, new entries carry higher risk
+> - Intraday distribution pattern — both SPY and QQQ closing near lows of range
+> - T2108 falling from 45.6% to 39.3% before ticking to 44.9% — breadth unstable
 
 ---
 
@@ -254,34 +254,32 @@ Above 1.0 | Bullish medium-term |
 | 2 | IREN | 10 | 4 | 70 | core |
 | 3 | FCEL | 9 | 4 | 23 | expanded |
 | 4 | KEEL | 9 | 4 | 19 | expanded |
-| 5 | RIOT | 9 | 4 | 57 | core |
+| 5 | RIOT | 9 | 4 | 58 | core |
 | 6 | SATL | 9 | 4 | 21 | core |
 | 7 | USAR | 9 | 4 | 51 | core |
 | 8 | CLSK | 9 | 3 | 53 | core |
 | 9 | NVTS | 9 | 3 | 51 | core |
-| 10 | APLD | 8 | 4 | 57 | core |
-| 11 | MU | 8 | 4 | 49 | core |
-| 12 | NBIS | 8 | 4 | 62 | core |
-| 13 | POET | 8 | 4 | 28 | expanded |
-| 14 | AMD | 8 | 3 | 45 | expanded |
-| 15 | FIG | 8 | 3 | 28 | expanded |
-| 16 | INTC | 8 | 3 | 45 | core |
-| 17 | MRVL | 8 | 3 | 41 | expanded |
-| 18 | QCOM | 8 | 3 | 15 | expanded |
-| 19 | RGTI | 8 | 3 | 62 | core |
-| 20 | SNDK | 8 | 3 | 47 | core |
+| 10 | AMD | 8 | 4 | 45 | expanded |
+| 11 | APLD | 8 | 4 | 57 | core |
+| 12 | MU | 8 | 4 | 49 | core |
+| 13 | NBIS | 8 | 4 | 62 | core |
+| 14 | POET | 8 | 4 | 28 | expanded |
+| 15 | SMCI | 8 | 4 | 44 | expanded |
+| 16 | SPCE | 8 | 4 | 14 | expanded |
+| 17 | FIG | 8 | 3 | 28 | expanded |
+| 18 | INTC | 8 | 3 | 45 | core |
+| 19 | MRVL | 8 | 3 | 41 | expanded |
+| 20 | QCOM | 8 | 3 | 15 | expanded |
 
 ---
 
-## 10. Short-Side Setups (28 candidates)
+## 10. Short-Side Setups (26 candidates)
 
-### EP 9M Short (3) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| STM | 0.0% | -18.67% | $53.49 | $56.63 | unknown_negative (intraday_down) |
-| EVH | 42.3% | -16.62% | $4.64 | $5.40 | unknown_negative (intraday_down) |
-| TSLA | -19.5% | -14.52% | $319.69 | $341.86 | unknown_negative (gap_down) |
+| MXL | -5.2% | -21.54% | $71.59 | $87.55 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

@@ -9,7 +9,7 @@ data_date: 2026-03-31
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **CAUTIOUS_BULL_LOW** — Action: **REDUCE_SIZE**
+> [!warning] **DISTRIBUTING** — Action: **NO_NEW_LONGS**
 >
 > - **20% Study (bullish):** 16
 > - **20% Study (bearish):** 40
@@ -18,11 +18,11 @@ data_date: 2026-03-31
 > - **Breakouts:** 885 | **Breakdowns:** 83
 > - **Follow-through:** 3d=31.9% 5d=23.9% (FAILING)
 >
-> - Net Primary deeply negative and deteriorating over 5 days (-397 to -527)
-> - Intraday distribution pattern — both SPY and QQQ closed near lows despite breakout surge
-> - T2108 in washout bounce zone (23.37%) — not yet confirmed bullish
-> - 20% study very low (16 up vs 40 down) — buying binge has not arrived yet
-> - Today's 885 breakouts vs 83 breakdowns is a dramatic shift but needs multi-day confirmation
+> - Net primary deeply negative 5 consecutive days — sustained distribution, not a one-day spike
+> - T2108 dipped below 20% (19.2%) — approaching bearish territory but not capitulation
+> - Intraday distribution pattern: SPY and QQQ both closed near lows despite range-bound action
+> - 20% study very low (16 up vs 40 down) — no buying binge evidence yet
+> - Today's breakout surge may be a false start — need 2-3 days of confirmation
 
 ---
 

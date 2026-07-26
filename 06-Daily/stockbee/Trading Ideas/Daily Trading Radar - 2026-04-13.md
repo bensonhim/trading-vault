@@ -18,11 +18,11 @@ data_date: 2026-04-10
 > - **Breakouts:** 159 | **Breakdowns:** 239
 > - **Follow-through:** 3d=40.4% 5d=56.0% (OK)
 >
-> - 20% study at 0 — no momentum, funds not committing capital
-> - Net Primary still negative after 14-day rally — breadth not confirming the bounce
-> - Follow-through collapsed to 39% on 4/9 — breakouts failing to sustain
-> - SPY and QQQ both closed near intraday lows — distribution pattern
-> - Breakdowns exceeded breakouts on 4/10 (239 vs 159) — selling pressure returning
+> - Net Primary still negative despite 14-day bounce — breadth not confirming price recovery
+> - Latest follow-through rate at 39% (below 50%) — breakouts struggling
+> - Intraday distribution pattern on both SPY and QQQ — closing near lows
+> - 20% study at 0 likely stale data — reduce confidence in breadth readings
+> - Breakdown count worsening on latest day (239 vs 199 prior) while breakouts dropped sharply (159 vs 233)
 
 ---
 
@@ -219,38 +219,36 @@ Above 1.0 | Bullish medium-term |
 
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
-| 1 | NBIS | 8 | 4 | 62 | core |
-| 2 | SATL | 8 | 3 | 21 | core |
-| 3 | SNDK | 8 | 2 | 47 | core |
-| 4 | HTZ | 7 | 3 | 23 | expanded |
-| 5 | INTC | 7 | 3 | 45 | core |
-| 6 | MRVL | 7 | 3 | 41 | expanded |
-| 7 | LUNR | 7 | 2 | 37 | expanded |
-| 8 | RIOT | 7 | 2 | 48 | core |
-| 9 | FLY | 6 | 3 | 11 | expanded |
-| 10 | USAR | 6 | 3 | 51 | core |
-| 11 | ASTS | 6 | 2 | 56 | core |
-| 12 | CRCL | 6 | 2 | 41 | core |
-| 13 | FCEL | 6 | 2 | 22 | core |
-| 14 | FSLY | 6 | 2 | 17 | expanded |
-| 15 | JBLU | 6 | 2 | 37 | core |
-| 16 | ONDS | 6 | 2 | 47 | core |
-| 17 | RGTI | 6 | 2 | 62 | core |
-| 18 | AMAT | 6 | 1 | 18 | expanded |
-| 19 | AMD | 6 | 1 | 45 | expanded |
-| 20 | FRMI | 6 | 1 | 19 | expanded |
+| 1 | SIDU | 11 | 4 | 19 | expanded |
+| 2 | IREN | 10 | 4 | 70 | core |
+| 3 | FCEL | 9 | 4 | 23 | expanded |
+| 4 | KEEL | 9 | 4 | 19 | expanded |
+| 5 | RIOT | 9 | 4 | 58 | core |
+| 6 | SATL | 9 | 4 | 21 | core |
+| 7 | USAR | 9 | 4 | 51 | core |
+| 8 | CLSK | 9 | 3 | 53 | core |
+| 9 | NVTS | 9 | 3 | 51 | core |
+| 10 | AMD | 8 | 4 | 45 | expanded |
+| 11 | APLD | 8 | 4 | 57 | core |
+| 12 | MU | 8 | 4 | 49 | core |
+| 13 | NBIS | 8 | 4 | 62 | core |
+| 14 | POET | 8 | 4 | 28 | expanded |
+| 15 | SMCI | 8 | 4 | 44 | expanded |
+| 16 | SPCE | 8 | 4 | 14 | expanded |
+| 17 | FIG | 8 | 3 | 28 | expanded |
+| 18 | INTC | 8 | 3 | 45 | core |
+| 19 | MRVL | 8 | 3 | 41 | expanded |
+| 20 | QCOM | 8 | 3 | 15 | expanded |
 
 ---
 
-## 10. Short-Side Setups (28 candidates)
+## 10. Short-Side Setups (26 candidates)
 
-### EP 9M Short (3) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| TSLA | -1.3% | -14.52% | $319.69 | $341.86 | unknown_negative (intraday_down) |
-| STM | 0.0% | -18.67% | $53.49 | $56.63 | unknown_negative (intraday_down) |
-| MBLY | 13.0% | -14.92% | $7.47 | $8.25 | unknown_negative (intraday_down) |
+| MXL | 336.8% | -21.54% | $71.59 | $87.55 | unknown_negative (intraday_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

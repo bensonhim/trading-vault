@@ -9,7 +9,7 @@ data_date: 2026-07-06
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!tip] **FULL_BULL** — Action: **FULL_LONG**
+> [!caution] **CAUTIOUS_BULL_HIGH** — Action: **REDUCE_SIZE**
 >
 > - **20% Study (bullish):** 55
 > - **20% Study (bearish):** 32
@@ -18,11 +18,11 @@ data_date: 2026-07-06
 > - **Breakouts:** 239 | **Breakdowns:** 158
 > - **Follow-through:** 3d=50.3% 5d=48.9% (OK)
 >
-> - Rally is 18 days mature — easy breakouts have already happened, be selective
-> - Breakdown count trend worsening (83 → 375 → 158) — watch for sustained breakdown surges
-> - Intraday closes near the low on both SPY and QQQ — monitor for distribution pattern if it persists
-> - Follow-through data unavailable — cannot confirm breakouts are working
-> - LLM: Net Primary is +626 and stable/improving over 5 days, T2108 is in the healthy 52% range and rising, and the 20% study at 55 is in the healthy 50-100 zone that does NOT trigger a downgrade. The one-day breakdown spike to 375 on 7/02 reversed back to 158 — profit taking, not sustained distribution. Rally maturity at 18 days and intraday closes near the low are caution flags but do not override strongly positive primary breadth.
+> - Rally is 18 days mature — easy breakouts already happened, new entries carry higher risk
+> - 20% study at 55 is in caution territory — buying binge is ongoing but not accelerating
+> - Intraday distribution pattern: SPY and QQQ closed near lows despite range-bound action
+> - Breakdown count spiked to 375 on 07-02 but net primary held above +500 — profit-taking, not regime change
+> - Follow-through data is N/A for 3 days — cannot confirm whether breakouts are working
 
 ---
 
@@ -301,7 +301,7 @@ Above 1.0 | Bullish medium-term |
 | 2 | IREN | 10 | 4 | 70 | core |
 | 3 | FCEL | 9 | 4 | 23 | expanded |
 | 4 | KEEL | 9 | 4 | 19 | expanded |
-| 5 | RIOT | 9 | 4 | 57 | core |
+| 5 | RIOT | 9 | 4 | 58 | core |
 | 6 | SATL | 9 | 4 | 21 | core |
 | 7 | USAR | 9 | 4 | 51 | core |
 | 8 | CLSK | 9 | 3 | 53 | core |
@@ -311,7 +311,7 @@ Above 1.0 | Bullish medium-term |
 | 12 | MU | 8 | 4 | 49 | core |
 | 13 | NBIS | 8 | 4 | 62 | core |
 | 14 | POET | 8 | 4 | 28 | expanded |
-| 15 | SMCI | 8 | 4 | 43 | expanded |
+| 15 | SMCI | 8 | 4 | 44 | expanded |
 | 16 | SPCE | 8 | 4 | 14 | expanded |
 | 17 | FIG | 8 | 3 | 28 | expanded |
 | 18 | INTC | 8 | 3 | 45 | core |
@@ -327,7 +327,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Banks - Diversified
 - Sector: Financial Services
 - Sector ETF: XLF (financials_broad)
-- Market Cap: $226.2B
+- Market Cap: $226.7B
 - Fund Ownership: 5000+ - Liquid Glamour (largest size)
 - Group Move: Yes (43 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -352,7 +352,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Computer Hardware
 - Sector: Technology
 - Sector ETF: XLK (technology_broad)
-- Market Cap: $32.3B
+- Market Cap: $32.9B
 - Fund Ownership: 2500+ - Institutional Quality (big size)
 - Group Move: Yes (100 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -377,7 +377,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Software - Infrastructure
 - Sector: Technology
 - Sector ETF: XLK (technology_broad)
-- Market Cap: $2.6B
+- Market Cap: $2.7B
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (100 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -402,7 +402,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Steel
 - Sector: Basic Materials
 - Sector ETF: XLB (materials)
-- Market Cap: $29.9B
+- Market Cap: $30.0B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (14 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -426,7 +426,7 @@ Above 1.0 | Bullish medium-term |
 **GWW**
 - Industry: Industrial - Distribution
 - Sector: Industrials
-- Market Cap: $64.6B
+- Market Cap: $65.3B
 - Fund Ownership: 2500+ - Institutional Quality (big size)
 - Group Move: Yes (74 stocks in sector broke out today)
 - Breakout History (3 past swings):
@@ -446,15 +446,13 @@ Above 1.0 | Bullish medium-term |
 
 ---
 
-## 10. Short-Side Setups (23 candidates)
+## 10. Short-Side Setups (21 candidates)
 
-### EP 9M Short (3) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| STM | 0.0% | -18.67% | $53.49 | $56.63 | unknown_negative (intraday_down) |
-| LBRT | 9.3% | -21.96% | $19.62 | $26.00 | unknown_negative (intraday_down) |
-| TSLA | -13.3% | -14.52% | $319.69 | $341.86 | unknown_negative (gap_down) |
+| MXL | -6.9% | -21.54% | $71.59 | $87.55 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

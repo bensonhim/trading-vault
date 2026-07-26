@@ -18,11 +18,11 @@ data_date: 2026-05-07
 > - **Breakouts:** 311 | **Breakdowns:** 380
 > - **Follow-through:** 3d=36.3% 5d=38.6% (OK)
 >
-> - Follow-through rate at 28% yesterday — breakouts failing en masse
-> - Breakdown count worsening: 122 on 5/01 to 380 today
-> - 22-day mature rally — easy breakouts already happened
-> - SPY and QQQ closing near intraday lows — mild distribution pattern
-> - T2108 falling from 60.6% to 57.1% — monitor for further deterioration
+> - Follow-through rate 41% — breakouts failing to follow through, reduce size
+> - Rally 22 days mature and extended — easy breakouts already happened
+> - 20% study at 75 — caution territory, buying binge may be peaking
+> - Breakdown trend worsening: 122 → 380 over 5 days
+> - T2108 trend slightly falling (60.6% → 57.1%) — watch for further deterioration
 
 ---
 
@@ -293,26 +293,26 @@ Above 1.0 | Bullish medium-term |
 
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
-| 1 | RIOT | 9 | 4 | 57 | core |
-| 2 | USAR | 9 | 4 | 51 | core |
-| 3 | CLSK | 9 | 3 | 53 | core |
-| 4 | SATL | 9 | 3 | 21 | core |
-| 5 | APLD | 8 | 4 | 53 | core |
-| 6 | IREN | 8 | 4 | 70 | core |
-| 7 | NBIS | 8 | 4 | 62 | core |
-| 8 | INTC | 8 | 3 | 45 | core |
-| 9 | MRVL | 8 | 3 | 41 | expanded |
-| 10 | SNDK | 8 | 3 | 47 | core |
-| 11 | AAOI | 7 | 3 | 26 | expanded |
-| 12 | AMD | 7 | 3 | 45 | expanded |
-| 13 | CIFR | 7 | 3 | 51 | core |
-| 14 | CRML | 7 | 3 | 31 | core |
-| 15 | HTZ | 7 | 3 | 24 | expanded |
-| 16 | MU | 7 | 3 | 49 | core |
-| 17 | WULF | 7 | 3 | 57 | core |
-| 18 | ASTS | 7 | 2 | 56 | core |
-| 19 | LUNR | 7 | 2 | 37 | expanded |
-| 20 | MARA | 7 | 2 | 49 | core |
+| 1 | SIDU | 11 | 4 | 19 | expanded |
+| 2 | IREN | 10 | 4 | 70 | core |
+| 3 | FCEL | 9 | 4 | 23 | expanded |
+| 4 | KEEL | 9 | 4 | 19 | expanded |
+| 5 | RIOT | 9 | 4 | 58 | core |
+| 6 | SATL | 9 | 4 | 21 | core |
+| 7 | USAR | 9 | 4 | 51 | core |
+| 8 | CLSK | 9 | 3 | 53 | core |
+| 9 | NVTS | 9 | 3 | 51 | core |
+| 10 | AMD | 8 | 4 | 45 | expanded |
+| 11 | APLD | 8 | 4 | 57 | core |
+| 12 | MU | 8 | 4 | 49 | core |
+| 13 | NBIS | 8 | 4 | 62 | core |
+| 14 | POET | 8 | 4 | 28 | expanded |
+| 15 | SMCI | 8 | 4 | 44 | expanded |
+| 16 | SPCE | 8 | 4 | 14 | expanded |
+| 17 | FIG | 8 | 3 | 28 | expanded |
+| 18 | INTC | 8 | 3 | 45 | core |
+| 19 | MRVL | 8 | 3 | 41 | expanded |
+| 20 | QCOM | 8 | 3 | 15 | expanded |
 
 ---
 
@@ -345,7 +345,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Financial - Capital Markets
 - Sector: Financial Services
 - Sector ETF: XLF (financials_broad)
-- Market Cap: $4.0B
+- Market Cap: $4.1B
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (30 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -394,7 +394,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Software - Infrastructure
 - Sector: Technology
 - Sector ETF: XLK (technology_broad)
-- Market Cap: $186.8B
+- Market Cap: $186.6B
 - Fund Ownership: 5000+ - Liquid Glamour (largest size)
 - Group Move: Yes (121 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -439,15 +439,13 @@ Above 1.0 | Bullish medium-term |
 
 ---
 
-## 10. Short-Side Setups (28 candidates)
+## 10. Short-Side Setups (26 candidates)
 
-### EP 9M Short (3) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| STM | 0.0% | -18.67% | $53.49 | $56.63 | unknown_negative (intraday_down) |
-| TSLA | -14.5% | -14.52% | $319.69 | $341.86 | unknown_negative (gap_down) |
-| ACI | -22.0% | -21.64% | $11.44 | $12.50 | unknown_negative (gap_down) |
+| MXL | 6.7% | -21.54% | $71.59 | $87.55 | unknown_negative (intraday_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
