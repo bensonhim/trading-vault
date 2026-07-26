@@ -9,7 +9,7 @@ data_date: 2026-05-01
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **CAUTIOUS_BULL_HIGH** — Action: **REDUCE_SIZE**
+> [!tip] **FULL_BULL** — Action: **FULL_LONG**
 >
 > - **20% Study (bullish):** 0
 > - **20% Study (bearish):** 0
@@ -18,11 +18,11 @@ data_date: 2026-05-01
 > - **Breakouts:** 342 | **Breakdowns:** 122
 > - **Follow-through:** 3d=36.0% 5d=31.7% (OK)
 >
-> - Rally is 21 days mature — easy breakouts already happened, be selective
-> - Follow-through at 53% is mediocre — breakouts are mixed, not clean
-> - 20% study at 0 is very low but LAGGING — do not suppress longs; buying binge hasn't shown up in 5-day window yet
-> - T2108 trend slightly falling (60.6% to 59.2%) — monitor for further deterioration
-> - SPY/QQQ closed near intraday lows — mild intraday distribution signal to watch
+> - Follow-through rate at 53% is in caution zone — breakouts are working but not decisively; tighten stops on new entries
+> - Intraday distribution pattern (SPY/QQQ closed near lows) — watch for follow-through failure tomorrow before adding aggressively
+> - Rally is mature at 21 days since low — easy breakouts have already happened, be selective with A+ setups only
+> - 20% study at 0 is lagging — monitor for catch-up confirmation in coming days
+> - LLM: Net Primary at +585 and sharply improving from +215 two days ago — this is unambiguously FULL_BULL territory per Pradeep's framework. T2108 at 59.2% is in the healthy bull range, breakouts are dominating breakdowns 342 to 122, and the one-day breakdown spike on 04-29 (409 BD) was profit-taking, not distribution, as Net Primary immediately recovered. The 20% study at 0 is a lagging indicator — funds are buying (Net Primary proves it) and the 20% study will catch up in 3-5 days; do NOT downgrade based on a lagging signal.
 
 ---
 

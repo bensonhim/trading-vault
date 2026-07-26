@@ -18,11 +18,11 @@ data_date: 2026-05-04
 > - **Breakouts:** 262 | **Breakdowns:** 308
 > - **Follow-through:** 3d=29.3% 5d=16.0% (FAILING)
 >
-> - Rally mature at 20 days — easy breakouts already happened
-> - 20% study at 65 — elevated, buying binge underway but approaching caution zone
-> - T2108 falling from 60.6% to 55.2% — breadth deteriorating slightly
-> - SPY and QQQ both closed near lows — intraday distribution pattern
-> - Breakdowns (308) slightly exceeded breakouts (262) on latest day — watch for sustained breakdown trend
+> - Intraday distribution pattern: SPY and QQQ both closed near session lows — institutions may be using morning strength to distribute
+> - T2108 falling from 60.6% to 55.2% over 5 days — breadth weakening beneath the surface
+> - Rally is 20 days mature and extended — easy breakouts have already happened
+> - 20% study at 65 confirms buying binge is ongoing but entering caution territory
+> - Breakdowns (308) slightly exceeded breakouts (262) on latest day — watch for sustained pattern
 
 ---
 
