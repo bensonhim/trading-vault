@@ -18,10 +18,11 @@ data_date: 2026-05-05
 > - **Breakouts:** 368 | **Breakdowns:** 199
 > - **Follow-through:** 3d=39.0% 5d=37.7% (OK)
 >
-> - Follow-through rate 44% — breakouts failing to sustain, reduce size
-> - 21-day rally maturity — easy breakouts already happened
-> - SPY and QQQ both closed near intraday lows (potential intraday distribution pattern)
-> - LLM: Net Primary is strongly positive (+650) and improving sharply from +215 five days ago, with T2108 in the healthy bull zone (56.9%) and 20% study at 98 (healthy 50-100 range, not caution territory). However, follow-through rate is 44% (below 50% threshold), meaning breakouts are failing to follow through — this downgrades an otherwise FULL_BULL setup to CAUTIOUS_BULL. The 21-day rally maturity adds context but does not override the strong breadth. Buy A+ confluences at 75% size with tightened stops.
+> - Follow-through rate 44% — breakouts failing to follow through, reduce size
+> - Rally mature at 21 days since low — easy breakouts already happened
+> - 20% study at 98 — caution territory, buying binge may be peaking
+> - Intraday distribution pattern — SPY and QQQ closed near lows
+> - One weak day on 05-04 (262 BO vs 308 BD) shows fragility beneath the surface
 
 ---
 
@@ -302,7 +303,7 @@ Above 1.0 | Bullish medium-term |
 | 2 | IREN | 10 | 4 | 70 | core |
 | 3 | FCEL | 9 | 4 | 23 | expanded |
 | 4 | KEEL | 9 | 4 | 19 | expanded |
-| 5 | RIOT | 9 | 4 | 57 | core |
+| 5 | RIOT | 9 | 4 | 58 | core |
 | 6 | SATL | 9 | 4 | 21 | core |
 | 7 | USAR | 9 | 4 | 51 | core |
 | 8 | CLSK | 9 | 3 | 53 | core |
@@ -312,7 +313,7 @@ Above 1.0 | Bullish medium-term |
 | 12 | MU | 8 | 4 | 49 | core |
 | 13 | NBIS | 8 | 4 | 62 | core |
 | 14 | POET | 8 | 4 | 28 | expanded |
-| 15 | SMCI | 8 | 4 | 43 | expanded |
+| 15 | SMCI | 8 | 4 | 44 | expanded |
 | 16 | SPCE | 8 | 4 | 14 | expanded |
 | 17 | FIG | 8 | 3 | 28 | expanded |
 | 18 | INTC | 8 | 3 | 45 | core |
@@ -353,7 +354,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Software - Application
 - Sector: Technology
 - Sector ETF: XLK (technology_broad)
-- Market Cap: $3.0B
+- Market Cap: $3.2B
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (120 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -375,7 +376,7 @@ Above 1.0 | Bullish medium-term |
 **SBLK**
 - Industry: Marine Shipping
 - Sector: Industrials
-- Market Cap: $3.0B
+- Market Cap: $3.1B
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (118 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -420,7 +421,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Oil & Gas Equipment & Services
 - Sector: Energy
 - Sector ETF: XLE (energy_broad)
-- Market Cap: $6.6B
+- Market Cap: $6.0B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (12 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -442,15 +443,13 @@ Above 1.0 | Bullish medium-term |
 
 ---
 
-## 10. Short-Side Setups (23 candidates)
+## 10. Short-Side Setups (21 candidates)
 
-### EP 9M Short (3) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| STM | 0.0% | -18.67% | $53.49 | $56.63 | unknown_negative (intraday_down) |
-| EVH | 34.8% | -16.62% | $4.64 | $5.40 | unknown_negative (intraday_down) |
-| TSLA | -13.1% | -14.52% | $319.69 | $341.86 | unknown_negative (gap_down) |
+| MXL | 10.9% | -21.54% | $71.59 | $87.55 | unknown_negative (intraday_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

@@ -18,11 +18,11 @@ data_date: 2026-06-29
 > - **Breakouts:** 230 | **Breakdowns:** 83
 > - **Follow-through:** 3d=42.3% 5d=42.9% (OK)
 >
-> - 20% study elevated at 113 — caution territory, reduce size and tighten stops
-> - Rally mature at 17 days — easy breakouts already happened, be selective
-> - SPY and QQQ both closed near intraday lows — possible intraday distribution
-> - Follow-through data unavailable for last 3 days — monitor if breakouts start failing
-> - LLM: Net Primary is strongly positive at +617 and improving over 5 days (+432 → +617), with T2108 rising into healthy bull territory (51.6%) and breakouts dominating breakdowns — the bull is real. However, the 20% study is elevated at 113 (>100 caution threshold), the rally is mature at 17 days, and both SPY and QQQ closed near their lows with range-bound intraday distribution patterns, warranting reduced size and tighter stops.
+> - 20% study at 113 — overbought caution territory, buying binge already happened
+> - Rally 17 days mature — easy breakouts have already occurred, 'yesterday was the day' risk
+> - Intraday distribution: SPY closed near low (-7731% of range), QQQ near low (-3633% of range) — institutions may be using breakout liquidity to distribute
+> - Follow-through data N/A — cannot confirm breakouts are sticking
+> - Watch for leading sector RS deterioration as top-forming signal
 
 ---
 
@@ -308,7 +308,7 @@ Above 1.0 | Bullish medium-term |
 | 2 | IREN | 10 | 4 | 70 | core |
 | 3 | FCEL | 9 | 4 | 23 | expanded |
 | 4 | KEEL | 9 | 4 | 19 | expanded |
-| 5 | RIOT | 9 | 4 | 57 | core |
+| 5 | RIOT | 9 | 4 | 58 | core |
 | 6 | SATL | 9 | 4 | 21 | core |
 | 7 | USAR | 9 | 4 | 51 | core |
 | 8 | CLSK | 9 | 3 | 53 | core |
@@ -318,7 +318,7 @@ Above 1.0 | Bullish medium-term |
 | 12 | MU | 8 | 4 | 49 | core |
 | 13 | NBIS | 8 | 4 | 62 | core |
 | 14 | POET | 8 | 4 | 28 | expanded |
-| 15 | SMCI | 8 | 4 | 43 | expanded |
+| 15 | SMCI | 8 | 4 | 44 | expanded |
 | 16 | SPCE | 8 | 4 | 14 | expanded |
 | 17 | FIG | 8 | 3 | 28 | expanded |
 | 18 | INTC | 8 | 3 | 45 | core |
@@ -334,7 +334,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Aerospace & Defense
 - Sector: Industrials
 - Sector ETF: PPA (aerospace_defense)
-- Market Cap: $4.3B
+- Market Cap: $4.1B
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (73 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -384,7 +384,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Software - Infrastructure
 - Sector: Technology
 - Sector ETF: XLK (technology_broad)
-- Market Cap: $53.0B
+- Market Cap: $45.1B
 - Fund Ownership: 2500+ - Institutional Quality (big size)
 - Group Move: Yes (160 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -409,8 +409,8 @@ Above 1.0 | Bullish medium-term |
 - Industry: Telecommunications Services
 - Sector: Communication Services
 - Sector ETF: XLC (communications)
-- Market Cap: $5.0B
-- Fund Ownership: 1000+ - Gaining Interest (medium size)
+- Market Cap: $4.9B
+- Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (36 stocks in sector broke out today)
 - Breakout History (5 past swings):
   - 2026-06-26: +30.5% total (2d swing) | Entry: $43.51 | Stop: $40.98 | Last Close: $54.59 | Vol: 3,822,583 | PROFIT_80_20
@@ -432,7 +432,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Construction Materials
 - Sector: Industrials
 - Sector ETF: ITB (home_construction)
-- Market Cap: $5.9B
+- Market Cap: $6.1B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (73 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -452,15 +452,13 @@ Above 1.0 | Bullish medium-term |
 
 ---
 
-## 10. Short-Side Setups (23 candidates)
+## 10. Short-Side Setups (21 candidates)
 
-### EP 9M Short (3) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| STM | 0.0% | -18.67% | $53.49 | $56.63 | unknown_negative (intraday_down) |
-| MBLY | 4.3% | -14.92% | $7.47 | $8.25 | unknown_negative (intraday_down) |
-| LBRT | -3.2% | -21.96% | $19.62 | $26.00 | unknown_negative (minor_gap_down) |
+| MXL | -10.3% | -21.54% | $71.59 | $87.55 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

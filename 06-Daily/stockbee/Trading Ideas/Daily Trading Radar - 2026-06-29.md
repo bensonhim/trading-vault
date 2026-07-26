@@ -18,8 +18,11 @@ data_date: 2026-06-26
 > - **Breakouts:** 880 | **Breakdowns:** 260
 > - **Follow-through:** 3d=38.6% 5d=37.1% (OK)
 >
-> - Rally 16 days old + 20% study overbought = extended, high correction risk
-> - LLM: Rules-based fallback (LLM unavailable): Rally 16 days old + 20% study overbought = extended, high correction risk
+> - Rally is 16 days mature — easy breakouts already happened
+> - 20% study at 73 (caution territory) — buying binge showing but not euphoric
+> - Follow-through rate at 53% — breakouts marginally working
+> - SPY and QQQ both closed near lows — potential intraday distribution
+> - Breakdowns spiked mid-week (416 on 6/24) before recovering — watch for sustained deterioration
 
 ---
 
@@ -274,7 +277,7 @@ Above 1.0 | Bullish medium-term |
 | 2 | IREN | 10 | 4 | 70 | core |
 | 3 | FCEL | 9 | 4 | 23 | expanded |
 | 4 | KEEL | 9 | 4 | 19 | expanded |
-| 5 | RIOT | 9 | 4 | 57 | core |
+| 5 | RIOT | 9 | 4 | 58 | core |
 | 6 | SATL | 9 | 4 | 21 | core |
 | 7 | USAR | 9 | 4 | 51 | core |
 | 8 | CLSK | 9 | 3 | 53 | core |
@@ -284,7 +287,7 @@ Above 1.0 | Bullish medium-term |
 | 12 | MU | 8 | 4 | 49 | core |
 | 13 | NBIS | 8 | 4 | 62 | core |
 | 14 | POET | 8 | 4 | 28 | expanded |
-| 15 | SMCI | 8 | 4 | 43 | expanded |
+| 15 | SMCI | 8 | 4 | 44 | expanded |
 | 16 | SPCE | 8 | 4 | 14 | expanded |
 | 17 | FIG | 8 | 3 | 28 | expanded |
 | 18 | INTC | 8 | 3 | 45 | core |
@@ -323,7 +326,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Insurance - Diversified
 - Sector: Financial Services
 - Sector ETF: XLF (financials_broad)
-- Market Cap: $2.1B
+- Market Cap: $2.2B
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (121 stocks in sector broke out today)
 - Breakout History (2 past swings):
@@ -393,7 +396,7 @@ Above 1.0 | Bullish medium-term |
 **FCEL**
 - Industry: Electrical Equipment & Parts
 - Sector: Industrials
-- Market Cap: $1.2B
+- Market Cap: $1.1B
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (90 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -415,15 +418,13 @@ Above 1.0 | Bullish medium-term |
 
 ---
 
-## 10. Short-Side Setups (28 candidates)
+## 10. Short-Side Setups (26 candidates)
 
-### EP 9M Short (3) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| STM | 0.0% | -18.67% | $53.49 | $56.63 | unknown_negative (intraday_down) |
-| MBLY | 3.7% | -14.92% | $7.47 | $8.25 | unknown_negative (intraday_down) |
-| NVVE | -2.6% | -44.21% | $3.23 | $10.50 | unknown_negative (minor_gap_down) |
+| MXL | -8.3% | -21.54% | $71.59 | $87.55 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

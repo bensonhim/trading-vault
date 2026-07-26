@@ -18,11 +18,11 @@ data_date: 2026-06-30
 > - **Breakouts:** 325 | **Breakdowns:** 157
 > - **Follow-through:** 3d=45.7% 5d=46.3% (OK)
 >
-> - 20% study at 106 — elevated caution territory, reduce size and tighten stops
-> - Rally is 18 days mature — easy breakouts already happened, be selective
-> - Follow-through rate at 54% — breakouts mixed, not failing but not surging
-> - SPY and QQQ both closed near lows intraday — watch for intraday distribution pattern developing
-> - LLM: Net Primary is strongly positive at +644 and improving over 5 days (367→644), with T2108 rising healthily from 47.7% to 51.1% and breakouts dominating breakdowns — this is a confirmed bullish regime. However, the 20% study at 106 (>100 caution threshold), 18-day rally maturity, and mediocre 54% follow-through rate trigger caution, downgrading from FULL_BULL to CAUTIOUS_BULL_HIGH per the 20% study tiebreaker rules.
+> - 20% study at 106 — elevated, buying binge peaking, reduce size
+> - Follow-through at 54% — breakouts mixed, not sustaining momentum
+> - Intraday distribution: SPY and QQQ both closed near lows despite range-bound action
+> - Rally mature at 18 days — easy breakouts already happened, be selective
+> - LLM: Net Primary is strongly positive at +644 and improving over 5 days (+367 to +644) with T2108 in healthy bull range at 51% and breakouts dominating breakdowns 2:1 — the bull is real and institutional buying is ongoing. However, three caution signals are present: 20% study at 106 (elevated caution territory), follow-through at only 54% (breakouts struggling), and intraday distribution pattern (SPY/QQQ closed near lows). Per framework, 20% study in 100-200 range downgrades FULL_BULL to CAUTIOUS_BULL_HIGH — buy A+ confluences at 75% size with tightened stops.
 
 ---
 
@@ -305,7 +305,7 @@ Above 1.0 | Bullish medium-term |
 | 2 | IREN | 10 | 4 | 70 | core |
 | 3 | FCEL | 9 | 4 | 23 | expanded |
 | 4 | KEEL | 9 | 4 | 19 | expanded |
-| 5 | RIOT | 9 | 4 | 57 | core |
+| 5 | RIOT | 9 | 4 | 58 | core |
 | 6 | SATL | 9 | 4 | 21 | core |
 | 7 | USAR | 9 | 4 | 51 | core |
 | 8 | CLSK | 9 | 3 | 53 | core |
@@ -315,7 +315,7 @@ Above 1.0 | Bullish medium-term |
 | 12 | MU | 8 | 4 | 49 | core |
 | 13 | NBIS | 8 | 4 | 62 | core |
 | 14 | POET | 8 | 4 | 28 | expanded |
-| 15 | SMCI | 8 | 4 | 43 | expanded |
+| 15 | SMCI | 8 | 4 | 44 | expanded |
 | 16 | SPCE | 8 | 4 | 14 | expanded |
 | 17 | FIG | 8 | 3 | 28 | expanded |
 | 18 | INTC | 8 | 3 | 45 | core |
@@ -331,7 +331,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Entertainment
 - Sector: Communication Services
 - Sector ETF: XLC (communications)
-- Market Cap: $21.0B
+- Market Cap: $21.1B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (10 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -380,7 +380,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Medical - Diagnostics & Research
 - Sector: Healthcare
 - Sector ETF: XLV (healthcare_broad)
-- Market Cap: $0.1B
+- Market Cap: $0.2B
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (103 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -449,15 +449,13 @@ Above 1.0 | Bullish medium-term |
 
 ---
 
-## 10. Short-Side Setups (23 candidates)
+## 10. Short-Side Setups (21 candidates)
 
-### EP 9M Short (3) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| STM | 0.0% | -18.67% | $53.49 | $56.63 | unknown_negative (intraday_down) |
-| MBLY | -1.8% | -14.92% | $7.47 | $8.25 | unknown_negative (intraday_down) |
-| LBRT | -1.0% | -21.96% | $19.62 | $26.00 | unknown_negative (intraday_down) |
+| MXL | -20.1% | -21.54% | $71.59 | $87.55 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

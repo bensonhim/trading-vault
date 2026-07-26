@@ -18,11 +18,11 @@ data_date: 2026-06-25
 > - **Breakouts:** 214 | **Breakdowns:** 283
 > - **Follow-through:** 3d=39.4% 5d=37.4% (OK)
 >
-> - Net Primary declining 5 consecutive days from +560 to +313 — breadth deteriorating
-> - Follow-through rate 48% (<50%) — breakouts failing to sustain
-> - Breakdowns now exceeding breakouts (283 vs 214) — selling pressure increasing
-> - Intraday distribution pattern — SPY and QQQ both closed near lows
-> - Rally mature at 15 days — easy breakouts already happened
+> - Net Primary deteriorating 5 consecutive days from +560 to +313 — funds pulling back
+> - Follow-through rate at 48% — breakouts failing more than half the time
+> - Breakdowns exceeding breakouts for 3 consecutive days (283>214, 416>369, 279>192)
+> - Intraday distribution pattern — SPY and QQQ both closed near session lows
+> - Rally is 15 days mature and extended — easy breakouts already happened
 
 ---
 
@@ -305,7 +305,7 @@ Above 1.0 | Bullish medium-term |
 | 2 | IREN | 10 | 4 | 70 | core |
 | 3 | FCEL | 9 | 4 | 23 | expanded |
 | 4 | KEEL | 9 | 4 | 19 | expanded |
-| 5 | RIOT | 9 | 4 | 57 | core |
+| 5 | RIOT | 9 | 4 | 58 | core |
 | 6 | SATL | 9 | 4 | 21 | core |
 | 7 | USAR | 9 | 4 | 51 | core |
 | 8 | CLSK | 9 | 3 | 53 | core |
@@ -315,7 +315,7 @@ Above 1.0 | Bullish medium-term |
 | 12 | MU | 8 | 4 | 49 | core |
 | 13 | NBIS | 8 | 4 | 62 | core |
 | 14 | POET | 8 | 4 | 28 | expanded |
-| 15 | SMCI | 8 | 4 | 43 | expanded |
+| 15 | SMCI | 8 | 4 | 44 | expanded |
 | 16 | SPCE | 8 | 4 | 14 | expanded |
 | 17 | FIG | 8 | 3 | 28 | expanded |
 | 18 | INTC | 8 | 3 | 45 | core |
@@ -331,7 +331,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: REIT - Industrial
 - Sector: Real Estate
 - Sector ETF: XLRE (real_estate)
-- Market Cap: $4.0B
+- Market Cap: $4.1B
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (5 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -356,7 +356,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: REIT - Industrial
 - Sector: Real Estate
 - Sector ETF: XLRE (real_estate)
-- Market Cap: $9.3B
+- Market Cap: $9.4B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (5 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -381,7 +381,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Software - Infrastructure
 - Sector: Technology
 - Sector ETF: XLK (technology_broad)
-- Market Cap: $221.9B
+- Market Cap: $263.9B
 - Fund Ownership: 5000+ - Liquid Glamour (largest size)
 - Group Move: Yes (62 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -406,7 +406,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Semiconductors
 - Sector: Technology
 - Sector ETF: SMH (semiconductors)
-- Market Cap: $8.2B
+- Market Cap: $6.5B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (62 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -431,7 +431,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Hardware, Equipment & Parts
 - Sector: Technology
 - Sector ETF: XLK (technology_broad)
-- Market Cap: $5.1B
+- Market Cap: $5.0B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (62 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -453,15 +453,13 @@ Above 1.0 | Bullish medium-term |
 
 ---
 
-## 10. Short-Side Setups (28 candidates)
+## 10. Short-Side Setups (26 candidates)
 
-### EP 9M Short (3) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| STM | 0.0% | -18.67% | $53.49 | $56.63 | unknown_negative (intraday_down) |
-| MBLY | 4.6% | -14.92% | $7.47 | $8.25 | unknown_negative (intraday_down) |
-| LBRT | -0.8% | -21.96% | $19.62 | $26.00 | unknown_negative (intraday_down) |
+| MXL | 2.0% | -21.54% | $71.59 | $87.55 | unknown_negative (intraday_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

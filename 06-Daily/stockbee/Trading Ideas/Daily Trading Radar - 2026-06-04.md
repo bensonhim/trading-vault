@@ -18,9 +18,11 @@ data_date: 2026-06-03
 > - **Breakouts:** 154 | **Breakdowns:** 441
 > - **Follow-through:** 3d=42.0% 5d=50.0% (OK)
 >
-> - Breakdown spike: 441 vs 154
-> - Breakdown (441) > Breakout (154) = selling pressure
-> - LLM: Rules-based fallback (LLM unavailable): 
+> - Net Primary deteriorating rapidly: +769 to +502 in 5 days — approaching the +200 danger zone
+> - Breakdowns surging sustainably: 98 → 218 → 221 → 301 → 441 (multi-day acceleration, not a one-day spike)
+> - Follow-through rate at 32% — breakouts are failing to follow through, reduce size aggressively
+> - T2108 falling from 48.7% to 39.3% — breadth weakening across the board
+> - Both SPY and QQQ closing near intraday lows — intraday distribution pattern
 
 ---
 
@@ -236,38 +238,36 @@ Below 1.0 | Bearish medium-term |
 
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
-| 1 | IREN | 10 | 4 | 70 | core |
-| 2 | SIDU | 10 | 4 | 19 | expanded |
+| 1 | SIDU | 11 | 4 | 19 | expanded |
+| 2 | IREN | 10 | 4 | 70 | core |
 | 3 | FCEL | 9 | 4 | 23 | expanded |
 | 4 | KEEL | 9 | 4 | 19 | expanded |
-| 5 | RIOT | 9 | 4 | 57 | core |
+| 5 | RIOT | 9 | 4 | 58 | core |
 | 6 | SATL | 9 | 4 | 21 | core |
 | 7 | USAR | 9 | 4 | 51 | core |
 | 8 | CLSK | 9 | 3 | 53 | core |
 | 9 | NVTS | 9 | 3 | 51 | core |
-| 10 | APLD | 8 | 4 | 57 | core |
-| 11 | MU | 8 | 4 | 49 | core |
-| 12 | NBIS | 8 | 4 | 62 | core |
-| 13 | POET | 8 | 4 | 28 | expanded |
-| 14 | AMD | 8 | 3 | 45 | expanded |
-| 15 | FIG | 8 | 3 | 28 | expanded |
-| 16 | INTC | 8 | 3 | 45 | core |
-| 17 | MRVL | 8 | 3 | 41 | expanded |
-| 18 | QCOM | 8 | 3 | 15 | expanded |
-| 19 | RGTI | 8 | 3 | 62 | core |
-| 20 | SNDK | 8 | 3 | 47 | core |
+| 10 | AMD | 8 | 4 | 45 | expanded |
+| 11 | APLD | 8 | 4 | 57 | core |
+| 12 | MU | 8 | 4 | 49 | core |
+| 13 | NBIS | 8 | 4 | 62 | core |
+| 14 | POET | 8 | 4 | 28 | expanded |
+| 15 | SMCI | 8 | 4 | 44 | expanded |
+| 16 | SPCE | 8 | 4 | 14 | expanded |
+| 17 | FIG | 8 | 3 | 28 | expanded |
+| 18 | INTC | 8 | 3 | 45 | core |
+| 19 | MRVL | 8 | 3 | 41 | expanded |
+| 20 | QCOM | 8 | 3 | 15 | expanded |
 
 ---
 
-## 10. Short-Side Setups (33 candidates)
+## 10. Short-Side Setups (31 candidates)
 
-### EP 9M Short (3) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| STM | 0.0% | -18.67% | $53.49 | $56.63 | unknown_negative (intraday_down) |
-| EVH | 35.9% | -16.62% | $4.64 | $5.40 | unknown_negative (intraday_down) |
-| TSLA | -19.5% | -14.52% | $319.69 | $341.86 | unknown_negative (gap_down) |
+| MXL | -2.4% | -21.54% | $71.59 | $87.55 | unknown_negative (minor_gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

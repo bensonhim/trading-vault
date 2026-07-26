@@ -9,7 +9,7 @@ data_date: 2026-06-01
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!tip] **FULL_BULL** — Action: **FULL_LONG**
+> [!caution] **CAUTIOUS_BULL_HIGH** — Action: **REDUCE_SIZE**
 >
 > - **20% Study (bullish):** 96
 > - **20% Study (bearish):** 26
@@ -18,11 +18,11 @@ data_date: 2026-06-01
 > - **Breakouts:** 419 | **Breakdowns:** 221
 > - **Follow-through:** 3d=34.7% 5d=34.3% (OK)
 >
-> - T2108 falling 5 days straight (50.1% to 43.9%) — watch for continued deterioration
-> - Rally is 8 days mature — easy breakouts have already happened, be selective with entries
-> - SPY and QQQ both closed near intraday lows — mild intraday distribution signal
-> - Follow-through data is N/A — cannot confirm breakouts are working
-> - LLM: Net Primary is +777 and improving over 5 days (+590 to +777), which firmly establishes a bullish regime. The 20% study at 96 is in the healthy 50-100 range and does NOT trigger caution. Breakouts are dominating breakdowns (419 vs 221). T2108 is falling from 50.1% to 43.9% which is a mild concern, but it remains in the normal 30-60% range and does not override the strong Net Primary signal.
+> - Rally 8 days mature — easy breakouts already happened, 'yesterday was the day' risk
+> - T2108 falling from 50.1% to 43.9% — breadth deteriorating under the surface
+> - Breakdowns worsening from 98 to 221 over 2 days — selling pressure increasing
+> - Intraday closes near lows on both SPY and QQQ — potential distribution pattern
+> - 20% study at 96 — elevated, buying binge may be peaking
 
 ---
 
@@ -302,26 +302,26 @@ Above 1.0 | Bullish medium-term |
 
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
-| 1 | IREN | 10 | 4 | 70 | core |
-| 2 | SIDU | 10 | 4 | 19 | expanded |
+| 1 | SIDU | 11 | 4 | 19 | expanded |
+| 2 | IREN | 10 | 4 | 70 | core |
 | 3 | FCEL | 9 | 4 | 23 | expanded |
 | 4 | KEEL | 9 | 4 | 19 | expanded |
-| 5 | RIOT | 9 | 4 | 57 | core |
+| 5 | RIOT | 9 | 4 | 58 | core |
 | 6 | SATL | 9 | 4 | 21 | core |
 | 7 | USAR | 9 | 4 | 51 | core |
 | 8 | CLSK | 9 | 3 | 53 | core |
 | 9 | NVTS | 9 | 3 | 51 | core |
-| 10 | APLD | 8 | 4 | 57 | core |
-| 11 | MU | 8 | 4 | 49 | core |
-| 12 | NBIS | 8 | 4 | 62 | core |
-| 13 | POET | 8 | 4 | 28 | expanded |
-| 14 | AMD | 8 | 3 | 45 | expanded |
-| 15 | FIG | 8 | 3 | 28 | expanded |
-| 16 | INTC | 8 | 3 | 45 | core |
-| 17 | MRVL | 8 | 3 | 41 | expanded |
-| 18 | QCOM | 8 | 3 | 15 | expanded |
-| 19 | RGTI | 8 | 3 | 62 | core |
-| 20 | SNDK | 8 | 3 | 47 | core |
+| 10 | AMD | 8 | 4 | 45 | expanded |
+| 11 | APLD | 8 | 4 | 57 | core |
+| 12 | MU | 8 | 4 | 49 | core |
+| 13 | NBIS | 8 | 4 | 62 | core |
+| 14 | POET | 8 | 4 | 28 | expanded |
+| 15 | SMCI | 8 | 4 | 44 | expanded |
+| 16 | SPCE | 8 | 4 | 14 | expanded |
+| 17 | FIG | 8 | 3 | 28 | expanded |
+| 18 | INTC | 8 | 3 | 45 | core |
+| 19 | MRVL | 8 | 3 | 41 | expanded |
+| 20 | QCOM | 8 | 3 | 15 | expanded |
 
 ---
 
@@ -332,7 +332,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Biotechnology
 - Sector: Healthcare
 - Sector ETF: XBI (biotech_small)
-- Market Cap: $2.9B
+- Market Cap: $2.8B
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (97 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -407,7 +407,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Industrial Materials
 - Sector: Basic Materials
 - Sector ETF: XLB (materials)
-- Market Cap: $0.6B
+- Market Cap: $0.5B
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (26 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -432,7 +432,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: REIT - Hotel & Motel
 - Sector: Real Estate
 - Sector ETF: XLRE (real_estate)
-- Market Cap: $2.9B
+- Market Cap: $3.0B
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (9 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -454,15 +454,13 @@ Above 1.0 | Bullish medium-term |
 
 ---
 
-## 10. Short-Side Setups (23 candidates)
+## 10. Short-Side Setups (21 candidates)
 
-### EP 9M Short (3) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| STM | 0.0% | -18.67% | $53.49 | $56.63 | unknown_negative (intraday_down) |
-| EVH | 36.2% | -16.62% | $4.64 | $5.40 | unknown_negative (intraday_down) |
-| TSLA | -21.8% | -14.52% | $319.69 | $341.86 | unknown_negative (gap_down) |
+| MXL | -6.8% | -21.54% | $71.59 | $87.55 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

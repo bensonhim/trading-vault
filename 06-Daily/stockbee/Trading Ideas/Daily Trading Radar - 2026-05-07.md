@@ -18,11 +18,11 @@ data_date: 2026-05-06
 > - **Breakouts:** 631 | **Breakdowns:** 309
 > - **Follow-through:** 3d=37.0% 5d=40.7% (OK)
 >
-> - Follow-through rate at 53% — breakouts are mixed, not failing catastrophically but not thriving
-> - Intraday distribution pattern: SPY and QQQ both closed near lows despite range-bound action
-> - Rally is 22 days mature — easy breakouts have long since happened, be selective
-> - Breakdown count ticked up to 309 on 05/06 from 199 on 05/05 — monitor for sustained deterioration
-> - LLM: Net Primary is strongly bullish at +782 and improving over 5 days (467→782), with T2108 in the healthy bull zone at 60.6% and rising. However, follow-through rate is mediocre at 53% (breakouts struggling to sustain), intraday action shows distribution (both SPY and QQQ closed near lows), and the rally is 22 days mature. The 20% study at 87 is in the healthy 50-100 zone and does NOT trigger caution — but the combination of weak follow-through and intraday distribution warrants reduced size rather than full aggression.
+> - Rally mature at 22 days — easy breakouts already happened
+> - 20% study at 87 entering caution territory — buying binge may be peaking
+> - Intraday distribution pattern: SPY and QQQ both closed near lows
+> - Follow-through rate at 53% with 05/04 at 44% — breakouts struggling to sustain
+> - Breakdown count worsening (116→309) though still below breakout count
 
 ---
 
@@ -280,7 +280,7 @@ Above 1.0 | Bullish medium-term |
 | 2 | IREN | 10 | 4 | 70 | core |
 | 3 | FCEL | 9 | 4 | 23 | expanded |
 | 4 | KEEL | 9 | 4 | 19 | expanded |
-| 5 | RIOT | 9 | 4 | 57 | core |
+| 5 | RIOT | 9 | 4 | 58 | core |
 | 6 | SATL | 9 | 4 | 21 | core |
 | 7 | USAR | 9 | 4 | 51 | core |
 | 8 | CLSK | 9 | 3 | 53 | core |
@@ -290,7 +290,7 @@ Above 1.0 | Bullish medium-term |
 | 12 | MU | 8 | 4 | 49 | core |
 | 13 | NBIS | 8 | 4 | 62 | core |
 | 14 | POET | 8 | 4 | 28 | expanded |
-| 15 | SMCI | 8 | 4 | 43 | expanded |
+| 15 | SMCI | 8 | 4 | 44 | expanded |
 | 16 | SPCE | 8 | 4 | 14 | expanded |
 | 17 | FIG | 8 | 3 | 28 | expanded |
 | 18 | INTC | 8 | 3 | 45 | core |
@@ -354,7 +354,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Independent Power Producers
 - Sector: Utilities
 - Sector ETF: XLU (utilities)
-- Market Cap: $7.7B
+- Market Cap: $7.0B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (9 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -404,7 +404,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Uranium
 - Sector: Energy
 - Sector ETF: XLE (energy_broad)
-- Market Cap: $3.0B
+- Market Cap: $2.8B
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (16 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -426,15 +426,13 @@ Above 1.0 | Bullish medium-term |
 
 ---
 
-## 10. Short-Side Setups (33 candidates)
+## 10. Short-Side Setups (31 candidates)
 
-### EP 9M Short (3) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| STM | 0.0% | -18.67% | $53.49 | $56.63 | unknown_negative (intraday_down) |
-| EVH | 37.6% | -16.62% | $4.64 | $5.40 | unknown_negative (intraday_down) |
-| TSLA | -12.4% | -14.52% | $319.69 | $341.86 | unknown_negative (gap_down) |
+| MXL | 6.1% | -21.54% | $71.59 | $87.55 | unknown_negative (intraday_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

@@ -9,7 +9,7 @@ data_date: 2026-05-28
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!tip] **FULL_BULL** — Action: **FULL_LONG**
+> [!caution] **CAUTIOUS_BULL_HIGH** — Action: **REDUCE_SIZE**
 >
 > - **20% Study (bullish):** 95
 > - **20% Study (bearish):** 22
@@ -18,11 +18,11 @@ data_date: 2026-05-28
 > - **Breakouts:** 459 | **Breakdowns:** 98
 > - **Follow-through:** 3d=40.5% 5d=37.2% (OK)
 >
-> - Follow-through rate at 53% is in caution zone — breakouts are working but not strongly
-> - Rally is 6 days mature — easy breakouts have already happened, be selective with entries
-> - SPY and QQQ closed near intraday lows — watch for intraday distribution pattern repeating
-> - 20% study at 95 approaching the 100 caution threshold — if it crosses, reduce size
-> - LLM: Net Primary has improved sharply from +399 to +769 over 5 days with T2108 rising from 46.5% to 48.7% — both primary indicators are strongly bullish and trending in the right direction. Breakouts are dominating breakdowns (459 vs 98 today, ~4.7x), and 20% study at 95 sits in the healthy 50-100 zone that does NOT trigger a downgrade. Follow-through at 53% and 6-day rally maturity are caution flags, but per Pradeep's rules, neither overrides Net Primary >+500 with improving breadth.
+> - Rally mature at 6 days — easy breakouts already happened
+> - 20% study at 95 — buying binge confirmed, caution territory
+> - Follow-through at 53% — breakouts mixed, reduce size
+> - SPY and QQQ closing near lows intraday — watch for intraday distribution pattern
+> - LLM: Net Primary is strongly positive at +769 and improving over 5 days (+399 → +769), with T2108 in a healthy zone at 48.7% and rising — the bull is real and accelerating. However, the 20% study at 95 (caution territory) confirms the buying binge is already underway, the rally is 6 days mature, and follow-through at 53% shows breakouts are struggling to sustain momentum. This is the classic CAUTIOUS_BULL_HIGH: buy A+ confluences at reduced size with tighter stops.
 
 ---
 
@@ -284,26 +284,26 @@ Above 1.0 | Bullish medium-term |
 
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
-| 1 | IREN | 10 | 4 | 70 | core |
-| 2 | SIDU | 10 | 4 | 19 | expanded |
+| 1 | SIDU | 11 | 4 | 19 | expanded |
+| 2 | IREN | 10 | 4 | 70 | core |
 | 3 | FCEL | 9 | 4 | 23 | expanded |
-| 4 | RIOT | 9 | 4 | 57 | core |
-| 5 | SATL | 9 | 4 | 21 | core |
-| 6 | USAR | 9 | 4 | 51 | core |
-| 7 | CLSK | 9 | 3 | 53 | core |
-| 8 | NVTS | 9 | 3 | 51 | core |
-| 9 | APLD | 8 | 4 | 57 | core |
-| 10 | KEEL | 8 | 4 | 19 | expanded |
-| 11 | MU | 8 | 4 | 49 | core |
-| 12 | NBIS | 8 | 4 | 62 | core |
-| 13 | POET | 8 | 4 | 28 | expanded |
-| 14 | AMD | 8 | 3 | 45 | expanded |
-| 15 | INTC | 8 | 3 | 45 | core |
-| 16 | MRVL | 8 | 3 | 41 | expanded |
-| 17 | QCOM | 8 | 3 | 15 | expanded |
-| 18 | RGTI | 8 | 3 | 62 | core |
-| 19 | SNDK | 8 | 3 | 47 | core |
-| 20 | AAOI | 7 | 3 | 26 | expanded |
+| 4 | KEEL | 9 | 4 | 19 | expanded |
+| 5 | RIOT | 9 | 4 | 58 | core |
+| 6 | SATL | 9 | 4 | 21 | core |
+| 7 | USAR | 9 | 4 | 51 | core |
+| 8 | CLSK | 9 | 3 | 53 | core |
+| 9 | NVTS | 9 | 3 | 51 | core |
+| 10 | AMD | 8 | 4 | 45 | expanded |
+| 11 | APLD | 8 | 4 | 57 | core |
+| 12 | MU | 8 | 4 | 49 | core |
+| 13 | NBIS | 8 | 4 | 62 | core |
+| 14 | POET | 8 | 4 | 28 | expanded |
+| 15 | SMCI | 8 | 4 | 44 | expanded |
+| 16 | SPCE | 8 | 4 | 14 | expanded |
+| 17 | FIG | 8 | 3 | 28 | expanded |
+| 18 | INTC | 8 | 3 | 45 | core |
+| 19 | MRVL | 8 | 3 | 41 | expanded |
+| 20 | QCOM | 8 | 3 | 15 | expanded |
 
 ---
 
@@ -339,7 +339,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Software - Infrastructure
 - Sector: Technology
 - Sector ETF: XLK (technology_broad)
-- Market Cap: $345.8B
+- Market Cap: $331.2B
 - Fund Ownership: 5000+ - Liquid Glamour (largest size)
 - Group Move: Yes (168 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -412,7 +412,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Medical - Diagnostics & Research
 - Sector: Healthcare
 - Sector ETF: XLV (healthcare_broad)
-- Market Cap: $12.6B
+- Market Cap: $12.3B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (175 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -434,15 +434,13 @@ Above 1.0 | Bullish medium-term |
 
 ---
 
-## 10. Short-Side Setups (28 candidates)
+## 10. Short-Side Setups (26 candidates)
 
-### EP 9M Short (3) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| STM | 0.0% | -18.67% | $53.49 | $56.63 | unknown_negative (intraday_down) |
-| EVH | 44.6% | -16.62% | $4.64 | $5.40 | unknown_negative (intraday_down) |
-| TSLA | -22.6% | -14.52% | $319.69 | $341.86 | unknown_negative (gap_down) |
+| MXL | -14.3% | -21.54% | $71.59 | $87.55 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

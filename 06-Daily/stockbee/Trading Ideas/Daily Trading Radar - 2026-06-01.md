@@ -18,11 +18,11 @@ data_date: 2026-05-29
 > - **Breakouts:** 329 | **Breakdowns:** 218
 > - **Follow-through:** 3d=43.0% 5d=43.0% (OK)
 >
-> - Follow-through rate below 50% on 2 of 3 days — breakouts struggling to sustain
-> - T2108 falling from 50.1% to 45.6% — breadth weakening despite improving Net Primary
-> - Intraday closes near lows on SPY and QQQ — mild distribution pattern
-> - Rally is 7 days mature — easy breakouts already happened, be selective
-> - LLM: Net Primary is strongly bullish at +742 and improving over 5 days (+474 → +742), which normally signals FULL_BULL. However, follow-through rate is deteriorating (47%, 60%, 48% — averaging 51% with 2 of 3 days below 50%), T2108 is falling (50.1% → 45.6%), and intraday closes near lows suggest mild distribution. The 20% study at 70 is in the healthy 50-100 zone and does NOT trigger a downgrade, but the weak follow-through and falling T2108 warrant caution.
+> - Rally mature at 7 days — easy breakouts already happened
+> - Follow-through rate at 51% — breakouts struggling, not failing
+> - T2108 falling from 50.1% to 45.6% — breadth slowly deteriorating
+> - Intraday closes near lows on both SPY and QQQ — mild distribution pattern
+> - Breakdown count rising (119 → 218 over 5 days) — selling pressure increasing
 
 ---
 
@@ -302,7 +302,7 @@ Above 1.0 | Bullish medium-term |
 | 2 | IREN | 10 | 4 | 70 | core |
 | 3 | FCEL | 9 | 4 | 23 | expanded |
 | 4 | KEEL | 9 | 4 | 19 | expanded |
-| 5 | RIOT | 9 | 4 | 57 | core |
+| 5 | RIOT | 9 | 4 | 58 | core |
 | 6 | SATL | 9 | 4 | 21 | core |
 | 7 | USAR | 9 | 4 | 51 | core |
 | 8 | CLSK | 9 | 3 | 53 | core |
@@ -312,7 +312,7 @@ Above 1.0 | Bullish medium-term |
 | 12 | MU | 8 | 4 | 49 | core |
 | 13 | NBIS | 8 | 4 | 62 | core |
 | 14 | POET | 8 | 4 | 28 | expanded |
-| 15 | SMCI | 8 | 4 | 43 | expanded |
+| 15 | SMCI | 8 | 4 | 44 | expanded |
 | 16 | SPCE | 8 | 4 | 14 | expanded |
 | 17 | FIG | 8 | 3 | 28 | expanded |
 | 18 | INTC | 8 | 3 | 45 | core |
@@ -328,7 +328,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Biotechnology
 - Sector: Healthcare
 - Sector ETF: XBI (biotech_small)
-- Market Cap: $17.5B
+- Market Cap: $17.7B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (84 stocks in sector broke out today)
 - Breakout History (3 past swings):
@@ -351,7 +351,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Technology Distributors
 - Sector: Technology
 - Sector ETF: XLK (technology_broad)
-- Market Cap: $19.8B
+- Market Cap: $19.4B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (164 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -399,7 +399,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Medical - Pharmaceuticals
 - Sector: Healthcare
 - Sector ETF: XLV (healthcare_broad)
-- Market Cap: $25.4B
+- Market Cap: $25.3B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (84 stocks in sector broke out today)
 - Breakout History (1 past swings):
@@ -420,7 +420,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Software - Infrastructure
 - Sector: Technology
 - Sector ETF: XLK (technology_broad)
-- Market Cap: $15.1B
+- Market Cap: $15.6B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (164 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -442,15 +442,13 @@ Above 1.0 | Bullish medium-term |
 
 ---
 
-## 10. Short-Side Setups (28 candidates)
+## 10. Short-Side Setups (26 candidates)
 
-### EP 9M Short (3) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| STM | 0.0% | -18.67% | $53.49 | $56.63 | unknown_negative (intraday_down) |
-| EVH | 38.0% | -16.62% | $4.64 | $5.40 | unknown_negative (intraday_down) |
-| TSLA | -22.9% | -14.52% | $319.69 | $341.86 | unknown_negative (gap_down) |
+| MXL | -11.3% | -21.54% | $71.59 | $87.55 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
