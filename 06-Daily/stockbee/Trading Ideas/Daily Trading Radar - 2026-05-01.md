@@ -18,11 +18,11 @@ data_date: 2026-04-30
 > - **Breakouts:** 559 | **Breakdowns:** 116
 > - **Follow-through:** 3d=34.8% 5d=27.2% (FAILING)
 >
-> - Follow-through rate at 38% — breakouts failing to follow through, reduce size
-> - Intraday distribution pattern — SPY and QQQ closed near lows despite range-bound action
-> - Rally mature at 21 days — easy breakouts already happened
-> - Net Primary deteriorated from +494 to +215 before bouncing — choppy, not a clean uptrend
-> - Two consecutive days of breakdown dominance (4/28 and 4/29) before today's breakout surge — inconsistent breadth
+> - Follow-through rate at 38% — breakouts failing to sustain, reduce position size
+> - Net Primary had a sharp mid-week drop from +494 to +215 before recovering — choppiness suggests institutional hesitation
+> - Intraday distribution pattern: both SPY and QQQ closed near lows despite range-bound action
+> - Rally is mature at 21 days since last low — easy breakouts already happened
+> - Two consecutive days (4/28, 4/29) had breakdowns exceeding breakouts before today's reversal
 
 ---
 
