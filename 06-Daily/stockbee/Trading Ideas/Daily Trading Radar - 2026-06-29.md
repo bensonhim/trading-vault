@@ -19,10 +19,10 @@ data_date: 2026-06-26
 > - **Follow-through:** 3d=38.6% 5d=37.1% (OK)
 >
 > - Rally is 16 days mature — easy breakouts already happened
-> - 20% study at 73 (caution territory) — buying binge showing but not euphoric
-> - Follow-through rate at 53% — breakouts marginally working
-> - SPY and QQQ both closed near lows — potential intraday distribution
-> - Breakdowns spiked mid-week (416 on 6/24) before recovering — watch for sustained deterioration
+> - 20% study at 73 (caution territory) — buying binge confirmed but approaching elevated
+> - Follow-through rate at 53% — breakouts struggling to sustain
+> - Intraday distribution pattern — both SPY and QQQ closed near lows despite range-bound action
+> - Net Primary had mid-week deterioration (+472 to +313) before recovering to +538 — watch if +538 holds or fades
 
 ---
 

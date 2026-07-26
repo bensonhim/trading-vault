@@ -18,11 +18,11 @@ data_date: 2026-07-01
 > - **Breakouts:** 389 | **Breakdowns:** 219
 > - **Follow-through:** 3d=46.0% 5d=47.7% (OK)
 >
-> - Follow-through rate 45% — breakouts failing to follow through, reduce size
-> - Rally mature at 19 days — easy breakouts already happened
-> - 20% study at 95 — approaching caution territory (>100), buying binge may be peaking
-> - Intraday distribution pattern — SPY and QQQ closed near lows
-> - Extended rally (mature + overbought) — vulnerable to pullback
+> - Follow-through rate 45% — breakouts failing to sustain, reduce position size
+> - Rally is 19 days mature and extended — easy breakouts already happened
+> - 20% study at 95 — approaching caution territory, buying binge maturing
+> - SPY and QQQ both closed near lows — mild intraday distribution pattern
+> - Breakout count dropped from 880 (6/26) to 389 today — momentum narrowing
 
 ---
 
