@@ -18,11 +18,11 @@ data_date: 2026-04-29
 > - **Breakouts:** 172 | **Breakdowns:** 409
 > - **Follow-through:** 3d=34.7% 5d=32.0% (OK)
 >
-> - Net Primary deteriorating 5 straight days (+494 to +215)
-> - Breakdowns surging to 409 vs 172 breakouts — selling pressure accelerating
-> - Follow-through at 31% — breakouts failing badly, reduce size
-> - Intraday distribution pattern on SPY and QQQ (closing near lows)
-> - T2108 falling from 60.6% to 54.9% — breadth weakening
+> - Net Primary deteriorating rapidly: +489 → +215 in 4 sessions
+> - Follow-through rate at 31% — breakouts failing to sustain
+> - Breakdowns surging: 158 → 409 in two days
+> - T2108 falling from 60.6% to 54.9%
+> - Both SPY and QQQ closing near intraday lows — distribution pattern
 
 ---
 
