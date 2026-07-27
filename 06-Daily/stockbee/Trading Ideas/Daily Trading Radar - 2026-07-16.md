@@ -18,11 +18,11 @@ data_date: 2026-07-15
 > - **Breakouts:** 235 | **Breakdowns:** 205
 > - **Follow-through:** 3d=32.3% 5d=30.6% (OK)
 >
-> - Follow-through rate at 33% — breakouts failing, do not buy aggressive entries
-> - Net Primary declining from +425 to +223 — breadth deteriorating
-> - 20% study at 17 (near <15 threshold) — funds not buying, momentum absent
-> - Rally 18 days mature — easy breakouts already happened
-> - One-day breakdown spike of 458 on 7-13 — watch for sustained breakdowns confirming distribution
+> - Net Primary deteriorating from +425 to +223 over 5 days — bull is weakening
+> - Follow-through rate at 33% — breakouts failing, reduce size and tighten stops
+> - Intraday distribution pattern — SPY and QQQ both closed near lows
+> - Rally is mature (18 days) — easy breakouts already happened
+> - One-day breakdown spike on 7/13 (458 BD) was absorbed but signals fragility
 
 ---
 
@@ -258,7 +258,7 @@ Above 1.0 | Bullish medium-term |
 | 2 | IREN | 10 | 4 | 70 | core |
 | 3 | FCEL | 9 | 4 | 23 | expanded |
 | 4 | KEEL | 9 | 4 | 19 | expanded |
-| 5 | RIOT | 9 | 4 | 57 | core |
+| 5 | RIOT | 9 | 4 | 58 | core |
 | 6 | SATL | 9 | 4 | 21 | core |
 | 7 | USAR | 9 | 4 | 51 | core |
 | 8 | CLSK | 9 | 3 | 53 | core |
@@ -268,7 +268,7 @@ Above 1.0 | Bullish medium-term |
 | 12 | MU | 8 | 4 | 49 | core |
 | 13 | NBIS | 8 | 4 | 62 | core |
 | 14 | POET | 8 | 4 | 28 | expanded |
-| 15 | SMCI | 8 | 4 | 43 | expanded |
+| 15 | SMCI | 8 | 4 | 44 | expanded |
 | 16 | SPCE | 8 | 4 | 14 | expanded |
 | 17 | FIG | 8 | 3 | 28 | expanded |
 | 18 | INTC | 8 | 3 | 45 | core |
@@ -277,15 +277,13 @@ Above 1.0 | Bullish medium-term |
 
 ---
 
-## 10. Short-Side Setups (33 candidates)
+## 10. Short-Side Setups (31 candidates)
 
-### EP 9M Short (3) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| STM | 0.0% | -18.67% | $53.49 | $56.63 | unknown_negative (intraday_down) |
-| LBRT | 2.9% | -21.96% | $19.62 | $26.00 | unknown_negative (intraday_down) |
-| NVVE | -65.2% | -44.21% | $3.23 | $10.50 | earnings_miss (gap_down) |
+| MXL | -6.4% | -21.54% | $71.59 | $87.55 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

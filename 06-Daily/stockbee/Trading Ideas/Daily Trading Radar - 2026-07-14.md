@@ -18,11 +18,11 @@ data_date: 2026-07-13
 > - **Breakouts:** 207 | **Breakdowns:** 458
 > - **Follow-through:** 3d=39.7% 5d=35.7% (OK)
 >
-> - Net primary deteriorating from +452 to +210 — bull losing momentum
-> - 20% study at 13 is critically low — funds are not buying aggressively
-> - Breakdowns dominating 458 vs 207 breakouts (BD > 1.5x BO) — selling pressure
-> - Intraday distribution pattern: SPY and QQQ both closing near lows
-> - 16-day mature rally — easy breakouts already happened long ago
+> - Net Primary deteriorating from +452 to +210 over 5 days — funds pulling back
+> - Breakdowns surging to 458 on 07-13 vs 207 breakouts — selling pressure accelerating
+> - Intraday distribution pattern: SPY and QQQ both closed near lows
+> - Rally mature at 16 days — easy breakouts already happened
+> - 20% study at 13 with 49 stocks down 20%+ vs 13 up — downside momentum building
 
 ---
 
@@ -263,7 +263,7 @@ Above 1.0 | Bullish medium-term |
 | 2 | IREN | 10 | 4 | 70 | core |
 | 3 | FCEL | 9 | 4 | 23 | expanded |
 | 4 | KEEL | 9 | 4 | 19 | expanded |
-| 5 | RIOT | 9 | 4 | 57 | core |
+| 5 | RIOT | 9 | 4 | 58 | core |
 | 6 | SATL | 9 | 4 | 21 | core |
 | 7 | USAR | 9 | 4 | 51 | core |
 | 8 | CLSK | 9 | 3 | 53 | core |
@@ -273,7 +273,7 @@ Above 1.0 | Bullish medium-term |
 | 12 | MU | 8 | 4 | 49 | core |
 | 13 | NBIS | 8 | 4 | 62 | core |
 | 14 | POET | 8 | 4 | 28 | expanded |
-| 15 | SMCI | 8 | 4 | 43 | expanded |
+| 15 | SMCI | 8 | 4 | 44 | expanded |
 | 16 | SPCE | 8 | 4 | 14 | expanded |
 | 17 | FIG | 8 | 3 | 28 | expanded |
 | 18 | INTC | 8 | 3 | 45 | core |
@@ -282,15 +282,13 @@ Above 1.0 | Bullish medium-term |
 
 ---
 
-## 10. Short-Side Setups (23 candidates)
+## 10. Short-Side Setups (21 candidates)
 
-### EP 9M Short (3) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| STM | 0.0% | -18.67% | $53.49 | $56.63 | unknown_negative (intraday_down) |
-| LBRT | 6.2% | -21.96% | $19.62 | $26.00 | unknown_negative (intraday_down) |
-| TSLA | -16.4% | -14.52% | $319.69 | $341.86 | unknown_negative (gap_down) |
+| MXL | -5.1% | -21.54% | $71.59 | $87.55 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

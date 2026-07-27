@@ -18,11 +18,11 @@ data_date: 2026-04-21
 > - **Breakouts:** 180 | **Breakdowns:** 362
 > - **Follow-through:** 3d=49.3% 5d=52.0% (OK)
 >
-> - Follow-through rate at 31% — breakouts failing, reduce size and tighten stops
-> - Rally is 16 days mature — easy breakouts already happened, be selective
-> - Breakdowns spiked to 362 on latest day — watch if this is one-day profit-taking or start of sustained selling
-> - SPY and QQQ both closed near intraday lows — potential intraday distribution pattern
-> - Do NOT add aggressive new longs until follow-through rate improves above 50%
+> - Breakout follow-through at 31% — breakouts failing, reduce size
+> - Rally 16 days mature and extended — easy breakouts already happened
+> - Today's breakdown spike (362) vs breakouts (180) — watch if sustained or one-day profit-taking
+> - Intraday distribution pattern — SPY and QQQ both closed near lows
+> - 20% study at 51 — caution territory, confirms buying binge already occurred
 
 ---
 
@@ -305,26 +305,26 @@ Above 1.0 | Bullish medium-term |
 
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
-| 1 | SATL | 9 | 3 | 21 | core |
-| 2 | NBIS | 8 | 4 | 62 | core |
-| 3 | SNDK | 8 | 3 | 47 | core |
-| 4 | RIOT | 7 | 4 | 57 | core |
-| 5 | HTZ | 7 | 3 | 23 | expanded |
-| 6 | INTC | 7 | 3 | 45 | core |
-| 7 | MRVL | 7 | 3 | 41 | expanded |
-| 8 | ASTS | 7 | 2 | 56 | core |
-| 9 | LUNR | 7 | 2 | 37 | expanded |
-| 10 | FLY | 6 | 3 | 11 | expanded |
-| 11 | RGTI | 6 | 3 | 62 | core |
-| 12 | USAR | 6 | 3 | 51 | core |
-| 13 | CRCL | 6 | 2 | 42 | core |
-| 14 | FCEL | 6 | 2 | 23 | expanded |
-| 15 | FSLY | 6 | 2 | 17 | expanded |
-| 16 | JBLU | 6 | 2 | 38 | core |
-| 17 | ONDS | 6 | 2 | 47 | core |
-| 18 | RCAT | 6 | 2 | 42 | core |
-| 19 | RKLB | 6 | 2 | 57 | core |
-| 20 | AMAT | 6 | 1 | 18 | expanded |
+| 1 | SIDU | 11 | 4 | 19 | expanded |
+| 2 | IREN | 10 | 4 | 70 | core |
+| 3 | FCEL | 9 | 4 | 23 | expanded |
+| 4 | KEEL | 9 | 4 | 19 | expanded |
+| 5 | RIOT | 9 | 4 | 58 | core |
+| 6 | SATL | 9 | 4 | 21 | core |
+| 7 | USAR | 9 | 4 | 51 | core |
+| 8 | CLSK | 9 | 3 | 53 | core |
+| 9 | NVTS | 9 | 3 | 51 | core |
+| 10 | AMD | 8 | 4 | 45 | expanded |
+| 11 | APLD | 8 | 4 | 57 | core |
+| 12 | MU | 8 | 4 | 49 | core |
+| 13 | NBIS | 8 | 4 | 62 | core |
+| 14 | POET | 8 | 4 | 28 | expanded |
+| 15 | SMCI | 8 | 4 | 44 | expanded |
+| 16 | SPCE | 8 | 4 | 14 | expanded |
+| 17 | FIG | 8 | 3 | 28 | expanded |
+| 18 | INTC | 8 | 3 | 45 | core |
+| 19 | MRVL | 8 | 3 | 41 | expanded |
+| 20 | QCOM | 8 | 3 | 15 | expanded |
 
 ---
 
@@ -335,7 +335,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Specialty Retail
 - Sector: Consumer Cyclical
 - Sector ETF: XLY (consumer_discretionary)
-- Market Cap: $3.2B
+- Market Cap: $3.4B
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (16 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -427,7 +427,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Software - Infrastructure
 - Sector: Technology
 - Sector ETF: XLK (technology_broad)
-- Market Cap: $7.6B
+- Market Cap: $7.2B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (49 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -449,15 +449,13 @@ Above 1.0 | Bullish medium-term |
 
 ---
 
-## 10. Short-Side Setups (23 candidates)
+## 10. Short-Side Setups (21 candidates)
 
-### EP 9M Short (3) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| STM | 0.0% | -18.67% | $53.49 | $56.63 | unknown_negative (intraday_down) |
-| MBLY | 1.4% | -14.92% | $7.47 | $8.25 | unknown_negative (intraday_down) |
-| LBRT | -2.1% | -21.96% | $19.62 | $26.00 | unknown_negative (minor_gap_down) |
+| MXL | 173.1% | -21.54% | $71.59 | $87.55 | unknown_negative (intraday_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

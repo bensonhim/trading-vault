@@ -18,11 +18,11 @@ data_date: 2026-07-07
 > - **Breakouts:** 191 | **Breakdowns:** 480
 > - **Follow-through:** 3d=51.4% 5d=51.1% (OK)
 >
-> - Net Primary deteriorating 5-day trend: +644 → +452 — funds pulling back
-> - Breakdowns surged to 480 vs 191 breakouts — selling pressure accelerating
-> - Follow-through rate 27% — breakouts failing, do NOT chase new entries
-> - Intraday distribution pattern: SPY and QQQ both closed near lows
-> - Rally is 19 days mature — easy breakouts already happened
+> - Net Primary deteriorating from +644 to +452 over 5 days — bull is aging
+> - Follow-through at 27% — breakouts failing, do NOT chase new breakouts
+> - Latest day breakdowns (480) dominate breakouts (191) by >2.5x — selling pressure accelerating
+> - SPY/QQQ closed near lows intraday — possible distribution pattern
+> - 20% study at 27 is low but lagging — do NOT use as a sell signal; funds may still be deploying
 
 ---
 

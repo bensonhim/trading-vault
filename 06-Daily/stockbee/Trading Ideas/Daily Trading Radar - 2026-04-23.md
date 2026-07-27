@@ -19,10 +19,10 @@ data_date: 2026-04-22
 > - **Follow-through:** 3d=46.7% 5d=44.3% (OK)
 >
 > - Follow-through rate at 40% — breakouts failing to follow through, reduce size
-> - Rally mature at 17 days — easy breakouts already happened, be selective
-> - Yesterday saw breakdown spike (362) but Net Primary held at +537 — likely profit-taking not distribution
-> - 20% study at 42 is moderate, not signaling euphoria but also not showing aggressive fund buying
-> - LLM: Net Primary at +682 and improving from +390 over 5 days with T2108 at 59.5% (healthy bull range) and 5-day BO/BD ratio of 1.92 confirms a genuine bullish breadth regime. However, follow-through rate at 40% (below 50%) means breakouts are squatting or reversing, which downgrades from FULL_BULL to CAUTIOUS_BULL — buy A+ setups at 75% size with tight stops.
+> - Rally 17 days mature — easy breakouts already happened, late-stage entries are risky
+> - Yesterday's breakdown spike to 362 was a one-day event (back to 125 today) — likely profit-taking, not sustained distribution
+> - Both SPY and QQQ closed near lows — watch for intraday distribution pattern if it persists
+> - LLM: Net Primary is +682 and improving over 5 days (390→682) with T2108 rising from 55.8% to 59.5% — primary breadth confirms a real bull regime. However, follow-through rate is only 40% (below 50% caution threshold) and the rally is 17 days mature, meaning easy breakouts have already happened and new entries are higher-risk. The 20% study at 42 is moderate and confirms ongoing buying without euphoria, so no downgrade there. Net Primary > +500 with improving trend keeps this firmly bullish, but struggling breakouts require reduced position size and tighter stops on A+ confluences only.
 
 ---
 
@@ -234,7 +234,7 @@ Above 1.0 | Bullish medium-term |
 | 2 | IREN | 10 | 4 | 70 | core |
 | 3 | FCEL | 9 | 4 | 23 | expanded |
 | 4 | KEEL | 9 | 4 | 19 | expanded |
-| 5 | RIOT | 9 | 4 | 57 | core |
+| 5 | RIOT | 9 | 4 | 58 | core |
 | 6 | SATL | 9 | 4 | 21 | core |
 | 7 | USAR | 9 | 4 | 51 | core |
 | 8 | CLSK | 9 | 3 | 53 | core |
@@ -244,7 +244,7 @@ Above 1.0 | Bullish medium-term |
 | 12 | MU | 8 | 4 | 49 | core |
 | 13 | NBIS | 8 | 4 | 62 | core |
 | 14 | POET | 8 | 4 | 28 | expanded |
-| 15 | SMCI | 8 | 4 | 43 | expanded |
+| 15 | SMCI | 8 | 4 | 44 | expanded |
 | 16 | SPCE | 8 | 4 | 14 | expanded |
 | 17 | FIG | 8 | 3 | 28 | expanded |
 | 18 | INTC | 8 | 3 | 45 | core |
@@ -253,15 +253,13 @@ Above 1.0 | Bullish medium-term |
 
 ---
 
-## 10. Short-Side Setups (33 candidates)
+## 10. Short-Side Setups (31 candidates)
 
-### EP 9M Short (3) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| STM | 0.0% | -18.67% | $53.49 | $56.63 | unknown_negative (intraday_down) |
-| MBLY | 3.6% | -14.92% | $7.47 | $8.25 | unknown_negative (intraday_down) |
-| EVH | 70.8% | -16.62% | $4.64 | $5.40 | unknown_negative (intraday_down) |
+| MXL | 157.2% | -21.54% | $71.59 | $87.55 | unknown_negative (intraday_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

@@ -18,11 +18,11 @@ data_date: 2026-04-23
 > - **Breakouts:** 157 | **Breakdowns:** 496
 > - **Follow-through:** 3d=42.8% 5d=42.8% (OK)
 >
-> - Net Primary declining 5 days: +718 → +445 — breadth deteriorating
-> - Follow-through rate 33% — well below 50% threshold, breakouts failing
-> - Breakdowns surging: 496 vs 157 breakouts (BD > 1.5x BO) on latest day
-> - Intraday distribution: SPY and QQQ both closed near lows
-> - 20% study at 27 — very low, funds not buying aggressively
+> - Follow-through rate at 33% — breakouts failing badly, do not chase new entries
+> - Net Primary deteriorating from +718 to +445 over 5 days — institutional buying is fading
+> - Breakdowns surged to 496 vs 157 breakouts — selling pressure accelerating
+> - T2108 falling from 63% to 59% — breadth weakening
+> - Intraday distribution pattern — both SPY and QQQ closed near lows
 
 ---
 
@@ -262,7 +262,7 @@ Above 1.0 | Bullish medium-term |
 | 2 | IREN | 10 | 4 | 70 | core |
 | 3 | FCEL | 9 | 4 | 23 | expanded |
 | 4 | KEEL | 9 | 4 | 19 | expanded |
-| 5 | RIOT | 9 | 4 | 57 | core |
+| 5 | RIOT | 9 | 4 | 58 | core |
 | 6 | SATL | 9 | 4 | 21 | core |
 | 7 | USAR | 9 | 4 | 51 | core |
 | 8 | CLSK | 9 | 3 | 53 | core |
@@ -272,7 +272,7 @@ Above 1.0 | Bullish medium-term |
 | 12 | MU | 8 | 4 | 49 | core |
 | 13 | NBIS | 8 | 4 | 62 | core |
 | 14 | POET | 8 | 4 | 28 | expanded |
-| 15 | SMCI | 8 | 4 | 43 | expanded |
+| 15 | SMCI | 8 | 4 | 44 | expanded |
 | 16 | SPCE | 8 | 4 | 14 | expanded |
 | 17 | FIG | 8 | 3 | 28 | expanded |
 | 18 | INTC | 8 | 3 | 45 | core |
@@ -281,15 +281,13 @@ Above 1.0 | Bullish medium-term |
 
 ---
 
-## 10. Short-Side Setups (28 candidates)
+## 10. Short-Side Setups (26 candidates)
 
-### EP 9M Short (3) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| EVH | 73.5% | -16.62% | $4.64 | $5.40 | unknown_negative (intraday_down) |
-| TSLA | -12.0% | -14.52% | $319.69 | $341.86 | unknown_negative (gap_down) |
-| ACI | -26.2% | -21.64% | $11.44 | $12.50 | unknown_negative (gap_down) |
+| MXL | 155.7% | -21.54% | $71.59 | $87.55 | earnings_miss (intraday_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
