@@ -9,7 +9,7 @@ data_date: 2025-09-25
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **CAUTIOUS_BULL_HIGH** — Action: **REDUCE_SIZE**
+> [!caution] **CAUTIOUS_BULL_LOW** — Action: **REDUCE_SIZE**
 >
 > - **20% Study (bullish):** 34
 > - **20% Study (bearish):** 16
@@ -18,11 +18,11 @@ data_date: 2025-09-25
 > - **Breakouts:** 140 | **Breakdowns:** 277
 > - **Follow-through:** 3d=36.0% 5d=37.6% (OK)
 >
-> - Net Primary deteriorating from +976 to +697 over 5 days — bull is aging
-> - Follow-through rate at 34% — breakouts failing, do NOT buy standard breakouts
-> - Leading sector is SIL (silver miners) — rotation trap, not tech/AI leaders leading
-> - T2108 falling from 54.3% to 46.4% — breadth weakening
-> - Breakdowns surging to 277 on latest day vs 155 prior day — watch for sustained distribution
+> - Net Primary deteriorating from +976 to +697 — bull is aging
+> - Follow-through rate at 34% — breakouts failing, do not buy aggressively
+> - Leading sectors are beaten-down old economy (silver/gold miners) — rotation trap, not growth-led
+> - T2108 falling from 54% to 46% — breadth weakening
+> - Today's breakdowns (277) exceed breakouts (140) by nearly 2x — selling pressure accelerating
 
 ---
 
@@ -276,22 +276,22 @@ RS_20d: 12.45 | RS_65d: 5.28
 | 2 | IREN | 10 | 4 | 70 | expanded |
 | 3 | RGTI | 9 | 5 | 62 | expanded |
 | 4 | SATL | 9 | 5 | 21 | expanded |
-| 5 | FCEL | 9 | 4 | 23 | expanded |
-| 6 | IONQ | 9 | 4 | 53 | core |
-| 7 | KEEL | 9 | 4 | 19 | expanded |
-| 8 | RIOT | 9 | 4 | 58 | expanded |
-| 9 | USAR | 9 | 4 | 51 | expanded |
-| 10 | CLSK | 9 | 3 | 53 | expanded |
-| 11 | NVTS | 9 | 3 | 51 | core |
-| 12 | AMD | 8 | 4 | 45 | expanded |
-| 13 | APLD | 8 | 4 | 57 | core |
-| 14 | MU | 8 | 4 | 49 | expanded |
-| 15 | NBIS | 8 | 4 | 62 | core |
-| 16 | POET | 8 | 4 | 28 | expanded |
-| 17 | SMCI | 8 | 4 | 44 | expanded |
-| 18 | SPCE | 8 | 4 | 14 | expanded |
-| 19 | FIG | 8 | 3 | 28 | expanded |
-| 20 | INTC | 8 | 3 | 45 | expanded |
+| 5 | SBET | 9 | 5 | 38 | expanded |
+| 6 | FCEL | 9 | 4 | 23 | expanded |
+| 7 | IONQ | 9 | 4 | 53 | core |
+| 8 | KEEL | 9 | 4 | 19 | expanded |
+| 9 | RIOT | 9 | 4 | 58 | expanded |
+| 10 | USAR | 9 | 4 | 51 | expanded |
+| 11 | CLSK | 9 | 3 | 53 | expanded |
+| 12 | NVTS | 9 | 3 | 51 | expanded |
+| 13 | AMD | 8 | 4 | 45 | expanded |
+| 14 | APLD | 8 | 4 | 57 | core |
+| 15 | MU | 8 | 4 | 49 | expanded |
+| 16 | NBIS | 8 | 4 | 62 | core |
+| 17 | POET | 8 | 4 | 28 | expanded |
+| 18 | SMCI | 8 | 4 | 44 | expanded |
+| 19 | SPCE | 8 | 4 | 14 | expanded |
+| 20 | CIFR | 8 | 3 | 52 | expanded |
 
 ---
 
@@ -301,7 +301,7 @@ RS_20d: 12.45 | RS_65d: 5.28
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -5.9% | -67.51% | $6.40 | $7.31 | unknown_negative (gap_down) |
+| CAPR | -5.9% | -67.06% | $6.49 | $7.31 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
@@ -331,7 +331,7 @@ RS_20d: 12.45 | RS_65d: 5.28
 | ZYBT | expanded | XLV | -76.3% | SB in weakening sector XLV (RS_20d=-1.17), down 76% from peak |
 | ASST | expanded | XLF | -69.1% | SB in weakening sector XLF (RS_20d=-0.33), down 69% from peak |
 | BIAF | expanded | XLV | -67.6% | SB in weakening sector XLV (RS_20d=-1.17), down 68% from peak |
-| MSPR | expanded | XLV | -59.3% | SB in weakening sector XLV (RS_20d=-1.17), down 59% from peak |
+| AEMD | expanded | XLV | -64.8% | SB in weakening sector XLV (RS_20d=-1.17), down 65% from peak |
 
 ### Bearish Reversal (5) — 3:58 PM exhaustion
 

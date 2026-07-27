@@ -18,11 +18,11 @@ data_date: 2025-12-18
 > - **Breakouts:** 227 | **Breakdowns:** 148
 > - **Follow-through:** 3d=24.8% 5d=26.4% (FAILING)
 >
-> - Net Primary trend deteriorating sharply: +239 to -13 in 5 days
-> - Follow-through rate at 32% — breakouts failing badly, no new aggressive entries
-> - Rotation trap: SIL/silver miners leading, not growth/semis/AI — breadth may be misleading
-> - 20% study bearish: 34 stocks down 20%+ vs 16 up 20%+ — distribution signs
-> - 5-day BO/BD ratio ~0.44, well below 0.8 threshold — breakouts unlikely to work
+> - Net Primary deteriorating from +239 to -13 — bull dying, funds pulling back
+> - Follow-through rate at 32% — breakouts failing, do not chase new entries
+> - Leading sector is SIL (silver miners) — defensive/old economy rotation, not growth leadership; potential rotation trap
+> - T2108 falling from 55.4% to 50.3% — breadth weakening though still in normal range
+> - Rally 19 days mature — easy breakouts already happened
 
 ---
 
@@ -272,22 +272,22 @@ RS_20d: 9.47 | RS_65d: 10.42
 | 2 | IREN | 10 | 4 | 70 | expanded |
 | 3 | RGTI | 9 | 5 | 62 | expanded |
 | 4 | SATL | 9 | 5 | 21 | expanded |
-| 5 | FCEL | 9 | 4 | 23 | expanded |
-| 6 | IONQ | 9 | 4 | 53 | core |
-| 7 | KEEL | 9 | 4 | 19 | expanded |
-| 8 | RIOT | 9 | 4 | 58 | expanded |
-| 9 | USAR | 9 | 4 | 51 | expanded |
-| 10 | CLSK | 9 | 3 | 53 | expanded |
-| 11 | NVTS | 9 | 3 | 51 | core |
-| 12 | AMD | 8 | 4 | 45 | expanded |
-| 13 | APLD | 8 | 4 | 57 | core |
-| 14 | MU | 8 | 4 | 49 | expanded |
-| 15 | NBIS | 8 | 4 | 62 | core |
-| 16 | POET | 8 | 4 | 28 | expanded |
-| 17 | SMCI | 8 | 4 | 44 | expanded |
-| 18 | SPCE | 8 | 4 | 14 | expanded |
-| 19 | FIG | 8 | 3 | 28 | expanded |
-| 20 | INTC | 8 | 3 | 45 | expanded |
+| 5 | SBET | 9 | 5 | 38 | expanded |
+| 6 | FCEL | 9 | 4 | 23 | expanded |
+| 7 | IONQ | 9 | 4 | 53 | core |
+| 8 | KEEL | 9 | 4 | 19 | expanded |
+| 9 | RIOT | 9 | 4 | 58 | expanded |
+| 10 | USAR | 9 | 4 | 51 | expanded |
+| 11 | CLSK | 9 | 3 | 53 | expanded |
+| 12 | NVTS | 9 | 3 | 51 | expanded |
+| 13 | AMD | 8 | 4 | 45 | expanded |
+| 14 | APLD | 8 | 4 | 57 | core |
+| 15 | MU | 8 | 4 | 49 | expanded |
+| 16 | NBIS | 8 | 4 | 62 | core |
+| 17 | POET | 8 | 4 | 28 | expanded |
+| 18 | SMCI | 8 | 4 | 44 | expanded |
+| 19 | SPCE | 8 | 4 | 14 | expanded |
+| 20 | CIFR | 8 | 3 | 52 | expanded |
 
 ---
 
@@ -297,7 +297,7 @@ RS_20d: 9.47 | RS_65d: 10.42
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -77.7% | -67.11% | $6.48 | $7.31 | unknown_negative (gap_down) |
+| CAPR | -77.7% | -65.71% | $6.75 | $7.31 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
@@ -325,9 +325,9 @@ RS_20d: 9.47 | RS_65d: 10.42
 |--------|---------|-----------|-------------------|-------|
 | PAVS | expanded | XLV | -97.7% | SB in weakening sector XLV (RS_20d=0.50), down 98% from peak |
 | CHOW | expanded | XLK | -92.3% | SB in weakening sector XLK (RS_20d=0.36), down 92% from peak |
+| MENS | expanded | XBI | -91.3% | SB in weakening sector XBI (RS_20d=2.30), down 91% from peak |
 | INHD | expanded | XLK | -91.1% | SB in weakening sector XLK (RS_20d=0.36), down 91% from peak |
 | ASNS | expanded | XLK | -85.4% | SB in weakening sector XLK (RS_20d=0.36), down 85% from peak |
-| RZLT | expanded | XBI | -83.1% | SB in weakening sector XBI (RS_20d=2.30), down 83% from peak |
 
 ### Bearish Reversal (5) — 3:58 PM exhaustion
 

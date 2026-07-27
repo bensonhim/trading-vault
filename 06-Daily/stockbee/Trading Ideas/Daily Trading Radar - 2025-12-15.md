@@ -9,7 +9,7 @@ data_date: 2025-12-12
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **CAUTIOUS_BULL_LOW** — Action: **REDUCE_SIZE**
+> [!caution] **CAUTIOUS_BULL_HIGH** — Action: **REDUCE_SIZE**
 >
 > - **20% Study (bullish):** 0
 > - **20% Study (bearish):** 0
@@ -18,11 +18,11 @@ data_date: 2025-12-12
 > - **Breakouts:** 132 | **Breakdowns:** 395
 > - **Follow-through:** 3d=37.3% 5d=41.7% (OK)
 >
-> - Follow-through rate 48% — breakouts failing, reduce size
-> - Breakdowns surging (395 today vs 190 yesterday) — selling pressure accelerating
-> - Net Primary deteriorated today from +411 to +239 — bull losing momentum
-> - Rotation trap: SIL/GDX (defensive/old economy) leading, no semis/AI/tech in top 5
-> - Rally mature at 15 days — easy breakouts already happened
+> - Follow-through rate at 48% — breakouts failing, reduce size per Pradeep's framework
+> - Today's breakdown surge (395) vs breakouts (132) — BD > 1.5x BO, selling pressure spike
+> - Net Primary dropped from +411 to +239 today — one-day deterioration, watch if trend continues
+> - Leading sector is SIL (silver miners/old economy) — potential rotation trap, not growth leaders
+> - SPY and QQQ both closed near lows — intraday distribution pattern
 
 ---
 
@@ -245,22 +245,22 @@ RS_20d: 13.17 | RS_65d: 7.12
 | 2 | IREN | 10 | 4 | 70 | expanded |
 | 3 | RGTI | 9 | 5 | 62 | expanded |
 | 4 | SATL | 9 | 5 | 21 | expanded |
-| 5 | FCEL | 9 | 4 | 23 | expanded |
-| 6 | IONQ | 9 | 4 | 53 | core |
-| 7 | KEEL | 9 | 4 | 19 | expanded |
-| 8 | RIOT | 9 | 4 | 58 | expanded |
-| 9 | USAR | 9 | 4 | 51 | expanded |
-| 10 | CLSK | 9 | 3 | 53 | expanded |
-| 11 | NVTS | 9 | 3 | 51 | core |
-| 12 | AMD | 8 | 4 | 45 | expanded |
-| 13 | APLD | 8 | 4 | 57 | core |
-| 14 | MU | 8 | 4 | 49 | expanded |
-| 15 | NBIS | 8 | 4 | 62 | core |
-| 16 | POET | 8 | 4 | 28 | expanded |
-| 17 | SMCI | 8 | 4 | 44 | expanded |
-| 18 | SPCE | 8 | 4 | 14 | expanded |
-| 19 | FIG | 8 | 3 | 28 | expanded |
-| 20 | INTC | 8 | 3 | 45 | expanded |
+| 5 | SBET | 9 | 5 | 38 | expanded |
+| 6 | FCEL | 9 | 4 | 23 | expanded |
+| 7 | IONQ | 9 | 4 | 53 | core |
+| 8 | KEEL | 9 | 4 | 19 | expanded |
+| 9 | RIOT | 9 | 4 | 58 | expanded |
+| 10 | USAR | 9 | 4 | 51 | expanded |
+| 11 | CLSK | 9 | 3 | 53 | expanded |
+| 12 | NVTS | 9 | 3 | 51 | expanded |
+| 13 | AMD | 8 | 4 | 45 | expanded |
+| 14 | APLD | 8 | 4 | 57 | core |
+| 15 | MU | 8 | 4 | 49 | expanded |
+| 16 | NBIS | 8 | 4 | 62 | core |
+| 17 | POET | 8 | 4 | 28 | expanded |
+| 18 | SMCI | 8 | 4 | 44 | expanded |
+| 19 | SPCE | 8 | 4 | 14 | expanded |
+| 20 | CRWV | 8 | 3 | 60 | core |
 
 ---
 
@@ -270,7 +270,7 @@ RS_20d: 13.17 | RS_65d: 7.12
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -78.6% | -67.41% | $6.42 | $7.31 | unknown_negative (gap_down) |
+| CAPR | -78.6% | -67.51% | $6.40 | $7.31 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

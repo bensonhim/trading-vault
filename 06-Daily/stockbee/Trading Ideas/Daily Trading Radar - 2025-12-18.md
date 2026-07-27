@@ -9,7 +9,7 @@ data_date: 2025-12-17
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **CAUTIOUS_BULL_LOW** — Action: **REDUCE_SIZE**
+> [!warning] **DISTRIBUTING** — Action: **NO_NEW_LONGS**
 >
 > - **20% Study (bullish):** 9
 > - **20% Study (bearish):** 94
@@ -18,11 +18,11 @@ data_date: 2025-12-17
 > - **Breakouts:** 115 | **Breakdowns:** 417
 > - **Follow-through:** 3d=29.0% 5d=33.3% (FAILING)
 >
-> - Net Primary deteriorating from +411 to -60 over 5 days — distribution accelerating
-> - Follow-through at 31% — breakouts failing, reduce size
-> - 20% study extremely bearish: 9 up vs 94 down 20%+ — no buying binge
-> - Defensive sector leadership (SIL, GDX, UFO) — rotation trap, institutions derisking
-> - Rally mature at 18 days — easy breakouts already happened
+> - Net Primary deteriorated from +411 to -60 over 5 days — crossed negative
+> - Breakdowns dominating at 3.6x breakouts (417 vs 115)
+> - Follow-through rate at 31% — well below 50% caution threshold
+> - Rotation trap: SIL and GDX (defensive/old economy) leading while market deteriorates
+> - T2108 falling steadily from 57.2% to 49.7% — breadth weakening
 
 ---
 
@@ -261,22 +261,22 @@ RS_20d: 13.32 | RS_65d: 15.29
 | 2 | IREN | 10 | 4 | 70 | expanded |
 | 3 | RGTI | 9 | 5 | 62 | expanded |
 | 4 | SATL | 9 | 5 | 21 | expanded |
-| 5 | FCEL | 9 | 4 | 23 | expanded |
-| 6 | IONQ | 9 | 4 | 53 | core |
-| 7 | KEEL | 9 | 4 | 19 | expanded |
-| 8 | RIOT | 9 | 4 | 58 | expanded |
-| 9 | USAR | 9 | 4 | 51 | expanded |
-| 10 | CLSK | 9 | 3 | 53 | expanded |
-| 11 | NVTS | 9 | 3 | 51 | core |
-| 12 | AMD | 8 | 4 | 45 | expanded |
-| 13 | APLD | 8 | 4 | 57 | core |
-| 14 | MU | 8 | 4 | 49 | expanded |
-| 15 | NBIS | 8 | 4 | 62 | core |
-| 16 | POET | 8 | 4 | 28 | expanded |
-| 17 | SMCI | 8 | 4 | 44 | expanded |
-| 18 | SPCE | 8 | 4 | 14 | expanded |
-| 19 | FIG | 8 | 3 | 28 | expanded |
-| 20 | INTC | 8 | 3 | 45 | expanded |
+| 5 | SBET | 9 | 5 | 38 | expanded |
+| 6 | FCEL | 9 | 4 | 23 | expanded |
+| 7 | IONQ | 9 | 4 | 53 | core |
+| 8 | KEEL | 9 | 4 | 19 | expanded |
+| 9 | RIOT | 9 | 4 | 58 | expanded |
+| 10 | USAR | 9 | 4 | 51 | expanded |
+| 11 | CLSK | 9 | 3 | 53 | expanded |
+| 12 | NVTS | 9 | 3 | 51 | expanded |
+| 13 | AMD | 8 | 4 | 45 | expanded |
+| 14 | APLD | 8 | 4 | 57 | core |
+| 15 | MU | 8 | 4 | 49 | expanded |
+| 16 | NBIS | 8 | 4 | 62 | core |
+| 17 | POET | 8 | 4 | 28 | expanded |
+| 18 | SMCI | 8 | 4 | 44 | expanded |
+| 19 | SPCE | 8 | 4 | 14 | expanded |
+| 20 | CIFR | 8 | 3 | 52 | expanded |
 
 ---
 
@@ -286,7 +286,7 @@ RS_20d: 13.32 | RS_65d: 15.29
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -77.6% | -67.34% | $6.43 | $7.31 | unknown_negative (gap_down) |
+| CAPR | -77.6% | -66.09% | $6.68 | $7.31 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
@@ -313,10 +313,10 @@ RS_20d: 13.32 | RS_65d: 15.29
 | Ticker | SB Tier | Sector ETF | Decline from Peak | Notes |
 |--------|---------|-----------|-------------------|-------|
 | PAVS | expanded | XLV | -98.1% | SB in weakening sector XLV (RS_20d=0.46), down 98% from peak |
+| MENS | expanded | XBI | -92.4% | SB in weakening sector XBI (RS_20d=2.92), down 92% from peak |
 | CHOW | expanded | XLK | -91.2% | SB in weakening sector XLK (RS_20d=-0.05), down 91% from peak |
 | INHD | expanded | XLK | -90.6% | SB in weakening sector XLK (RS_20d=-0.05), down 91% from peak |
 | RZLT | expanded | XBI | -81.6% | SB in weakening sector XBI (RS_20d=2.92), down 82% from peak |
-| CMND | expanded | XBI | -79.8% | SB in weakening sector XBI (RS_20d=2.92), down 80% from peak |
 
 ### Momentum Inversion (5) — former leaders rolling over
 

@@ -19,10 +19,10 @@ data_date: 2025-09-24
 > - **Follow-through:** 3d=39.0% 5d=39.0% (OK)
 >
 > - Follow-through rate 36% — breakouts failing, reduce size and tighten stops
-> - Leading sector is SIL (silver miners), not growth/tech — rotation trap risk; good breadth from beaten-down names while true leaders may be distributing
-> - Net Primary deteriorating from +1029 to +873 over 5 days — bull is aging, watch for further decline below +500
-> - T2108 falling from 59.8% to 52.3% — breadth weakening but still in healthy range
-> - SPY closing near lows recently — mild intraday distribution pattern emerging
+> - Net Primary deteriorating from +1029 to +873 over 5 days — bull is aging
+> - T2108 falling from 59.8% to 52.3% — breadth weakening
+> - Leading sector is SIL (silver miners) — rotation trap pattern, not growth leaders
+> - SPY and QQQ both closed near low on latest day — mild intraday distribution signal
 
 ---
 
@@ -252,22 +252,22 @@ RS_20d: 8.35 | RS_65d: 3.91
 | 2 | IREN | 10 | 4 | 70 | expanded |
 | 3 | RGTI | 9 | 5 | 62 | expanded |
 | 4 | SATL | 9 | 5 | 21 | expanded |
-| 5 | FCEL | 9 | 4 | 23 | expanded |
-| 6 | IONQ | 9 | 4 | 53 | core |
-| 7 | KEEL | 9 | 4 | 19 | expanded |
-| 8 | RIOT | 9 | 4 | 58 | expanded |
-| 9 | USAR | 9 | 4 | 51 | expanded |
-| 10 | CLSK | 9 | 3 | 53 | expanded |
-| 11 | NVTS | 9 | 3 | 51 | core |
-| 12 | AMD | 8 | 4 | 45 | expanded |
-| 13 | APLD | 8 | 4 | 57 | core |
-| 14 | MU | 8 | 4 | 49 | expanded |
-| 15 | NBIS | 8 | 4 | 62 | core |
-| 16 | POET | 8 | 4 | 28 | expanded |
-| 17 | SMCI | 8 | 4 | 44 | expanded |
-| 18 | SPCE | 8 | 4 | 14 | expanded |
-| 19 | FIG | 8 | 3 | 28 | expanded |
-| 20 | INTC | 8 | 3 | 45 | expanded |
+| 5 | SBET | 9 | 5 | 38 | expanded |
+| 6 | FCEL | 9 | 4 | 23 | expanded |
+| 7 | IONQ | 9 | 4 | 53 | core |
+| 8 | KEEL | 9 | 4 | 19 | expanded |
+| 9 | RIOT | 9 | 4 | 58 | expanded |
+| 10 | USAR | 9 | 4 | 51 | expanded |
+| 11 | CLSK | 9 | 3 | 53 | expanded |
+| 12 | NVTS | 9 | 3 | 51 | expanded |
+| 13 | AMD | 8 | 4 | 45 | expanded |
+| 14 | APLD | 8 | 4 | 57 | core |
+| 15 | MU | 8 | 4 | 49 | expanded |
+| 16 | NBIS | 8 | 4 | 62 | core |
+| 17 | POET | 8 | 4 | 28 | expanded |
+| 18 | SMCI | 8 | 4 | 44 | expanded |
+| 19 | SPCE | 8 | 4 | 14 | expanded |
+| 20 | CIFR | 8 | 3 | 52 | expanded |
 
 ---
 
@@ -277,7 +277,7 @@ RS_20d: 8.35 | RS_65d: 3.91
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -5.3% | -67.41% | $6.42 | $7.31 | unknown_negative (gap_down) |
+| CAPR | -5.3% | -67.44% | $6.42 | $7.31 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

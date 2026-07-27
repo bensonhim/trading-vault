@@ -18,11 +18,11 @@ data_date: 2025-09-23
 > - **Breakouts:** 200 | **Breakdowns:** 163
 > - **Follow-through:** 3d=38.3% 5d=41.0% (OK)
 >
-> - Follow-through rate at 33% — breakouts failing, reduce size and tighten stops
-> - Leading sector is SIL (silver miners) — old economy, not aggressive growth (semis/AI/tech). Potential rotation trap
-> - T2108 falling from 59.8% to 54.3% over 5 days — breadth deteriorating despite positive Net Primary
-> - 20% study at 59 entering caution territory — buying binge may be peaking
-> - SPY and QQQ closing near intraday lows — mild distribution pattern
+> - Follow-through rate 33% — breakouts failing, reduce size and tighten stops
+> - Leading sector is SIL (silver miners) — old economy rotation, not growth leaders; potential rotation trap
+> - Breakdown trend worsening (73→337→163 over last 3 sessions)
+> - SPY and QQQ closing near lows — intraday distribution pattern
+> - T2108 falling from 59.8% to 54.3% — slight deterioration
 
 ---
 
@@ -317,16 +317,16 @@ RS_20d: 7.66 | RS_65d: 3.81
 | 8 | RIOT | 9 | 4 | 58 | expanded |
 | 9 | USAR | 9 | 4 | 51 | expanded |
 | 10 | CLSK | 9 | 3 | 53 | expanded |
-| 11 | NVTS | 9 | 3 | 51 | core |
+| 11 | NVTS | 9 | 3 | 51 | expanded |
 | 12 | AMD | 8 | 4 | 45 | expanded |
 | 13 | APLD | 8 | 4 | 57 | core |
 | 14 | MU | 8 | 4 | 49 | expanded |
 | 15 | NBIS | 8 | 4 | 62 | core |
 | 16 | POET | 8 | 4 | 28 | expanded |
-| 17 | SMCI | 8 | 4 | 44 | expanded |
-| 18 | SPCE | 8 | 4 | 14 | expanded |
-| 19 | FIG | 8 | 3 | 28 | expanded |
-| 20 | INTC | 8 | 3 | 45 | expanded |
+| 17 | SBET | 8 | 4 | 38 | expanded |
+| 18 | SMCI | 8 | 4 | 44 | expanded |
+| 19 | SPCE | 8 | 4 | 14 | expanded |
+| 20 | CRWV | 8 | 3 | 60 | core |
 
 ---
 
@@ -465,7 +465,7 @@ RS_20d: 7.66 | RS_65d: 3.81
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -4.3% | -67.44% | $6.42 | $7.31 | unknown_negative (gap_down) |
+| CAPR | -4.3% | -67.62% | $6.38 | $7.35 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
