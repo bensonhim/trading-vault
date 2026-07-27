@@ -279,142 +279,142 @@ For each bull trend, checked the 5 trading days **before** the bull trend starte
 
 For each period, checked the 30 calendar days **before** the period started. Compared equal-weight returns of defensive ETFs (XLP, XLU, XLV) vs cyclical ETFs (XLY, XLF, XLI, XLE, XLK, XLB, XLC). Only available for periods starting after 2024-12-04.
 
-| # | Type | Start | Defensive Ret | Cyclical Ret | Leading |
-|---|---|---|---|---|---|
-| 1 | correction | 2024-01-02 | — | — | No ETF data |
-| 2 | bull | 2024-01-17 | — | — | No ETF data |
-| 3 | correction | 2024-01-22 | — | — | No ETF data |
-| 4 | bull | 2024-01-24 | — | — | No ETF data |
-| 5 | correction | 2024-01-29 | — | — | No ETF data |
-| 6 | bull | 2024-01-31 | — | — | No ETF data |
-| 7 | correction | 2024-02-01 | — | — | No ETF data |
-| 8 | bull | 2024-02-05 | — | — | No ETF data |
-| 9 | correction | 2024-02-12 | — | — | No ETF data |
-| 10 | bull | 2024-02-13 | — | — | No ETF data |
-| 11 | correction | 2024-02-15 | — | — | No ETF data |
-| 12 | bull | 2024-02-20 | — | — | No ETF data |
-| 13 | correction | 2024-03-13 | — | — | No ETF data |
-| 14 | bull | 2024-03-14 | — | — | No ETF data |
-| 15 | correction | 2024-03-21 | — | — | No ETF data |
-| 16 | bull | 2024-03-25 | — | — | No ETF data |
-| 17 | correction | 2024-03-28 | — | — | No ETF data |
-| 18 | bull | 2024-04-04 | — | — | No ETF data |
-| 19 | correction | 2024-04-08 | — | — | No ETF data |
-| 20 | bull | 2024-04-17 | — | — | No ETF data |
-| 21 | correction | 2024-04-23 | — | — | No ETF data |
-| 22 | bull | 2024-04-25 | — | — | No ETF data |
-| 23 | correction | 2024-04-29 | — | — | No ETF data |
-| 24 | bull | 2024-04-30 | — | — | No ETF data |
-| 25 | correction | 2024-05-15 | — | — | No ETF data |
-| 26 | bull | 2024-05-22 | — | — | No ETF data |
-| 27 | correction | 2024-05-22 | — | — | No ETF data |
-| 28 | bull | 2024-05-29 | — | — | No ETF data |
-| 29 | correction | 2024-05-31 | — | — | No ETF data |
-| 30 | bull | 2024-06-04 | — | — | No ETF data |
-| 31 | correction | 2024-06-05 | — | — | No ETF data |
-| 32 | bull | 2024-06-11 | — | — | No ETF data |
-| 33 | correction | 2024-06-12 | — | — | No ETF data |
-| 34 | bull | 2024-06-14 | — | — | No ETF data |
-| 35 | correction | 2024-06-24 | — | — | No ETF data |
-| 36 | bull | 2024-07-01 | — | — | No ETF data |
-| 37 | correction | 2024-07-16 | — | — | No ETF data |
-| 38 | bull | 2024-07-18 | — | — | No ETF data |
-| 39 | correction | 2024-07-22 | — | — | No ETF data |
-| 40 | bull | 2024-07-24 | — | — | No ETF data |
-| 41 | correction | 2024-07-26 | — | — | No ETF data |
-| 42 | bull | 2024-08-05 | — | — | No ETF data |
-| 43 | correction | 2024-08-26 | — | — | No ETF data |
-| 44 | bull | 2024-09-03 | — | — | No ETF data |
-| 45 | correction | 2024-09-03 | — | — | No ETF data |
-| 46 | bull | 2024-09-06 | — | — | No ETF data |
-| 47 | correction | 2024-09-19 | — | — | No ETF data |
-| 48 | bull | 2024-09-20 | — | — | No ETF data |
-| 49 | correction | 2024-09-24 | — | — | No ETF data |
-| 50 | bull | 2024-09-25 | — | — | No ETF data |
-| 51 | correction | 2024-09-27 | — | — | No ETF data |
-| 52 | bull | 2024-10-10 | — | — | No ETF data |
-| 53 | correction | 2024-10-16 | — | — | No ETF data |
-| 54 | bull | 2024-10-31 | — | — | No ETF data |
-| 55 | correction | 2024-11-11 | — | — | No ETF data |
-| 56 | bull | 2024-11-13 | — | — | No ETF data |
-| 57 | correction | 2024-11-29 | — | — | No ETF data |
-| 58 | bull | 2024-12-05 | — | — | No ETF data |
-| 59 | correction | 2024-12-05 | — | — | No ETF data |
-| 60 | bull | 2024-12-18 | — | — | No ETF data |
-| 61 | correction | 2024-12-26 | — | — | No ETF data |
-| 62 | bull | 2024-12-30 | — | — | No ETF data |
-| 63 | correction | 2025-01-21 | +1.6% | +1.7% | 🔄 Cyclical |
-| 64 | bull | 2025-01-22 | +3.3% | +2.8% | 🛡️ Defensive |
-| 65 | correction | 2025-01-30 | +4.9% | +3.6% | 🛡️ Defensive |
-| 66 | bull | 2025-02-03 | +4.9% | +2.3% | 🛡️ Defensive |
-| 67 | correction | 2025-02-05 | +4.9% | +2.5% | 🛡️ Defensive |
-| 68 | bull | 2025-02-12 | +3.9% | +4.3% | 🔄 Cyclical |
-| 69 | correction | 2025-02-18 | +1.0% | +0.6% | 🛡️ Defensive |
-| 70 | bull | 2025-03-13 | -1.4% | -7.9% | 🛡️ Defensive |
-| 71 | correction | 2025-03-19 | +0.9% | -8.4% | 🛡️ Defensive |
-| 72 | bull | 2025-03-21 | +0.1% | -7.5% | 🛡️ Defensive |
-| 73 | correction | 2025-03-24 | -0.8% | -4.7% | 🛡️ Defensive |
-| 74 | bull | 2025-03-28 | -2.2% | -3.4% | 🛡️ Defensive |
-| 75 | correction | 2025-04-02 | -3.4% | -3.0% | 🔄 Cyclical |
-| 76 | bull | 2025-04-08 | -8.3% | -10.6% | 🛡️ Defensive |
-| 77 | correction | 2025-04-17 | -6.1% | -6.9% | 🛡️ Defensive |
-| 78 | bull | 2025-04-21 | -6.4% | -8.8% | 🛡️ Defensive |
-| 79 | correction | 2025-05-02 | -4.2% | -2.1% | 🔄 Cyclical |
-| 80 | bull | 2025-05-06 | +3.9% | +12.4% | 🔄 Cyclical |
-| 81 | correction | 2025-05-19 | +2.1% | +17.3% | 🔄 Cyclical |
-| 82 | bull | 2025-05-21 | +3.3% | +16.7% | 🔄 Cyclical |
-| 83 | correction | 2025-06-10 | -0.8% | +2.7% | 🔄 Cyclical |
-| 84 | bull | 2025-06-20 | +0.8% | +2.1% | 🔄 Cyclical |
-| 85 | correction | 2025-06-24 | -0.1% | +1.3% | 🔄 Cyclical |
-| 86 | bull | 2025-06-25 | +0.9% | +2.3% | 🔄 Cyclical |
-| 87 | correction | 2025-07-03 | +1.0% | +4.3% | 🔄 Cyclical |
-| 88 | bull | 2025-07-07 | +1.1% | +4.4% | 🔄 Cyclical |
-| 89 | correction | 2025-07-10 | +0.2% | +3.6% | 🔄 Cyclical |
-| 90 | bull | 2025-07-15 | +0.1% | +3.9% | 🔄 Cyclical |
-| 91 | correction | 2025-07-23 | +1.9% | +4.7% | 🔄 Cyclical |
-| 92 | bull | 2025-07-28 | +1.8% | +3.0% | 🔄 Cyclical |
-| 93 | correction | 2025-07-28 | +1.8% | +3.0% | 🔄 Cyclical |
-| 94 | bull | 2025-08-01 | -1.5% | +1.1% | 🔄 Cyclical |
-| 95 | correction | 2025-08-13 | -1.2% | +1.6% | 🔄 Cyclical |
-| 96 | bull | 2025-08-15 | +0.9% | +2.6% | 🔄 Cyclical |
-| 97 | correction | 2025-08-22 | +0.8% | -0.6% | 🛡️ Defensive |
-| 98 | bull | 2025-09-02 | +1.7% | +2.7% | 🔄 Cyclical |
-| 99 | correction | 2025-09-11 | +3.0% | +1.8% | 🛡️ Defensive |
-| 100 | bull | 2025-09-17 | +0.3% | +3.3% | 🔄 Cyclical |
-| 101 | correction | 2025-09-18 | -0.2% | +3.6% | 🔄 Cyclical |
-| 102 | bull | 2025-10-10 | +5.5% | +1.8% | 🛡️ Defensive |
-| 103 | correction | 2025-10-14 | +4.2% | -1.0% | 🛡️ Defensive |
-| 104 | bull | 2025-10-16 | +5.6% | -0.5% | 🛡️ Defensive |
-| 105 | correction | 2025-10-27 | +6.9% | +0.3% | 🛡️ Defensive |
-| 106 | bull | 2025-11-04 | +0.0% | +0.0% | 🔄 Cyclical |
-| 107 | correction | 2025-11-12 | +4.3% | +1.9% | 🛡️ Defensive |
-| 108 | bull | 2025-11-13 | +5.1% | +1.5% | 🛡️ Defensive |
-| 109 | correction | 2025-11-13 | +5.1% | +1.5% | 🛡️ Defensive |
-| 110 | bull | 2025-11-20 | +3.2% | -3.3% | 🛡️ Defensive |
-| 111 | correction | 2025-12-03 | +4.9% | -0.9% | 🛡️ Defensive |
-| 112 | bull | 2025-12-08 | +2.3% | +0.8% | 🛡️ Defensive |
-| 113 | correction | 2025-12-11 | -0.3% | +1.2% | 🔄 Cyclical |
-| 114 | bull | 2025-12-31 | -0.5% | +2.3% | 🔄 Cyclical |
-| 115 | correction | 2026-01-15 | +2.0% | +2.7% | 🔄 Cyclical |
-| 116 | bull | 2026-01-20 | +0.7% | +2.1% | 🔄 Cyclical |
-| 117 | correction | 2026-01-22 | +1.9% | +1.4% | 🛡️ Defensive |
-| 118 | bull | 2026-02-05 | -0.9% | +0.9% | 🔄 Cyclical |
-| 119 | correction | 2026-02-10 | -0.1% | +1.3% | 🔄 Cyclical |
-| 120 | bull | 2026-03-20 | -5.0% | -3.7% | 🔄 Cyclical |
-| 121 | correction | 2026-03-25 | -7.5% | -3.3% | 🔄 Cyclical |
-| 122 | bull | 2026-03-27 | -6.9% | -5.7% | 🔄 Cyclical |
-| 123 | correction | 2026-04-20 | +2.9% | +7.0% | 🔄 Cyclical |
-| 124 | bull | 2026-04-29 | +0.2% | +10.0% | 🔄 Cyclical |
-| 125 | correction | 2026-05-06 | -0.4% | +7.7% | 🔄 Cyclical |
-| 126 | bull | 2026-05-19 | -1.8% | +1.9% | 🔄 Cyclical |
-| 127 | correction | 2026-05-20 | -0.8% | +1.0% | 🔄 Cyclical |
-| 128 | bull | 2026-05-21 | +0.4% | +2.9% | 🔄 Cyclical |
-| 129 | correction | 2026-05-26 | +2.9% | +2.9% | 🛡️ Defensive |
-| 130 | bull | 2026-06-03 | -0.4% | +4.9% | 🔄 Cyclical |
-| 131 | correction | 2026-06-12 | +3.5% | +0.1% | 🛡️ Defensive |
-| 132 | bull | 2026-06-17 | +4.4% | +2.5% | 🛡️ Defensive |
-| 133 | correction | 2026-07-16 | +2.8% | -0.5% | 🛡️ Defensive |
-| 134 | bull | 2026-07-20 | +5.9% | -1.3% | 🛡️ Defensive |
+| #   | Type       | Start      | Defensive Ret | Cyclical Ret | Leading       |
+| --- | ---------- | ---------- | ------------- | ------------ | ------------- |
+| 1   | correction | 2024-01-02 | —             | —            | No ETF data   |
+| 2   | bull       | 2024-01-17 | —             | —            | No ETF data   |
+| 3   | correction | 2024-01-22 | —             | —            | No ETF data   |
+| 4   | bull       | 2024-01-24 | —             | —            | No ETF data   |
+| 5   | correction | 2024-01-29 | —             | —            | No ETF data   |
+| 6   | bull       | 2024-01-31 | —             | —            | No ETF data   |
+| 7   | correction | 2024-02-01 | —             | —            | No ETF data   |
+| 8   | bull       | 2024-02-05 | —             | —            | No ETF data   |
+| 9   | correction | 2024-02-12 | —             | —            | No ETF data   |
+| 10  | bull       | 2024-02-13 | —             | —            | No ETF data   |
+| 11  | correction | 2024-02-15 | —             | —            | No ETF data   |
+| 12  | bull       | 2024-02-20 | —             | —            | No ETF data   |
+| 13  | correction | 2024-03-13 | —             | —            | No ETF data   |
+| 14  | bull       | 2024-03-14 | —             | —            | No ETF data   |
+| 15  | correction | 2024-03-21 | —             | —            | No ETF data   |
+| 16  | bull       | 2024-03-25 | —             | —            | No ETF data   |
+| 17  | correction | 2024-03-28 | —             | —            | No ETF data   |
+| 18  | bull       | 2024-04-04 | —             | —            | No ETF data   |
+| 19  | correction | 2024-04-08 | —             | —            | No ETF data   |
+| 20  | bull       | 2024-04-17 | —             | —            | No ETF data   |
+| 21  | correction | 2024-04-23 | —             | —            | No ETF data   |
+| 22  | bull       | 2024-04-25 | —             | —            | No ETF data   |
+| 23  | correction | 2024-04-29 | —             | —            | No ETF data   |
+| 24  | bull       | 2024-04-30 | —             | —            | No ETF data   |
+| 25  | correction | 2024-05-15 | —             | —            | No ETF data   |
+| 26  | bull       | 2024-05-22 | —             | —            | No ETF data   |
+| 27  | correction | 2024-05-22 | —             | —            | No ETF data   |
+| 28  | bull       | 2024-05-29 | —             | —            | No ETF data   |
+| 29  | correction | 2024-05-31 | —             | —            | No ETF data   |
+| 30  | bull       | 2024-06-04 | —             | —            | No ETF data   |
+| 31  | correction | 2024-06-05 | —             | —            | No ETF data   |
+| 32  | bull       | 2024-06-11 | —             | —            | No ETF data   |
+| 33  | correction | 2024-06-12 | —             | —            | No ETF data   |
+| 34  | bull       | 2024-06-14 | —             | —            | No ETF data   |
+| 35  | correction | 2024-06-24 | —             | —            | No ETF data   |
+| 36  | bull       | 2024-07-01 | —             | —            | No ETF data   |
+| 37  | correction | 2024-07-16 | —             | —            | No ETF data   |
+| 38  | bull       | 2024-07-18 | —             | —            | No ETF data   |
+| 39  | correction | 2024-07-22 | —             | —            | No ETF data   |
+| 40  | bull       | 2024-07-24 | —             | —            | No ETF data   |
+| 41  | correction | 2024-07-26 | —             | —            | No ETF data   |
+| 42  | bull       | 2024-08-05 | —             | —            | No ETF data   |
+| 43  | correction | 2024-08-26 | —             | —            | No ETF data   |
+| 44  | bull       | 2024-09-03 | —             | —            | No ETF data   |
+| 45  | correction | 2024-09-03 | —             | —            | No ETF data   |
+| 46  | bull       | 2024-09-06 | —             | —            | No ETF data   |
+| 47  | correction | 2024-09-19 | —             | —            | No ETF data   |
+| 48  | bull       | 2024-09-20 | —             | —            | No ETF data   |
+| 49  | correction | 2024-09-24 | —             | —            | No ETF data   |
+| 50  | bull       | 2024-09-25 | —             | —            | No ETF data   |
+| 51  | correction | 2024-09-27 | —             | —            | No ETF data   |
+| 52  | bull       | 2024-10-10 | —             | —            | No ETF data   |
+| 53  | correction | 2024-10-16 | —             | —            | No ETF data   |
+| 54  | bull       | 2024-10-31 | —             | —            | No ETF data   |
+| 55  | correction | 2024-11-11 | —             | —            | No ETF data   |
+| 56  | bull       | 2024-11-13 | —             | —            | No ETF data   |
+| 57  | correction | 2024-11-29 | —             | —            | No ETF data   |
+| 58  | bull       | 2024-12-05 | —             | —            | No ETF data   |
+| 59  | correction | 2024-12-05 | —             | —            | No ETF data   |
+| 60  | bull       | 2024-12-18 | —             | —            | No ETF data   |
+| 61  | correction | 2024-12-26 | —             | —            | No ETF data   |
+| 62  | bull       | 2024-12-30 | —             | —            | No ETF data   |
+| 63  | correction | 2025-01-21 | +1.6%         | +1.7%        | 🔄 Cyclical   |
+| 64  | bull       | 2025-01-22 | +3.3%         | +2.8%        | 🛡️ Defensive |
+| 65  | correction | 2025-01-30 | +4.9%         | +3.6%        | 🛡️ Defensive |
+| 66  | bull       | 2025-02-03 | +4.9%         | +2.3%        | 🛡️ Defensive |
+| 67  | correction | 2025-02-05 | +4.9%         | +2.5%        | 🛡️ Defensive |
+| 68  | bull       | 2025-02-12 | +3.9%         | +4.3%        | 🔄 Cyclical   |
+| 69  | correction | 2025-02-18 | +1.0%         | +0.6%        | 🛡️ Defensive |
+| 70  | bull       | 2025-03-13 | -1.4%         | -7.9%        | 🛡️ Defensive |
+| 71  | correction | 2025-03-19 | +0.9%         | -8.4%        | 🛡️ Defensive |
+| 72  | bull       | 2025-03-21 | +0.1%         | -7.5%        | 🛡️ Defensive |
+| 73  | correction | 2025-03-24 | -0.8%         | -4.7%        | 🛡️ Defensive |
+| 74  | bull       | 2025-03-28 | -2.2%         | -3.4%        | 🛡️ Defensive |
+| 75  | correction | 2025-04-02 | -3.4%         | -3.0%        | 🔄 Cyclical   |
+| 76  | bull       | 2025-04-08 | -8.3%         | -10.6%       | 🛡️ Defensive |
+| 77  | correction | 2025-04-17 | -6.1%         | -6.9%        | 🛡️ Defensive |
+| 78  | bull       | 2025-04-21 | -6.4%         | -8.8%        | 🛡️ Defensive |
+| 79  | correction | 2025-05-02 | -4.2%         | -2.1%        | 🔄 Cyclical   |
+| 80  | bull       | 2025-05-06 | +3.9%         | +12.4%       | 🔄 Cyclical   |
+| 81  | correction | 2025-05-19 | +2.1%         | +17.3%       | 🔄 Cyclical   |
+| 82  | bull       | 2025-05-21 | +3.3%         | +16.7%       | 🔄 Cyclical   |
+| 83  | correction | 2025-06-10 | -0.8%         | +2.7%        | 🔄 Cyclical   |
+| 84  | bull       | 2025-06-20 | +0.8%         | +2.1%        | 🔄 Cyclical   |
+| 85  | correction | 2025-06-24 | -0.1%         | +1.3%        | 🔄 Cyclical   |
+| 86  | bull       | 2025-06-25 | +0.9%         | +2.3%        | 🔄 Cyclical   |
+| 87  | correction | 2025-07-03 | +1.0%         | +4.3%        | 🔄 Cyclical   |
+| 88  | bull       | 2025-07-07 | +1.1%         | +4.4%        | 🔄 Cyclical   |
+| 89  | correction | 2025-07-10 | +0.2%         | +3.6%        | 🔄 Cyclical   |
+| 90  | bull       | 2025-07-15 | +0.1%         | +3.9%        | 🔄 Cyclical   |
+| 91  | correction | 2025-07-23 | +1.9%         | +4.7%        | 🔄 Cyclical   |
+| 92  | bull       | 2025-07-28 | +1.8%         | +3.0%        | 🔄 Cyclical   |
+| 93  | correction | 2025-07-28 | +1.8%         | +3.0%        | 🔄 Cyclical   |
+| 94  | bull       | 2025-08-01 | -1.5%         | +1.1%        | 🔄 Cyclical   |
+| 95  | correction | 2025-08-13 | -1.2%         | +1.6%        | 🔄 Cyclical   |
+| 96  | bull       | 2025-08-15 | +0.9%         | +2.6%        | 🔄 Cyclical   |
+| 97  | correction | 2025-08-22 | +0.8%         | -0.6%        | 🛡️ Defensive |
+| 98  | bull       | 2025-09-02 | +1.7%         | +2.7%        | 🔄 Cyclical   |
+| 99  | correction | 2025-09-11 | +3.0%         | +1.8%        | 🛡️ Defensive |
+| 100 | bull       | 2025-09-17 | +0.3%         | +3.3%        | 🔄 Cyclical   |
+| 101 | correction | 2025-09-18 | -0.2%         | +3.6%        | 🔄 Cyclical   |
+| 102 | bull       | 2025-10-10 | +5.5%         | +1.8%        | 🛡️ Defensive |
+| 103 | correction | 2025-10-14 | +4.2%         | -1.0%        | 🛡️ Defensive |
+| 104 | bull       | 2025-10-16 | +5.6%         | -0.5%        | 🛡️ Defensive |
+| 105 | correction | 2025-10-27 | +6.9%         | +0.3%        | 🛡️ Defensive |
+| 106 | bull       | 2025-11-04 | +0.0%         | +0.0%        | 🔄 Cyclical   |
+| 107 | correction | 2025-11-12 | +4.3%         | +1.9%        | 🛡️ Defensive |
+| 108 | bull       | 2025-11-13 | +5.1%         | +1.5%        | 🛡️ Defensive |
+| 109 | correction | 2025-11-13 | +5.1%         | +1.5%        | 🛡️ Defensive |
+| 110 | bull       | 2025-11-20 | +3.2%         | -3.3%        | 🛡️ Defensive |
+| 111 | correction | 2025-12-03 | +4.9%         | -0.9%        | 🛡️ Defensive |
+| 112 | bull       | 2025-12-08 | +2.3%         | +0.8%        | 🛡️ Defensive |
+| 113 | correction | 2025-12-11 | -0.3%         | +1.2%        | 🔄 Cyclical   |
+| 114 | bull       | 2025-12-31 | -0.5%         | +2.3%        | 🔄 Cyclical   |
+| 115 | correction | 2026-01-15 | +2.0%         | +2.7%        | 🔄 Cyclical   |
+| 116 | bull       | 2026-01-20 | +0.7%         | +2.1%        | 🔄 Cyclical   |
+| 117 | correction | 2026-01-22 | +1.9%         | +1.4%        | 🛡️ Defensive |
+| 118 | bull       | 2026-02-05 | -0.9%         | +0.9%        | 🔄 Cyclical   |
+| 119 | correction | 2026-02-10 | -0.1%         | +1.3%        | 🔄 Cyclical   |
+| 120 | bull       | 2026-03-20 | -5.0%         | -3.7%        | 🔄 Cyclical   |
+| 121 | correction | 2026-03-25 | -7.5%         | -3.3%        | 🔄 Cyclical   |
+| 122 | bull       | 2026-03-27 | -6.9%         | -5.7%        | 🔄 Cyclical   |
+| 123 | correction | 2026-04-20 | +2.9%         | +7.0%        | 🔄 Cyclical   |
+| 124 | bull       | 2026-04-29 | +0.2%         | +10.0%       | 🔄 Cyclical   |
+| 125 | correction | 2026-05-06 | -0.4%         | +7.7%        | 🔄 Cyclical   |
+| 126 | bull       | 2026-05-19 | -1.8%         | +1.9%        | 🔄 Cyclical   |
+| 127 | correction | 2026-05-20 | -0.8%         | +1.0%        | 🔄 Cyclical   |
+| 128 | bull       | 2026-05-21 | +0.4%         | +2.9%        | 🔄 Cyclical   |
+| 129 | correction | 2026-05-26 | +2.9%         | +2.9%        | 🛡️ Defensive |
+| 130 | bull       | 2026-06-03 | -0.4%         | +4.9%        | 🔄 Cyclical   |
+| 131 | correction | 2026-06-12 | +3.5%         | +0.1%        | 🛡️ Defensive |
+| 132 | bull       | 2026-06-17 | +4.4%         | +2.5%        | 🛡️ Defensive |
+| 133 | correction | 2026-07-16 | +2.8%         | -0.5%        | 🛡️ Defensive |
+| 134 | bull       | 2026-07-20 | +5.9%         | -1.3%        | 🛡️ Defensive |
 
 ## Detailed Period Breakdown
 
