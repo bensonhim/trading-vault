@@ -18,11 +18,11 @@ data_date: 2026-07-23
 > - **Breakouts:** 138 | **Breakdowns:** 325
 > - **Follow-through:** 3d=33.1% 5d=32.6% (OK)
 >
-> - Net Primary turned negative (-154) and deteriorating over 5 days
-> - T2108 falling steadily from 53.5% to 47.2%
-> - Breakdowns sustained above 240 for 2 consecutive days — not a one-day spike
-> - Follow-through rate collapsed to 26% — breakouts failing aggressively
-> - 20% study at 24 is very low — funds are not buying aggressively
+> - Net Primary deteriorating 5-day trend (+44 to -154) — funds pulling back
+> - Follow-through rate 41% — well below 50% threshold, breakouts failing
+> - Breakdowns exceeding breakouts on 4 of 5 days — sustained selling pressure
+> - 07-21 breakout day (473 BO) was a bull trap — only 41% followed through
+> - T2108 falling from 53.5% to 47.2% — breadth weakening
 
 ---
 
