@@ -18,11 +18,11 @@ data_date: 2026-04-02
 > - **Breakouts:** 240 | **Breakdowns:** 92
 > - **Follow-through:** 3d=30.7% 5d=30.7% (OK)
 >
-> - Net primary still negative (-363) — bull not confirmed yet
-> - Rally is 9 days mature — easy breakouts already happened on 03-31
-> - Follow-through at 63% is mixed — breakouts working but not strongly
-> - 03-31 was 'yesterday was the day' — 885 breakouts, subsequent days show declining momentum
-> - LLM: Market is recovering from near-capitulation levels (T2108 was 19.2% on 03-27, now rising to 27.5%) with net primary improving sharply from -880 to -363 over 5 days. The 03-31 massive breakout day (885 BO vs 83 BD) triggered a washout bounce, but net primary is still negative and follow-through at 63% is only adequate. This is a bounce-in-progress that needs confirmation via net primary turning positive before getting aggressive.
+> - Net Primary still negative (-363) — bull not confirmed, washout bounce only
+> - Intraday distribution pattern on both SPY and QQQ — institutions may be distributing into strength
+> - Rally is mature (9 days) — easy breakouts already happened
+> - T2108 at 27.5% is in weak bounce zone — sustained recovery above 30% needed for confirmation
+> - If Net Primary rolls over from -363 back toward -500+, this bounce has failed
 
 ---
 

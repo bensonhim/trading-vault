@@ -9,7 +9,7 @@ data_date: 2026-05-01
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!tip] **FULL_BULL** — Action: **FULL_LONG**
+> [!caution] **CAUTIOUS_BULL_HIGH** — Action: **REDUCE_SIZE**
 >
 > - **20% Study (bullish):** 0
 > - **20% Study (bearish):** 0
@@ -18,11 +18,11 @@ data_date: 2026-05-01
 > - **Breakouts:** 342 | **Breakdowns:** 122
 > - **Follow-through:** 3d=36.0% 5d=31.7% (OK)
 >
-> - Follow-through rate at 53% is in caution zone — breakouts are working but not decisively; tighten stops on new entries
-> - Intraday distribution pattern (SPY/QQQ closed near lows) — watch for follow-through failure tomorrow before adding aggressively
-> - Rally is mature at 21 days since low — easy breakouts have already happened, be selective with A+ setups only
-> - 20% study at 0 is lagging — monitor for catch-up confirmation in coming days
-> - LLM: Net Primary at +585 and sharply improving from +215 two days ago — this is unambiguously FULL_BULL territory per Pradeep's framework. T2108 at 59.2% is in the healthy bull range, breakouts are dominating breakdowns 342 to 122, and the one-day breakdown spike on 04-29 (409 BD) was profit-taking, not distribution, as Net Primary immediately recovered. The 20% study at 0 is a lagging indicator — funds are buying (Net Primary proves it) and the 20% study will catch up in 3-5 days; do NOT downgrade based on a lagging signal.
+> - Follow-through rate at 53% — breakouts struggling to sustain momentum (caution zone, not bearish)
+> - SPY and QQQ both closed near intraday lows — possible intraday distribution pattern
+> - Rally is 21 days mature — easy breakouts have already happened, expect lower hit rate on new entries
+> - 20% study at 0 is lagging — buying binge hasn't surfaced in 5-day window yet but Net Primary confirms funds are buying
+> - LLM: Net Primary surged to +585 and is improving over 5 days (489→585), confirming institutional buying with T2108 in a healthy 59% range. However, follow-through rate at 53% is mediocre (below the 70% healthy threshold), and both SPY/QQQ closed near their intraday lows suggesting some intraday distribution. The 20% study at 0 is lagging and should not suppress longs given the strong Net Primary trend.
 
 ---
 

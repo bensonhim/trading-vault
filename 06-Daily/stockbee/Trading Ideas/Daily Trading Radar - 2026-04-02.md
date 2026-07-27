@@ -18,11 +18,11 @@ data_date: 2026-04-01
 > - **Breakouts:** 298 | **Breakdowns:** 160
 > - **Follow-through:** 3d=31.6% 5d=29.6% (FAILING)
 >
-> - Net Primary still negative — not yet confirmed bullish, needs to turn positive
-> - T2108 at 25.2% is in washout bounce zone — bounces here can fail if breadth doesn't continue improving
-> - Rally is 8 days mature — easy breakouts may have already happened
-> - SPY and QQQ both closed near lows intraday — possible intraday distribution pattern
-> - Watch for Net Primary to cross above 0 to confirm regime shift from RANGE_BOUND to CAUTIOUS_BULL
+> - Net Primary still negative at -413 — bounce not yet confirmed as sustainable uptrend
+> - Rally is 8 days mature — easy breakouts already happened on 3/31, today is NOT the day for aggressive buying
+> - SPY and QQQ both closed near lows intraday — possible intraday distribution on 4/01
+> - T2108 at 25.2% is in washout bounce zone — can still fail back into bearish territory if Net Primary rolls over
+> - 3/31 was 'the day' — 885 breakouts in one day means the explosive move already happened
 
 ---
 

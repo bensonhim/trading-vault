@@ -18,11 +18,11 @@ data_date: 2026-04-06
 > - **Breakouts:** 248 | **Breakdowns:** 122
 > - **Follow-through:** 3d=27.7% 5d=26.3% (FAILING)
 >
-> - Net Primary still negative at -300 — not yet a confirmed bull regime
-> - Rally mature at 10 days off low — easy breakouts already happened
-> - 20% study at 87 confirms buying binge occurred but is elevated — caution territory
-> - SPY and QQQ both closed near lows intraday — possible intraday distribution pattern
-> - Breakout follow-through data is stale (N/A for 3 days) — reduce confidence
+> - Net Primary still negative at -300 despite improvement — bull not yet confirmed
+> - Rally is mature at 10 days — easy breakouts already happened
+> - 20% study at 87 — caution territory, buying binge may be peaking
+> - SPY and QQQ both closed near intraday lows — possible intraday distribution pattern
+> - T2108 at 31% just exited washout zone — sustainability of bounce unproven
 
 ---
 

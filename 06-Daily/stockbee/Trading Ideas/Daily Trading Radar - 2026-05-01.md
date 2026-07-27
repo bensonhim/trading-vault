@@ -18,11 +18,11 @@ data_date: 2026-04-30
 > - **Breakouts:** 559 | **Breakdowns:** 116
 > - **Follow-through:** 3d=34.8% 5d=27.2% (FAILING)
 >
-> - Follow-through rate at 38% — breakouts struggling, reduce size and tighten stops
-> - Net Primary showed mid-week volatility (+494 to +215 to +467) — watch for stability
-> - Both SPY and QQQ closed near lows intraday — mild intraday distribution pattern
-> - Rally is mature at 21 days since last low — easy breakouts already happened
-> - LLM: Net Primary recovered sharply to +467 on 4/30 with 559 breakouts vs 116 breakdowns, suggesting the mid-week deterioration (down to +215) was a one-day breakdown spike, not sustained distribution. However, follow-through rate at 38% over 3 days is well below the 50% caution threshold — breakouts are breaking out but failing to follow through, which warrants reduced size and tighter stops. T2108 at 60% is healthy and 20% study at 37 is moderate, confirming ongoing buying without euphoria.
+> - Follow-through rate at 38% — breakouts are failing to sustain, reduce position size
+> - Intraday distribution pattern: SPY and QQQ both closed near lows despite range-bound action
+> - Net Primary volatile: dropped from +494 to +215 mid-week before recovering to +467 — institutional indecision
+> - Rally is 21 days mature — easy breakouts already happened, late-stage entries are risky
+> - April 29 showed 409 breakdowns vs 172 breakouts — a one-day washout that reversed, but watch for repeat
 
 ---
 

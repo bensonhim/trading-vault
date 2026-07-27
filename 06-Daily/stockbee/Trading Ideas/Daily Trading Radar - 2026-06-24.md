@@ -18,11 +18,11 @@ data_date: 2026-06-23
 > - **Breakouts:** 192 | **Breakdowns:** 279
 > - **Follow-through:** 3d=47.4% 5d=45.1% (OK)
 >
-> - Follow-through rate at 35% — breakouts failing, reduce size
-> - Net Primary deteriorating from +560 to +432 over 5 days — funds pulling back
-> - Intraday distribution pattern — SPY and QQQ closing near lows
-> - Rally mature at 13 days — easy breakouts already happened
-> - Breakdowns exceeding breakouts (279 vs 192) — selling pressure increasing
+> - Follow-through rate at 35% — breakouts failing, do not chase new entries
+> - Net Primary deteriorating 5-day trend (+534 → +432) — funds pulling back
+> - T2108 falling (49.6% → 45.3%) — broad participation weakening
+> - Breakdowns (279) exceeding breakouts (192) — selling pressure increasing
+> - Intraday distribution pattern — both SPY and QQQ closed near lows
 
 ---
 
