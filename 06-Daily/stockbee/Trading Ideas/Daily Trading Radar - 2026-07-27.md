@@ -9,7 +9,7 @@ data_date: 2026-07-24
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **CAUTIOUS_BULL_LOW** — Action: **REDUCE_SIZE**
+> [!warning] **DISTRIBUTING** — Action: **NO_NEW_LONGS**
 >
 > - **20% Study (bullish):** 12
 > - **20% Study (bearish):** 27
@@ -18,11 +18,11 @@ data_date: 2026-07-24
 > - **Breakouts:** 144 | **Breakdowns:** 349
 > - **Follow-through:** 3d=33.4% 5d=32.3% (OK)
 >
-> - Net Primary deteriorating 5 days: +75 to -199, approaching -200 bearish threshold
-> - Breakdowns sustained over 3 days (242, 325, 349) — not a one-day spike
-> - Breakout follow-through at 35% — well below 50% caution level
-> - Intraday distribution: SPY and QQQ both closed near lows
-> - 20% study at 12 with 27 down 20%+ — no buying binge, sellers in control short-term
+> - Net Primary deteriorating 4 straight days from +75 to -199 — distribution accelerating
+> - Breakdowns sustained at 242/325/349 — not a one-day spike, this is real selling
+> - Follow-through rate 35% — breakouts failing, do not buy new breakouts
+> - Defensive sectors leading (oil, banks, healthcare) while tech/AI absent — rotation trap
+> - 20% study bearish at 0.44 ratio — more stocks down 20% than up, no buying binge
 
 ---
 
@@ -82,6 +82,24 @@ Below 1.0 | Bearish medium-term |
 
 ## 3. Sector Relative Strength
 
+**Leading Sector:** XOP (oil_gas_e&p)
+RS_20d: 19.79 | RS_65d: 1.11
+
+### Sector RS Heatmap (grouped by theme, top 10)
+
+| Rank | Ticker | Theme | RS_20d | RS_65d | ETF 20d | SPY 20d | Excess | Status |
+|------|--------|-------|--------|--------|---------|---------|--------|--------|
+| 1 | XOP | oil_gas_e&p | 19.79 | 1.11 | +12.5% | +0.6% | +11.8% | LEADING |
+| 2 | BUG | cybersecurity | 16.34 | 8.01 | +10.3% | +0.6% | +9.7% |  |
+| 3 | XLF | financials_broad | 8.49 | 1.55 | +5.3% | +0.6% | +4.7% |  |
+| 4 | XLV | healthcare_broad | 7.07 | 2.31 | +4.5% | +0.6% | +3.8% |  |
+| 5 | FINX | fintech | 6.94 | -0.81 | +4.4% | +0.6% | +3.8% |  |
+| 6 | SKYY | cloud_computing | 6.82 | 1.95 | +4.3% | +0.6% | +3.7% |  |
+| 7 | XLRE | real_estate | 4.84 | 1.00 | +3.0% | +0.6% | +2.4% |  |
+| 8 | IBB | biotech_broad | 3.86 | 1.64 | +2.4% | +0.6% | +1.8% |  |
+| 9 | PPA | aerospace_defense | 3.30 | 0.47 | +2.1% | +0.6% | +1.5% |  |
+| 10 | XLU | utilities | 1.52 | 0.60 | +1.0% | +0.6% | +0.3% |  |
+
 ---
 
 ## 4b. TI65 Trend Intensity
@@ -92,12 +110,12 @@ Below 1.0 | Bearish medium-term |
 
 | Universe | Count | Notes |
 |----------|-------|-------|
-| Bullish (≥1.05, vol≥100K) | 1165 | Active uptrends |
-| Bearish (≤0.95, vol≥1M) | 407 | Active downtrends (short universe) |
-| Bearish (≤0.95, vol≥100K) | 798 | Wider bearish universe |
-| Neutral | 1877 | No clear trend |
+| Bullish (≥1.05, vol≥100K) | 1170 | Active uptrends |
+| Bearish (≤0.95, vol≥1M) | 409 | Active downtrends (short universe) |
+| Bearish (≤0.95, vol≥100K) | 803 | Wider bearish universe |
+| Neutral | 1896 | No clear trend |
 | **Young momentum** (C65 ≤ 10) | **77** | **First 10 days of bullish TI65 — highest reward/risk** |
-| Total scanned | 4340 | All tickers with ≥65 days history |
+| Total scanned | 4371 | All tickers with ≥65 days history |
 
 ### Young Momentum — TI65 Bullish, sorted by C65 ascending (20 shown, top 10)
 
@@ -262,10 +280,10 @@ Below 1.0 | Bearish medium-term |
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
 | 2 | IREN | 10 | 4 | 70 | core |
-| 3 | FCEL | 9 | 4 | 23 | expanded |
-| 4 | KEEL | 9 | 4 | 19 | expanded |
-| 5 | RIOT | 9 | 4 | 58 | core |
-| 6 | SATL | 9 | 4 | 21 | core |
+| 3 | SATL | 9 | 5 | 21 | expanded |
+| 4 | FCEL | 9 | 4 | 23 | expanded |
+| 5 | KEEL | 9 | 4 | 19 | expanded |
+| 6 | RIOT | 9 | 4 | 58 | core |
 | 7 | USAR | 9 | 4 | 51 | core |
 | 8 | CLSK | 9 | 3 | 53 | core |
 | 9 | NVTS | 9 | 3 | 51 | core |
@@ -281,9 +299,17 @@ Below 1.0 | Bearish medium-term |
 | 19 | MRVL | 8 | 3 | 41 | expanded |
 | 20 | QCOM | 8 | 3 | 15 | expanded |
 
+### Sugar Babies in Hot Sectors (with active setups today)
+
+| Ticker | SB Tier | 504d | 21d | 10d | 5d | Recency | Sector ETF | RS Rank | Status |
+|--------|---------|------|-----|-----|-----|---------|-----------|---------|--------|
+| STAK | expanded | 3 | 2 | 2 | 2 | 36 | XLE (#3) | SETTING UP (ACTIVE (5d)) |
+
+*Recency = 5d×10 + 10d×5 + 21d×3 (Pradeep's recency weighting). Higher = more recent breakout activity.*
+
 ---
 
-## 10. Short-Side Setups (26 candidates)
+## 10. Short-Side Setups (31 candidates)
 
 ### EP 9M Short (1) — negative surprise gap-downs
 
@@ -310,6 +336,16 @@ Below 1.0 | Bearish medium-term |
 | MU | sector_breakdown | -7.0% | $920.95 | $952.52 | Sector weakness breakdown |
 | ACHR | sector_breakdown | -6.7% | $4.77 | $4.98 | Sector weakness breakdown |
 | SMR | sector_breakdown | -8.2% | $8.09 | $8.46 | Sector weakness breakdown |
+
+### Sugar Baby Short (5) — former SBs now in weakening sectors
+
+| Ticker | SB Tier | Sector ETF | Decline from Peak | Notes |
+|--------|---------|-----------|-------------------|-------|
+| LESL | expanded | XLY | -88.5% | SB in weakening sector XLY (RS_20d=-5.51), down 88% from peak |
+| JEM | expanded | XLY | -86.7% | SB in weakening sector XLY (RS_20d=-5.51), down 87% from peak |
+| NXTS | expanded | XLB | -86.2% | SB in weakening sector XLB (RS_20d=-1.77), down 86% from peak |
+| NVVE | expanded | XLY | -85.0% | SB in weakening sector XLY (RS_20d=-5.51), down 85% from peak |
+| JLHL | expanded | ITB | -84.7% | SB in weakening sector ITB (RS_20d=-10.89), down 85% from peak |
 
 ### Bearish Reversal (5) — 3:58 PM exhaustion
 
@@ -350,6 +386,7 @@ Below 1.0 | Bearish medium-term |
 
 ## 11. Action Summary
 
+- [ ] Leading sector: XOP — watch for setups in this sector
 
 ---
 
