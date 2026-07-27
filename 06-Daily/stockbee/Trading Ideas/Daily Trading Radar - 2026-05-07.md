@@ -18,11 +18,11 @@ data_date: 2026-05-06
 > - **Breakouts:** 631 | **Breakdowns:** 309
 > - **Follow-through:** 3d=37.0% 5d=40.7% (OK)
 >
-> - Rally mature at 22 days — easy breakouts already happened
-> - 20% study at 87 entering caution territory — buying binge may be peaking
-> - Intraday distribution pattern: SPY and QQQ both closed near lows
-> - Follow-through rate at 53% with 05/04 at 44% — breakouts struggling to sustain
-> - Breakdown count worsening (116→309) though still below breakout count
+> - Intraday distribution pattern — both SPY and QQQ closed near session lows, institutions may be using strength to distribute
+> - Rally is mature and extended (22 days since low, T2108 jumped from 31% to 61%) — easy breakouts already happened
+> - Follow-through rate at 53% is in caution zone — breakouts are mixed, not failing outright but not robust
+> - Breakdown count worsening (116→309) though net primary remains strongly positive — watch if breakdowns sustain over next 2-3 days
+> - If net primary starts declining from these levels (>+700), that would signal distribution accelerating
 
 ---
 

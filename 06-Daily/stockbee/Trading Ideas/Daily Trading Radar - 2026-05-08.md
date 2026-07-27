@@ -18,11 +18,11 @@ data_date: 2026-05-07
 > - **Breakouts:** 311 | **Breakdowns:** 380
 > - **Follow-through:** 3d=36.3% 5d=38.6% (OK)
 >
-> - Follow-through rate 41% — breakouts failing to follow through, reduce size
-> - Rally 22 days mature and extended — easy breakouts already happened
-> - 20% study at 75 — caution territory, buying binge may be peaking
-> - Breakdown trend worsening: 122 → 380 over 5 days
-> - T2108 trend slightly falling (60.6% → 57.1%) — watch for further deterioration
+> - Follow-through rate at 41% — breakouts failing to sustain, reduce position size
+> - 20% study at 75 — elevated, buying binge may be peaking
+> - Rally mature at 22 days — extended, easy money already made
+> - Today breakdowns (380) exceeded breakouts (311) after yesterday's breakout surge (631) — classic 'yesterday was the day' pattern
+> - T2108 falling from 60.6% to 57.1% — slight deterioration, watch for further decline
 
 ---
 

@@ -18,11 +18,11 @@ data_date: 2026-04-07
 > - **Breakouts:** 162 | **Breakdowns:** 214
 > - **Follow-through:** 3d=31.0% 5d=53.0% (OK)
 >
-> - Net Primary still negative at -373 despite 11-day bounce — breadth hasn't confirmed recovery
-> - Follow-through rate at 43% — breakouts failing, reduce size
-> - Intraday distribution: SPY and QQQ both closed near lows — institutions selling into strength
-> - Net Primary ticked back down from -300 to -373 today — improvement stall
-> - LLM: Net Primary has been negative all 5 days (-527 to -373), improving from the March 31 washout but still well below zero and ticking back down today. T2108 is rising from capitulation-level lows (16.7% → 31.9%), confirming a bounce is underway, but breakouts are failing to follow through (43% rate) and both SPY/QQQ closed near lows — intraday distribution pattern. This is a weak washout bounce that hasn't yet earned trust; manage existing positions and wait for Net Primary to turn positive before adding aggressively.
+> - Net Primary still negative (-373) despite improving trend — bounce not confirmed
+> - Follow-through rate 43% — breakouts failing more than working, reduce size
+> - Breakdown count worsening sharply (83 → 214) — selling pressure accelerating into the bounce
+> - Both SPY and QQQ closed near lows intraday — intraday distribution pattern present
+> - Rally is 11 days mature but 20% study low (45) — funds not buying aggressively yet
 
 ---
 

@@ -18,11 +18,11 @@ data_date: 2026-04-08
 > - **Breakouts:** 834 | **Breakdowns:** 164
 > - **Follow-through:** 3d=37.3% 5d=49.7% (OK)
 >
-> - Net Primary still negative at -165 despite improvement — bull not confirmed
-> - Follow-through rate 47% — breakouts struggling, reduce size
-> - Rally mature at 12 days and extended — easy breakouts already happened
-> - 20% study at 52 in caution territory — buying binge may be peaking
-> - Intraday closes near lows on SPY and QQQ — distribution pattern
+> - Net Primary still negative at -165 — bounce not yet confirmed by primary breadth turning positive
+> - Follow-through rate at 47% — breakouts failing more than succeeding, reduce size
+> - 20% study at 52 — caution territory, buying binge may have already peaked
+> - Intraday distribution pattern — SPY and QQQ both closed near lows despite range-bound action
+> - Rally is 12 days mature — easy breakouts already happened, late-stage entries are risky
 
 ---
 
@@ -319,7 +319,7 @@ Above 1.0 | Bullish medium-term |
 
 
 **ALM**
-- Industry: Other Precious Metals
+- Industry: Industrial Materials
 - Sector: Basic Materials
 - Sector ETF: XLB (materials)
 - Market Cap: $3.8B
@@ -368,7 +368,7 @@ Above 1.0 | Bullish medium-term |
 
 
 **FOSL**
-- Industry: Luxury Goods
+- Industry: Apparel - Footwear & Accessories
 - Sector: Consumer Cyclical
 - Sector ETF: XLY (consumer_discretionary)
 - Market Cap: $0.2B

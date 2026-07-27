@@ -18,11 +18,11 @@ data_date: 2026-04-10
 > - **Breakouts:** 159 | **Breakdowns:** 239
 > - **Follow-through:** 3d=40.4% 5d=56.0% (OK)
 >
-> - Net Primary still negative despite 14-day bounce — breadth not confirming price recovery
-> - Latest follow-through rate at 39% (below 50%) — breakouts struggling
-> - Intraday distribution pattern on both SPY and QQQ — closing near lows
-> - 20% study at 0 likely stale data — reduce confidence in breadth readings
-> - Breakdown count worsening on latest day (239 vs 199 prior) while breakouts dropped sharply (159 vs 233)
+> - Net Primary still negative (-152) despite improving trend — breadth not yet confirmed bullish
+> - Latest follow-through only 39% — breakouts failing on most recent day
+> - Both SPY and QQQ closed near intraday lows — intraday distribution pattern
+> - Rally is 14 days mature from the 03-20 capitulation low — easy money already made
+> - 20% study at 0 — no evidence of institutional buying binge yet
 
 ---
 

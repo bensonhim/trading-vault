@@ -18,11 +18,11 @@ data_date: 2026-04-09
 > - **Breakouts:** 233 | **Breakdowns:** 199
 > - **Follow-through:** 3d=38.4% 5d=53.2% (OK)
 >
-> - Net Primary still negative (-100) despite improving trend — bounce not confirmed
-> - Intraday distribution: SPY and QQQ both closed near lows
-> - Rally is 13 days mature — easy breakouts already happened
-> - 04-08 was likely 'yesterday was the day' — 834 breakouts, 04-09 settled to 233
-> - Follow-through at 59% is mixed — breakouts struggling but not failing entirely
+> - Intraday distribution: SPY and QQQ both closed near lows — institutions may be using rally liquidity to distribute
+> - Rally mature at 13 days since low — easy breakouts already happened
+> - Net Primary still negative at -100 despite improvement — not yet confirmed bullish
+> - Follow-through at 59% is in caution zone — breakouts are mixed
+> - Breakdown count worsening (92→199) while Net Primary improves — watch for divergence
 
 ---
 

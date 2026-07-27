@@ -18,11 +18,11 @@ data_date: 2026-05-05
 > - **Breakouts:** 368 | **Breakdowns:** 199
 > - **Follow-through:** 3d=39.0% 5d=37.7% (OK)
 >
-> - Follow-through rate 44% — below 50% threshold, breakouts struggling to sustain
-> - 20% study at 98 — elevated, buying binge happening but approaching overbought territory
-> - Rally mature at 21 days and extended — easy breakouts already happened
-> - Intraday distribution pattern — SPY and QQQ closed near lows despite range-bound action
-> - One day of breakdowns > breakouts (May 4: 308 BD vs 262 BO) but Net Primary stayed strong — likely profit-taking, not distribution
+> - Follow-through rate at 44% — breakouts failing more than half the time, reduce size
+> - 20% study at 98 — elevated, approaching the 100 threshold that signals buying binge peaking
+> - Rally is 21 days mature — easy breakouts already happened, late-stage entries riskier
+> - Intraday pattern shows range_bound with close near lows — possible distribution on strong days
+> - Multiple caution signals stacking — this is where situational awareness matters most
 
 ---
 
