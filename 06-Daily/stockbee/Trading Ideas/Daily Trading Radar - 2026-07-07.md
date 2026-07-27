@@ -18,11 +18,11 @@ data_date: 2026-07-06
 > - **Breakouts:** 239 | **Breakdowns:** 158
 > - **Follow-through:** 3d=50.3% 5d=48.9% (OK)
 >
-> - Rally is 18 days mature — easy breakouts already happened, new entries carry higher risk
-> - 20% study at 55 is in caution territory — buying binge is ongoing but not accelerating
-> - Intraday distribution pattern: SPY and QQQ closed near lows despite range-bound action
-> - Breakdown count spiked to 375 on 07-02 but net primary held above +500 — profit-taking, not regime change
-> - Follow-through data is N/A for 3 days — cannot confirm whether breakouts are working
+> - Rally is 18 days old — extended and mature, easy breakouts already happened
+> - 20% study at 55 — caution territory, confirms buying binge is ongoing but maturing
+> - July 2 saw a breakdown spike to 375 with breakouts at 272 — watch if breakdowns sustain
+> - SPY and QQQ both closed near lows intraday — mild intraday distribution signal
+> - Follow-through data is N/A for last 3 days — unable to confirm breakout quality
 
 ---
 

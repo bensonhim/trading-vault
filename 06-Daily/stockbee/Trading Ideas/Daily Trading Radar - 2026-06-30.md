@@ -18,11 +18,11 @@ data_date: 2026-06-29
 > - **Breakouts:** 230 | **Breakdowns:** 83
 > - **Follow-through:** 3d=42.3% 5d=42.9% (OK)
 >
-> - 20% study elevated at 113 — buying binge may be peaking, lagging confirmation
-> - Rally mature at 17 days — easy breakouts already happened
-> - Intraday distribution pattern — SPY and QQQ closed near lows
-> - Breakout follow-through data unavailable — cannot confirm breakouts are working
-> - Net Primary dipped to +313 on 6/25 before recovering — watch for repeated dips
+> - 20% study at 113 — elevated, buying binge already happened, reduce size and tighten stops
+> - Rally is 17 days mature — easy breakouts already happened, new entries carry higher risk
+> - Intraday close near lows on both SPY and QQQ — mild distribution signal, watch for follow-through
+> - Follow-through data is N/A for 3 days — stale/missing data reduces confidence
+> - LLM: Net Primary is strongly bullish at +617 and improving over 5 days (+432→+617), with T2108 rising in the healthy zone at 51.6% and breakouts dominating breakdowns (230 vs 83). However, the 20% study is elevated at 113 (overbought caution territory), confirming the buying binge has already occurred after a 17-day mature rally — this downgrades from FULL_BULL to CAUTIOUS_BULL_HIGH per the tiebreaker rules.
 
 ---
 

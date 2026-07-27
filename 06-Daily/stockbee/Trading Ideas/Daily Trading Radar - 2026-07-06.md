@@ -18,11 +18,11 @@ data_date: 2026-07-02
 > - **Breakouts:** 272 | **Breakdowns:** 375
 > - **Follow-through:** 3d=48.9% 5d=50.0% (OK)
 >
-> - 20% study elevated at 109 — caution territory, reduce size
-> - Follow-through rate at 48% — breakouts failing more than working
+> - Follow-through rate 48% — below 50% threshold, breakouts struggling
+> - 20% study at 109 — overbought caution territory, buying binge likely peaked
 > - Rally 20 days mature — easy breakouts already happened
-> - Today's breakdown spike (375 vs 272 BO) — watch if sustained or one-day profit-taking
-> - SPY and QQQ both closed near intraday lows — potential distribution pattern
+> - Today breakdowns (375) exceeded breakouts (272) — first deterioration in 5-day window
+> - Intraday distribution pattern — SPY and QQQ closed near lows
 
 ---
 
@@ -295,7 +295,7 @@ Above 1.0 | Bullish medium-term |
 | 2 | IREN | 10 | 4 | 70 | core |
 | 3 | FCEL | 9 | 4 | 23 | expanded |
 | 4 | KEEL | 9 | 4 | 19 | expanded |
-| 5 | RIOT | 9 | 4 | 57 | core |
+| 5 | RIOT | 9 | 4 | 58 | core |
 | 6 | SATL | 9 | 4 | 21 | core |
 | 7 | USAR | 9 | 4 | 51 | core |
 | 8 | CLSK | 9 | 3 | 53 | core |
@@ -305,7 +305,7 @@ Above 1.0 | Bullish medium-term |
 | 12 | MU | 8 | 4 | 49 | core |
 | 13 | NBIS | 8 | 4 | 62 | core |
 | 14 | POET | 8 | 4 | 28 | expanded |
-| 15 | SMCI | 8 | 4 | 43 | expanded |
+| 15 | SMCI | 8 | 4 | 44 | expanded |
 | 16 | SPCE | 8 | 4 | 14 | expanded |
 | 17 | FIG | 8 | 3 | 28 | expanded |
 | 18 | INTC | 8 | 3 | 45 | core |
@@ -321,7 +321,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Biotechnology
 - Sector: Healthcare
 - Sector ETF: XBI (biotech_small)
-- Market Cap: $0.3B
+- Market Cap: $0.2B
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (181 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -346,7 +346,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Biotechnology
 - Sector: Healthcare
 - Sector ETF: XBI (biotech_small)
-- Market Cap: $14.0B
+- Market Cap: $13.9B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (181 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -371,7 +371,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Biotechnology
 - Sector: Healthcare
 - Sector ETF: XBI (biotech_small)
-- Market Cap: $17.5B
+- Market Cap: $17.7B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (181 stocks in sector broke out today)
 - Breakout History (4 past swings):
@@ -395,7 +395,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Auto - Dealerships
 - Sector: Consumer Cyclical
 - Sector ETF: XLY (consumer_discretionary)
-- Market Cap: $14.2B
+- Market Cap: $14.3B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (18 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -420,7 +420,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Paper, Lumber & Forest Products
 - Sector: Basic Materials
 - Sector ETF: XLB (materials)
-- Market Cap: $5.1B
+- Market Cap: $5.0B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (48 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -442,15 +442,13 @@ Above 1.0 | Bullish medium-term |
 
 ---
 
-## 10. Short-Side Setups (28 candidates)
+## 10. Short-Side Setups (26 candidates)
 
-### EP 9M Short (3) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| STM | 0.0% | -18.67% | $53.49 | $56.63 | unknown_negative (intraday_down) |
-| LBRT | 7.0% | -21.96% | $19.62 | $26.00 | unknown_negative (intraday_down) |
-| TSLA | -19.8% | -14.52% | $319.69 | $341.86 | unknown_negative (gap_down) |
+| MXL | -22.9% | -21.54% | $71.59 | $87.55 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

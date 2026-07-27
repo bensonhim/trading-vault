@@ -18,11 +18,10 @@ data_date: 2026-04-17
 > - **Breakouts:** 624 | **Breakdowns:** 143
 > - **Follow-through:** 3d=45.7% 5d=51.3% (OK)
 >
-> - Follow-through rate at 58% (50-70% caution zone) — breakouts are working but not explosively; tighten stops on new entries
-> - 20% study showing 0 is likely stale data — if real, it signals funds aren't buying aggressively despite positive breadth
-> - Rally is 19 days mature — easy breakouts have already happened, be selective with A+ setups only
-> - Intraday close near lows on SPY/QQQ — watch for distribution pattern if morning strength continues to fade
-> - LLM: Net Primary has surged from +35 to +650 over 5 days with T2108 rising from 50% to 63% — both primary indicators confirm a strong bullish regime with institutional accumulation. Breakouts are dominating breakdowns by 4.4x on the latest day, and follow-through at 58% is in the caution zone but not weak enough to downgrade given overwhelmingly positive breadth. The 20% study at 0 appears stale and contradicts the +650 Net Primary; rally maturity at 19 days does not override strong improving breadth.
+> - Follow-through rate at 58% is in the caution zone (50-70%) — breakouts are working but not perfectly; monitor for further deterioration
+> - Rally is 19 days mature from the March 20 low — easy breakouts may be largely captured, so be selective with A+ setups only
+> - Intraday closes near lows on both SPY and QQQ suggest possible intraday distribution — watch if this pattern persists multiple days
+> - LLM: Net Primary surged from +35 to +650 over 5 days — a powerful improving trend squarely in extremely bullish territory (>+500). T2108 at 62.8% is in the healthy bull range and rising, breakouts dominate breakdowns 624 vs 143, and the 5-day breadth trend is strongly accelerating. The 20% study at 0 is a lagging artifact — the buying binge is happening now (confirmed by Net Primary) but hasn't surfaced in the 5-day window yet; per StockBee rules, do NOT suppress longs based on a lagging indicator when primary breadth is this strong.
 
 ---
 
@@ -219,38 +218,36 @@ Above 1.0 | Bullish medium-term |
 
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
-| 1 | SATL | 9 | 3 | 21 | core |
-| 2 | NBIS | 8 | 4 | 62 | core |
-| 3 | SNDK | 8 | 3 | 47 | core |
-| 4 | RIOT | 7 | 4 | 57 | core |
-| 5 | HTZ | 7 | 3 | 23 | expanded |
-| 6 | INTC | 7 | 3 | 45 | core |
-| 7 | MRVL | 7 | 3 | 41 | expanded |
-| 8 | ASTS | 7 | 2 | 56 | core |
-| 9 | LUNR | 7 | 2 | 37 | expanded |
-| 10 | FLY | 6 | 3 | 11 | expanded |
-| 11 | RGTI | 6 | 3 | 62 | core |
-| 12 | USAR | 6 | 3 | 51 | core |
-| 13 | CRCL | 6 | 2 | 42 | core |
-| 14 | FCEL | 6 | 2 | 23 | core |
-| 15 | FSLY | 6 | 2 | 17 | expanded |
-| 16 | JBLU | 6 | 2 | 38 | core |
-| 17 | ONDS | 6 | 2 | 47 | core |
-| 18 | RCAT | 6 | 2 | 42 | core |
-| 19 | RKLB | 6 | 2 | 57 | core |
-| 20 | AMAT | 6 | 1 | 18 | expanded |
+| 1 | SIDU | 11 | 4 | 19 | expanded |
+| 2 | IREN | 10 | 4 | 70 | core |
+| 3 | FCEL | 9 | 4 | 23 | expanded |
+| 4 | KEEL | 9 | 4 | 19 | expanded |
+| 5 | RIOT | 9 | 4 | 58 | core |
+| 6 | SATL | 9 | 4 | 21 | core |
+| 7 | USAR | 9 | 4 | 51 | core |
+| 8 | CLSK | 9 | 3 | 53 | core |
+| 9 | NVTS | 9 | 3 | 51 | core |
+| 10 | AMD | 8 | 4 | 45 | expanded |
+| 11 | APLD | 8 | 4 | 57 | core |
+| 12 | MU | 8 | 4 | 49 | core |
+| 13 | NBIS | 8 | 4 | 62 | core |
+| 14 | POET | 8 | 4 | 28 | expanded |
+| 15 | SMCI | 8 | 4 | 44 | expanded |
+| 16 | SPCE | 8 | 4 | 14 | expanded |
+| 17 | FIG | 8 | 3 | 28 | expanded |
+| 18 | INTC | 8 | 3 | 45 | core |
+| 19 | MRVL | 8 | 3 | 41 | expanded |
+| 20 | QCOM | 8 | 3 | 15 | expanded |
 
 ---
 
-## 10. Short-Side Setups (28 candidates)
+## 10. Short-Side Setups (26 candidates)
 
-### EP 9M Short (3) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| STM | 0.0% | -18.67% | $53.49 | $56.63 | unknown_negative (intraday_down) |
-| MBLY | 4.2% | -14.92% | $7.47 | $8.25 | unknown_negative (intraday_down) |
-| EVH | 79.9% | -16.62% | $4.64 | $5.40 | unknown_negative (intraday_down) |
+| MXL | 271.1% | -21.54% | $71.59 | $87.55 | unknown_negative (intraday_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

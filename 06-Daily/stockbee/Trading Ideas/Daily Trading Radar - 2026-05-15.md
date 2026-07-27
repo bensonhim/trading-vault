@@ -18,11 +18,11 @@ data_date: 2026-05-14
 > - **Breakouts:** 340 | **Breakdowns:** 221
 > - **Follow-through:** 3d=29.0% 5d=28.6% (FAILING)
 >
-> - Net Primary deteriorating from +709 to +526 over 5 days
-> - T2108 falling from 57% to 47.7%
-> - Follow-through rate 42% — breakouts failing more than working
-> - Intraday close near lows on both SPY and QQQ suggests distribution risk
-> - LLM: Net Primary is still positive (+526) but deteriorating sharply from +709 five days ago, with T2108 falling from 57% to 47.7% — the bull is aging. Follow-through rate at 42% (below 50%) confirms breakouts are struggling to sustain. The 20% study at 63 is in healthy territory (50-100) and doesn't trigger a downgrade on its own, but the combination of declining breadth, falling T2108, and poor follow-through warrants reduced size and tighter stops.
+> - Net Primary deteriorating over 5 days: +709 → +526, trend is bearish
+> - T2108 falling from 57.0% to 47.7% — breadth weakening
+> - Follow-through rate at 42% — breakouts failing, reduce size
+> - 20% study at 63 — elevated, buying binge may be peaking
+> - Intraday distribution pattern — SPY and QQQ closed near lows
 
 ---
 
@@ -264,7 +264,7 @@ Above 1.0 | Bullish medium-term |
 | 2 | IREN | 10 | 4 | 70 | core |
 | 3 | FCEL | 9 | 4 | 23 | expanded |
 | 4 | KEEL | 9 | 4 | 19 | expanded |
-| 5 | RIOT | 9 | 4 | 57 | core |
+| 5 | RIOT | 9 | 4 | 58 | core |
 | 6 | SATL | 9 | 4 | 21 | core |
 | 7 | USAR | 9 | 4 | 51 | core |
 | 8 | CLSK | 9 | 3 | 53 | core |
@@ -274,7 +274,7 @@ Above 1.0 | Bullish medium-term |
 | 12 | MU | 8 | 4 | 49 | core |
 | 13 | NBIS | 8 | 4 | 62 | core |
 | 14 | POET | 8 | 4 | 28 | expanded |
-| 15 | SMCI | 8 | 4 | 43 | expanded |
+| 15 | SMCI | 8 | 4 | 44 | expanded |
 | 16 | SPCE | 8 | 4 | 14 | expanded |
 | 17 | FIG | 8 | 3 | 28 | expanded |
 | 18 | INTC | 8 | 3 | 45 | core |
@@ -283,15 +283,13 @@ Above 1.0 | Bullish medium-term |
 
 ---
 
-## 10. Short-Side Setups (28 candidates)
+## 10. Short-Side Setups (26 candidates)
 
-### EP 9M Short (3) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| STM | 0.0% | -18.67% | $53.49 | $56.63 | unknown_negative (intraday_down) |
-| EVH | 30.3% | -16.62% | $4.64 | $5.40 | unknown_negative (intraday_down) |
-| TSLA | -23.4% | -14.52% | $319.69 | $341.86 | unknown_negative (gap_down) |
+| MXL | -1.2% | -21.54% | $71.59 | $87.55 | unknown_negative (intraday_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

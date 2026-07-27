@@ -9,7 +9,7 @@ data_date: 2026-04-15
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!tip] **FULL_BULL** — Action: **FULL_LONG**
+> [!caution] **CAUTIOUS_BULL_HIGH** — Action: **REDUCE_SIZE**
 >
 > - **20% Study (bullish):** 79
 > - **20% Study (bearish):** 19
@@ -18,11 +18,11 @@ data_date: 2026-04-15
 > - **Breakouts:** 463 | **Breakdowns:** 118
 > - **Follow-through:** 3d=42.0% 5d=49.7% (OK)
 >
-> - Rally is 17 days mature — easy breakouts have already happened, expect friction on new entries
-> - SPY and QQQ both closed near intraday lows — watch for intraday distribution pattern if it persists
-> - Follow-through at 63% is healthy but not robust (>70%); breakouts are working but not explosively
-> - If Net Primary stalls around +330 or reverses, downgrade to CAUTIOUS_BULL immediately
-> - LLM: Net Primary has surged from -152 to +330 over 5 days with T2108 rising from 46% to 54% — a dramatic breadth improvement confirming institutional buying. Breakouts dominate breakdowns at a 3.9x ratio today and 2.37x over 5 days, well above the 1.5 bullish threshold. The 20% study at 79 sits in the healthy 50-100 zone and follow-through at 63% is above the 50% caution line, so despite a mature 17-day rally, the primary indicators command FULL_BULL per Pradeep's explicit rule that rally maturity alone does not override strong breadth.
+> - Rally is 17 days mature and extended — easy breakouts already happened
+> - 20% study at 79 — elevated, buying binge may be peaking
+> - Follow-through at 63% — breakouts working but not at full strength
+> - SPY and QQQ both closed near lows intraday — watch for intraday distribution pattern
+> - Net Primary +330 is strong but still below +500 threshold for FULL_BULL
 
 ---
 
@@ -274,26 +274,26 @@ Above 1.0 | Bullish medium-term |
 
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
-| 1 | NBIS | 8 | 4 | 62 | core |
-| 2 | SATL | 8 | 3 | 21 | core |
-| 3 | SNDK | 8 | 3 | 47 | core |
-| 4 | RIOT | 7 | 4 | 57 | core |
-| 5 | HTZ | 7 | 3 | 23 | expanded |
-| 6 | INTC | 7 | 3 | 45 | core |
-| 7 | MRVL | 7 | 3 | 41 | expanded |
-| 8 | LUNR | 7 | 2 | 37 | expanded |
-| 9 | FLY | 6 | 3 | 11 | expanded |
-| 10 | RGTI | 6 | 3 | 62 | core |
-| 11 | USAR | 6 | 3 | 51 | core |
-| 12 | ASTS | 6 | 2 | 56 | core |
-| 13 | CRCL | 6 | 2 | 42 | core |
-| 14 | FCEL | 6 | 2 | 23 | core |
-| 15 | FSLY | 6 | 2 | 17 | expanded |
-| 16 | JBLU | 6 | 2 | 38 | core |
-| 17 | ONDS | 6 | 2 | 47 | core |
-| 18 | AMAT | 6 | 1 | 18 | expanded |
-| 19 | AMD | 6 | 1 | 45 | expanded |
-| 20 | FRMI | 6 | 1 | 20 | expanded |
+| 1 | SIDU | 11 | 4 | 19 | expanded |
+| 2 | IREN | 10 | 4 | 70 | core |
+| 3 | FCEL | 9 | 4 | 23 | expanded |
+| 4 | KEEL | 9 | 4 | 19 | expanded |
+| 5 | RIOT | 9 | 4 | 58 | core |
+| 6 | SATL | 9 | 4 | 21 | core |
+| 7 | USAR | 9 | 4 | 51 | core |
+| 8 | CLSK | 9 | 3 | 53 | core |
+| 9 | NVTS | 9 | 3 | 51 | core |
+| 10 | AMD | 8 | 4 | 45 | expanded |
+| 11 | APLD | 8 | 4 | 57 | core |
+| 12 | MU | 8 | 4 | 49 | core |
+| 13 | NBIS | 8 | 4 | 62 | core |
+| 14 | POET | 8 | 4 | 28 | expanded |
+| 15 | SMCI | 8 | 4 | 44 | expanded |
+| 16 | SPCE | 8 | 4 | 14 | expanded |
+| 17 | FIG | 8 | 3 | 28 | expanded |
+| 18 | INTC | 8 | 3 | 45 | core |
+| 19 | MRVL | 8 | 3 | 41 | expanded |
+| 20 | QCOM | 8 | 3 | 15 | expanded |
 
 ---
 
@@ -329,7 +329,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Biotechnology
 - Sector: Healthcare
 - Sector ETF: XBI (biotech_small)
-- Market Cap: $0.6B
+- Market Cap: $0.9B
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (173 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -354,7 +354,7 @@ Above 1.0 | Bullish medium-term |
 - Industry: Oil & Gas Equipment & Services
 - Sector: Energy
 - Sector ETF: XLE (energy_broad)
-- Market Cap: $1.5B
+- Market Cap: $1.4B
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (24 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -424,15 +424,13 @@ Above 1.0 | Bullish medium-term |
 
 ---
 
-## 10. Short-Side Setups (33 candidates)
+## 10. Short-Side Setups (31 candidates)
 
-### EP 9M Short (3) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| STM | 0.0% | -18.67% | $53.49 | $56.63 | unknown_negative (intraday_down) |
-| MBLY | 7.0% | -14.92% | $7.47 | $8.25 | unknown_negative (intraday_down) |
-| EVH | 114.3% | -16.62% | $4.64 | $5.40 | unknown_negative (intraday_down) |
+| MXL | 301.9% | -21.54% | $71.59 | $87.55 | unknown_negative (intraday_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

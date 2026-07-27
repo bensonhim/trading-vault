@@ -18,11 +18,11 @@ data_date: 2026-07-01
 > - **Breakouts:** 389 | **Breakdowns:** 219
 > - **Follow-through:** 3d=46.0% 5d=47.7% (OK)
 >
-> - Follow-through rate 45% — breakouts failing to sustain, reduce position size
-> - Rally is 19 days mature and extended — easy breakouts already happened
-> - 20% study at 95 — approaching caution territory, buying binge maturing
-> - SPY and QQQ both closed near lows — mild intraday distribution pattern
-> - Breakout count dropped from 880 (6/26) to 389 today — momentum narrowing
+> - Follow-through rate at 45% — breakouts failing to follow through, reduce position size
+> - Rally mature at 19 days since low — easy breakouts already happened
+> - 20% study at 95 — approaching caution territory, buying binge may be peaking
+> - SPY and QQQ closed near intraday lows — mild intraday distribution pattern
+> - LLM: Net Primary is strongly bullish at +686 and improving over 5 days (313→686), with T2108 rising in healthy range (51%) and breakouts exceeding breakdowns — this is a confirmed bullish regime. However, follow-through rate is 45% (below 50% caution threshold), the rally is mature at 19 days, and the 20% study is elevated at 95, all signaling that breakouts are struggling and easy money has been made. Multiple caution signals warrant reducing size and tightening stops despite strong primary breadth.
 
 ---
 
