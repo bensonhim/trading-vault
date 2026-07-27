@@ -18,11 +18,11 @@ data_date: 2025-04-17
 > - **Breakouts:** 269 | **Breakdowns:** 82
 > - **Follow-through:** 3d=48.0% 5d=48.0% (OK)
 >
-> - Net Primary still deeply negative at -1467 despite improving trend — not a confirmed bull yet
-> - Follow-through rate 45% (<50%) — breakouts failing to follow through, reduce size
-> - T2108 at 18.4% is in bearish zone (10-20%) though rising from capitulation
-> - Rally is 7 days mature — easy breakouts already happened
-> - Leading sector PAVE has RS_20d below 1.0 (0.93) — no strong sector leadership
+> - Follow-through rate 45% — below 50% threshold, breakouts failing to sustain
+> - Net Primary still deeply negative at -1467 despite improving trend
+> - Rally mature at 7 days since capitulation low — easy breakouts already happened
+> - PAVE leading sector rolling over: 20d RS 0.93 negative vs 65d RS 1.32 — top forming pattern
+> - T2108 at 18.4% still in bearish zone, not yet confirming healthy bull
 
 ---
 
@@ -266,24 +266,24 @@ RS_20d: 0.93 | RS_65d: 1.32
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
 | 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | SATL | 9 | 5 | 21 | expanded |
-| 4 | FCEL | 9 | 4 | 23 | expanded |
-| 5 | KEEL | 9 | 4 | 19 | expanded |
-| 6 | RIOT | 9 | 4 | 58 | expanded |
-| 7 | USAR | 9 | 4 | 51 | expanded |
-| 8 | CLSK | 9 | 3 | 53 | expanded |
-| 9 | NVTS | 9 | 3 | 51 | core |
-| 10 | AMD | 8 | 4 | 45 | expanded |
-| 11 | APLD | 8 | 4 | 57 | core |
-| 12 | MU | 8 | 4 | 49 | expanded |
-| 13 | NBIS | 8 | 4 | 62 | core |
-| 14 | POET | 8 | 4 | 28 | expanded |
-| 15 | SMCI | 8 | 4 | 44 | expanded |
-| 16 | SPCE | 8 | 4 | 14 | expanded |
-| 17 | FIG | 8 | 3 | 28 | expanded |
-| 18 | INTC | 8 | 3 | 45 | expanded |
-| 19 | MRVL | 8 | 3 | 41 | expanded |
-| 20 | QCOM | 8 | 3 | 15 | expanded |
+| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 4 | SATL | 9 | 5 | 21 | expanded |
+| 5 | FCEL | 9 | 4 | 23 | expanded |
+| 6 | IONQ | 9 | 4 | 53 | core |
+| 7 | KEEL | 9 | 4 | 19 | expanded |
+| 8 | RIOT | 9 | 4 | 58 | expanded |
+| 9 | USAR | 9 | 4 | 51 | expanded |
+| 10 | CLSK | 9 | 3 | 53 | expanded |
+| 11 | NVTS | 9 | 3 | 51 | core |
+| 12 | AMD | 8 | 4 | 45 | expanded |
+| 13 | APLD | 8 | 4 | 57 | core |
+| 14 | MU | 8 | 4 | 49 | expanded |
+| 15 | NBIS | 8 | 4 | 62 | core |
+| 16 | POET | 8 | 4 | 28 | expanded |
+| 17 | SMCI | 8 | 4 | 44 | expanded |
+| 18 | SPCE | 8 | 4 | 14 | expanded |
+| 19 | FIG | 8 | 3 | 28 | expanded |
+| 20 | INTC | 8 | 3 | 45 | expanded |
 
 ---
 
@@ -293,7 +293,7 @@ RS_20d: 0.93 | RS_65d: 1.32
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -39.6% | -67.39% | $6.42 | $7.31 | unknown_negative (gap_down) |
+| CAPR | -39.6% | -67.34% | $6.43 | $7.31 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

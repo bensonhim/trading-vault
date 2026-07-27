@@ -18,11 +18,11 @@ data_date: 2025-03-21
 > - **Breakouts:** 222 | **Breakdowns:** 223
 > - **Follow-through:** 3d=40.8% 5d=55.2% (OK)
 >
-> - T2108 falling from 29.2% to 24.1% — approaching bearish territory but not yet below 20%
-> - Leading sector PAVE has negative 20d RS (0.91) with high 65d RS (1.71) — top forming / rolling over
-> - Follow-through rate at 40% — breakouts failing, do not buy breakouts
-> - All top-5 RS sectors down 10%+ over 20 days — no leadership strength anywhere
-> - 20% study shows 0/0 — possible stale data, reduce confidence
+> - Follow-through rate 40% — breakouts failing, do not buy breakouts
+> - T2108 falling from 29.2% to 24.1% — bounce attempt not lifting breadth
+> - PAVE leading sector has negative 20d RS (0.91) with high 65d RS (1.71) — top forming pattern
+> - 20% study at 0/0 — appears stale or extreme washout, no buying aggression evidence
+> - Rally is 6 days mature but T2108 still declining — weak bounce
 
 ---
 
@@ -222,24 +222,24 @@ RS_20d: 0.91 | RS_65d: 1.71
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
 | 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | SATL | 9 | 5 | 21 | expanded |
-| 4 | FCEL | 9 | 4 | 23 | expanded |
-| 5 | KEEL | 9 | 4 | 19 | expanded |
-| 6 | RIOT | 9 | 4 | 58 | expanded |
-| 7 | USAR | 9 | 4 | 51 | expanded |
-| 8 | CLSK | 9 | 3 | 53 | core |
-| 9 | NVTS | 9 | 3 | 51 | core |
-| 10 | AMD | 8 | 4 | 45 | expanded |
-| 11 | APLD | 8 | 4 | 57 | core |
-| 12 | MU | 8 | 4 | 49 | core |
-| 13 | NBIS | 8 | 4 | 62 | core |
-| 14 | POET | 8 | 4 | 28 | expanded |
-| 15 | SMCI | 8 | 4 | 44 | expanded |
-| 16 | SPCE | 8 | 4 | 14 | expanded |
-| 17 | FIG | 8 | 3 | 28 | expanded |
-| 18 | INTC | 8 | 3 | 45 | expanded |
-| 19 | MRVL | 8 | 3 | 41 | expanded |
-| 20 | QCOM | 8 | 3 | 15 | expanded |
+| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 4 | SATL | 9 | 5 | 21 | expanded |
+| 5 | FCEL | 9 | 4 | 23 | expanded |
+| 6 | IONQ | 9 | 4 | 53 | core |
+| 7 | KEEL | 9 | 4 | 19 | expanded |
+| 8 | RIOT | 9 | 4 | 58 | expanded |
+| 9 | USAR | 9 | 4 | 51 | expanded |
+| 10 | CLSK | 9 | 3 | 53 | expanded |
+| 11 | NVTS | 9 | 3 | 51 | core |
+| 12 | AMD | 8 | 4 | 45 | expanded |
+| 13 | APLD | 8 | 4 | 57 | core |
+| 14 | MU | 8 | 4 | 49 | expanded |
+| 15 | NBIS | 8 | 4 | 62 | core |
+| 16 | POET | 8 | 4 | 28 | expanded |
+| 17 | SMCI | 8 | 4 | 44 | expanded |
+| 18 | SPCE | 8 | 4 | 14 | expanded |
+| 19 | FIG | 8 | 3 | 28 | expanded |
+| 20 | INTC | 8 | 3 | 45 | expanded |
 
 ### Sugar Babies in Hot Sectors (with active setups today)
 
@@ -257,7 +257,7 @@ RS_20d: 0.91 | RS_65d: 1.71
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -59.4% | -67.34% | $6.43 | $7.31 | unknown_negative (gap_down) |
+| CAPR | -59.4% | -67.64% | $6.38 | $7.31 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

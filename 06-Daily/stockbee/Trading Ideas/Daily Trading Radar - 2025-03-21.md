@@ -9,7 +9,7 @@ data_date: 2025-03-20
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **CAUTIOUS_BULL_LOW** — Action: **REDUCE_SIZE**
+> [!caution] **CAUTIOUS_BULL_HIGH** — Action: **REDUCE_SIZE**
 >
 > - **20% Study (bullish):** 21
 > - **20% Study (bearish):** 9
@@ -18,11 +18,11 @@ data_date: 2025-03-20
 > - **Breakouts:** 157 | **Breakdowns:** 161
 > - **Follow-through:** 3d=40.5% 5d=60.0% (OK)
 >
-> - Follow-through rate at 33% — breakouts failing to sustain, reduce size
-> - Leading sector PAVE showing top-forming pattern: 20d RS below 1.0 while 65d RS still elevated at 1.73
-> - Rally is mature at 5 days — easy breakouts already happened
+> - Follow-through rate at 33% — breakouts failing to follow through, reduce size
 > - Net Primary still deeply negative at -799 despite improving trend
-> - SPY closing near low intraday — mild distribution signal
+> - Rally mature at 5 days since low — easy breakouts already happened
+> - Leading sector PAVE shows RS_20d=0.95 below 1.0 with RS_65d=1.73 — potential top-forming pattern
+> - T2108 at 28% still in weak zone, not yet confirming healthy bull
 
 ---
 
@@ -242,24 +242,24 @@ RS_20d: 0.95 | RS_65d: 1.73
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
 | 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | SATL | 9 | 5 | 21 | expanded |
-| 4 | FCEL | 9 | 4 | 23 | expanded |
-| 5 | KEEL | 9 | 4 | 19 | expanded |
-| 6 | RIOT | 9 | 4 | 58 | expanded |
-| 7 | USAR | 9 | 4 | 51 | expanded |
-| 8 | CLSK | 9 | 3 | 53 | core |
-| 9 | NVTS | 9 | 3 | 51 | core |
-| 10 | AMD | 8 | 4 | 45 | expanded |
-| 11 | APLD | 8 | 4 | 57 | core |
-| 12 | MU | 8 | 4 | 49 | core |
-| 13 | NBIS | 8 | 4 | 62 | core |
-| 14 | POET | 8 | 4 | 28 | expanded |
-| 15 | SMCI | 8 | 4 | 44 | expanded |
-| 16 | SPCE | 8 | 4 | 14 | expanded |
-| 17 | FIG | 8 | 3 | 28 | expanded |
-| 18 | INTC | 8 | 3 | 45 | expanded |
-| 19 | MRVL | 8 | 3 | 41 | expanded |
-| 20 | QCOM | 8 | 3 | 15 | expanded |
+| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 4 | SATL | 9 | 5 | 21 | expanded |
+| 5 | FCEL | 9 | 4 | 23 | expanded |
+| 6 | IONQ | 9 | 4 | 53 | core |
+| 7 | KEEL | 9 | 4 | 19 | expanded |
+| 8 | RIOT | 9 | 4 | 58 | expanded |
+| 9 | USAR | 9 | 4 | 51 | expanded |
+| 10 | CLSK | 9 | 3 | 53 | expanded |
+| 11 | NVTS | 9 | 3 | 51 | core |
+| 12 | AMD | 8 | 4 | 45 | expanded |
+| 13 | APLD | 8 | 4 | 57 | core |
+| 14 | MU | 8 | 4 | 49 | expanded |
+| 15 | NBIS | 8 | 4 | 62 | core |
+| 16 | POET | 8 | 4 | 28 | expanded |
+| 17 | SMCI | 8 | 4 | 44 | expanded |
+| 18 | SPCE | 8 | 4 | 14 | expanded |
+| 19 | FIG | 8 | 3 | 28 | expanded |
+| 20 | INTC | 8 | 3 | 45 | expanded |
 
 ### Sugar Babies in Hot Sectors (with active setups today)
 
@@ -277,7 +277,7 @@ RS_20d: 0.95 | RS_65d: 1.73
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -52.3% | -67.87% | $6.33 | $7.31 | unknown_negative (gap_down) |
+| CAPR | -52.3% | -67.46% | $6.41 | $7.31 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
@@ -303,10 +303,9 @@ RS_20d: 0.95 | RS_65d: 1.73
 
 ## 11. Action Summary
 
-- [ ] **REDUCE SIZE — MANAGE EXISTING ONLY**
-- [ ] No new aggressive entries — manage existing positions only
-- [ ] Tighten stops to breakeven on existing positions
-- [ ] Wait for breadth to stabilize before adding
+- [ ] **REDUCE SIZE — SELECTIVE BUYING (75% size)**
+- [ ] Buy A+ and A confluences at 75% normal size with tight stops
+- [ ] No DEP candidates — no limit orders to place
 - [ ] **Focus on SIPs** — 8 fresh catalyst stocks for day trade
 - [ ] Sell into strength on existing positions
 - [ ] Leading sector: PAVE — watch for setups in this sector

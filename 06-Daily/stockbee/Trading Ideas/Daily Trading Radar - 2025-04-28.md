@@ -9,7 +9,7 @@ data_date: 2025-04-25
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **CAUTIOUS_BULL_HIGH** — Action: **REDUCE_SIZE**
+> [!caution] **CAUTIOUS_BULL_LOW** — Action: **REDUCE_SIZE**
 >
 > - **20% Study (bullish):** 0
 > - **20% Study (bearish):** 0
@@ -18,11 +18,11 @@ data_date: 2025-04-25
 > - **Breakouts:** 179 | **Breakdowns:** 122
 > - **Follow-through:** 3d=43.6% 5d=58.0% (OK)
 >
-> - Net Primary still deeply negative at -711 — recovery not confirmed until it turns positive
-> - Leading sector QTUM weakening: 20d RS (1.00) below 65d RS (1.30) — potential top-forming pattern
-> - Rotation into energy (XOP, XLE) and biotech (IBB, XBI) instead of growth leaders — misleading breadth
-> - Rally is 12 days mature — easy breakouts already happened
-> - 20% study shows 0/0 — data appears stale, no confirmation signal available
+> - Net Primary still negative (-711) despite improving — bull not confirmed yet
+> - Sector leadership from energy/biotech with negative 20d returns = possible rotation trap, not genuine risk-on
+> - QTUM leading sector weak (RS_20d 1.00, closing near lows) — former leader may be rolling over
+> - Rally mature at 12 days — easy breakouts already happened
+> - 20% study shows 0/0 — data may be stale or no buying binge detected yet
 
 ---
 
@@ -243,24 +243,24 @@ RS_20d: 1.00 | RS_65d: 1.30
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
 | 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | SATL | 9 | 5 | 21 | expanded |
-| 4 | FCEL | 9 | 4 | 23 | expanded |
-| 5 | IONQ | 9 | 4 | 53 | core |
-| 6 | KEEL | 9 | 4 | 19 | expanded |
-| 7 | RIOT | 9 | 4 | 58 | expanded |
-| 8 | USAR | 9 | 4 | 51 | expanded |
-| 9 | CLSK | 9 | 3 | 53 | expanded |
-| 10 | NVTS | 9 | 3 | 51 | core |
-| 11 | AMD | 8 | 4 | 45 | expanded |
-| 12 | APLD | 8 | 4 | 57 | core |
-| 13 | MU | 8 | 4 | 49 | expanded |
-| 14 | NBIS | 8 | 4 | 62 | core |
-| 15 | POET | 8 | 4 | 28 | expanded |
-| 16 | SMCI | 8 | 4 | 44 | expanded |
-| 17 | SPCE | 8 | 4 | 14 | expanded |
-| 18 | FIG | 8 | 3 | 28 | expanded |
-| 19 | INTC | 8 | 3 | 45 | expanded |
-| 20 | MRVL | 8 | 3 | 41 | expanded |
+| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 4 | SATL | 9 | 5 | 21 | expanded |
+| 5 | FCEL | 9 | 4 | 23 | expanded |
+| 6 | IONQ | 9 | 4 | 53 | core |
+| 7 | KEEL | 9 | 4 | 19 | expanded |
+| 8 | RIOT | 9 | 4 | 58 | expanded |
+| 9 | USAR | 9 | 4 | 51 | expanded |
+| 10 | CLSK | 9 | 3 | 53 | expanded |
+| 11 | NVTS | 9 | 3 | 51 | core |
+| 12 | AMD | 8 | 4 | 45 | expanded |
+| 13 | APLD | 8 | 4 | 57 | core |
+| 14 | MU | 8 | 4 | 49 | expanded |
+| 15 | NBIS | 8 | 4 | 62 | core |
+| 16 | POET | 8 | 4 | 28 | expanded |
+| 17 | SMCI | 8 | 4 | 44 | expanded |
+| 18 | SPCE | 8 | 4 | 14 | expanded |
+| 19 | FIG | 8 | 3 | 28 | expanded |
+| 20 | INTC | 8 | 3 | 45 | expanded |
 
 ### Sugar Babies in Hot Sectors (with active setups today)
 
@@ -278,7 +278,7 @@ RS_20d: 1.00 | RS_65d: 1.30
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -56.1% | -67.54% | $6.39 | $7.31 | unknown_negative (gap_down) |
+| CAPR | -56.1% | -67.13% | $6.47 | $7.31 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

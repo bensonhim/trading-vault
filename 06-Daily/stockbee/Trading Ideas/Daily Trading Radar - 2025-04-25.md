@@ -18,11 +18,11 @@ data_date: 2025-04-24
 > - **Breakouts:** 454 | **Breakdowns:** 70
 > - **Follow-through:** 3d=39.6% 5d=52.0% (OK)
 >
-> - Net Primary still negative at -743 despite 5-day improvement — not yet confirmed bullish
-> - XLK leading sector RS_20d=0.98 below 1.0 while RS_65d=1.39 — top forming pattern in former leader
-> - Rally is 11 days mature from capitulation low — easy breakouts already happened
-> - Energy sectors (XOP, XLE) topping RS_20d leaderboard — potential rotation trap if tech/AI lagging
-> - SPY and QQQ closed near lows on latest day — minor intraday distribution signal
+> - Net Primary still deeply negative at -743 despite rapid improvement — not yet confirmed bullish
+> - Rally is 11 days mature from capitulation low — easy breakouts already happened, be selective
+> - XLK (former leader) showing RS_20d of 0.98 while RS_65d is 1.39 — possible top-forming pattern in technology leader
+> - Energy sectors (XOP, XLE) leading short-term RS with negative 20-day returns — possible rotation trap if leaders continue to lag
+> - SPY and QQQ both closed near lows intraday on 7/24 — mild intraday distribution signal
 
 ---
 
@@ -249,24 +249,24 @@ RS_20d: 0.98 | RS_65d: 1.39
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
 | 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | SATL | 9 | 5 | 21 | expanded |
-| 4 | FCEL | 9 | 4 | 23 | expanded |
-| 5 | IONQ | 9 | 4 | 53 | core |
-| 6 | KEEL | 9 | 4 | 19 | expanded |
-| 7 | RIOT | 9 | 4 | 58 | expanded |
-| 8 | USAR | 9 | 4 | 51 | expanded |
-| 9 | CLSK | 9 | 3 | 53 | expanded |
-| 10 | NVTS | 9 | 3 | 51 | core |
-| 11 | AMD | 8 | 4 | 45 | expanded |
-| 12 | APLD | 8 | 4 | 57 | core |
-| 13 | MU | 8 | 4 | 49 | expanded |
-| 14 | NBIS | 8 | 4 | 62 | core |
-| 15 | POET | 8 | 4 | 28 | expanded |
-| 16 | SMCI | 8 | 4 | 44 | expanded |
-| 17 | SPCE | 8 | 4 | 14 | expanded |
-| 18 | FIG | 8 | 3 | 28 | expanded |
-| 19 | INTC | 8 | 3 | 45 | expanded |
-| 20 | MRVL | 8 | 3 | 41 | expanded |
+| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 4 | SATL | 9 | 5 | 21 | expanded |
+| 5 | FCEL | 9 | 4 | 23 | expanded |
+| 6 | IONQ | 9 | 4 | 53 | core |
+| 7 | KEEL | 9 | 4 | 19 | expanded |
+| 8 | RIOT | 9 | 4 | 58 | expanded |
+| 9 | USAR | 9 | 4 | 51 | expanded |
+| 10 | CLSK | 9 | 3 | 53 | expanded |
+| 11 | NVTS | 9 | 3 | 51 | core |
+| 12 | AMD | 8 | 4 | 45 | expanded |
+| 13 | APLD | 8 | 4 | 57 | core |
+| 14 | MU | 8 | 4 | 49 | expanded |
+| 15 | NBIS | 8 | 4 | 62 | core |
+| 16 | POET | 8 | 4 | 28 | expanded |
+| 17 | SMCI | 8 | 4 | 44 | expanded |
+| 18 | SPCE | 8 | 4 | 14 | expanded |
+| 19 | FIG | 8 | 3 | 28 | expanded |
+| 20 | INTC | 8 | 3 | 45 | expanded |
 
 ---
 
@@ -276,7 +276,7 @@ RS_20d: 0.98 | RS_65d: 1.39
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -55.7% | -67.41% | $6.42 | $7.31 | unknown_negative (gap_down) |
+| CAPR | -55.7% | -67.16% | $6.47 | $7.31 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

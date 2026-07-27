@@ -9,7 +9,7 @@ data_date: 2025-03-24
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **CAUTIOUS_BULL_HIGH** — Action: **REDUCE_SIZE**
+> [!caution] **CAUTIOUS_BULL_LOW** — Action: **REDUCE_SIZE**
 >
 > - **20% Study (bullish):** 37
 > - **20% Study (bearish):** 7
@@ -18,11 +18,11 @@ data_date: 2025-03-24
 > - **Breakouts:** 251 | **Breakdowns:** 86
 > - **Follow-through:** 3d=31.0% 5d=27.7% (FAILING)
 >
-> - Net Primary still negative (-636) — bullish regime not confirmed by primary indicator yet
-> - Rally is mature at 7 days — easy breakouts have already happened, be selective
-> - SPY closed near low on latest day — watch for intraday distribution pattern
-> - 20% study count is low (37) — buying binge is early stage, not broad-based yet
-> - Leading sector PAVE has modest 20d RS (0.48) — not showing explosive leadership
+> - Net Primary still deeply negative (-636) despite improving trend — bull not confirmed
+> - Rally is 7 days mature — easy breakouts already happened
+> - PAVE (former leader) rolling over: RS_20d 0.48 vs RS_65d 1.63 — top forming pattern
+> - No breakout follow-through data available — cannot confirm breakouts are working
+> - T2108 at 31% is in washout bounce zone — bounce could stall if breadth doesn't continue improving
 
 ---
 
@@ -237,24 +237,24 @@ RS_20d: 0.48 | RS_65d: 1.63
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
 | 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | SATL | 9 | 5 | 21 | expanded |
-| 4 | FCEL | 9 | 4 | 23 | expanded |
-| 5 | KEEL | 9 | 4 | 19 | expanded |
-| 6 | RIOT | 9 | 4 | 58 | expanded |
-| 7 | USAR | 9 | 4 | 51 | expanded |
-| 8 | CLSK | 9 | 3 | 53 | core |
-| 9 | NVTS | 9 | 3 | 51 | core |
-| 10 | AMD | 8 | 4 | 45 | expanded |
-| 11 | APLD | 8 | 4 | 57 | core |
-| 12 | MU | 8 | 4 | 49 | expanded |
-| 13 | NBIS | 8 | 4 | 62 | core |
-| 14 | POET | 8 | 4 | 28 | expanded |
-| 15 | SMCI | 8 | 4 | 44 | expanded |
-| 16 | SPCE | 8 | 4 | 14 | expanded |
-| 17 | FIG | 8 | 3 | 28 | expanded |
-| 18 | INTC | 8 | 3 | 45 | expanded |
-| 19 | MRVL | 8 | 3 | 41 | expanded |
-| 20 | QCOM | 8 | 3 | 15 | expanded |
+| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 4 | SATL | 9 | 5 | 21 | expanded |
+| 5 | FCEL | 9 | 4 | 23 | expanded |
+| 6 | IONQ | 9 | 4 | 53 | core |
+| 7 | KEEL | 9 | 4 | 19 | expanded |
+| 8 | RIOT | 9 | 4 | 58 | expanded |
+| 9 | USAR | 9 | 4 | 51 | expanded |
+| 10 | CLSK | 9 | 3 | 53 | expanded |
+| 11 | NVTS | 9 | 3 | 51 | core |
+| 12 | AMD | 8 | 4 | 45 | expanded |
+| 13 | APLD | 8 | 4 | 57 | core |
+| 14 | MU | 8 | 4 | 49 | expanded |
+| 15 | NBIS | 8 | 4 | 62 | core |
+| 16 | POET | 8 | 4 | 28 | expanded |
+| 17 | SMCI | 8 | 4 | 44 | expanded |
+| 18 | SPCE | 8 | 4 | 14 | expanded |
+| 19 | FIG | 8 | 3 | 28 | expanded |
+| 20 | INTC | 8 | 3 | 45 | expanded |
 
 ---
 
@@ -264,7 +264,7 @@ RS_20d: 0.48 | RS_65d: 1.63
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -54.7% | -67.49% | $6.41 | $7.31 | unknown_negative (gap_down) |
+| CAPR | -54.7% | -67.46% | $6.41 | $7.31 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
