@@ -9,7 +9,7 @@ data_date: 2025-11-28
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **CAUTIOUS_BULL_HIGH** — Action: **REDUCE_SIZE**
+> [!caution] **CAUTIOUS_BULL_LOW** — Action: **REDUCE_SIZE**
 >
 > - **20% Study (bullish):** 0
 > - **20% Study (bearish):** 0
@@ -18,11 +18,11 @@ data_date: 2025-11-28
 > - **Breakouts:** 144 | **Breakdowns:** 26
 > - **Follow-through:** 3d=32.0% 5d=23.3% (FAILING)
 >
-> - Defensive sectors leading (SIL, GDX, XLV) while aggressive sectors absent — rotation trap risk
-> - Rally mature at 5 days — easy breakouts already happened
-> - 20% study at 0/0 is extreme low — lagging indicator, buying binge hasn't shown up yet
-> - Intraday distribution pattern — SPY and QQQ closing near lows
-> - Net Primary barely positive at +5 — still fragile, needs continuation to confirm
+> - Rally is 5 days mature — easy breakouts already happened, this is 'yesterday was the day' territory
+> - Defensive sectors leading (SIL, GDX, XLV) while tech/semis absent — rotation trap pattern
+> - Breakouts collapsing from 665 to 144, no new breakouts in last 2 days
+> - Intraday distribution: SPY and QQQ closing near lows despite range-bound action
+> - 20% study at 0/0 is likely stale/missing data — no confirmation of aggressive fund buying
 
 ---
 
@@ -239,24 +239,24 @@ RS_20d: 28.71 | RS_65d: 6.83
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
 | 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | SATL | 9 | 5 | 21 | expanded |
-| 4 | FCEL | 9 | 4 | 23 | expanded |
-| 5 | KEEL | 9 | 4 | 19 | expanded |
-| 6 | RIOT | 9 | 4 | 58 | expanded |
-| 7 | USAR | 9 | 4 | 51 | expanded |
-| 8 | CLSK | 9 | 3 | 53 | core |
-| 9 | NVTS | 9 | 3 | 51 | core |
-| 10 | AMD | 8 | 4 | 45 | expanded |
-| 11 | APLD | 8 | 4 | 57 | core |
-| 12 | MU | 8 | 4 | 49 | core |
-| 13 | NBIS | 8 | 4 | 62 | core |
-| 14 | POET | 8 | 4 | 28 | expanded |
-| 15 | SMCI | 8 | 4 | 44 | expanded |
-| 16 | SPCE | 8 | 4 | 14 | expanded |
-| 17 | FIG | 8 | 3 | 28 | expanded |
-| 18 | INTC | 8 | 3 | 45 | expanded |
-| 19 | MRVL | 8 | 3 | 41 | expanded |
-| 20 | QCOM | 8 | 3 | 15 | expanded |
+| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 4 | SATL | 9 | 5 | 21 | expanded |
+| 5 | FCEL | 9 | 4 | 23 | expanded |
+| 6 | IONQ | 9 | 4 | 53 | core |
+| 7 | KEEL | 9 | 4 | 19 | expanded |
+| 8 | RIOT | 9 | 4 | 58 | expanded |
+| 9 | USAR | 9 | 4 | 51 | expanded |
+| 10 | CLSK | 9 | 3 | 53 | expanded |
+| 11 | NVTS | 9 | 3 | 51 | core |
+| 12 | AMD | 8 | 4 | 45 | expanded |
+| 13 | APLD | 8 | 4 | 57 | core |
+| 14 | MU | 8 | 4 | 49 | expanded |
+| 15 | NBIS | 8 | 4 | 62 | core |
+| 16 | POET | 8 | 4 | 28 | expanded |
+| 17 | SMCI | 8 | 4 | 44 | expanded |
+| 18 | SPCE | 8 | 4 | 14 | expanded |
+| 19 | FIG | 8 | 3 | 28 | expanded |
+| 20 | INTC | 8 | 3 | 45 | expanded |
 
 ---
 
@@ -266,7 +266,7 @@ RS_20d: 28.71 | RS_65d: 6.83
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | 12.2% | -67.51% | $6.40 | $7.31 | unknown_negative (intraday_down) |
+| CAPR | 12.2% | -67.66% | $6.37 | $7.31 | unknown_negative (intraday_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
@@ -293,10 +293,10 @@ RS_20d: 28.71 | RS_65d: 6.83
 | Ticker | SB Tier | Sector ETF | Decline from Peak | Notes |
 |--------|---------|-----------|-------------------|-------|
 | INHD | expanded | XLK | -79.5% | SB in weakening sector XLK (RS_20d=-9.01), down 79% from peak |
+| ALP | expanded | XLK | -65.1% | SB in weakening sector XLK (RS_20d=-9.01), down 65% from peak |
 | HKIT | expanded | XLK | -60.7% | SB in weakening sector XLK (RS_20d=-9.01), down 61% from peak |
-| BLZE | expanded | XLK | -55.8% | SB in weakening sector XLK (RS_20d=-9.01), down 56% from peak |
-| TSSI | expanded | XLK | -52.5% | SB in weakening sector XLK (RS_20d=-9.01), down 52% from peak |
-| ASNS | expanded | XLK | -51.4% | SB in weakening sector XLK (RS_20d=-9.01), down 51% from peak |
+| ORBS | expanded | XLK | -59.2% | SB in weakening sector XLK (RS_20d=-9.01), down 59% from peak |
+| KITT | expanded | PPA | -58.0% | SB in weakening sector PPA (RS_20d=-7.08), down 58% from peak |
 
 ### Bearish Reversal (5) — 3:58 PM exhaustion
 

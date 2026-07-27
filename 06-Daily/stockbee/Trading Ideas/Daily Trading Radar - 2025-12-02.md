@@ -18,11 +18,11 @@ data_date: 2025-12-01
 > - **Breakouts:** 137 | **Breakdowns:** 584
 > - **Follow-through:** 3d=32.3% 5d=18.0% (FAILING)
 >
-> - Leading sector XBI rolling over — negative 20d RS (-24.14) with positive 65d RS (+6.78) = top-forming distribution pattern
-> - Breakdown count spiked to 584 from 26 — major selling pressure reasserting after a 6-day bounce
-> - Rally is mature at 6 days — easy breakouts already happened, new entries are low-probability
-> - Intraday distribution pattern — SPY and QQQ both closed near lows
-> - 20% study neutral at 1:1 ratio — no evidence of aggressive fund buying
+> - Breakdowns spiked to 584 today vs 137 breakouts — BD > 4x BO, heavy selling pressure
+> - Leading sector XBI has negative 20d RS (-24.14) while 65d RS is positive — potential top forming pattern
+> - Former leader SIL rolling over (65d leader with negative 20d RS) — institutional distribution signal
+> - Rally is mature (6 days) — easy breakouts already happened, new entries higher risk
+> - Zero breakout follow-through data for 3 consecutive days — no breakouts are even happening to evaluate
 
 ---
 
@@ -262,24 +262,24 @@ RS_20d: -24.14 | RS_65d: 6.78
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
 | 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | SATL | 9 | 5 | 21 | expanded |
-| 4 | FCEL | 9 | 4 | 23 | expanded |
-| 5 | KEEL | 9 | 4 | 19 | expanded |
-| 6 | RIOT | 9 | 4 | 58 | expanded |
-| 7 | USAR | 9 | 4 | 51 | expanded |
-| 8 | CLSK | 9 | 3 | 53 | expanded |
-| 9 | NVTS | 9 | 3 | 51 | core |
-| 10 | AMD | 8 | 4 | 45 | expanded |
-| 11 | APLD | 8 | 4 | 57 | core |
-| 12 | MU | 8 | 4 | 49 | expanded |
-| 13 | NBIS | 8 | 4 | 62 | core |
-| 14 | POET | 8 | 4 | 28 | expanded |
-| 15 | SMCI | 8 | 4 | 44 | expanded |
-| 16 | SPCE | 8 | 4 | 14 | expanded |
-| 17 | FIG | 8 | 3 | 28 | expanded |
-| 18 | INTC | 8 | 3 | 45 | expanded |
-| 19 | MRVL | 8 | 3 | 41 | expanded |
-| 20 | QCOM | 8 | 3 | 15 | expanded |
+| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 4 | SATL | 9 | 5 | 21 | expanded |
+| 5 | FCEL | 9 | 4 | 23 | expanded |
+| 6 | IONQ | 9 | 4 | 53 | core |
+| 7 | KEEL | 9 | 4 | 19 | expanded |
+| 8 | RIOT | 9 | 4 | 58 | expanded |
+| 9 | USAR | 9 | 4 | 51 | expanded |
+| 10 | CLSK | 9 | 3 | 53 | expanded |
+| 11 | NVTS | 9 | 3 | 51 | core |
+| 12 | AMD | 8 | 4 | 45 | expanded |
+| 13 | APLD | 8 | 4 | 57 | core |
+| 14 | MU | 8 | 4 | 49 | expanded |
+| 15 | NBIS | 8 | 4 | 62 | core |
+| 16 | POET | 8 | 4 | 28 | expanded |
+| 17 | SMCI | 8 | 4 | 44 | expanded |
+| 18 | SPCE | 8 | 4 | 14 | expanded |
+| 19 | CRWV | 8 | 3 | 60 | core |
+| 20 | FIG | 8 | 3 | 28 | expanded |
 
 ---
 
@@ -289,7 +289,7 @@ RS_20d: -24.14 | RS_65d: 6.78
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | 8.9% | -67.44% | $6.42 | $7.31 | unknown_negative (intraday_down) |
+| CAPR | 8.9% | -67.84% | $6.33 | $7.31 | unknown_negative (intraday_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
@@ -315,11 +315,11 @@ RS_20d: -24.14 | RS_65d: 6.78
 
 | Ticker | SB Tier | Sector ETF | Decline from Peak | Notes |
 |--------|---------|-----------|-------------------|-------|
+| CERO | expanded | XBI | -96.3% | SB in weakening sector XBI (RS_20d=-24.14), down 96% from peak |
 | PAVS | expanded | XLV | -92.6% | SB in weakening sector XLV (RS_20d=-29.16), down 93% from peak |
 | MIMI | expanded | ITB | -92.0% | SB in weakening sector ITB (RS_20d=-12.22), down 92% from peak |
 | CMND | expanded | XBI | -85.6% | SB in weakening sector XBI (RS_20d=-24.14), down 86% from peak |
 | DCOY | expanded | XBI | -77.6% | SB in weakening sector XBI (RS_20d=-24.14), down 78% from peak |
-| CODX | expanded | XBI | -71.3% | SB in weakening sector XBI (RS_20d=-24.14), down 71% from peak |
 
 ### Momentum Inversion (5) — former leaders rolling over
 

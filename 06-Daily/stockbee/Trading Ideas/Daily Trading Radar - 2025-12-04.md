@@ -18,11 +18,11 @@ data_date: 2025-12-03
 > - **Breakouts:** 570 | **Breakdowns:** 99
 > - **Follow-through:** 3d=28.4% 5d=16.8% (FAILING)
 >
-> - Defensive sectors (SIL, GDX) leading while growth leaders (semis, AI, tech) absent — rotation trap risk
-> - Net Primary barely positive and choppy over 5 days (-122 to +5 to -156 to -163 to +65) — no clear momentum
-> - Follow-through rate at 57% — breakouts are mixed, not reliable
-> - Rally mature at 8 days since last low — easy breakouts already happened
-> - 20% study at 0/0 — no evidence of buying binge yet
+> - Rotation trap: leading sectors are SIL/GDX (silver/gold miners) — old economy, not tech/semis/AI
+> - Net Primary choppy: oscillated from -122 to +5 to -156 to -163 to +65 — no clean bullish trend
+> - Rally mature at 8 days since low — easy breakouts already happened
+> - Stale/inconsistent data: SPY dates (July 2026) don't match breadth dates (December 2025)
+> - 20% study shows 0/0 — likely missing or stale data, cannot confirm buying binge
 
 ---
 
@@ -235,24 +235,24 @@ RS_20d: 17.90 | RS_65d: 4.09
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
 | 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | SATL | 9 | 5 | 21 | expanded |
-| 4 | FCEL | 9 | 4 | 23 | expanded |
-| 5 | IONQ | 9 | 4 | 53 | core |
-| 6 | KEEL | 9 | 4 | 19 | expanded |
-| 7 | RIOT | 9 | 4 | 58 | expanded |
-| 8 | USAR | 9 | 4 | 51 | expanded |
-| 9 | CLSK | 9 | 3 | 53 | expanded |
-| 10 | NVTS | 9 | 3 | 51 | core |
-| 11 | AMD | 8 | 4 | 45 | expanded |
-| 12 | APLD | 8 | 4 | 57 | core |
-| 13 | MU | 8 | 4 | 49 | expanded |
-| 14 | NBIS | 8 | 4 | 62 | core |
-| 15 | POET | 8 | 4 | 28 | expanded |
-| 16 | SMCI | 8 | 4 | 44 | expanded |
-| 17 | SPCE | 8 | 4 | 14 | expanded |
-| 18 | FIG | 8 | 3 | 28 | expanded |
-| 19 | INTC | 8 | 3 | 45 | expanded |
-| 20 | MRVL | 8 | 3 | 41 | expanded |
+| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 4 | SATL | 9 | 5 | 21 | expanded |
+| 5 | FCEL | 9 | 4 | 23 | expanded |
+| 6 | IONQ | 9 | 4 | 53 | core |
+| 7 | KEEL | 9 | 4 | 19 | expanded |
+| 8 | RIOT | 9 | 4 | 58 | expanded |
+| 9 | USAR | 9 | 4 | 51 | expanded |
+| 10 | CLSK | 9 | 3 | 53 | expanded |
+| 11 | NVTS | 9 | 3 | 51 | expanded |
+| 12 | AMD | 8 | 4 | 45 | expanded |
+| 13 | APLD | 8 | 4 | 57 | core |
+| 14 | MU | 8 | 4 | 49 | expanded |
+| 15 | NBIS | 8 | 4 | 62 | core |
+| 16 | POET | 8 | 4 | 28 | expanded |
+| 17 | SMCI | 8 | 4 | 44 | expanded |
+| 18 | SPCE | 8 | 4 | 14 | expanded |
+| 19 | CRWV | 8 | 3 | 60 | core |
+| 20 | FIG | 8 | 3 | 28 | expanded |
 
 ---
 
@@ -262,7 +262,7 @@ RS_20d: 17.90 | RS_65d: 4.09
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -8.4% | -67.54% | $6.39 | $7.31 | unknown_negative (gap_down) |
+| CAPR | -8.4% | -67.72% | $6.36 | $7.31 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
@@ -290,9 +290,9 @@ RS_20d: 17.90 | RS_65d: 4.09
 |--------|---------|-----------|-------------------|-------|
 | INHD | expanded | XLK | -84.3% | SB in weakening sector XLK (RS_20d=-1.05), down 84% from peak |
 | ALP | expanded | XLK | -70.6% | SB in weakening sector XLK (RS_20d=-1.05), down 71% from peak |
+| TGL | expanded | XLK | -67.2% | SB in weakening sector XLK (RS_20d=-1.05), down 67% from peak |
 | HKIT | expanded | XLK | -63.9% | SB in weakening sector XLK (RS_20d=-1.05), down 64% from peak |
-| BLZE | expanded | XLK | -55.1% | SB in weakening sector XLK (RS_20d=-1.05), down 55% from peak |
-| TSSI | expanded | XLK | -55.1% | SB in weakening sector XLK (RS_20d=-1.05), down 55% from peak |
+| SOBR | expanded | XLK | -56.4% | SB in weakening sector XLK (RS_20d=-1.05), down 56% from peak |
 
 ### Momentum Inversion (5) — former leaders rolling over
 

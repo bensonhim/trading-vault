@@ -9,7 +9,7 @@ data_date: 2025-04-28
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **CAUTIOUS_BULL_HIGH** — Action: **REDUCE_SIZE**
+> [!caution] **CAUTIOUS_BULL_LOW** — Action: **REDUCE_SIZE**
 >
 > - **20% Study (bullish):** 47
 > - **20% Study (bearish):** 9
@@ -18,11 +18,11 @@ data_date: 2025-04-28
 > - **Breakouts:** 174 | **Breakdowns:** 121
 > - **Follow-through:** 3d=42.3% 5d=29.3% (FAILING)
 >
-> - SMH former leader rolling over: 20d RS 0.83 negative while 65d RS 2.18 still high — top forming pattern
-> - Rotation trap: defensive sectors (XOP, XLE, XLV) leading while aggressive leader SMH sells off
-> - Net Primary still negative at -673 despite improving trend — breadth recovery not yet confirmed
-> - Rally mature at 13 days since capitulation low — easy breakouts already happened
-> - SMH closed near low on latest day (-2.3%) — intraday distribution in leading sector
+> - SMH top forming: 20d RS 0.83 (negative) while 65d RS 2.18 still high — leading sector rolling over
+> - Rotation trap: defensive sectors (XOP, XLE, XLV, IBB) leading while semis/AI sell off
+> - Rally mature at 13 days — easy breakouts already happened
+> - Net Primary still negative at -673 despite improvement
+> - Breakouts collapsing from 576 to 174 over 5 days — buying binge fading
 
 ---
 
@@ -254,24 +254,24 @@ RS_20d: 0.83 | RS_65d: 2.18
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
 | 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | SATL | 9 | 5 | 21 | expanded |
-| 4 | FCEL | 9 | 4 | 23 | expanded |
-| 5 | IONQ | 9 | 4 | 53 | core |
-| 6 | KEEL | 9 | 4 | 19 | expanded |
-| 7 | RIOT | 9 | 4 | 58 | expanded |
-| 8 | USAR | 9 | 4 | 51 | expanded |
-| 9 | CLSK | 9 | 3 | 53 | expanded |
-| 10 | NVTS | 9 | 3 | 51 | core |
-| 11 | AMD | 8 | 4 | 45 | expanded |
-| 12 | APLD | 8 | 4 | 57 | core |
-| 13 | MU | 8 | 4 | 49 | expanded |
-| 14 | NBIS | 8 | 4 | 62 | core |
-| 15 | POET | 8 | 4 | 28 | expanded |
-| 16 | SMCI | 8 | 4 | 44 | expanded |
-| 17 | SPCE | 8 | 4 | 14 | expanded |
-| 18 | FIG | 8 | 3 | 28 | expanded |
-| 19 | INTC | 8 | 3 | 45 | expanded |
-| 20 | MRVL | 8 | 3 | 41 | expanded |
+| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 4 | SATL | 9 | 5 | 21 | expanded |
+| 5 | FCEL | 9 | 4 | 23 | expanded |
+| 6 | IONQ | 9 | 4 | 53 | core |
+| 7 | KEEL | 9 | 4 | 19 | expanded |
+| 8 | RIOT | 9 | 4 | 58 | expanded |
+| 9 | USAR | 9 | 4 | 51 | expanded |
+| 10 | CLSK | 9 | 3 | 53 | expanded |
+| 11 | NVTS | 9 | 3 | 51 | core |
+| 12 | AMD | 8 | 4 | 45 | expanded |
+| 13 | APLD | 8 | 4 | 57 | core |
+| 14 | MU | 8 | 4 | 49 | expanded |
+| 15 | NBIS | 8 | 4 | 62 | core |
+| 16 | POET | 8 | 4 | 28 | expanded |
+| 17 | SMCI | 8 | 4 | 44 | expanded |
+| 18 | SPCE | 8 | 4 | 14 | expanded |
+| 19 | FIG | 8 | 3 | 28 | expanded |
+| 20 | INTC | 8 | 3 | 45 | expanded |
 
 ---
 
@@ -281,7 +281,7 @@ RS_20d: 0.83 | RS_65d: 2.18
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -55.3% | -67.36% | $6.43 | $7.31 | unknown_negative (gap_down) |
+| CAPR | -55.3% | -67.41% | $6.42 | $7.31 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
@@ -310,8 +310,8 @@ RS_20d: 0.83 | RS_65d: 2.18
 | IOTR | expanded | XLK | -77.9% | SB in weakening sector XLK (RS_20d=-0.99), down 78% from peak |
 | BULL | expanded | XLK | -75.5% | SB in weakening sector XLK (RS_20d=-0.99), down 75% from peak |
 | MLGO | expanded | XLK | -70.7% | SB in weakening sector XLK (RS_20d=-0.99), down 71% from peak |
+| TGL | expanded | XLK | -59.5% | SB in weakening sector XLK (RS_20d=-0.99), down 59% from peak |
 | HUBC | expanded | XLK | -54.7% | SB in weakening sector XLK (RS_20d=-0.99), down 55% from peak |
-| WLDS | expanded | XLK | -54.4% | SB in weakening sector XLK (RS_20d=-0.99), down 54% from peak |
 
 ### Bearish Reversal (5) — 3:58 PM exhaustion
 
