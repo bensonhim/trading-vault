@@ -18,11 +18,11 @@ data_date: 2026-01-02
 > - **Breakouts:** 432 | **Breakdowns:** 188
 > - **Follow-through:** 3d=14.7% 5d=12.4% (FAILING)
 >
-> - Net Primary trend deteriorating from +127 to +17 over 5 days — bull aging
+> - T2108 falling >5 points in 5 days — correction in progress, cap at CAUTIOUS_BULL_LOW
 > - Follow-through rate 38% — breakouts failing, reduce size
-> - T2108 falling from 52.7% to 46.3% — breadth weakening
-> - Defensive sector (XLV healthcare) leading with top-forming RS pattern — risk-off
-> - BUG (cybersecurity) flagged TOP FORMING — former leader rolling over
+> - Leading sector XLV top-forming: 20d RS negative (-2.63) while 65d RS still elevated (4.60)
+> - 20% study at 0/0 — no evidence of institutional buying binge
+> - Rotation trap risk: speculative/beaten-down sectors (ITB, BLOK, FINX, XOP) leading while traditional growth leaders absent
 
 ---
 
@@ -238,25 +238,25 @@ RS_20d: -2.63 | RS_65d: 4.60
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
-| 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 2 | RGTI | 10 | 5 | 62 | expanded |
+| 3 | IREN | 10 | 4 | 70 | expanded |
 | 4 | SATL | 9 | 5 | 21 | expanded |
 | 5 | SBET | 9 | 5 | 38 | expanded |
 | 6 | FCEL | 9 | 4 | 23 | expanded |
 | 7 | IONQ | 9 | 4 | 53 | core |
 | 8 | KEEL | 9 | 4 | 19 | expanded |
-| 9 | RIOT | 9 | 4 | 58 | expanded |
-| 10 | USAR | 9 | 4 | 51 | expanded |
-| 11 | CLSK | 9 | 3 | 53 | expanded |
-| 12 | NVTS | 9 | 3 | 51 | expanded |
-| 13 | AMD | 8 | 4 | 45 | expanded |
-| 14 | APLD | 8 | 4 | 57 | core |
-| 15 | MU | 8 | 4 | 49 | expanded |
-| 16 | NBIS | 8 | 4 | 62 | core |
-| 17 | POET | 8 | 4 | 28 | expanded |
-| 18 | SMCI | 8 | 4 | 44 | expanded |
-| 19 | SPCE | 8 | 4 | 14 | expanded |
-| 20 | ASTS | 8 | 3 | 56 | expanded |
+| 9 | LAES | 9 | 4 | 37 | expanded |
+| 10 | RIOT | 9 | 4 | 58 | expanded |
+| 11 | USAR | 9 | 4 | 51 | expanded |
+| 12 | CLSK | 9 | 3 | 53 | expanded |
+| 13 | NVTS | 9 | 3 | 51 | expanded |
+| 14 | OKLO | 9 | 3 | 64 | core |
+| 15 | AMD | 8 | 4 | 45 | expanded |
+| 16 | APLD | 8 | 4 | 57 | core |
+| 17 | EOSE | 8 | 4 | 53 | expanded |
+| 18 | HIVE | 8 | 4 | 23 | expanded |
+| 19 | MU | 8 | 4 | 49 | expanded |
+| 20 | NBIS | 8 | 4 | 62 | core |
 
 ---
 
@@ -266,7 +266,7 @@ RS_20d: -2.63 | RS_65d: 4.60
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -79.8% | -60.76% | $7.73 | $7.80 | unknown_negative (gap_down) |
+| CAPR | -79.8% | -64.49% | $7.00 | $7.82 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

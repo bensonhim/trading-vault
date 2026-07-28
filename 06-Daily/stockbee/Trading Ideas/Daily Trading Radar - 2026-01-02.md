@@ -9,7 +9,7 @@ data_date: 2025-12-31
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **CAUTIOUS_BULL_LOW** — Action: **REDUCE_SIZE**
+> [!caution] **RANGE_BOUND** — Action: **REDUCE_SIZE**
 >
 > - **20% Study (bullish):** 0
 > - **20% Study (bearish):** 0
@@ -18,11 +18,11 @@ data_date: 2025-12-31
 > - **Breakouts:** 133 | **Breakdowns:** 145
 > - **Follow-through:** 3d=22.3% 5d=17.5% (FAILING)
 >
-> - Net Primary crossed negative and deteriorating — distribution accelerating
-> - T2108 falling from 52.4% to 46.3% — breadth weakening
-> - Follow-through rate 36% — breakouts systematically failing, reduce size
-> - Leading sector UFO closing near lows on 3 of 5 days — leader distributing
-> - Sector rotation into gold/silver/banks/defense — rotation trap, not genuine strength
+> - Net Primary deteriorating 5 days straight: +154 → -81, now negative
+> - T2108 falling sharply (52.7% → 46.3%), correction in progress
+> - Follow-through rate 36% — breakouts consistently failing
+> - Breakdowns sustained over multiple days (391, 219, 164, 145) — not a one-day spike
+> - Rotation trap: defensive/speculative sectors (gold, silver, defense, banks) leading while growth/tech absent
 
 ---
 
@@ -238,25 +238,25 @@ RS_20d: 303.55 | RS_65d: 3.17
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
-| 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 2 | RGTI | 10 | 5 | 62 | expanded |
+| 3 | IREN | 10 | 4 | 70 | expanded |
 | 4 | SATL | 9 | 5 | 21 | expanded |
 | 5 | SBET | 9 | 5 | 38 | expanded |
 | 6 | FCEL | 9 | 4 | 23 | expanded |
 | 7 | IONQ | 9 | 4 | 53 | core |
 | 8 | KEEL | 9 | 4 | 19 | expanded |
-| 9 | RIOT | 9 | 4 | 58 | expanded |
-| 10 | USAR | 9 | 4 | 51 | expanded |
-| 11 | CLSK | 9 | 3 | 53 | expanded |
-| 12 | NVTS | 9 | 3 | 51 | expanded |
-| 13 | AMD | 8 | 4 | 45 | expanded |
-| 14 | APLD | 8 | 4 | 57 | core |
-| 15 | MU | 8 | 4 | 49 | expanded |
-| 16 | NBIS | 8 | 4 | 62 | core |
-| 17 | POET | 8 | 4 | 28 | expanded |
-| 18 | SMCI | 8 | 4 | 44 | expanded |
-| 19 | SPCE | 8 | 4 | 14 | expanded |
-| 20 | CIFR | 8 | 3 | 52 | expanded |
+| 9 | LAES | 9 | 4 | 37 | expanded |
+| 10 | RIOT | 9 | 4 | 58 | expanded |
+| 11 | USAR | 9 | 4 | 51 | expanded |
+| 12 | CLSK | 9 | 3 | 53 | expanded |
+| 13 | NVTS | 9 | 3 | 51 | expanded |
+| 14 | OKLO | 9 | 3 | 64 | core |
+| 15 | AMD | 8 | 4 | 45 | expanded |
+| 16 | APLD | 8 | 4 | 57 | core |
+| 17 | EOSE | 8 | 4 | 53 | expanded |
+| 18 | HIVE | 8 | 4 | 23 | expanded |
+| 19 | MU | 8 | 4 | 49 | expanded |
+| 20 | NBIS | 8 | 4 | 62 | core |
 
 ---
 
@@ -266,7 +266,7 @@ RS_20d: 303.55 | RS_65d: 3.17
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -79.9% | -61.55% | $7.58 | $7.68 | unknown_negative (gap_down) |
+| CAPR | -79.9% | -64.49% | $7.00 | $7.82 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
