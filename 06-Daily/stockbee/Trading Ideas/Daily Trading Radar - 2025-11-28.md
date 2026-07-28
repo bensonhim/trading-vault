@@ -18,11 +18,11 @@ data_date: 2025-11-26
 > - **Breakouts:** 348 | **Breakdowns:** 62
 > - **Follow-through:** 3d=37.0% 5d=40.0% (OK)
 >
-> - Rally mature (4 days) and extended — easy breakouts already happened
-> - 20% study overbought at 110 (>100 caution territory)
-> - Defensive sector XLU leading — risk-off rotation, not growth-led bounce
-> - Former leader XBI rolling over (65d leader, negative 20d RS) — institutional distribution
-> - Top RS_20d sectors (BLOK, UFO, FINX) all have negative 20d returns — beaten-down bounces, not true leadership
+> - Rally is 4 days mature — easy breakouts already happened, 'yesterday was the day' dynamic
+> - 20% study at 110 = overbought caution, buying binge may be peaking
+> - Defensive sector XLU leading = risk-off rotation, not growth-driven rally
+> - Former leader XBI rolling over (65d leader, negative 20d RS) = institutional distribution in former leader
+> - Net Primary still negative at -122 despite improvement — not yet in confirmed bull regime
 
 ---
 
@@ -315,37 +315,37 @@ RS_20d: 0.10 | RS_65d: 1.04
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
-| 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 2 | RGTI | 10 | 5 | 62 | expanded |
+| 3 | IREN | 10 | 4 | 70 | expanded |
 | 4 | SATL | 9 | 5 | 21 | expanded |
-| 5 | FCEL | 9 | 4 | 23 | expanded |
-| 6 | IONQ | 9 | 4 | 53 | core |
-| 7 | KEEL | 9 | 4 | 19 | expanded |
-| 8 | RIOT | 9 | 4 | 58 | expanded |
-| 9 | USAR | 9 | 4 | 51 | expanded |
-| 10 | CLSK | 9 | 3 | 53 | expanded |
-| 11 | NVTS | 9 | 3 | 51 | core |
-| 12 | AMD | 8 | 4 | 45 | expanded |
-| 13 | APLD | 8 | 4 | 57 | core |
-| 14 | MU | 8 | 4 | 49 | expanded |
-| 15 | NBIS | 8 | 4 | 62 | core |
-| 16 | POET | 8 | 4 | 28 | expanded |
-| 17 | SMCI | 8 | 4 | 44 | expanded |
-| 18 | SPCE | 8 | 4 | 14 | expanded |
-| 19 | FIG | 8 | 3 | 28 | expanded |
-| 20 | INTC | 8 | 3 | 45 | expanded |
+| 5 | SBET | 9 | 5 | 38 | expanded |
+| 6 | FCEL | 9 | 4 | 23 | expanded |
+| 7 | IONQ | 9 | 4 | 53 | core |
+| 8 | KEEL | 9 | 4 | 19 | expanded |
+| 9 | LAES | 9 | 4 | 37 | expanded |
+| 10 | RIOT | 9 | 4 | 58 | expanded |
+| 11 | USAR | 9 | 4 | 51 | expanded |
+| 12 | CLSK | 9 | 3 | 53 | expanded |
+| 13 | NVTS | 9 | 3 | 51 | expanded |
+| 14 | OKLO | 9 | 3 | 64 | core |
+| 15 | AMD | 8 | 4 | 45 | expanded |
+| 16 | APLD | 8 | 4 | 57 | core |
+| 17 | EOSE | 8 | 4 | 53 | expanded |
+| 18 | HIVE | 8 | 4 | 23 | expanded |
+| 19 | MU | 8 | 4 | 49 | expanded |
+| 20 | NBIS | 8 | 4 | 62 | core |
 
 ### Sugar Babies in Hot Sectors (with active setups today)
 
 | Ticker | SB Tier | 504d | 21d | 10d | 5d | Recency | Sector ETF | RS Rank | Status |
 |--------|---------|------|-----|-----|-----|---------|-----------|---------|--------|
+| HL | expanded | 38 | 5 | 3 | 2 | 50 | XLB (#3) | SETTING UP (ACTIVE (5d)) |
+| HAL | expanded | 14 | 4 | 3 | 2 | 47 | XLE (#1) | SETTING UP (ACTIVE (5d)) * |
+| EQX | expanded | 27 | 4 | 3 | 2 | 47 | XLB (#3) | SETTING UP (ACTIVE (5d)) |
 | B | expanded | 14 | 4 | 3 | 2 | 47 | XLB (#3) | SETTING UP (ACTIVE (5d)) |
-| HL | expanded | 38 | 4 | 2 | 2 | 42 | XLB (#3) | SETTING UP (ACTIVE (5d)) |
-| EQX | expanded | 27 | 4 | 2 | 2 | 42 | XLB (#3) | SETTING UP (ACTIVE (5d)) |
 | KGC | expanded | 19 | 3 | 2 | 2 | 39 | XLB (#3) | SETTING UP (ACTIVE (5d)) |
-| HAL | expanded | 14 | 2 | 2 | 1 | 26 | XLE (#1) | SETTING UP (ACTIVE (5d)) * |
+| SVM | expanded | 9 | 2 | 2 | 2 | 36 | XLB (#3) | SETTING UP (ACTIVE (5d)) |
 | BTE | expanded | 7 | 2 | 1 | 1 | 21 | XLE (#1) | SETTING UP (ACTIVE (5d)) * |
-| SVM | expanded | 9 | 2 | 0 | 0 | 6 | XLB (#3) | SETTING UP (ACTIVE (21d)) |
 
 *Recency = 5d×10 + 10d×5 + 21d×3 (Pradeep's recency weighting). Higher = more recent breakout activity.*
 
@@ -358,7 +358,7 @@ RS_20d: 0.10 | RS_65d: 1.04
 - Industry: Entertainment
 - Sector: Communication Services
 - Sector ETF: XLC (communications)
-- Market Cap: $64.1B
+- Market Cap: $63.4B
 - Fund Ownership: 2500+ - Institutional Quality (big size)
 - Group Move: Yes (7 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -483,7 +483,7 @@ RS_20d: 0.10 | RS_65d: 1.04
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | 26.6% | -67.46% | $6.41 | $7.31 | unknown_negative (intraday_down) |
+| CAPR | 26.6% | -64.49% | $7.00 | $7.82 | unknown_negative (intraday_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
@@ -509,11 +509,11 @@ RS_20d: 0.10 | RS_65d: 1.04
 
 | Ticker | SB Tier | Sector ETF | Decline from Peak | Notes |
 |--------|---------|-----------|-------------------|-------|
+| CERO | expanded | XBI | -96.3% | SB in weakening sector XBI (RS_20d=-9.55), down 96% from peak |
 | MIMI | expanded | ITB | -92.1% | SB in weakening sector ITB (RS_20d=-2.85), down 92% from peak |
 | CMND | expanded | XBI | -84.7% | SB in weakening sector XBI (RS_20d=-9.55), down 85% from peak |
 | PMI | expanded | XLV | -84.2% | SB in weakening sector XLV (RS_20d=-8.94), down 84% from peak |
 | DCOY | expanded | XBI | -76.5% | SB in weakening sector XBI (RS_20d=-9.55), down 77% from peak |
-| NIVF | expanded | XLV | -75.0% | SB in weakening sector XLV (RS_20d=-8.94), down 75% from peak |
 
 ### Momentum Inversion (5) — former leaders rolling over
 

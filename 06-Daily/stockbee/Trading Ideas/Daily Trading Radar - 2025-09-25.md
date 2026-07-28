@@ -9,7 +9,7 @@ data_date: 2025-09-24
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **CAUTIOUS_BULL_HIGH** — Action: **REDUCE_SIZE**
+> [!caution] **CAUTIOUS_BULL_LOW** — Action: **REDUCE_SIZE**
 >
 > - **20% Study (bullish):** 41
 > - **20% Study (bearish):** 11
@@ -18,11 +18,11 @@ data_date: 2025-09-24
 > - **Breakouts:** 254 | **Breakdowns:** 155
 > - **Follow-through:** 3d=39.0% 5d=39.0% (OK)
 >
-> - Follow-through rate 36% — breakouts failing, reduce size and tighten stops
-> - Net Primary deteriorating from +1029 to +873 over 5 days — bull is aging
-> - T2108 falling from 59.8% to 52.3% — breadth weakening
-> - Leading sector is SIL (silver miners) — rotation trap pattern, not growth leaders
-> - SPY and QQQ both closed near low on latest day — mild intraday distribution signal
+> - T2108 falling >5 points in 5 days — correction in progress, cap at CAUTIOUS_BULL_LOW
+> - Follow-through rate 36% — breakouts failing, do not chase new entries
+> - Net Primary deteriorating from +1029 to +873 — breadth weakening but still bullish
+> - Watch for leading sector SIL rolling over — if 20d RS turns negative while 65d stays high, top forming signal
+> - LLM: Net Primary remains strongly positive at +873, but the 5-day trend is deteriorating from +1029 and T2108 has fallen ~7.5 points (59.8% to 52.3%), indicating a correction in progress that caps the regime below FULL_BULL. Follow-through rate at 36% confirms breakouts are failing, requiring reduced size and tighter stops. Leading sector SIL shows positive 20d and 65d RS (no top-forming signal yet), and the 20% study at 41 is not elevated, so this is a pullback within a bull, not a regime shift.
 
 ---
 
@@ -249,25 +249,25 @@ RS_20d: 8.35 | RS_65d: 3.91
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
-| 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 2 | RGTI | 10 | 5 | 62 | expanded |
+| 3 | IREN | 10 | 4 | 70 | expanded |
 | 4 | SATL | 9 | 5 | 21 | expanded |
 | 5 | SBET | 9 | 5 | 38 | expanded |
 | 6 | FCEL | 9 | 4 | 23 | expanded |
 | 7 | IONQ | 9 | 4 | 53 | core |
 | 8 | KEEL | 9 | 4 | 19 | expanded |
-| 9 | RIOT | 9 | 4 | 58 | expanded |
-| 10 | USAR | 9 | 4 | 51 | expanded |
-| 11 | CLSK | 9 | 3 | 53 | expanded |
-| 12 | NVTS | 9 | 3 | 51 | expanded |
-| 13 | AMD | 8 | 4 | 45 | expanded |
-| 14 | APLD | 8 | 4 | 57 | core |
-| 15 | MU | 8 | 4 | 49 | expanded |
-| 16 | NBIS | 8 | 4 | 62 | core |
-| 17 | POET | 8 | 4 | 28 | expanded |
-| 18 | SMCI | 8 | 4 | 44 | expanded |
-| 19 | SPCE | 8 | 4 | 14 | expanded |
-| 20 | CIFR | 8 | 3 | 52 | expanded |
+| 9 | LAES | 9 | 4 | 37 | expanded |
+| 10 | RIOT | 9 | 4 | 58 | expanded |
+| 11 | USAR | 9 | 4 | 51 | expanded |
+| 12 | CLSK | 9 | 3 | 53 | expanded |
+| 13 | NVTS | 9 | 3 | 51 | expanded |
+| 14 | OKLO | 9 | 3 | 64 | core |
+| 15 | AMD | 8 | 4 | 45 | expanded |
+| 16 | APLD | 8 | 4 | 57 | core |
+| 17 | EOSE | 8 | 4 | 53 | expanded |
+| 18 | HIVE | 8 | 4 | 23 | expanded |
+| 19 | MU | 8 | 4 | 49 | expanded |
+| 20 | NBIS | 8 | 4 | 62 | core |
 
 ---
 
@@ -277,7 +277,7 @@ RS_20d: 8.35 | RS_65d: 3.91
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -5.3% | -67.44% | $6.42 | $7.31 | unknown_negative (gap_down) |
+| CAPR | -5.3% | -64.49% | $7.00 | $7.82 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
@@ -305,9 +305,9 @@ RS_20d: 8.35 | RS_65d: 3.91
 |--------|---------|-----------|-------------------|-------|
 | YMAT | expanded | XLB | -77.7% | SB in weakening sector XLB (RS_20d=-1.29), down 78% from peak |
 | ASST | expanded | XLF | -66.2% | SB in weakening sector XLF (RS_20d=-0.05), down 66% from peak |
+| AEMD | expanded | XLV | -64.5% | SB in weakening sector XLV (RS_20d=-0.19), down 64% from peak |
 | ZYBT | expanded | XLV | -60.7% | SB in weakening sector XLV (RS_20d=-0.19), down 61% from peak |
 | BIAF | expanded | XLV | -59.2% | SB in weakening sector XLV (RS_20d=-0.19), down 59% from peak |
-| MSPR | expanded | XLV | -57.2% | SB in weakening sector XLV (RS_20d=-0.19), down 57% from peak |
 
 ### Momentum Inversion (5) — former leaders rolling over
 

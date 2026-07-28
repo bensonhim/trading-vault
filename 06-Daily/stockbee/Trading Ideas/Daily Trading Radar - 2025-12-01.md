@@ -18,11 +18,11 @@ data_date: 2025-11-28
 > - **Breakouts:** 144 | **Breakdowns:** 26
 > - **Follow-through:** 3d=32.0% 5d=23.3% (FAILING)
 >
-> - Rally is 5 days mature — easy breakouts already happened, this is 'yesterday was the day' territory
-> - Defensive sectors leading (SIL, GDX, XLV) while tech/semis absent — rotation trap pattern
-> - Breakouts collapsing from 665 to 144, no new breakouts in last 2 days
-> - Intraday distribution: SPY and QQQ closing near lows despite range-bound action
-> - 20% study at 0/0 is likely stale/missing data — no confirmation of aggressive fund buying
+> - Rally is 5 days mature — easy breakouts already happened, 'yesterday was the day' risk
+> - Defensive sectors (SIL, GDX, XLV) leading instead of semis/AI/tech — rotation trap pattern
+> - Net Primary still near zero (+5) — bull not yet confirmed at CAUTIOUS_BULL_HIGH levels
+> - 20% study shows 0/0 — likely stale data, do not rely on it
+> - 65% follow-through rate is in caution zone (50-70%) — breakouts working but mixed
 
 ---
 
@@ -238,25 +238,25 @@ RS_20d: 28.71 | RS_65d: 6.83
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
-| 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 2 | RGTI | 10 | 5 | 62 | expanded |
+| 3 | IREN | 10 | 4 | 70 | expanded |
 | 4 | SATL | 9 | 5 | 21 | expanded |
-| 5 | FCEL | 9 | 4 | 23 | expanded |
-| 6 | IONQ | 9 | 4 | 53 | core |
-| 7 | KEEL | 9 | 4 | 19 | expanded |
-| 8 | RIOT | 9 | 4 | 58 | expanded |
-| 9 | USAR | 9 | 4 | 51 | expanded |
-| 10 | CLSK | 9 | 3 | 53 | expanded |
-| 11 | NVTS | 9 | 3 | 51 | core |
-| 12 | AMD | 8 | 4 | 45 | expanded |
-| 13 | APLD | 8 | 4 | 57 | core |
-| 14 | MU | 8 | 4 | 49 | expanded |
-| 15 | NBIS | 8 | 4 | 62 | core |
-| 16 | POET | 8 | 4 | 28 | expanded |
-| 17 | SMCI | 8 | 4 | 44 | expanded |
-| 18 | SPCE | 8 | 4 | 14 | expanded |
-| 19 | FIG | 8 | 3 | 28 | expanded |
-| 20 | INTC | 8 | 3 | 45 | expanded |
+| 5 | SBET | 9 | 5 | 38 | expanded |
+| 6 | FCEL | 9 | 4 | 23 | expanded |
+| 7 | IONQ | 9 | 4 | 53 | core |
+| 8 | KEEL | 9 | 4 | 19 | expanded |
+| 9 | LAES | 9 | 4 | 37 | expanded |
+| 10 | RIOT | 9 | 4 | 58 | expanded |
+| 11 | USAR | 9 | 4 | 51 | expanded |
+| 12 | CLSK | 9 | 3 | 53 | expanded |
+| 13 | NVTS | 9 | 3 | 51 | expanded |
+| 14 | OKLO | 9 | 3 | 64 | core |
+| 15 | AMD | 8 | 4 | 45 | expanded |
+| 16 | APLD | 8 | 4 | 57 | core |
+| 17 | EOSE | 8 | 4 | 53 | expanded |
+| 18 | HIVE | 8 | 4 | 23 | expanded |
+| 19 | MU | 8 | 4 | 49 | expanded |
+| 20 | NBIS | 8 | 4 | 62 | core |
 
 ---
 
@@ -266,7 +266,7 @@ RS_20d: 28.71 | RS_65d: 6.83
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | 12.2% | -67.66% | $6.37 | $7.31 | unknown_negative (intraday_down) |
+| CAPR | 12.2% | -64.49% | $7.00 | $7.82 | unknown_negative (intraday_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
