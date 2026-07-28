@@ -9,7 +9,7 @@ data_date: 2025-07-03
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **CAUTIOUS_BULL_HIGH** — Action: **REDUCE_SIZE**
+> [!tip] **FULL_BULL** — Action: **FULL_LONG**
 >
 > - **20% Study (bullish):** 52
 > - **20% Study (bearish):** 13
@@ -18,11 +18,11 @@ data_date: 2025-07-03
 > - **Breakouts:** 120 | **Breakdowns:** 31
 > - **Follow-through:** 3d=36.0% 5d=37.2% (OK)
 >
-> - Rally mature at 9 days — easy breakouts already happened, be selective
-> - Follow-through rate at 64% — breakouts struggling to sustain, reduce size
-> - Intraday distribution pattern on July 24: SPY, QQQ, and UFO all closed near lows despite flat opens
-> - BLOK shows top-forming pattern: RS_65d=5.11 but RS_20d=3.13 (20d declining below 65d) — former leader rolling over
-> - UFO leading sector closed near low 3 of last 5 days — watch for 20d RS deterioration
+> - Rally is 9 days mature and extended — easy breakouts have already happened, expect pullbacks
+> - Leading sector UFO closed near low on 3 of last 5 days — watch for intraday distribution pattern
+> - BLOK showing deceleration (65d RS 5.11 vs 20d RS 3.13) — potential former leader fatigue but not yet negative
+> - SPY closed near low on latest day — monitor for multi-day distribution pattern
+> - LLM: Net Primary at +1740 and improving from +1258 over 5 days is extremely bullish with T2108 rising from 50% to 69% (recovery in progress). The 5-day BO/BD ratio is approximately 1.96 (aggressive buying) with 20% bull:bear at 4.0, and aggressive sectors (UFO, SMH, FINX) are leading — all primary indicators confirm full bull. The 20% study at 52 is in the healthy confirmation zone (50-100), not elevated enough to downgrade when Net Primary exceeds +500.
 
 ---
 
@@ -314,33 +314,33 @@ RS_20d: 3.62 | RS_65d: 2.84
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
-| 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 2 | RGTI | 10 | 5 | 62 | expanded |
+| 3 | IREN | 10 | 4 | 70 | expanded |
 | 4 | SATL | 9 | 5 | 21 | expanded |
-| 5 | FCEL | 9 | 4 | 23 | expanded |
-| 6 | IONQ | 9 | 4 | 53 | core |
-| 7 | KEEL | 9 | 4 | 19 | expanded |
-| 8 | RIOT | 9 | 4 | 58 | expanded |
-| 9 | USAR | 9 | 4 | 51 | expanded |
-| 10 | CLSK | 9 | 3 | 53 | expanded |
-| 11 | NVTS | 9 | 3 | 51 | core |
-| 12 | AMD | 8 | 4 | 45 | expanded |
-| 13 | APLD | 8 | 4 | 57 | core |
-| 14 | MU | 8 | 4 | 49 | expanded |
-| 15 | NBIS | 8 | 4 | 62 | core |
-| 16 | POET | 8 | 4 | 28 | expanded |
-| 17 | SMCI | 8 | 4 | 44 | expanded |
-| 18 | SPCE | 8 | 4 | 14 | expanded |
-| 19 | CRWV | 8 | 3 | 60 | core |
-| 20 | FIG | 8 | 3 | 28 | expanded |
+| 5 | SBET | 9 | 5 | 38 | expanded |
+| 6 | FCEL | 9 | 4 | 23 | expanded |
+| 7 | IONQ | 9 | 4 | 53 | core |
+| 8 | KEEL | 9 | 4 | 19 | expanded |
+| 9 | LAES | 9 | 4 | 37 | expanded |
+| 10 | RIOT | 9 | 4 | 58 | expanded |
+| 11 | USAR | 9 | 4 | 51 | expanded |
+| 12 | CLSK | 9 | 3 | 53 | expanded |
+| 13 | NVTS | 9 | 3 | 51 | expanded |
+| 14 | OKLO | 9 | 3 | 64 | core |
+| 15 | AMD | 8 | 4 | 45 | expanded |
+| 16 | APLD | 8 | 4 | 57 | core |
+| 17 | EOSE | 8 | 4 | 53 | expanded |
+| 18 | HIVE | 8 | 4 | 23 | expanded |
+| 19 | MU | 8 | 4 | 49 | expanded |
+| 20 | NBIS | 8 | 4 | 62 | core |
 
 ### Sugar Babies in Hot Sectors (with active setups today)
 
 | Ticker | SB Tier | 504d | 21d | 10d | 5d | Recency | Sector ETF | RS Rank | Status |
 |--------|---------|------|-----|-----|-----|---------|-----------|---------|--------|
+| LAES | expanded | 37 | 9 | 6 | 4 | 97 | SMH (#3) | SETTING UP (ACTIVE (5d)) |
 | MU | expanded | 49 | 8 | 6 | 4 | 94 | SMH (#3) | SETTING UP (ACTIVE (5d)) |
 | MRVL | expanded | 41 | 8 | 6 | 3 | 84 | SMH (#3) | SETTING UP (ACTIVE (5d)) |
-| LAES | expanded | 37 | 6 | 5 | 3 | 73 | SMH (#3) | SETTING UP (ACTIVE (5d)) |
 
 *Recency = 5d×10 + 10d×5 + 21d×3 (Pradeep's recency weighting). Higher = more recent breakout activity.*
 
@@ -353,7 +353,7 @@ RS_20d: 3.62 | RS_65d: 2.84
 - Industry: Software - Infrastructure
 - Sector: Technology
 - Sector ETF: XLK (technology_broad)
-- Market Cap: $4.8B
+- Market Cap: $4.7B
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (60 stocks in sector broke out today)
 - Breakout History (3 past swings):
@@ -374,7 +374,7 @@ RS_20d: 3.62 | RS_65d: 2.84
 - Industry: Communication Equipment
 - Sector: Technology
 - Sector ETF: XLK (technology_broad)
-- Market Cap: $447.5B
+- Market Cap: $451.6B
 - Fund Ownership: 5000+ - Liquid Glamour (largest size)
 - Group Move: Yes (60 stocks in sector broke out today)
 - Breakout History (2 past swings):
@@ -396,7 +396,7 @@ RS_20d: 3.62 | RS_65d: 2.84
 - Industry: Software - Application
 - Sector: Technology
 - Sector ETF: XLK (technology_broad)
-- Market Cap: $108.4B
+- Market Cap: $109.1B
 - Fund Ownership: 5000+ - Liquid Glamour (largest size)
 - Group Move: Yes (60 stocks in sector broke out today)
 - Breakout History (4 past swings):
@@ -420,7 +420,7 @@ RS_20d: 3.62 | RS_65d: 2.84
 - Industry: Entertainment
 - Sector: Communication Services
 - Sector ETF: XLC (communications)
-- Market Cap: $25.2B
+- Market Cap: $24.8B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (11 stocks in sector broke out today)
 - Breakout History (2 past swings):
@@ -470,7 +470,7 @@ RS_20d: 3.62 | RS_65d: 2.84
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -41.9% | -67.64% | $6.38 | $7.31 | unknown_negative (gap_down) |
+| CAPR | -41.9% | -64.49% | $7.00 | $7.82 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

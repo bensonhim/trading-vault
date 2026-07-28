@@ -18,11 +18,11 @@ data_date: 2025-05-01
 > - **Breakouts:** 259 | **Breakdowns:** 165
 > - **Follow-through:** 3d=50.8% 5d=46.8% (OK)
 >
-> - Follow-through rate 48% — breakouts failing, reduce size
-> - Rotation trap: defensive sectors (energy, healthcare, materials) leading while SMH lagging with negative 20d RS
-> - SMH closed near low on -2.3% — leading sector distributing intraday
-> - Net Primary still deeply negative (-556) despite improving trend
-> - Former leader GNOM rolling over (65d leader with negative 20d RS)
+> - Follow-through rate 48% — below 50% threshold, breakouts failing to sustain
+> - SMH (leading sector) has negative 20-day RS (0.78) with high 65-day RS (1.54) — top forming pattern
+> - Net Primary still deeply negative at -556 despite improving trend
+> - Breakdown count worsening over 5 days
+> - 20% study at 28 up / 20 down — no evidence of aggressive fund buying binge yet
 
 ---
 
@@ -276,25 +276,25 @@ RS_20d: 0.78 | RS_65d: 1.54
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
-| 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 2 | RGTI | 10 | 5 | 62 | expanded |
+| 3 | IREN | 10 | 4 | 70 | expanded |
 | 4 | SATL | 9 | 5 | 21 | expanded |
-| 5 | FCEL | 9 | 4 | 23 | expanded |
-| 6 | IONQ | 9 | 4 | 53 | core |
-| 7 | KEEL | 9 | 4 | 19 | expanded |
-| 8 | RIOT | 9 | 4 | 58 | expanded |
-| 9 | USAR | 9 | 4 | 51 | expanded |
-| 10 | CLSK | 9 | 3 | 53 | expanded |
-| 11 | NVTS | 9 | 3 | 51 | core |
-| 12 | AMD | 8 | 4 | 45 | expanded |
-| 13 | APLD | 8 | 4 | 57 | core |
-| 14 | MU | 8 | 4 | 49 | expanded |
-| 15 | NBIS | 8 | 4 | 62 | core |
-| 16 | POET | 8 | 4 | 28 | expanded |
-| 17 | SMCI | 8 | 4 | 44 | expanded |
-| 18 | SPCE | 8 | 4 | 14 | expanded |
-| 19 | FIG | 8 | 3 | 28 | expanded |
-| 20 | INTC | 8 | 3 | 45 | expanded |
+| 5 | SBET | 9 | 5 | 38 | expanded |
+| 6 | FCEL | 9 | 4 | 23 | expanded |
+| 7 | IONQ | 9 | 4 | 53 | core |
+| 8 | KEEL | 9 | 4 | 19 | expanded |
+| 9 | LAES | 9 | 4 | 37 | expanded |
+| 10 | RIOT | 9 | 4 | 58 | expanded |
+| 11 | USAR | 9 | 4 | 51 | expanded |
+| 12 | CLSK | 9 | 3 | 53 | expanded |
+| 13 | NVTS | 9 | 3 | 51 | expanded |
+| 14 | OKLO | 9 | 3 | 64 | core |
+| 15 | AMD | 8 | 4 | 45 | expanded |
+| 16 | APLD | 8 | 4 | 57 | core |
+| 17 | EOSE | 8 | 4 | 53 | expanded |
+| 18 | HIVE | 8 | 4 | 23 | expanded |
+| 19 | MU | 8 | 4 | 49 | expanded |
+| 20 | NBIS | 8 | 4 | 62 | core |
 
 ---
 
@@ -304,7 +304,7 @@ RS_20d: 0.78 | RS_65d: 1.54
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -54.1% | -67.41% | $6.42 | $7.31 | unknown_negative (gap_down) |
+| CAPR | -54.1% | -64.49% | $7.00 | $7.82 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
@@ -334,7 +334,7 @@ RS_20d: 0.78 | RS_65d: 1.54
 | MLGO | expanded | XLK | -79.9% | SB in weakening sector XLK (RS_20d=-1.57), down 80% from peak |
 | HIND | expanded | XBI | -78.7% | SB in weakening sector XBI (RS_20d=-2.21), down 79% from peak |
 | BULL | expanded | XLK | -78.5% | SB in weakening sector XLK (RS_20d=-1.57), down 78% from peak |
-| ALMS | expanded | XBI | -62.0% | SB in weakening sector XBI (RS_20d=-2.21), down 62% from peak |
+| SPRB | expanded | XBI | -77.0% | SB in weakening sector XBI (RS_20d=-2.21), down 77% from peak |
 
 ### Bearish Reversal (5) — 3:58 PM exhaustion
 

@@ -18,11 +18,11 @@ data_date: 2025-07-01
 > - **Breakouts:** 462 | **Breakdowns:** 169
 > - **Follow-through:** 3d=33.6% 5d=34.8% (OK)
 >
-> - Follow-through rate at 42% — breakouts failing to sustain, reduce size
-> - Rally mature at 7 days since low — easy breakouts already happened
-> - 20% study very low (24 up vs 26 down) — buying binge hasn't shown up in 5-day window yet
-> - Leading sector UFO closing near lows on 3 of last 5 days — watch for intraday distribution in leader
-> - SPY closed near low on 2026-07-24 — mild intraday weakness pattern
+> - Follow-through rate 42% — breakouts failing to follow through, reduce size and tighten stops
+> - Rally 7 days mature — easy breakouts already happened, be selective with A+ confluences only
+> - Leading sector UFO closing near low on 3 of last 5 days — watch for intraday distribution pattern
+> - 20% study very low (24) — lagging indicator, buying binge hasn't shown up in 5-day window yet
+> - LLM: Net Primary is extremely bullish at +1449 and improving over 5 days, with T2108 rising from 53.5% to 64.6% and breakouts dominating breakdowns 462 to 169 — these are powerful bullish signals that cannot be ignored. However, follow-through rate is 42% (below 50% caution threshold) and the rally is 7 days mature, meaning breakouts are struggling to sustain momentum and the easy entries have already passed. The 20% study is very low (24 vs 26) but this is a lagging indicator — it will catch up to the aggressive breadth, so it does not downgrade the regime.
 
 ---
 
@@ -269,25 +269,25 @@ RS_20d: 4.12 | RS_65d: 2.73
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
-| 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 2 | RGTI | 10 | 5 | 62 | expanded |
+| 3 | IREN | 10 | 4 | 70 | expanded |
 | 4 | SATL | 9 | 5 | 21 | expanded |
-| 5 | FCEL | 9 | 4 | 23 | expanded |
-| 6 | IONQ | 9 | 4 | 53 | core |
-| 7 | KEEL | 9 | 4 | 19 | expanded |
-| 8 | RIOT | 9 | 4 | 58 | expanded |
-| 9 | USAR | 9 | 4 | 51 | expanded |
-| 10 | CLSK | 9 | 3 | 53 | expanded |
-| 11 | NVTS | 9 | 3 | 51 | core |
-| 12 | AMD | 8 | 4 | 45 | expanded |
-| 13 | APLD | 8 | 4 | 57 | core |
-| 14 | MU | 8 | 4 | 49 | expanded |
-| 15 | NBIS | 8 | 4 | 62 | core |
-| 16 | POET | 8 | 4 | 28 | expanded |
-| 17 | SMCI | 8 | 4 | 44 | expanded |
-| 18 | SPCE | 8 | 4 | 14 | expanded |
-| 19 | FIG | 8 | 3 | 28 | expanded |
-| 20 | INTC | 8 | 3 | 45 | expanded |
+| 5 | SBET | 9 | 5 | 38 | expanded |
+| 6 | FCEL | 9 | 4 | 23 | expanded |
+| 7 | IONQ | 9 | 4 | 53 | core |
+| 8 | KEEL | 9 | 4 | 19 | expanded |
+| 9 | LAES | 9 | 4 | 37 | expanded |
+| 10 | RIOT | 9 | 4 | 58 | expanded |
+| 11 | USAR | 9 | 4 | 51 | expanded |
+| 12 | CLSK | 9 | 3 | 53 | expanded |
+| 13 | NVTS | 9 | 3 | 51 | expanded |
+| 14 | OKLO | 9 | 3 | 64 | core |
+| 15 | AMD | 8 | 4 | 45 | expanded |
+| 16 | APLD | 8 | 4 | 57 | core |
+| 17 | EOSE | 8 | 4 | 53 | expanded |
+| 18 | HIVE | 8 | 4 | 23 | expanded |
+| 19 | MU | 8 | 4 | 49 | expanded |
+| 20 | NBIS | 8 | 4 | 62 | core |
 
 ---
 
@@ -297,7 +297,7 @@ RS_20d: 4.12 | RS_65d: 2.73
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -41.3% | -67.51% | $6.40 | $7.31 | unknown_negative (gap_down) |
+| CAPR | -41.3% | -64.49% | $7.00 | $7.82 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
@@ -324,10 +324,10 @@ RS_20d: 4.12 | RS_65d: 2.73
 | Ticker | SB Tier | Sector ETF | Decline from Peak | Notes |
 |--------|---------|-----------|-------------------|-------|
 | CREG | expanded | XLU | -67.6% | SB in weakening sector XLU (RS_20d=-0.07), down 68% from peak |
+| DUO | expanded | XLRE | -43.3% | SB in weakening sector XLRE (RS_20d=-0.05), down 43% from peak |
 | HTOO | expanded | XLU | -32.9% | SB in weakening sector XLU (RS_20d=-0.07), down 33% from peak |
 | CMCT | expanded | XLRE | -24.2% | SB in weakening sector XLRE (RS_20d=-0.05), down 24% from peak |
 | OKLO | core | XLU | -23.9% | SB in weakening sector XLU (RS_20d=-0.07), down 24% from peak |
-| OPEN | expanded | XLRE | -17.7% | SB in weakening sector XLRE (RS_20d=-0.05), down 18% from peak |
 
 ### Momentum Inversion (5) — former leaders rolling over
 

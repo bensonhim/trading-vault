@@ -18,11 +18,11 @@ data_date: 2025-10-06
 > - **Breakouts:** 379 | **Breakdowns:** 166
 > - **Follow-through:** 3d=33.3% 5d=24.7% (FAILING)
 >
-> - 20% study at 98 — approaching caution territory (>100), watch for buying binge peaking
-> - BLOK (leading sector) closed near low today at -2.7% — monitor for follow-through failure
-> - T2108 trend slightly choppy (46-49% range) though not deteriorating meaningfully
-> - No breakout follow-through data available — cannot confirm breakout sustainability
-> - LLM: Net Primary is strongly positive at +872 and improving over 5 days (679→872), firmly in bullish regime territory above +500. T2108 is stable in the healthy 46-49% range, breakouts are dominating breakdowns 379:166 (2.3x), and the 20% study bull:bear ratio of 7.5 with 98 stocks up 20%+ confirms aggressive fund buying without hitting euphoria levels. Aggressive sectors (BLOK, SOXX, SMH) are leading with both 20d and 65d RS positive, confirming risk-on positioning.
+> - 20% study at 98 — approaching caution territory (>100), monitor closely
+> - T2108 slightly choppy around 46-49% — not falling sharply but not rising either
+> - Leading sector BLOK closed near low on latest day (-2.7%) — watch for follow-through failure
+> - Follow-through data shows N/A for last 3 days — no confirmation that breakouts are persisting
+> - LLM: Net Primary is extremely bullish at +872 and improving from +679 over 5 days, with breakouts consistently dominating breakdowns (379 vs 166 today, 2.3x ratio). T2108 is stable in the normal range (46.1%) and aggressive sectors (BLOK, SOXX, SMH) are leading — risk-on. The 20% study at 98 with a 7.5 bull:bear ratio confirms aggressive fund buying, and the rally is only 2 days old (not mature).
 
 ---
 
@@ -283,25 +283,25 @@ RS_20d: 5.84 | RS_65d: 2.95
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
-| 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 2 | RGTI | 10 | 5 | 62 | expanded |
+| 3 | IREN | 10 | 4 | 70 | expanded |
 | 4 | SATL | 9 | 5 | 21 | expanded |
 | 5 | SBET | 9 | 5 | 38 | expanded |
 | 6 | FCEL | 9 | 4 | 23 | expanded |
 | 7 | IONQ | 9 | 4 | 53 | core |
 | 8 | KEEL | 9 | 4 | 19 | expanded |
-| 9 | RIOT | 9 | 4 | 58 | expanded |
-| 10 | USAR | 9 | 4 | 51 | expanded |
-| 11 | CLSK | 9 | 3 | 53 | expanded |
-| 12 | NVTS | 9 | 3 | 51 | expanded |
-| 13 | AMD | 8 | 4 | 45 | expanded |
-| 14 | APLD | 8 | 4 | 57 | core |
-| 15 | LAES | 8 | 4 | 37 | expanded |
-| 16 | MU | 8 | 4 | 49 | expanded |
-| 17 | NBIS | 8 | 4 | 62 | core |
-| 18 | POET | 8 | 4 | 28 | expanded |
-| 19 | QS | 8 | 4 | 45 | expanded |
-| 20 | SMCI | 8 | 4 | 44 | expanded |
+| 9 | LAES | 9 | 4 | 37 | expanded |
+| 10 | RIOT | 9 | 4 | 58 | expanded |
+| 11 | USAR | 9 | 4 | 51 | expanded |
+| 12 | CLSK | 9 | 3 | 53 | expanded |
+| 13 | NVTS | 9 | 3 | 51 | expanded |
+| 14 | OKLO | 9 | 3 | 64 | core |
+| 15 | AMD | 8 | 4 | 45 | expanded |
+| 16 | APLD | 8 | 4 | 57 | core |
+| 17 | EOSE | 8 | 4 | 53 | expanded |
+| 18 | HIVE | 8 | 4 | 23 | expanded |
+| 19 | MU | 8 | 4 | 49 | expanded |
+| 20 | NBIS | 8 | 4 | 62 | core |
 
 ---
 
@@ -311,7 +311,7 @@ RS_20d: 5.84 | RS_65d: 2.95
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -20.8% | -63.15% | $7.26 | $7.80 | unknown_negative (gap_down) |
+| CAPR | -20.8% | -64.49% | $7.00 | $7.82 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

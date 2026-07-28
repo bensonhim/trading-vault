@@ -9,7 +9,7 @@ data_date: 2025-10-07
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **CAUTIOUS_BULL_HIGH** — Action: **REDUCE_SIZE**
+> [!caution] **CAUTIOUS_BULL_LOW** — Action: **REDUCE_SIZE**
 >
 > - **20% Study (bullish):** 63
 > - **20% Study (bearish):** 15
@@ -18,11 +18,11 @@ data_date: 2025-10-07
 > - **Breakouts:** 204 | **Breakdowns:** 296
 > - **Follow-through:** 3d=42.0% 5d=46.7% (OK)
 >
+> - T2108 falling sharply (49.2% → 41.5%) — correction in progress, do NOT give FULL_BULL
 > - Follow-through rate at 35% — breakouts failing, reduce size
-> - T2108 falling from 49.2% to 41.5% — breadth deteriorating
-> - Leading sector BLOK distributed intraday (-2.7%, closed near low)
-> - Rotation into defensive/old economy sectors (GDX, SIL) — potential rotation trap
-> - SOXX (semiconductors) marked TOP FORMING — tech leader showing cracks
+> - Leading sector BLOK showing TOP FORMING pattern, closed near low on -2.7%
+> - Rotation trap: GDX/SIL (beaten-down miners) leading while SOXX (semis) top forming
+> - Breakdowns surging to 296 vs 204 breakouts — selling pressure accelerating
 
 ---
 
@@ -320,18 +320,18 @@ RS_20d: 5.68 | RS_65d: 3.16
 | 6 | FCEL | 9 | 4 | 23 | expanded |
 | 7 | IONQ | 9 | 4 | 53 | core |
 | 8 | KEEL | 9 | 4 | 19 | expanded |
-| 9 | RIOT | 9 | 4 | 58 | expanded |
-| 10 | USAR | 9 | 4 | 51 | expanded |
-| 11 | CLSK | 9 | 3 | 53 | expanded |
-| 12 | NVTS | 9 | 3 | 51 | expanded |
-| 13 | AMD | 8 | 4 | 45 | expanded |
-| 14 | APLD | 8 | 4 | 57 | core |
-| 15 | HIVE | 8 | 4 | 23 | expanded |
-| 16 | LAES | 8 | 4 | 37 | expanded |
-| 17 | MU | 8 | 4 | 49 | expanded |
-| 18 | NBIS | 8 | 4 | 62 | core |
-| 19 | POET | 8 | 4 | 28 | expanded |
-| 20 | QS | 8 | 4 | 45 | expanded |
+| 9 | LAES | 9 | 4 | 37 | expanded |
+| 10 | RIOT | 9 | 4 | 58 | expanded |
+| 11 | USAR | 9 | 4 | 51 | expanded |
+| 12 | CLSK | 9 | 3 | 53 | expanded |
+| 13 | NVTS | 9 | 3 | 51 | expanded |
+| 14 | OKLO | 9 | 3 | 64 | core |
+| 15 | AMD | 8 | 4 | 45 | expanded |
+| 16 | APLD | 8 | 4 | 57 | core |
+| 17 | EOSE | 8 | 4 | 53 | expanded |
+| 18 | HIVE | 8 | 4 | 23 | expanded |
+| 19 | MU | 8 | 4 | 49 | expanded |
+| 20 | NBIS | 8 | 4 | 62 | core |
 
 ---
 
@@ -367,7 +367,7 @@ RS_20d: 5.68 | RS_65d: 3.16
 - Industry: Biotechnology
 - Sector: Healthcare
 - Sector ETF: XBI (biotech_small)
-- Market Cap: $0.6B
+- Market Cap: $0.5B
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (90 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -393,7 +393,7 @@ RS_20d: 5.68 | RS_65d: 3.16
 - Sector: Healthcare
 - Sector ETF: XLV (healthcare_broad)
 - Market Cap: $5.0B
-- Fund Ownership: 1000+ - Gaining Interest (medium size)
+- Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (90 stocks in sector broke out today)
 - Breakout History (5 past swings):
   - 2025-10-07: +4.4% total | Entry: $23.64 | Stop: $22.55 | Last Close: $23.72 | Vol: 1,421,004 | BREAKEVEN
@@ -466,7 +466,7 @@ RS_20d: 5.68 | RS_65d: 3.16
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -25.4% | -62.99% | $7.29 | $7.80 | unknown_negative (gap_down) |
+| CAPR | -25.4% | -64.49% | $7.00 | $7.82 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

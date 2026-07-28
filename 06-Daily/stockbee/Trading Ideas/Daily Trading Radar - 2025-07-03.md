@@ -18,10 +18,11 @@ data_date: 2025-07-02
 > - **Breakouts:** 413 | **Breakdowns:** 68
 > - **Follow-through:** 3d=35.7% 5d=39.0% (OK)
 >
-> - Rally mature at 8 days — easy breakouts already happened, expect tougher entries
-> - SPY, QQQ, and UFO all closed near lows on latest day — watch for intraday distribution pattern developing
-> - T2108 at 67% approaching overbought territory if it continues rising toward 85%
-> - LLM: Net Primary at +1656 and improving from +1273 over 5 days is extremely bullish with T2108 at 67% (healthy bull range) and rising. Breakouts dominate at 6:1 ratio with 78% follow-through rate, confirming breakouts are working. Leading sector UFO has accelerating RS (20d 4.47 > 65d 2.64) with no top-forming signal. Intraday closes near lows on SPY/QQQ/UFO and 8-day rally maturity are caution flags, but they do not override primary breadth indicators when Net Primary is >+500 and improving.
+> - Rally is 8 days mature — easy breakouts already happened, be selective on new entries
+> - Latest session closed near intraday lows across SPY, QQQ, and UFO — watch for intraday distribution if pattern repeats
+> - Follow-through was mixed (42% on 6/30) before recovering to 78% — if next reading drops below 50%, reduce size
+> - UFO pulled back -1.8% on latest day after leading — monitor whether leading sector starts squatting or reversing
+> - LLM: Net Primary at +1656 and improving over 5 days (1273→1656) with T2108 rising into healthy bull territory at 67% — this is a textbook FULL_BULL setup where primary breadth is overwhelmingly positive and accelerating. Breakouts are crushing breakdowns (413 vs 68), 20% study bull:bear ratio is 1.57 confirming aggressive fund buying, follow-through surged to 78% on the latest day, and aggressive sectors (UFO, SOXX, SMH, FINX) are leading with no former leader rolling over. The only caution is rally maturity at 8 days and latest session closing near lows, but these do not override +500 Net Primary with rising T2108.
 
 ---
 
@@ -268,25 +269,25 @@ RS_20d: 4.47 | RS_65d: 2.64
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
-| 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 2 | RGTI | 10 | 5 | 62 | expanded |
+| 3 | IREN | 10 | 4 | 70 | expanded |
 | 4 | SATL | 9 | 5 | 21 | expanded |
-| 5 | FCEL | 9 | 4 | 23 | expanded |
-| 6 | IONQ | 9 | 4 | 53 | core |
-| 7 | KEEL | 9 | 4 | 19 | expanded |
-| 8 | RIOT | 9 | 4 | 58 | expanded |
-| 9 | USAR | 9 | 4 | 51 | expanded |
-| 10 | CLSK | 9 | 3 | 53 | expanded |
-| 11 | NVTS | 9 | 3 | 51 | core |
-| 12 | AMD | 8 | 4 | 45 | expanded |
-| 13 | APLD | 8 | 4 | 57 | core |
-| 14 | MU | 8 | 4 | 49 | expanded |
-| 15 | NBIS | 8 | 4 | 62 | core |
-| 16 | POET | 8 | 4 | 28 | expanded |
-| 17 | SMCI | 8 | 4 | 44 | expanded |
-| 18 | SPCE | 8 | 4 | 14 | expanded |
-| 19 | FIG | 8 | 3 | 28 | expanded |
-| 20 | INTC | 8 | 3 | 45 | expanded |
+| 5 | SBET | 9 | 5 | 38 | expanded |
+| 6 | FCEL | 9 | 4 | 23 | expanded |
+| 7 | IONQ | 9 | 4 | 53 | core |
+| 8 | KEEL | 9 | 4 | 19 | expanded |
+| 9 | LAES | 9 | 4 | 37 | expanded |
+| 10 | RIOT | 9 | 4 | 58 | expanded |
+| 11 | USAR | 9 | 4 | 51 | expanded |
+| 12 | CLSK | 9 | 3 | 53 | expanded |
+| 13 | NVTS | 9 | 3 | 51 | expanded |
+| 14 | OKLO | 9 | 3 | 64 | core |
+| 15 | AMD | 8 | 4 | 45 | expanded |
+| 16 | APLD | 8 | 4 | 57 | core |
+| 17 | EOSE | 8 | 4 | 53 | expanded |
+| 18 | HIVE | 8 | 4 | 23 | expanded |
+| 19 | MU | 8 | 4 | 49 | expanded |
+| 20 | NBIS | 8 | 4 | 62 | core |
 
 ---
 
@@ -296,7 +297,7 @@ RS_20d: 4.47 | RS_65d: 2.64
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -39.9% | -67.74% | $6.36 | $7.31 | unknown_negative (gap_down) |
+| CAPR | -39.9% | -64.49% | $7.00 | $7.82 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

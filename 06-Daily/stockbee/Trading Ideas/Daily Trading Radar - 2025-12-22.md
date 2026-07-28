@@ -18,11 +18,11 @@ data_date: 2025-12-19
 > - **Breakouts:** 412 | **Breakdowns:** 175
 > - **Follow-through:** 3d=26.7% 5d=28.7% (FAILING)
 >
-> - Follow-through rate 45% — breakouts failing, reduce size per Pradeep's rule
-> - Rotation trap: SIL (silver miners) leading while semis/AI/tech lag — misleading breadth
-> - Net Primary trend deteriorating (+95 to +58) with choppy oscillation around zero
-> - T2108 falling from 54% to ~50% — breadth weakening
-> - Rally mature at 20 days — easy breakouts already happened
+> - Follow-through rate <50% (45%) — breakouts failing, reduce size
+> - T2108 falling from 54% to 50% over 5 days — correction in progress
+> - Leading sectors are silver/gold miners (defensive/old economy) — potential rotation trap, not growth-led
+> - Net Primary was negative for 2 consecutive days before barely recovering to +58 — bull is fragile
+> - Rally is mature (20 days since low) — easy breakouts already happened
 
 ---
 
@@ -238,25 +238,25 @@ RS_20d: 7.19 | RS_65d: 11.63
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
-| 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 2 | RGTI | 10 | 5 | 62 | expanded |
+| 3 | IREN | 10 | 4 | 70 | expanded |
 | 4 | SATL | 9 | 5 | 21 | expanded |
-| 5 | FCEL | 9 | 4 | 23 | expanded |
-| 6 | IONQ | 9 | 4 | 53 | core |
-| 7 | KEEL | 9 | 4 | 19 | expanded |
-| 8 | RIOT | 9 | 4 | 58 | expanded |
-| 9 | USAR | 9 | 4 | 51 | expanded |
-| 10 | CLSK | 9 | 3 | 53 | expanded |
-| 11 | NVTS | 9 | 3 | 51 | core |
-| 12 | AMD | 8 | 4 | 45 | expanded |
-| 13 | APLD | 8 | 4 | 57 | core |
-| 14 | MU | 8 | 4 | 49 | expanded |
-| 15 | NBIS | 8 | 4 | 62 | core |
-| 16 | POET | 8 | 4 | 28 | expanded |
-| 17 | SMCI | 8 | 4 | 44 | expanded |
-| 18 | SPCE | 8 | 4 | 14 | expanded |
-| 19 | FIG | 8 | 3 | 28 | expanded |
-| 20 | INTC | 8 | 3 | 45 | expanded |
+| 5 | SBET | 9 | 5 | 38 | expanded |
+| 6 | FCEL | 9 | 4 | 23 | expanded |
+| 7 | IONQ | 9 | 4 | 53 | core |
+| 8 | KEEL | 9 | 4 | 19 | expanded |
+| 9 | LAES | 9 | 4 | 37 | expanded |
+| 10 | RIOT | 9 | 4 | 58 | expanded |
+| 11 | USAR | 9 | 4 | 51 | expanded |
+| 12 | CLSK | 9 | 3 | 53 | expanded |
+| 13 | NVTS | 9 | 3 | 51 | expanded |
+| 14 | OKLO | 9 | 3 | 64 | core |
+| 15 | AMD | 8 | 4 | 45 | expanded |
+| 16 | APLD | 8 | 4 | 57 | core |
+| 17 | EOSE | 8 | 4 | 53 | expanded |
+| 18 | HIVE | 8 | 4 | 23 | expanded |
+| 19 | MU | 8 | 4 | 49 | expanded |
+| 20 | NBIS | 8 | 4 | 62 | core |
 
 ---
 
@@ -266,7 +266,7 @@ RS_20d: 7.19 | RS_65d: 11.63
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -77.8% | -67.36% | $6.43 | $7.31 | unknown_negative (gap_down) |
+| CAPR | -77.8% | -64.49% | $7.00 | $7.82 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
@@ -293,10 +293,10 @@ RS_20d: 7.19 | RS_65d: 11.63
 | Ticker | SB Tier | Sector ETF | Decline from Peak | Notes |
 |--------|---------|-----------|-------------------|-------|
 | PAVS | expanded | XLV | -97.9% | SB in weakening sector XLV (RS_20d=0.54), down 98% from peak |
+| MENS | expanded | XBI | -91.7% | SB in weakening sector XBI (RS_20d=1.96), down 92% from peak |
 | RZLT | expanded | XBI | -83.8% | SB in weakening sector XBI (RS_20d=1.96), down 84% from peak |
 | MNDR | expanded | XLV | -76.6% | SB in weakening sector XLV (RS_20d=0.54), down 77% from peak |
 | CMND | expanded | XBI | -76.0% | SB in weakening sector XBI (RS_20d=1.96), down 76% from peak |
-| CMCT | expanded | XLRE | -75.2% | SB in weakening sector XLRE (RS_20d=-0.02), down 75% from peak |
 
 ### Bearish Reversal (5) — 3:58 PM exhaustion
 

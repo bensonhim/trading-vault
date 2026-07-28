@@ -18,11 +18,11 @@ data_date: 2025-10-03
 > - **Breakouts:** 368 | **Breakdowns:** 122
 > - **Follow-through:** 3d=37.3% 5d=40.7% (OK)
 >
-> - Follow-through rate at 54% is below the 70% healthy threshold — tighten stops on new entries
-> - 20% study at 0 has not yet confirmed the buying binge — watch for catch-up in next 2-3 days
-> - BLOK (leading sector) closed -2.7% near the low today — monitor for follow-through failure tomorrow
-> - SPY/QQQ intraday data appears stale (dates mismatch) — reduce confidence in intraday narrative
-> - LLM: Net Primary is +825 and improving sharply over 5 days (+699 → +825), T2108 is healthy at 49.2% and rising, and breakouts are dominating breakdowns 3:1 — all primary indicators are strongly bullish. The 20% study at 0 is a lagging indicator and should not suppress longs when Net Primary is > +500 and improving; the buying binge will show up in the 5-day window within days. Follow-through at 54% is a mild caution but not enough to downgrade given the strength of primary breadth.
+> - Follow-through rate at 54% is borderline — breakouts working but not decisively
+> - SPY/QQQ closed near lows on latest day — watch for intraday distribution pattern repeating
+> - 20% study at 0 appears stale — if real, buying binge hasn't surfaced in 5-day window yet
+> - GDX/SIL in top sectors hints at some defensive rotation alongside aggressive leaders
+> - LLM: Net Primary at +825 and improving sharply (699→825 over 5 days) with T2108 rising into the 49% healthy zone and breakouts dominating breakdowns 3:1 — all primary indicators scream aggressive accumulation. Follow-through at 54% is in the caution zone but not a downgrade trigger when Net Primary is this strong and improving, and the 20% study at 0 is simply lagging the buying binge that breadth already confirms.
 
 ---
 
@@ -234,25 +234,25 @@ RS_20d: 5.84 | RS_65d: 2.45
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
-| 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 2 | RGTI | 10 | 5 | 62 | expanded |
+| 3 | IREN | 10 | 4 | 70 | expanded |
 | 4 | SATL | 9 | 5 | 21 | expanded |
 | 5 | SBET | 9 | 5 | 38 | expanded |
 | 6 | FCEL | 9 | 4 | 23 | expanded |
 | 7 | IONQ | 9 | 4 | 53 | core |
 | 8 | KEEL | 9 | 4 | 19 | expanded |
-| 9 | RIOT | 9 | 4 | 58 | expanded |
-| 10 | USAR | 9 | 4 | 51 | expanded |
-| 11 | CLSK | 9 | 3 | 53 | expanded |
-| 12 | NVTS | 9 | 3 | 51 | expanded |
-| 13 | AMD | 8 | 4 | 45 | expanded |
-| 14 | APLD | 8 | 4 | 57 | core |
-| 15 | MU | 8 | 4 | 49 | expanded |
-| 16 | NBIS | 8 | 4 | 62 | core |
-| 17 | POET | 8 | 4 | 28 | expanded |
-| 18 | QS | 8 | 4 | 45 | expanded |
-| 19 | SMCI | 8 | 4 | 44 | expanded |
-| 20 | SPCE | 8 | 4 | 14 | expanded |
+| 9 | LAES | 9 | 4 | 37 | expanded |
+| 10 | RIOT | 9 | 4 | 58 | expanded |
+| 11 | USAR | 9 | 4 | 51 | expanded |
+| 12 | CLSK | 9 | 3 | 53 | expanded |
+| 13 | NVTS | 9 | 3 | 51 | expanded |
+| 14 | OKLO | 9 | 3 | 64 | core |
+| 15 | AMD | 8 | 4 | 45 | expanded |
+| 16 | APLD | 8 | 4 | 57 | core |
+| 17 | EOSE | 8 | 4 | 53 | expanded |
+| 18 | HIVE | 8 | 4 | 23 | expanded |
+| 19 | MU | 8 | 4 | 49 | expanded |
+| 20 | NBIS | 8 | 4 | 62 | core |
 
 ---
 
@@ -262,7 +262,7 @@ RS_20d: 5.84 | RS_65d: 2.45
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -26.9% | -62.89% | $7.31 | $7.80 | unknown_negative (gap_down) |
+| CAPR | -26.9% | -64.49% | $7.00 | $7.82 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

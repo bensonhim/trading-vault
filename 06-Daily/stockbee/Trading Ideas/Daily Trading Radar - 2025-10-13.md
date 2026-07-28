@@ -18,11 +18,11 @@ data_date: 2025-10-10
 > - **Breakouts:** 75 | **Breakdowns:** 1160
 > - **Follow-through:** 3d=38.7% 5d=44.3% (OK)
 >
-> - Net Primary deteriorating rapidly: +872 → +387 over 5 days
-> - T2108 falling into washout zone at 25.5% — watch for bounce or further deterioration
-> - Breakout follow-through at 34% — well below 50% caution threshold
-> - Leading sector SKYY TOP FORMING: 20d RS 0.53 vs 65d RS 2.17 — institutional distribution
-> - Multiple sectors TOP FORMING (XOP, XLY, XLRE, SKYY) — broad top risk
+> - T2108 fell ~21 points in 5 days — sharp correction in progress, cap at CAUTIOUS_BULL_LOW
+> - Net Primary deteriorating rapidly: +872 → +387, approaching negative territory
+> - Breakdowns surged to 1160 (from 73-296 range) — selling pressure intensifying
+> - Follow-through rate at 34% — breakouts failing, do not buy new breakouts
+> - Leading sector SKYY is TOP FORMING — 20d RS negative (0.53) while 65d RS elevated (2.17)
 
 ---
 
@@ -276,14 +276,13 @@ RS_20d: 0.53 | RS_65d: 2.17
 
 ---
 
-## 10. Short-Side Setups (32 candidates)
+## 10. Short-Side Setups (31 candidates)
 
-### EP 9M Short (2) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| STAK | 282.1% | -63.76% | $3.36 | $5.00 | unknown_negative (intraday_down) |
-| CAPR | -23.5% | -61.57% | $7.57 | $7.85 | unknown_negative (gap_down) |
+| CAPR | -23.5% | -64.49% | $7.00 | $7.82 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

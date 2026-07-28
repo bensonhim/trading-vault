@@ -9,7 +9,7 @@ data_date: 2025-10-09
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **CAUTIOUS_BULL_HIGH** — Action: **REDUCE_SIZE**
+> [!caution] **CAUTIOUS_BULL_LOW** — Action: **REDUCE_SIZE**
 >
 > - **20% Study (bullish):** 59
 > - **20% Study (bearish):** 17
@@ -18,11 +18,11 @@ data_date: 2025-10-09
 > - **Breakouts:** 245 | **Breakdowns:** 208
 > - **Follow-through:** 3d=37.6% 5d=44.0% (OK)
 >
-> - T2108 falling sharply from 49.2% to 36.4% — washout bounce zone, watch for stabilization
-> - Follow-through rate at 39% — breakouts failing, do not chase
-> - Net Primary deteriorating from +872 to +794 — trend direction matters more than level
-> - SPY and UFO closing near lows — intraday distribution pattern
-> - Breakdowns elevated and worsening (122 to 208 over 5 days)
+> - T2108 falling sharply (49.2% → 36.4% over 5 days) — correction in progress, do NOT give FULL_BULL
+> - Follow-through rate 39% (< 50%) — breakouts failing, reduce size
+> - Leading sector UFO closing near lows on 3 of last 5 days — intraday distribution pattern
+> - Net Primary deteriorating from peak (+872 → +794) — bull losing momentum
+> - Breakdowns spiked to 296 on 10/07 — watch for sustained breakdown pressure
 
 ---
 
@@ -325,13 +325,13 @@ RS_20d: 8.39 | RS_65d: 4.59
 | 11 | USAR | 9 | 4 | 51 | expanded |
 | 12 | CLSK | 9 | 3 | 53 | expanded |
 | 13 | NVTS | 9 | 3 | 51 | expanded |
-| 14 | AMD | 8 | 4 | 45 | expanded |
-| 15 | APLD | 8 | 4 | 57 | core |
-| 16 | EOSE | 8 | 4 | 53 | expanded |
-| 17 | HIVE | 8 | 4 | 23 | expanded |
-| 18 | MU | 8 | 4 | 49 | expanded |
-| 19 | NBIS | 8 | 4 | 62 | core |
-| 20 | POET | 8 | 4 | 28 | expanded |
+| 14 | OKLO | 9 | 3 | 64 | core |
+| 15 | AMD | 8 | 4 | 45 | expanded |
+| 16 | APLD | 8 | 4 | 57 | core |
+| 17 | EOSE | 8 | 4 | 53 | expanded |
+| 18 | HIVE | 8 | 4 | 23 | expanded |
+| 19 | MU | 8 | 4 | 49 | expanded |
+| 20 | NBIS | 8 | 4 | 62 | core |
 
 ---
 
@@ -392,7 +392,7 @@ RS_20d: 8.39 | RS_65d: 4.59
 - Industry: Biotechnology
 - Sector: Healthcare
 - Sector ETF: XBI (biotech_small)
-- Market Cap: $6.3B
+- Market Cap: $6.4B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (126 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -463,14 +463,13 @@ RS_20d: 8.39 | RS_65d: 4.59
 
 ---
 
-## 10. Short-Side Setups (32 candidates)
+## 10. Short-Side Setups (31 candidates)
 
-### EP 9M Short (2) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| STAK | 277.4% | -64.4% | $3.30 | $5.00 | unknown_negative (intraday_down) |
-| CAPR | -22.1% | -61.7% | $7.54 | $7.85 | unknown_negative (gap_down) |
+| CAPR | -22.1% | -64.49% | $7.00 | $7.82 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

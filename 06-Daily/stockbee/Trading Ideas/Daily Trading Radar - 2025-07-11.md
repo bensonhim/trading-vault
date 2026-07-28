@@ -9,7 +9,7 @@ data_date: 2025-07-10
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!tip] **FULL_BULL** — Action: **FULL_LONG**
+> [!caution] **CAUTIOUS_BULL_HIGH** — Action: **REDUCE_SIZE**
 >
 > - **20% Study (bullish):** 46
 > - **20% Study (bearish):** 21
@@ -18,11 +18,11 @@ data_date: 2025-07-10
 > - **Breakouts:** 306 | **Breakdowns:** 125
 > - **Follow-through:** 3d=38.8% 5d=54.4% (OK)
 >
-> - Follow-through rate at 54% — below 70% healthy threshold, breakouts struggling to sustain
-> - Rally is 13 days mature — easy breakouts have already happened, be selective
-> - T2108 dipped from 69.3% to 62.8% before recovering — watch for further deterioration
-> - Leading sector UFO closing near lows on 3 of last 5 days — monitor for distribution pattern
-> - One-day breakdown spike on 07-07 (411 BD) — appears to be profit-taking, not distribution, given improving Net Primary
+> - Rally mature at 13 days — easy breakouts already happened
+> - Follow-through at 54% — breakouts mixed, not failing but struggling
+> - T2108 falling from 69.3% to 66.9% — minor deterioration worth monitoring
+> - UFO leading sector closing near lows on 2 of last 5 days — watch for intraday distribution
+> - One-day breakdown spike on 7/07 (411 BD) was absorbed — profit taking, not regime change
 
 ---
 
@@ -249,35 +249,35 @@ RS_20d: 4.31 | RS_65d: 2.25
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
-| 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 2 | RGTI | 10 | 5 | 62 | expanded |
+| 3 | IREN | 10 | 4 | 70 | expanded |
 | 4 | SATL | 9 | 5 | 21 | expanded |
-| 5 | FCEL | 9 | 4 | 23 | expanded |
-| 6 | IONQ | 9 | 4 | 53 | core |
-| 7 | KEEL | 9 | 4 | 19 | expanded |
-| 8 | RIOT | 9 | 4 | 58 | expanded |
-| 9 | USAR | 9 | 4 | 51 | expanded |
-| 10 | CLSK | 9 | 3 | 53 | expanded |
-| 11 | NVTS | 9 | 3 | 51 | core |
-| 12 | AMD | 8 | 4 | 45 | expanded |
-| 13 | APLD | 8 | 4 | 57 | core |
-| 14 | MU | 8 | 4 | 49 | expanded |
-| 15 | NBIS | 8 | 4 | 62 | core |
-| 16 | POET | 8 | 4 | 28 | expanded |
-| 17 | SMCI | 8 | 4 | 44 | expanded |
-| 18 | SPCE | 8 | 4 | 14 | expanded |
-| 19 | CRWV | 8 | 3 | 60 | core |
-| 20 | FIG | 8 | 3 | 28 | expanded |
+| 5 | SBET | 9 | 5 | 38 | expanded |
+| 6 | FCEL | 9 | 4 | 23 | expanded |
+| 7 | IONQ | 9 | 4 | 53 | core |
+| 8 | KEEL | 9 | 4 | 19 | expanded |
+| 9 | LAES | 9 | 4 | 37 | expanded |
+| 10 | RIOT | 9 | 4 | 58 | expanded |
+| 11 | USAR | 9 | 4 | 51 | expanded |
+| 12 | CLSK | 9 | 3 | 53 | expanded |
+| 13 | NVTS | 9 | 3 | 51 | expanded |
+| 14 | OKLO | 9 | 3 | 64 | core |
+| 15 | AMD | 8 | 4 | 45 | expanded |
+| 16 | APLD | 8 | 4 | 57 | core |
+| 17 | EOSE | 8 | 4 | 53 | expanded |
+| 18 | HIVE | 8 | 4 | 23 | expanded |
+| 19 | MU | 8 | 4 | 49 | expanded |
+| 20 | NBIS | 8 | 4 | 62 | core |
 
 ---
 
-## 10. Short-Side Setups (28 candidates)
+## 10. Short-Side Setups (29 candidates)
 
 ### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -49.0% | -67.61% | $6.38 | $7.31 | unknown_negative (gap_down) |
+| CAPR | -49.0% | -64.49% | $7.00 | $7.82 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
@@ -299,10 +299,11 @@ RS_20d: 4.31 | RS_65d: 2.25
 | CAG | sector_breakdown | -4.4% | $19.49 | $20.15 | Sector weakness breakdown |
 | VRT | sector_breakdown | -6.0% | $120.72 | $128.82 | Sector weakness breakdown |
 
-### Sugar Baby Short (2) — former SBs now in weakening sectors
+### Sugar Baby Short (3) — former SBs now in weakening sectors
 
 | Ticker | SB Tier | Sector ETF | Decline from Peak | Notes |
 |--------|---------|-----------|-------------------|-------|
+| DUO | expanded | XLRE | -26.9% | SB in weakening sector XLRE (RS_20d=-0.39), down 27% from peak |
 | CMCT | expanded | XLRE | -22.7% | SB in weakening sector XLRE (RS_20d=-0.39), down 23% from peak |
 | WHLR | expanded | XLRE | -16.1% | SB in weakening sector XLRE (RS_20d=-0.39), down 16% from peak |
 
