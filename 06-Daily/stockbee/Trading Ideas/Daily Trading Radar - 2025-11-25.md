@@ -18,11 +18,11 @@ data_date: 2025-11-24
 > - **Breakouts:** 401 | **Breakdowns:** 94
 > - **Follow-through:** 3d=18.7% 5d=13.3% (FAILING)
 >
-> - Leading sector GNOM shows top-forming pattern: negative 20d RS with high 65d RS — institutional distribution in slow motion
-> - Former leader XBI rolling over (65d leader with negative 20d RS) — when leaders distribute, other sectors tend to join
-> - Net Primary still deeply negative at -445 — this is a washout bounce, not a confirmed uptrend; needs continued improvement to validate
-> - Rally only 2 days old off 11-20 washout — early stage, but watch for 3-day maturity signal
-> - Intraday closes near lows on 11-24 for SPY, QQQ, and GNOM — potential distribution pattern if it persists
+> - Net Primary still negative (-445) — washout bounce not yet confirmed by primary indicator
+> - Former leader XBI rolling over: 65-day RS leader with negative 20-day RS = potential distribution
+> - Leading sector GNOM has negative 20d RS (-0.36) with high 65d RS (5.57) — top forming pattern
+> - Top 5 sectors by RS_20d all have deeply negative 20-day returns (-9.9% to -19.8%) — strength is relative, not absolute
+> - T2108 at 36.8% is still in weak zone — need continued recovery to confirm sustainable rally
 
 ---
 
@@ -282,14 +282,13 @@ RS_20d: -0.36 | RS_65d: 5.57
 
 ---
 
-## 10. Short-Side Setups (27 candidates)
+## 10. Short-Side Setups (26 candidates)
 
-### EP 9M Short (2) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | 1.3% | -60.66% | $7.75 | $7.85 | unknown_negative (intraday_down) |
-| STAK | 632.5% | -62.35% | $3.49 | $5.00 | unknown_negative (intraday_down) |
+| CAPR | 1.3% | -64.49% | $7.00 | $7.82 | unknown_negative (intraday_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

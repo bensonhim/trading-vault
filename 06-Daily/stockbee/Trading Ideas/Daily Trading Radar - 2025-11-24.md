@@ -9,7 +9,7 @@ data_date: 2025-11-21
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **CAUTIOUS_BULL_LOW** — Action: **REDUCE_SIZE**
+> [!warning] **DISTRIBUTING** — Action: **NO_NEW_LONGS**
 >
 > - **20% Study (bullish):** 0
 > - **20% Study (bearish):** 0
@@ -18,11 +18,11 @@ data_date: 2025-11-21
 > - **Breakouts:** 665 | **Breakdowns:** 86
 > - **Follow-through:** 3d=27.7% 5d=24.0% (FAILING)
 >
-> - Net Primary consistently negative (-495 to -751 range) over 5 days — no confirmed bull
-> - Follow-through rate 33% — breakouts failing, do NOT chase
-> - Former leader XBI rolling over (negative 20d RS, positive 65d RS) — institutional distribution
-> - Current leader GNOM 20d RS near zero (0.07) vs 65d RS 5.23 — top forming pattern
-> - Top RS_20d sectors (BLOK, FINX, UFO) are niche/closed-ended funds, not market leaders — rotation trap risk
+> - Former leader XBI rolling over — 65d RS leader with negative 20d RS = top forming pattern
+> - Net Primary deeply negative (-583) and deteriorating — no bullish confirmation from primary indicator
+> - Follow-through rate at 33% — breakouts failing, do not chase
+> - Leading sectors (BLOK, FINX, UFO) are speculative/niche, not institutional leaders — possible rotation trap
+> - Washout bounce signal (T2108 rising from 25.4%, 665 breakouts) needs multi-day confirmation before trusting
 
 ---
 
@@ -265,14 +265,13 @@ RS_20d: 0.07 | RS_65d: 5.23
 
 ---
 
-## 10. Short-Side Setups (32 candidates)
+## 10. Short-Side Setups (31 candidates)
 
-### EP 9M Short (2) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | 2.4% | -60.6% | $7.76 | $7.85 | unknown_negative (intraday_down) |
-| STAK | 621.5% | -61.5% | $3.57 | $5.00 | unknown_negative (intraday_down) |
+| CAPR | 2.4% | -64.49% | $7.00 | $7.82 | unknown_negative (intraday_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

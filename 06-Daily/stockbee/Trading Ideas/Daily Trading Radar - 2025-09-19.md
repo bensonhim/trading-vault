@@ -18,11 +18,11 @@ data_date: 2025-09-18
 > - **Breakouts:** 501 | **Breakdowns:** 81
 > - **Follow-through:** 3d=40.0% 5d=38.0% (OK)
 >
-> - Follow-through rate 43% — breakouts failing, reduce size and tighten stops
-> - 20% study at 56 — elevated, caution territory
-> - Rally mature at 19 days — easy breakouts already happened
-> - Leading sectors are SIL/GDX (silver/gold miners) — rotation trap risk if aggressive sectors (semis, AI, tech) are lagging
-> - SPY and QQQ closed near lows on most recent day — watch for intraday distribution pattern
+> - Follow-through rate 43% — breakouts failing more than half the time, reduce size
+> - Rally 19 days mature and extended — easy breakouts already happened
+> - Leading sector is SIL (silver miners) not semis/AI/tech — possible rotation trap, watch if this is defensive rotation
+> - 20% study at 56 in caution territory — buying binge may be peaking
+> - SPY closed near low on latest day — watch for intraday distribution pattern if it persists
 
 ---
 
@@ -312,25 +312,25 @@ RS_20d: 5.52 | RS_65d: 3.20
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
-| 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 2 | RGTI | 10 | 5 | 62 | expanded |
+| 3 | IREN | 10 | 4 | 70 | expanded |
 | 4 | SATL | 9 | 5 | 21 | expanded |
 | 5 | SBET | 9 | 5 | 38 | expanded |
 | 6 | FCEL | 9 | 4 | 23 | expanded |
 | 7 | IONQ | 9 | 4 | 53 | core |
 | 8 | KEEL | 9 | 4 | 19 | expanded |
-| 9 | RIOT | 9 | 4 | 58 | expanded |
-| 10 | USAR | 9 | 4 | 51 | expanded |
-| 11 | CLSK | 9 | 3 | 53 | expanded |
-| 12 | NVTS | 9 | 3 | 51 | expanded |
-| 13 | AMD | 8 | 4 | 45 | expanded |
-| 14 | APLD | 8 | 4 | 57 | core |
-| 15 | MU | 8 | 4 | 49 | expanded |
-| 16 | NBIS | 8 | 4 | 62 | core |
-| 17 | POET | 8 | 4 | 28 | expanded |
-| 18 | SMCI | 8 | 4 | 44 | expanded |
-| 19 | SPCE | 8 | 4 | 14 | expanded |
-| 20 | CIFR | 8 | 3 | 52 | expanded |
+| 9 | LAES | 9 | 4 | 37 | expanded |
+| 10 | RIOT | 9 | 4 | 58 | expanded |
+| 11 | USAR | 9 | 4 | 51 | expanded |
+| 12 | CLSK | 9 | 3 | 53 | expanded |
+| 13 | NVTS | 9 | 3 | 51 | expanded |
+| 14 | OKLO | 9 | 3 | 64 | core |
+| 15 | AMD | 8 | 4 | 45 | expanded |
+| 16 | APLD | 8 | 4 | 57 | core |
+| 17 | EOSE | 8 | 4 | 53 | expanded |
+| 18 | HIVE | 8 | 4 | 23 | expanded |
+| 19 | MU | 8 | 4 | 49 | expanded |
+| 20 | NBIS | 8 | 4 | 62 | core |
 
 ### Sugar Babies in Hot Sectors (with active setups today)
 
@@ -422,7 +422,7 @@ RS_20d: 5.52 | RS_65d: 3.20
 - Industry: Hardware, Equipment & Parts
 - Sector: Technology
 - Sector ETF: XLK (technology_broad)
-- Market Cap: $3.5B
+- Market Cap: $3.6B
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (153 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -475,7 +475,7 @@ RS_20d: 5.52 | RS_65d: 3.20
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -4.2% | -67.21% | $6.46 | $7.31 | unknown_negative (gap_down) |
+| CAPR | -4.2% | -64.49% | $7.00 | $7.82 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

@@ -9,7 +9,7 @@ data_date: 2025-09-22
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!tip] **FULL_BULL** — Action: **FULL_LONG**
+> [!caution] **CAUTIOUS_BULL_HIGH** — Action: **REDUCE_SIZE**
 >
 > - **20% Study (bullish):** 75
 > - **20% Study (bearish):** 14
@@ -18,10 +18,11 @@ data_date: 2025-09-22
 > - **Breakouts:** 254 | **Breakdowns:** 73
 > - **Follow-through:** 3d=30.0% 5d=21.7% (FAILING)
 >
-> - Leading sectors are defensive/commodity (SIL, GDX) not aggressive (semis, AI) — rotation trap risk if tech starts distributing
-> - T2108 trend falling (59.8% → 53.0%) — watch for further deterioration below 40%
-> - SPY and QQQ both closed near lows intraday — mild distribution signal, monitor for repeat pattern
-> - LLM: Net Primary at +976 is deeply bullish (>+500) and the 5-day trend is stable to improving (+821 → +976), confirming institutions are in accumulation mode. T2108 at 53% is in the healthy bull range and the 20% study at 75 with a bull:bear ratio of 5.36 confirms aggressive fund buying is ongoing. The only caution is that leadership is coming from defensive/commodity sectors (SIL, GDX) rather than aggressive tech/semis, and T2108 is slightly falling — but these are supplementary flags that do not override the primary breadth signal.
+> - Defensive/commodity sectors (SIL, GDX) leading while aggressive sectors absent — potential rotation trap
+> - T2108 falling modestly over 5 days (55.4% → 53.0%) — mild deterioration in broader breadth
+> - SPY and QQQ closing near lows intraday — mild distribution pattern on latest session
+> - Follow-through data unavailable (N/A) — cannot confirm breakout quality
+> - LLM: Net Primary is extremely strong (>+900) and improving over 5 days with breakouts dominating breakdowns (254 vs 73) and 20% bull:bear ratio at 5.36 — all primary indicators scream bullish. However, T2108 is mildly falling (55.4% to 53.0%) and the leading sectors are all defensive/commodity (silver miners, gold miners) with no aggressive sectors (semis, AI, tech) in the top 5 — a rotation trap flag that reduces confidence but does not override the strong primary breadth.
 
 ---
 
@@ -282,25 +283,25 @@ RS_20d: 7.33 | RS_65d: 3.61
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
-| 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 2 | RGTI | 10 | 5 | 62 | expanded |
+| 3 | IREN | 10 | 4 | 70 | expanded |
 | 4 | SATL | 9 | 5 | 21 | expanded |
 | 5 | SBET | 9 | 5 | 38 | expanded |
 | 6 | FCEL | 9 | 4 | 23 | expanded |
 | 7 | IONQ | 9 | 4 | 53 | core |
 | 8 | KEEL | 9 | 4 | 19 | expanded |
-| 9 | RIOT | 9 | 4 | 58 | expanded |
-| 10 | USAR | 9 | 4 | 51 | expanded |
-| 11 | CLSK | 9 | 3 | 53 | expanded |
-| 12 | NVTS | 9 | 3 | 51 | expanded |
-| 13 | AMD | 8 | 4 | 45 | expanded |
-| 14 | APLD | 8 | 4 | 57 | core |
-| 15 | MU | 8 | 4 | 49 | expanded |
-| 16 | NBIS | 8 | 4 | 62 | core |
-| 17 | POET | 8 | 4 | 28 | expanded |
-| 18 | SMCI | 8 | 4 | 44 | expanded |
-| 19 | SPCE | 8 | 4 | 14 | expanded |
-| 20 | CIFR | 8 | 3 | 52 | expanded |
+| 9 | LAES | 9 | 4 | 37 | expanded |
+| 10 | RIOT | 9 | 4 | 58 | expanded |
+| 11 | USAR | 9 | 4 | 51 | expanded |
+| 12 | CLSK | 9 | 3 | 53 | expanded |
+| 13 | NVTS | 9 | 3 | 51 | expanded |
+| 14 | OKLO | 9 | 3 | 64 | core |
+| 15 | AMD | 8 | 4 | 45 | expanded |
+| 16 | APLD | 8 | 4 | 57 | core |
+| 17 | EOSE | 8 | 4 | 53 | expanded |
+| 18 | HIVE | 8 | 4 | 23 | expanded |
+| 19 | MU | 8 | 4 | 49 | expanded |
+| 20 | NBIS | 8 | 4 | 62 | core |
 
 ---
 
@@ -310,7 +311,7 @@ RS_20d: 7.33 | RS_65d: 3.61
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -12.4% | -66.09% | $6.68 | $7.31 | unknown_negative (gap_down) |
+| CAPR | -12.4% | -64.49% | $7.00 | $7.82 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

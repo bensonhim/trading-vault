@@ -18,11 +18,11 @@ data_date: 2025-11-20
 > - **Breakouts:** 85 | **Breakdowns:** 674
 > - **Follow-through:** 3d=27.6% 5d=25.2% (FAILING)
 >
-> - Net Primary deeply negative and deteriorating — not a one-day spike but a 5-day trend
-> - Leading sector GNOM is TOP FORMING (20d RS negative, 65d RS still elevated) — institutional distribution in slow motion
-> - Former leader XBI rolling over — when leaders distribute, all sectors join
-> - Follow-through rate at 34% — breakouts failing systematically, not selectively
-> - T2108 at 25.4% approaching washout zone but not capitulation — monitor for sub-20% which would shift regime
+> - Net Primary -751 and deteriorating — institutional selling accelerating
+> - T2108 fell from 35.7% to 25.4% in 5 days — sharp correction underway
+> - Leading sector GNOM top forming; former leader XBI rolling over (negative 20d RS)
+> - Follow-through rate at 34% — breakouts systematically failing
+> - Breakdowns (674) vastly exceed breakouts (85) — 7.9x ratio
 
 ---
 
@@ -305,14 +305,13 @@ RS_20d: 0.95 | RS_65d: 7.05
 
 ---
 
-## 10. Short-Side Setups (32 candidates)
+## 10. Short-Side Setups (31 candidates)
 
-### EP 9M Short (2) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | 1.0% | -61.07% | $7.67 | $7.85 | unknown_negative (intraday_down) |
-| STAK | 581.9% | -61.92% | $3.53 | $5.00 | unknown_negative (intraday_down) |
+| CAPR | 1.0% | -64.49% | $7.00 | $7.82 | unknown_negative (intraday_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

@@ -18,11 +18,11 @@ data_date: 2025-12-26
 > - **Breakouts:** 109 | **Breakdowns:** 219
 > - **Follow-through:** 3d=29.2% 5d=23.3% (FAILING)
 >
-> - Breakouts collapsing (412 → 109) while breakdowns elevated (219) — BO:BD ratio bearish today
-> - Follow-through at 50% — breakouts struggling, not sustaining
-> - Rotation trap: SIL/GDX leading while SMH mid-pack — institutions may be derisking into defensive/old economy
-> - Rally mature at 13 days — easy breakouts already happened
-> - Net Primary deteriorating in last 2 days (+162 → +127) — bull may be aging
+> - Breakdowns (219) exceed breakouts (109) today — selling pressure picking up despite rising T2108
+> - Leading sector is SIL (silver miners) with GDX and UFO — defensive/commodity rotation, not growth leadership
+> - Follow-through rate at 50% — breakouts struggling to sustain
+> - Rally 13 days mature — easy breakouts already happened
+> - 20% study at 0 with T2108 in normal range (52.7%) — no evidence of aggressive buying binge yet
 
 ---
 
@@ -242,25 +242,25 @@ RS_20d: 14.47 | RS_65d: 7.68
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
-| 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 2 | RGTI | 10 | 5 | 62 | expanded |
+| 3 | IREN | 10 | 4 | 70 | expanded |
 | 4 | SATL | 9 | 5 | 21 | expanded |
 | 5 | SBET | 9 | 5 | 38 | expanded |
 | 6 | FCEL | 9 | 4 | 23 | expanded |
 | 7 | IONQ | 9 | 4 | 53 | core |
 | 8 | KEEL | 9 | 4 | 19 | expanded |
-| 9 | RIOT | 9 | 4 | 58 | expanded |
-| 10 | USAR | 9 | 4 | 51 | expanded |
-| 11 | CLSK | 9 | 3 | 53 | expanded |
-| 12 | NVTS | 9 | 3 | 51 | expanded |
-| 13 | AMD | 8 | 4 | 45 | expanded |
-| 14 | APLD | 8 | 4 | 57 | core |
-| 15 | MU | 8 | 4 | 49 | expanded |
-| 16 | NBIS | 8 | 4 | 62 | core |
-| 17 | POET | 8 | 4 | 28 | expanded |
-| 18 | SMCI | 8 | 4 | 44 | expanded |
-| 19 | SPCE | 8 | 4 | 14 | expanded |
-| 20 | CIFR | 8 | 3 | 52 | expanded |
+| 9 | LAES | 9 | 4 | 37 | expanded |
+| 10 | RIOT | 9 | 4 | 58 | expanded |
+| 11 | USAR | 9 | 4 | 51 | expanded |
+| 12 | CLSK | 9 | 3 | 53 | expanded |
+| 13 | NVTS | 9 | 3 | 51 | expanded |
+| 14 | OKLO | 9 | 3 | 64 | core |
+| 15 | AMD | 8 | 4 | 45 | expanded |
+| 16 | APLD | 8 | 4 | 57 | core |
+| 17 | EOSE | 8 | 4 | 53 | expanded |
+| 18 | HIVE | 8 | 4 | 23 | expanded |
+| 19 | MU | 8 | 4 | 49 | expanded |
+| 20 | NBIS | 8 | 4 | 62 | core |
 
 ---
 
@@ -270,7 +270,7 @@ RS_20d: 14.47 | RS_65d: 7.68
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -80.4% | -62.49% | $7.39 | $7.42 | unknown_negative (gap_down) |
+| CAPR | -80.4% | -64.49% | $7.00 | $7.82 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

@@ -18,11 +18,11 @@ data_date: 2025-12-30
 > - **Breakouts:** 121 | **Breakdowns:** 164
 > - **Follow-through:** 3d=29.5% 5d=25.9% (FAILING)
 >
-> - Net Primary trend deteriorating from +154 to -47 — bull is dying
+> - Net Primary deteriorating from positive to negative — funds pulling back
 > - Follow-through rate 35% — breakouts failing, reduce size
-> - Rally mature at 15 days — easy breakouts already happened
-> - Leading sector UFO closing near lows 3 of last 5 days — potential top forming
-> - Sector rotation into defensive/old economy (SIL, GDX, PPA, XLF) — rotation trap risk
+> - 5-day BO:BD ratio ~0.51 — well below 0.8 weak threshold
+> - Leading sector UFO showing intraday distribution (closing near lows 3 of 5 days)
+> - Sector rotation into defensive/old economy (SIL, GDX, XLF, PPA) while growth/tech absent — rotation trap risk
 
 ---
 
@@ -253,25 +253,25 @@ RS_20d: 20.17 | RS_65d: 2.92
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
-| 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 2 | RGTI | 10 | 5 | 62 | expanded |
+| 3 | IREN | 10 | 4 | 70 | expanded |
 | 4 | SATL | 9 | 5 | 21 | expanded |
 | 5 | SBET | 9 | 5 | 38 | expanded |
 | 6 | FCEL | 9 | 4 | 23 | expanded |
 | 7 | IONQ | 9 | 4 | 53 | core |
 | 8 | KEEL | 9 | 4 | 19 | expanded |
-| 9 | RIOT | 9 | 4 | 58 | expanded |
-| 10 | USAR | 9 | 4 | 51 | expanded |
-| 11 | CLSK | 9 | 3 | 53 | expanded |
-| 12 | NVTS | 9 | 3 | 51 | expanded |
-| 13 | AMD | 8 | 4 | 45 | expanded |
-| 14 | APLD | 8 | 4 | 57 | core |
-| 15 | MU | 8 | 4 | 49 | expanded |
-| 16 | NBIS | 8 | 4 | 62 | core |
-| 17 | POET | 8 | 4 | 28 | expanded |
-| 18 | SMCI | 8 | 4 | 44 | expanded |
-| 19 | SPCE | 8 | 4 | 14 | expanded |
-| 20 | CIFR | 8 | 3 | 52 | expanded |
+| 9 | LAES | 9 | 4 | 37 | expanded |
+| 10 | RIOT | 9 | 4 | 58 | expanded |
+| 11 | USAR | 9 | 4 | 51 | expanded |
+| 12 | CLSK | 9 | 3 | 53 | expanded |
+| 13 | NVTS | 9 | 3 | 51 | expanded |
+| 14 | OKLO | 9 | 3 | 64 | core |
+| 15 | AMD | 8 | 4 | 45 | expanded |
+| 16 | APLD | 8 | 4 | 57 | core |
+| 17 | EOSE | 8 | 4 | 53 | expanded |
+| 18 | HIVE | 8 | 4 | 23 | expanded |
+| 19 | MU | 8 | 4 | 49 | expanded |
+| 20 | NBIS | 8 | 4 | 62 | core |
 
 ### Sugar Babies in Hot Sectors (with active setups today)
 
@@ -289,7 +289,7 @@ RS_20d: 20.17 | RS_65d: 2.92
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -80.6% | -62.64% | $7.36 | $7.68 | unknown_negative (gap_down) |
+| CAPR | -80.6% | -64.49% | $7.00 | $7.82 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

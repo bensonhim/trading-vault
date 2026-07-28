@@ -18,11 +18,11 @@ data_date: 2025-11-25
 > - **Breakouts:** 395 | **Breakdowns:** 71
 > - **Follow-through:** 3d=30.0% 5d=32.3% (OK)
 >
-> - Leading sector GNOM (genomics) has negative 20d RS (-1.88) with positive 65d RS (4.91) — classic top-forming institutional distribution pattern
-> - Former leader XBI also rolling over with same negative 20d / positive 65d RS structure
-> - Intraday distribution pattern: SPY and QQQ both closed near lows despite flat opens
-> - Rally is 3 days mature — easy breakouts already happened, new entries riskier
-> - Top RS_20d sectors (BLOK, FINX, UFO, BUG) all have negative 20-day returns — possible rotation trap from beaten-down names
+> - Leading sector GNOM rolling over — negative 20d RS with positive 65d RS = top forming
+> - Rotation trap: top 20d RS sectors (BLOK, FINX, UFO, BUG, SKYY) all have negative 65d RS and negative 20d returns — beaten-down bounce, not institutional accumulation
+> - Rally mature at 3 days — easy breakouts already happened, new entries risk buying late
+> - 20% study at 70 — caution territory, buying binge showing but not euphoric
+> - Net Primary still negative (-264) — bounce not yet confirmed by primary trend indicator
 
 ---
 
@@ -324,7 +324,7 @@ RS_20d: -1.88 | RS_65d: 4.91
 - Industry: Luxury Goods
 - Sector: Consumer Cyclical
 - Sector ETF: XLY (consumer_discretionary)
-- Market Cap: $3.3B
+- Market Cap: $3.4B
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (135 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -421,14 +421,13 @@ RS_20d: -1.88 | RS_65d: 4.91
 
 ---
 
-## 10. Short-Side Setups (27 candidates)
+## 10. Short-Side Setups (26 candidates)
 
-### EP 9M Short (2) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | 25.6% | -61.27% | $7.63 | $7.85 | unknown_negative (intraday_down) |
-| STAK | 609.3% | -62.57% | $3.47 | $5.00 | unknown_negative (intraday_down) |
+| CAPR | 25.6% | -64.49% | $7.00 | $7.82 | unknown_negative (intraday_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

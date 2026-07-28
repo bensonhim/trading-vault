@@ -18,11 +18,11 @@ data_date: 2025-12-23
 > - **Breakouts:** 100 | **Breakdowns:** 199
 > - **Follow-through:** 3d=33.7% 5d=34.3% (OK)
 >
-> - Follow-through rate at 30% — breakouts failing to follow through, reduce size
-> - 20% study at 57 in caution territory — buying binge may be peaking
-> - Leading sector is SIL (silver miners) — defensive/old economy rotation, not aggressive growth leadership; potential rotation trap
-> - Rally mature at 20 days and extended — easy breakouts already happened
-> - SOXX 20d RS (2.74) below 65d RS (4.11) — former growth leader weakening but not fully rolled over
+> - Follow-through rate 30% — breakouts failing, reduce size
+> - Rotation trap: silver/gold miners leading while semis weaken (SOXX 20d RS < 65d RS)
+> - Rally mature (20 days) and extended — easy breakouts already happened
+> - Latest day breakdowns dominating again (199 BD vs 100 BO) after 2 days of breakout strength
+> - Net Primary only +82 — weak positive, not confirmed by follow-through
 
 ---
 
@@ -304,25 +304,25 @@ RS_20d: 10.02 | RS_65d: 8.97
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
-| 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 2 | RGTI | 10 | 5 | 62 | expanded |
+| 3 | IREN | 10 | 4 | 70 | expanded |
 | 4 | SATL | 9 | 5 | 21 | expanded |
 | 5 | SBET | 9 | 5 | 38 | expanded |
 | 6 | FCEL | 9 | 4 | 23 | expanded |
 | 7 | IONQ | 9 | 4 | 53 | core |
 | 8 | KEEL | 9 | 4 | 19 | expanded |
-| 9 | RIOT | 9 | 4 | 58 | expanded |
-| 10 | USAR | 9 | 4 | 51 | expanded |
-| 11 | CLSK | 9 | 3 | 53 | expanded |
-| 12 | NVTS | 9 | 3 | 51 | expanded |
-| 13 | AMD | 8 | 4 | 45 | expanded |
-| 14 | APLD | 8 | 4 | 57 | core |
-| 15 | MU | 8 | 4 | 49 | expanded |
-| 16 | NBIS | 8 | 4 | 62 | core |
-| 17 | POET | 8 | 4 | 28 | expanded |
-| 18 | SMCI | 8 | 4 | 44 | expanded |
-| 19 | SPCE | 8 | 4 | 14 | expanded |
-| 20 | CIFR | 8 | 3 | 52 | expanded |
+| 9 | LAES | 9 | 4 | 37 | expanded |
+| 10 | RIOT | 9 | 4 | 58 | expanded |
+| 11 | USAR | 9 | 4 | 51 | expanded |
+| 12 | CLSK | 9 | 3 | 53 | expanded |
+| 13 | NVTS | 9 | 3 | 51 | expanded |
+| 14 | OKLO | 9 | 3 | 64 | core |
+| 15 | AMD | 8 | 4 | 45 | expanded |
+| 16 | APLD | 8 | 4 | 57 | core |
+| 17 | EOSE | 8 | 4 | 53 | expanded |
+| 18 | HIVE | 8 | 4 | 23 | expanded |
+| 19 | MU | 8 | 4 | 49 | expanded |
+| 20 | NBIS | 8 | 4 | 62 | core |
 
 ---
 
@@ -395,7 +395,7 @@ RS_20d: 10.02 | RS_65d: 8.97
 - Industry: Semiconductors
 - Sector: Technology
 - Sector ETF: SMH (semiconductors)
-- Market Cap: $24.5B
+- Market Cap: $25.1B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (21 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -446,7 +446,7 @@ RS_20d: 10.02 | RS_65d: 8.97
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -80.2% | -65.08% | $6.88 | $7.31 | unknown_negative (gap_down) |
+| CAPR | -80.2% | -64.49% | $7.00 | $7.82 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

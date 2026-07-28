@@ -18,11 +18,11 @@ data_date: 2025-07-11
 > - **Breakouts:** 160 | **Breakdowns:** 234
 > - **Follow-through:** 3d=38.4% 5d=55.6% (OK)
 >
-> - Follow-through rate at 50% overall, 36% on most recent day — breakouts struggling
-> - Breakout count collapsing from 397 to 160 over 5 days while breakdowns spiked to 234 today
-> - Rally mature at 14 days since last low — easy breakouts already happened
-> - Leading sector UFO closing near lows on 3 of last 5 days — watch for 20d RS deterioration
-> - One-day breakdown spike likely profit-taking given Net Primary still +1730, but monitor for sustained breakdowns
+> - Follow-through rate dropped to 36% on 7/10 — breakouts failing to sustain
+> - UFO (leading sector) closed near low on 3 of 5 days — intraday distribution pattern
+> - Rally is mature at 14 days — easy breakouts already happened
+> - Today's breakdowns (234) exceeded breakouts (160) — one-day spike but watch for continuation
+> - 20% study shows 0/0 — likely stale data, reduce confidence in supplementary signals
 
 ---
 
@@ -238,25 +238,25 @@ RS_20d: 3.85 | RS_65d: 2.20
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
-| 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 2 | RGTI | 10 | 5 | 62 | expanded |
+| 3 | IREN | 10 | 4 | 70 | expanded |
 | 4 | SATL | 9 | 5 | 21 | expanded |
-| 5 | FCEL | 9 | 4 | 23 | expanded |
-| 6 | IONQ | 9 | 4 | 53 | core |
-| 7 | KEEL | 9 | 4 | 19 | expanded |
-| 8 | RIOT | 9 | 4 | 58 | expanded |
-| 9 | USAR | 9 | 4 | 51 | expanded |
-| 10 | CLSK | 9 | 3 | 53 | expanded |
-| 11 | NVTS | 9 | 3 | 51 | expanded |
-| 12 | AMD | 8 | 4 | 45 | expanded |
-| 13 | APLD | 8 | 4 | 57 | core |
-| 14 | MU | 8 | 4 | 49 | expanded |
-| 15 | NBIS | 8 | 4 | 62 | core |
-| 16 | POET | 8 | 4 | 28 | expanded |
-| 17 | SMCI | 8 | 4 | 44 | expanded |
-| 18 | SPCE | 8 | 4 | 14 | expanded |
-| 19 | CRWV | 8 | 3 | 60 | core |
-| 20 | FIG | 8 | 3 | 28 | expanded |
+| 5 | SBET | 9 | 5 | 38 | expanded |
+| 6 | FCEL | 9 | 4 | 23 | expanded |
+| 7 | IONQ | 9 | 4 | 53 | core |
+| 8 | KEEL | 9 | 4 | 19 | expanded |
+| 9 | LAES | 9 | 4 | 37 | expanded |
+| 10 | RIOT | 9 | 4 | 58 | expanded |
+| 11 | USAR | 9 | 4 | 51 | expanded |
+| 12 | CLSK | 9 | 3 | 53 | expanded |
+| 13 | NVTS | 9 | 3 | 51 | expanded |
+| 14 | OKLO | 9 | 3 | 64 | core |
+| 15 | AMD | 8 | 4 | 45 | expanded |
+| 16 | APLD | 8 | 4 | 57 | core |
+| 17 | EOSE | 8 | 4 | 53 | expanded |
+| 18 | HIVE | 8 | 4 | 23 | expanded |
+| 19 | MU | 8 | 4 | 49 | expanded |
+| 20 | NBIS | 8 | 4 | 62 | core |
 
 ---
 
@@ -266,7 +266,7 @@ RS_20d: 3.85 | RS_65d: 2.20
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -48.9% | -67.67% | $6.37 | $7.31 | unknown_negative (gap_down) |
+| CAPR | -48.9% | -64.49% | $7.00 | $7.82 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
@@ -295,8 +295,8 @@ RS_20d: 3.85 | RS_65d: 2.20
 | HSDT | expanded | XLV | -85.9% | SB in weakening sector XLV (RS_20d=-0.11), down 86% from peak |
 | RGC | expanded | XLV | -81.1% | SB in weakening sector XLV (RS_20d=-0.11), down 81% from peak |
 | NIVF | expanded | XLV | -72.7% | SB in weakening sector XLV (RS_20d=-0.11), down 73% from peak |
+| AEMD | expanded | XLV | -56.3% | SB in weakening sector XLV (RS_20d=-0.11), down 56% from peak |
 | CPIX | expanded | XLV | -49.1% | SB in weakening sector XLV (RS_20d=-0.11), down 49% from peak |
-| WGRX | expanded | XLV | -48.2% | SB in weakening sector XLV (RS_20d=-0.11), down 48% from peak |
 
 ### Bearish Reversal (5) — 3:58 PM exhaustion
 
