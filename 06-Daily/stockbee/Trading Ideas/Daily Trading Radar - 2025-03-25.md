@@ -9,7 +9,7 @@ data_date: 2025-03-24
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **CAUTIOUS_BULL_LOW** — Action: **REDUCE_SIZE**
+> [!caution] **CAUTIOUS_BULL_HIGH** — Action: **REDUCE_SIZE**
 >
 > - **20% Study (bullish):** 37
 > - **20% Study (bearish):** 7
@@ -18,9 +18,11 @@ data_date: 2025-03-24
 > - **Breakouts:** 251 | **Breakdowns:** 86
 > - **Follow-through:** 3d=31.0% 5d=27.7% (FAILING)
 >
-> - TI65 bullish universe 99 < 800 (market losing momentum)
-> - Secondary indicators weakening (5d/10d ratio < 0.8 or breakdown spike) — downgrade to REDUCE_SIZE
-> - LLM: Rules-based fallback (LLM unavailable): TI65 bullish universe 99 < 800 (market losing momentum); Secondary indicators weakening (5d/10d ratio < 0.8 or breakdown spike) — downgrade to REDUCE_SIZE
+> - Net Primary still negative (-636) despite improving trend — breadth not fully recovered
+> - Rally mature at 7 days since capitulation low — easy breakouts already happened
+> - Intraday closes near lows on SPY/QQQ — not classic distribution but buyers not holding gains
+> - PAVE (infrastructure) showing declining RS (20d 0.48 vs 65d 1.63) — possible former leader rolling over
+> - Follow-through data N/A — cannot confirm breakouts are holding yet
 
 ---
 

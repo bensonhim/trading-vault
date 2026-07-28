@@ -18,11 +18,11 @@ data_date: 2025-09-25
 > - **Breakouts:** 140 | **Breakdowns:** 277
 > - **Follow-through:** 3d=36.0% 5d=37.6% (OK)
 >
-> - T2108 falling >5 points in 5 days (54.3% → 46.4%) — correction in progress, do NOT give FULL_BULL
-> - Net Primary deteriorating sharply from 976 to 697 — bull is aging
-> - Breakdowns (277) exceeding breakouts (140) — selling pressure increasing
-> - Follow-through rate at 34% — breakouts failing, reduce size and tighten stops
-> - Leading sector is SIL (silver miners) with GDX second — rotation trap, defensive/old economy leading while growth sectors absent
+> - T2108 falling sharply (54.3% to 46.4% in 5 days) — correction in progress, cap at CAUTIOUS_BULL_LOW
+> - Net Primary deteriorating from +976 to +697 — bull is aging
+> - Follow-through rate 34% — breakouts failing, reduce size
+> - Latest day: breakdowns (277) > 2x breakouts (140) — selling pressure accelerating
+> - Leading sector is SIL (silver miners) — defensive/commodity rotation, not growth leadership
 
 ---
 

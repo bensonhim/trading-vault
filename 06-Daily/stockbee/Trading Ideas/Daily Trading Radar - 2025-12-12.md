@@ -18,11 +18,11 @@ data_date: 2025-12-11
 > - **Breakouts:** 261 | **Breakdowns:** 173
 > - **Follow-through:** 3d=38.0% 5d=44.0% (OK)
 >
-> - Rotation trap: leading sectors are defensive (SIL, GDX) not aggressive (semis, AI, tech) — breadth may be misleading
-> - Follow-through at 55% is in caution zone — breakouts mixed, not reliably working
-> - Rally is 14 days mature — easy breakouts have already happened
-> - SPY and QQQ closing near lows on latest day — mild intraday distribution signal
-> - LLM: Net Primary is improving strongly (+109 → +411) with T2108 rising through the healthy bull zone (47% → 57%) and breakouts exceeding breakdowns — primary indicators are firmly bullish. However, the leading sectors are silver miners (SIL), gold miners (GDX), and biotech — defensive/beaten-down names rather than aggressive growth leaders like semis and AI — this is a rotation trap that warrants caution. Follow-through at 55% confirms breakouts are working but inconsistently, and the rally is 14 days mature, so size should be reduced and stops tightened.
+> - Rally is 14 days mature — easy breakouts already happened, be selective
+> - Follow-through rate at 55% — breakouts mixed, not failing but not thriving
+> - Leading sectors are metals/miners (SIL, GDX, UFO) not semis/AI — rotation trap risk if this is defensive flight
+> - SPY and QQQ closed near lows on 12-11 — watch for intraday distribution pattern
+> - LLM: Net Primary is +411 and improving strongly (109→411 over 5 days) with T2108 rising from 47.3% to 57.2% (healthy bull range). The 20% bull:bear ratio at 1.67 confirms aggressive fund buying. However, follow-through rate is only 55% (mixed breakouts), the rally is 14 days mature, and leading sectors are metals/miners (SIL, GDX) rather than traditional growth leaders (semis, AI) — a rotation pattern that warrants reduced size rather than full deployment.
 
 ---
 
@@ -249,25 +249,25 @@ RS_20d: 21.68 | RS_65d: 5.43
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
-| 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 2 | RGTI | 10 | 5 | 62 | expanded |
+| 3 | IREN | 10 | 4 | 70 | expanded |
 | 4 | SATL | 9 | 5 | 21 | expanded |
-| 5 | FCEL | 9 | 4 | 23 | expanded |
-| 6 | IONQ | 9 | 4 | 53 | core |
-| 7 | KEEL | 9 | 4 | 19 | expanded |
-| 8 | RIOT | 9 | 4 | 58 | expanded |
-| 9 | USAR | 9 | 4 | 51 | expanded |
-| 10 | CLSK | 9 | 3 | 53 | expanded |
-| 11 | NVTS | 9 | 3 | 51 | expanded |
-| 12 | AMD | 8 | 4 | 45 | expanded |
-| 13 | APLD | 8 | 4 | 57 | core |
-| 14 | MU | 8 | 4 | 49 | expanded |
-| 15 | NBIS | 8 | 4 | 62 | core |
-| 16 | POET | 8 | 4 | 28 | expanded |
-| 17 | SBET | 8 | 4 | 38 | expanded |
-| 18 | SMCI | 8 | 4 | 44 | expanded |
-| 19 | SPCE | 8 | 4 | 14 | expanded |
-| 20 | CRWV | 8 | 3 | 60 | core |
+| 5 | SBET | 9 | 5 | 38 | expanded |
+| 6 | FCEL | 9 | 4 | 23 | expanded |
+| 7 | IONQ | 9 | 4 | 53 | core |
+| 8 | KEEL | 9 | 4 | 19 | expanded |
+| 9 | LAES | 9 | 4 | 37 | expanded |
+| 10 | RIOT | 9 | 4 | 58 | expanded |
+| 11 | USAR | 9 | 4 | 51 | expanded |
+| 12 | CLSK | 9 | 3 | 53 | expanded |
+| 13 | NVTS | 9 | 3 | 51 | expanded |
+| 14 | OKLO | 9 | 3 | 64 | core |
+| 15 | AMD | 8 | 4 | 45 | expanded |
+| 16 | APLD | 8 | 4 | 57 | core |
+| 17 | EOSE | 8 | 4 | 53 | expanded |
+| 18 | HIVE | 8 | 4 | 23 | expanded |
+| 19 | MU | 8 | 4 | 49 | expanded |
+| 20 | NBIS | 8 | 4 | 62 | core |
 
 ---
 
@@ -277,7 +277,7 @@ RS_20d: 21.68 | RS_65d: 5.43
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -79.7% | -67.66% | $6.37 | $7.35 | unknown_negative (gap_down) |
+| CAPR | -79.7% | -64.49% | $7.00 | $7.82 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

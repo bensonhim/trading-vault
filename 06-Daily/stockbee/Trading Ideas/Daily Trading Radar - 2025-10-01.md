@@ -18,11 +18,11 @@ data_date: 2025-09-30
 > - **Breakouts:** 186 | **Breakdowns:** 209
 > - **Follow-through:** 3d=34.3% 5d=32.3% (OK)
 >
-> - T2108 falling >5 points in 5 days — correction in progress, do NOT give FULL_BULL
+> - T2108 falling sharply (52.3% → 46.5%) — correction in progress, do NOT give FULL_BULL
 > - Net Primary deteriorating from +873 to +679 — bull is aging
 > - Follow-through rate 37% — breakouts failing, reduce size
 > - Rally mature at 3 days — easy breakouts already happened
-> - Intraday distribution pattern — SPY and QQQ closing near lows
+> - Silver/gold miners leading (SIL, GDX) while SMH trails — potential rotation trap, defensive/old economy leadership
 
 ---
 

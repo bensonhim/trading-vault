@@ -18,11 +18,11 @@ data_date: 2025-12-02
 > - **Breakouts:** 175 | **Breakdowns:** 206
 > - **Follow-through:** 3d=38.8% 5d=29.2% (FAILING)
 >
-> - Follow-through rate 32% — breakouts failing, reduce size and tighten stops
-> - Leading sector GNOM has negative 20d RS with positive 65d RS — top forming pattern
-> - Rally is 7 days mature — easy breakouts already happened, don't chase
-> - Former leader SIL rolling over — institutional distribution in former leadership
-> - 20% study bearish (10 up vs 16 down, ratio 0.625) — buying binge not confirmed yet
+> - Follow-through rate 32% — breakouts failing, do not chase new entries
+> - Leading sector GNOM rolling over: negative 20d RS with positive 65d RS = institutional distribution in slow motion
+> - 20% study bearish: 10 up vs 16 down (ratio 0.63) — no buying binge evidence
+> - Rally is 7 days mature — easy breakouts already happened
+> - SPY and QQQ closing near lows = intraday distribution pattern
 
 ---
 

@@ -18,11 +18,11 @@ data_date: 2025-09-26
 > - **Breakouts:** 278 | **Breakdowns:** 89
 > - **Follow-through:** 3d=34.0% 5d=33.7% (OK)
 >
-> - Net Primary deteriorating from +976 to +732 — bull is aging
-> - T2108 falling trend — correction in progress, do not give FULL_BULL
-> - Follow-through rate 38% — breakouts failing, reduce size
-> - Leading sectors are SIL/GDX (gold/silver miners) — defensive/old economy leadership is a rotation trap signal, not genuine risk-on
-> - 20% study shows 0/0 — likely stale data, reduce confidence
+> - Net Primary deteriorating from +976 to +732 over 5 days — bull is aging
+> - Follow-through rate 38% (below 50%) — breakouts failing to follow through
+> - T2108 fell to 46.4% mid-week before bouncing — correction not yet confirmed over
+> - SIL (silver miners) leading with RS_20d=12.19 while SMH (semis) at 3.86 — possible rotation trap, defensive/old economy leading
+> - 20% study shows 0/0 — likely stale data, reduce confidence in breadth read
 
 ---
 

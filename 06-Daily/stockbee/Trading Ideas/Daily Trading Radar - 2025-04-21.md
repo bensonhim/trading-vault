@@ -18,11 +18,11 @@ data_date: 2025-04-17
 > - **Breakouts:** 269 | **Breakdowns:** 82
 > - **Follow-through:** 3d=48.0% 5d=48.0% (OK)
 >
-> - Follow-through rate 45% — breakouts failing to sustain, reduce size
+> - T2108 at 18.4% — still in bearish zone, not confirmed recovery
+> - Net Primary deeply negative at -1467 despite improving trend
+> - Follow-through rate 45% — breakouts failing more than half the time
 > - Rally mature at 7 days — easy breakouts already happened
-> - Net Primary deeply negative (-1467) despite improving trend
-> - T2108 at 18.4% — still in bearish zone, not yet confirmed healthy
-> - 20% study bull:bear ratio 1.53 — some buying aggression but absolute count very low (23)
+> - Leading sector PAVE showing top-forming pattern (20d RS 0.93 < 1.0, 65d RS 1.32)
 
 ---
 

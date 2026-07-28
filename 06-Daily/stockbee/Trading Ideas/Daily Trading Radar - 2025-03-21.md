@@ -18,11 +18,11 @@ data_date: 2025-03-20
 > - **Breakouts:** 157 | **Breakdowns:** 161
 > - **Follow-through:** 3d=40.5% 5d=60.0% (OK)
 >
-> - Follow-through rate 33% — breakouts failing badly, reduce size
-> - Net Primary still deeply negative at -799 though improving
-> - T2108 at 28% — weak washout bounce zone, not confirmed bull
-> - PAVE leading sector rolling over: RS_20d 0.95 < 1.0 while RS_65d 1.73 still high (top forming)
-> - Rally mature at 5 days — easy breakouts already happened
+> - Follow-through rate 33% — breakouts failing, do NOT buy standard breakouts
+> - Net Primary still deeply negative at -799, though improving — not confirmed bull yet
+> - Rally mature at 5 days — easy breakouts already happened, 'yesterday was the day' risk
+> - PAVE leading sector has RS_20d=0.95 (<1) while RS_65d=1.73 — potential top-forming pattern in former leader
+> - SPY and QQQ closing near lows intraday — mild distribution pattern
 
 ---
 

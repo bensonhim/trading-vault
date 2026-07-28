@@ -18,11 +18,11 @@ data_date: 2025-03-21
 > - **Breakouts:** 222 | **Breakdowns:** 223
 > - **Follow-through:** 3d=40.8% 5d=55.2% (OK)
 >
-> - Net Primary deeply negative (-832) but slightly improving from -953 — watch for stabilization
-> - T2108 falling toward 20% — if it breaks below 20% with Net Primary still negative, regime shifts to BEARISH
-> - Follow-through rate 40% — breakouts failing, do not chase
-> - Leading sector PAVE top-forming: 20d RS < 1.0 while 65d RS still high
-> - Rally mature at 6 days — easy breakouts already happened
+> - T2108 falling toward 20% — approaching BEARISH/SHORTS_ONLY territory if it breaks below
+> - Leading sector PAVE rolling over: 20d RS < 1.0 while 65d RS still elevated = top forming
+> - Aggressive sectors (semis, blockchain, genomics) all down 10%+ in 20 days — broad derisking
+> - Follow-through rate at 40% — breakouts failing, do not buy new breakouts
+> - Net Primary deeply negative for 5 consecutive days — not a one-day spike
 
 ---
 

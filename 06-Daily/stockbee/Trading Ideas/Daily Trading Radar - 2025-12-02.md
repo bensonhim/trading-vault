@@ -18,11 +18,11 @@ data_date: 2025-12-01
 > - **Breakouts:** 137 | **Breakdowns:** 584
 > - **Follow-through:** 3d=32.3% 5d=18.0% (FAILING)
 >
-> - Breakdown spike to 584 today (4x breakouts) — potential distribution after mature rally
-> - Rally mature at 6 days — easy breakouts already happened, 'yesterday was the day' risk
-> - Leading sector XBI has negative 20d RS (-24.14) while 65d RS still positive — top forming pattern
-> - Former leader SIL rolling over — institutional distribution in former leader
-> - Zero breakout follow-through recorded (no actionable) — breakouts not working
+> - Leading sector XBI has negative 20d RS with positive 65d RS — top forming pattern
+> - Former leader SIL rolling over — institutional distribution in leading sector
+> - One-day breakdown surge (584) on 12/01 — watch if sustained over next 2-3 days
+> - Rally mature at 6 days — easy breakouts already happened
+> - Top RS sectors are speculative/niche ETFs with negative 20d returns — rotation trap risk
 
 ---
 

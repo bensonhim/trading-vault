@@ -18,11 +18,11 @@ data_date: 2025-09-29
 > - **Breakouts:** 292 | **Breakdowns:** 162
 > - **Follow-through:** 3d=26.0% 5d=20.3% (FAILING)
 >
-> - T2108 falling >5 points in 5 days (54.3% to 47.9%) — correction in progress, do NOT give FULL_BULL
-> - Net Primary deteriorating from +883 to +699 — aging bull, funds pulling back
-> - Silver/gold miners (SIL, GDX) leading = rotation trap risk; old economy leadership while tech/semis lag
-> - SPY/QQQ intraday data appears stale (July 2026 vs Sept 2025 market monitor) — reduce confidence
-> - 20% study at 30 up / 20 down (ratio 1.5) — moderate, buying binge not yet confirmed at scale
+> - Net Primary deteriorating from +883 to +699 — bull is aging
+> - T2108 falling >5 points in 5 days (54.3%→47.9%) — correction in progress
+> - Leading sector is SIL (silver miners) — potential rotation trap, not tech/AI leadership
+> - SPY/QQQ intraday data appears stale (date mismatch with market monitor)
+> - 20% study at 30 with ratio 1.5 — moderate, buying binge not yet confirmed
 
 ---
 
