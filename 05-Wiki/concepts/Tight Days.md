@@ -1,16 +1,16 @@
 ---
 title: "Tight Days"
-date: 2026-07-24
+date: 2026-07-28
 tags: [concepts, wiki, auto-compiled]
-mention_count: 594
-sources_count: 359
+mention_count: 595
+sources_count: 360
 compilation_count: 1
 promote: false
 ---
 
 # Tight Days
 
-*Concepts — compiled from 594 mentions across 359 sources.*
+*Concepts — compiled from 595 mentions across 360 sources.*
 
 ## Mentions
 

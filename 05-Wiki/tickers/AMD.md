@@ -1,16 +1,16 @@
 ---
 title: "AMD"
-date: 2026-07-24
+date: 2026-07-28
 tags: [tickers, wiki, auto-compiled]
-mention_count: 1025
-sources_count: 413
+mention_count: 1026
+sources_count: 414
 compilation_count: 1
 promote: false
 ---
 
 # AMD
 
-*Tickers — compiled from 1025 mentions across 413 sources.*
+*Tickers — compiled from 1026 mentions across 414 sources.*
 
 ## Mentions
 

@@ -1,6 +1,6 @@
 ---
 title: "Trade Management"
-date: 2026-07-24
+date: 2026-07-28
 tags: [concepts, wiki, auto-compiled]
 mention_count: 326
 sources_count: 226

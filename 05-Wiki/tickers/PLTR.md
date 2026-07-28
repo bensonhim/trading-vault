@@ -1,16 +1,16 @@
 ---
 title: "PLTR"
-date: 2026-07-24
+date: 2026-07-28
 tags: [tickers, wiki, auto-compiled]
-mention_count: 94
-sources_count: 56
+mention_count: 95
+sources_count: 57
 compilation_count: 1
 promote: false
 ---
 
 # PLTR
 
-*Tickers — compiled from 94 mentions across 56 sources.*
+*Tickers — compiled from 95 mentions across 57 sources.*
 
 ## Mentions
 
@@ -90,9 +90,9 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-07-23.md|Session-2026-07-23]]: 7. **Shorts working better than longs** — Both Google and PLTR shorts had follow-through. Microsoft would have been better. Longs are squatting.
 
-> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-02.md|Session-2023-11-02]]: | [[PLTR]] | Sugar Baby / Earnings | ⚠️ Stop at $17 | "Also a sugar baby" |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-27.md|Session-2026-07-27]]: | [[PLTR]] | Short (existing) | Still holding, stop to breakeven |
 
-> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-02.md|Session-2023-11-02]]: | [[PLTR]] | Sugar Baby + Earnings | ⚠️ Stop at $17, "also a sugar baby" |
+> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-02.md|Session-2023-11-02]]: | [[PLTR]] | Sugar Baby / Earnings | ⚠️ Stop at $17 | "Also a sugar baby" |
 
 ## Related Concepts
 

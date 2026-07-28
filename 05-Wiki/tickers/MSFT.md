@@ -1,16 +1,16 @@
 ---
 title: "MSFT"
-date: 2026-07-24
+date: 2026-07-28
 tags: [tickers, wiki, auto-compiled]
-mention_count: 60
-sources_count: 40
+mention_count: 61
+sources_count: 41
 compilation_count: 1
 promote: false
 ---
 
 # MSFT
 
-*Tickers — compiled from 60 mentions across 40 sources.*
+*Tickers — compiled from 61 mentions across 41 sources.*
 
 ## Mentions
 
@@ -82,6 +82,8 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-07-23.md|Session-2026-07-23]]: | [[MSFT]] | Short (considered) | "Would have worked better than Google" |
 
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-27.md|Session-2026-07-27]]: | [[MSFT]] | Short candidate | Considered shorting — range-bound |
+
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-21.md|Session-2023-11-21]]: [[TSLA]] — liquid lava, continuation setup. [[MSFT]] — also showing continuation.
 
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-21.md|Session-2023-11-21]]: | [[MSFT]] | Continuation | 🔄 Watching | Setting up |
@@ -91,8 +93,6 @@ promote: false
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-12-05.md|Session-2023-12-05]]: | [[MSFT]] | — | ❌ Avoid | Faded, stopped out — move on |
 
 > [[../../06-Daily/stockbee/Sessions/2024/Session-2024-01-17.md|Session-2024-01-17]]: - Apple deteriorating, Microsoft selling (10,000 funds hold MSFT)
-
-> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-02-28.md|Session-2024-02-28]]: - Large caps (GOOGL, AAPL, AMZN, MSFT) going nowhere
 
 ## Related Concepts
 
