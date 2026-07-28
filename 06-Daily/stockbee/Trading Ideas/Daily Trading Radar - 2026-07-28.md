@@ -18,11 +18,11 @@ data_date: 2026-07-27
 > - **Breakouts:** 380 | **Breakdowns:** 195
 > - **Follow-through:** 3d=30.6% 5d=29.4% (FAILING)
 >
-> - Net Primary still negative despite improvement — unconfirmed bounce
-> - Breakdowns dominated 3 of last 5 days (349, 325, 242) before today's breakout surge
-> - 20% bull:bear ratio at 0.57 — below 1.0, distribution still visible in lagging indicator
-> - Breakout follow-through data is N/A — cannot confirm if today's 380 breakouts will stick
-> - SPY and QQQ both closed near low on latest day — possible intraday distribution despite strong breakout count
+> - Net Primary still negative at -13 despite latest bounce — recovery unconfirmed
+> - 20% study bear:bear ratio 0.57 — more stocks down 20% than up, buying binge hasn't arrived
+> - Breakdown trend was worsening for 3 consecutive days (Jul 22-24) before Jul 27 reversal
+> - Breakout follow-through data is N/A — cannot confirm if Jul 27 breakouts will hold
+> - SPY and QQQ both closed near low of intraday range — potential intraday distribution
 
 ---
 
@@ -65,8 +65,8 @@ Below 1.0 | Bearish medium-term |
 | Stocks up 20%+ (5d) | 13 | ⚠️ VERY LOW — funds not buying |
 | Stocks down 20%+ (5d) | 23 | Normal |
 
-> [!warning] Scan Suppression Active: SOS, DEP, ANTS
-> 20% study at 13 — breakouts unlikely to follow through in this environment.
+> [!warning] Long Setup Risk: HIGH RISK (20% study < 15, funds not buying) — trade only if setup quality is exceptional
+> Stocks breaking out during weak markets can become the next market leaders (Pradeep: 'methods trump markets').
 
 **Breakout Follow-Through (last 10 days):** 3d=30.6% 5d=29.4% [FAILING]
 
@@ -75,6 +75,24 @@ Below 1.0 | Bearish medium-term |
 ---
 
 ## 3. Sector Relative Strength
+
+---
+
+## 4. Sector Precursor Detection
+
+**Sector Precursor Detection (3+ breakouts = HIDING SPOT (short target)):**
+
+> [!warning] Range-bound market (20% study < 50): sectors with 3+ breakouts are where people are HIDING, not group moves. These sectors are likely to break down next. Pradeep: 'Selling is going to spread to the stocks which are holding up.'
+
+- **Consumer Cyclical** (4 tickers, avg +6.6%) -> XLY [HIDING SPOT]
+  Tickers: BLMN, M, BNED, LEVI
+
+**Near-Precursor Sectors (2 breakouts -- watch for confirmation):**
+
+- Healthcare (2 tickers) -> XLV: PLSE, FHTX
+- Financial Services (2 tickers) -> XLF: RACC, CHYM
+- Industrials (2 tickers) -> XLI: UHAL, KFRC
+- Technology (2 tickers) -> XLK: PAY, CLMB
 
 ---
 
@@ -205,34 +223,75 @@ Below 1.0 | Bearish medium-term |
 > These stocks broke out yesterday (+4%) but are failing today. Short on bounce or breakdown.
 > Pradeep: 'Fading breakouts is a better strategy than buying breakouts here.'
 
-| Ticker | Yesterday BO Close | Today Close | Fail % | Volume     |
-| ------ | ------------------ | ----------- | ------ | ---------- |
-| STAK   | $9.27              | $2.52       | -72.8% | 13,513,277 |
-| OMH    | $0.50              | $0.15       | -71.1% | 83,734,461 |
-| VIVK   | $2.91              | $2.10       | -27.8% | 4,498,157  |
-| ADVB   | $18.98             | $14.36      | -24.3% | 456,906    |
-| OTLK   | $1.41              | $1.07       | -24.1% | 40,412,061 |
-| RPGL   | $1.93              | $1.69       | -12.4% | 77,047     |
-| GCL    | $0.51              | $0.46       | -10.3% | 207,047    |
-| WLDS   | $3.53              | $3.18       | -9.9%  | 10,233,725 |
-| LSH    | $0.35              | $0.32       | -9.4%  | 131,529    |
-| GDTC   | $0.99              | $0.90       | -9.1%  | 189,246    |
-| ZSQR   | $5.26              | $4.81       | -8.6%  | 327,966    |
-| VIVO   | $4.27              | $3.92       | -8.2%  | 557,761    |
-| JEM    | $6.35              | $5.85       | -7.9%  | 513,357    |
-| OFAL   | $0.11              | $0.10       | -7.8%  | 1,200,490  |
-| CALC   | $0.76              | $0.70       | -7.5%  | 201,258    |
+| Ticker | Yesterday BO Close | Today Close | Fail % | Volume |
+|--------|-------------------|-------------|--------|--------|
+| STAK | $9.27 | $2.52 | -72.8% | 13,513,277 |
+| OMH | $0.50 | $0.15 | -71.1% | 83,734,461 |
+| VIVK | $2.91 | $2.10 | -27.8% | 4,498,157 |
+| ADVB | $18.98 | $14.36 | -24.3% | 456,906 |
+| OTLK | $1.41 | $1.07 | -24.1% | 40,412,061 |
+| RPGL | $1.93 | $1.69 | -12.4% | 77,047 |
+| GCL | $0.51 | $0.46 | -10.3% | 207,047 |
+| WLDS | $3.53 | $3.18 | -9.9% | 10,233,725 |
+| LSH | $0.35 | $0.32 | -9.4% | 131,529 |
+| GDTC | $0.99 | $0.90 | -9.1% | 189,246 |
+| ZSQR | $5.26 | $4.81 | -8.6% | 327,966 |
+| VIVO | $4.27 | $3.92 | -8.2% | 557,761 |
+| JEM | $6.35 | $5.85 | -7.9% | 513,357 |
+| OFAL | $0.11 | $0.10 | -7.8% | 1,200,490 |
+| CALC | $0.76 | $0.70 | -7.5% | 201,258 |
 
+### SOS / FADE Candidates (14 found — top 20)
+
+> [!warning] FADE MODE — breakouts unlikely to follow through.
+> These are FADE candidates (short on gap-up failure), NOT buy candidates.
+
+| # | Ticker | Change% | Volume | Two Lynch | Leg | Priority |
+|---|--------|---------|--------|-----------|-----|----------|
+| 1 | BLMN | +7.6% | 2,097,937 | 6/6 | 1 | highest |
+| 2 | M | +6.8% | 5,366,939 | 5/6 | 1 | highest |
+| 3 | SIRI | +4.8% | 4,931,673 | 5/6 | 1 | highest |
+| 4 | PLSE | +8.5% | 432,453 | 5/6 | 1 | highest |
+| 5 | RACC | +20.5% | 281,534 | 5/6 | 1 | highest |
+| 6 | UHAL | +2.1% | 177,300 | 5/6 | 1 | highest |
+| 7 | PAY | +9.0% | 1,102,418 | 6/6 | 2 | high |
+| 8 | BNED | +8.1% | 368,228 | 6/6 | 2 | high |
+| 9 | CHYM | +5.7% | 5,581,901 | 5/6 | 2 | high |
+| 10 | DINO | +2.8% | 4,678,755 | 5/6 | 2 | high |
+| 11 | LEVI | +4.0% | 1,811,595 | 5/6 | 2 | high |
+| 12 | KFRC | +5.5% | 483,133 | 5/6 | 2 | high |
+| 13 | CLMB | +6.7% | 197,527 | 5/6 | 2 | high |
+| 14 | FHTX | +7.2% | 159,317 | 5/6 | 2 | high |
 
 ### DEP Candidates (0 found)
 
 | # | Ticker | Days Since | Pullback | Width | Entry | Stop | Priority |
 |---|--------|-----------|----------|-------|-------|------|----------|
 
-### ANTS Candidates (0 found — top 20 with tight tier)
+### ANTS Candidates (35 found — top 20 with tight tier)
 
 | # | Ticker | Price | Tight Tier | Tight Days | Priority |
 |---|--------|-------|-----------|------------|----------|
+| 1 | AAPL | $336.91 | tight | 2 | highest |
+| 2 | BAC | $62.13 | tight | 2 | highest |
+| 3 | RIVN | $16.48 | super-tight | 2 | highest |
+| 4 | KVUE | $19.48 | tight | 2 | highest |
+| 5 | CSX | $51.80 | tight | 2 | highest |
+| 6 | COMP | $11.80 | tight | 2 | highest |
+| 7 | PYPL | $56.07 | tight | 4 | highest |
+| 8 | IOVA | $4.90 | tight | 2 | highest |
+| 9 | ABT | $104.49 | super-tight | 2 | highest |
+| 10 | AMBP | $4.84 | tight | 2 | highest |
+| 11 | GIS | $36.61 | tight | 2 | highest |
+| 12 | WFC | $87.27 | tight | 2 | highest |
+| 13 | BMY | $62.56 | tight | 3 | highest |
+| 14 | ATAI | $7.17 | ultra-tight | 5 | highest |
+| 15 | UAA | $7.08 | super-tight | 2 | highest |
+| 16 | RF | $30.74 | super-tight | 3 | highest |
+| 17 | LCID | $6.50 | super-tight | 2 | highest |
+| 18 | BKD | $15.47 | tight | 2 | highest |
+| 19 | JPM | $356.20 | tight | 3 | highest |
+| 20 | CVS | $107.07 | tight | 2 | highest |
 
 ---
 
@@ -247,6 +306,16 @@ Below 1.0 | Bearish medium-term |
 
 | Ticker | Trigger (BSLO) | Tight Tier | Tight Days | Notes |
 |--------|----------------|-----------|------------|-------|
+| ATAI | $7.24 (+1%) | ultra-tight | 5 | |
+| CRNX | $84.69 (+1%) | ultra-tight | 5 | |
+| V | $366.16 (+1%) | super-tight | 4 | |
+| RF | $31.05 (+1%) | super-tight | 3 | |
+| MRK | $132.07 (+1%) | super-tight | 3 | |
+| RIVN | $16.64 (+1%) | super-tight | 2 | |
+| ABT | $105.53 (+1%) | super-tight | 2 | |
+| UAA | $7.15 (+1%) | super-tight | 2 | |
+| LCID | $6.57 (+1%) | super-tight | 2 | |
+| BAX | $23.57 (+1%) | super-tight | 2 | |
 
 ---
 
@@ -277,13 +346,137 @@ Below 1.0 | Bearish medium-term |
 
 ---
 
-## 10. Short-Side Setups (21 candidates)
+## 9. Ticker Details
 
-### EP 9M Short (1) — negative surprise gap-downs
+
+**BLMN**
+- Industry: Restaurants
+- Sector: Consumer Cyclical
+- Sector ETF: XLY (consumer_discretionary)
+- Market Cap: $0.7B
+- Fund Ownership: speculative - Speculative Glamour (small size)
+- Group Move: Yes (78 stocks in sector broke out today)
+- Breakout History (5 past swings):
+  - 2026-07-27: +7.6% total | Entry: $8.26 | Stop: $7.92 | Last Close: $8.54 | Vol: 2,097,937 | PENDING
+  - 2026-06-18: +4.9% total | Entry: $7.99 | Stop: $7.73 | Last Close: $8.06 | Vol: 2,388,300 | PROFIT_80_20
+  - 2026-06-09: +14.0% total (2d swing) | Entry: $7.35 | Stop: $7.09 | Last Close: $8.06 | Vol: 1,985,639 | BREAKEVEN
+  - 2026-05-27: +4.9% total | Entry: $8.24 | Stop: $7.91 | Last Close: $8.31 | Vol: 2,289,943 | BREAKEVEN
+  - 2026-05-06: +41.0% total | Entry: $5.99 | Stop: $6.92 | Last Close: $8.12 | Vol: 11,203,100 | PROFIT_80_20
+- EMA:
+  - EMA5: $8.32
+  - EMA8: $8.33
+  - EMA10: $8.33
+  - EMA20: $8.34
+  - **Pullback rejection at EMA5 ($8.32)**
+    Low $8.00 dipped to EMA, closed $8.54 above (+2.7%)
+  - Price above all EMAs (uptrend confirmed)
+- TI65: 1.06 (bullish) | C65=58 D65=29
+  C/C7=0.997 (sort ascending for pullbacks)
+
+
+**M**
+- Industry: Department Stores
+- Sector: Consumer Cyclical
+- Sector ETF: XLY (consumer_discretionary)
+- Market Cap: $6.6B
+- Fund Ownership: 1000+ - Gaining Interest (medium size)
+- Group Move: Yes (78 stocks in sector broke out today)
+- Breakout History (5 past swings):
+  - 2026-07-27: +6.8% total | Entry: $24.32 | Stop: $23.48 | Last Close: $24.96 | Vol: 5,366,939 | PENDING
+  - 2026-06-24: +5.8% total | Entry: $24.91 | Stop: $23.82 | Last Close: $25.34 | Vol: 6,850,840 | BREAKEVEN
+  - 2026-06-10: +12.9% total (2d swing) | Entry: $23.07 | Stop: $21.67 | Last Close: $25.04 | Vol: 7,956,200 | SUCCESS
+  - 2026-06-04: +5.6% total | Entry: $22.67 | Stop: $21.71 | Last Close: $23.03 | Vol: 13,000,211 | STOPPED
+  - 2026-05-28: +6.7% total | Entry: $21.89 | Stop: $21.46 | Last Close: $22.45 | Vol: 8,442,845 | STOPPED
+- EMA:
+  - EMA5: $24.02
+  - EMA8: $23.86
+  - EMA10: $23.81
+  - EMA20: $23.91
+  - **Pullback rejection at EMA5 ($24.02)**
+    Low $23.72 dipped to EMA, closed $24.96 above (+3.9%)
+  - Price above all EMAs (uptrend confirmed)
+- TI65: 1.08 (bullish) | C65=42 D65=29
+  C/C7=1.035 (sort ascending for pullbacks)
+
+
+**SIRI**
+- Industry: Broadcasting
+- Sector: Communication Services
+- Sector ETF: XLC (communications)
+- Market Cap: $10.7B
+- Fund Ownership: 1000+ - Gaining Interest (medium size)
+- Group Move: Yes (31 stocks in sector broke out today)
+- Breakout History (5 past swings):
+  - 2026-07-27: +4.8% total | Entry: $30.99 | Stop: $30.08 | Last Close: $31.22 | Vol: 4,931,673 | PENDING
+  - 2026-05-21: +7.2% total | Entry: $28.13 | Stop: $27.05 | Last Close: $28.99 | Vol: 8,236,600 | BREAKEVEN
+  - 2026-04-22: +7.2% total | Entry: $27.23 | Stop: $26.14 | Last Close: $28.06 | Vol: 12,446,341 | BREAKEVEN
+  - 2026-04-20: +6.8% total | Entry: $26.50 | Stop: $25.12 | Last Close: $27.22 | Vol: 13,758,431 | SUCCESS
+  - 2026-02-05: +9.0% total | Entry: $21.56 | Stop: $21.93 | Last Close: $22.60 | Vol: 25,624,218 | BREAKEVEN
+- EMA:
+  - EMA5: $30.43
+  - EMA8: $30.38
+  - EMA10: $30.35
+  - EMA20: $29.92
+  - **Pullback rejection at EMA5 ($30.43)**
+    Low $30.38 dipped to EMA, closed $31.22 above (+2.6%)
+  - Price above all EMAs (uptrend confirmed)
+- TI65: 1.07 (bullish) | C65=89 D65=0
+  C/C7=1.000 (sort ascending for pullbacks)
+
+
+**PLSE**
+- Industry: Medical - Instruments & Supplies
+- Sector: Healthcare
+- Sector ETF: XLV (healthcare_broad)
+- Market Cap: $2.4B
+- Fund Ownership: speculative - Speculative Glamour (small size)
+- Group Move: Yes (109 stocks in sector broke out today)
+- Breakout History (5 past swings):
+  - 2026-07-27: +8.5% total | Entry: $31.44 | Stop: $29.79 | Last Close: $32.79 | Vol: 432,453 | PENDING
+  - 2026-07-16: +24.5% total (4d swing) | Entry: $27.37 | Stop: $25.11 | Last Close: $32.76 | Vol: 184,105 | BREAKEVEN
+  - 2026-06-25: +7.5% total | Entry: $26.62 | Stop: $25.33 | Last Close: $27.51 | Vol: 274,000 | BREAKEVEN
+  - 2026-06-15: +6.4% total | Entry: $25.34 | Stop: $24.12 | Last Close: $25.93 | Vol: 362,958 | SUCCESS
+  - 2026-06-11: +7.6% total | Entry: $25.99 | Stop: $24.56 | Last Close: $26.89 | Vol: 450,963 | STOPPED
+- EMA:
+  - EMA5: $31.16
+  - EMA8: $30.45
+  - EMA10: $30.08
+  - EMA20: $28.88
+  - **Pullback rejection at EMA5 ($31.16)**
+    Low $30.09 dipped to EMA, closed $32.79 above (+5.2%)
+  - Price above all EMAs (uptrend confirmed)
+- TI65: 1.20 (bullish) | C65=87 D65=3
+  C/C7=1.198 (sort ascending for pullbacks)
+
+
+**RACC**
+- Industry: Shell Companies
+- Sector: Financial Services
+- Sector ETF: XLF (financials_broad)
+- Market Cap: $0.1B
+- Fund Ownership: speculative - Speculative Glamour (small size)
+- Group Move: Yes (45 stocks in sector broke out today)
+- Breakout History (1 past swings):
+  - 2026-07-27: +20.5% total | Entry: $11.46 | Stop: $11.88 | Last Close: $13.28 | Vol: 281,534 | PENDING
+- EMA:
+  - EMA5: $11.79
+  - EMA8: $11.56
+  - EMA10: $11.47
+  - EMA20: $11.17
+  - Price above all EMAs (uptrend confirmed)
+- TI65: 1.06 (bullish **YOUNG MOMENTUM**) | C65=4 D65=0
+  C/C7=1.145 (sort ascending for pullbacks)
+
+---
+
+## 10. Short-Side Setups (22 candidates)
+
+### EP 9M Short (2) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| TE | 2.8% | -19.97% | $3.92 | $5.14 | unknown_negative (intraday_down) |
+| TE | -13.0% | -15.58% | $4.13 | $4.35 | unknown_negative (gap_down) |
+| REPL | -32.0% | -27.0% | $6.30 | $6.62 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
@@ -329,6 +522,7 @@ Below 1.0 | Bearish medium-term |
 
 ## 11. Action Summary
 
+- [ ] Sector group moves: Consumer Cyclical(4)
 
 ---
 
