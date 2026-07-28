@@ -18,11 +18,11 @@ data_date: 2026-07-27
 > - **Breakouts:** 380 | **Breakdowns:** 195
 > - **Follow-through:** 3d=30.6% 5d=29.4% (FAILING)
 >
-> - Net Primary still negative despite latest bounce — needs confirmation with positive reading
-> - 20% study bearish (0.57 ratio) — funds not yet aggressively buying
-> - Breakdowns were elevated mid-week (325-349) — distribution pressure was real
-> - SPY closing near lows on latest day — no intraday conviction
-> - Follow-through data unavailable (N/A) — cannot confirm breakout quality
+> - Net Primary still negative despite improvement — unconfirmed bounce
+> - Breakdowns dominated 3 of last 5 days (349, 325, 242) before today's breakout surge
+> - 20% bull:bear ratio at 0.57 — below 1.0, distribution still visible in lagging indicator
+> - Breakout follow-through data is N/A — cannot confirm if today's 380 breakouts will stick
+> - SPY and QQQ both closed near low on latest day — possible intraday distribution despite strong breakout count
 
 ---
 
@@ -283,7 +283,7 @@ Below 1.0 | Bearish medium-term |
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -70.4% | -64.49% | $7.00 | $7.82 | unknown_negative (gap_down) |
+| TE | 2.8% | -19.97% | $3.92 | $5.14 | unknown_negative (intraday_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
