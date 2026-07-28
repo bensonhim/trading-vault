@@ -9,7 +9,7 @@ data_date: 2025-09-23
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **CAUTIOUS_BULL_LOW** — Action: **REDUCE_SIZE**
+> [!tip] **FULL_BULL** — Action: **FULL_LONG**
 >
 > - **20% Study (bullish):** 59
 > - **20% Study (bearish):** 15
@@ -18,11 +18,8 @@ data_date: 2025-09-23
 > - **Breakouts:** 200 | **Breakdowns:** 163
 > - **Follow-through:** 3d=38.3% 5d=41.0% (OK)
 >
-> - T2108 falling >5 points in 5 days (59.8% to 54.3%) — correction in progress, do NOT give FULL_BULL
-> - Follow-through rate 33% — well below 50% threshold, breakouts failing
-> - Leading sector is SIL (silver miners) — not a growth/AI/semi leader; potential rotation trap if old economy is outperforming while tech lagging
-> - SPY closing near lows on latest session — intraday distribution pattern
-> - Net Primary declining from peak +1029 (9/18) to +883 — momentum fading from highs
+> - Net Primary +883 and improving (was +821 5d ago)
+> - LLM: Rules-based fallback (LLM unavailable): 
 
 ---
 

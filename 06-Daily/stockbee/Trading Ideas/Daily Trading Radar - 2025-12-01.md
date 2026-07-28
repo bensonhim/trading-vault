@@ -18,11 +18,11 @@ data_date: 2025-11-28
 > - **Breakouts:** 144 | **Breakdowns:** 26
 > - **Follow-through:** 3d=32.0% 5d=23.3% (FAILING)
 >
-> - Rally is 5 days mature — easy breakouts already happened, 'yesterday was the day' risk
-> - Defensive sectors (SIL, GDX, XLV) leading instead of semis/AI/tech — rotation trap pattern
-> - Net Primary still near zero (+5) — bull not yet confirmed at CAUTIOUS_BULL_HIGH levels
-> - 20% study shows 0/0 — likely stale data, do not rely on it
-> - 65% follow-through rate is in caution zone (50-70%) — breakouts working but mixed
+> - Rally is 5 days mature — easy breakouts already happened, new entries are higher risk
+> - Defensive sectors (SIL, GDX, XLV) leading while no semis/AI/tech in top 5 — rotation trap, risk-off pattern
+> - 20% study at 0 confirms no buying binge yet — lagging indicator but no confirmation of aggressive fund buying
+> - Net Primary only +5 — barely positive, not the +200+ that signals a strong bullish regime
+> - Follow-through at 65% is acceptable but not strong — breakouts working but not thriving
 
 ---
 

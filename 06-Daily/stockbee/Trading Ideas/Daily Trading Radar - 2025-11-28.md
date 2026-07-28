@@ -9,7 +9,7 @@ data_date: 2025-11-26
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **CAUTIOUS_BULL_LOW** — Action: **REDUCE_SIZE**
+> [!caution] **CAUTIOUS_BULL_HIGH** — Action: **REDUCE_SIZE**
 >
 > - **20% Study (bullish):** 110
 > - **20% Study (bearish):** 8
@@ -18,11 +18,11 @@ data_date: 2025-11-26
 > - **Breakouts:** 348 | **Breakdowns:** 62
 > - **Follow-through:** 3d=37.0% 5d=40.0% (OK)
 >
-> - Rally is 4 days mature — easy breakouts already happened, 'yesterday was the day' dynamic
-> - 20% study at 110 = overbought caution, buying binge may be peaking
-> - Defensive sector XLU leading = risk-off rotation, not growth-driven rally
-> - Former leader XBI rolling over (65d leader, negative 20d RS) = institutional distribution in former leader
-> - Net Primary still negative at -122 despite improvement — not yet in confirmed bull regime
+> - Rally is 4 days old — mature and extended, easy breakouts already happened
+> - 20% study at 110 — overbought caution territory, reduce size and tighten stops
+> - Defensive sector XLU leading while former leader XBI rolling over — rotation trap risk
+> - Net Primary still negative at -122 despite rapid improvement — not yet confirmed bullish
+> - Follow-through at 65% — breakouts working but not dominant enough for full size
 
 ---
 
@@ -340,8 +340,8 @@ RS_20d: 0.10 | RS_65d: 1.04
 | Ticker | SB Tier | 504d | 21d | 10d | 5d | Recency | Sector ETF | RS Rank | Status |
 |--------|---------|------|-----|-----|-----|---------|-----------|---------|--------|
 | HL | expanded | 38 | 5 | 3 | 2 | 50 | XLB (#3) | SETTING UP (ACTIVE (5d)) |
+| EQX | expanded | 27 | 5 | 3 | 2 | 50 | XLB (#3) | SETTING UP (ACTIVE (5d)) |
 | HAL | expanded | 14 | 4 | 3 | 2 | 47 | XLE (#1) | SETTING UP (ACTIVE (5d)) * |
-| EQX | expanded | 27 | 4 | 3 | 2 | 47 | XLB (#3) | SETTING UP (ACTIVE (5d)) |
 | B | expanded | 14 | 4 | 3 | 2 | 47 | XLB (#3) | SETTING UP (ACTIVE (5d)) |
 | KGC | expanded | 19 | 3 | 2 | 2 | 39 | XLB (#3) | SETTING UP (ACTIVE (5d)) |
 | SVM | expanded | 9 | 2 | 2 | 2 | 36 | XLB (#3) | SETTING UP (ACTIVE (5d)) |

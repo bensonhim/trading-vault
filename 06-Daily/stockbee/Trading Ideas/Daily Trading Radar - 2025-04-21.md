@@ -18,11 +18,11 @@ data_date: 2025-04-17
 > - **Breakouts:** 269 | **Breakdowns:** 82
 > - **Follow-through:** 3d=48.0% 5d=48.0% (OK)
 >
-> - Follow-through rate 45% — below 50% threshold, breakouts failing to sustain
-> - Net Primary still deeply negative at -1467 despite improving trend
-> - Rally mature at 7 days since capitulation low — easy breakouts already happened
-> - PAVE leading sector rolling over: 20d RS 0.93 negative vs 65d RS 1.32 — top forming pattern
-> - T2108 at 18.4% still in bearish zone, not yet confirming healthy bull
+> - Follow-through rate 45% — breakouts failing to sustain, reduce size
+> - Rally mature at 7 days — easy breakouts already happened
+> - Net Primary deeply negative (-1467) despite improving trend
+> - T2108 at 18.4% — still in bearish zone, not yet confirmed healthy
+> - 20% study bull:bear ratio 1.53 — some buying aggression but absolute count very low (23)
 
 ---
 
@@ -265,25 +265,25 @@ RS_20d: 0.93 | RS_65d: 1.32
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
-| 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 2 | RGTI | 10 | 5 | 62 | expanded |
+| 3 | IREN | 10 | 4 | 70 | expanded |
 | 4 | SATL | 9 | 5 | 21 | expanded |
-| 5 | FCEL | 9 | 4 | 23 | expanded |
-| 6 | IONQ | 9 | 4 | 53 | core |
-| 7 | KEEL | 9 | 4 | 19 | expanded |
-| 8 | RIOT | 9 | 4 | 58 | expanded |
-| 9 | USAR | 9 | 4 | 51 | expanded |
-| 10 | CLSK | 9 | 3 | 53 | expanded |
-| 11 | NVTS | 9 | 3 | 51 | core |
-| 12 | AMD | 8 | 4 | 45 | expanded |
-| 13 | APLD | 8 | 4 | 57 | core |
-| 14 | MU | 8 | 4 | 49 | expanded |
-| 15 | NBIS | 8 | 4 | 62 | core |
-| 16 | POET | 8 | 4 | 28 | expanded |
-| 17 | SMCI | 8 | 4 | 44 | expanded |
-| 18 | SPCE | 8 | 4 | 14 | expanded |
-| 19 | FIG | 8 | 3 | 28 | expanded |
-| 20 | INTC | 8 | 3 | 45 | expanded |
+| 5 | SBET | 9 | 5 | 38 | expanded |
+| 6 | FCEL | 9 | 4 | 23 | expanded |
+| 7 | IONQ | 9 | 4 | 53 | core |
+| 8 | KEEL | 9 | 4 | 19 | expanded |
+| 9 | LAES | 9 | 4 | 37 | expanded |
+| 10 | RIOT | 9 | 4 | 58 | expanded |
+| 11 | USAR | 9 | 4 | 51 | expanded |
+| 12 | CLSK | 9 | 3 | 53 | expanded |
+| 13 | NVTS | 9 | 3 | 51 | expanded |
+| 14 | OKLO | 9 | 3 | 64 | core |
+| 15 | AMD | 8 | 4 | 45 | expanded |
+| 16 | APLD | 8 | 4 | 57 | core |
+| 17 | EOSE | 8 | 4 | 53 | expanded |
+| 18 | HIVE | 8 | 4 | 23 | expanded |
+| 19 | MU | 8 | 4 | 49 | expanded |
+| 20 | NBIS | 8 | 4 | 62 | core |
 
 ---
 
@@ -293,7 +293,7 @@ RS_20d: 0.93 | RS_65d: 1.32
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -39.6% | -67.34% | $6.43 | $7.31 | unknown_negative (gap_down) |
+| CAPR | -39.6% | -64.49% | $7.00 | $7.82 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 

@@ -18,11 +18,11 @@ data_date: 2025-09-24
 > - **Breakouts:** 254 | **Breakdowns:** 155
 > - **Follow-through:** 3d=39.0% 5d=39.0% (OK)
 >
-> - T2108 falling >5 points in 5 days — correction in progress, cap at CAUTIOUS_BULL_LOW
-> - Follow-through rate 36% — breakouts failing, do not chase new entries
-> - Net Primary deteriorating from +1029 to +873 — breadth weakening but still bullish
-> - Watch for leading sector SIL rolling over — if 20d RS turns negative while 65d stays high, top forming signal
-> - LLM: Net Primary remains strongly positive at +873, but the 5-day trend is deteriorating from +1029 and T2108 has fallen ~7.5 points (59.8% to 52.3%), indicating a correction in progress that caps the regime below FULL_BULL. Follow-through rate at 36% confirms breakouts are failing, requiring reduced size and tighter stops. Leading sector SIL shows positive 20d and 65d RS (no top-forming signal yet), and the 20% study at 41 is not elevated, so this is a pullback within a bull, not a regime shift.
+> - T2108 falling sharply (-7.5 points in 5 days) — correction in progress, do not give FULL_BULL
+> - Follow-through rate 36% — breakouts failing, reduce size
+> - Net Primary deteriorating from +1029 to +873 over 5 days
+> - Rotation trap: defensive sectors (silver/gold miners) leading, not aggressive tech/AI/semis
+> - Intraday distribution: SPY and QQQ closing near lows
 
 ---
 

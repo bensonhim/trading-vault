@@ -18,11 +18,11 @@ data_date: 2025-03-21
 > - **Breakouts:** 222 | **Breakdowns:** 223
 > - **Follow-through:** 3d=40.8% 5d=55.2% (OK)
 >
-> - Follow-through rate 40% — breakouts failing, do not buy breakouts
-> - T2108 falling from 29.2% to 24.1% — bounce attempt not lifting breadth
-> - PAVE leading sector has negative 20d RS (0.91) with high 65d RS (1.71) — top forming pattern
-> - 20% study at 0/0 — appears stale or extreme washout, no buying aggression evidence
-> - Rally is 6 days mature but T2108 still declining — weak bounce
+> - Net Primary deeply negative (-832) but slightly improving from -953 — watch for stabilization
+> - T2108 falling toward 20% — if it breaks below 20% with Net Primary still negative, regime shifts to BEARISH
+> - Follow-through rate 40% — breakouts failing, do not chase
+> - Leading sector PAVE top-forming: 20d RS < 1.0 while 65d RS still high
+> - Rally mature at 6 days — easy breakouts already happened
 
 ---
 
@@ -221,25 +221,25 @@ RS_20d: 0.91 | RS_65d: 1.71
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
-| 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 2 | RGTI | 10 | 5 | 62 | expanded |
+| 3 | IREN | 10 | 4 | 70 | expanded |
 | 4 | SATL | 9 | 5 | 21 | expanded |
-| 5 | FCEL | 9 | 4 | 23 | expanded |
-| 6 | IONQ | 9 | 4 | 53 | core |
-| 7 | KEEL | 9 | 4 | 19 | expanded |
-| 8 | RIOT | 9 | 4 | 58 | expanded |
-| 9 | USAR | 9 | 4 | 51 | expanded |
-| 10 | CLSK | 9 | 3 | 53 | expanded |
-| 11 | NVTS | 9 | 3 | 51 | core |
-| 12 | AMD | 8 | 4 | 45 | expanded |
-| 13 | APLD | 8 | 4 | 57 | core |
-| 14 | MU | 8 | 4 | 49 | expanded |
-| 15 | NBIS | 8 | 4 | 62 | core |
-| 16 | POET | 8 | 4 | 28 | expanded |
-| 17 | SMCI | 8 | 4 | 44 | expanded |
-| 18 | SPCE | 8 | 4 | 14 | expanded |
-| 19 | FIG | 8 | 3 | 28 | expanded |
-| 20 | INTC | 8 | 3 | 45 | expanded |
+| 5 | SBET | 9 | 5 | 38 | expanded |
+| 6 | FCEL | 9 | 4 | 23 | expanded |
+| 7 | IONQ | 9 | 4 | 53 | core |
+| 8 | KEEL | 9 | 4 | 19 | expanded |
+| 9 | LAES | 9 | 4 | 37 | expanded |
+| 10 | RIOT | 9 | 4 | 58 | expanded |
+| 11 | USAR | 9 | 4 | 51 | expanded |
+| 12 | CLSK | 9 | 3 | 53 | expanded |
+| 13 | NVTS | 9 | 3 | 51 | expanded |
+| 14 | OKLO | 9 | 3 | 64 | core |
+| 15 | AMD | 8 | 4 | 45 | expanded |
+| 16 | APLD | 8 | 4 | 57 | core |
+| 17 | EOSE | 8 | 4 | 53 | expanded |
+| 18 | HIVE | 8 | 4 | 23 | expanded |
+| 19 | MU | 8 | 4 | 49 | expanded |
+| 20 | NBIS | 8 | 4 | 62 | core |
 
 ### Sugar Babies in Hot Sectors (with active setups today)
 
@@ -257,7 +257,7 @@ RS_20d: 0.91 | RS_65d: 1.71
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -59.4% | -67.64% | $6.38 | $7.31 | unknown_negative (gap_down) |
+| CAPR | -59.4% | -64.49% | $7.00 | $7.82 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
@@ -276,8 +276,8 @@ RS_20d: 0.91 | RS_65d: 1.71
 | SPHL | expanded | ITB | -90.2% | SB in weakening sector ITB (RS_20d=0.59), down 90% from peak |
 | LSE | expanded | XLE | -47.0% | SB in weakening sector XLE (RS_20d=-0.29), down 47% from peak |
 | UPC | expanded | XLV | -36.1% | SB in weakening sector XLV (RS_20d=-0.02), down 36% from peak |
+| ZENA | expanded | PPA | -35.9% | SB in weakening sector PPA (RS_20d=-0.50), down 36% from peak |
 | ZJYL | expanded | XLV | -35.5% | SB in weakening sector XLV (RS_20d=-0.02), down 35% from peak |
-| BIAF | expanded | XLV | -32.7% | SB in weakening sector XLV (RS_20d=-0.02), down 33% from peak |
 
 ### Bearish Reversal (5) — 3:58 PM exhaustion
 

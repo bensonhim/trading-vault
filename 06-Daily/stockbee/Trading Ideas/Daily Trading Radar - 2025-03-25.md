@@ -18,11 +18,9 @@ data_date: 2025-03-24
 > - **Breakouts:** 251 | **Breakdowns:** 86
 > - **Follow-through:** 3d=31.0% 5d=27.7% (FAILING)
 >
-> - Net Primary still deeply negative (-636) despite improving trend — bull not confirmed
-> - Rally is 7 days mature — easy breakouts already happened
-> - PAVE (former leader) rolling over: RS_20d 0.48 vs RS_65d 1.63 — top forming pattern
-> - No breakout follow-through data available — cannot confirm breakouts are working
-> - T2108 at 31% is in washout bounce zone — bounce could stall if breadth doesn't continue improving
+> - TI65 bullish universe 99 < 800 (market losing momentum)
+> - Secondary indicators weakening (5d/10d ratio < 0.8 or breakdown spike) — downgrade to REDUCE_SIZE
+> - LLM: Rules-based fallback (LLM unavailable): TI65 bullish universe 99 < 800 (market losing momentum); Secondary indicators weakening (5d/10d ratio < 0.8 or breakdown spike) — downgrade to REDUCE_SIZE
 
 ---
 
@@ -236,35 +234,35 @@ RS_20d: 0.48 | RS_65d: 1.63
 | Rank | Ticker | 21d | 5d | 504d | Tier |
 |------|--------|-----|-----|------|------|
 | 1 | SIDU | 11 | 4 | 19 | expanded |
-| 2 | IREN | 10 | 4 | 70 | expanded |
-| 3 | RGTI | 9 | 5 | 62 | expanded |
+| 2 | RGTI | 10 | 5 | 62 | expanded |
+| 3 | IREN | 10 | 4 | 70 | expanded |
 | 4 | SATL | 9 | 5 | 21 | expanded |
-| 5 | FCEL | 9 | 4 | 23 | expanded |
-| 6 | IONQ | 9 | 4 | 53 | core |
-| 7 | KEEL | 9 | 4 | 19 | expanded |
-| 8 | RIOT | 9 | 4 | 58 | expanded |
-| 9 | USAR | 9 | 4 | 51 | expanded |
-| 10 | CLSK | 9 | 3 | 53 | expanded |
-| 11 | NVTS | 9 | 3 | 51 | core |
-| 12 | AMD | 8 | 4 | 45 | expanded |
-| 13 | APLD | 8 | 4 | 57 | core |
-| 14 | MU | 8 | 4 | 49 | expanded |
-| 15 | NBIS | 8 | 4 | 62 | core |
-| 16 | POET | 8 | 4 | 28 | expanded |
-| 17 | SMCI | 8 | 4 | 44 | expanded |
-| 18 | SPCE | 8 | 4 | 14 | expanded |
-| 19 | FIG | 8 | 3 | 28 | expanded |
-| 20 | INTC | 8 | 3 | 45 | expanded |
+| 5 | SBET | 9 | 5 | 38 | expanded |
+| 6 | FCEL | 9 | 4 | 23 | expanded |
+| 7 | IONQ | 9 | 4 | 53 | core |
+| 8 | KEEL | 9 | 4 | 19 | expanded |
+| 9 | LAES | 9 | 4 | 37 | expanded |
+| 10 | RIOT | 9 | 4 | 58 | expanded |
+| 11 | USAR | 9 | 4 | 51 | expanded |
+| 12 | CLSK | 9 | 3 | 53 | expanded |
+| 13 | NVTS | 9 | 3 | 51 | expanded |
+| 14 | OKLO | 9 | 3 | 64 | core |
+| 15 | AMD | 8 | 4 | 45 | expanded |
+| 16 | APLD | 8 | 4 | 57 | core |
+| 17 | EOSE | 8 | 4 | 53 | expanded |
+| 18 | HIVE | 8 | 4 | 23 | expanded |
+| 19 | MU | 8 | 4 | 49 | expanded |
+| 20 | NBIS | 8 | 4 | 62 | core |
 
 ---
 
-## 10. Short-Side Setups (15 candidates)
+## 10. Short-Side Setups (16 candidates)
 
 ### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| CAPR | -54.7% | -67.46% | $6.41 | $7.31 | unknown_negative (gap_down) |
+| CAPR | -54.7% | -64.49% | $7.00 | $7.82 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
@@ -276,14 +274,15 @@ RS_20d: 0.48 | RS_65d: 1.63
 | XRX | 11d | -4.1% | $5.51 | $5.80 | Negative EP 11d ago (-4.1%), breaking consolidation |
 | WMG | 11d | -4.1% | $32.44 | $33.10 | Negative EP 11d ago (-4.1%), breaking consolidation |
 
-### Sugar Baby Short (4) — former SBs now in weakening sectors
+### Sugar Baby Short (5) — former SBs now in weakening sectors
 
 | Ticker | SB Tier | Sector ETF | Decline from Peak | Notes |
 |--------|---------|-----------|-------------------|-------|
 | SPHL | expanded | ITB | -90.2% | SB in weakening sector ITB (RS_20d=0.07), down 90% from peak |
 | LSE | expanded | XLE | -50.4% | SB in weakening sector XLE (RS_20d=-0.54), down 50% from peak |
+| ZENA | expanded | PPA | -34.6% | SB in weakening sector PPA (RS_20d=-1.34), down 35% from peak |
+| DFSC | expanded | PPA | -24.6% | SB in weakening sector PPA (RS_20d=-1.34), down 25% from peak |
 | SIDU | expanded | PPA | -14.7% | SB in weakening sector PPA (RS_20d=-1.34), down 15% from peak |
-| ARRY | expanded | ICLN | -14.3% | SB in weakening sector ICLN (RS_20d=-0.41), down 14% from peak |
 
 ### Bearish Reversal (5) — 3:58 PM exhaustion
 
