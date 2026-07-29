@@ -1,6 +1,6 @@
 ---
 title: "HOOD"
-date: 2026-07-28
+date: 2026-07-29
 tags: [tickers, wiki, auto-compiled]
 mention_count: 57
 sources_count: 28

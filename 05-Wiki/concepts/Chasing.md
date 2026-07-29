@@ -1,16 +1,16 @@
 ---
 title: "Chasing"
-date: 2026-07-28
+date: 2026-07-29
 tags: [concepts, wiki, auto-compiled]
-mention_count: 618
-sources_count: 362
+mention_count: 619
+sources_count: 363
 compilation_count: 1
 promote: false
 ---
 
 # Chasing
 
-*Concepts — compiled from 618 mentions across 362 sources.*
+*Concepts — compiled from 619 mentions across 363 sources.*
 
 ## Mentions
 

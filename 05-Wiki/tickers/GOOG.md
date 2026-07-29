@@ -1,16 +1,16 @@
 ---
 title: "GOOG"
-date: 2026-07-28
+date: 2026-07-29
 tags: [tickers, wiki, auto-compiled]
-mention_count: 64
-sources_count: 40
+mention_count: 66
+sources_count: 41
 compilation_count: 1
 promote: false
 ---
 
 # GOOG
 
-*Tickers — compiled from 64 mentions across 40 sources.*
+*Tickers — compiled from 66 mentions across 41 sources.*
 
 ## Mentions
 

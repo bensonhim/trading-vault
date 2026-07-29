@@ -1,16 +1,16 @@
 ---
 title: "Episodic Pivot"
-date: 2026-07-28
+date: 2026-07-29
 tags: [concepts, wiki, auto-compiled]
-mention_count: 56942
-sources_count: 1733
+mention_count: 57054
+sources_count: 1736
 compilation_count: 1
 promote: false
 ---
 
 # Episodic Pivot
 
-*Concepts — compiled from 56942 mentions across 1733 sources.*
+*Concepts — compiled from 57054 mentions across 1736 sources.*
 
 ## Mentions
 

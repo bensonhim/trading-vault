@@ -1,16 +1,16 @@
 ---
 title: "PLTR"
-date: 2026-07-28
+date: 2026-07-29
 tags: [tickers, wiki, auto-compiled]
-mention_count: 95
-sources_count: 57
+mention_count: 101
+sources_count: 58
 compilation_count: 1
 promote: false
 ---
 
 # PLTR
 
-*Tickers — compiled from 95 mentions across 57 sources.*
+*Tickers — compiled from 101 mentions across 58 sources.*
 
 ## Mentions
 
@@ -92,7 +92,7 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-07-27.md|Session-2026-07-27]]: | [[PLTR]] | Short (existing) | Still holding, stop to breakeven |
 
-> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-02.md|Session-2023-11-02]]: | [[PLTR]] | Sugar Baby / Earnings | ⚠️ Stop at $17 | "Also a sugar baby" |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-28.md|Session-2026-07-28]]: ### PLTR Short — Trapped Buyers SIPs
 
 ## Related Concepts
 
