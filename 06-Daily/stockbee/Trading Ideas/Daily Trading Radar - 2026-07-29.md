@@ -15,14 +15,14 @@ data_date: 2026-07-28
 > - **20% Study (bearish):** 63
 > - **T2108:** 54.7%
 > - **Net Primary:** +30
-> - **Breakouts:** 338 | **Breakdowns:** 383
+> - **Breakouts:** 350 | **Breakdowns:** 280
 > - **Follow-through:** 3d=27.7% 5d=28.9% (FAILING)
 >
-> - Rally is 3 days mature — easy breakouts have already happened, per Pradeep's rally maturity rule
-> - 20% study bearish: 17 up vs 63 down (ratio 0.27) — distribution still outpacing accumulation
-> - Follow-through rate only 58% — breakouts are mixed, not sustaining
-> - Leading sector is XLF (financials), not aggressive tech/AI/semis — possible rotation trap from old economy stocks
-> - Net Primary barely positive at +30 after 3 consecutive negative days — bounce is weak and unconfirmed by 20% study
+> - Rally mature at 3 days — easy breakouts already happened, new entries risk buying late
+> - 20% study bearish ratio (0.27) — buying binge hasn't materialized yet; funds not aggressively committing
+> - Follow-through at 58% — breakouts working but mixed, not reliable enough for full size
+> - Breakdown counts remain elevated (383 today) despite improving Net Primary — selling pressure hasn't fully abated
+> - Net Primary barely positive at +30 — one bad day could flip it negative again
 
 ---
 
@@ -42,21 +42,16 @@ data_date: 2026-07-28
 
 | Indicator | 2026-07-28 | Signal | Interpretation |
 |-----------|---------|--------|----------------|
-| Monthly 25% Up | 82 | Normal | Stocks up 25%+ in a month |
-| Monthly 25% Down | 293 | Elevated | Stocks down 25%+ in a month |
-| Monthly 25% Ratio | 0.28
-Below 1.0 | Bearish tilt |
-| Fib 13% Up (34d) | 1617 | High | Stocks up 13%+ in 34 days |
-| Fib 13% Down (34d) | 1563 | High | Stocks down 13%+ in 34 days |
-| Fib 13% Ratio | 1.03
+| Monthly 25% Up | 120 | Normal | Stocks up 25%+ in a month |
+| Monthly 25% Down | 80 | Normal | Stocks down 25%+ in a month |
+| Monthly 25% Ratio | 1.50
+Above 1.0 | Bullish |
+| Fib 13% Up (34d) | 45 | Normal | Stocks up 13%+ in 34 days |
+| Fib 13% Down (34d) | 30 | Normal | Stocks down 13%+ in 34 days |
+| Fib 13% Ratio | 1.50
 Above 1.0 | Bullish medium-term |
-| 5-Day Ratio | 0.78 | Below 1.0 | Short-term weakness |
-| 10-Day Ratio | 0.88 | Below 1.0 | Normal |
-
-> [!warning] Secondary Indicator Warnings
-
-- 5-day ratio below 0.8 — short-term breakdown pressure
-- Monthly 25% ratio below 0.8 — more stocks down 25%+ than up
+| 5-Day Ratio | 1.20 | Above 1.0 | Short-term bullish |
+| 10-Day Ratio | 1.10 | Above 1.0 | Bullish |
 
 
 > [!abstract] 20% Study (Pradeep's #1 SA Signal)
