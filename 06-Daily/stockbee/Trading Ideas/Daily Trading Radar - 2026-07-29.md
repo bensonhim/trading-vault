@@ -9,20 +9,20 @@ data_date: 2026-07-29
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] 🟠 **CAUTIOUS_BULL_LOW** — Action: **REDUCE_SIZE**
+> [!warning] 🟠 **CAUTIOUS_BULL_LOW** — Action: **NO_NEW_LONGS**
 >
 > - **20% Study (bullish):** 17
 > - **20% Study (bearish):** 63
-> - **T2108:** 50.1%
-> - **Net Primary:** +29
-> - **Breakouts:** 42 | **Breakdowns:** 385
+> - **T2108:** 49.0%
+> - **Net Primary:** -132
+> - **Breakouts:** 164 | **Breakdowns:** 546
 > - **Follow-through:** 3d=27.7% 5d=25.1% (FAILING)
 >
-> - Follow-through rate at 33% — breakouts failing, do not buy standard breakouts
-> - Breakdown count sustained at 385 across multiple days — not a one-day spike
-> - T2108 dropped sharply today (54.7% to 50.1%) despite 5-day rising trend — correction may be resuming
-> - 20% study bearish (0.27 ratio) — no evidence of fund buying aggression yet
-> - Rally is 4 days mature — easy breakouts already happened
+> - Follow-through rate 0% on Jul 28 — breakouts completely failing, do NOT buy new breakouts
+> - Breakdowns surged to 546 vs 164 breakouts (3.3x) — selling pressure accelerating
+> - Net Primary recovery attempt failed: +30 reversed to -132 in one day
+> - 20% study bearish: 63 stocks down 20% vs only 17 up — distribution signal
+> - Rally is mature at 4 days — easy breakouts already happened
 
 ---
 
@@ -32,31 +32,33 @@ data_date: 2026-07-29
 
 | Indicator | 2026-07-29 | 2026-07-28 | 2026-07-27 | 2026-07-24 | 2026-07-23 | Trend |
 |-----------|-------|-------|-------|-------|-------|-------|
-| Net Primary | +29 | +30 | -13 | -199 | -154 | — |
-| T2108 | 50.09% | 54.73% | 53.38% | 51.00% | 47.17% | — |
-| Breakouts | 42 | 338 | 380 | 144 | 138 | — |
-| Breakdowns | 385 | 383 | 195 | 349 | 325 | — |
-| BO:BD Ratio | 0.11 | 0.88 | 1.95 | 0.41 | 0.42 | — |
+| Net Primary | -132 | +30 | -13 | -199 | -154 | — |
+| T2108 | 48.98% | 54.73% | 53.38% | 51.00% | 47.17% | — |
+| Breakouts | 164 | 338 | 380 | 144 | 138 | — |
+| Breakdowns | 546 | 383 | 195 | 349 | 325 | — |
+| BO:BD Ratio | 0.30 | 0.88 | 1.95 | 0.41 | 0.42 | — |
 
 ### Secondary Indicators
 
 | Indicator | 2026-07-29 | Signal | Interpretation |
 |-----------|---------|--------|----------------|
-| Monthly 25% Up | 88 | Normal | Stocks up 25%+ in a month |
-| Monthly 25% Down | 290 | Elevated | Stocks down 25%+ in a month |
-| Monthly 25% Ratio | 0.30
+| Monthly 25% Up | 108 | Normal | Stocks up 25%+ in a month |
+| Monthly 25% Down | 370 | Elevated | Stocks down 25%+ in a month |
+| Monthly 25% Ratio | 0.29
 Below 1.0 | Bearish tilt |
-| Fib 13% Up (34d) | 1617 | High | Stocks up 13%+ in 34 days |
-| Fib 13% Down (34d) | 1563 | High | Stocks down 13%+ in 34 days |
-| Fib 13% Ratio | 1.03
-Above 1.0 | Bullish medium-term |
-| 5-Day Ratio | 0.88 | Below 1.0 | Short-term normal |
-| 10-Day Ratio | 0.90 | Below 1.0 | Normal |
+| Fib 13% Up (34d) | 1457 | Normal | Stocks up 13%+ in 34 days |
+| Fib 13% Down (34d) | 1702 | High | Stocks down 13%+ in 34 days |
+| Fib 13% Ratio | 0.86
+Below 1.0 | Bearish medium-term |
+| 5-Day Ratio | 0.64 | Below 1.0 | Short-term weakness |
+| 10-Day Ratio | 0.76 | Below 1.0 | Sustained weakness |
 
 > [!warning] Secondary Indicator Warnings
 
+- 5-day ratio below 0.8 — short-term breakdown pressure
+- 10-day ratio below 0.8 — sustained weakness over 10 days
 - Monthly 25% ratio below 0.8 — more stocks down 25%+ than up
-- Breakdown spike: 385 vs 42 (ratio 0.11)
+- Breakdown spike: 546 vs 164 (ratio 0.30)
 
 
 > [!abstract] 20% Study (Pradeep's #1 SA Signal)
@@ -202,12 +204,11 @@ Above 1.0 | Bullish medium-term |
 
 ## 11. Action Summary
 
-- [ ] **REDUCE SIZE — MANAGE EXISTING ONLY**
-- [ ] No new aggressive entries — manage existing positions only
-- [ ] Tighten stops to breakeven on existing positions
-- [ ] Wait for breadth to stabilize before adding
-- [ ] **Focus on SIPs** — 10 fresh catalyst stocks for day trade
-- [ ] Sell into strength on existing positions
+- [ ] **NO NEW LONGS** — process over chasing
+- [ ] Manage existing positions only
+- [ ] SIPs only — 10 fresh catalyst for day trade
+- [ ] Monitor 6 short-side setups
+- [ ] Watch for capitulation signal (T2108 < 10%)
 
 ---
 

@@ -9,20 +9,20 @@ data_date: 2026-07-29
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] **CAUTIOUS_BULL_LOW** — Action: **REDUCE_SIZE**
+> [!caution] 🟠 **CAUTIOUS_BULL_LOW** — Action: **REDUCE_SIZE**
 >
 > - **20% Study (bullish):** 17
 > - **20% Study (bearish):** 63
-> - **T2108:** 50.1%
-> - **Net Primary:** +29
-> - **Breakouts:** 42 | **Breakdowns:** 385
+> - **T2108:** 49.0%
+> - **Net Primary:** -132
+> - **Breakouts:** 164 | **Breakdowns:** 546
 > - **Follow-through:** 3d=27.7% 5d=25.1% (FAILING)
 >
-> - Follow-through rate 33% with 0% on 7/28 — breakouts failing badly, no new aggressive longs
-> - 5-day BO/BD ratio ~0.64 — below 0.8 weak threshold, breakouts not working
-> - Rally mature at 4 days — easy breakouts already happened
-> - Breakdowns worsening: 385 today vs 195 on 7/27, selling pressure resurging
-> - 20% study bull:bear ratio 0.27 — no evidence of buying binge yet
+> - Follow-through rate at 33% — breakouts failing, do not buy new breakouts
+> - Jul 28 had 0% follow-through (0/433) — total breakout failure day
+> - Breakdowns dominated Jul 29 (546 vs 164) — selling pressure accelerating after brief recovery
+> - 20% study at 17 with bear:bear ratio 0.27 — no evidence of fund buying aggression
+> - Rally mature at 4 days — easy breakouts already happened, late entries likely to fail
 
 ---
 
@@ -30,33 +30,35 @@ data_date: 2026-07-29
 
 ### Primary Indicators
 
-| Indicator | 2026-07-29 | 2026-07-28 | 2026-07-27 | 2026-07-24 | 2026-07-23 | Trend |
-|-----------|-------|-------|-------|-------|-------|-------|
-| Net Primary | +29 | +30 | -13 | -199 | -154 | — |
-| T2108 | 50.09% | 54.73% | 53.38% | 51.00% | 47.17% | — |
-| Breakouts | 42 | 338 | 380 | 144 | 138 | — |
-| Breakdowns | 385 | 383 | 195 | 349 | 325 | — |
-| BO:BD Ratio | 0.11 | 0.88 | 1.95 | 0.41 | 0.42 | — |
+| Indicator   | 2026-07-29 | 2026-07-28 | 2026-07-27 | 2026-07-24 | 2026-07-23 | Trend |
+| ----------- | ---------- | ---------- | ---------- | ---------- | ---------- | ----- |
+| Net Primary | -132       | +30        | -13        | -199       | -154       | —     |
+| T2108       | 48.98%     | 54.73%     | 53.38%     | 51.00%     | 47.17%     | —     |
+| Breakouts   | 164        | 338        | 380        | 144        | 138        | —     |
+| Breakdowns  | 546        | 383        | 195        | 349        | 325        | —     |
+| BO:BD Ratio | 0.30       | 0.88       | 1.95       | 0.41       | 0.42       | —     |
 
 ### Secondary Indicators
 
 | Indicator | 2026-07-29 | Signal | Interpretation |
 |-----------|---------|--------|----------------|
-| Monthly 25% Up | 88 | Normal | Stocks up 25%+ in a month |
-| Monthly 25% Down | 290 | Elevated | Stocks down 25%+ in a month |
-| Monthly 25% Ratio | 0.30
+| Monthly 25% Up | 108 | Normal | Stocks up 25%+ in a month |
+| Monthly 25% Down | 370 | Elevated | Stocks down 25%+ in a month |
+| Monthly 25% Ratio | 0.29
 Below 1.0 | Bearish tilt |
-| Fib 13% Up (34d) | 1617 | High | Stocks up 13%+ in 34 days |
-| Fib 13% Down (34d) | 1563 | High | Stocks down 13%+ in 34 days |
-| Fib 13% Ratio | 1.03
-Above 1.0 | Bullish medium-term |
-| 5-Day Ratio | 0.88 | Below 1.0 | Short-term normal |
-| 10-Day Ratio | 0.90 | Below 1.0 | Normal |
+| Fib 13% Up (34d) | 1457 | Normal | Stocks up 13%+ in 34 days |
+| Fib 13% Down (34d) | 1702 | High | Stocks down 13%+ in 34 days |
+| Fib 13% Ratio | 0.86
+Below 1.0 | Bearish medium-term |
+| 5-Day Ratio | 0.64 | Below 1.0 | Short-term weakness |
+| 10-Day Ratio | 0.76 | Below 1.0 | Sustained weakness |
 
 > [!warning] Secondary Indicator Warnings
 
+- 5-day ratio below 0.8 — short-term breakdown pressure
+- 10-day ratio below 0.8 — sustained weakness over 10 days
 - Monthly 25% ratio below 0.8 — more stocks down 25%+ than up
-- Breakdown spike: 385 vs 42 (ratio 0.11)
+- Breakdown spike: 546 vs 164 (ratio 0.30)
 
 
 > [!abstract] 20% Study (Pradeep's #1 SA Signal)
@@ -186,7 +188,7 @@ Above 1.0 | Bullish medium-term |
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| VFC | -8.6% | -18.38% | $14.89 | $16.68 | earnings_miss (gap_down) |
+| PSN | -24.2% | -35.0% | $40.32 | $47.99 | earnings_miss (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
@@ -223,6 +225,63 @@ Above 1.0 | Bullish medium-term |
 
 ---
 
+## 13. Setup Guide — How to Use This Report
+
+### Setup Types
+
+| Setup | What it is | How to trade | Entry | Stop | Target |
+|-------|-----------|-------------|-------|------|--------|
+| **SOS** | Stochastic breakout — stock breaks out of consolidation with volume expansion. Look for Two Lynch Score >= 3, no legs (single move). | Buy at breakout close or next morning's open. Size: 100% (FULL_BULL), 75% (CAUTIOUS_BULL_HIGH), 0% (RANGE_BOUND). | Breakout day close | Below consolidation low or 5% from entry | 2R (2x risk) minimum, trail with 8-day EMA |
+| **DEP** | Daily Earnings Play — stock had a catalyst (earnings gap +4% with volume) in last 25 days, pulled back to consolidation, now breaking out again. | Place limit order at breakout level. 'Never more than 5.' Best when 20% study > 50. | Limit at breakout level | Below consolidation low (0.5-2.5% width) | 2R minimum, exit on 80/20 rule |
+| **ANTS** | Anticipation — stock in tight contraction (3 consecutive days with <1% daily change). Volatility squeeze before breakout. | Place Buy-Stop-Limit Order (BSLO) above tight day high. Best when TI65 young (C65 <= 10). | BSLO above tight day high | Below tight day low | 1.5R, trail tight |
+| **SIPs** | Stocks in Play — fresh catalyst (earnings, news, partnership) + volume. Day trade or 1-2 day swing. | Buy on gap or intraday breakout. 'When nothing else works, SIPs are the only thing that works.' No overnight in RANGE_BOUND. | Gap open or intraday breakout | Intraday stop (1-2%) | Same day or next day |
+| **EP 9M Short** | Negative surprise — stock gaps down -4%+ on earnings/news with volume. Short setup. | Short on gap down or intraday breakdown. Best when market is DISTRIBUTING. | Gap down open or breakdown | Above gap down high or consolidation high | 2R |
+| **Bearish DEP** | Negative EP then breakdown — stock had negative catalyst, consolidated, now breaking DOWN. Short setup. | Short at breakdown. Best when 20% study < 30. | Breakdown close | Above consolidation high | 2R |
+
+### Terminology
+
+| Term | Definition |
+|-----|-----------|
+| **C65** | Days in bullish TI65 (AVGC7/AVGC65 >= 1.05) out of last 100 trading days. C65 <= 10 = **young momentum** (highest reward/risk). |
+| **D65** | Days in bearish TI65 (AVGC7/AVGC65 <= 0.95) out of last 100 trading days. High D65 = persistent downtrend = short candidate. |
+| **AVGC7** | 7-day average closing price. Short-term trend proxy. |
+| **AVGC65** | 65-day average closing price. Medium-term trend proxy. TI65 = AVGC7 / AVGC65. |
+| **TI65** | Trend Intensity = AVGC7 / AVGC65. >= 1.05 = bullish velocity, <= 0.95 = bearish, 0.95-1.05 = neutral. |
+| **T2108** | % of stocks trading above their 40-week (200-day) moving average. Pradeep's breadth gauge. < 10% = capitulation (extreme buy). |
+| **Net Primary** | Primary Up (stocks up 25%+ from 65-day low) minus Primary Down (stocks down 25%+ from 65-day high). Pradeep's #1 trend indicator. |
+| **20% Study** | Count of stocks up/down 20%+ in 5 days. LAGGING oscillator (Pradeep Jul 23, 2026). < 20 = bullish extreme (bounce), > 100 = euphoria (caution). |
+| **Two Lynch Score** | Volume expansion + dollar breakout + gap confirmation + tight day. Score 0-4. >= 3 = high quality breakout. |
+| **Sugar Baby** | Stock that has broken out 4%+ with volume on 3+ occasions across multiple timeframes (5d, 10d, 20d, 50d, 252d, 504d). 'Madly in love' stocks. |
+| **BSLO** | Buy-Stop-Limit Order — order placed above current price that triggers only if price reaches the stop level. Used for ANTS setups. |
+| **FADE MODE** | When 20% study < 35, breakouts are unlikely to follow through. SOS candidates become fade targets (short), not buy candidates. |
+
+### Regime Action Guide
+
+| Regime | What to do | Position Size | Stop Management |
+|--------|-----------|---------------|-----------------|
+| **FULL_BULL** | Buy A+, A, A- confluences. Full playbook. | 100% (up to hard cap) | Normal stops (5-8%) |
+| **CAUTIOUS_BULL_HIGH** | Buy A+ and A confluences only. Selective. | 75% of normal | Tightened stops (3-5%) |
+| **CAUTIOUS_BULL_LOW** | Manage existing, no new aggressive entries. | No new positions | Tighten to breakeven |
+| **RANGE_BOUND** | SIPs and day trade only. No swing longs. | Day trade size only | Intraday only |
+| **DISTRIBUTING** | No new longs. Watch short setups. | Shorts only if confirmed | Short stops above consolidation |
+| **BEARISH** | Shorts only. No longs. | Short size | Short stops above recent high |
+| **CAPITULATION** | Deploy long-term capital. Extreme buy. | Maximum size | Wide stops (10-15%) |
+
+### 80/20 Exit Rule
+
+> When a stock gives you 80% of your target profit in 20% of the expected time, exit immediately. Pradeep: 'You don't wait for the last 20% — that's where the risk is.'
+
+### Links
+
+- [[Scans and Filters]] — full PCF formulas for all scans
+- [[Confluences]] — how to combine setups for higher probability
+- [[Stops]] — stop placement strategy by setup type
+- [[Position Sizing]] — account risk management
+- [[Trade Management]] — trailing stops, 80/20 rule, time stops
+- [[Common Mistakes]] — what NOT to do
+
+---
+
 *Generated by Pradeep Ultratrader Trading Radar Engine*
-*Data: FMP batch quote (today) + EOD dividend-adjusted (historical) | MM: StockBee Google Sheet | Tight day: ATR-based tier system*
+*Data: FMP EOD dividend-adjusted | MM: TC2000 manual or StockBee Google Sheet | Tight day: ATR-based tier system*
 *Google Sheets: [Trading Radar Watchlist](https://docs.google.com/spreadsheets/d/1o0A2AkzjcPwrha7US5SSwl97zuPGvUk_JIHd4FZCaQE/edit)*
