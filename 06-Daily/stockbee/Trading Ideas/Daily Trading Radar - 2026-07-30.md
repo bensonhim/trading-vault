@@ -89,18 +89,18 @@ RS_20d: 0.43 | RS_65d: 3.34
 
 ### Sector RS Heatmap (grouped by theme, top 10)
 
-| Rank | Ticker | Theme | RS_20d | RS_65d | ETF 20d | SPY 20d | Excess | Status |
-|------|--------|-------|--------|--------|---------|---------|--------|--------|
-| 1 | SOXX | semiconductors | 15.61 | 1.84 | -24.3% | -1.6% | -22.8% | TOP FORMING |
-| 2 | QTUM | quantum_computing | 11.41 | 0.65 | -17.8% | -1.6% | -16.2% | TOP FORMING |
-| 3 | DRIV | ev_automotive | 9.91 | -3.36 | -15.4% | -1.6% | -13.9% |  |
-| 4 | ICLN | clean_energy | 9.72 | -5.47 | -15.1% | -1.6% | -13.6% |  |
-| 5 | UFO | space_economy | 8.26 | -6.40 | -12.9% | -1.6% | -11.3% |  |
-| 6 | AIQ | ai_tech | 8.24 | 1.56 | -12.8% | -1.6% | -11.3% | TOP FORMING |
-| 7 | BLOK | blockchain | 6.93 | -2.16 | -10.8% | -1.6% | -9.2% | TOP FORMING |
-| 8 | ITB | home_construction | 4.56 | -1.42 | -7.1% | -1.6% | -5.6% |  |
-| 9 | XBI | biotech_small | 4.22 | 3.36 | -6.6% | -1.6% | -5.0% |  |
-| 10 | PAVE | infrastructure | 3.96 | -0.81 | -6.2% | -1.6% | -4.6% | TOP FORMING |
+| Rank | Ticker | Theme             | RS_20d | RS_65d | ETF 20d | SPY 20d | Excess | Status      |
+| ---- | ------ | ----------------- | ------ | ------ | ------- | ------- | ------ | ----------- |
+| 1    | SOXX   | semiconductors    | 15.61  | 1.84   | -24.3%  | -1.6%   | -22.8% | TOP FORMING |
+| 2    | QTUM   | quantum_computing | 11.41  | 0.65   | -17.8%  | -1.6%   | -16.2% | TOP FORMING |
+| 3    | DRIV   | ev_automotive     | 9.91   | -3.36  | -15.4%  | -1.6%   | -13.9% |             |
+| 4    | ICLN   | clean_energy      | 9.72   | -5.47  | -15.1%  | -1.6%   | -13.6% |             |
+| 5    | UFO    | space_economy     | 8.26   | -6.40  | -12.9%  | -1.6%   | -11.3% |             |
+| 6    | AIQ    | ai_tech           | 8.24   | 1.56   | -12.8%  | -1.6%   | -11.3% | TOP FORMING |
+| 7    | BLOK   | blockchain        | 6.93   | -2.16  | -10.8%  | -1.6%   | -9.2%  | TOP FORMING |
+| 8    | ITB    | home_construction | 4.56   | -1.42  | -7.1%   | -1.6%   | -5.6%  |             |
+| 9    | XBI    | biotech_small     | 4.22   | 3.36   | -6.6%   | -1.6%   | -5.0%  |             |
+| 10   | PAVE   | infrastructure    | 3.96   | -0.81  | -6.2%   | -1.6%   | -4.6%  | TOP FORMING |
 
 ---
 
