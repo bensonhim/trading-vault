@@ -1,16 +1,16 @@
 ---
 title: "AAPL"
-date: 2026-07-29
+date: 2026-07-30
 tags: [tickers, wiki, auto-compiled]
-mention_count: 62
-sources_count: 43
+mention_count: 63
+sources_count: 44
 compilation_count: 1
 promote: false
 ---
 
 # AAPL
 
-*Tickers — compiled from 62 mentions across 43 sources.*
+*Tickers — compiled from 63 mentions across 44 sources.*
 
 ## Mentions
 
@@ -86,13 +86,13 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-07-15.md|Session-2026-07-15]]: | [[AAPL]] | Breakout | Faded; same pattern as all week |
 
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-29.md|Session-2026-07-29]]: | [[AAPL]] | Selling | Down with semis |
+
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-20.md|Session-2023-11-20]]: [[QQQ]], [[SPY]], [[BABA]], [[AAPL]], [[UBER]] — all showing continuation setups. The first leg has formed, now watching for second legs.
 
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-20.md|Session-2023-11-20]]: 8. **Continuation setups forming** — QQQ, SPY, AAPL, UBER showing second-leg potential
 
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-20.md|Session-2023-11-20]]: | [[AAPL]] | Continuation | ⏳ Watching | Second leg potential |
-
-> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-12-05.md|Session-2023-12-05]]: | [[AAPL]] | Liquid Lava | ✅ Best play | Missed entry — should have loaded up |
 
 ## Related Concepts
 

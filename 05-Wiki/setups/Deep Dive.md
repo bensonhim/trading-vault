@@ -1,6 +1,6 @@
 ---
 title: "Deep Dive"
-date: 2026-07-29
+date: 2026-07-30
 tags: [setups, wiki, auto-compiled]
 mention_count: 1225
 sources_count: 381

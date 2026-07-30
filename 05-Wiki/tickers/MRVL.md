@@ -1,6 +1,6 @@
 ---
 title: "MRVL"
-date: 2026-07-29
+date: 2026-07-30
 tags: [tickers, wiki, auto-compiled]
 mention_count: 49
 sources_count: 26

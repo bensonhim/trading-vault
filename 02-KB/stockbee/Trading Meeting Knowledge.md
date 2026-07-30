@@ -1,13 +1,13 @@
 ---
 title: "Trading Meeting Knowledge"
-date: 2026-07-29
+date: 2026-07-30
 tags: [knowledge, pradeep-bonde, meetings, methodology, market-monitor, evolving, trading]
 ---
 
 # Trading Meeting Knowledge
 
-> Living document compiled from 913 StockBee daily meeting transcripts (May 1 – Jun 10, 2026).
-> Last updated: **Wednesday, July 29, 2026**
+> Living document compiled from 914 StockBee daily meeting transcripts (May 1 – Jun 10, 2026).
+> Last updated: **Thursday, July 30, 2026**
 > This note distills **how Pradeep monitors the market** and **applies his trading methodology** in real-time.
 
 ---
@@ -137,12 +137,12 @@ From daily meeting commentary:
 Tickers repeatedly discussed across sessions (setup candidates, examples, or warnings):
 
 - [[EP]] — mentioned 3451 times
-- [[AI]] — mentioned 1428 times
+- [[AI]] — mentioned 1429 times
 - [[AMD]] — mentioned 811 times
 - [[DEP]] — mentioned 631 times
 - [[US]] — mentioned 598 times
-- [[AM]] — mentioned 555 times
-- [[TQQ]] — mentioned 522 times
+- [[AM]] — mentioned 556 times
+- [[TQQ]] — mentioned 523 times
 - [[IPO]] — mentioned 520 times
 - [[SMCI]] — mentioned 487 times
 - [[LTV]] — mentioned 463 times
@@ -151,11 +151,11 @@ Tickers repeatedly discussed across sessions (setup candidates, examples, or war
 - [[PM]] — mentioned 394 times
 - [[TNA]] — mentioned 384 times
 - [[FOMO]] — mentioned 382 times
-- [[COVID]] — mentioned 337 times
+- [[COVID]] — mentioned 339 times
 - [[NTRT]] — mentioned 323 times
 - [[SOS]] — mentioned 315 times
 - [[CEO]] — mentioned 236 times
-- [[ETF]] — mentioned 234 times
+- [[ETF]] — mentioned 235 times
 
 ---
 
@@ -203,6 +203,7 @@ Tickers repeatedly discussed across sessions (setup candidates, examples, or war
 
 All daily session curated notes:
 
+- [[Session-2026-07-29.md|Session-2026-07-29]]
 - [[Session-2026-07-28.md|Session-2026-07-28]]
 - [[Session-2026-07-27.md|Session-2026-07-27]]
 - [[Session-2026-07-23.md|Session-2026-07-23]]
@@ -499,7 +500,7 @@ All daily session curated notes:
 
 | Date | Change |
 |------|--------|
-| 2026-07-29 | Initial creation from 913 meeting transcripts (May 1 – Jun 10, 2026) |
+| 2026-07-30 | Initial creation from 914 meeting transcripts (May 1 – Jun 10, 2026) |
 
 ---
 

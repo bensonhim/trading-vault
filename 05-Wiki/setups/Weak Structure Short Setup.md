@@ -1,6 +1,6 @@
 ---
 title: "Weak Structure Short Setup"
-date: 2026-07-29
+date: 2026-07-30
 tags: [setups, wiki, auto-compiled]
 mention_count: 8
 sources_count: 8
