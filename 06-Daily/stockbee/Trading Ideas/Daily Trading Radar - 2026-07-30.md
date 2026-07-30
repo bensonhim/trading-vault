@@ -11,18 +11,18 @@ data_date: 2026-07-29
 
 > [!caution] 🟠 **CAUTIOUS_BULL_LOW** — Action: **REDUCE_SIZE**
 >
-> - **20% Study (bullish):** 17
-> - **20% Study (bearish):** 63
+> - **20% Study (bullish):** 105
+> - **20% Study (bearish):** 246
 > - **T2108:** 49.0%
 > - **Net Primary:** -132
 > - **Breakouts:** 164 | **Breakdowns:** 546
 > - **Follow-through:** 3d=27.7% 5d=25.1% (FAILING)
 >
-> - Follow-through rate at 33% — breakouts failing, do not buy new breakouts
-> - Jul 28 had 0% follow-through (0/433) — total breakout failure day
-> - Breakdowns dominated Jul 29 (546 vs 164) — selling pressure accelerating after brief recovery
-> - 20% study at 17 with bear:bear ratio 0.27 — no evidence of fund buying aggression
-> - Rally mature at 4 days — easy breakouts already happened, late entries likely to fail
+> - Follow-through rate 33% — breakouts failing, reduce size and tighten stops
+> - 20% study 17/63 ratio 0.27 — no evidence of aggressive fund buying
+> - Breakdowns dominating 546 vs 164 (3.3x) — selling pressure persists
+> - Rally 4 days mature — easy breakouts already happened, late entries risky
+> - 07-28 follow-through was 0% — all 433 breakouts from 07-27 failed
 
 ---
 
@@ -30,13 +30,13 @@ data_date: 2026-07-29
 
 ### Primary Indicators
 
-| Indicator   | 2026-07-29 | 2026-07-28 | 2026-07-27 | 2026-07-24 | 2026-07-23 | Trend |
-| ----------- | ---------- | ---------- | ---------- | ---------- | ---------- | ----- |
-| Net Primary | -132       | +30        | -13        | -199       | -154       | —     |
-| T2108       | 48.98%     | 54.73%     | 53.38%     | 51.00%     | 47.17%     | —     |
-| Breakouts   | 164        | 338        | 380        | 144        | 138        | —     |
-| Breakdowns  | 546        | 383        | 195        | 349        | 325        | —     |
-| BO:BD Ratio | 0.30       | 0.88       | 1.95       | 0.41       | 0.42       | —     |
+| Indicator | 2026-07-29 | 2026-07-28 | 2026-07-27 | 2026-07-24 | 2026-07-23 | Trend |
+|-----------|-------|-------|-------|-------|-------|-------|
+| Net Primary | -132 | +30 | -13 | -199 | -154 | — |
+| T2108 | 48.98% | 54.73% | 53.38% | 51.00% | 47.17% | — |
+| Breakouts | 164 | 338 | 380 | 144 | 138 | — |
+| Breakdowns | 546 | 383 | 195 | 349 | 325 | — |
+| BO:BD Ratio | 0.30 | 0.88 | 1.95 | 0.41 | 0.42 | — |
 
 ### Secondary Indicators
 
@@ -44,13 +44,11 @@ data_date: 2026-07-29
 |-----------|---------|--------|----------------|
 | Monthly 25% Up | 108 | Normal | Stocks up 25%+ in a month |
 | Monthly 25% Down | 370 | Elevated | Stocks down 25%+ in a month |
-| Monthly 25% Ratio | 0.29
-Below 1.0 | Bearish tilt |
+| Monthly 25% Ratio | 0.29 | Below 1.0 | Bearish tilt |
 | Fib 13% Up (34d) | 1457 | Normal | Stocks up 13%+ in 34 days |
 | Fib 13% Down (34d) | 1702 | High | Stocks down 13%+ in 34 days |
-| Fib 13% Ratio | 0.86
-Below 1.0 | Bearish medium-term |
-| 5-Day Ratio | 0.64 | Below 1.0 | Short-term weakness |
+| Fib 13% Ratio | 0.86 | Below 1.0 | Bearish medium-term |
+| 5-Day Ratio | 0.65 | Below 1.0 | Short-term weakness |
 | 10-Day Ratio | 0.76 | Below 1.0 | Sustained weakness |
 
 > [!warning] Secondary Indicator Warnings
@@ -65,10 +63,10 @@ Below 1.0 | Bearish medium-term |
 
 | Metric | Value | Signal |
 |--------|-------|--------|
-| Stocks up 20%+ (5d) | 17 | ⚠️ Low — breakouts unlikely to follow through |
-| Stocks down 20%+ (5d) | 63 | Oversold bounce possible |
+| Stocks up 20%+ (5d) | 105 | ⚠️ Elevated — caution territory |
+| Stocks down 20%+ (5d) | 246 | Oversold bounce possible |
 
-> [!caution] Long Setup Risk: ELEVATED RISK (20% study < 30, breakouts may not follow through) — reduced size, tight stops
+> [!caution] Long Setup Risk: CAUTION (follow-through 25.1% < 30%, breakouts failing)
 > Stocks breaking out during weak markets can become the next market leaders (Pradeep: 'methods trump markets').
 
 **Breakout Follow-Through (last 10 days):** 3d=27.7% 5d=25.1% [FAILING]
@@ -124,10 +122,10 @@ Below 1.0 | Bearish medium-term |
 | NFLX | +2.4% | +2.8% | 46,873,913 | +8% | LARGE-CAP |
 | PATH | +0.1% | +4.9% | 46,784,839 | +2% | fresh |
 
-### FADE MODE Active (20% study < 35)
+### SOS Breakout Candidates (0 found — top 20)
 
-> [!warning] Breakouts unlikely to follow through. No yesterday breakouts failing today (or no data).
-
+| # | Ticker | Change% | Volume | Two Lynch | Leg | Priority |
+|---|--------|---------|--------|-----------|-----|----------|
 
 ### DEP Candidates (0 found)
 
