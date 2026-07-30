@@ -9,7 +9,7 @@ data_date: 2026-07-29
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] 🟠 **CAUTIOUS_BULL_LOW** — Action: **REDUCE_SIZE**
+> [!warning] 🟠 **DISTRIBUTING** — Action: **NO_NEW_LONGS**
 >
 > - **20% Study (bullish):** 105
 > - **20% Study (bearish):** 246
@@ -18,11 +18,11 @@ data_date: 2026-07-29
 > - **Breakouts:** 164 | **Breakdowns:** 546
 > - **Follow-through:** 3d=27.7% 5d=25.1% (FAILING)
 >
-> - Follow-through rate 33% — breakouts failing, reduce size and tighten stops
-> - 20% study 17/63 ratio 0.27 — no evidence of aggressive fund buying
-> - Breakdowns dominating 546 vs 164 (3.3x) — selling pressure persists
-> - Rally 4 days mature — easy breakouts already happened, late entries risky
-> - 07-28 follow-through was 0% — all 433 breakouts from 07-27 failed
+> - 0% follow-through on 7/28 — 433 breakouts, ZERO followed through. Breakouts are death traps.
+> - Breakdowns dominating at 3.3x breakouts (546 vs 164) and worsening over 5 days
+> - 20% study bearish: 246 stocks down 20%+ vs 105 up 20%+ (ratio 0.43) — funds distributing, not accumulating
+> - Intraday distribution pattern: SPY and QQQ closing near lows despite flat net change
+> - Rally is mature (4 days) — easy breakouts already happened, late entries getting trapped
 
 ---
 
@@ -202,12 +202,11 @@ data_date: 2026-07-29
 
 ## 11. Action Summary
 
-- [ ] **REDUCE SIZE — MANAGE EXISTING ONLY**
-- [ ] No new aggressive entries — manage existing positions only
-- [ ] Tighten stops to breakeven on existing positions
-- [ ] Wait for breadth to stabilize before adding
-- [ ] **Focus on SIPs** — 10 fresh catalyst stocks for day trade
-- [ ] Sell into strength on existing positions
+- [ ] **NO NEW LONGS** — process over chasing
+- [ ] Manage existing positions only
+- [ ] SIPs only — 10 fresh catalyst for day trade
+- [ ] Monitor 6 short-side setups
+- [ ] Watch for capitulation signal (T2108 < 10%)
 
 ---
 
