@@ -18,11 +18,11 @@ data_date: 2026-07-29
 > - **Breakouts:** 164 | **Breakdowns:** 546
 > - **Follow-through:** 3d=27.7% 5d=25.1% (FAILING)
 >
-> - Breakdowns surging to 546 — highest in 5 days, sustained selling pressure not a one-day spike
-> - Former leader BUG rolling over (65d leader, negative 20d RS) = institutional distribution
-> - SOXX and SMH showing TOP FORMING pattern with severe 20-day declines
-> - 20% study bear:bear ratio 0.43 (246 down vs 105 up) — more stocks down 20% than up
-> - Rally mature at 4 days — easy breakouts already happened
+> - Former leader BUG rolling over (65d leader, negative 20d RS = institutional distribution)
+> - SOXX and SMH top forming — leading aggressive sectors down 20%+ in 20 days
+> - Intraday distribution on 7-29: opened strong, closed near low (-1.4%)
+> - Breakdowns dominating: 546 vs 164 breakouts today (3.3:1 bearish ratio)
+> - 20% study bearish: 246 stocks down 20%+ vs 105 up 20%+ (ratio 0.43)
 
 ---
 
@@ -74,7 +74,7 @@ data_date: 2026-07-29
 > When 5-day follow-through < 30%, breakouts are systematically failing. Pradeep: 'Just see what happened to breakouts from yesterday, and did they follow through.'
 
 
-> [!danger] SELLING SPREADING — Selling spreading to 5 sectors: Financial Services (38->113), Industrials (134->289), Consumer Cyclical (41->85), Communication Services (13->30), Real Estate (12->20)
+> [!danger] SELLING SPREADING — Selling spreading to 5 sectors: Financial Services (38->112), Industrials (134->289), Consumer Cyclical (41->85), Communication Services (13->30), Real Estate (12->20)
 > Pradeep: 'Selling is going to spread to the other stocks which are holding up.'
 
 ---
@@ -368,11 +368,14 @@ RS_20d: 0.43 | RS_65d: 3.34
 - Fund Ownership: 2500+ - Institutional Quality (big size)
 - Group Move: Yes (62 stocks in sector broke out today)
 - Breakout History (5 past swings):
-  - 2026-07-29: +4.6% total | Entry: $281.17 | Stop: $274.13 | Last Close: $282.90 | Vol: 8,782,315 | PENDING
-  - 2026-06-26: +9.6% total | Entry: $236.14 | Stop: $220.23 | Last Close: $248.96 | Vol: 25,607,000 | PROFIT_80_20
-  - 2026-05-07: +100.5% total (7d swing) | Entry: $145.33 | Stop: $148.80 | Last Close: $280.16 | Vol: 13,709,339 | BREAKEVEN
-  - 2026-04-13: +24.2% total (3d swing) | Entry: $125.95 | Stop: $120.09 | Last Close: $150.44 | Vol: 14,833,426 | PROFIT_80_20
-  - 2026-03-05: +5.5% total | Entry: $174.99 | Stop: $167.02 | Last Close: $177.45 | Vol: 6,958,264 | BREAKEVEN
+
+  | Date | Move% | Entry | Stop | Last Close | Volume | Result |
+  |------|-------|-------|------|------------|--------|--------|
+  | 2026-07-29 | +4.6% | $281.17 | $274.13 | $282.90 | 8,782,315 | PENDING |
+  | 2026-06-26 | +9.6% | $236.14 | $220.23 | $248.96 | 25,607,000 | PROFIT_80_20 |
+  | 2026-05-07 | +100.5% (7d) | $145.33 | $148.80 | $280.16 | 13,709,339 | BREAKEVEN |
+  | 2026-04-13 | +24.2% (3d) | $125.95 | $120.09 | $150.44 | 14,833,426 | PROFIT_80_20 |
+  | 2026-03-05 | +5.5% | $174.99 | $167.02 | $177.45 | 6,958,264 | BREAKEVEN |
 - EMA:
   - EMA5: $274.28
   - EMA8: $272.42
@@ -391,11 +394,14 @@ RS_20d: 0.43 | RS_65d: 3.34
 - Fund Ownership: 2500+ - Institutional Quality (big size)
 - Group Move: Yes (62 stocks in sector broke out today)
 - Breakout History (5 past swings):
-  - 2026-07-29: +5.3% total | Entry: $260.92 | Stop: $249.97 | Last Close: $264.20 | Vol: 6,621,247 | PENDING
-  - 2026-07-14: +4.0% total | Entry: $270.65 | Stop: $249.50 | Last Close: $270.73 | Vol: 4,101,022 | STOPPED
-  - 2026-06-26: +17.8% total (2d swing) | Entry: $229.78 | Stop: $221.44 | Last Close: $260.36 | Vol: 9,628,005 | PROFIT_80_20
-  - 2026-05-29: +23.2% total (2d swing) | Entry: $234.25 | Stop: $226.22 | Last Close: $277.49 | Vol: 9,422,411 | BREAKEVEN
-  - 2026-05-07: +39.3% total (2d swing) | Entry: $149.46 | Stop: $177.68 | Last Close: $200.16 | Vol: 25,970,000 | PROFIT_80_20
+
+  | Date | Move% | Entry | Stop | Last Close | Volume | Result |
+  |------|-------|-------|------|------------|--------|--------|
+  | 2026-07-29 | +5.3% | $260.92 | $249.97 | $264.20 | 6,621,247 | PENDING |
+  | 2026-07-14 | +4.0% | $270.65 | $249.50 | $270.73 | 4,101,022 | STOPPED |
+  | 2026-06-26 | +17.8% (2d) | $229.78 | $221.44 | $260.36 | 9,628,005 | PROFIT_80_20 |
+  | 2026-05-29 | +23.2% (2d) | $234.25 | $226.22 | $277.49 | 9,422,411 | BREAKEVEN |
+  | 2026-05-07 | +39.3% (2d) | $149.46 | $177.68 | $200.16 | 25,970,000 | PROFIT_80_20 |
 - EMA:
   - EMA5: $255.22
   - EMA8: $254.75
@@ -416,11 +422,14 @@ RS_20d: 0.43 | RS_65d: 3.34
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (42 stocks in sector broke out today)
 - Breakout History (5 past swings):
-  - 2026-07-29: +9.3% total | Entry: $38.13 | Stop: $37.06 | Last Close: $40.07 | Vol: 3,865,397 | PENDING
-  - 2026-07-08: +5.0% total | Entry: $43.07 | Stop: $40.34 | Last Close: $43.49 | Vol: 1,904,916 | BREAKEVEN
-  - 2026-06-17: +81.7% total (2d swing) | Entry: $28.07 | Stop: $42.08 | Last Close: $49.04 | Vol: 19,709,008 | PROFIT_80_20
-  - 2026-05-29: +20.2% total (2d swing) | Entry: $25.84 | Stop: $27.31 | Last Close: $29.88 | Vol: 3,554,734 | PROFIT_80_20
-  - 2026-04-30: +73.9% total (6d swing) | Entry: $17.40 | Stop: $17.47 | Last Close: $29.10 | Vol: 4,437,500 | PROFIT_80_20
+
+  | Date | Move% | Entry | Stop | Last Close | Volume | Result |
+  |------|-------|-------|------|------------|--------|--------|
+  | 2026-07-29 | +9.3% | $38.13 | $37.06 | $40.07 | 3,865,397 | PENDING |
+  | 2026-07-08 | +5.0% | $43.07 | $40.34 | $43.49 | 1,904,916 | BREAKEVEN |
+  | 2026-06-17 | +81.7% (2d) | $28.07 | $42.08 | $49.04 | 19,709,008 | PROFIT_80_20 |
+  | 2026-05-29 | +20.2% (2d) | $25.84 | $27.31 | $29.88 | 3,554,734 | PROFIT_80_20 |
+  | 2026-04-30 | +73.9% (6d) | $17.40 | $17.47 | $29.10 | 4,437,500 | PROFIT_80_20 |
 - EMA:
   - EMA5: $38.91
   - EMA8: $39.22
@@ -441,11 +450,14 @@ RS_20d: 0.43 | RS_65d: 3.34
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (42 stocks in sector broke out today)
 - Breakout History (5 past swings):
-  - 2026-07-29: +6.8% total | Entry: $157.38 | Stop: $144.32 | Last Close: $161.66 | Vol: 3,137,806 | PENDING
-  - 2026-07-02: +7.8% total | Entry: $143.07 | Stop: $134.82 | Last Close: $148.34 | Vol: 1,241,013 | SUCCESS
-  - 2026-06-02: +18.0% total (2d swing) | Entry: $107.24 | Stop: $99.26 | Last Close: $121.69 | Vol: 1,867,000 | PROFIT_80_20
-  - 2026-04-30: +22.8% total | Entry: $121.64 | Stop: $129.59 | Last Close: $143.67 | Vol: 2,674,243 | PROFIT_80_20
-  - 2026-04-01: +4.6% total | Entry: $111.97 | Stop: $106.60 | Last Close: $112.64 | Vol: 1,000,414 | BREAKEVEN
+
+  | Date | Move% | Entry | Stop | Last Close | Volume | Result |
+  |------|-------|-------|------|------------|--------|--------|
+  | 2026-07-29 | +6.8% | $157.38 | $144.32 | $161.66 | 3,137,806 | PENDING |
+  | 2026-07-02 | +7.8% | $143.07 | $134.82 | $148.34 | 1,241,013 | SUCCESS |
+  | 2026-06-02 | +18.0% (2d) | $107.24 | $99.26 | $121.69 | 1,867,000 | PROFIT_80_20 |
+  | 2026-04-30 | +22.8% | $121.64 | $129.59 | $143.67 | 2,674,243 | PROFIT_80_20 |
+  | 2026-04-01 | +4.6% | $111.97 | $106.60 | $112.64 | 1,000,414 | BREAKEVEN |
 - EMA:
   - EMA5: $155.51
   - EMA8: $154.70
@@ -465,8 +477,11 @@ RS_20d: 0.43 | RS_65d: 3.34
 - Fund Ownership: 2500+ - Institutional Quality (big size)
 - Group Move: Yes (14 stocks in sector broke out today)
 - Breakout History (2 past swings):
-  - 2026-06-24: +4.4% total | Entry: $165.82 | Stop: $158.00 | Last Close: $166.45 | Vol: 2,980,800 | BREAKEVEN
-  - 2026-04-23: +7.9% total | Entry: $162.77 | Stop: $159.62 | Last Close: $168.89 | Vol: 2,736,500 | BREAKEVEN
+
+  | Date | Move% | Entry | Stop | Last Close | Volume | Result |
+  |------|-------|-------|------|------------|--------|--------|
+  | 2026-06-24 | +4.4% | $165.82 | $158.00 | $166.45 | 2,980,800 | BREAKEVEN |
+  | 2026-04-23 | +7.9% | $162.77 | $159.62 | $168.89 | 2,736,500 | BREAKEVEN |
 - EMA:
   - EMA5: $170.43
   - EMA8: $170.13
