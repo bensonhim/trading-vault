@@ -18,11 +18,11 @@ data_date: 2026-07-30
 > - **Breakouts:** 424 | **Breakdowns:** 196
 > - **Follow-through:** 3d=33.1% 5d=28.0% (FAILING)
 >
-> - T2108 falling >5 points in 5 days (54.7% to 48.0%) — correction in progress, do NOT give FULL_BULL
-> - Former leader SOXX/SMH rolling over with 20-day returns of -21%/-17.8% while 65-day RS remains positive — top forming
-> - Rally mature at 5 days with 20% study in caution territory — easy breakouts already happened
-> - Follow-through rate at 51% — breakouts barely working, reduce size
-> - Choppy Net Primary pattern (-199 to +30 to -132 to +17) — no sustained breadth improvement
+> - T2108 falling sharply (54.7% → 48.0%) — correction in progress, do not give FULL_BULL
+> - Rally mature at 5 days — easy breakouts already happened, reduce new entries
+> - 20% study bull:bear ratio < 1.0 (73 vs 82) — more stocks down 20% than up, distribution signal
+> - Breakout follow-through borderline at 51% — breakouts barely working, tight stops needed
+> - Former leaders SMH/SOXX show negative 20-day returns (-17.8%/-21.3%) with elevated 65-day RS — potential top forming pattern
 
 ---
 
