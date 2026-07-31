@@ -18,11 +18,11 @@ data_date: 2026-07-30
 > - **Breakouts:** 424 | **Breakdowns:** 196
 > - **Follow-through:** 3d=33.1% 5d=28.0% (FAILING)
 >
-> - T2108 falling >5 points in 5 days — correction in progress, do NOT give FULL_BULL
-> - Former leaders SOXX/SMH rolling over with high 65d RS but sharply negative 20d returns — top forming pattern
-> - Rally is mature (5 days) and extended — easy breakouts already happened
-> - 20% study bear:bull ratio < 1.0 (82 down vs 73 up) — distribution exceeding accumulation
-> - Follow-through at 51% — borderline, breakouts barely working
+> - T2108 falling >5 points in 5 days (54.7% to 48.0%) — correction in progress, do not give FULL_BULL
+> - 20% bull:bear ratio <1.0 (73/82) — more stocks down 20% than up, distribution signal
+> - Follow-through rate at 51% — borderline, breakouts barely working
+> - Rally is 5 days old and extended — easy breakouts already happened
+> - Former leaders SOXX/SMH down 17-21% in 20 days — leading sector rolling over, 65d RS still elevated but 20d returns deeply negative (top forming pattern)
 
 ---
 
@@ -298,6 +298,29 @@ RS_20d: 0.18 | RS_65d: 3.06
 | PYPL | $58.23 (+1%) | tight | 3 | |
 | FITB | $57.16 (+1%) | tight | 3 | |
 
+### Reversal Bullish — Selling Exhaustion (top 15)
+
+> [!info] Pradeep: 'When selling exhausts, the last seller has sold. Very little buying can turn the stock around.'
+> After 3-5+ days of selling, stock closes near high (hammer/doji). Enter 3:50-3:58 PM. Stop < 2.5%. Hold 3-5 days.
+
+| Ticker | Close | Close Pos | Down Days | 5d Return | Stop | Stop Width | Priority |
+|--------|-------|-----------|-----------|-----------|------|------------|----------|
+| INTC | $91.13 | 63.3% | 3d | -9.1% | $84.28 | 7.5% | high |
+| NVDA | $195.04 | 61.4% | 2d | -6.6% | $187.69 | 3.8% | high |
+| IREN | $38.26 | 98.7% | 3d | -5.7% | $31.67 | 17.2% | high |
+| MU | $874.66 | 91.6% | 3d | -11.7% | $773.23 | 11.6% | high |
+| MARA | $11.82 | 85.6% | 3d | -7.4% | $10.36 | 12.4% | high |
+| WULF | $17.82 | 77.8% | 3d | -11.1% | $16.05 | 9.9% | high |
+| CRWV | $73.90 | 76.3% | 3d | -8.9% | $66.20 | 10.4% | high |
+| META | $539.03 | 94.5% | 3d | -11.1% | $514.00 | 4.6% | high |
+| NBIS | $188.43 | 72.2% | 2d | -14.7% | $165.70 | 12.1% | high |
+| TSLA | $308.85 | 78.8% | 3d | -3.4% | $295.30 | 4.4% | high |
+| SMCI | $27.73 | 71.1% | 3d | -11.1% | $26.12 | 5.8% | high |
+| AMD | $485.39 | 68.4% | 3d | -10.1% | $448.53 | 7.6% | high |
+| CIFR | $22.66 | 91.3% | 3d | -12.2% | $19.14 | 15.5% | high |
+| BE | $207.12 | 72.1% | 2d | -4.7% | $181.18 | 12.5% | high |
+| CLSK | $14.54 | 84.6% | 3d | -6.9% | $12.63 | 13.1% | high |
+
 ---
 
 ## 7. Active Sugar Babies
@@ -334,7 +357,7 @@ RS_20d: 0.18 | RS_65d: 3.06
 - Industry: Medical - Devices
 - Sector: Healthcare
 - Sector ETF: XLV (healthcare_broad)
-- Market Cap: $2.1B
+- Market Cap: $2.2B
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (236 stocks in sector broke out today)
 - Breakout History (5 past swings):
