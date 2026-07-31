@@ -18,11 +18,11 @@ data_date: 2026-07-30
 > - **Breakouts:** 424 | **Breakdowns:** 196
 > - **Follow-through:** 3d=33.1% 5d=28.0% (FAILING)
 >
-> - T2108 falling sharply (54.7%→48.0% in 2 days) — correction in progress, cap at CAUTIOUS_BULL_LOW
-> - Follow-through rate declining: 58%→49%→40% — breakouts failing to sustain
-> - Leading sector IBB RS_20d (0.18) near zero while RS_65d high (3.06) — top forming pattern
-> - Semiconductors (SOXX -21.3%, SMH -17.8% in 20 days) — former leaders being crushed, dragging market
-> - Rally mature at 5 days and 20% study elevated (73) — extended, easy breakouts already happened
+> - T2108 falling sharply (>5 points in 5 days) — correction in progress, do not give full bull
+> - Leading sector IBB top-forming: 20d RS negative (0.18) while 65d RS still high (3.06) — institutional distribution in slow motion
+> - Rally mature (5 days) and extended — easy breakouts already happened, 20% study elevated at 73 with bearish bull:bear ratio (0.89)
+> - Breakout follow-through borderline at 51% — breakouts barely working
+> - Choppy breakout/breakdown pattern over 5 days — no sustained momentum either direction
 
 ---
 
@@ -251,12 +251,12 @@ RS_20d: 0.18 | RS_65d: 3.06
 
 | # | Ticker | Gap % | Change % | Volume | Priority | Notes |
 |---|--------|-------|----------|--------|----------|-------|
-| 1 | FCUV | +470.9% | +680.9% | 81,274,950.95132 | highest |  |
-| 2 | NWL | +26.5% | +13.5% | 34,291,348.82492 | highest |  |
-| 3 | AXTI | +80.4% | +31.2% | 23,617,863.52871 | highest |  |
-| 4 | AMZN | +16.9% | +15.0% | 89,825,066 | high |  |
-| 5 | REPL | +110.3% | +99.5% | 25,979,616.69533 | high |  |
-| 6 | SOC | +4.6% | +14.8% | 9,280,301 | high |  |
+| 1 | FCUV | +470.9% | +722.9% | 82,079,107 | highest |  |
+| 2 | NWL | +26.5% | +13.6% | 34,823,379.84585 | highest |  |
+| 3 | AXTI | +80.4% | +30.6% | 23,776,974.9646 | highest |  |
+| 4 | AMZN | +16.9% | +15.1% | 90,738,017 | high |  |
+| 5 | REPL | +110.3% | +97.7% | 26,138,034 | high |  |
+| 6 | SOC | +4.6% | +15.0% | 9,671,951 | high |  |
 
 ### DEP Candidates (0 found)
 
@@ -371,7 +371,7 @@ RS_20d: 0.18 | RS_65d: 3.06
 - Industry: Medical - Devices
 - Sector: Healthcare
 - Sector ETF: XLV (healthcare_broad)
-- Market Cap: $1.9B
+- Market Cap: $2.0B
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (236 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -483,7 +483,7 @@ RS_20d: 0.18 | RS_65d: 3.06
 - Industry: Medical - Diagnostics & Research
 - Sector: Healthcare
 - Sector ETF: XLV (healthcare_broad)
-- Market Cap: $5.6B
+- Market Cap: $5.7B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (236 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -514,8 +514,8 @@ RS_20d: 0.18 | RS_65d: 3.06
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| RBLX | -22.4% | -28.52% | $34.79 | $40.00 | earnings_miss (gap_down) |
-| RDDT | -17.0% | -21.16% | $140.37 | $151.36 | earnings_miss (gap_down) |
+| RBLX | -22.4% | -28.56% | $34.77 | $40.00 | earnings_miss (gap_down) |
+| RDDT | -17.0% | -20.86% | $140.90 | $151.36 | earnings_miss (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
