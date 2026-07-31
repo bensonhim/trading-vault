@@ -1,6 +1,6 @@
 ---
 title: "PLTR"
-date: 2026-07-30
+date: 2026-07-31
 tags: [tickers, wiki, auto-compiled]
 mention_count: 101
 sources_count: 58
@@ -56,10 +56,6 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-04-24.md|Session-2026-04-24]]: | [[PLTR]] | EP 9M short follow-through | "245x forward earnings." Clearest short |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-07.md|Session-2026-05-07]]: | [[PLTR]] | Historical example | Cluster of EP 9M, never recovered |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-28.md|Session-2026-05-28]]: - [[PLTR]]: EP 9M and Sugar Baby, but no catalyst — "I don't find their earnings impressive"
-
 > [[../../06-Daily/stockbee/Sessions/Session-2026-06-15.md|Session-2026-06-15]]: Two members presented watch lists. The first showed [[PLTR]], Amazon, Apple, Netflix, Microsoft — large-cap stocks with no clear EP 9M setups. Pradeep's response was blunt:
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-06-15.md|Session-2026-06-15]]: | [[PLTR]]   | No conviction       | "Not a fan of this stock; 20% probability"                                                                                                           |
@@ -93,6 +89,10 @@ promote: false
 > [[../../06-Daily/stockbee/Sessions/Session-2026-07-27.md|Session-2026-07-27]]: | [[PLTR]] | Short (existing) | Still holding, stop to breakeven |
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-07-28.md|Session-2026-07-28]]: ### PLTR Short — Trapped Buyers SIPs
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-28.md|Session-2026-07-28]]: | [[PLTR]] | Short / SIPs (trapped buyers) | Entered at open (125.83 OPG), closed 80% for profit, 20% runner with tight stop |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-28.md|Session-2026-07-28]]: | [[SMCI]] | Short candidate | "Same logic as Palantir." Considered but PLTR looked more appealing |
 
 ## Related Concepts
 

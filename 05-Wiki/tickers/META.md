@@ -1,6 +1,6 @@
 ---
 title: "META"
-date: 2026-07-30
+date: 2026-07-31
 tags: [tickers, wiki, auto-compiled]
 mention_count: 94
 sources_count: 54
@@ -54,18 +54,6 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-04-22.md|Session-2026-04-22]]: | [[META]] | Low threshold breakout | "We have better setups than META today." |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-05.md|Session-2026-05-05]]: | [[META]] | Investment in AI = negative reaction, but not a broken business | ❌ No |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-05.md|Session-2026-05-05]]: | [[META]] | Not a broken business | ❌ No DEP short |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-19.md|Session-2026-05-19]]: | [[META]] | Layoffs (10%), might break out eventually | "Keep an eye on it" but market not conducive |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-27.md|Session-2026-05-27]]: [[META]] dominates the PM session. Zuckerberg announces an Instagram subscription model, triggering aggressive buying:
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-10.md|Session-2026-06-10]]: | [[META]] | Short | "Zuckerberg needs a new haircut." Spending money like crazy, market doesn't like it. But wouldn't short based on that alone. |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-10.md|Session-2026-06-10]]: [[SNOW]] · [[RXT]] · [[AVGO]] · [[DELL]] · [[GLW]] · [[OKTA]] · [[NVDA]] · [[META]] · [[AMD]] · [[MSI]] · [[SHOP]] · [[CCL]] · [[NCLH]] · [[HON]] · [[TNA]] · [[IWM]] · [[SPX]] · [[COMP]] · [[BTC]] · [[LIII]]
-
 > [[../../06-Daily/stockbee/Sessions/Session-2026-06-24.md|Session-2026-06-24]]: | [[META]] | Downtrend |
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-06-24.md|Session-2026-06-24]]: 8. **5,000+ fund ownership stocks are all rolling over** — [[NVDA]], [[GOOG]], [[TSLA]], [[NFLX]], [[META]] all in pullback or downtrend. When this basket reverses, the market turns. Until then, chop.
@@ -93,6 +81,18 @@ promote: false
 > [[../../06-Daily/stockbee/Sessions/2024/Session-2024-02-13.md|Session-2024-02-13]]: - Stocks that gapped down ([[UBER]], [[META]]): immediate dip buyers
 
 > [[../../06-Daily/stockbee/Sessions/2024/Session-2024-02-14.md|Session-2024-02-14]]: - [[COIN]], [[AMD]], [[UBER]], [[ABNB]], [[META]], [[TSLA]]: gapping up
+
+> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-02-16.md|Session-2024-02-16]]: - 9M EP: [[SMCI]] parabolic, [[META]], [[TSLA]], [[GOOG]], [[SNAP]] (delayed reaction short)
+
+> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-02-21.md|Session-2024-02-21]]: - Stocks that made big earnings moves (META, AMZN, DECK) — ran out of gas, now sideways
+
+> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-02-22.md|Session-2024-02-22]]: - [[META]]: day-traded for fun on lower timeframe, not a swing — $1.2T market cap, not buying on a gap without catalyst
+
+> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-07-10.md|Session-2024-07-10]]: | [[META]] | Delayed reaction 9,000,000 | ⚠️ Possible | High-priced, delayed reaction |
+
+> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-07-10.md|Session-2024-07-10]]: | [[META]] | Delayed reaction 9,000,000 | ⚠️ Possible | High-priced, story-driven |
+
+> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-07-24.md|Session-2024-07-24]]: Nothing actionable. Large caps getting hammered. [[UNH]] and [[NVDA]] best-holding large caps. Everything else — AAPL, META, MSFT — looking like "wounded soldiers."
 
 ## Related Concepts
 

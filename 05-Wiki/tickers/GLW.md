@@ -1,16 +1,16 @@
 ---
 title: "GLW"
-date: 2026-07-30
+date: 2026-07-31
 tags: [tickers, wiki, auto-compiled]
-mention_count: 442
-sources_count: 157
+mention_count: 447
+sources_count: 158
 compilation_count: 1
 promote: false
 ---
 
 # GLW
 
-*Tickers — compiled from 442 mentions across 157 sources.*
+*Tickers — compiled from 447 mentions across 158 sources.*
 
 ## Mentions
 

@@ -1,16 +1,16 @@
 ---
 title: "MSFT"
-date: 2026-07-30
+date: 2026-07-31
 tags: [tickers, wiki, auto-compiled]
-mention_count: 61
-sources_count: 41
+mention_count: 63
+sources_count: 42
 compilation_count: 1
 promote: false
 ---
 
 # MSFT
 
-*Tickers — compiled from 61 mentions across 41 sources.*
+*Tickers — compiled from 63 mentions across 42 sources.*
 
 ## Mentions
 
@@ -48,24 +48,6 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-04-22.md|Session-2026-04-22]]: | [[MSFT]] | Extended, continuation | "Old people's stock." Not interested |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-01.md|Session-2026-05-01]]: | [[GOOG]] / [[MSFT]] | Good earnings for large caps, but they typically digest and make 8–15% moves. Not game-changing for this style |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-07.md|Session-2026-05-07]]: | [[MSFT]] | Gapping up | Money rotating into stocks that didn't participate. Not a typical fast mover. |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-28.md|Session-2026-05-28]]: | [[MSFT]] | Consolidation breakout attempt | Attracting buying but not following through; might become a [[BGOL]] |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-28.md|Session-2026-05-28]]: | [[MSFT]] | Consolidation breakout | Needs higher volume than yesterday; owned by 5,000 funds |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-04.md|Session-2026-06-04]]: Mentioned 7 tickers: NVDA, MSFT, EP, AAPL, TSLA, SOS, ANT | Setups: EP, SOS, ANT, WSS | Catalysts: earnings, news | Sentiment: sell, watch
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-04.md|Session-2026-06-04]]: 2 matches: NVDA, TSLA | 5 missed by radar: AAPL, ANT, EP, MSFT, SOS | 49 extras (radar only)
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-04.md|Session-2026-06-04]]: - [[MSFT]] -- **ADD TO WATCHLIST**
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-04.md|Session-2026-06-04]]: NVDA is making an EP after earnings. AAPL showing SOS. TSLA weak structure short. Bitcoin not our thing. Watch MSFT for ANT setup after guidance upgrade.
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-10.md|Session-2026-06-10]]: | **Liquid Lava** (mega-cap boring) | Large | [[AAPL]], [[MSFT]] |
-
 > [[../../06-Daily/stockbee/Sessions/Session-2026-06-15.md|Session-2026-06-15]]: | [[MSFT]]  | No excitement         | "Which fool am I going to sell Microsoft to?"                                                                          |
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-06-15.md|Session-2026-06-15]]: 10. **Context and qualifiers matter** — reversal bullish requires selling exhaustion. A reversal bullish on [[MSFT]] three days into a move is not reversal bullish. Context invalidates the pattern.
@@ -84,6 +66,10 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-07-27.md|Session-2026-07-27]]: | [[MSFT]] | Short candidate | Considered shorting — range-bound |
 
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-30.md|Session-2026-07-30]]: | [[MSFT]] | Earnings / SIPs / DEP candidate | "Good catalyst. Glacial move. Better as DEP. Watch for volume." |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-30.md|Session-2026-07-30]]: | [[MSFT]] | DEP candidate / SIPs | "Might go to $500, take out its high. 20% move but glacial. Better entry with lower risk." |
+
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-21.md|Session-2023-11-21]]: [[TSLA]] — liquid lava, continuation setup. [[MSFT]] — also showing continuation.
 
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-21.md|Session-2023-11-21]]: | [[MSFT]] | Continuation | 🔄 Watching | Setting up |
@@ -93,6 +79,20 @@ promote: false
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-12-05.md|Session-2023-12-05]]: | [[MSFT]] | — | ❌ Avoid | Faded, stopped out — move on |
 
 > [[../../06-Daily/stockbee/Sessions/2024/Session-2024-01-17.md|Session-2024-01-17]]: - Apple deteriorating, Microsoft selling (10,000 funds hold MSFT)
+
+> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-02-28.md|Session-2024-02-28]]: - Large caps (GOOGL, AAPL, AMZN, MSFT) going nowhere
+
+> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-07-24.md|Session-2024-07-24]]: Nothing actionable. Large caps getting hammered. [[UNH]] and [[NVDA]] best-holding large caps. Everything else — AAPL, META, MSFT — looking like "wounded soldiers."
+
+> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-08-22.md|Session-2024-08-22]]: | [[MSFT]] | Short (range expansion) | ⏳ Open | 1.78% risk, earnings not great, weak bounce |
+
+> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-08-26.md|Session-2024-08-26]]: | [[MSFT]] | Short (range expansion) | ✅ Working | In profit, stop moved to breakeven-plus |
+
+> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-08-27.md|Session-2024-08-27]]: | [[MSFT]] | Short (range expansion) | ✅ Working | Stop moved up, in profit |
+
+> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-01-22.md|Session-2025-01-22]]: | [[MSFT]] | Intraday SIPs | Catalyst | Gap up intraday opportunity only |
+
+> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-02-07.md|Session-2025-02-07]]: | [[MSFT]] | Bearish | Short (delayed reaction) | Short from $410.77, carrying overnight |
 
 ## Related Concepts
 

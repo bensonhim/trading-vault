@@ -1,6 +1,6 @@
 ---
 title: "GOOGL"
-date: 2026-07-30
+date: 2026-07-31
 tags: [tickers, wiki, auto-compiled]
 mention_count: 41
 sources_count: 26
@@ -31,16 +31,6 @@ promote: false
 > [[../../06-Daily/stockbee/Sessions/Session-2026-03-19.md|Session-2026-03-19]]: | [[Google (GOOGL)]] | Long — stopped out | ❌ Gave too much room. Stopped out at loss. |
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-03-19.md|Session-2026-03-19]]: | [[Google (GOOGL)]] | Setting up | Still believes it goes to $350-400. Setting up for possible run. |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-13.md|Session-2026-05-13]]: | [[GOOGL]] | Start of swing | Good setup but already 42% extended; liquid lava but risk/reward unfavorable in this market |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-13.md|Session-2026-05-13]]: | SOS | [[GOOGL]] | Already extended 42%; good setup, wrong market |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-27.md|Session-2026-05-27]]: Money is rotating into [[AMZN]], [[GOOGL]], and other lagging large-caps. Extended semis are bleeding but not reversing.
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-28.md|Session-2026-05-28]]: | [[GOOGL]] | Tight range | Getting tight; if it breaks out, maybe a move — but not fast |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-12.md|Session-2026-06-12]]: | [[GOOGL]]  | Reversal bullish (yesterday) | Pradeep bought at ~$158, sold 80% at ~$162.81 and $162.29, remainder stopped at $161; locked in profit on gap-up                       |
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-06-15.md|Session-2026-06-15]]: | [[GOOGL]] | Day one but fading    | "All things are fading"                                                                                                |
 
@@ -94,6 +84,16 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/2025/Session-2025-01-24.md|Session-2025-01-24]]: | [[GOOGL]] | VCP, 6-cup consolidation | Trying to break out, earnings ~10 days away, $5-10 upside potential |
 
+> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-01-27.md|Session-2025-01-27]]: | [[GOOGL]] | VCP trying | Down $7, trying to hold — earnings in ~10 days |
+
+> [[../../06-Daily/stockbee/Sessions/Archive/Session-2026-05-13.md|Session-2026-05-13]]: | [[GOOGL]] | Start of swing | Good setup but already 42% extended; liquid lava but risk/reward unfavorable in this market |
+
+> [[../../06-Daily/stockbee/Sessions/Archive/Session-2026-05-13.md|Session-2026-05-13]]: | SOS | [[GOOGL]] | Already extended 42%; good setup, wrong market |
+
+> [[../../06-Daily/stockbee/Sessions/Archive/Session-2026-05-27.md|Session-2026-05-27]]: Money is rotating into [[AMZN]], [[GOOGL]], and other lagging large-caps. Extended semis are bleeding but not reversing.
+
+> [[../../06-Daily/stockbee/Sessions/Archive/Session-2026-05-28.md|Session-2026-05-28]]: | [[GOOGL]] | Tight range | Getting tight; if it breaks out, maybe a move — but not fast |
+
 ## Related Concepts
 
 *(To be enriched)*
@@ -118,9 +118,9 @@ promote: false
 - [[../06-Daily/stockbee/Sessions/2025/Session-2025-01-06.md|Session-2025-01-06]]
 - [[../06-Daily/stockbee/Sessions/2025/Session-2025-01-24.md|Session-2025-01-24]]
 - [[../06-Daily/stockbee/Sessions/2025/Session-2025-01-27.md|Session-2025-01-27]]
+- [[../06-Daily/stockbee/Sessions/Archive/Session-2026-05-13.md|Session-2026-05-13]]
+- [[../06-Daily/stockbee/Sessions/Archive/Session-2026-05-27.md|Session-2026-05-27]]
+- [[../06-Daily/stockbee/Sessions/Archive/Session-2026-05-28.md|Session-2026-05-28]]
+- [[../06-Daily/stockbee/Sessions/Archive/Session-2026-06-12.md|Session-2026-06-12]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-02-18.md|Session-2026-02-18]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-03-17.md|Session-2026-03-17]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-03-18.md|Session-2026-03-18]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-03-19.md|Session-2026-03-19]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-05-13.md|Session-2026-05-13]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-05-27.md|Session-2026-05-27]]

@@ -1,6 +1,6 @@
 ---
 title: "HOOD"
-date: 2026-07-30
+date: 2026-07-31
 tags: [tickers, wiki, auto-compiled]
 mention_count: 57
 sources_count: 28
@@ -33,14 +33,6 @@ promote: false
 > [[../../06-Daily/stockbee/Sessions/Session-2026-01-15.md|Session-2026-01-15]]: 6. **Don't short retail favorites.** HOOD, TSLA, PLTR — too many dip buyers waiting.
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-03-31.md|Session-2026-03-31]]: | [[HOOD]] | Bottom fish | Might not be a bad idea. |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-01.md|Session-2026-05-01]]: Contrast with [[HOOD]]: no clear catalyst for sustained downside — just a one-day pullback.
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-01.md|Session-2026-05-01]]: 10. **Shorts need clear catalysts**: Lululemon (broken business) and Accenture (lost contracts + AI threat) are proper short candidates. HOOD (no clear catalyst for sustained downside) is not.
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-11.md|Session-2026-05-11]]: On [[HOOD]] (Robinhood): earnings were slowing down, theme was wrong. Don't chase non-theme stocks just because they look like breakouts.
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-11.md|Session-2026-06-11]]: | [[HOOD]] | Mentioned | Breakout candidate |
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-06-17.md|Session-2026-06-17]]: | **Setup** | Wrong setup inherently | Buying [[HOOD]] on day 5 of a swing — not an SOS |
 
@@ -94,6 +86,14 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/2025/Session-2025-02-14.md|Session-2025-02-14]]: | [[HOOD]] | Watch | Delayed reaction (moved from SIPs) | Just sitting after earnings |
 
+> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-02-20.md|Session-2025-02-20]]: - HOOD — delayed reaction
+
+> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-02-20.md|Session-2025-02-20]]: | [[HOOD]] | Bullish | Delayed reaction | — |
+
+> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-02-21.md|Session-2025-02-21]]: - HOOD, HIMS, RDDT — delayed reactions (but RDDT/HOOD had negative reactions, may be shorts)
+
+> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-02-21.md|Session-2025-02-21]]: - HOOD, HIMS, RDDT — delayed reactions (but RDDT/HOOD had negative reactions, may be shorts)
+
 ## Related Concepts
 
 *(To be enriched)*
@@ -121,6 +121,6 @@ promote: false
 - [[../06-Daily/stockbee/Sessions/2025/Session-2025-08-13.md|Session-2025-08-13]]
 - [[../06-Daily/stockbee/Sessions/2025/Session-2025-08-14.md|Session-2025-08-14]]
 - [[../06-Daily/stockbee/Sessions/2025/Session-2025-08-20.md|Session-2025-08-20]]
-- [[../06-Daily/stockbee/Sessions/Session-2025-01-23.md|Session-2025-01-23]]
-- [[../06-Daily/stockbee/Sessions/Session-2025-05-27.md|Session-2025-05-27]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-01-02.md|Session-2026-01-02]]
+- [[../06-Daily/stockbee/Sessions/Archive/Session-2026-05-01.md|Session-2026-05-01]]
+- [[../06-Daily/stockbee/Sessions/Archive/Session-2026-05-11.md|Session-2026-05-11]]
+- [[../06-Daily/stockbee/Sessions/Archive/Session-2026-06-11.md|Session-2026-06-11]]

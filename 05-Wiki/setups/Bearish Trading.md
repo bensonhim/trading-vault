@@ -1,6 +1,6 @@
 ---
 title: "Bearish Trading"
-date: 2026-07-30
+date: 2026-07-31
 tags: [setups, wiki, auto-compiled]
 mention_count: 12
 sources_count: 8

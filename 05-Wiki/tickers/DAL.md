@@ -1,6 +1,6 @@
 ---
 title: "DAL"
-date: 2026-07-30
+date: 2026-07-31
 tags: [tickers, wiki, auto-compiled]
 mention_count: 60
 sources_count: 30
@@ -84,15 +84,15 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-02-13.md|Session-2026-02-13]]: | [[DAL]] | Done (short side) | Avoid | Multiple legs down, no juice left |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-20.md|Session-2026-05-20]]: | [[DAL]] (Delta) | Lower oil = airline profitability | Clear airline ETF breakout |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-21.md|Session-2026-05-21]]: | Airlines (JETS, DAL, etc.)       | Based on Iran/oil rumor                             | Speculative, tricky unless long-term hold                                |
-
 > [[../../06-Daily/stockbee/Sessions/2024/Session-2024-01-12.md|Session-2024-01-12]]: | Long | [[DAL]] | SIPs (airlines earnings) | Earnings play, but faded after gap |
 
 > [[../../06-Daily/stockbee/Sessions/2024/Session-2024-01-16.md|Session-2024-01-16]]: - DAL short: worked
 
 > [[../../06-Daily/stockbee/Sessions/2024/Session-2024-01-17.md|Session-2024-01-17]]: - **Short side** working — BA, DAL
+
+> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-01-18.md|Session-2024-01-18]]: - [[DAL]] — watching closely, want to put real size on it
+
+> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-01-18.md|Session-2024-01-18]]: 8. **DAL** — watching for second trade with real size
 
 ## Related Concepts
 

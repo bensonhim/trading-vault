@@ -1,16 +1,16 @@
 ---
 title: "AMZN"
-date: 2026-07-30
+date: 2026-07-31
 tags: [tickers, wiki, auto-compiled]
-mention_count: 56
-sources_count: 39
+mention_count: 57
+sources_count: 40
 compilation_count: 1
 promote: false
 ---
 
 # AMZN
 
-*Tickers — compiled from 56 mentions across 39 sources.*
+*Tickers — compiled from 57 mentions across 40 sources.*
 
 ## Mentions
 
@@ -40,23 +40,13 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-04-17.md|Session-2026-04-17]]: | [[AMZN]] (Amazon) | Anticipation, but not tight enough | "Not a very tight pant." Almost broke out. Would remove |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-01.md|Session-2026-05-01]]: | [[AMZN]] | "Don't get involved." Extended. Historically, every good Amazon earnings = Bezos sells and it crashes |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-13.md|Session-2026-05-13]]: | SOS | [[AMZN]] | Start of swing, semis theme; not chasing |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-18.md|Session-2026-05-18]]: | [[AMZN]] | Already fading, third leg |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-19.md|Session-2026-05-19]]: | [[AMZN]] | Tried to break out yesterday | Breakout failing |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-27.md|Session-2026-05-27]]: Money is rotating into [[AMZN]], [[GOOGL]], and other lagging large-caps. Extended semis are bleeding but not reversing.
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-11.md|Session-2026-06-11]]: | [[AMZN]] | Reversal Bullish | Mentioned as a reversal play |
-
 > [[../../06-Daily/stockbee/Sessions/Session-2026-06-17.md|Session-2026-06-17]]: | [[AMZN]] | Fading | Don't short — always has buyers |
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-06-29.md|Session-2026-06-29]]: | [[AMZN]] | On scan | Not commented as high-conviction |
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-07-16.md|Session-2026-07-16]]: | [[AMZN]] | Money flowing in | Defensive rotation |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-30.md|Session-2026-07-30]]: | [[AMZN]] | Earnings today | "If you buy before earnings, you may not be around tomorrow." |
 
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-01.md|Session-2023-11-01]]: | [[AMZN]] | Earnings Reaction | ✅ Positive reaction | Reacted positively to earnings |
 
@@ -93,6 +83,16 @@ promote: false
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-09.md|Session-2023-11-09]]: | [[AMZN]] | Antipation (held) | ✅ Sold for profit | 3rd day, profit protection |
 
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-22.md|Session-2023-11-22]]: [[AMD]], [[AMZN]], [[SRC]], [[IWM]], [[CCL]] — all stopped out. Only [[STNA]] remaining.
+
+> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-22.md|Session-2023-11-22]]: | [[AMZN]] | — | ⚠️ Stopped out | Turned negative |
+
+> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-12-05.md|Session-2023-12-05]]: | [[AMZN]] | Liquid Lava | ⚠️ Faded | Took stop out |
+
+> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-12-18.md|Session-2023-12-18]]: | [[AMZN]] | Extended | ❌ 4th day | Fourth day of breakout, too late |
+
+> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-12-20.md|Session-2023-12-20]]: 9M EP shows mostly extended stocks — NVDA, AMZN, GOOGL, AAPL, TSLA — all extended. Nothing actionable in the scans.
+
+> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-12-20.md|Session-2023-12-20]]: | [[AMZN]] | Breakout | ❌ Fading | Tried to break out, got hammered back |
 
 ## Related Concepts
 

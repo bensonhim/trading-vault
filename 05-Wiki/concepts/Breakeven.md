@@ -1,16 +1,16 @@
 ---
 title: "Breakeven"
-date: 2026-07-30
+date: 2026-07-31
 tags: [concepts, wiki, auto-compiled]
-mention_count: 54271
-sources_count: 1724
+mention_count: 54380
+sources_count: 1727
 compilation_count: 1
 promote: false
 ---
 
 # Breakeven
 
-*Concepts — compiled from 54271 mentions across 1724 sources.*
+*Concepts — compiled from 54380 mentions across 1727 sources.*
 
 ## Mentions
 

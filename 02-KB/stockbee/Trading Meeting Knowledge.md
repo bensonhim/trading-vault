@@ -1,13 +1,13 @@
 ---
 title: "Trading Meeting Knowledge"
-date: 2026-07-30
+date: 2026-07-31
 tags: [knowledge, pradeep-bonde, meetings, methodology, market-monitor, evolving, trading]
 ---
 
 # Trading Meeting Knowledge
 
-> Living document compiled from 914 StockBee daily meeting transcripts (May 1 – Jun 10, 2026).
-> Last updated: **Thursday, July 30, 2026**
+> Living document compiled from 916 StockBee daily meeting transcripts (May 1 – Jun 10, 2026).
+> Last updated: **Friday, July 31, 2026**
 > This note distills **how Pradeep monitors the market** and **applies his trading methodology** in real-time.
 
 ---
@@ -136,23 +136,23 @@ From daily meeting commentary:
 
 Tickers repeatedly discussed across sessions (setup candidates, examples, or warnings):
 
-- [[EP]] — mentioned 3451 times
-- [[AI]] — mentioned 1429 times
+- [[EP]] — mentioned 3457 times
+- [[AI]] — mentioned 1432 times
 - [[AMD]] — mentioned 811 times
-- [[DEP]] — mentioned 631 times
-- [[US]] — mentioned 598 times
-- [[AM]] — mentioned 556 times
+- [[DEP]] — mentioned 635 times
+- [[US]] — mentioned 599 times
+- [[AM]] — mentioned 557 times
 - [[TQQ]] — mentioned 523 times
 - [[IPO]] — mentioned 520 times
 - [[SMCI]] — mentioned 487 times
 - [[LTV]] — mentioned 463 times
 - [[IWM]] — mentioned 449 times
-- [[OPG]] — mentioned 406 times
-- [[PM]] — mentioned 394 times
+- [[OPG]] — mentioned 415 times
+- [[PM]] — mentioned 395 times
 - [[TNA]] — mentioned 384 times
 - [[FOMO]] — mentioned 382 times
 - [[COVID]] — mentioned 339 times
-- [[NTRT]] — mentioned 323 times
+- [[NTRT]] — mentioned 326 times
 - [[SOS]] — mentioned 315 times
 - [[CEO]] — mentioned 236 times
 - [[ETF]] — mentioned 235 times
@@ -203,6 +203,7 @@ Tickers repeatedly discussed across sessions (setup candidates, examples, or war
 
 All daily session curated notes:
 
+- [[Session-2026-07-30.md|Session-2026-07-30]]
 - [[Session-2026-07-29.md|Session-2026-07-29]]
 - [[Session-2026-07-28.md|Session-2026-07-28]]
 - [[Session-2026-07-27.md|Session-2026-07-27]]
@@ -228,35 +229,6 @@ All daily session curated notes:
 - [[Session-2026-06-17.md|Session-2026-06-17]]
 - [[Session-2026-06-16.md|Session-2026-06-16]]
 - [[Session-2026-06-15.md|Session-2026-06-15]]
-- [[Session-2026-06-12.md|Session-2026-06-12]]
-- [[Session-2026-06-11.md|Session-2026-06-11]]
-- [[Session-2026-06-10.md|Session-2026-06-10]]
-- [[Session-2026-06-09.md|Session-2026-06-09]]
-- [[Session-2026-06-08.md|Session-2026-06-08]]
-- [[Session-2026-06-05.md|Session-2026-06-05]]
-- [[Session-2026-06-04.md|Session-2026-06-04]]
-- [[Session-2026-06-03.md|Session-2026-06-03]]
-- [[Session-2026-06-02.md|Session-2026-06-02]]
-- [[Session-2026-06-01.md|Session-2026-06-01]]
-- [[Session-2026-05-28.md|Session-2026-05-28]]
-- [[Session-2026-05-27.md|Session-2026-05-27]]
-- [[Session-2026-05-26.md|Session-2026-05-26]]
-- [[Session-2026-05-22.md|Session-2026-05-22]]
-- [[Session-2026-05-21.md|Session-2026-05-21]]
-- [[Session-2026-05-20.md|Session-2026-05-20]]
-- [[Session-2026-05-19.md|Session-2026-05-19]]
-- [[Session-2026-05-18.md|Session-2026-05-18]]
-- [[Session-2026-05-15.md|Session-2026-05-15]]
-- [[Session-2026-05-14.md|Session-2026-05-14]]
-- [[Session-2026-05-13.md|Session-2026-05-13]]
-- [[Session-2026-05-12.md|Session-2026-05-12]]
-- [[Session-2026-05-11.md|Session-2026-05-11]]
-- [[Session-2026-05-09.md|Session-2026-05-09]]
-- [[Session-2026-05-07.md|Session-2026-05-07]]
-- [[Session-2026-05-06.md|Session-2026-05-06]]
-- [[Session-2026-05-05.md|Session-2026-05-05]]
-- [[Session-2026-05-04.md|Session-2026-05-04]]
-- [[Session-2026-05-01.md|Session-2026-05-01]]
 - [[Session-2026-04-28.md|Session-2026-04-28]]
 - [[Session-2026-04-27.md|Session-2026-04-27]]
 - [[Session-2026-04-24.md|Session-2026-04-24]]
@@ -500,7 +472,7 @@ All daily session curated notes:
 
 | Date | Change |
 |------|--------|
-| 2026-07-30 | Initial creation from 914 meeting transcripts (May 1 – Jun 10, 2026) |
+| 2026-07-31 | Initial creation from 916 meeting transcripts (May 1 – Jun 10, 2026) |
 
 ---
 

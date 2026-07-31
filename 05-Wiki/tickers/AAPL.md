@@ -1,16 +1,16 @@
 ---
 title: "AAPL"
-date: 2026-07-30
+date: 2026-07-31
 tags: [tickers, wiki, auto-compiled]
-mention_count: 63
-sources_count: 44
+mention_count: 64
+sources_count: 45
 compilation_count: 1
 promote: false
 ---
 
 # AAPL
 
-*Tickers — compiled from 63 mentions across 44 sources.*
+*Tickers — compiled from 64 mentions across 45 sources.*
 
 ## Mentions
 
@@ -50,26 +50,6 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-04-17.md|Session-2026-04-17]]: | [[AAPL]] (Apple) | Still not flying | "In a market where things are flying, why is Apple not flying?" |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-01.md|Session-2026-05-01]]: | [[AAPL]] | SIPs candidate — slow mover, up only 1.7%, might make $3–5 |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-05.md|Session-2026-05-05]]: The PM session doubled down on the morning's core message. A member asked about [[AAPL]]:
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-05.md|Session-2026-05-05]]: He then showed what a real DEP looks like — [[GLW]] — with a clear catalyst and high-volume breakout, contrasting it with AAPL which has no catalyst.
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-05.md|Session-2026-05-05]]: | [[AAPL]] | No catalyst, not a DEP | ❌ Rejected |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-04.md|Session-2026-06-04]]: Mentioned 7 tickers: NVDA, MSFT, EP, AAPL, TSLA, SOS, ANT | Setups: EP, SOS, ANT, WSS | Catalysts: earnings, news | Sentiment: sell, watch
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-04.md|Session-2026-06-04]]: 2 matches: NVDA, TSLA | 5 missed by radar: AAPL, ANT, EP, MSFT, SOS | 49 extras (radar only)
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-04.md|Session-2026-06-04]]: - [[AAPL]] -- **ADD TO WATCHLIST**
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-04.md|Session-2026-06-04]]: NVDA is making an EP after earnings. AAPL showing SOS. TSLA weak structure short. Bitcoin not our thing. Watch MSFT for ANT setup after guidance upgrade.
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-10.md|Session-2026-06-10]]: | **Liquid Lava** (mega-cap boring) | Large | [[AAPL]], [[MSFT]] |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-12.md|Session-2026-06-12]]: | [[AAPL]] | Possible short shot | "No compelling reason why Apple should go down" — not really actionable |
-
 > [[../../06-Daily/stockbee/Sessions/Session-2026-06-25.md|Session-2026-06-25]]: | [[AAPL]] | Price increase news   | "Not really convinced this is going to follow through — look at the volume. The volume is not there."                          |
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-06-29.md|Session-2026-06-29]]: | [[AAPL]] | Probable short | On watch list as short candidate |
@@ -88,11 +68,31 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-07-29.md|Session-2026-07-29]]: | [[AAPL]] | Selling | Down with semis |
 
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-30.md|Session-2026-07-30]]: | [[AAPL]] | Selling | "One leg, second leg, third leg. Fourth time lucky — probability not high." |
+
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-20.md|Session-2023-11-20]]: [[QQQ]], [[SPY]], [[BABA]], [[AAPL]], [[UBER]] — all showing continuation setups. The first leg has formed, now watching for second legs.
 
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-20.md|Session-2023-11-20]]: 8. **Continuation setups forming** — QQQ, SPY, AAPL, UBER showing second-leg potential
 
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-20.md|Session-2023-11-20]]: | [[AAPL]] | Continuation | ⏳ Watching | Second leg potential |
+
+> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-12-05.md|Session-2023-12-05]]: | [[AAPL]] | Liquid Lava | ✅ Best play | Missed entry — should have loaded up |
+
+> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-12-20.md|Session-2023-12-20]]: 9M EP shows mostly extended stocks — NVDA, AMZN, GOOGL, AAPL, TSLA — all extended. Nothing actionable in the scans.
+
+> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-12-21.md|Session-2023-12-21]]: 9M EP: IREN (9M breakout, showed up early), CCL (extended, catalyst today), NVDA, AAPL — mostly extended.
+
+> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-12-21.md|Session-2023-12-21]]: | [[AAPL]] | — | ❌ No traction | Breakout not getting traction |
+
+> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-02-06.md|Session-2024-02-06]]: - [[AAPL]] not in good shape, [[META]] giving up gains (not a surprise — does this every time)
+
+> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-02-28.md|Session-2024-02-28]]: - Large caps (GOOGL, AAPL, AMZN, MSFT) going nowhere
+
+> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-07-24.md|Session-2024-07-24]]: Nothing actionable. Large caps getting hammered. [[UNH]] and [[NVDA]] best-holding large caps. Everything else — AAPL, META, MSFT — looking like "wounded soldiers."
+
+> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-01-21.md|Session-2025-01-21]]: | [[AAPL]] | Institutional selling | N/A | Clearly institutional selling — bearish signal |
+
+> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-01-23.md|Session-2025-01-23]]: | [[AAPL]] | Bearish (institutional selling) | N/A | Watching for breakdown |
 
 ## Related Concepts
 

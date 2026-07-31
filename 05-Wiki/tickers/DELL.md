@@ -1,6 +1,6 @@
 ---
 title: "DELL"
-date: 2026-07-30
+date: 2026-07-31
 tags: [tickers, wiki, auto-compiled]
 mention_count: 38
 sources_count: 19
@@ -15,40 +15,6 @@ promote: false
 ## Mentions
 
 > [[../../03-Guides/stockbee/Sugar-Babies.md|Sugar-Babies]]: | DELL | Current Sugar Baby; tight setup entries |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-01.md|Session-2026-06-01]]: A long-time member blew up his entire account by shorting [[DELL]] — an extended stock with no bearish setup.
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-05.md|Session-2026-06-05]]: - [[DELL]] — Dell (had breakout yesterday, likely to pull back)
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-08.md|Session-2026-06-08]]: | [[DELL]] | Avoid | Already rallied 221% into catalyst — "not my A category setup" |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-08.md|Session-2026-06-08]]: ### [[DELL]] — Why Not
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-08.md|Session-2026-06-08]]: Only a handful made the list: [[HPQ]], [[DELL]] (more anticipation than reversal), [[TTWO]] (Take-Two), [[SATS]] (EcoStar). Minimal conviction.
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-08.md|Session-2026-06-08]]: 6. **Neglect = explosiveness.** [[SNOW]] coming out of neglect has much better upside geometry than [[DELL]] which already rallied 221%.
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-09.md|Session-2026-06-09]]: | 3        | [[DELL]] | Watch (not ready)         | Needs more sideways time before setup forms                                                    |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-09.md|Session-2026-06-09]]: | [[DELL]] | Okay | Holding up but not exciting |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-10.md|Session-2026-06-10]]: | [[RXT]]            | EP 9M / Sugar Baby    | AI signs contract with AMD — clear catalyst. Tight structure. Story stock. Better than [[DELL]] because of tightness + catalyst.                                                            |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-10.md|Session-2026-06-10]]: | [[DELL]]           | Breakout              | Good breakout yesterday, but follow-through uncertain in this market.                                                                                                                       |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-10.md|Session-2026-06-10]]: | **Cat** (institutional) | Large | [[SNOW]] (2,000+ funds), [[NVDA]], [[DELL]] |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-10.md|Session-2026-06-10]]: [[SNOW]] · [[RXT]] · [[AVGO]] · [[DELL]] · [[GLW]] · [[OKTA]] · [[NVDA]] · [[META]] · [[AMD]] · [[MSI]] · [[SHOP]] · [[CCL]] · [[NCLH]] · [[HON]] · [[TNA]] · [[IWM]] · [[SPX]] · [[COMP]] · [[BTC]] · [[LIII]]
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-11.md|Session-2026-06-11]]: | [[DELL]] | DEP (Delayed Reaction EP)    | Catalyst present; not extended yet; appeared on PM watchlist as one of the best setups                              |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-11.md|Session-2026-06-11]]: | [[DELL]] | DEP (Delayed Reaction EP) | Best setup of the day; has catalyst; not extended; low-risk stop possible |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-12.md|Session-2026-06-12]]: | [[DELL]]   | Yesterday's breakout         | Following through nicely; "having a good nice day"                                                                                     |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-12.md|Session-2026-06-12]]: | [[DELL]] | Yesterday's breakout | "Much better opportunities than space stocks" |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-12.md|Session-2026-06-12]]: > "You go to stories when you have nothing else to do. You had real breakouts happening yesterday. [[SNDK]], [[MU]], [[Marvel]], [[DELL]] breaking out — which is a real catalyst. And here, this fugazi."
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-06-15.md|Session-2026-06-15]]: - [[DELL]] — gapped up $14-15, Pradeep sold 90% of his position into strength
 
@@ -90,6 +56,40 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/2025/Session-2025-08-29.md|Session-2025-08-29]]: 10. **DELL insiders selling hand over fist** — delayed reaction bearish
 
+> [[../../06-Daily/stockbee/Sessions/Archive/Session-2026-06-01.md|Session-2026-06-01]]: A long-time member blew up his entire account by shorting [[DELL]] — an extended stock with no bearish setup.
+
+> [[../../06-Daily/stockbee/Sessions/Archive/Session-2026-06-05.md|Session-2026-06-05]]: - [[DELL]] — Dell (had breakout yesterday, likely to pull back)
+
+> [[../../06-Daily/stockbee/Sessions/Archive/Session-2026-06-08.md|Session-2026-06-08]]: | [[DELL]] | Avoid | Already rallied 221% into catalyst — "not my A category setup" |
+
+> [[../../06-Daily/stockbee/Sessions/Archive/Session-2026-06-08.md|Session-2026-06-08]]: ### [[DELL]] — Why Not
+
+> [[../../06-Daily/stockbee/Sessions/Archive/Session-2026-06-08.md|Session-2026-06-08]]: Only a handful made the list: [[HPQ]], [[DELL]] (more anticipation than reversal), [[TTWO]] (Take-Two), [[SATS]] (EcoStar). Minimal conviction.
+
+> [[../../06-Daily/stockbee/Sessions/Archive/Session-2026-06-08.md|Session-2026-06-08]]: 6. **Neglect = explosiveness.** [[SNOW]] coming out of neglect has much better upside geometry than [[DELL]] which already rallied 221%.
+
+> [[../../06-Daily/stockbee/Sessions/Archive/Session-2026-06-09.md|Session-2026-06-09]]: | 3        | [[DELL]] | Watch (not ready)         | Needs more sideways time before setup forms                                                    |
+
+> [[../../06-Daily/stockbee/Sessions/Archive/Session-2026-06-09.md|Session-2026-06-09]]: | [[DELL]] | Okay | Holding up but not exciting |
+
+> [[../../06-Daily/stockbee/Sessions/Archive/Session-2026-06-10.md|Session-2026-06-10]]: | [[RXT]]            | EP 9M / Sugar Baby    | AI signs contract with AMD — clear catalyst. Tight structure. Story stock. Better than [[DELL]] because of tightness + catalyst.                                                            |
+
+> [[../../06-Daily/stockbee/Sessions/Archive/Session-2026-06-10.md|Session-2026-06-10]]: | [[DELL]]           | Breakout              | Good breakout yesterday, but follow-through uncertain in this market.                                                                                                                       |
+
+> [[../../06-Daily/stockbee/Sessions/Archive/Session-2026-06-10.md|Session-2026-06-10]]: | **Cat** (institutional) | Large | [[SNOW]] (2,000+ funds), [[NVDA]], [[DELL]] |
+
+> [[../../06-Daily/stockbee/Sessions/Archive/Session-2026-06-10.md|Session-2026-06-10]]: [[SNOW]] · [[RXT]] · [[AVGO]] · [[DELL]] · [[GLW]] · [[OKTA]] · [[NVDA]] · [[META]] · [[AMD]] · [[MSI]] · [[SHOP]] · [[CCL]] · [[NCLH]] · [[HON]] · [[TNA]] · [[IWM]] · [[SPX]] · [[COMP]] · [[BTC]] · [[LIII]]
+
+> [[../../06-Daily/stockbee/Sessions/Archive/Session-2026-06-11.md|Session-2026-06-11]]: | [[DELL]] | DEP (Delayed Reaction EP)    | Catalyst present; not extended yet; appeared on PM watchlist as one of the best setups                              |
+
+> [[../../06-Daily/stockbee/Sessions/Archive/Session-2026-06-11.md|Session-2026-06-11]]: | [[DELL]] | DEP (Delayed Reaction EP) | Best setup of the day; has catalyst; not extended; low-risk stop possible |
+
+> [[../../06-Daily/stockbee/Sessions/Archive/Session-2026-06-12.md|Session-2026-06-12]]: | [[DELL]]   | Yesterday's breakout         | Following through nicely; "having a good nice day"                                                                                     |
+
+> [[../../06-Daily/stockbee/Sessions/Archive/Session-2026-06-12.md|Session-2026-06-12]]: | [[DELL]] | Yesterday's breakout | "Much better opportunities than space stocks" |
+
+> [[../../06-Daily/stockbee/Sessions/Archive/Session-2026-06-12.md|Session-2026-06-12]]: > "You go to stories when you have nothing else to do. You had real breakouts happening yesterday. [[SNDK]], [[MU]], [[Marvel]], [[DELL]] breaking out — which is a real catalyst. And here, this fugazi."
+
 ## Related Concepts
 
 *(To be enriched)*
@@ -102,13 +102,13 @@ promote: false
 
 - [[../03-Guides/stockbee/Sugar-Babies.md|Sugar-Babies]]
 - [[../06-Daily/stockbee/Sessions/2025/Session-2025-08-29.md|Session-2025-08-29]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-06-01.md|Session-2026-06-01]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-06-05.md|Session-2026-06-05]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-06-08.md|Session-2026-06-08]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-06-09.md|Session-2026-06-09]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-06-10.md|Session-2026-06-10]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-06-11.md|Session-2026-06-11]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-06-12.md|Session-2026-06-12]]
+- [[../06-Daily/stockbee/Sessions/Archive/Session-2026-06-01.md|Session-2026-06-01]]
+- [[../06-Daily/stockbee/Sessions/Archive/Session-2026-06-05.md|Session-2026-06-05]]
+- [[../06-Daily/stockbee/Sessions/Archive/Session-2026-06-08.md|Session-2026-06-08]]
+- [[../06-Daily/stockbee/Sessions/Archive/Session-2026-06-09.md|Session-2026-06-09]]
+- [[../06-Daily/stockbee/Sessions/Archive/Session-2026-06-10.md|Session-2026-06-10]]
+- [[../06-Daily/stockbee/Sessions/Archive/Session-2026-06-11.md|Session-2026-06-11]]
+- [[../06-Daily/stockbee/Sessions/Archive/Session-2026-06-12.md|Session-2026-06-12]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-06-15.md|Session-2026-06-15]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-06-16.md|Session-2026-06-16]]
 - [[../06-Daily/stockbee/Sessions/Session-2026-06-17.md|Session-2026-06-17]]

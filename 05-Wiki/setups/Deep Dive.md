@@ -1,16 +1,16 @@
 ---
 title: "Deep Dive"
-date: 2026-07-30
+date: 2026-07-31
 tags: [setups, wiki, auto-compiled]
-mention_count: 1225
-sources_count: 381
+mention_count: 1227
+sources_count: 383
 compilation_count: 1
 promote: false
 ---
 
 # Deep Dive
 
-*Setups — compiled from 1225 mentions across 381 sources.*
+*Setups — compiled from 1227 mentions across 383 sources.*
 
 ## Mentions
 

@@ -1,6 +1,6 @@
 ---
 title: "CRM"
-date: 2026-07-30
+date: 2026-07-31
 tags: [tickers, wiki, auto-compiled]
 mention_count: 163
 sources_count: 99

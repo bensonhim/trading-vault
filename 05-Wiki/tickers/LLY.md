@@ -1,6 +1,6 @@
 ---
 title: "LLY"
-date: 2026-07-30
+date: 2026-07-31
 tags: [tickers, wiki, auto-compiled]
 mention_count: 108
 sources_count: 49

@@ -1,6 +1,6 @@
 ---
 title: "RXT"
-date: 2026-07-30
+date: 2026-07-31
 tags: [tickers, wiki, auto-compiled]
 mention_count: 51
 sources_count: 30
@@ -80,19 +80,19 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-01-30.md|Session-2026-01-30]]: | [[RXT]] | Fugazi catalyst | Avoid | Fake Microsoft partnership |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-09.md|Session-2026-05-09]]: | [[RXT]] | AI science contract with [[AMD]] | +55% (day 1), continued day 2 | Classic SIPs — clear catalyst, huge short squeeze |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-17.md|Session-2026-06-17]]: | [[RXT]] | EP 9M with Palantir catalyst | Example of surprise — near-bankrupt company transforms |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-09.md|Session-2026-05-09]]: | 3 | **Short interest** | Higher = better; 5+ days to cover is good. RXT had 22% of float short |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-23.md|Session-2026-06-23]]: | [[RXT]] | No trade | "It looks start of a swing, but RXT? No." — poor setup in this context |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-09.md|Session-2026-05-09]]: - [[RXT]] continued its move on day 2 after the AMD AI contract catalyst
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-23.md|Session-2026-06-23]]: | [[RXT]] | No trade | "It looks start of a swing, but RXT? No." — poor setup in this context |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-09.md|Session-2026-05-09]]: | **Fund-quality SIPs** | Institutional stocks with real catalysts | [[Rocket Lab]], Qualcomm, [[RXT]] | More liquid, less volatile, but still 20%+ moves possible |
+> [[../../06-Daily/stockbee/Sessions/Session-2026-06-23.md|Session-2026-06-23]]: | [[RXT]] | No trade | Poor setup in this context (confirmed from AM) |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-09.md|Session-2026-05-09]]: | AI contract / sector theme | Potentially multi-day | [[RXT]] + AMD AI deal |
+> [[../../06-Daily/stockbee/Sessions/Archive/Session-2026-05-09.md|Session-2026-05-09]]: | [[RXT]] | AI science contract with [[AMD]] | +55% (day 1), continued day 2 | Classic SIPs — clear catalyst, huge short squeeze |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-11.md|Session-2026-05-11]]: | [[RXT]] | Exhaustion signal | "Classic exhaustion signal" if it closes like that |
+> [[../../06-Daily/stockbee/Sessions/Archive/Session-2026-05-09.md|Session-2026-05-09]]: | 3 | **Short interest** | Higher = better; 5+ days to cover is good. RXT had 22% of float short |
 
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-11.md|Session-2026-05-11]]: [[RXT]], [[COHR]] (Coherent) were flagged as exhaustion signals. The pattern: extended stocks in AI/data center theme reaching parabolic extremes.
+> [[../../06-Daily/stockbee/Sessions/Archive/Session-2026-05-09.md|Session-2026-05-09]]: - [[RXT]] continued its move on day 2 after the AMD AI contract catalyst
 
 ## Related Concepts
 

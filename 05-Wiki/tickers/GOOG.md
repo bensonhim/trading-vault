@@ -1,6 +1,6 @@
 ---
 title: "GOOG"
-date: 2026-07-30
+date: 2026-07-31
 tags: [tickers, wiki, auto-compiled]
 mention_count: 66
 sources_count: 41
@@ -33,28 +33,6 @@ promote: false
 > [[../../06-Daily/stockbee/Sessions/Session-2026-02-26.md|Session-2026-02-26]]: - **GOOG** — watch for delayed reaction EP (short)
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-02-26.md|Session-2026-02-26]]: | GOOG | Short | Delayed reaction EP | Watching |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-01.md|Session-2026-05-01]]: | [[GOOG]] / [[MSFT]] | Good earnings for large caps, but they typically digest and make 8–15% moves. Not game-changing for this style |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-05.md|Session-2026-05-05]]: | [[GOOG]] | [[05-Wiki/StockBee/DEP|DEP]] | Breakout on good earnings; slow-moving stock = lower risk of being run over |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-05.md|Session-2026-05-05]]: The silver lining: **friction in execution can prevent overtrading.** But it cost him on [[GOOG]] — he had a $20,000 profit that faded to breakeven because he couldn't execute fast enough.
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-05.md|Session-2026-05-05]]: | [[GOOG]] | DEP breakout candidate, slow mover preferred | [[05-Wiki/StockBee/DEP|DEP]] |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-06.md|Session-2026-05-06]]: | [[GOOG]] | Gap up after yesterday's stop-out | Not the same trade — chasing gap |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-06.md|Session-2026-05-06]]: 3. **Don't chase gaps on day two of a swing.** [[GOOG]] and [[NVDA]] were not the same trades after gapping up. The setup quality degrades after a gap.
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-15.md|Session-2026-05-15]]: - Fresh breakouts not following through ([[GOOG]] sitting, [[AVGO]] stalled)
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-15.md|Session-2026-05-15]]: [[GOOG]] — looked like a good breakout. Nothing happened.
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-05-18.md|Session-2026-05-18]]: | [[GOOG]] | Breakout unlikely in this environment |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-11.md|Session-2026-06-11]]: | [[GOOG]] | Reversal Bullish | Looking decent; not the most aggressive but valid |
-
-> [[../../06-Daily/stockbee/Sessions/Session-2026-06-11.md|Session-2026-06-11]]: - Google (GOOG) is a valid reversal bullish candidate — liquid, large cap
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-06-22.md|Session-2026-06-22]]: | [[GOOG]] | Short candidate | Losing employees, raising money — but not closing near low |
 
@@ -94,6 +72,28 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-07-20.md|Session-2026-07-20]]: | [[GOOG]] | Short (remaining) | Stopped out on remaining after taking partial profit |
 
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-23.md|Session-2026-07-23]]: | [[GOOG]] | Short / EP 9M downside | "Most likely the next move is a bounce back" — gap downs on these stocks aren't shortable |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-27.md|Session-2026-07-27]]: | [[GOOG]] | Earnings rejection | Earnings not bad, but AI investment concerns → sold off |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-28.md|Session-2026-07-28]]: | [[GOOG]] | Earnings rejection | Earnings not bad but AI CapEx concerns → sold off |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-07-28.md|Session-2026-07-28]]: 8. **Earnings rejection season continues** — ASML, TSM, GOOG all had good earnings, all rejected. Market expected good earnings; CapEx is poison.
+
+> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-12-07.md|Session-2023-12-07]]: | [[GOOG]] | Delayed Reaction | ⚠️ Secondary | Moving, but AMD is better |
+
+> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-01-17.md|Session-2024-01-17]]: - [[GOOG]] — if closes near low, short it (8-10% downside)
+
+> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-01-17.md|Session-2024-01-17]]: 5. **Delayed reaction** is Pradeep's favorite setup right now — MBLY, XOP, GOOG
+
+> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-02-16.md|Session-2024-02-16]]: - [[GOOG]], [[AMZN]]: "they lost the game" — former leaders that have faded
+
+> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-02-16.md|Session-2024-02-16]]: - 9M EP: [[SMCI]] parabolic, [[META]], [[TSLA]], [[GOOG]], [[SNAP]] (delayed reaction short)
+
+> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-02-21.md|Session-2024-02-21]]: - [[AXP]] (American Express), [[GOOG]] (Google) — delayed reaction candidates
+
+> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-01-13.md|Session-2025-01-13]]: | [[GOOG]] | Reversal bullish | N/A | Small position to test hypothesis |
+
 ## Related Concepts
 
 *(To be enriched)*
@@ -118,9 +118,9 @@ promote: false
 - [[../06-Daily/stockbee/Sessions/2025/Session-2025-07-08.md|Session-2025-07-08]]
 - [[../06-Daily/stockbee/Sessions/2025/Session-2025-07-09.md|Session-2025-07-09]]
 - [[../06-Daily/stockbee/Sessions/2025/Session-2025-07-10.md|Session-2025-07-10]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-01-05.md|Session-2026-01-05]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-01-06.md|Session-2026-01-06]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-01-07.md|Session-2026-01-07]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-01-08.md|Session-2026-01-08]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-02-04.md|Session-2026-02-04]]
-- [[../06-Daily/stockbee/Sessions/Session-2026-02-06.md|Session-2026-02-06]]
+- [[../06-Daily/stockbee/Sessions/Archive/Session-2026-05-01.md|Session-2026-05-01]]
+- [[../06-Daily/stockbee/Sessions/Archive/Session-2026-05-05.md|Session-2026-05-05]]
+- [[../06-Daily/stockbee/Sessions/Archive/Session-2026-05-06.md|Session-2026-05-06]]
+- [[../06-Daily/stockbee/Sessions/Archive/Session-2026-05-15.md|Session-2026-05-15]]
+- [[../06-Daily/stockbee/Sessions/Archive/Session-2026-05-18.md|Session-2026-05-18]]
+- [[../06-Daily/stockbee/Sessions/Archive/Session-2026-06-11.md|Session-2026-06-11]]
