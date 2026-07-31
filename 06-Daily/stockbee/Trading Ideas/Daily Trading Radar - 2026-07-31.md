@@ -18,11 +18,11 @@ data_date: 2026-07-30
 > - **Breakouts:** 424 | **Breakdowns:** 196
 > - **Follow-through:** 3d=33.1% 5d=28.0% (FAILING)
 >
-> - T2108 falling sharply (54.7% → 48.0%) — correction in progress, do not give FULL_BULL
-> - Rally mature at 5 days — easy breakouts already happened, reduce new entries
-> - 20% study bull:bear ratio < 1.0 (73 vs 82) — more stocks down 20% than up, distribution signal
-> - Breakout follow-through borderline at 51% — breakouts barely working, tight stops needed
-> - Former leaders SMH/SOXX show negative 20-day returns (-17.8%/-21.3%) with elevated 65-day RS — potential top forming pattern
+> - T2108 falling sharply (54.7%→48.0% in 2 days) — correction in progress, cap at CAUTIOUS_BULL_LOW
+> - Follow-through rate declining: 58%→49%→40% — breakouts failing to sustain
+> - Leading sector IBB RS_20d (0.18) near zero while RS_65d high (3.06) — top forming pattern
+> - Semiconductors (SOXX -21.3%, SMH -17.8% in 20 days) — former leaders being crushed, dragging market
+> - Rally mature at 5 days and 20% study elevated (73) — extended, easy breakouts already happened
 
 ---
 
@@ -244,24 +244,19 @@ RS_20d: 0.18 | RS_65d: 3.06
 | 10 | MSGS | +1.6% | 149,005 | 6/6 | 0 | high |
 | 11 | BMY | +2.8% | 17,954,980 | 5/6 | 0 | high |
 
-### EP 9M Long (11 found — top 15)
+### EP 9M Long (6 found — top 15)
 
 > [!tip] Pradeep: 'EP 9M is the primary setup. After EP 9M, it can make a move of 48%.'
 > Stock gapped up +4% on earnings/news with volume. Buy on gap or intraday breakout.
 
 | # | Ticker | Gap % | Change % | Volume | Priority | Notes |
 |---|--------|-------|----------|--------|----------|-------|
-| 1 | KEEL | +11.5% | +27.6% | 64,017,458 | highest |  |
-| 2 | NBIS | +16.1% | +27.1% | 40,759,900 | highest |  |
-| 3 | XRX | +29.7% | +32.2% | 28,254,109 | highest |  |
-| 4 | BHC | +6.2% | +28.9% | 18,171,431 | highest |  |
-| 5 | AXTI | +11.5% | +27.0% | 15,365,666 | highest |  |
-| 6 | NUWE | +172.0% | +135.4% | 114,542,374 | high |  |
-| 7 | FCEL | +8.8% | +30.6% | 12,338,235 | high |  |
-| 8 | DFNS | +67.4% | +69.2% | 9,084,799 | high |  |
-| 9 | IREN | +10.9% | +30.5% | 71,480,522 | medium |  |
-| 10 | CIFR | +11.7% | +28.1% | 36,121,123 | medium |  |
-| 11 | MKTX | +29.8% | +29.4% | 9,443,308 | high |  |
+| 1 | FCUV | +470.9% | +680.9% | 81,274,950.95132 | highest |  |
+| 2 | NWL | +26.5% | +13.5% | 34,291,348.82492 | highest |  |
+| 3 | AXTI | +80.4% | +31.2% | 23,617,863.52871 | highest |  |
+| 4 | AMZN | +16.9% | +15.0% | 89,825,066 | high |  |
+| 5 | REPL | +110.3% | +99.5% | 25,979,616.69533 | high |  |
+| 6 | SOC | +4.6% | +14.8% | 9,280,301 | high |  |
 
 ### DEP Candidates (0 found)
 
@@ -376,7 +371,7 @@ RS_20d: 0.18 | RS_65d: 3.06
 - Industry: Medical - Devices
 - Sector: Healthcare
 - Sector ETF: XLV (healthcare_broad)
-- Market Cap: $2.2B
+- Market Cap: $1.9B
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: Yes (236 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -404,7 +399,7 @@ RS_20d: 0.18 | RS_65d: 3.06
 - Industry: Medical - Healthcare Information Services
 - Sector: Healthcare
 - Sector ETF: XLV (healthcare_broad)
-- Market Cap: $14.3B
+- Market Cap: $11.8B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (236 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -432,7 +427,7 @@ RS_20d: 0.18 | RS_65d: 3.06
 - Industry: Furnishings, Fixtures & Appliances
 - Sector: Consumer Cyclical
 - Sector ETF: XLY (consumer_discretionary)
-- Market Cap: $7.3B
+- Market Cap: $7.5B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (41 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -460,7 +455,7 @@ RS_20d: 0.18 | RS_65d: 3.06
 - Industry: Biotechnology
 - Sector: Healthcare
 - Sector ETF: XBI (biotech_small)
-- Market Cap: $7.1B
+- Market Cap: $6.7B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (236 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -488,7 +483,7 @@ RS_20d: 0.18 | RS_65d: 3.06
 - Industry: Medical - Diagnostics & Research
 - Sector: Healthcare
 - Sector ETF: XLV (healthcare_broad)
-- Market Cap: $5.7B
+- Market Cap: $5.6B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (236 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -513,15 +508,14 @@ RS_20d: 0.18 | RS_65d: 3.06
 
 ---
 
-## 10. Short-Side Setups (33 candidates)
+## 10. Short-Side Setups (32 candidates)
 
-### EP 9M Short (3) — negative surprise gap-downs
+### EP 9M Short (2) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| ALNY | -21.5% | -28.31% | $205.48 | $230.00 | earnings_miss (gap_down) |
-| CAPR | -53.3% | -36.23% | $4.19 | $4.21 | unknown_negative (gap_down) |
-| TDOC | -16.6% | -28.32% | $6.58 | $7.66 | unknown_negative (gap_down) |
+| RBLX | -22.4% | -28.52% | $34.79 | $40.00 | earnings_miss (gap_down) |
+| RDDT | -17.0% | -21.16% | $140.37 | $151.36 | earnings_miss (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
