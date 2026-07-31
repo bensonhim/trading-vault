@@ -18,11 +18,11 @@ data_date: 2026-07-30
 > - **Breakouts:** 424 | **Breakdowns:** 196
 > - **Follow-through:** 3d=33.1% 5d=28.0% (FAILING)
 >
-> - T2108 falling >5 points in 5 days (54.7% to 48.0%) — correction in progress, do not give FULL_BULL
-> - 20% bull:bear ratio <1.0 (73/82) — more stocks down 20% than up, distribution signal
-> - Follow-through rate at 51% — borderline, breakouts barely working
-> - Rally is 5 days old and extended — easy breakouts already happened
-> - Former leaders SOXX/SMH down 17-21% in 20 days — leading sector rolling over, 65d RS still elevated but 20d returns deeply negative (top forming pattern)
+> - T2108 falling sharply (54.7% to 48.0%) — correction in progress, do not give full bullish weight
+> - 20% bull:bear ratio 0.89 — distribution signal, more stocks down 20% than up
+> - Rally mature at 5 days — extended, easy breakouts already happened
+> - Former leaders SOXX/SMH down 17-21% in 20 days with high 65-day RS — top forming pattern
+> - Follow-through at 51% — borderline, breakouts struggling to sustain
 
 ---
 
@@ -243,6 +243,25 @@ RS_20d: 0.18 | RS_65d: 3.06
 | 9 | JLL | +6.4% | 727,713 | 6/6 | 2 | high |
 | 10 | MSGS | +1.6% | 149,005 | 6/6 | 0 | high |
 | 11 | BMY | +2.8% | 17,954,980 | 5/6 | 0 | high |
+
+### EP 9M Long (11 found — top 15)
+
+> [!tip] Pradeep: 'EP 9M is the primary setup. After EP 9M, it can make a move of 48%.'
+> Stock gapped up +4% on earnings/news with volume. Buy on gap or intraday breakout.
+
+| # | Ticker | Gap % | Change % | Volume | Priority | Notes |
+|---|--------|-------|----------|--------|----------|-------|
+| 1 | KEEL | +11.5% | +27.6% | 64,017,458 | highest |  |
+| 2 | NBIS | +16.1% | +27.1% | 40,759,900 | highest |  |
+| 3 | XRX | +29.7% | +32.2% | 28,254,109 | highest |  |
+| 4 | BHC | +6.2% | +28.9% | 18,171,431 | highest |  |
+| 5 | AXTI | +11.5% | +27.0% | 15,365,666 | highest |  |
+| 6 | NUWE | +172.0% | +135.4% | 114,542,374 | high |  |
+| 7 | FCEL | +8.8% | +30.6% | 12,338,235 | high |  |
+| 8 | DFNS | +67.4% | +69.2% | 9,084,799 | high |  |
+| 9 | IREN | +10.9% | +30.5% | 71,480,522 | medium |  |
+| 10 | CIFR | +11.7% | +28.1% | 36,121,123 | medium |  |
+| 11 | MKTX | +29.8% | +29.4% | 9,443,308 | high |  |
 
 ### DEP Candidates (0 found)
 
