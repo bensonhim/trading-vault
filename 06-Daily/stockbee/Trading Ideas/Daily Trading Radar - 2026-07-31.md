@@ -18,11 +18,11 @@ data_date: 2026-07-30
 > - **Breakouts:** 424 | **Breakdowns:** 196
 > - **Follow-through:** 3d=33.1% 5d=28.0% (FAILING)
 >
-> - T2108 falling >5 points in 5 days (54.7% → 48.0%) — correction in progress, cap at CAUTIOUS_BULL_LOW
-> - Follow-through deteriorating: 58% → 49% → 40% — breakouts failing to sustain
-> - Rally extended: 5 days since low, overbought — easy breakouts already happened
-> - 20% study bearish ratio (0.89) — more stocks down 20% than up in 5-day window
-> - Leading sector IBB showing top-forming pattern: 20d RS collapsing (0.18) while 65d RS still elevated (3.06)
+> - T2108 falling >6 points in 5 days — correction in progress, do NOT upgrade to FULL_BULL
+> - Follow-through rate deteriorating: 58% → 49% → 40% — breakouts failing to sustain
+> - 20% study bearish: 73 up vs 82 down — distribution exceeding accumulation
+> - Rally mature at 5 days — easy breakouts already happened
+> - Semiconductors (SOXX, SMH) rolling over with -17% to -21% 20-day returns while 65d RS still positive — top forming in former leaders
 
 ---
 
@@ -251,12 +251,12 @@ RS_20d: 0.18 | RS_65d: 3.06
 
 | # | Ticker | Gap % | Change % | Volume | Priority | Notes |
 |---|--------|-------|----------|--------|----------|-------|
-| 1 | FCUV | +470.9% | +748.9% | 82,650,717 | highest |  |
-| 2 | AXTI | +80.4% | +29.0% | 23,979,926 | highest |  |
-| 3 | BHC | +28.2% | +13.9% | 12,493,626 | highest |  |
-| 4 | AMZN | +16.9% | +15.2% | 91,450,854 | high |  |
-| 5 | REPL | +110.3% | +97.4% | 26,268,179.86108 | high |  |
-| 6 | SOC | +4.6% | +15.0% | 9,813,562 | high |  |
+| 1 | FCUV | +470.9% | +799.5% | 84,257,341 | highest |  |
+| 2 | AXTI | +80.4% | +29.1% | 24,165,123 | highest |  |
+| 3 | BHC | +28.2% | +13.7% | 12,778,287 | highest |  |
+| 4 | AMZN | +16.9% | +15.2% | 92,739,842.14341 | high |  |
+| 5 | REPL | +110.3% | +97.0% | 26,396,418.52424 | high |  |
+| 6 | SOC | +4.6% | +14.3% | 9,982,165 | high |  |
 
 ### DEP Candidates (0 found)
 
@@ -399,7 +399,7 @@ RS_20d: 0.18 | RS_65d: 3.06
 - Industry: Medical - Healthcare Information Services
 - Sector: Healthcare
 - Sector ETF: XLV (healthcare_broad)
-- Market Cap: $11.8B
+- Market Cap: $11.7B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (236 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -483,7 +483,7 @@ RS_20d: 0.18 | RS_65d: 3.06
 - Industry: Medical - Diagnostics & Research
 - Sector: Healthcare
 - Sector ETF: XLV (healthcare_broad)
-- Market Cap: $5.6B
+- Market Cap: $5.7B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: Yes (236 stocks in sector broke out today)
 - Breakout History (5 past swings):
@@ -514,9 +514,9 @@ RS_20d: 0.18 | RS_65d: 3.06
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| RBLX | -22.4% | -28.81% | $34.65 | $40.00 | earnings_miss (gap_down) |
-| WU | -12.4% | -17.36% | $6.36 | $7.21 | earnings_miss (gap_down) |
-| RDDT | -17.0% | -20.71% | $141.17 | $151.36 | earnings_miss (gap_down) |
+| RBLX | -22.4% | -28.87% | $34.62 | $40.00 | earnings_miss (gap_down) |
+| WU | -12.4% | -16.51% | $6.42 | $7.21 | earnings_miss (gap_down) |
+| RDDT | -17.0% | -20.47% | $141.59 | $151.36 | earnings_miss (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
