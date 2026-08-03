@@ -9,7 +9,7 @@ data_date: 2026-07-31
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] 🟠 **CAUTIOUS_BULL_LOW** — Action: **REDUCE_SIZE**
+> [!warning] 🟠 **DISTRIBUTING** — Action: **NO_NEW_LONGS**
 >
 > - **20% Study (bullish):** 68
 > - **20% Study (bearish):** 52
@@ -18,11 +18,11 @@ data_date: 2026-07-31
 > - **Breakouts:** 179 | **Breakdowns:** 216
 > - **Follow-through:** 3d=36.3% 5d=31.1% (OK)
 >
-> - Former leader BUG rolling over — 65-day leader with negative 20-day RS = institutional distribution
-> - T2108 falling >5 points in 5 days — correction in progress, bounces are temporary until T2108 stabilizes
-> - Follow-through rate 42% — below 50% caution threshold, breakouts squatting or reversing
-> - Rotation trap: defensive/old economy sectors (XOP, XLE, XLF, XLRE) leading while aggressive sectors absent
-> - Rally mature at 6 days — easy breakouts already happened
+> - Former leader BUG rolling over — 65d leader with negative 20d RS = institutional distribution
+> - Rotation trap: energy/old economy leading while former tech leader sells off
+> - Follow-through rate 42% — breakouts failing, do not buy new breakouts
+> - T2108 falling 7 points in 5 days — correction in progress, bounces are temporary
+> - Net Primary deteriorating and negative — no aggressive buying from funds
 
 ---
 
@@ -212,6 +212,30 @@ RS_20d: 90.33 | RS_65d: 1.05
 
 ---
 
+## 4c. Hot Sub-Sectors (3+ Setups Today)
+
+> [!info] **Group Setup Detection** — sub-sectors with 3+ long setups today.
+> When multiple stocks in the same sub-sector trigger setups simultaneously,
+> it signals sector rotation / institutional interest. Pradeep: 'Leading sector drags everything.'
+
+| Sub-Sector | Total | SOS | DEP | ANTS | EP9M | REV_BULL | Signal |
+|------------|-------|-----|-----|------|------|----------|--------|
+| Technology Broad | 18 | 7 | 0 | 0 | 0 | 11 | HOT |
+| Energy Broad | 16 | 2 | 0 | 0 | 0 | 14 | HOT |
+| Healthcare Broad | 16 | 9 | 0 | 0 | 0 | 7 | HOT |
+| Materials | 14 | 2 | 0 | 0 | 0 | 12 | HOT |
+| Real Estate | 13 | 1 | 0 | 0 | 0 | 12 | HOT |
+| Utilities | 13 | 0 | 0 | 0 | 0 | 13 | HOT |
+| Financials Broad | 11 | 6 | 0 | 0 | 0 | 5 | HOT |
+| Consumer Discretionary | 9 | 3 | 0 | 0 | 0 | 6 | HOT |
+| Aerospace Defense | 8 | 3 | 0 | 0 | 0 | 5 | HOT |
+| Biotech Small | 7 | 0 | 0 | 0 | 0 | 7 | HOT |
+| Communications | 6 | 4 | 0 | 0 | 0 | 2 | HOT |
+| Home Construction | 6 | 1 | 0 | 0 | 0 | 5 | HOT |
+| Cybersecurity | 3 | 2 | 0 | 0 | 0 | 1 | WARM |
+
+---
+
 ## 5. Trade Ideas
 
 ### SIPs — Stocks in Play (30 found, 30 fresh catalyst — top 15)
@@ -263,20 +287,14 @@ RS_20d: 90.33 | RS_65d: 1.05
 | 19 | HSIC | +0.7% | 1,221,326 | 6/6 | 0 | medium |
 | 20 | DCI | +1.7% | 640,600 | 6/6 | 0 | medium |
 
-### EP 9M Long (7 found — top 15)
+### EP 9M Long (1 found — top 15)
 
 > [!tip] Pradeep: 'EP 9M is the primary setup. After EP 9M, it can make a move of 48%.'
 > Stock gapped up +4% on earnings/news with volume. Buy on gap or intraday breakout.
 
 | # | Ticker | Gap % | Change % | Volume | Priority | Notes |
 |---|--------|-------|----------|--------|----------|-------|
-| 1 | FCUV | +443.6% | +517.0% | 103,149,462 | highest |  |
-| 2 | AXTI | +42.1% | +28.7% | 29,625,908 | highest |  |
-| 3 | AMZN | +12.5% | +15.3% | 129,054,771 | high |  |
-| 4 | REPL | +110.3% | +107.0% | 33,629,890 | high |  |
-| 5 | BHC | -0.5% | +14.3% | 16,939,623 | high |  |
-| 6 | SOC | +1.8% | +18.1% | 14,904,743 | medium |  |
-| 7 | AMBA | +3.6% | +16.1% | 9,207,249 | medium |  |
+| 1 | UPC | +101.2% | +109.2% | 23,789,873.00528 | high |  |
 
 ### DEP Candidates (0 found)
 
@@ -359,36 +377,28 @@ RS_20d: 90.33 | RS_65d: 1.05
 
 ## 7. Active Sugar Babies
 
-| Rank | Ticker | 21d | 5d  | 504d | Tier     |
-| ---- | ------ | --- | --- | ---- | -------- |
-| 1    | SIDU   | 11  | 4   | 19   | expanded |
-| 2    | RGTI   | 10  | 5   | 64   | expanded |
-| 3    | IREN   | 10  | 4   | 71   | expanded |
-| 4    | SATL   | 9   | 5   | 21   | expanded |
-| 5    | SBET   | 9   | 5   | 40   | expanded |
-| 6    | FCEL   | 9   | 4   | 24   | expanded |
-| 7    | IONQ   | 9   | 4   | 55   | core     |
-| 8    | KEEL   | 9   | 4   | 20   | expanded |
-| 9    | LAES   | 9   | 4   | 37   | expanded |
-| 10   | RIOT   | 9   | 4   | 59   | expanded |
-| 11   | USAR   | 9   | 4   | 51   | expanded |
-| 12   | CLSK   | 9   | 3   | 54   | expanded |
-| 13   | NVTS   | 9   | 3   | 52   | expanded |
-| 14   | OKLO   | 9   | 3   | 65   | core     |
-| 15   | AMD    | 8   | 4   | 46   | expanded |
-| 16   | APLD   | 8   | 4   | 57   | core     |
-| 17   | EOSE   | 8   | 4   | 53   | expanded |
-| 18   | HIVE   | 8   | 4   | 23   | expanded |
-| 19   | MU     | 8   | 4   | 49   | expanded |
-| 20   | NBIS   | 8   | 4   | 63   | core     |
-
-### Sugar Babies in Hot Sectors (with active setups today)
-
-| Ticker | SB Tier | 504d | 21d | 10d | 5d | Recency | Sector ETF | RS Rank | Status |
-|--------|---------|------|-----|-----|-----|---------|-----------|---------|--------|
-| SOC | expanded | 13 | 3 | 3 | 2 | 44 | XLE (#2) | SETTING UP (ACTIVE (5d)) |
-
-*Recency = 5d×10 + 10d×5 + 21d×3 (Pradeep's recency weighting). Higher = more recent breakout activity.*
+| Rank | Ticker | 21d | 5d | 504d | Tier |
+|------|--------|-----|-----|------|------|
+| 1 | SIDU | 11 | 4 | 19 | expanded |
+| 2 | RGTI | 10 | 5 | 64 | expanded |
+| 3 | IREN | 10 | 4 | 71 | expanded |
+| 4 | SATL | 9 | 5 | 21 | expanded |
+| 5 | SBET | 9 | 5 | 40 | expanded |
+| 6 | FCEL | 9 | 4 | 24 | expanded |
+| 7 | IONQ | 9 | 4 | 55 | core |
+| 8 | KEEL | 9 | 4 | 20 | expanded |
+| 9 | LAES | 9 | 4 | 37 | expanded |
+| 10 | RIOT | 9 | 4 | 59 | expanded |
+| 11 | USAR | 9 | 4 | 51 | expanded |
+| 12 | CLSK | 9 | 3 | 54 | expanded |
+| 13 | NVTS | 9 | 3 | 52 | expanded |
+| 14 | OKLO | 9 | 3 | 65 | core |
+| 15 | AMD | 8 | 4 | 46 | expanded |
+| 16 | APLD | 8 | 4 | 57 | core |
+| 17 | EOSE | 8 | 4 | 53 | expanded |
+| 18 | HIVE | 8 | 4 | 23 | expanded |
+| 19 | MU | 8 | 4 | 49 | expanded |
+| 20 | NBIS | 8 | 4 | 63 | core |
 
 ---
 
@@ -401,7 +411,7 @@ RS_20d: 90.33 | RS_65d: 1.05
 - Sector ETF: XLF (financials_broad)
 - Market Cap: $0.6B
 - Fund Ownership: speculative - Speculative Glamour (small size)
-- Group Move: Yes (19 stocks in sector broke out today)
+- Group Move: No (0 stocks in sector broke out today)
 - Breakout History (1 past swings):
 
   | Date | Move% | Entry | Stop | Last Close | Volume | Result |
@@ -423,9 +433,9 @@ RS_20d: 90.33 | RS_65d: 1.05
 - Industry: Consumer Electronics
 - Sector: Technology
 - Sector ETF: XLK (technology_broad)
-- Market Cap: $4537.1B
+- Market Cap: $4500.9B
 - Fund Ownership: 5000+ - Liquid Glamour (largest size)
-- Group Move: Yes (75 stocks in sector broke out today)
+- Group Move: No (0 stocks in sector broke out today)
 - Breakout History (5 past swings):
 
   | Date | Move% | Entry | Stop | Last Close | Volume | Result |
@@ -449,9 +459,9 @@ RS_20d: 90.33 | RS_65d: 1.05
 - Industry: Medical - Devices
 - Sector: Healthcare
 - Sector ETF: XLV (healthcare_broad)
-- Market Cap: $31.5B
+- Market Cap: $32.6B
 - Fund Ownership: 2500+ - Institutional Quality (big size)
-- Group Move: Yes (53 stocks in sector broke out today)
+- Group Move: No (0 stocks in sector broke out today)
 - Breakout History (5 past swings):
 
   | Date | Move% | Entry | Stop | Last Close | Volume | Result |
@@ -475,9 +485,9 @@ RS_20d: 90.33 | RS_65d: 1.05
 - Industry: Software - Infrastructure
 - Sector: Technology
 - Sector ETF: XLK (technology_broad)
-- Market Cap: $11.0B
+- Market Cap: $11.8B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
-- Group Move: Yes (75 stocks in sector broke out today)
+- Group Move: No (0 stocks in sector broke out today)
 - Breakout History (5 past swings):
 
   | Date | Move% | Entry | Stop | Last Close | Volume | Result |
@@ -502,7 +512,7 @@ RS_20d: 90.33 | RS_65d: 1.05
 - Sector: Industrials
 - Market Cap: $0.2B
 - Fund Ownership: speculative - Speculative Glamour (small size)
-- Group Move: Yes (45 stocks in sector broke out today)
+- Group Move: No (0 stocks in sector broke out today)
 - Breakout History (5 past swings):
 
   | Date | Move% | Entry | Stop | Last Close | Volume | Result |
@@ -525,15 +535,13 @@ RS_20d: 90.33 | RS_65d: 1.05
 
 ---
 
-## 10. Short-Side Setups (34 candidates)
+## 10. Short-Side Setups (32 candidates)
 
-### EP 9M Short (3) — negative surprise gap-downs
+### EP 9M Short (1) — negative surprise gap-downs
 
 | Ticker | Gap % | Change % | Entry | Stop | Notes |
 |--------|-------|----------|-------|------|-------|
-| RBLX | -20.1% | -26.85% | $35.60 | $40.00 | unknown_negative (gap_down) |
-| WU | -7.9% | -17.3% | $6.36 | $7.21 | unknown_negative (gap_down) |
-| RDDT | -17.0% | -20.99% | $140.67 | $151.36 | unknown_negative (gap_down) |
+| GME | -6.5% | -13.9% | $18.70 | $20.46 | unknown_negative (gap_down) |
 
 ### Bearish DEP (5) — negative EP → breakdown below consolidation
 
