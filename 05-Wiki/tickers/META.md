@@ -2,15 +2,15 @@
 title: "META"
 date: 2026-08-03
 tags: [tickers, wiki, auto-compiled]
-mention_count: 94
-sources_count: 54
+mention_count: 95
+sources_count: 55
 compilation_count: 1
 promote: false
 ---
 
 # META
 
-*Tickers — compiled from 94 mentions across 54 sources.*
+*Tickers — compiled from 95 mentions across 55 sources.*
 
 ## Mentions
 
@@ -66,6 +66,8 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-07-02.md|Session-2026-07-02]]: | [[META]]                                  | Random breakout               | No setup; management credibility issue                          |
 
+> [[../../06-Daily/stockbee/Sessions/Session-2026-08-02.md|Session-2026-08-02]]: | [[META]] | Watching | "Right on it. Not inspiring confidence." |
+
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-29.md|Session-2023-11-29]]: [[MSFT]], [[GOOGL]], [[META]] — exhausted. Money rotating into financials, consumer discretionary, story stocks.
 
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-12-18.md|Session-2023-12-18]]: GOOGL and META showed up in the first 1-2 minutes — institutional buying right out of the gate. That's who's buying. LTV (low threshold breakout) is the filter to catch things early.
@@ -91,8 +93,6 @@ promote: false
 > [[../../06-Daily/stockbee/Sessions/2024/Session-2024-07-10.md|Session-2024-07-10]]: | [[META]] | Delayed reaction 9,000,000 | ⚠️ Possible | High-priced, delayed reaction |
 
 > [[../../06-Daily/stockbee/Sessions/2024/Session-2024-07-10.md|Session-2024-07-10]]: | [[META]] | Delayed reaction 9,000,000 | ⚠️ Possible | High-priced, story-driven |
-
-> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-07-24.md|Session-2024-07-24]]: Nothing actionable. Large caps getting hammered. [[UNH]] and [[NVDA]] best-holding large caps. Everything else — AAPL, META, MSFT — looking like "wounded soldiers."
 
 ## Related Concepts
 

@@ -2,15 +2,15 @@
 title: "AMZN"
 date: 2026-08-03
 tags: [tickers, wiki, auto-compiled]
-mention_count: 57
-sources_count: 40
+mention_count: 58
+sources_count: 41
 compilation_count: 1
 promote: false
 ---
 
 # AMZN
 
-*Tickers — compiled from 57 mentions across 40 sources.*
+*Tickers — compiled from 58 mentions across 41 sources.*
 
 ## Mentions
 
@@ -47,6 +47,8 @@ promote: false
 > [[../../06-Daily/stockbee/Sessions/Session-2026-07-16.md|Session-2026-07-16]]: | [[AMZN]] | Money flowing in | Defensive rotation |
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-07-30.md|Session-2026-07-30]]: | [[AMZN]] | Earnings today | "If you buy before earnings, you may not be around tomorrow." |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-08-02.md|Session-2026-08-02]]: | [[AMZN]] | Earnings / SIPs | "One day wonder. Gapping up but not lighting up the sky on volume." |
 
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-01.md|Session-2023-11-01]]: | [[AMZN]] | Earnings Reaction | ✅ Positive reaction | Reacted positively to earnings |
 
@@ -91,8 +93,6 @@ promote: false
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-12-18.md|Session-2023-12-18]]: | [[AMZN]] | Extended | ❌ 4th day | Fourth day of breakout, too late |
 
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-12-20.md|Session-2023-12-20]]: 9M EP shows mostly extended stocks — NVDA, AMZN, GOOGL, AAPL, TSLA — all extended. Nothing actionable in the scans.
-
-> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-12-20.md|Session-2023-12-20]]: | [[AMZN]] | Breakout | ❌ Fading | Tried to break out, got hammered back |
 
 ## Related Concepts
 

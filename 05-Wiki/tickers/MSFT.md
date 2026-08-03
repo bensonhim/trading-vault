@@ -2,15 +2,15 @@
 title: "MSFT"
 date: 2026-08-03
 tags: [tickers, wiki, auto-compiled]
-mention_count: 63
-sources_count: 42
+mention_count: 64
+sources_count: 43
 compilation_count: 1
 promote: false
 ---
 
 # MSFT
 
-*Tickers — compiled from 63 mentions across 42 sources.*
+*Tickers — compiled from 64 mentions across 43 sources.*
 
 ## Mentions
 
@@ -70,6 +70,8 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-07-30.md|Session-2026-07-30]]: | [[MSFT]] | DEP candidate / SIPs | "Might go to $500, take out its high. 20% move but glacial. Better entry with lower risk." |
 
+> [[../../06-Daily/stockbee/Sessions/Session-2026-08-02.md|Session-2026-08-02]]: | [[MSFT]] | DEP candidate | "Around 10-20% over the next one year. Slow moving. Glacial." |
+
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-21.md|Session-2023-11-21]]: [[TSLA]] — liquid lava, continuation setup. [[MSFT]] — also showing continuation.
 
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-21.md|Session-2023-11-21]]: | [[MSFT]] | Continuation | 🔄 Watching | Setting up |
@@ -91,8 +93,6 @@ promote: false
 > [[../../06-Daily/stockbee/Sessions/2024/Session-2024-08-27.md|Session-2024-08-27]]: | [[MSFT]] | Short (range expansion) | ✅ Working | Stop moved up, in profit |
 
 > [[../../06-Daily/stockbee/Sessions/2025/Session-2025-01-22.md|Session-2025-01-22]]: | [[MSFT]] | Intraday SIPs | Catalyst | Gap up intraday opportunity only |
-
-> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-02-07.md|Session-2025-02-07]]: | [[MSFT]] | Bearish | Short (delayed reaction) | Short from $410.77, carrying overnight |
 
 ## Related Concepts
 
