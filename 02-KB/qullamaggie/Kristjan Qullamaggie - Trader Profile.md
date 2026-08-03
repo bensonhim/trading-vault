@@ -84,6 +84,18 @@ Kristjan is a StockBee member who learned EP from Pradeep. His EP setup is direc
 | **Scan tool** | TC2000 | Custom scans + Twitch community |
 | **Universe** | US Common Stocks + ETFs + ADRs | US stocks (all caps) |
 
+## Transcription Status
+
+| Playlist | Total Videos | Transcribed | Failed |
+|---|---|---|---|
+| Swing Trading School | 7 | 7 | 0 |
+| My Trading Methodology and Process | 1 | 1 | 0 |
+| Monthly Recaps | 3 | 3 | 0 |
+| Recaps and Watchlists 2018 | 2 | 2 | 0 |
+| Tracking Watchlist Cleaning | 5 | 5 | 0 |
+| Recaps and Watchlists 2017 | 71 | 49 | 1 (permanently removed by YouTube) |
+| **Total** | **89** | **67** | **1** |
+
 ## Sources
 
 - [Qullamaggie.com](https://qullamaggie.com/)
