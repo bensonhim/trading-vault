@@ -359,28 +359,28 @@ RS_20d: 90.33 | RS_65d: 1.05
 
 ## 7. Active Sugar Babies
 
-| Rank | Ticker | 21d | 5d | 504d | Tier |
-|------|--------|-----|-----|------|------|
-| 1 | SIDU | 11 | 4 | 19 | expanded |
-| 2 | RGTI | 10 | 5 | 64 | expanded |
-| 3 | IREN | 10 | 4 | 71 | expanded |
-| 4 | SATL | 9 | 5 | 21 | expanded |
-| 5 | SBET | 9 | 5 | 40 | expanded |
-| 6 | FCEL | 9 | 4 | 24 | expanded |
-| 7 | IONQ | 9 | 4 | 55 | core |
-| 8 | KEEL | 9 | 4 | 20 | expanded |
-| 9 | LAES | 9 | 4 | 37 | expanded |
-| 10 | RIOT | 9 | 4 | 59 | expanded |
-| 11 | USAR | 9 | 4 | 51 | expanded |
-| 12 | CLSK | 9 | 3 | 54 | expanded |
-| 13 | NVTS | 9 | 3 | 52 | expanded |
-| 14 | OKLO | 9 | 3 | 65 | core |
-| 15 | AMD | 8 | 4 | 46 | expanded |
-| 16 | APLD | 8 | 4 | 57 | core |
-| 17 | EOSE | 8 | 4 | 53 | expanded |
-| 18 | HIVE | 8 | 4 | 23 | expanded |
-| 19 | MU | 8 | 4 | 49 | expanded |
-| 20 | NBIS | 8 | 4 | 63 | core |
+| Rank | Ticker | 21d | 5d  | 504d | Tier     |
+| ---- | ------ | --- | --- | ---- | -------- |
+| 1    | SIDU   | 11  | 4   | 19   | expanded |
+| 2    | RGTI   | 10  | 5   | 64   | expanded |
+| 3    | IREN   | 10  | 4   | 71   | expanded |
+| 4    | SATL   | 9   | 5   | 21   | expanded |
+| 5    | SBET   | 9   | 5   | 40   | expanded |
+| 6    | FCEL   | 9   | 4   | 24   | expanded |
+| 7    | IONQ   | 9   | 4   | 55   | core     |
+| 8    | KEEL   | 9   | 4   | 20   | expanded |
+| 9    | LAES   | 9   | 4   | 37   | expanded |
+| 10   | RIOT   | 9   | 4   | 59   | expanded |
+| 11   | USAR   | 9   | 4   | 51   | expanded |
+| 12   | CLSK   | 9   | 3   | 54   | expanded |
+| 13   | NVTS   | 9   | 3   | 52   | expanded |
+| 14   | OKLO   | 9   | 3   | 65   | core     |
+| 15   | AMD    | 8   | 4   | 46   | expanded |
+| 16   | APLD   | 8   | 4   | 57   | core     |
+| 17   | EOSE   | 8   | 4   | 53   | expanded |
+| 18   | HIVE   | 8   | 4   | 23   | expanded |
+| 19   | MU     | 8   | 4   | 49   | expanded |
+| 20   | NBIS   | 8   | 4   | 63   | core     |
 
 ### Sugar Babies in Hot Sectors (with active setups today)
 
