@@ -1,0 +1,486 @@
+{
+  "segments": [
+    {
+      "start": 0.48,
+      "end": 4.42,
+      "text": "Okay let's do a little video about my scanning and my scanning process."
+    },
+    {
+      "start": 5.7599998,
+      "end": 7.94,
+      "text": "So let's start from the top."
+    },
+    {
+      "start": 8.0,
+      "end": 11.7,
+      "text": "I have a bunch of different scans but they are fairly similar."
+    },
+    {
+      "start": 13.435,
+      "end": 14.395,
+      "text": "So let's start from top."
+    },
+    {
+      "start": 14.395,
+      "end": 25.455,
+      "text": "So I have a different scan for ADR stocks because nowadays, ADR stocks which are foreign stocks traded in The US markets, they are sorted separately in TC2000."
+    },
+    {
+      "start": 27.62,
+      "end": 31.480001,
+      "text": "Up until like a year ago, they weren't."
+    },
+    {
+      "start": 32.260002,
+      "end": 50.935,
+      "text": "So minimum price one, volume 40,000, minimum dollar volume it says 15,000, but it's actually 1,500,000 and ADR average daily percent average daily range in percent the past twenty days is 2.2."
+    },
+    {
+      "start": 50.935,
+      "end": 57.149998,
+      "text": "So I want the average daily range which is the intraday range."
+    },
+    {
+      "start": 57.29,
+      "end": 58.829998,
+      "text": "It doesn't count for gaps."
+    },
+    {
+      "start": 60.09,
+      "end": 66.75,
+      "text": "So if a stock gaps up 50%, that gap up is not going to affect the average daily range."
+    },
+    {
+      "start": 66.89,
+      "end": 79.034996,
+      "text": "Well it will affect the average true range which is down here which is measured in dollars and cents and I have it down here."
+    },
+    {
+      "start": 81.655,
+      "end": 95.7,
+      "text": "And average daily range I have up here, so this HGGM which is a piece of shit micro cap stock at almost 25% in average daily range and that is absolutely insanely high."
+    },
+    {
+      "start": 95.7,
+      "end": 106.055,
+      "text": "For example, a stock like Facebook only has 1.06 or Netflix which has 1.49 or Tesla which has 2.63."
+    },
+    {
+      "start": 108.275,
+      "end": 111.735,
+      "text": "So the higher number the more volatile it is."
+    },
+    {
+      "start": 112.01,
+      "end": 113.79,
+      "text": "So 2.2 is my cutoff."
+    },
+    {
+      "start": 115.85,
+      "end": 118.91,
+      "text": "Let's look at the formula real quick."
+    },
+    {
+      "start": 122.81,
+      "end": 126.09,
+      "text": "So I got it from someone else."
+    },
+    {
+      "start": 126.09,
+      "end": 129.515,
+      "text": "I just converted it to the TC2000 format."
+    },
+    {
+      "start": 133.015,
+      "end": 135.015,
+      "text": "And, yeah, you can use it doesn't matter well."
+    },
+    {
+      "start": 135.015,
+      "end": 137.575,
+      "text": "You can use the ten day or the thirty day or whatever."
+    },
+    {
+      "start": 137.575,
+      "end": 139.33499,
+      "text": "You don't even have to use this indicator."
+    },
+    {
+      "start": 139.33499,
+      "end": 150.78,
+      "text": "I just like it to weed the slower moving stocks basically, I want stocks that have range."
+    },
+    {
+      "start": 153.525,
+      "end": 160.405,
+      "text": "So I get seven to eight items in this scan, I just go through this list for us to get setups every day, I go through this list."
+    },
+    {
+      "start": 160.405,
+      "end": 162.905,
+      "text": "So I have the biggest one month gainers."
+    },
+    {
+      "start": 165.38,
+      "end": 177.56,
+      "text": "It's basically the same scan, a little bit higher dollar volume, a little bit higher ADR, and I also want stocks that price growth one month."
+    },
+    {
+      "start": 178.02501,
+      "end": 184.18501,
+      "text": "This is basically a rank you can choose it in when you make a scan in TC 3,000."
+    },
+    {
+      "start": 184.18501,
+      "end": 197.47,
+      "text": "This is something you can choose, you know, you can rank stocks based on different criteria and I want the 3% strongest stocks in the past one month."
+    },
+    {
+      "start": 198.01001,
+      "end": 199.71,
+      "text": "And this is trend intensity."
+    },
+    {
+      "start": 199.77,
+      "end": 208.99,
+      "text": "This is also a custom indicator I got from a site called stockbee.blogspot.com."
+    },
+    {
+      "start": 212.05501,
+      "end": 237.495,
+      "text": "His name is Pradeep, he's a great trader and he has a free blog on stockbee.blogspot.com and it also has a free membership site, but a paid membership site called stockbee.biz and that's where I got this indicator."
+    },
+    {
+      "start": 237.495,
+      "end": 251.75,
+      "text": "It basically is how much I think it's a thirteen day moving average, how many percent that is above or below the sixty five day moving average or something like that."
+    },
+    {
+      "start": 251.75,
+      "end": 258.49,
+      "text": "It's basically a trend indicator, you can read up on it on his blog or on his site if you want to."
+    },
+    {
+      "start": 259.43,
+      "end": 285.97998,
+      "text": "So trend intensity 90 it means the shorter moving average is no more than 10% below the faster moving average is no more than 10% below the slower moving average, while a number like 110% would mean that the faster moving average is at least 10% above the slower one."
+    },
+    {
+      "start": 286.59998,
+      "end": 291.58,
+      "text": "So I like to scan for momentum."
+    },
+    {
+      "start": 293.055,
+      "end": 297.23502,
+      "text": "This is a pure high trend intensity scan."
+    },
+    {
+      "start": 298.575,
+      "end": 310.81,
+      "text": "All the stocks that are where the trend intensity is over 108 and then my liquidity criteria and the ADR criteria And then I also have different time frames."
+    },
+    {
+      "start": 310.81,
+      "end": 314.75,
+      "text": "This I do once per week, these b scans."
+    },
+    {
+      "start": 315.69,
+      "end": 322.66998,
+      "text": "So the biggest, the highest ranked stocks, I think it's about 2%, 3% on all of these time frames I scan for."
+    },
+    {
+      "start": 323.96503,
+      "end": 328.065,
+      "text": "It's the same scan like this one month gainer but just different time frame."
+    },
+    {
+      "start": 328.445,
+      "end": 352.04498,
+      "text": "I have my OTC scan scan for OTC stocks, so a little bit lower price criteria, a little bit higher ADR criteria, a little bit lower volume criteria just because these are more volatile stocks and most of the time they are thinner names, they're they're not very liquid most of the time."
+    },
+    {
+      "start": 352.985,
+      "end": 374.37,
+      "text": "Recent IPOs, if you've been seeing my videos you know I like recent IPOs because they can really make big moves and they tend to fall like technical analysis works really well on them, like momentum kind of trading works really well on in periods at least on recent IPOs."
+    },
+    {
+      "start": 374.37,
+      "end": 381.595,
+      "text": "They can make insane moves for reasons I'm not gonna talk about right now, but I may do it in a later video."
+    },
+    {
+      "start": 381.895,
+      "end": 399.77,
+      "text": "So this is a scam and then I put a column here price growth rate one year and what I look for are recent IPOs that are younger than a year so they won't have a number here because they haven't traded for a year."
+    },
+    {
+      "start": 399.77,
+      "end": 412.195,
+      "text": "So There's about a little bit over a 100 recent IPOs in this scan that fit my criteria."
+    },
+    {
+      "start": 418.34,
+      "end": 418.532,
+      "text": "This one I don't really use."
+    },
+    {
+      "start": 418.532,
+      "end": 419.86,
+      "text": "Can I add this one I don't really use?"
+    },
+    {
+      "start": 419.86,
+      "end": 425.88,
+      "text": "So five day gainers, another very short term momentum scan."
+    },
+    {
+      "start": 426.5,
+      "end": 436.715,
+      "text": "Here are the criteria and these are just stocks that have been strong the past five days and this is where I usually find my best short ideas."
+    },
+    {
+      "start": 438.215,
+      "end": 449.18,
+      "text": "Five day losers, I don't usually find many good setups here but sometimes I find some good meaner version longs in this scan."
+    },
+    {
+      "start": 450.59998,
+      "end": 457.65997,
+      "text": "Biggest one year losers, like this scan has given me a lot of winners or actually this one and the biggest two year losers."
+    },
+    {
+      "start": 458.315,
+      "end": 463.51498,
+      "text": "Basically the same thing as my other scams but instead of scanning for winners I scan for losers."
+    },
+    {
+      "start": 463.51498,
+      "end": 473.375,
+      "text": "So I scan for the 3.45% weakest stocks in the past two years and in the past one and two years."
+    },
+    {
+      "start": 475.81,
+      "end": 479.25,
+      "text": "And these kinds of stocks have really worked very well lately."
+    },
+    {
+      "start": 479.25,
+      "end": 497.67502,
+      "text": "Actually in the past year, since the market bottom February last year, this scan has had a lot of big winners because there's been a lot of stocks beaten down the dollar from double digits to maybe a dollar or something and then they double, triple because they get so cheap."
+    },
+    {
+      "start": 500.55002,
+      "end": 522.015,
+      "text": "So those are the scans and many of these scans I put in one watch list, today's momentum watch list, which I also have a scan for intraday where I scan for stocks that are up in this list that fits certain criteria."
+    },
+    {
+      "start": 522.47504,
+      "end": 540.12,
+      "text": "Today's momentum watchlist scan, so it scans this watchlist only, so the criteria are that the high of the day has to be above yesterday's closing price and today's range percent versus average daily range."
+    },
+    {
+      "start": 540.12,
+      "end": 564.21,
+      "text": "So let's say if the average daily range for a stock is, just to keep it simple let's say it's 10% which is a very high number, so this scam picks up all the stocks that are up at least 55% of the average daily range, so in this case it would mean at least 5.5%."
+    },
+    {
+      "start": 564.91,
+      "end": 567.73,
+      "text": "Now this is an extreme scenario but just to illustrate."
+    },
+    {
+      "start": 571.825,
+      "end": 578.325,
+      "text": "These are intraday scans, these scans I do nightly or once per week and these are intraday."
+    },
+    {
+      "start": 578.70496,
+      "end": 583.925,
+      "text": "So this is a scan for micro cap names basically, micro and small cap names."
+    },
+    {
+      "start": 586.72,
+      "end": 589.13995,
+      "text": "This is the criteria, nothing fancy."
+    },
+    {
+      "start": 590.48,
+      "end": 613.92004,
+      "text": "So this is a scan for stocks that are up at least 7%, these are usually stocks with news, Breakouts and this is a similar to the average this scan here that I just showed you but it scans for every stock in The US stock market and well here's the criteria for it."
+    },
+    {
+      "start": 615.34,
+      "end": 626.445,
+      "text": "Then I have also an intraday scan for my for the ADR stocks just to see which ones are up on the day because that's what I'm interested in."
+    },
+    {
+      "start": 628.265,
+      "end": 637.95,
+      "text": "Also I have a scan for the OTC names intraday to see what's moving."
+    },
+    {
+      "start": 638.57,
+      "end": 675.22,
+      "text": "These scans like to see what's moving on the day and define breakouts early and then I also have a scan for the biggest one and two year losers because stocks that I scan for here every night, every evening or actually every morning for me since I'm in Europe, these are more to find stocks to anticipate breakouts or stuff like that to have on my watch list while these scans these are like to see if I find something a good breakout that I didn't pick up on my scans."
+    },
+    {
+      "start": 676.98505,
+      "end": 686.98505,
+      "text": "So to find stocks that break out in real time or that cap up on news etc etc, stuff that's not on my watch list."
+    },
+    {
+      "start": 686.98505,
+      "end": 694.26,
+      "text": "Then I also have an ETF scan and but sometimes it's just fun to look at them."
+    },
+    {
+      "start": 696.08,
+      "end": 705.795,
+      "text": "So those are the scans pretty much, I'm a little bit pressed on time so I can't really talk much more about them."
+    },
+    {
+      "start": 707.555,
+      "end": 715.175,
+      "text": "I'm just gonna do a little bit scan for five minutes, I've done most of my scans but not all of this talk."
+    },
+    {
+      "start": 718.52997,
+      "end": 722.70996,
+      "text": "So this is I'm actually logged this thing in one of my accounts."
+    },
+    {
+      "start": 725.08997,
+      "end": 726.63,
+      "text": "I had great great earnings."
+    },
+    {
+      "start": 728.69,
+      "end": 732.365,
+      "text": "This is a ultra low float stock making a big move."
+    },
+    {
+      "start": 732.365,
+      "end": 733.825,
+      "text": "There's really nothing here."
+    },
+    {
+      "start": 734.045,
+      "end": 734.785,
+      "text": "No volume."
+    },
+    {
+      "start": 734.925,
+      "end": 747.9,
+      "text": "If this can keep up going up, let's say it goes to $10 today, picks up more volume, say over 1,000,000, then I would be interested to short it for tomorrow possibly to have it on my short watch list."
+    },
+    {
+      "start": 748.92004,
+      "end": 754.52,
+      "text": "This one had earnings but the better buy would have obviously been either here or here."
+    },
+    {
+      "start": 754.52,
+      "end": 764.085,
+      "text": "This is a third earnings gap up, not big probability of follow through."
+    },
+    {
+      "start": 765.585,
+      "end": 778.7,
+      "text": "So this one had some random move up on Friday, this one I'm long but actually they have data any day, I forgot to check so I hope they don't release data, bad data pre market."
+    },
+    {
+      "start": 778.7,
+      "end": 795.005,
+      "text": "I'm definitely gonna sell it today because this thing could cap down 50% of bad data and I have a bunch of shares on this thing so I don't wanna lose multiple 5 figures."
+    },
+    {
+      "start": 798.185,
+      "end": 799.325,
+      "text": "No setup here."
+    },
+    {
+      "start": 799.385,
+      "end": 801.565,
+      "text": "No this one I was thinking about buying on."
+    },
+    {
+      "start": 801.945,
+      "end": 802.925,
+      "text": "What is it?"
+    },
+    {
+      "start": 803.225,
+      "end": 805.96497,
+      "text": "Friday, Thursday, this is Wednesday."
+    },
+    {
+      "start": 806.69,
+      "end": 809.51,
+      "text": "Thinking about buying but you know it's hard."
+    },
+    {
+      "start": 810.21,
+      "end": 819.345,
+      "text": "These things that are few weeks from data they can have big moves but you never know which day the data is released so it's a little bit of a gamble, right?"
+    },
+    {
+      "start": 819.345,
+      "end": 828.08496,
+      "text": "This thing could very easily go to seven, eight, nine before the data and then gap down 50% on the data or gap up 50% but just too much of a gamble."
+    },
+    {
+      "start": 829.665,
+      "end": 834.84,
+      "text": "Just a random biotech now biotechs have been very strong, a lot of biotechs broke out last week."
+    },
+    {
+      "start": 837.56,
+      "end": 839.5,
+      "text": "This one is my short watch list."
+    },
+    {
+      "start": 842.52,
+      "end": 843.42004,
+      "text": "Another one."
+    },
+    {
+      "start": 847.65497,
+      "end": 851.995,
+      "text": "So I'm I'm gonna do a video about what to look for exactly in setups."
+    },
+    {
+      "start": 862.76996,
+      "end": 864.85,
+      "text": "Well, this is just that's what I do."
+    },
+    {
+      "start": 864.85,
+      "end": 878.445,
+      "text": "You can use the down arrow space bar to just go through a 100 hundreds of charts in, like, thirty minutes or twenty minutes or so I I really like this platform for scanning both intraday and, daily scanning."
+    },
+    {
+      "start": 879.22504,
+      "end": 883.945,
+      "text": "A watch list management, like I have a lot of watch lists, like different kinds."
+    },
+    {
+      "start": 883.945,
+      "end": 895.21,
+      "text": "You you know about these watch lists, my daily tracking watch list, and then I have different kind of sectors and just random watch list that I use."
+    },
+    {
+      "start": 895.99,
+      "end": 896.49,
+      "text": "Okay."
+    },
+    {
+      "start": 896.63,
+      "end": 899.05,
+      "text": "That's it for today."
+    }
+  ],
+  "language": "en",
+  "backend": "deepgram"
+}
