@@ -1,16 +1,16 @@
 ---
 title: "FHP"
-date: 2026-07-31
+date: 2026-08-03
 tags: [setups, wiki, auto-compiled]
-mention_count: 1779
-sources_count: 646
+mention_count: 1780
+sources_count: 647
 compilation_count: 1
 promote: false
 ---
 
 # FHP
 
-*Setups — compiled from 1779 mentions across 646 sources.*
+*Setups — compiled from 1780 mentions across 647 sources.*
 
 ## Mentions
 

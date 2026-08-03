@@ -1,16 +1,16 @@
 ---
 title: "Broken Business"
-date: 2026-07-31
+date: 2026-08-03
 tags: [concepts, wiki, auto-compiled]
-mention_count: 226
-sources_count: 141
+mention_count: 228
+sources_count: 142
 compilation_count: 1
 promote: false
 ---
 
 # Broken Business
 
-*Concepts — compiled from 226 mentions across 141 sources.*
+*Concepts — compiled from 228 mentions across 142 sources.*
 
 ## Mentions
 

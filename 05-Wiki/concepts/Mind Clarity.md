@@ -1,16 +1,16 @@
 ---
 title: "Mind Clarity"
-date: 2026-07-31
+date: 2026-08-03
 tags: [concepts, wiki, auto-compiled]
-mention_count: 1692
-sources_count: 622
+mention_count: 1694
+sources_count: 623
 compilation_count: 1
 promote: false
 ---
 
 # Mind Clarity
 
-*Concepts — compiled from 1692 mentions across 622 sources.*
+*Concepts — compiled from 1694 mentions across 623 sources.*
 
 ## Mentions
 

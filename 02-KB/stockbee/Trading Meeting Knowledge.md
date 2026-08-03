@@ -1,13 +1,13 @@
 ---
 title: "Trading Meeting Knowledge"
-date: 2026-07-31
+date: 2026-08-03
 tags: [knowledge, pradeep-bonde, meetings, methodology, market-monitor, evolving, trading]
 ---
 
 # Trading Meeting Knowledge
 
-> Living document compiled from 916 StockBee daily meeting transcripts (May 1 – Jun 10, 2026).
-> Last updated: **Friday, July 31, 2026**
+> Living document compiled from 918 StockBee daily meeting transcripts (May 1 – Jun 10, 2026).
+> Last updated: **Monday, August 03, 2026**
 > This note distills **how Pradeep monitors the market** and **applies his trading methodology** in real-time.
 
 ---
@@ -136,23 +136,23 @@ From daily meeting commentary:
 
 Tickers repeatedly discussed across sessions (setup candidates, examples, or warnings):
 
-- [[EP]] — mentioned 3457 times
-- [[AI]] — mentioned 1432 times
+- [[EP]] — mentioned 3462 times
+- [[AI]] — mentioned 1433 times
 - [[AMD]] — mentioned 811 times
-- [[DEP]] — mentioned 635 times
+- [[DEP]] — mentioned 641 times
 - [[US]] — mentioned 599 times
-- [[AM]] — mentioned 557 times
+- [[AM]] — mentioned 558 times
 - [[TQQ]] — mentioned 523 times
-- [[IPO]] — mentioned 520 times
+- [[IPO]] — mentioned 521 times
 - [[SMCI]] — mentioned 487 times
 - [[LTV]] — mentioned 463 times
 - [[IWM]] — mentioned 449 times
 - [[OPG]] — mentioned 415 times
-- [[PM]] — mentioned 395 times
+- [[PM]] — mentioned 396 times
 - [[TNA]] — mentioned 384 times
-- [[FOMO]] — mentioned 382 times
+- [[FOMO]] — mentioned 383 times
 - [[COVID]] — mentioned 339 times
-- [[NTRT]] — mentioned 326 times
+- [[NTRT]] — mentioned 327 times
 - [[SOS]] — mentioned 315 times
 - [[CEO]] — mentioned 236 times
 - [[ETF]] — mentioned 235 times
@@ -472,7 +472,7 @@ All daily session curated notes:
 
 | Date | Change |
 |------|--------|
-| 2026-07-31 | Initial creation from 916 meeting transcripts (May 1 – Jun 10, 2026) |
+| 2026-08-03 | Initial creation from 918 meeting transcripts (May 1 – Jun 10, 2026) |
 
 ---
 
