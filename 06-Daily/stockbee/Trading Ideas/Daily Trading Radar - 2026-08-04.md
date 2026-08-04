@@ -18,11 +18,11 @@ data_date: 2026-08-03
 > - **Breakouts:** 573 | **Breakdowns:** 74
 > - **Follow-through:** 3d=35.7% 5d=32.9% (OK)
 >
-> - Rally is 6 days mature — easy breakouts already happened, expect lower follow-through
-> - T2108 falling from 53.4% to 51.9% over 5 days — correction not fully resolved
-> - Net Primary still weak in absolute terms (+144) — needs to continue improving to confirm sustained bull
-> - Energy sectors (XOP, XLE) leading 20d RS with low 65d RS — possible rotation trap if tech/cloud falters
-> - Breakout follow-through data is N/A — cannot confirm breakouts are actually working
+> - Rally is 6 days mature — easy breakouts already happened, expect diminishing follow-through
+> - T2108 net decline over 5 days (53.4% to 51.9%) — not sharp but not rising either; needs to stabilize above 50%
+> - Follow-through data is N/A — cannot confirm whether recent breakouts are working
+> - Net Primary at +144 is moderate, not strongly bullish — needs to accelerate above +200 to confirm sustainable uptrend
+> - LLM: Net Primary is improving sharply from -13 to +144 with breakouts surging to 573 vs 74 breakdowns (7.7x ratio), and the 20% bull:bear ratio at 2.0 confirms aggressive fund buying. However, the rally is 6 days mature, T2108 is slightly down net over 5 days (53.4% to 51.9%), and Net Primary has not yet reached the +500 threshold for FULL_BULL, so buy A+ setups at reduced size with tight stops.
 
 ---
 
@@ -79,15 +79,15 @@ RS_20d: 5.62 | RS_65d: 3.95
 | Rank | Ticker | Theme | RS_20d | RS_65d | ETF 20d | SPY 20d | Excess | Status |
 |------|--------|-------|--------|--------|---------|---------|--------|--------|
 | 1 | XOP | oil_gas_e&p | 7.34 | 0.24 | +12.7% | +1.7% | +11.0% |  |
-| 2 | SKYY | cloud_computing | 5.62 | 3.95 | +9.7% | +1.7% | +8.0% | LEADING |
-| 3 | XLF | financials_broad | 1.83 | 1.65 | +3.2% | +1.7% | +1.4% |  |
-| 4 | FINX | fintech | 1.56 | 0.49 | +2.7% | +1.7% | +1.0% |  |
-| 5 | XLC | communications | 0.92 | -0.59 | +1.6% | +1.7% | -0.1% |  |
-| 6 | XLRE | real_estate | 0.65 | 0.45 | +1.1% | +1.7% | -0.6% |  |
-| 7 | XLY | consumer_discretionary | 0.54 | 0.16 | +0.9% | +1.7% | -0.8% |  |
-| 8 | PAVE | infrastructure | 0.39 | 0.50 | +0.7% | +1.7% | -1.0% |  |
-| 9 | BUG | cybersecurity | 0.01 | 7.23 | +0.0% | +1.7% | -1.7% |  |
-| 10 | BLOK | blockchain | -0.28 | 0.67 | -0.5% | +1.7% | -2.2% |  |
+| 2 | KWEB | china_internet | 7.11 | 0.40 | +12.3% | +1.7% | +10.6% |  |
+| 3 | SKYY | cloud_computing | 5.62 | 3.95 | +9.7% | +1.7% | +8.0% | LEADING |
+| 4 | SEA | shipping | 5.46 | 1.20 | +9.4% | +1.7% | +7.7% |  |
+| 5 | WOOD | timber_forestry | 4.64 | 0.98 | +8.0% | +1.7% | +6.3% |  |
+| 6 | XRT | retail | 2.53 | 1.41 | +4.4% | +1.7% | +2.6% |  |
+| 7 | IHI | medical_devices | 2.33 | 1.19 | +4.0% | +1.7% | +2.3% |  |
+| 8 | XLF | financials_broad | 1.83 | 1.65 | +3.2% | +1.7% | +1.4% |  |
+| 9 | IGV | software | 1.60 | 2.37 | +2.8% | +1.7% | +1.0% |  |
+| 10 | FINX | fintech | 1.56 | 0.49 | +2.7% | +1.7% | +1.0% |  |
 
 ---
 
@@ -95,15 +95,18 @@ RS_20d: 5.62 | RS_65d: 3.95
 
 **Sector Precursor Detection (3+ breakouts = GROUP MOVE (bullish)):**
 
+- **Industrials** (5 tickers, avg +12.0%) -> XLI [GROUP MOVE]
+  Tickers: SERV, FBIN, AIRJ, NNBR, NPO
+
 - **Consumer Cyclical** (4 tickers, avg +3.9%) -> XLY [GROUP MOVE]
   Tickers: WSM, PKG, FTDR, LZB
 
 - **Financial Services** (4 tickers, avg +4.9%) -> XLF [GROUP MOVE]
   Tickers: SSB, GCMG, SEZL, OPFI
 
-**Near-Precursor Sectors (2 breakouts -- watch for confirmation):**
+- **Healthcare** (3 tickers, avg +14.3%) -> XLV [GROUP MOVE]
+  Tickers: TWST, DNA, CAMP
 
-- Industrials (2 tickers) -> XLI: FBIN, NNBR
 
 ---
 
@@ -115,29 +118,29 @@ RS_20d: 5.62 | RS_65d: 3.95
 
 | Universe | Count | Notes |
 |----------|-------|-------|
-| Bullish (≥1.05, vol≥100K) | 1163 | Active uptrends |
-| Bearish (≤0.95, vol≥1M) | 437 | Active downtrends (short universe) |
-| Bearish (≤0.95, vol≥100K) | 814 | Wider bearish universe |
-| Neutral | 1914 | No clear trend |
-| **Young momentum** (C65 ≤ 10) | **119** | **First 10 days of bullish TI65 — highest reward/risk** |
-| Total scanned | 4329 | All tickers with ≥65 days history |
+| Bullish (≥1.05, vol≥100K) | 1169 | Active uptrends |
+| Bearish (≤0.95, vol≥1M) | 438 | Active downtrends (short universe) |
+| Bearish (≤0.95, vol≥100K) | 818 | Wider bearish universe |
+| Neutral | 1922 | No clear trend |
+| **Young momentum** (C65 ≤ 10) | **120** | **First 10 days of bullish TI65 — highest reward/risk** |
+| Total scanned | 4349 | All tickers with ≥65 days history |
 
 ### Young Momentum — TI65 Bullish, sorted by C65 ascending (20 shown, top 10)
 
 | Ticker | TI65 | C65 | D65 | C/C7 | Change% | Close | Volume |
 |--------|------|-----|-----|------|---------|-------|--------|
-| PMI | 2.75 | 1 | 99 | 32.062 | +5729.6% | $5.13 | 319,720 |
-| KWM | 2.09 | 1 | 85 | 26.797 | +3508.1% | $3.02 | 514,948 |
-| MVIS | 1.55 | 1 | 84 | 13.985 | +1347.4% | $3.85 | 795,984 |
-| FCUV | 1.37 | 1 | 98 | 4.978 | -0.9% | $11.50 | 12,575,873 |
-| DFNS | 1.13 | 1 | 99 | 15.769 | +122.2% | $61.50 | 13,958,723 |
-| NEXR | 1.12 | 1 | 89 | 8.354 | -14.4% | $3.02 | 2,271,403 |
-| PCOR | 1.08 | 1 | 75 | 1.345 | +0.9% | $55.26 | 3,551,835 |
-| CTSH | 1.08 | 1 | 92 | 1.283 | -0.3% | $55.17 | 7,789,678 |
-| EPAM | 1.07 | 1 | 95 | 1.245 | +1.6% | $107.26 | 1,813,917 |
-| BL | 1.07 | 1 | 79 | 1.195 | +4.4% | $32.78 | 1,040,358 |
+| SGP | 1.05 | 0 | 71 | 1.086 | +0.7% | $22.68 | 103,533 |
+| BR | 1.05 | 0 | 77 | 1.090 | +2.2% | $157.34 | 1,243,535 |
+| ADSK | 1.05 | 0 | 41 | 1.143 | +0.2% | $234.71 | 1,794,929 |
+| TMDX | 1.04 | 0 | 85 | 1.147 | +6.6% | $81.55 | 1,517,139 |
+| MATV | 1.04 | 0 | 86 | 1.155 | +3.9% | $9.07 | 469,630 |
+| YUMC | 1.04 | 0 | 61 | 1.121 | +0.3% | $48.35 | 1,763,084 |
+| CRM | 1.04 | 0 | 54 | 1.185 | +1.1% | $185.95 | 11,517,512 |
+| RMD | 1.04 | 0 | 73 | 1.121 | +2.0% | $215.19 | 1,465,147 |
+| WIX | 1.04 | 0 | 63 | 1.164 | +3.3% | $56.84 | 2,362,413 |
+| ULTA | 1.04 | 0 | 86 | 1.118 | +4.2% | $534.41 | 974,562 |
 
-### TI65 Anticipation — Bullish + ±0.4% narrow range day (151 candidates, top 20)
+### TI65 Anticipation — Bullish + ±0.4% narrow range day (170 candidates, top 20)
 
 > Stocks with established bullish momentum having a flat day — likely breakout setup.
 
@@ -172,14 +175,14 @@ RS_20d: 5.62 | RS_65d: 3.95
 |--------|------|-----|------|---------|-------|--------|
 | JDZG | 1.22 | 83 | 0.077 | -35.8% | $3.86 | 408,542 |
 | INHD | 1.73 | 54 | 0.238 | -47.7% | $9.42 | 1,601,368 |
+| MPLT | 0.54 | 78 | 0.356 | -3.6% | $12.55 | 992,296 |
 | FFAI | 4.52 | 9 | 0.459 | -16.9% | $4.93 | 2,771,615 |
+| SDOT | 0.96 | 20 | 0.707 | +2.0% | $13.51 | 150,491 |
+| SHAZ | 0.77 | 55 | 0.746 | +8.6% | $52.38 | 2,465,245 |
 | VCYT | 1.07 | 59 | 0.775 | -3.2% | $44.85 | 1,991,399 |
 | SKYQ | 1.37 | 41 | 0.798 | -3.2% | $4.50 | 2,100,760 |
+| SNDK | 0.75 | 89 | 0.800 | +6.0% | $1288.03 | 14,317,240 |
 | VEEE | 1.34 | 16 | 0.809 | +0.3% | $11.73 | 133,343 |
-| BBNX | 1.08 | 45 | 0.828 | +4.0% | $13.35 | 2,820,097 |
-| TGTX | 1.11 | 86 | 0.832 | -11.3% | $46.17 | 6,409,885 |
-| IOVA | 1.11 | 77 | 0.842 | +6.1% | $4.32 | 13,012,379 |
-| BTSG | 1.08 | 93 | 0.866 | +1.3% | $60.47 | 4,519,213 |
 
 ### TI65 Young Pullback — Anticipation Candidates (10 stocks)
 
@@ -189,16 +192,16 @@ RS_20d: 5.62 | RS_65d: 3.95
 
 | Ticker | TI65 | C65 | D65 | C/C7 | Change% | Close | Volume | Action |
 |--------|------|-----|-----|------|---------|-------|--------|--------|
+| CBRS | 0.89 | 0 | 45 | 1.000 | +10.7% | $219.97 | 4,742,465 | flat day — BSLO |
+| INLF | 0.01 | 0 | 95 | 0.995 | -12.2% | $3.73 | 167,388 | flat day — BSLO |
+| ITG | 0.97 | 0 | 9 | 0.982 | +4.6% | $13.53 | 402,919 | flat day — BSLO |
+| AZO | 0.96 | 0 | 54 | 1.023 | -0.9% | $2990.27 | 179,525 | near flat — watch |
+| KLRS | 0.79 | 0 | 95 | 1.033 | +15.4% | $4.05 | 155,902 | near flat — watch |
+| CRMT | 0.50 | 0 | 100 | 0.962 | +9.7% | $3.50 | 353,468 | flat day — BSLO |
+| EROC | 0.76 | 0 | 23 | 0.919 | +6.8% | $10.96 | 986,535 | pullback — buy dip |
+| AVAV | 0.91 | 1 | 89 | 1.003 | +6.6% | $159.18 | 960,484 | flat day — BSLO |
 | KBR | 1.05 | 1 | 60 | 1.020 | +1.3% | $37.09 | 1,644,447 | near flat — watch |
-| JRVR | 1.06 | 2 | 56 | 1.018 | +2.5% | $4.60 | 251,014 | flat day — BSLO |
-| GGG | 1.06 | 2 | 41 | 1.033 | +1.2% | $80.30 | 1,188,605 | near flat — watch |
-| CDRE | 1.06 | 3 | 63 | 1.012 | +0.1% | $30.85 | 406,481 | flat day — BSLO |
-| EFX | 1.06 | 3 | 60 | 1.044 | +0.9% | $174.11 | 1,081,350 | near flat — watch |
-| AWK | 1.05 | 4 | 21 | 0.977 | -2.1% | $131.30 | 2,495,037 | flat day — BSLO |
-| HIG | 1.06 | 5 | 3 | 1.005 | +0.7% | $142.90 | 2,244,986 | flat day — BSLO |
-| HAS | 1.07 | 5 | 37 | 1.047 | -2.6% | $91.47 | 1,765,477 | near flat — watch |
-| UTL | 1.05 | 7 | 0 | 0.968 | -0.8% | $53.51 | 156,472 | flat day — BSLO |
-| NBBK | 1.10 | 7 | 16 | 1.037 | +0.5% | $23.12 | 397,730 | near flat — watch |
+| AMIX | 0.51 | 1 | 65 | 1.043 | +6.1% | $3.65 | 223,992 | near flat — watch |
 
 ---
 
@@ -261,22 +264,28 @@ RS_20d: 5.62 | RS_65d: 3.95
 | GDYN | +4.5% | -1.0% | 2,301,707 | +11% | fresh |
 | DHC | +5.3% | -1.0% | 2,298,241 | -6% | fresh |
 
-### SOS Breakout Candidates (12 found — top 20)
+### SOS Breakout Candidates (18 found — top 20)
 
 | # | Ticker | Change% | Volume | Two Lynch | Leg | Priority |
 |---|--------|---------|--------|-----------|-----|----------|
 | 1 | WSM | +4.9% | 845,416 | 6/6 | 1 | highest |
-| 2 | TWST | +10.4% | 2,935,959 | 5/6 | 1 | highest |
-| 3 | FBIN | +5.9% | 2,720,887 | 5/6 | 1 | highest |
-| 4 | SSB | +2.6% | 1,022,042 | 5/6 | 1 | highest |
-| 5 | NNBR | +9.4% | 977,485 | 5/6 | 1 | highest |
-| 6 | HPP | +5.2% | 787,582 | 5/6 | 1 | highest |
-| 7 | GCMG | +5.5% | 648,835 | 5/6 | 1 | highest |
-| 8 | PKG | +2.1% | 640,073 | 5/6 | 1 | highest |
-| 9 | FTDR | +4.6% | 546,212 | 5/6 | 1 | highest |
-| 10 | SEZL | +5.4% | 466,181 | 5/6 | 1 | highest |
-| 11 | OPFI | +5.9% | 451,350 | 5/6 | 1 | highest |
-| 12 | LZB | +4.1% | 368,690 | 5/6 | 1 | highest |
+| 2 | SERV | +18.2% | 5,892,676 | 5/6 | 1 | highest |
+| 3 | TWST | +10.4% | 2,935,959 | 5/6 | 1 | highest |
+| 4 | FBIN | +5.9% | 2,720,887 | 5/6 | 1 | highest |
+| 5 | AIRJ | +20.1% | 2,351,615 | 5/6 | 1 | highest |
+| 6 | CEG | +4.2% | 2,322,159 | 5/6 | 1 | highest |
+| 7 | DNA | +10.5% | 1,419,818 | 5/6 | 1 | highest |
+| 8 | SSB | +2.6% | 1,022,042 | 5/6 | 1 | highest |
+| 9 | NNBR | +9.4% | 977,485 | 5/6 | 1 | highest |
+| 10 | HPP | +5.2% | 787,582 | 5/6 | 1 | highest |
+| 11 | GCMG | +5.5% | 648,835 | 5/6 | 1 | highest |
+| 12 | PKG | +2.1% | 640,073 | 5/6 | 1 | highest |
+| 13 | FTDR | +4.6% | 546,212 | 5/6 | 1 | highest |
+| 14 | SEZL | +5.4% | 466,181 | 5/6 | 1 | highest |
+| 15 | OPFI | +5.9% | 451,350 | 5/6 | 1 | highest |
+| 16 | LZB | +4.1% | 368,690 | 5/6 | 1 | highest |
+| 17 | CAMP | +22.0% | 295,963 | 5/6 | 1 | highest |
+| 18 | NPO | +6.4% | 290,855 | 5/6 | 1 | highest |
 
 ### EP 9M Long (3 found — top 15)
 
@@ -426,6 +435,34 @@ RS_20d: 5.62 | RS_65d: 3.95
   C/C7=1.097 (sort ascending for pullbacks)
 
 
+**SERV**
+- Industry: Industrial - Machinery
+- Sector: Industrials
+- Sector ETF: XLI (industrials_broad)
+- Market Cap: $0.4B
+- Fund Ownership: speculative - Speculative Glamour (small size)
+- Group Move: No (0 stocks in sector broke out today)
+- Breakout History (5 past swings):
+
+  | Date | Move% | Entry | Stop | Last Close | Volume | Result |
+  |------|-------|-------|------|------------|--------|--------|
+  | 2026-07-30 | +29.3% (2d) | $4.54 | $4.42 | $5.65 | 2,911,758 | PROFIT_80_20 |
+  | 2026-07-21 | +4.3% | $5.40 | $5.16 | $5.42 | 1,584,984 | STOPPED |
+  | 2026-06-29 | +5.7% | $6.25 | $5.86 | $6.35 | 4,342,000 | BREAKEVEN |
+  | 2026-06-18 | +4.5% | $6.96 | $6.58 | $6.99 | 7,501,639 | STOPPED |
+  | 2026-06-11 | +6.6% | $7.26 | $6.78 | $7.44 | 5,893,100 | STOPPED |
+- EMA:
+  - EMA5: $5.06
+  - EMA8: $5.03
+  - EMA10: $5.06
+  - EMA20: $5.35
+  - **Pullback rejection at EMA5 ($5.06)**
+    Low $4.80 dipped to EMA, closed $5.65 above (+11.7%)
+  - Price above all EMAs (uptrend confirmed)
+- TI65: 0.68 (bearish) | C65=0 D65=75
+  C/C7=1.121 (sort ascending for pullbacks)
+
+
 **TWST**
 - Industry: Medical - Diagnostics & Research
 - Sector: Healthcare
@@ -482,57 +519,32 @@ RS_20d: 5.62 | RS_65d: 3.95
   C/C7=1.048 (sort ascending for pullbacks)
 
 
-**SSB**
-- Industry: Banks - Regional
-- Sector: Financial Services
-- Sector ETF: KRE (regional_banks)
-- Market Cap: $10.5B
-- Fund Ownership: 1000+ - Gaining Interest (medium size)
-- Group Move: No (0 stocks in sector broke out today)
-- Breakout History (2 past swings):
-
-  | Date | Move% | Entry | Stop | Last Close | Volume | Result |
-  |------|-------|-------|------|------------|--------|--------|
-  | 2026-07-24 | +4.7% | $105.30 | $102.13 | $106.00 | 1,760,800 | SUCCESS |
-  | 2025-08-22 | +4.1% | $100.30 | $95.57 | $100.42 | 781,000 | SUCCESS |
-- EMA:
-  - EMA5: $106.03
-  - EMA8: $105.38
-  - EMA10: $104.99
-  - EMA20: $103.41
-  - **Pullback rejection at EMA5 ($106.03)**
-    Low $104.27 dipped to EMA, closed $107.85 above (+1.7%)
-  - Price above all EMAs (uptrend confirmed)
-- TI65: 1.08 (bullish **YOUNG MOMENTUM**) | C65=8 D65=17
-  C/C7=1.065 (sort ascending for pullbacks)
-
-
-**NNBR**
-- Industry: Conglomerates
+**AIRJ**
+- Industry: Electrical Equipment & Parts
 - Sector: Industrials
 - Sector ETF: XLI (industrials_broad)
-- Market Cap: $0.2B
+- Market Cap: $0.4B
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: No (0 stocks in sector broke out today)
 - Breakout History (5 past swings):
 
   | Date | Move% | Entry | Stop | Last Close | Volume | Result |
   |------|-------|-------|------|------------|--------|--------|
-  | 2026-07-30 | +17.5% (2d) | $3.20 | $3.02 | $3.62 | 1,421,517 | SUCCESS |
-  | 2026-07-17 | +15.2% (2d) | $3.14 | $2.90 | $3.48 | 1,461,600 | PROFIT_80_20 |
-  | 2026-07-06 | +6.0% | $3.63 | $3.37 | $3.70 | 3,307,400 | STOPPED |
-  | 2026-06-29 | +44.6% (2d) | $2.87 | $3.38 | $3.99 | 97,017,800 | PROFIT_80_20 |
-  | 2026-06-23 | +6.7% | $2.81 | $2.63 | $2.88 | 686,779 | STOPPED |
+  | 2026-07-21 | +42.7% (4d) | $3.70 | $3.56 | $5.08 | 231,156 | PROFIT_80_20 |
+  | 2026-06-30 | +20.4% | $4.78 | $4.63 | $5.54 | 2,963,200 | BREAKEVEN |
+  | 2026-06-17 | +15.2% (2d) | $4.38 | $4.17 | $4.85 | 1,333,300 | PROFIT_80_20 |
+  | 2026-06-04 | +8.6% | $5.54 | $4.85 | $5.79 | 3,649,806 | STOPPED |
+  | 2026-05-20 | +54.8% (6d) | $3.68 | $3.43 | $5.48 | 506,236 | PROFIT_80_20 |
 - EMA:
-  - EMA5: $3.42
-  - EMA8: $3.40
-  - EMA10: $3.40
-  - EMA20: $3.37
-  - **Pullback rejection at EMA5 ($3.42)**
-    Low $3.33 dipped to EMA, closed $3.62 above (+5.8%)
+  - EMA5: $4.52
+  - EMA8: $4.42
+  - EMA10: $4.38
+  - EMA20: $4.43
+  - **Pullback rejection at EMA5 ($4.52)**
+    Low $4.26 dipped to EMA, closed $5.08 above (+12.3%)
   - Price above all EMAs (uptrend confirmed)
-- TI65: 1.14 (bullish) | C65=80 D65=7
-  C/C7=1.058 (sort ascending for pullbacks)
+- TI65: 1.02 (neutral) | C65=44 D65=22
+  C/C7=1.134 (sort ascending for pullbacks)
 
 ---
 
@@ -570,10 +582,10 @@ RS_20d: 5.62 | RS_65d: 3.95
 | Ticker | SB Tier | Sector ETF | Decline from Peak | Notes |
 |--------|---------|-----------|-------------------|-------|
 | STAI | expanded | BUG | -99.9% | SB in weakening sector BUG (RS_20d=0.01), down 100% from peak |
+| MSPR | expanded | JETS | -99.5% | SB in weakening sector JETS (RS_20d=-1.16), down 99% from peak |
 | BSLK | expanded | XLB | -92.4% | SB in weakening sector XLB (RS_20d=-1.11), down 92% from peak |
 | ELPW | expanded | XLI | -89.8% | SB in weakening sector XLI (RS_20d=-0.24), down 90% from peak |
 | CAPR | expanded | XBI | -84.1% | SB in weakening sector XBI (RS_20d=-4.74), down 84% from peak |
-| INHD | expanded | XLK | -76.1% | SB in weakening sector XLK (RS_20d=-0.82), down 76% from peak |
 
 ### Momentum Inversion (5) — former leaders rolling over
 
@@ -599,7 +611,7 @@ RS_20d: 5.62 | RS_65d: 3.95
 
 ## 11. Action Summary
 
-- [ ] Sector group moves: Consumer Cyclical(4), Financial Services(4)
+- [ ] Sector group moves: Industrials(5), Consumer Cyclical(4), Financial Services(4)
 - [ ] Leading sector: SKYY — watch for setups in this sector
 
 ---
