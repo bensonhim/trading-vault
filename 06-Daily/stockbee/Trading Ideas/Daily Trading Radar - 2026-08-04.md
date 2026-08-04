@@ -18,11 +18,11 @@ data_date: 2026-08-03
 > - **Breakouts:** 573 | **Breakdowns:** 74
 > - **Follow-through:** 3d=35.7% 5d=32.9% (OK)
 >
-> - Rally mature at 6 days — easy breakouts already happened, new entries at higher risk
-> - T2108 falling over 5 days (53.4% to 51.9%) — breadth not yet confirming recovery
-> - Net Primary choppy with a -132 dip on 7/29 — trend improving but not smooth
-> - Follow-through data shows N/A for last 3 days — cannot confirm breakouts are sticking
-> - Net Primary still in moderate zone (+144) — needs to sustain above +200 for FULL_BULL
+> - Rally is 6 days mature — easy breakouts already happened, expect lower follow-through
+> - T2108 falling from 53.4% to 51.9% over 5 days — correction not fully resolved
+> - Net Primary still weak in absolute terms (+144) — needs to continue improving to confirm sustained bull
+> - Energy sectors (XOP, XLE) leading 20d RS with low 65d RS — possible rotation trap if tech/cloud falters
+> - Breakout follow-through data is N/A — cannot confirm breakouts are actually working
 
 ---
 
@@ -211,18 +211,27 @@ RS_20d: 5.62 | RS_65d: 3.95
 | Sub-Sector | Total | SOS | DEP | ANTS | EP9M | REV_BULL | Signal |
 |------------|-------|-----|-----|------|------|----------|--------|
 | Biotech Small | 28 | 7 | 0 | 0 | 0 | 21 | HOT |
-| Financials Broad | 19 | 7 | 0 | 0 | 0 | 12 | HOT |
-| Technology Broad | 17 | 2 | 0 | 0 | 0 | 15 | HOT |
-| Consumer Discretionary | 16 | 4 | 0 | 0 | 0 | 12 | HOT |
-| Utilities | 16 | 1 | 0 | 0 | 0 | 15 | HOT |
-| Semiconductors | 15 | 0 | 0 | 0 | 0 | 15 | HOT |
-| Materials | 14 | 2 | 0 | 0 | 0 | 12 | HOT |
+| Utilities | 15 | 0 | 0 | 0 | 0 | 15 | HOT |
+| Semiconductors | 14 | 0 | 0 | 0 | 0 | 14 | HOT |
+| Industrials Broad | 13 | 6 | 0 | 0 | 0 | 7 | HOT |
 | Home Construction | 12 | 5 | 0 | 0 | 0 | 7 | HOT |
-| Healthcare Broad | 11 | 4 | 0 | 0 | 0 | 7 | HOT |
-| Real Estate | 6 | 1 | 0 | 0 | 0 | 5 | HOT |
+| Software | 10 | 1 | 0 | 0 | 0 | 9 | HOT |
+| Financials Broad | 10 | 5 | 0 | 0 | 0 | 5 | HOT |
+| Materials | 10 | 1 | 0 | 0 | 0 | 9 | HOT |
+| Food Beverage | 9 | 3 | 0 | 0 | 0 | 6 | HOT |
+| Consumer Discretionary | 9 | 3 | 0 | 0 | 0 | 6 | HOT |
+| Technology Broad | 7 | 1 | 0 | 0 | 0 | 6 | HOT |
+| Healthcare Broad | 5 | 1 | 0 | 0 | 0 | 4 | HOT |
+| Real Estate | 5 | 1 | 0 | 0 | 0 | 4 | HOT |
+| Transportation | 5 | 0 | 0 | 0 | 0 | 5 | HOT |
 | Aerospace Defense | 4 | 1 | 0 | 0 | 0 | 3 | WARM |
+| Insurance | 4 | 0 | 0 | 0 | 0 | 4 | WARM |
 | Energy Broad | 4 | 0 | 0 | 0 | 0 | 4 | WARM |
 | Communications | 3 | 1 | 0 | 0 | 0 | 2 | WARM |
+| Retail | 3 | 1 | 0 | 0 | 0 | 2 | WARM |
+| Medical Devices | 3 | 2 | 0 | 0 | 0 | 1 | WARM |
+| Metals Mining | 3 | 0 | 0 | 0 | 0 | 3 | WARM |
+| Casinos Gaming | 3 | 0 | 0 | 0 | 0 | 3 | WARM |
 
 ---
 
@@ -392,7 +401,7 @@ RS_20d: 5.62 | RS_65d: 3.95
 **WSM**
 - Industry: Specialty Retail
 - Sector: Consumer Cyclical
-- Sector ETF: XLY (consumer_discretionary)
+- Sector ETF: XRT (retail)
 - Market Cap: $28.2B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: No (0 stocks in sector broke out today)
@@ -420,7 +429,7 @@ RS_20d: 5.62 | RS_65d: 3.95
 **TWST**
 - Industry: Medical - Diagnostics & Research
 - Sector: Healthcare
-- Sector ETF: XLV (healthcare_broad)
+- Sector ETF: IHI (medical_devices)
 - Market Cap: $6.3B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: No (0 stocks in sector broke out today)
@@ -476,7 +485,7 @@ RS_20d: 5.62 | RS_65d: 3.95
 **SSB**
 - Industry: Banks - Regional
 - Sector: Financial Services
-- Sector ETF: XLF (financials_broad)
+- Sector ETF: KRE (regional_banks)
 - Market Cap: $10.5B
 - Fund Ownership: 1000+ - Gaining Interest (medium size)
 - Group Move: No (0 stocks in sector broke out today)
@@ -501,6 +510,7 @@ RS_20d: 5.62 | RS_65d: 3.95
 **NNBR**
 - Industry: Conglomerates
 - Sector: Industrials
+- Sector ETF: XLI (industrials_broad)
 - Market Cap: $0.2B
 - Fund Ownership: speculative - Speculative Glamour (small size)
 - Group Move: No (0 stocks in sector broke out today)
@@ -560,10 +570,10 @@ RS_20d: 5.62 | RS_65d: 3.95
 | Ticker | SB Tier | Sector ETF | Decline from Peak | Notes |
 |--------|---------|-----------|-------------------|-------|
 | STAI | expanded | BUG | -99.9% | SB in weakening sector BUG (RS_20d=0.01), down 100% from peak |
-| MSPR | expanded | XLV | -99.5% | SB in weakening sector XLV (RS_20d=-0.53), down 99% from peak |
 | BSLK | expanded | XLB | -92.4% | SB in weakening sector XLB (RS_20d=-1.11), down 92% from peak |
+| ELPW | expanded | XLI | -89.8% | SB in weakening sector XLI (RS_20d=-0.24), down 90% from peak |
 | CAPR | expanded | XBI | -84.1% | SB in weakening sector XBI (RS_20d=-4.74), down 84% from peak |
-| ZYBT | expanded | XLV | -83.4% | SB in weakening sector XLV (RS_20d=-0.53), down 83% from peak |
+| INHD | expanded | XLK | -76.1% | SB in weakening sector XLK (RS_20d=-0.82), down 76% from peak |
 
 ### Momentum Inversion (5) — former leaders rolling over
 
