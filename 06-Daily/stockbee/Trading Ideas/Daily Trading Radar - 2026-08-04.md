@@ -18,11 +18,11 @@ data_date: 2026-08-03
 > - **Breakouts:** 573 | **Breakdowns:** 74
 > - **Follow-through:** 3d=35.7% 5d=32.9% (OK)
 >
-> - T2108 5-day trend falling — correction may still be in progress despite breadth improvement
-> - Rally mature at 6 days — easy breakouts already happened
-> - Follow-through data unavailable — cannot confirm breakout sustainability
-> - Intraday data appears stale (QQQ/SPY showing -7944% range which is likely a data error)
-> - LLM: Net Primary is improving sharply from -13 to +144 over 5 days with the latest day showing a massive breakout surge (573 BO vs 74 BD), and 20% bull:bear ratio at 2.0 confirms aggressive fund buying. However, T2108 is in a falling 5-day trend (53.4% → 51.9%) and the rally is 6 days mature, which caps the regime — buy A+ confluences at 75% size with tight stops.
+> - Rally mature at 6 days — easy breakouts already happened, new entries at higher risk
+> - T2108 falling over 5 days (53.4% to 51.9%) — breadth not yet confirming recovery
+> - Net Primary choppy with a -132 dip on 7/29 — trend improving but not smooth
+> - Follow-through data shows N/A for last 3 days — cannot confirm breakouts are sticking
+> - Net Primary still in moderate zone (+144) — needs to sustain above +200 for FULL_BULL
 
 ---
 
