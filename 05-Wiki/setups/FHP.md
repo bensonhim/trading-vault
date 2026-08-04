@@ -1,6 +1,6 @@
 ---
 title: "FHP"
-date: 2026-08-03
+date: 2026-08-04
 tags: [setups, wiki, auto-compiled]
 mention_count: 1780
 sources_count: 647

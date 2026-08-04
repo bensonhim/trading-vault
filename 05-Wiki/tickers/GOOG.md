@@ -1,16 +1,16 @@
 ---
 title: "GOOG"
-date: 2026-08-03
+date: 2026-08-04
 tags: [tickers, wiki, auto-compiled]
-mention_count: 66
-sources_count: 41
+mention_count: 67
+sources_count: 42
 compilation_count: 1
 promote: false
 ---
 
 # GOOG
 
-*Tickers — compiled from 66 mentions across 41 sources.*
+*Tickers — compiled from 67 mentions across 42 sources.*
 
 ## Mentions
 
@@ -80,6 +80,8 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-07-28.md|Session-2026-07-28]]: 8. **Earnings rejection season continues** — ASML, TSM, GOOG all had good earnings, all rejected. Market expected good earnings; CapEx is poison.
 
+> [[../../06-Daily/stockbee/Sessions/Session-2026-08-03.md|Session-2026-08-03]]: | [[GOOG]] | EP / gapping up | Money flowing into big caps |
+
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-12-07.md|Session-2023-12-07]]: | [[GOOG]] | Delayed Reaction | ⚠️ Secondary | Moving, but AMD is better |
 
 > [[../../06-Daily/stockbee/Sessions/2024/Session-2024-01-17.md|Session-2024-01-17]]: - [[GOOG]] — if closes near low, short it (8-10% downside)
@@ -91,8 +93,6 @@ promote: false
 > [[../../06-Daily/stockbee/Sessions/2024/Session-2024-02-16.md|Session-2024-02-16]]: - 9M EP: [[SMCI]] parabolic, [[META]], [[TSLA]], [[GOOG]], [[SNAP]] (delayed reaction short)
 
 > [[../../06-Daily/stockbee/Sessions/2024/Session-2024-02-21.md|Session-2024-02-21]]: - [[AXP]] (American Express), [[GOOG]] (Google) — delayed reaction candidates
-
-> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-01-13.md|Session-2025-01-13]]: | [[GOOG]] | Reversal bullish | N/A | Small position to test hypothesis |
 
 ## Related Concepts
 

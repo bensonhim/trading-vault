@@ -1,13 +1,13 @@
 ---
 title: "Trading Meeting Knowledge"
-date: 2026-08-03
+date: 2026-08-04
 tags: [knowledge, pradeep-bonde, meetings, methodology, market-monitor, evolving, trading]
 ---
 
 # Trading Meeting Knowledge
 
-> Living document compiled from 918 StockBee daily meeting transcripts (May 1 – Jun 10, 2026).
-> Last updated: **Monday, August 03, 2026**
+> Living document compiled from 920 StockBee daily meeting transcripts (May 1 – Jun 10, 2026).
+> Last updated: **Tuesday, August 04, 2026**
 > This note distills **how Pradeep monitors the market** and **applies his trading methodology** in real-time.
 
 ---
@@ -136,26 +136,26 @@ From daily meeting commentary:
 
 Tickers repeatedly discussed across sessions (setup candidates, examples, or warnings):
 
-- [[EP]] — mentioned 3462 times
-- [[AI]] — mentioned 1433 times
-- [[AMD]] — mentioned 811 times
-- [[DEP]] — mentioned 641 times
-- [[US]] — mentioned 599 times
-- [[AM]] — mentioned 558 times
-- [[TQQ]] — mentioned 523 times
-- [[IPO]] — mentioned 521 times
+- [[EP]] — mentioned 3470 times
+- [[AI]] — mentioned 1440 times
+- [[AMD]] — mentioned 813 times
+- [[DEP]] — mentioned 659 times
+- [[US]] — mentioned 600 times
+- [[AM]] — mentioned 559 times
+- [[IPO]] — mentioned 526 times
+- [[TQQ]] — mentioned 525 times
 - [[SMCI]] — mentioned 487 times
 - [[LTV]] — mentioned 463 times
-- [[IWM]] — mentioned 449 times
-- [[OPG]] — mentioned 415 times
-- [[PM]] — mentioned 396 times
+- [[IWM]] — mentioned 450 times
+- [[OPG]] — mentioned 416 times
+- [[PM]] — mentioned 397 times
+- [[FOMO]] — mentioned 385 times
 - [[TNA]] — mentioned 384 times
-- [[FOMO]] — mentioned 383 times
 - [[COVID]] — mentioned 339 times
 - [[NTRT]] — mentioned 327 times
-- [[SOS]] — mentioned 315 times
-- [[CEO]] — mentioned 236 times
-- [[ETF]] — mentioned 235 times
+- [[SOS]] — mentioned 318 times
+- [[ETF]] — mentioned 239 times
+- [[CEO]] — mentioned 237 times
 
 ---
 
@@ -203,6 +203,7 @@ Tickers repeatedly discussed across sessions (setup candidates, examples, or war
 
 All daily session curated notes:
 
+- [[Session-2026-08-03.md|Session-2026-08-03]]
 - [[Session-2026-08-02.md|Session-2026-08-02]]
 - [[Session-2026-07-30.md|Session-2026-07-30]]
 - [[Session-2026-07-29.md|Session-2026-07-29]]
@@ -473,7 +474,7 @@ All daily session curated notes:
 
 | Date | Change |
 |------|--------|
-| 2026-08-03 | Initial creation from 918 meeting transcripts (May 1 – Jun 10, 2026) |
+| 2026-08-04 | Initial creation from 920 meeting transcripts (May 1 – Jun 10, 2026) |
 
 ---
 

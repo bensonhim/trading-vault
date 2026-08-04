@@ -1,16 +1,16 @@
 ---
 title: "Entries"
-date: 2026-08-03
+date: 2026-08-04
 tags: [concepts, wiki, auto-compiled]
-mention_count: 1724
-sources_count: 721
+mention_count: 1725
+sources_count: 722
 compilation_count: 1
 promote: false
 ---
 
 # Entries
 
-*Concepts — compiled from 1724 mentions across 721 sources.*
+*Concepts — compiled from 1725 mentions across 722 sources.*
 
 ## Mentions
 

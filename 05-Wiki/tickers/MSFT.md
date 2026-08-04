@@ -1,16 +1,16 @@
 ---
 title: "MSFT"
-date: 2026-08-03
+date: 2026-08-04
 tags: [tickers, wiki, auto-compiled]
-mention_count: 64
-sources_count: 43
+mention_count: 66
+sources_count: 44
 compilation_count: 1
 promote: false
 ---
 
 # MSFT
 
-*Tickers — compiled from 64 mentions across 43 sources.*
+*Tickers — compiled from 66 mentions across 44 sources.*
 
 ## Mentions
 
@@ -72,6 +72,10 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-08-02.md|Session-2026-08-02]]: | [[MSFT]] | DEP candidate | "Around 10-20% over the next one year. Slow moving. Glacial." |
 
+> [[../../06-Daily/stockbee/Sessions/Session-2026-08-03.md|Session-2026-08-03]]: | [[MSFT]] | Delayed reaction EP | 24% move already. 40-50% possible if it sets up. Slow-moving. Watch. |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-08-03.md|Session-2026-08-03]]: | [[MSFT]] | Delayed reaction EP | Already 24% move. Slow-moving. |
+
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-21.md|Session-2023-11-21]]: [[TSLA]] — liquid lava, continuation setup. [[MSFT]] — also showing continuation.
 
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-21.md|Session-2023-11-21]]: | [[MSFT]] | Continuation | 🔄 Watching | Setting up |
@@ -89,10 +93,6 @@ promote: false
 > [[../../06-Daily/stockbee/Sessions/2024/Session-2024-08-22.md|Session-2024-08-22]]: | [[MSFT]] | Short (range expansion) | ⏳ Open | 1.78% risk, earnings not great, weak bounce |
 
 > [[../../06-Daily/stockbee/Sessions/2024/Session-2024-08-26.md|Session-2024-08-26]]: | [[MSFT]] | Short (range expansion) | ✅ Working | In profit, stop moved to breakeven-plus |
-
-> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-08-27.md|Session-2024-08-27]]: | [[MSFT]] | Short (range expansion) | ✅ Working | Stop moved up, in profit |
-
-> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-01-22.md|Session-2025-01-22]]: | [[MSFT]] | Intraday SIPs | Catalyst | Gap up intraday opportunity only |
 
 ## Related Concepts
 

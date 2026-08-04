@@ -1,16 +1,16 @@
 ---
 title: "AAPL"
-date: 2026-08-03
+date: 2026-08-04
 tags: [tickers, wiki, auto-compiled]
-mention_count: 65
-sources_count: 46
+mention_count: 66
+sources_count: 47
 compilation_count: 1
 promote: false
 ---
 
 # AAPL
 
-*Tickers — compiled from 65 mentions across 46 sources.*
+*Tickers — compiled from 66 mentions across 47 sources.*
 
 ## Mentions
 
@@ -72,6 +72,8 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-08-02.md|Session-2026-08-02]]: | [[AAPL]] | SIPs | "Apple is the SIPs today." |
 
+> [[../../06-Daily/stockbee/Sessions/Session-2026-08-03.md|Session-2026-08-03]]: | [[AAPL]] | EP 9M | One day wonder |
+
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-20.md|Session-2023-11-20]]: [[QQQ]], [[SPY]], [[BABA]], [[AAPL]], [[UBER]] — all showing continuation setups. The first leg has formed, now watching for second legs.
 
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-20.md|Session-2023-11-20]]: 8. **Continuation setups forming** — QQQ, SPY, AAPL, UBER showing second-leg potential
@@ -91,8 +93,6 @@ promote: false
 > [[../../06-Daily/stockbee/Sessions/2024/Session-2024-02-28.md|Session-2024-02-28]]: - Large caps (GOOGL, AAPL, AMZN, MSFT) going nowhere
 
 > [[../../06-Daily/stockbee/Sessions/2024/Session-2024-07-24.md|Session-2024-07-24]]: Nothing actionable. Large caps getting hammered. [[UNH]] and [[NVDA]] best-holding large caps. Everything else — AAPL, META, MSFT — looking like "wounded soldiers."
-
-> [[../../06-Daily/stockbee/Sessions/2025/Session-2025-01-21.md|Session-2025-01-21]]: | [[AAPL]] | Institutional selling | N/A | Clearly institutional selling — bearish signal |
 
 ## Related Concepts
 
