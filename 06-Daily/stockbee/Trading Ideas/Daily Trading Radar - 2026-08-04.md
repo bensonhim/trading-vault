@@ -18,11 +18,11 @@ data_date: 2026-08-03
 > - **Breakouts:** 573 | **Breakdowns:** 74
 > - **Follow-through:** 3d=35.7% 5d=32.9% (OK)
 >
-> - Rally mature at 6 days — easy breakouts already happened
-> - T2108 trending slightly lower (53.4% to 51.9%) — not yet stabilizing
-> - Net Primary still weak in absolute terms (+144) — not yet above +200
-> - Choppy Net Primary pattern with -132 spike on Jul 29 — still establishing uptrend
-> - LLM: Net Primary is improving from -13 to +144 over 5 days with breakouts dominating breakdowns (573 vs 74) on the latest day, and 20% study bull:bear ratio of 2.0 confirms aggressive fund buying. However, Net Primary is only in the moderately bullish zone (+144), T2108 is slightly falling (53.4% to 51.9%), and the rally is mature at 6 days — caution warranted but the trend is clearly recovering with leading sector SKYY showing positive 20d and 65d RS.
+> - Rally is 6 days mature — easy breakouts already happened, new entries carry higher risk
+> - T2108 5-day trend is slightly falling (53.4% to 51.9%) — breadth not fully confirmed yet
+> - Net Primary only moderately bullish at +144 — needs to sustain above +200 for full bull confirmation
+> - No breakout follow-through data available — cannot confirm breakouts are sticking
+> - Energy sectors (XOP, XLE) leading alongside tech (SKYY) — watch for rotation trap if tech falters
 
 ---
 
@@ -48,8 +48,8 @@ data_date: 2026-08-03
 | Fib 13% Up (34d) | 1808 | High | Stocks up 13%+ in 34 days |
 | Fib 13% Down (34d) | 1477 | Normal | Stocks down 13%+ in 34 days |
 | Fib 13% Ratio | 1.22 | Above 1.0 | Bullish medium-term |
-| 5-Day Ratio | 0.96 | Below 1.0 | Short-term normal |
-| 10-Day Ratio | 0.90 | Below 1.0 | Normal |
+| 5-Day Ratio | 1.34 | Above 1.0 | Short-term bullish |
+| 10-Day Ratio | 1.10 | Above 1.0 | Bullish |
 
 > [!warning] Secondary Indicator Warnings
 
