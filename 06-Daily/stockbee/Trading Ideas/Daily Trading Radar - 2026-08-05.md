@@ -18,11 +18,11 @@ data_date: 2026-08-04
 > - **Breakouts:** 718 | **Breakdowns:** 114
 > - **Follow-through:** 3d=39.1% 5d=40.0% (OK)
 >
-> - 20% study at 211 — euphoria territory, buying binge likely peaking
-> - Rally 7 days mature — easy breakouts already happened, expect pullback
-> - Net Primary approaching +500 but not there yet — bull is real but not at full strength
-> - No follow-through data available — cannot confirm breakouts are sticking
-> - LLM: Net Primary is improving sharply (+30 to +440 over 5 days) with T2108 rising from 47% to 56% and breakouts dominating 718-to-114 — all primary breadth indicators confirm a vigorous recovery underway. However, the 20% study is elevated at 211 (euphoria territory, >200) and the rally is 7 days mature, meaning the easy breakouts have already happened and a pullback is likely. The leading sector SKYY is healthy with positive 20d and 65d RS, but the combination of an overbought 20% study and extended rally maturity warrants reduced size and tighter stops rather than full commitment.
+> - Rally is 7 days old — extended, easy breakouts already happened
+> - 20% study at 211 — overbought caution territory, buying binge may be peaking
+> - 20% bull:bear ratio 4.49 is strong but confirms buying already occurred (lagging indicator)
+> - No breakout follow-through data available — unable to confirm breakout quality
+> - LLM: Net Primary has improved sharply from +30 to +440 over 5 days with T2108 rising from 48% to 55.6%, and breakouts are dominating breakdowns 718 to 114 — the bull is real and accelerating. However, the rally is 7 days mature (extended) and the 20% study is at 211 (overbought caution territory), which means the easy breakouts have already happened and buying aggression may be peaking. Buy A+ confluences at 75% size with tightened stops.
 
 ---
 
@@ -65,10 +65,6 @@ data_date: 2026-08-04
 **Breakout Follow-Through (last 10 days):** 3d=39.1% 5d=40.0% [OK]
 
 > When 5-day follow-through < 30%, breakouts are systematically failing. Pradeep: 'Just see what happened to breakouts from yesterday, and did they follow through.'
-
-
-> [!danger] SELLING SPREADING — Selling spreading to 3 sectors: Financial Services (26->43), Industrials (32->59), Utilities (2->5)
-> Pradeep: 'Selling is going to spread to the other stocks which are holding up.'
 
 ---
 
