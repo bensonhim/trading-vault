@@ -18,11 +18,11 @@ data_date: 2026-08-04
 > - **Breakouts:** 718 | **Breakdowns:** 114
 > - **Follow-through:** 3d=39.1% 5d=40.0% (OK)
 >
-> - 20% study at 211 — euphoria/overbought, buying binge already peaked
-> - Rally is 7 days mature and extended — easy breakouts already happened
-> - No breakout follow-through data available — cannot confirm breakouts are sticking
-> - T2108 rising sharply (+7.6 in 5 days) — watch for near-term pullback after rapid recovery
-> - LLM: Net Primary has surged from -132 to +440 over 5 days with T2108 rising 7+ points to 55.6%, and breakouts are dominating 6.3:1 — primary breadth is strongly bullish and improving. However, the 20% study at 211 (euphoria territory) and 7-day rally maturity signal that the easy breakouts have already happened and the buying binge is extended, warranting reduced size and tighter stops on new entries.
+> - 20% study at 211 — overbought caution, reduce size and tighten stops
+> - Rally is 7 days mature — easy breakouts already happened
+> - 20% study is lagging — confirms buying binge already occurred, not predictive
+> - Watch for intraday distribution (morning strength + afternoon fade) as a signal to further reduce
+> - LLM: Net Primary has improved dramatically from +30 to +440 over 5 days with T2108 rising from 48% to 55.6% (healthy bull range) and breakouts dominating breakdowns 6:1 — the underlying breadth trend is strongly bullish. However, the 20% study is elevated at 211 (overbought caution territory) and the rally is 7 days mature (extended), meaning the easy breakouts have already happened and a pullback is likely. Buy A+ confluences at reduced size with tightened stops; do not chase extended setups.
 
 ---
 
@@ -281,7 +281,11 @@ RS_20d: 4.32 | RS_65d: 3.47
 
 | Ticker | Close | Pause | 5d% | Entry | Stop | Width | EMA | Method | Swing Low | Sub-Sector | Priority |
 |--------|-------|-------|-----|-------|------|-------|-----|--------|-----------|------------|----------|
+| NBIS | $225.74 | 3d | +33.0% | $192.31 | $181.21 | 5.8% | EMA5=$183.04 | EMA5 rejection | $145.80 | IGV | high |
+| SEI | $57.92 | 3d | +22.4% | $51.92 | $50.46 | 2.8% | EMA5=$50.97 | EMA5 rejection | $42.68 | XLE | high |
+| BRUN | $22.42 | 3d | +34.3% | $20.24 | $19.25 | 4.9% | EMA5=$19.44 | EMA5 rejection | $15.58 | IGV | high |
 | BLKB | $45.50 | 2d | +26.6% | $45.95 | $42.13 | 8.3% | EMA5=$42.56 | EMA5 rejection | $26.44 | IGV | high |
+| WULF | $18.88 | 3d | +10.5% | $17.84 | $17.31 | 3.0% | EMA5=$17.48 | EMA5 rejection | $14.81 | IGV | medium |
 | NOW | $118.14 | 3d | +6.8% | $112.34 | $108.40 | 3.5% | EMA5=$109.50 | EMA5 rejection | $89.39 | IGV | medium |
 | TOST | $33.81 | 3d | +4.5% | $32.59 | $31.65 | 2.9% | EMA5=$31.97 | EMA5 rejection | $24.84 | IGV | medium |
 | PCOR | $55.90 | 3d | +14.5% | $57.75 | $52.37 | 9.3% | - | pause high | $38.03 | IGV | medium |
@@ -290,17 +294,13 @@ RS_20d: 4.32 | RS_65d: 3.47
 | JPM | $357.52 | 3d | +0.1% | $355.31 | $347.42 | 2.2% | EMA5=$350.93 | EMA5 rejection | $325.01 | KBE | medium |
 | BOX | $31.76 | 3d | +0.8% | $31.87 | $30.85 | 3.2% | EMA5=$31.17 | EMA5 rejection | $24.76 | IGV | medium |
 | APP | $419.70 | 3d | +0.4% | $410.22 | $400.20 | 2.4% | EMA5=$404.24 | EMA5 rejection | $377.71 | IGV | medium |
-| IOT | $38.60 | 2d | +2.9% | $37.50 | $36.43 | 2.9% | EMA5=$36.80 | EMA5 rejection | $28.77 | IGV | medium |
+| GLXY | $22.14 | 3d | +5.7% | $22.10 | $21.20 | 4.0% | EMA5=$21.42 | EMA5 rejection | $18.22 | KBE | medium |
+| KVYO | $19.13 | 3d | +1.3% | $19.32 | $18.26 | 5.5% | EMA5=$18.45 | EMA5 rejection | $13.58 | IGV | medium |
+| IOT | $38.60 | 3d | +2.9% | $37.64 | $36.26 | 3.7% | EMA5=$36.63 | EMA5 rejection | $28.77 | IGV | medium |
+| TEAM | $110.31 | 3d | +10.3% | $102.03 | $97.56 | 4.4% | EMA5=$98.54 | EMA5 rejection | $74.41 | IGV | medium |
 | ADBE | $257.49 | 3d | +3.3% | $252.91 | $244.73 | 3.2% | EMA5=$247.20 | EMA5 rejection | $191.80 | IGV | medium |
 | BSY | $36.08 | 3d | +0.7% | $35.79 | $34.61 | 3.3% | EMA5=$34.96 | EMA5 rejection | $28.08 | IGV | medium |
 | INTU | $323.60 | 3d | +3.4% | $319.23 | $310.68 | 2.7% | EMA5=$313.81 | EMA5 rejection | $253.21 | IGV | medium |
-| NAVN | $27.87 | 3d | +5.8% | $26.89 | $25.94 | 3.5% | EMA5=$26.20 | EMA5 rejection | $21.14 | IGV | medium |
-| WDAY | $171.28 | 3d | +7.3% | $161.94 | $155.25 | 4.1% | EMA5=$156.81 | EMA5 rejection | $113.51 | IGV | medium |
-| NTNX | $61.50 | 3d | +4.1% | $59.60 | $57.78 | 3.0% | EMA5=$58.37 | EMA5 rejection | $45.86 | IGV | medium |
-| REAL | $12.72 | 3d | +6.6% | $12.21 | $11.73 | 4.0% | EMA5=$11.85 | EMA5 rejection | $10.04 | XRT | medium |
-| GTLB | $36.48 | 3d | +10.6% | $34.86 | $33.28 | 4.5% | EMA5=$33.61 | EMA5 rejection | $26.93 | IGV | medium |
-| VLO | $308.73 | 3d | +3.3% | $316.03 | $304.97 | 3.5% | EMA5=$308.05 | EMA5 rejection | $236.10 | XLE | medium |
-| ADP | $270.62 | 3d | +2.4% | $269.12 | $260.85 | 3.1% | EMA5=$263.48 | EMA5 rejection | $216.04 | IGV | medium |
 
 ---
 
