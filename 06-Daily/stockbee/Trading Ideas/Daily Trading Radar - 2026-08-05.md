@@ -18,11 +18,11 @@ data_date: 2026-08-04
 > - **Breakouts:** 718 | **Breakdowns:** 114
 > - **Follow-through:** 3d=39.1% 5d=40.0% (OK)
 >
-> - 20% study overbought at 211 — caution territory, reduce size and tighten stops
+> - 20% study at 211 — euphoria/overbought, buying binge already peaked
 > - Rally is 7 days mature and extended — easy breakouts already happened
-> - No breakout follow-through data available — cannot confirm breakouts are holding
-> - Net Primary at +440 approaching +500 threshold but not yet there — bull is real but not full-conviction
-> - LLM: Net Primary has rocketed from -132 to +440 over 5 days with T2108 rising from 48% to 55.6% — a sharp V-shaped recovery with breakouts dominating 6:1 today. However, the 20% study is overbought at 211 (caution territory) and the rally is 7 days mature and extended, meaning the easy breakouts have already happened. The leading sector SKYY is healthy with positive 20d and 65d RS (no top-forming pattern), but Pradeep's framework calls for reducing size when 20% study exceeds 100 even in a strong uptrend.
+> - No breakout follow-through data available — cannot confirm breakouts are sticking
+> - T2108 rising sharply (+7.6 in 5 days) — watch for near-term pullback after rapid recovery
+> - LLM: Net Primary has surged from -132 to +440 over 5 days with T2108 rising 7+ points to 55.6%, and breakouts are dominating 6.3:1 — primary breadth is strongly bullish and improving. However, the 20% study at 211 (euphoria territory) and 7-day rally maturity signal that the easy breakouts have already happened and the buying binge is extended, warranting reduced size and tighter stops on new entries.
 
 ---
 
