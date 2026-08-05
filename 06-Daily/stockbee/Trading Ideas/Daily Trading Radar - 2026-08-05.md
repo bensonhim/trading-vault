@@ -18,11 +18,11 @@ data_date: 2026-08-04
 > - **Breakouts:** 718 | **Breakdowns:** 114
 > - **Follow-through:** 3d=39.1% 5d=40.0% (OK)
 >
-> - 20% study at 211 — overbought caution territory, buying binge likely already peaked
-> - Rally 7 days mature — easy breakouts already happened, new entries are lower probability
-> - 20% bull:bear ratio 4.49 is strong but confirms lagging buying binge, not forward-looking signal
-> - Watch for breakout follow-through failure — if tomorrow's breakouts squat or reverse, tighten further
-> - LLM: Net Primary has improved sharply from +30 to +440 over 5 days with T2108 rising from 48% to 55.6% (healthy bull range) and breakouts dominating 718 to 114 — all primary breadth indicators confirm aggressive accumulation. However, the 20% study at 211 stocks up 20%+ is in overbought caution territory and the rally is 7 days mature (extended), meaning the easy breakouts have already happened and the lagging 20% study confirms the buying binge already peaked. Buy A+ confluences at reduced size with tight stops; do not chase extended names.
+> - 20% study at 211 — euphoria territory, buying binge likely peaking
+> - Rally 7 days mature — easy breakouts already happened, expect pullback
+> - Net Primary approaching +500 but not there yet — bull is real but not at full strength
+> - No follow-through data available — cannot confirm breakouts are sticking
+> - LLM: Net Primary is improving sharply (+30 to +440 over 5 days) with T2108 rising from 47% to 56% and breakouts dominating 718-to-114 — all primary breadth indicators confirm a vigorous recovery underway. However, the 20% study is elevated at 211 (euphoria territory, >200) and the rally is 7 days mature, meaning the easy breakouts have already happened and a pullback is likely. The leading sector SKYY is healthy with positive 20d and 65d RS, but the combination of an overbought 20% study and extended rally maturity warrants reduced size and tighter stops rather than full commitment.
 
 ---
 
@@ -247,6 +247,8 @@ RS_20d: 4.32 | RS_65d: 3.47
 
 ### SOS Breakout Candidates (0 found — top 20)
 
+> [!tip] **Entry**: Buy in first 30 min on range expansion. Stop = low of day (2-5%). Never buy 2nd/3rd day of swing.
+
 | # | Ticker | Change% | Volume | Two Lynch | Leg | Priority |
 |---|--------|---------|--------|-----------|-----|----------|
 
@@ -264,10 +266,14 @@ RS_20d: 4.32 | RS_65d: 3.47
 
 ### DEP Candidates (0 found)
 
+> [!tip] **Entry**: Buy in first 10 min when stock shows life after orderly pullback. Stop = consolidation low - 1% (0.5-2.5%). First valid setup ONLY, not second leg.
+
 | # | Ticker | Days Since | Pullback | Width | Entry | Stop | Priority |
 |---|--------|-----------|----------|-------|-------|------|----------|
 
 ### ANTS Candidates (0 found — top 20 with tight tier)
+
+> [!tip] **Entry**: Place BSLO at close+1% before market open. Trigger fills at close+1%, limit at trigger+0.25%. Stop = consolidation low - 1%.
 
 | # | Ticker | Price | Tight Tier | Tight Days | Priority |
 |---|--------|-------|-----------|------------|----------|
@@ -339,6 +345,8 @@ RS_20d: 4.32 | RS_65d: 3.47
 ---
 
 ## 10. Short-Side Setups (28 candidates)
+
+> [!warning] **Entry**: Short on gap-down open or intraday breakdown. Stop = above gap-down high or consolidation high. Best in DISTRIBUTING/BEARISH regime.
 
 ### EP 9M Short (3) — negative surprise gap-downs
 
