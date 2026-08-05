@@ -1,16 +1,16 @@
 ---
 title: "Trade Management"
-date: 2026-08-04
+date: 2026-08-05
 tags: [concepts, wiki, auto-compiled]
-mention_count: 327
-sources_count: 227
+mention_count: 328
+sources_count: 228
 compilation_count: 1
 promote: false
 ---
 
 # Trade Management
 
-*Concepts — compiled from 327 mentions across 227 sources.*
+*Concepts — compiled from 328 mentions across 228 sources.*
 
 ## Mentions
 

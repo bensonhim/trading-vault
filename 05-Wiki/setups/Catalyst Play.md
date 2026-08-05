@@ -1,6 +1,6 @@
 ---
 title: "Catalyst Play"
-date: 2026-08-04
+date: 2026-08-05
 tags: [setups, wiki, auto-compiled]
 mention_count: 28
 sources_count: 25

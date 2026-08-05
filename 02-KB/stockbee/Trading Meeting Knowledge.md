@@ -1,13 +1,13 @@
 ---
 title: "Trading Meeting Knowledge"
-date: 2026-08-04
+date: 2026-08-05
 tags: [knowledge, pradeep-bonde, meetings, methodology, market-monitor, evolving, trading]
 ---
 
 # Trading Meeting Knowledge
 
-> Living document compiled from 920 StockBee daily meeting transcripts (May 1 – Jun 10, 2026).
-> Last updated: **Tuesday, August 04, 2026**
+> Living document compiled from 922 StockBee daily meeting transcripts (May 1 – Jun 10, 2026).
+> Last updated: **Wednesday, August 05, 2026**
 > This note distills **how Pradeep monitors the market** and **applies his trading methodology** in real-time.
 
 ---
@@ -136,24 +136,24 @@ From daily meeting commentary:
 
 Tickers repeatedly discussed across sessions (setup candidates, examples, or warnings):
 
-- [[EP]] — mentioned 3470 times
-- [[AI]] — mentioned 1440 times
-- [[AMD]] — mentioned 813 times
-- [[DEP]] — mentioned 659 times
-- [[US]] — mentioned 600 times
-- [[AM]] — mentioned 559 times
+- [[EP]] — mentioned 3473 times
+- [[AI]] — mentioned 1450 times
+- [[AMD]] — mentioned 816 times
+- [[DEP]] — mentioned 671 times
+- [[US]] — mentioned 601 times
+- [[AM]] — mentioned 560 times
 - [[IPO]] — mentioned 526 times
 - [[TQQ]] — mentioned 525 times
-- [[SMCI]] — mentioned 487 times
+- [[SMCI]] — mentioned 490 times
 - [[LTV]] — mentioned 463 times
 - [[IWM]] — mentioned 450 times
 - [[OPG]] — mentioned 416 times
-- [[PM]] — mentioned 397 times
-- [[FOMO]] — mentioned 385 times
+- [[PM]] — mentioned 398 times
+- [[FOMO]] — mentioned 390 times
 - [[TNA]] — mentioned 384 times
 - [[COVID]] — mentioned 339 times
-- [[NTRT]] — mentioned 327 times
-- [[SOS]] — mentioned 318 times
+- [[NTRT]] — mentioned 335 times
+- [[SOS]] — mentioned 320 times
 - [[ETF]] — mentioned 239 times
 - [[CEO]] — mentioned 237 times
 
@@ -474,7 +474,7 @@ All daily session curated notes:
 
 | Date | Change |
 |------|--------|
-| 2026-08-04 | Initial creation from 920 meeting transcripts (May 1 – Jun 10, 2026) |
+| 2026-08-05 | Initial creation from 922 meeting transcripts (May 1 – Jun 10, 2026) |
 
 ---
 

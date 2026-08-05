@@ -1,16 +1,16 @@
 ---
 title: "Breakout"
-date: 2026-08-04
+date: 2026-08-05
 tags: [setups, wiki, auto-compiled]
-mention_count: 14153
-sources_count: 1558
+mention_count: 14159
+sources_count: 1560
 compilation_count: 1
 promote: false
 ---
 
 # Breakout
 
-*Setups — compiled from 14153 mentions across 1558 sources.*
+*Setups — compiled from 14159 mentions across 1560 sources.*
 
 ## Mentions
 

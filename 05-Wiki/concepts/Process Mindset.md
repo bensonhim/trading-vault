@@ -1,6 +1,6 @@
 ---
 title: "Process Mindset"
-date: 2026-08-04
+date: 2026-08-05
 tags: [concepts, wiki, auto-compiled]
 mention_count: 1595
 sources_count: 483

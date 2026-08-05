@@ -1,16 +1,16 @@
 ---
 title: "Situational Awareness"
-date: 2026-08-04
+date: 2026-08-05
 tags: [concepts, wiki, auto-compiled]
-mention_count: 108618
-sources_count: 1754
+mention_count: 108904
+sources_count: 1756
 compilation_count: 1
 promote: false
 ---
 
 # Situational Awareness
 
-*Concepts — compiled from 108618 mentions across 1754 sources.*
+*Concepts — compiled from 108904 mentions across 1756 sources.*
 
 ## Mentions
 
