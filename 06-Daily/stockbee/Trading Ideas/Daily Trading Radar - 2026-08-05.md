@@ -18,11 +18,11 @@ data_date: 2026-08-04
 > - **Breakouts:** 718 | **Breakdowns:** 114
 > - **Follow-through:** 3d=39.1% 5d=40.0% (OK)
 >
-> - Rally is 7 days old — extended, easy breakouts already happened
-> - 20% study at 211 — overbought caution territory, buying binge may be peaking
-> - 20% bull:bear ratio 4.49 is strong but confirms buying already occurred (lagging indicator)
-> - No breakout follow-through data available — unable to confirm breakout quality
-> - LLM: Net Primary has improved sharply from +30 to +440 over 5 days with T2108 rising from 48% to 55.6%, and breakouts are dominating breakdowns 718 to 114 — the bull is real and accelerating. However, the rally is 7 days mature (extended) and the 20% study is at 211 (overbought caution territory), which means the easy breakouts have already happened and buying aggression may be peaking. Buy A+ confluences at 75% size with tightened stops.
+> - 20% study at 211 (euphoria) — buying binge likely peaking, lagging confirmation of recent aggressive buying
+> - Rally is 7 days mature and extended — most easy breakouts already happened, 'yesterday was the day' risk
+> - Net Primary at +440 approaching +500 but not yet confirmed at that level for FULL_BULL
+> - Follow-through data unavailable (N/A) — cannot confirm breakout quality
+> - LLM: Net Primary has surged from +30 to +440 over 5 days with T2108 rising from 48% to 55.6% — a strong recovery with breakouts dominating breakdowns 718 to 114. However, the 20% study at 211 (euphoria territory) combined with a 7-day mature rally and overbought conditions means the easy breakouts have already happened and the buying binge is peaking. Leading sector SKYY has positive 20d and 65d RS (no rollover), so this is a healthy bull that is extended, not a top forming.
 
 ---
 
@@ -273,6 +273,34 @@ RS_20d: 4.32 | RS_65d: 3.47
 
 | # | Ticker | Price | Tight Tier | Tight Days | Priority |
 |---|--------|-------|-----------|------------|----------|
+
+### Continuation Pause (50 found — top 20)
+
+> [!tip] **Entry**: Buy-Stop-Limit at pause high + 1%. Stop = 1% below pause low.
+> Stock paused 2-3 days after 20%+ move, pullback completed, still above swing start low. In hot sub-sector.
+
+| Ticker | Close | Pause | 5d% | Entry | Stop | Width | Swing Low | Sub-Sector | Priority |
+|--------|-------|-------|-----|-------|------|-------|-----------|------------|----------|
+| BLKB | $45.50 | 2d | +26.6% | $46.50 | $42.20 | 9.2% | $26.44 | IGV | high |
+| NOW | $118.14 | 3d | +6.8% | $120.84 | $104.99 | 13.1% | $89.39 | IGV | medium |
+| TOST | $33.81 | 3d | +4.5% | $34.33 | $31.38 | 8.6% | $24.84 | IGV | medium |
+| PCOR | $55.90 | 3d | +14.5% | $57.75 | $52.37 | 9.3% | $38.03 | IGV | medium |
+| ANET | $190.51 | 2d | +12.3% | $196.29 | $171.72 | 12.5% | $154.74 | IGV | medium |
+| CRM | $190.99 | 3d | +5.2% | $195.64 | $175.26 | 10.4% | $148.78 | IGV | medium |
+| LYFT | $16.73 | 3d | +8.3% | $16.97 | $15.21 | 10.4% | $13.49 | IGV | medium |
+| JPM | $357.52 | 3d | +0.1% | $366.63 | $346.20 | 5.6% | $325.01 | KBE | medium |
+| BOX | $31.76 | 3d | +0.8% | $32.98 | $30.37 | 7.9% | $24.76 | IGV | medium |
+| APP | $419.70 | 3d | +0.4% | $431.17 | $373.93 | 13.3% | $377.71 | IGV | medium |
+| IOT | $38.60 | 2d | +2.9% | $39.25 | $36.50 | 7.0% | $28.77 | IGV | medium |
+| ADBE | $257.49 | 3d | +3.3% | $264.77 | $238.82 | 9.8% | $191.80 | IGV | medium |
+| ZM | $102.12 | 2d | +11.6% | $103.27 | $95.69 | 7.3% | $82.27 | IGV | medium |
+| BSY | $36.08 | 3d | +0.7% | $37.05 | $33.76 | 8.9% | $28.08 | IGV | medium |
+| INTU | $323.60 | 3d | +3.4% | $334.46 | $303.74 | 9.2% | $253.21 | IGV | medium |
+| NAVN | $27.87 | 3d | +5.8% | $28.35 | $25.75 | 9.2% | $21.14 | IGV | medium |
+| WDAY | $171.28 | 3d | +7.3% | $173.89 | $150.58 | 13.4% | $113.51 | IGV | medium |
+| SSNC | $81.06 | 3d | +4.1% | $82.02 | $75.13 | 8.4% | $61.40 | IGV | medium |
+| NTNX | $61.50 | 3d | +4.1% | $62.55 | $57.37 | 8.3% | $45.86 | IGV | medium |
+| HD | $348.24 | 3d | +1.1% | $354.37 | $325.51 | 8.1% | $323.05 | XRT | medium |
 
 ---
 
