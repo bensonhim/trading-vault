@@ -2,15 +2,15 @@
 title: "Anticipation"
 date: 2026-08-05
 tags: [concepts, wiki, auto-compiled]
-mention_count: 16893
-sources_count: 1572
+mention_count: 16896
+sources_count: 1573
 compilation_count: 1
 promote: false
 ---
 
 # Anticipation
 
-*Concepts — compiled from 16893 mentions across 1572 sources.*
+*Concepts — compiled from 16896 mentions across 1573 sources.*
 
 ## Mentions
 

@@ -2,15 +2,15 @@
 title: "EP9M"
 date: 2026-08-05
 tags: [setups, wiki, auto-compiled]
-mention_count: 1930
-sources_count: 371
+mention_count: 1935
+sources_count: 372
 compilation_count: 1
 promote: false
 ---
 
 # EP9M
 
-*Setups — compiled from 1930 mentions across 371 sources.*
+*Setups — compiled from 1935 mentions across 372 sources.*
 
 ## Mentions
 

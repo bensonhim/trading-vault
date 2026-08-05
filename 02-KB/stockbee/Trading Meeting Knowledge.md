@@ -203,6 +203,7 @@ Tickers repeatedly discussed across sessions (setup candidates, examples, or war
 
 All daily session curated notes:
 
+- [[Session-2026-08-04.md|Session-2026-08-04]]
 - [[Session-2026-08-03.md|Session-2026-08-03]]
 - [[Session-2026-08-02.md|Session-2026-08-02]]
 - [[Session-2026-07-30.md|Session-2026-07-30]]

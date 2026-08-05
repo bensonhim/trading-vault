@@ -2,15 +2,15 @@
 title: "AMZN"
 date: 2026-08-05
 tags: [tickers, wiki, auto-compiled]
-mention_count: 59
-sources_count: 42
+mention_count: 60
+sources_count: 43
 compilation_count: 1
 promote: false
 ---
 
 # AMZN
 
-*Tickers — compiled from 59 mentions across 42 sources.*
+*Tickers — compiled from 60 mentions across 43 sources.*
 
 ## Mentions
 
@@ -52,6 +52,8 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-08-03.md|Session-2026-08-03]]: | [[AMZN]] | EP / delayed reaction | "Went crazy." Already made big move. |
 
+> [[../../06-Daily/stockbee/Sessions/Session-2026-08-04.md|Session-2026-08-04]]: | [[AMZN]] | Gap up | "Went crazy." Already made the move. |
+
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-01.md|Session-2023-11-01]]: | [[AMZN]] | Earnings Reaction | ✅ Positive reaction | Reacted positively to earnings |
 
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-01.md|Session-2023-11-01]]: | [[AMZN]] | Earnings | ✅ Positive | Reacted positively to earnings |
@@ -91,8 +93,6 @@ promote: false
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-22.md|Session-2023-11-22]]: | [[AMZN]] | — | ⚠️ Stopped out | Turned negative |
 
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-12-05.md|Session-2023-12-05]]: | [[AMZN]] | Liquid Lava | ⚠️ Faded | Took stop out |
-
-> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-12-18.md|Session-2023-12-18]]: | [[AMZN]] | Extended | ❌ 4th day | Fourth day of breakout, too late |
 
 ## Related Concepts
 

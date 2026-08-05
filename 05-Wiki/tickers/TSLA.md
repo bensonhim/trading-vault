@@ -2,15 +2,15 @@
 title: "TSLA"
 date: 2026-08-05
 tags: [tickers, wiki, auto-compiled]
-mention_count: 102
-sources_count: 69
+mention_count: 104
+sources_count: 70
 compilation_count: 1
 promote: false
 ---
 
 # TSLA
 
-*Tickers — compiled from 102 mentions across 69 sources.*
+*Tickers — compiled from 104 mentions across 70 sources.*
 
 ## Mentions
 
