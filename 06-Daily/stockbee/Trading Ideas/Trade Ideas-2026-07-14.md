@@ -1,16 +1,16 @@
 ---
 title: "Trade Ideas — 2026-07-14"
 date: 2026-07-14
-tags: [trade-ideas, setups, daily, bullish]
-regime: bullish
-primary_net: 439
-t2108: 55.76
+tags: [trade-ideas, setups, daily, mildly_bullish]
+regime: mildly_bullish
+primary_net: 365
+t2108: 54.47
 ---
 
-# Trade Ideas — 2026-07-14 🟢
+# Trade Ideas — 2026-07-14 🟡
 
-> [!tip] Bullish — 104 actionable, 257 watchlist
-> Full playbook — size into A+ confluences, keep focus list tight.
+> [!tip] Mildly Bullish — 107 actionable, 256 watchlist
+> Trade EP, DEP, ANT only. Avoid chasing extended stocks.
 >
 > VWAP below = block long for DEP/SOS. EP 9M warns but doesn't block.
 
@@ -29,7 +29,7 @@ t2108: 55.76
 ## Allowed Setups Today
 
 - ✅ Long **Earnings Pivot 9-Minute** — Absolute volume ≥9M. VWAP warns but doesn't block.
-- ✅ Long **Squeeze Out of Stock** — Relative volume ≥2× avg + 300K. Must be above VWAP.
+- 🚫 Blocked **Squeeze Out of Stock** — Relative volume ≥2× avg + 300K. Must be above VWAP.
 - ✅ Long **Daily Expansion Pattern** — Relative volume ≥2× avg + 300K. Must be above VWAP.
 - ✅ Long **Anticipation Setup** — Relative volume ≥2× avg + 300K. Must be above VWAP.
 - 🚫 Blocked **Reversal Setup** — Only in bearish/capitulation. Wait for exhaustion candle.
@@ -42,37 +42,37 @@ t2108: 55.76
 | A+ | 3 | SB + setup + catalyst — size up to 50% | Up to 50% |
 | A | 13 | SB + setup — size up to 50% | Up to 50% |
 | A- | 0 | SB + setup — size up to 50% | Up to 50% |
-| B+ | 42 | Setup + catalyst — normal size 25% | 25% normal |
-| B | 46 | Setup only — normal size 25% | 25% normal |
-| C | 257 | SB watchlist — no position yet | Watch only |
+| B+ | 43 | Setup + catalyst — normal size 25% | 25% normal |
+| B | 48 | Setup only — normal size 25% | 25% normal |
+| C | 256 | SB watchlist — no position yet | Watch only |
 
 ## A+ Confluences — SB + setup + catalyst — size up to 50%
 *Size: Up to 50%*
 
 | # | Ticker | Setup | SB Rank | Comp Rank | Impl. | Entry | Stop | Width | VWAP | Shares | Pos USD | Risk HKD | Catalyst | TL/Leg | Status |
 |---|--------|-------|---------|-----------|-------|-------|------|-------|------|--------|---------|----------|----------|--------|--------|
-| 1 | BMNR | 📈 SOS | #39 | #6 | 🔥 Still Active | $15.19 | $14.97 | 1.5% | $15.86 | 1,748 | $26,552 | HKD 3,000 |  | — | ✅ Ready |
-| 2 | NB | 📈 SOS | #153 | #391 | 💤 Dormant | $4.47 | $4.40 | 1.5% | $4.66 | 5,494 | $24,558 | HKD 3,000 |  | — | ✅ Ready |
-| 3 | UNH | 🔭 ANT | #231 | #583 | 📉 Fading | $430.52 | $417.57 | 3.0% | $427.53 | 29 | $12,485 | HKD 3,000 |  | — | 🚫 Blocked: Below VWAP — institutional selling |
+| 1 | BMNR | 📈 SOS | #40 | #6 | 🔥 Still Active | $15.19 | $14.97 | 1.5% | $15.86 | 1,748 | $26,552 | HKD 3,000 |  | — | ✅ Ready |
+| 2 | NB | 📈 SOS | #154 | #401 | 💤 Dormant | $4.47 | $4.40 | 1.5% | $4.66 | 5,494 | $24,558 | HKD 3,000 |  | — | ✅ Ready |
+| 3 | UNH | 🔭 ANT | #238 | #589 | 📉 Fading | $430.52 | $417.57 | 3.0% | $427.53 | 29 | $12,485 | HKD 3,000 |  | — | 🚫 Blocked: Below VWAP — institutional selling |
 
 ## A Confluences — SB + setup — size up to 50%
 *Size: Up to 50%*
 
 | # | Ticker | Setup | SB Rank | Comp Rank | Impl. | Entry | Stop | Width | VWAP | Shares | Pos USD | Risk HKD | Catalyst | TL/Leg | Status |
 |---|--------|-------|---------|-----------|-------|-------|------|-------|------|--------|---------|----------|----------|--------|--------|
-| 1 | RKLB | 🔄 REVERSAL | #8 | #15 | 💤 Dormant | $78.81 | $75.58 | 4.1% | $79.66 | 119 | $9,378 | HKD 3,000 |  | — | 🚫 Blocked: Below VWAP — institutional selling |
-| 2 | QBTS | 🔄 REVERSAL | #14 | #37 | 💤 Dormant | $18.95 | $18.38 | 3.0% | $18.95 | 674 | $12,772 | HKD 3,000 |  | — | ✅ Ready |
+| 1 | RKLB | 🔄 REVERSAL | #7 | #15 | 💤 Dormant | $78.81 | $75.58 | 4.1% | $79.66 | 119 | $9,378 | HKD 3,000 |  | — | 🚫 Blocked: Below VWAP — institutional selling |
+| 2 | QBTS | 🔄 REVERSAL | #13 | #38 | 💤 Dormant | $18.95 | $18.38 | 3.0% | $18.95 | 674 | $12,772 | HKD 3,000 |  | — | ✅ Ready |
 | 3 | CLSK | 📈 SOS | #15 | #13 | 🔥 Still Active | $12.85 | $12.66 | 1.5% | $14.01 | 2,024 | $26,008 | HKD 3,000 |  | — | 🚫 Blocked: Below VWAP — institutional selling |
-| 4 | SMR | 🔄 REVERSAL | #19 | #45 | 💤 Dormant | $8.60 | $8.22 | 4.4% | $8.57 | 1,012 | $8,703 | HKD 3,000 |  | — | ✅ Ready |
-| 5 | HIMS | 🔭 ANT | #23 | #30 | 💤 Dormant | $35.59 | $33.21 | 6.7% | $34.85 | 161 | $5,730 | HKD 3,000 |  | — | ✅ Ready |
-| 6 | QS | 🔄 REVERSAL | #27 | #33 | 💤 Dormant | $6.42 | $6.19 | 3.6% | $6.40 | 1,672 | $10,734 | HKD 3,000 |  | — | ✅ Ready |
-| 7 | INTC | 🔄 REVERSAL | #30 | #61 | 💤 Dormant | $107.76 | $101.57 | 5.7% | $107.13 | 62 | $6,681 | HKD 3,000 |  | — | ✅ Ready |
+| 4 | SMR | 🔄 REVERSAL | #18 | #45 | 💤 Dormant | $8.60 | $8.22 | 4.4% | $8.57 | 1,012 | $8,703 | HKD 3,000 |  | — | ✅ Ready |
+| 5 | HIMS | 🔭 ANT | #23 | #31 | 💤 Dormant | $35.59 | $33.21 | 6.7% | $34.85 | 161 | $5,730 | HKD 3,000 |  | — | ✅ Ready |
+| 6 | QS | 🔄 REVERSAL | #28 | #34 | 💤 Dormant | $6.42 | $6.19 | 3.6% | $6.40 | 1,672 | $10,734 | HKD 3,000 |  | — | ✅ Ready |
+| 7 | INTC | 🔄 REVERSAL | #30 | #63 | 💤 Dormant | $107.76 | $101.57 | 5.7% | $107.13 | 62 | $6,681 | HKD 3,000 |  | — | ✅ Ready |
 | 8 | OPEN | 🔄 REVERSAL | #44 | #8 | 🔥 Still Active | $4.55 | $4.42 | 2.8% | $4.55 | 2,958 | $13,459 | HKD 3,000 |  | — | ✅ Ready |
-| 9 | CVNA | 📈 SOS | #63 | #103 | 💤 Dormant | $67.59 | $66.58 | 1.5% | $68.45 | 380 | $25,684 | HKD 3,000 |  | — | ✅ Ready |
-| 10 | NWL | 🔭 ANT | #123 | #147 | 💤 Dormant | $5.08 | $4.92 | 3.2% | $5.12 | 2,403 | $12,207 | HKD 3,000 |  | — | 🚫 Blocked: Below VWAP — institutional selling |
-| 11 | PINS | 🔭 ANT | #145 | #68 | 🔥 Still Active | $22.89 | $21.69 | 5.2% | $22.36 | 320 | $7,325 | HKD 3,000 |  | — | ✅ Ready |
-| 12 | FCX | 🔄 REVERSAL | #164 | #219 | 💤 Dormant | $61.95 | $59.07 | 4.7% | $62.00 | 133 | $8,239 | HKD 3,000 |  | — | ✅ Ready |
-| 13 | GOOGL | 📈 SOS | #270 | #467 | 💤 Dormant | $366.61 | $353.79 | 3.5% | $355.49 | 30 | $10,998 | HKD 3,000 |  | — | ✅ Ready |
+| 9 | CVNA | 📈 SOS | #66 | #108 | 💤 Dormant | $67.59 | $66.58 | 1.5% | $68.45 | 380 | $25,684 | HKD 3,000 |  | — | ✅ Ready |
+| 10 | NWL | 🔭 ANT | #120 | #151 | 💤 Dormant | $5.08 | $4.92 | 3.2% | $5.12 | 2,403 | $12,207 | HKD 3,000 |  | — | 🚫 Blocked: Below VWAP — institutional selling |
+| 11 | PINS | 🔭 ANT | #147 | #73 | 🔥 Still Active | $22.89 | $21.69 | 5.2% | $22.36 | 320 | $7,325 | HKD 3,000 |  | — | ✅ Ready |
+| 12 | FCX | 🔄 REVERSAL | #164 | #225 | 💤 Dormant | $61.95 | $59.07 | 4.7% | $62.00 | 133 | $8,239 | HKD 3,000 |  | — | ✅ Ready |
+| 13 | GOOGL | 📈 SOS | #280 | #478 | 💤 Dormant | $366.61 | $353.79 | 3.5% | $355.49 | 30 | $10,998 | HKD 3,000 |  | — | ✅ Ready |
 
 ## A- Confluences — None Today
 
@@ -84,72 +84,72 @@ No candidates in this tier.
 
 | # | Ticker | Setup | SB Rank | Comp Rank | Impl. | Entry | Stop | Width | VWAP | Shares | Pos USD | Risk HKD | Catalyst | TL/Leg | Status |
 |---|--------|-------|---------|-----------|-------|-------|------|-------|------|--------|---------|----------|----------|--------|--------|
-| 1 | RXRX | 🔭 ANT | #25 | #34 | 💤 Dormant | $3.38 | $3.18 | 6.0% | $3.31 | 1,923 | $6,500 | HKD 3,000 |  | — | ✅ Ready |
-| 2 | SBET | 📈 SOS | #50 | #19 | 🔥 Still Active | $5.64 | $5.55 | 1.5% | $5.82 | 4,273 | $24,100 | HKD 3,000 |  | — | ✅ Ready |
-| 3 | TE | 🔄 REVERSAL | #56 | #27 | 🔥 Still Active | $6.84 | $6.45 | 5.7% | $6.79 | 986 | $6,744 | HKD 3,000 |  | — | ✅ Ready |
-| 4 | MRNA | 🔭 ANT | #67 | #195 | 💤 Dormant | $68.28 | $65.14 | 4.6% | $66.95 | 122 | $8,330 | HKD 3,000 |  | — | ✅ Ready |
-| 5 | PLTR | 📈 SOS | #68 | #75 | 💤 Dormant | $135.24 | $131.19 | 3.0% | $128.94 | 94 | $12,713 | HKD 3,000 |  | — | ✅ Ready |
-| 6 | RIVN | 🔭 ANT | #70 | #95 | 💤 Dormant | $17.72 | $15.28 | 13.8% | $17.30 | 157 | $2,782 | HKD 3,000 |  | — | ✅ Ready |
-| 7 | LCID | 🔄 REVERSAL | #72 | #51 | 🔥 Still Active | $4.62 | $4.55 | 1.5% | $4.57 | 5,494 | $25,382 | HKD 3,000 |  | — | ✅ Ready |
-| 8 | AUR | 🔄 REVERSAL | #82 | #59 | 🔥 Still Active | $6.13 | $5.96 | 2.8% | $6.10 | 2,262 | $13,866 | HKD 3,000 |  | — | ✅ Ready |
-| 9 | FCEL | 🔄 REVERSAL | #99 | #38 | 🔥 Still Active | $21.35 | $18.79 | 12.0% | $21.50 | 150 | $3,202 | HKD 3,000 |  | — | 🚫 Blocked: Below VWAP — institutional selling |
-| 10 | BB | 🔭 ANT | #100 | #76 | 💤 Dormant | $11.15 | $10.69 | 4.1% | $10.93 | 836 | $9,321 | HKD 3,000 |  | — | ✅ Ready |
-| 11 | IBRX | 🔭 ANT | #106 | #124 | 💤 Dormant | $7.98 | $7.57 | 5.1% | $7.84 | 938 | $7,485 | HKD 3,000 |  | — | ✅ Ready |
-| 12 | CCL | 🔄 REVERSAL | #116 | #205 | 💤 Dormant | $26.50 | $26.10 | 1.5% | $26.55 | 961 | $25,466 | HKD 3,000 |  | — | ✅ Ready |
-| 13 | LYFT | 🔭 ANT | #117 | #389 | 💤 Dormant | $15.81 | $15.22 | 3.7% | $15.57 | 651 | $10,292 | HKD 3,000 |  | — | ✅ Ready |
-| 14 | HPE | 🔭 ANT | #118 | #60 | 🔥 Still Active | $50.18 | $47.87 | 4.6% | $49.27 | 166 | $8,330 | HKD 3,000 |  | — | ✅ Ready |
-| 15 | DAL | 🔭 ANT | #124 | #415 | 💤 Dormant | $86.58 | $83.98 | 3.0% | $86.11 | 147 | $12,727 | HKD 3,000 |  | — | 🚫 Blocked: Below VWAP — institutional selling |
-| 16 | RBLX | 🔭 ANT | #134 | #273 | 💤 Dormant | $55.15 | $53.35 | 3.3% | $54.65 | 213 | $11,747 | HKD 3,000 |  | — | 🚫 Blocked: Below VWAP — institutional selling |
-| 17 | IOVA | 🔭 ANT | #150 | #191 | 💤 Dormant | $3.98 | $3.86 | 3.0% | $3.99 | 3,205 | $12,756 | HKD 3,000 |  | — | 🚫 Blocked: Below VWAP — institutional selling |
-| 18 | DELL | 🔭 ANT | #151 | #430 | 💤 Dormant | $463.27 | $409.86 | 11.5% | $451.11 | 7 | $3,243 | HKD 3,000 |  | — | ✅ Ready |
-| 19 | LUV | 🔭 ANT | #168 | #555 | 📉 Fading | $48.16 | $46.70 | 3.0% | $47.80 | 263 | $12,666 | HKD 3,000 |  | — | 🚫 Blocked: Below VWAP — institutional selling |
-| 20 | M | 🔭 ANT | #171 | #557 | 📉 Fading | $23.50 | $22.10 | 6.0% | $22.92 | 274 | $6,439 | HKD 3,000 |  | — | ✅ Ready |
-| 21 | NVDA | 📈 SOS | #173 | #145 | 💤 Dormant | $211.67 | $204.20 | 3.5% | $209.09 | 51 | $10,795 | HKD 3,000 |  | — | ✅ Ready |
-| 22 | APH | 🔭 ANT | #178 | #220 | 💤 Dormant | $160.35 | $151.62 | 5.5% | $157.94 | 44 | $7,055 | HKD 3,000 |  | — | ✅ Ready |
-| 23 | AFRM | 📈 SOS | #218 | #624 | 📉 Fading | $85.21 | $83.71 | 1.8% | $83.58 | 256 | $21,814 | HKD 3,000 |  | — | ✅ Ready |
-| 24 | BFLY | 🔭 ANT | #240 | #58 | 🔥 Still Active | $7.85 | $7.44 | 5.1% | $7.85 | 938 | $7,363 | HKD 3,000 |  | — | 🚫 Blocked: Below VWAP — institutional selling |
-| 25 | CPNG | 🔄 REVERSAL | #253 | #495 | 💤 Dormant | $17.74 | $17.56 | 1.0% | $17.73 | 2,136 | $37,893 | HKD 3,000 |  | — | ⚠️ Warning: hard_cap_25% |
-| 26 | GOOG | 📈 SOS | #295 | #474 | 💤 Dormant | $364.70 | $351.42 | 3.6% | $353.22 | 28 | $10,212 | HKD 3,000 |  | — | ✅ Ready |
-| 27 | MRK | 🔭 ANT | #296 | #481 | 💤 Dormant | $122.29 | $121.22 | 0.9% | $121.97 | 359 | $43,902 | HKD 3,000 |  | — | 🚫 Blocked: Below VWAP — institutional selling |
-| 28 | MS | 📈 SOS | — | — | — | $229.93 | $226.85 | 1.3% | $227.05 | 124 | $28,511 | HKD 3,000 |  | — | ✅ Ready |
-| 29 | JNJ | 🔭 ANT | — | — | — | $257.03 | $252.96 | 1.6% | $254.48 | 94 | $24,161 | HKD 3,000 |  | — | 🚫 Blocked: Below VWAP — institutional selling |
-| 30 | NTSK | 📈 SOS | — | — | — | $13.31 | $13.11 | 1.5% | $13.41 | 1,923 | $25,595 | HKD 3,000 |  | — | ✅ Ready |
+| 1 | RXRX | 🔭 ANT | #25 | #35 | 💤 Dormant | $3.38 | $3.18 | 6.0% | $3.31 | 1,923 | $6,500 | HKD 3,000 |  | — | ✅ Ready |
+| 2 | SBET | 📈 SOS | #49 | #19 | 🔥 Still Active | $5.64 | $5.55 | 1.5% | $5.82 | 4,273 | $24,100 | HKD 3,000 |  | — | ✅ Ready |
+| 3 | TE | 🔄 REVERSAL | #56 | #28 | 🔥 Still Active | $6.84 | $6.45 | 5.7% | $6.79 | 986 | $6,744 | HKD 3,000 |  | — | ✅ Ready |
+| 4 | MRNA | 🔭 ANT | #67 | #199 | 💤 Dormant | $68.28 | $65.14 | 4.6% | $66.95 | 122 | $8,330 | HKD 3,000 |  | — | ✅ Ready |
+| 5 | RIVN | 🔭 ANT | #69 | #101 | 💤 Dormant | $17.72 | $15.28 | 13.8% | $17.30 | 157 | $2,782 | HKD 3,000 |  | — | ✅ Ready |
+| 6 | PLTR | 📈 SOS | #70 | #80 | 💤 Dormant | $135.24 | $131.19 | 3.0% | $128.94 | 94 | $12,713 | HKD 3,000 |  | — | ✅ Ready |
+| 7 | LCID | 🔄 REVERSAL | #75 | #52 | 🔥 Still Active | $4.62 | $4.55 | 1.5% | $4.57 | 5,494 | $25,382 | HKD 3,000 |  | — | ✅ Ready |
+| 8 | AUR | 🔄 REVERSAL | #81 | #61 | 🔥 Still Active | $6.13 | $5.96 | 2.8% | $6.10 | 2,262 | $13,866 | HKD 3,000 |  | — | ✅ Ready |
+| 9 | FCEL | 🔄 REVERSAL | #100 | #39 | 🔥 Still Active | $21.35 | $18.79 | 12.0% | $21.50 | 150 | $3,202 | HKD 3,000 |  | — | 🚫 Blocked: Below VWAP — institutional selling |
+| 10 | BB | 🔭 ANT | #101 | #81 | 💤 Dormant | $11.15 | $10.69 | 4.1% | $10.93 | 836 | $9,321 | HKD 3,000 |  | — | ✅ Ready |
+| 11 | IBRX | 🔭 ANT | #110 | #128 | 💤 Dormant | $7.98 | $7.57 | 5.1% | $7.84 | 938 | $7,485 | HKD 3,000 |  | — | ✅ Ready |
+| 12 | HPE | 🔭 ANT | #116 | #62 | 🔥 Still Active | $50.18 | $47.87 | 4.6% | $49.27 | 166 | $8,330 | HKD 3,000 |  | — | ✅ Ready |
+| 13 | CCL | 🔄 REVERSAL | #119 | #209 | 💤 Dormant | $26.50 | $26.10 | 1.5% | $26.55 | 961 | $25,466 | HKD 3,000 |  | — | ✅ Ready |
+| 14 | LYFT | 🔭 ANT | #123 | #400 | 💤 Dormant | $15.81 | $15.22 | 3.7% | $15.57 | 651 | $10,292 | HKD 3,000 |  | — | ✅ Ready |
+| 15 | DAL | 🔭 ANT | #124 | #428 | 💤 Dormant | $86.58 | $83.98 | 3.0% | $86.11 | 147 | $12,727 | HKD 3,000 |  | — | 🚫 Blocked: Below VWAP — institutional selling |
+| 16 | RBLX | 🔭 ANT | #136 | #281 | 💤 Dormant | $55.15 | $53.35 | 3.3% | $54.65 | 213 | $11,747 | HKD 3,000 |  | — | 🚫 Blocked: Below VWAP — institutional selling |
+| 17 | IOVA | 🔭 ANT | #146 | #194 | 💤 Dormant | $3.98 | $3.86 | 3.0% | $3.99 | 3,205 | $12,756 | HKD 3,000 |  | — | 🚫 Blocked: Below VWAP — institutional selling |
+| 18 | DELL | 🔭 ANT | #159 | #442 | 💤 Dormant | $463.27 | $409.86 | 11.5% | $451.11 | 7 | $3,243 | HKD 3,000 |  | — | ✅ Ready |
+| 19 | APH | 🔭 ANT | #167 | #227 | 💤 Dormant | $160.35 | $151.62 | 5.5% | $157.94 | 44 | $7,055 | HKD 3,000 |  | — | ✅ Ready |
+| 20 | NVDA | 📈 SOS | #173 | #149 | 💤 Dormant | $211.67 | $204.20 | 3.5% | $209.09 | 51 | $10,795 | HKD 3,000 |  | — | ✅ Ready |
+| 21 | LUV | 🔭 ANT | #175 | #563 | 📉 Fading | $48.16 | $46.70 | 3.0% | $47.80 | 263 | $12,666 | HKD 3,000 |  | — | 🚫 Blocked: Below VWAP — institutional selling |
+| 22 | M | 🔭 ANT | #179 | #564 | 📉 Fading | $23.50 | $22.10 | 6.0% | $22.92 | 274 | $6,439 | HKD 3,000 |  | — | ✅ Ready |
+| 23 | AFRM | 📈 SOS | #216 | #627 | 📉 Fading | $85.21 | $83.71 | 1.8% | $83.58 | 256 | $21,814 | HKD 3,000 |  | — | ✅ Ready |
+| 24 | APPS | 🚀 EP_9M | #225 | #210 | 💤 Dormant | $9.77 | $9.62 | 1.5% | $9.90 | 2,564 | $25,050 | HKD 3,000 |  | — | ✅ Ready |
+| 25 | BFLY | 🔭 ANT | #233 | #60 | 🔥 Still Active | $7.85 | $7.44 | 5.1% | $7.85 | 938 | $7,363 | HKD 3,000 |  | — | 🚫 Blocked: Below VWAP — institutional selling |
+| 26 | CPNG | 🔄 REVERSAL | #258 | #504 | 💤 Dormant | $17.74 | $17.56 | 1.0% | $17.73 | 2,136 | $37,893 | HKD 3,000 |  | — | ⚠️ Warning: hard_cap_25% |
+| 27 | GOOG | 📈 SOS | #293 | #482 | 💤 Dormant | $364.70 | $351.42 | 3.6% | $353.22 | 28 | $10,212 | HKD 3,000 |  | — | ✅ Ready |
+| 28 | MRK | 🔭 ANT | #302 | #490 | 💤 Dormant | $122.29 | $121.22 | 0.9% | $121.97 | 359 | $43,902 | HKD 3,000 |  | — | 🚫 Blocked: Below VWAP — institutional selling |
+| 29 | NTSK | 📈 SOS | — | — | — | $13.31 | $13.11 | 1.5% | $13.41 | 1,923 | $25,595 | HKD 3,000 |  | — | ✅ Ready |
+| 30 | FITB | 🔭 ANT | — | — | — | $57.76 | $55.27 | 4.3% | $57.31 | 154 | $8,895 | HKD 3,000 |  | — | 🚫 Blocked: Below VWAP — institutional selling |
 
 ## B Confluences — Setup only — normal size 25%
 *Size: 25%*
 
 | # | Ticker | Setup | SB Rank | Comp Rank | Impl. | Entry | Stop | Width | VWAP | Shares | Pos USD | Risk HKD | TL/Leg | Status |
 |---|--------|-------|---------|-----------|-------|-------|------|-------|------|--------|---------|----------|--------|--------|
-| 1 | VLY | 🔭 ANT | — | — | — | $14.76 | $14.33 | 3.0% | $14.58 | 894 | $13,195 | HKD 3,000 | — | ✅ Ready |
-| 2 | RH | 📈 SOS | — | — | — | $168.29 | $164.73 | 2.1% | $169.85 | 108 | $18,175 | HKD 3,000 | — | ✅ Ready |
-| 3 | HCA | 📈 SOS | — | — | — | $406.37 | $359.67 | 11.5% | $361.22 | 8 | $3,251 | HKD 3,000 | — | ✅ Ready |
-| 4 | CG | 📈 SOS | — | — | — | $45.91 | $44.83 | 2.3% | $44.80 | 356 | $16,344 | HKD 3,000 | — | ✅ Ready |
-| 5 | KHC | 🔭 ANT | — | — | — | $25.39 | $24.26 | 4.5% | $25.02 | 340 | $8,633 | HKD 3,000 | — | ✅ Ready |
-| 6 | CSX | 🔭 ANT | — | — | — | $50.55 | $47.59 | 5.8% | $49.95 | 129 | $6,521 | HKD 3,000 | — | ✅ Ready |
-| 7 | CVS | 🔭 ANT | — | — | — | $107.51 | $101.38 | 5.7% | $106.20 | 62 | $6,666 | HKD 3,000 | — | ✅ Ready |
-| 8 | TGLS | 📈 SOS | — | — | — | $44.55 | $43.76 | 1.8% | $43.73 | 486 | $21,651 | HKD 3,000 | — | ✅ Ready |
-| 9 | HWM | 📈 SOS | — | — | — | $282.13 | $274.23 | 2.8% | $274.86 | 48 | $13,542 | HKD 3,000 | — | ✅ Ready |
-| 10 | DHT | 📈 SOS | — | — | — | $18.00 | $17.73 | 1.5% | $18.05 | 1,424 | $25,632 | HKD 3,000 | — | ✅ Ready |
-| 11 | DFDV | 📈 SOS | — | — | — | $2.95 | $2.91 | 1.5% | $3.01 | 9,615 | $28,364 | HKD 3,000 | — | ✅ Ready |
-| 12 | SCHW | 🔭 ANT | — | — | — | $102.37 | $99.50 | 2.8% | $101.59 | 134 | $13,718 | HKD 3,000 | — | 🚫 Blocked: Below VWAP — institutional selling |
-| 13 | TENB | 📈 SOS | — | — | — | $40.77 | $40.16 | 1.5% | $40.59 | 630 | $25,685 | HKD 3,000 | — | ✅ Ready |
-| 14 | DDD | 🚀 EP_9M | — | — | — | $3.06 | $2.94 | 3.9% | $3.01 | 3,205 | $9,807 | HKD 3,000 | — | ✅ Ready |
-| 15 | LAZ | 📈 SOS | — | — | — | $42.74 | $42.46 | 0.7% | $42.31 | 1,373 | $58,682 | HKD 3,000 | — | ⚠️ Warning: hard_cap_25% |
-| 16 | EW | 🔭 ANT | — | — | — | $91.22 | $89.78 | 1.6% | $89.85 | 267 | $24,356 | HKD 3,000 | — | ✅ Ready |
-| 17 | HBAN | 🔭 ANT | — | — | — | $18.07 | $17.55 | 2.9% | $17.91 | 739 | $13,354 | HKD 3,000 | — | 🚫 Blocked: Below VWAP — institutional selling |
-| 18 | VCTR | 📈 SOS | — | — | — | $95.66 | $95.16 | 0.5% | $95.28 | 769 | $73,563 | HKD 3,000 | — | ⚠️ Warning: hard_cap_25% |
-| 19 | JTAI | 🔄 REVERSAL | — | — | — | $4.87 | $4.79 | 1.7% | $4.55 | 4,807 | $23,410 | HKD 3,000 | — | ✅ Ready |
-| 20 | VIVK | 🔄 REVERSAL | — | — | — | $6.03 | $5.94 | 1.5% | $5.88 | 4,273 | $25,766 | HKD 3,000 | — | ✅ Ready |
-| 21 | GIS | 🔭 ANT | — | — | — | $36.92 | $34.91 | 5.4% | $36.34 | 191 | $7,052 | HKD 3,000 | — | ✅ Ready |
-| 22 | VRNS | 📈 SOS | — | — | — | $47.20 | $46.49 | 1.5% | $46.59 | 541 | $25,535 | HKD 3,000 | — | ✅ Ready |
-| 23 | BLZE | 🚀 EP_9M | — | — | — | $16.40 | $16.15 | 1.5% | $16.60 | 1,538 | $25,223 | HKD 3,000 | — | ✅ Ready |
-| 24 | WFG | 📈 SOS | — | — | — | $69.74 | $67.21 | 3.6% | $69.50 | 152 | $10,600 | HKD 3,000 | — | ✅ Ready |
-| 25 | PACS | 📈 SOS | — | — | — | $45.00 | $44.14 | 1.9% | $44.12 | 447 | $20,115 | HKD 3,000 | — | ✅ Ready |
-| 26 | QLYS | 📈 SOS | — | — | — | $157.60 | $155.24 | 1.5% | $156.27 | 162 | $25,531 | HKD 3,000 | — | ✅ Ready |
-| 27 | LPX | 📈 SOS | — | — | — | $75.09 | $71.37 | 5.0% | $74.56 | 103 | $7,734 | HKD 3,000 | — | ✅ Ready |
-| 28 | BLSH | 📈 SOS | — | — | — | $23.78 | $23.43 | 1.5% | $24.21 | 1,098 | $26,110 | HKD 3,000 | — | ✅ Ready |
-| 29 | CCXI | 📈 SOS | — | — | — | $14.91 | $14.69 | 1.5% | $15.56 | 1,748 | $26,063 | HKD 3,000 | — | ✅ Ready |
-| 30 | V | 🔭 ANT | — | — | — | $360.48 | $340.98 | 5.4% | $356.35 | 19 | $6,849 | HKD 3,000 | — | ✅ Ready |
+| 1 | BLSH | 📈 SOS | — | — | — | $23.78 | $23.43 | 1.5% | $24.21 | 1,098 | $26,110 | HKD 3,000 | — | ✅ Ready |
+| 2 | ABBV | 🔭 ANT | — | — | — | $247.85 | $240.76 | 2.9% | $245.09 | 54 | $13,384 | HKD 3,000 | — | ✅ Ready |
+| 3 | TGLS | 📈 SOS | — | — | — | $44.55 | $43.76 | 1.8% | $43.73 | 486 | $21,651 | HKD 3,000 | — | ✅ Ready |
+| 4 | QLYS | 📈 SOS | — | — | — | $157.60 | $155.24 | 1.5% | $156.27 | 162 | $25,531 | HKD 3,000 | — | ✅ Ready |
+| 5 | CHRN | 📈 SOS | — | — | — | $20.51 | $20.20 | 1.5% | $21.41 | 1,240 | $25,432 | HKD 3,000 | — | ✅ Ready |
+| 6 | VLY | 🔭 ANT | — | — | — | $14.76 | $14.33 | 3.0% | $14.58 | 894 | $13,195 | HKD 3,000 | — | ✅ Ready |
+| 7 | LAZ | 📈 SOS | — | — | — | $42.74 | $42.46 | 0.7% | $42.31 | 1,373 | $58,682 | HKD 3,000 | — | ⚠️ Warning: hard_cap_25% |
+| 8 | WFG | 📈 SOS | — | — | — | $69.74 | $67.21 | 3.6% | $69.50 | 152 | $10,600 | HKD 3,000 | — | ✅ Ready |
+| 9 | APAM | 📈 SOS | — | — | — | $38.15 | $37.51 | 1.7% | $37.56 | 600 | $22,890 | HKD 3,000 | — | ✅ Ready |
+| 10 | AMLX | 📈 SOS | — | — | — | $18.11 | $17.84 | 1.5% | $17.83 | 1,424 | $25,789 | HKD 3,000 | — | ✅ Ready |
+| 11 | JLHL | 🚀 EP_9M | — | — | — | $7.83 | $7.71 | 1.5% | $8.42 | 3,205 | $25,095 | HKD 3,000 | — | ✅ Ready |
+| 12 | YXT | 🚀 EP_9M | — | — | — | $23.43 | $3.55 | 84.8% | $3.89 | 19 | $445 | HKD 3,000 | — | ✅ Ready |
+| 13 | DHT | 📈 SOS | — | — | — | $18.00 | $17.73 | 1.5% | $18.05 | 1,424 | $25,632 | HKD 3,000 | — | ✅ Ready |
+| 14 | RH | 📈 SOS | — | — | — | $168.29 | $164.73 | 2.1% | $169.85 | 108 | $18,175 | HKD 3,000 | — | ✅ Ready |
+| 15 | CG | 📈 SOS | — | — | — | $45.91 | $44.83 | 2.3% | $44.80 | 356 | $16,344 | HKD 3,000 | — | ✅ Ready |
+| 16 | HBAN | 🔭 ANT | — | — | — | $18.07 | $17.55 | 2.9% | $17.91 | 739 | $13,354 | HKD 3,000 | — | 🚫 Blocked: Below VWAP — institutional selling |
+| 17 | JTAI | 🔄 REVERSAL | — | — | — | $4.87 | $4.79 | 1.7% | $4.55 | 4,807 | $23,410 | HKD 3,000 | — | ✅ Ready |
+| 18 | VTIX | 📈 SOS | — | — | — | $2.97 | $2.93 | 1.5% | $3.02 | 9,615 | $28,557 | HKD 3,000 | — | ✅ Ready |
+| 19 | INLF | 🚀 EP_9M | — | — | — | $2.87 | $2.73 | 5.0% | $2.87 | 2,747 | $7,884 | HKD 3,000 | — | ✅ Ready |
+| 20 | VCTR | 📈 SOS | — | — | — | $95.66 | $95.16 | 0.5% | $95.28 | 769 | $73,563 | HKD 3,000 | — | ⚠️ Warning: hard_cap_25% |
+| 21 | VRNS | 📈 SOS | — | — | — | $47.20 | $46.49 | 1.5% | $46.59 | 541 | $25,535 | HKD 3,000 | — | ✅ Ready |
+| 22 | TENB | 📈 SOS | — | — | — | $40.77 | $40.16 | 1.5% | $40.59 | 630 | $25,685 | HKD 3,000 | — | ✅ Ready |
+| 23 | PACS | 📈 SOS | — | — | — | $45.00 | $44.14 | 1.9% | $44.12 | 447 | $20,115 | HKD 3,000 | — | ✅ Ready |
+| 24 | EW | 🔭 ANT | — | — | — | $91.22 | $89.78 | 1.6% | $89.85 | 267 | $24,356 | HKD 3,000 | — | ✅ Ready |
+| 25 | CSX | 🔭 ANT | — | — | — | $50.55 | $47.59 | 5.8% | $49.95 | 129 | $6,521 | HKD 3,000 | — | ✅ Ready |
+| 26 | NTAP | 📈 SOS | — | — | — | $170.49 | $167.93 | 1.5% | $170.25 | 150 | $25,574 | HKD 3,000 | — | ✅ Ready |
+| 27 | BOT | 📈 SOS | — | — | — | $33.72 | $33.21 | 1.5% | $35.09 | 754 | $25,425 | HKD 3,000 | — | ✅ Ready |
+| 28 | LPX | 📈 SOS | — | — | — | $75.09 | $71.37 | 5.0% | $74.56 | 103 | $7,734 | HKD 3,000 | — | ✅ Ready |
+| 29 | GTE | 🚀 EP_9M | — | — | — | $6.81 | $6.54 | 4.0% | $6.71 | 1,424 | $9,697 | HKD 3,000 | — | ✅ Ready |
+| 30 | ZS | 📈 SOS | — | — | — | $147.49 | $145.28 | 1.5% | $146.56 | 174 | $25,663 | HKD 3,000 | — | ✅ Ready |
 
 ## Pre-Market Order Sheet
 
@@ -166,17 +166,17 @@ No candidates in this tier.
 | RIVN | B+ | $17.72 | $15.28 | 13.8% | 157 | $2,782 | HKD 3,000 |
 | BB | B+ | $11.15 | $10.69 | 4.1% | 836 | $9,321 | HKD 3,000 |
 | IBRX | B+ | $7.98 | $7.57 | 5.1% | 938 | $7,485 | HKD 3,000 |
-| LYFT | B+ | $15.81 | $15.22 | 3.7% | 651 | $10,292 | HKD 3,000 |
 | HPE | B+ | $50.18 | $47.87 | 4.6% | 166 | $8,330 | HKD 3,000 |
 | NWL | A | $5.08 | $4.92 | 3.2% | 0 | $0 | HKD 3,000 |
+| LYFT | B+ | $15.81 | $15.22 | 3.7% | 651 | $10,292 | HKD 3,000 |
 | DAL | B+ | $86.58 | $83.98 | 3.0% | 0 | $0 | HKD 3,000 |
 | RBLX | B+ | $55.15 | $53.35 | 3.3% | 0 | $0 | HKD 3,000 |
-| PINS | A | $22.89 | $21.69 | 5.2% | 320 | $7,325 | HKD 3,000 |
 | IOVA | B+ | $3.98 | $3.86 | 3.0% | 0 | $0 | HKD 3,000 |
+| PINS | A | $22.89 | $21.69 | 5.2% | 320 | $7,325 | HKD 3,000 |
 | DELL | B+ | $463.27 | $409.86 | 11.5% | 7 | $3,243 | HKD 3,000 |
+| APH | B+ | $160.35 | $151.62 | 5.5% | 44 | $7,055 | HKD 3,000 |
 | LUV | B+ | $48.16 | $46.70 | 3.0% | 0 | $0 | HKD 3,000 |
 | M | B+ | $23.50 | $22.10 | 6.0% | 274 | $6,439 | HKD 3,000 |
-| APH | B+ | $160.35 | $151.62 | 5.5% | 44 | $7,055 | HKD 3,000 |
 | BFLY | B+ | $7.85 | $7.44 | 5.1% | 0 | $0 | HKD 3,000 |
 | MRK | B+ | $122.29 | $121.22 | 0.9% | 0 | $0 | HKD 3,000 |
 
@@ -195,28 +195,28 @@ No candidates in this tier.
 | PLTR | SOS | B+ | $135.24 |  |  |  |
 | NVDA | SOS | B+ | $211.67 |  |  |  |
 | AFRM | SOS | B+ | $85.21 |  |  |  |
+| APPS | EP_9M | B+ | $9.77 |  |  |  |
 | GOOGL | SOS | A | $366.61 |  |  |  |
 | GOOG | SOS | B+ | $364.70 |  |  |  |
-| MS | SOS | B+ | $229.93 |  |  |  |
 | NTSK | SOS | B+ | $13.31 |  |  |  |
+| RPD | SOS | B+ | $12.40 |  |  |  |
 | GS | SOS | B+ | $1087.75 |  |  |  |
 | BNY | SOS | B+ | $157.32 |  |  |  |
-| RPD | SOS | B+ | $12.40 |  |  |  |
 | STT | SOS | B+ | $185.30 |  |  |  |
 | FBIO | SOS | B+ | $3.43 |  |  |  |
+| MS | SOS | B+ | $229.93 |  |  |  |
 | FBK | SOS | B+ | $58.83 |  |  |  |
-| RH | SOS | B | $168.29 |  |  |  |
-| HCA | SOS | B | $406.37 |  |  |  |
-| CG | SOS | B | $45.91 |  |  |  |
+| BLSH | SOS | B | $23.78 |  |  |  |
 | TGLS | SOS | B | $44.55 |  |  |  |
-| HWM | SOS | B | $282.13 |  |  |  |
-| DHT | SOS | B | $18.00 |  |  |  |
-| DFDV | SOS | B | $2.95 |  |  |  |
-| TENB | SOS | B | $40.77 |  |  |  |
-| DDD | EP_9M | B | $3.06 |  |  |  |
+| QLYS | SOS | B | $157.60 |  |  |  |
+| CHRN | SOS | B | $20.51 |  |  |  |
 | LAZ | SOS | B | $42.74 |  |  |  |
-| VCTR | SOS | B | $95.66 |  |  |  |
-| VRNS | SOS | B | $47.20 |  |  |  |
+| WFG | SOS | B | $69.74 |  |  |  |
+| APAM | SOS | B | $38.15 |  |  |  |
+| AMLX | SOS | B | $18.11 |  |  |  |
+| JLHL | EP_9M | B | $7.83 |  |  |  |
+| YXT | EP_9M | B | $23.43 |  |  |  |
+| DHT | SOS | B | $18.00 |  |  |  |
 
 
 ## 🍬 SB Overlap Summary
@@ -225,109 +225,110 @@ Stocks appearing on both the Sugar Baby list AND an active setup scan today:
 
 | Ticker | SB Rank | Comp Rank | Setup | Confluence | 20d Count | Impl. | Status |
 |--------|---------|-----------|-------|------------|-----------|-------|--------|
-| RKLB | #8 | #15 | REVERSAL | A | 2 | 💤 Dormant | ✅ Ready |
-| QBTS | #14 | #37 | REVERSAL | A | 1 | 💤 Dormant | ✅ Ready |
+| RKLB | #7 | #15 | REVERSAL | A | 2 | 💤 Dormant | ✅ Ready |
+| QBTS | #13 | #38 | REVERSAL | A | 1 | 💤 Dormant | ✅ Ready |
 | CLSK | #15 | #13 | SOS | A | 3 | 🔥 Still Active | ✅ Ready |
-| SMR | #19 | #45 | REVERSAL | A | 1 | 💤 Dormant | ✅ Ready |
-| HIMS | #23 | #30 | ANT | A | 2 | 💤 Dormant | ✅ Ready |
-| RXRX | #25 | #34 | ANT | B+ | 2 | 💤 Dormant | ✅ Ready |
-| QS | #27 | #33 | REVERSAL | A | 2 | 💤 Dormant | ✅ Ready |
-| INTC | #30 | #61 | REVERSAL | A | 1 | 💤 Dormant | ✅ Ready |
-| BMNR | #39 | #6 | SOS | A+ | 5 | 🔥 Still Active | ✅ Ready |
+| SMR | #18 | #45 | REVERSAL | A | 1 | 💤 Dormant | ✅ Ready |
+| HIMS | #23 | #31 | ANT | A | 2 | 💤 Dormant | ✅ Ready |
+| RXRX | #25 | #35 | ANT | B+ | 2 | 💤 Dormant | ✅ Ready |
+| QS | #28 | #34 | REVERSAL | A | 2 | 💤 Dormant | ✅ Ready |
+| INTC | #30 | #63 | REVERSAL | A | 1 | 💤 Dormant | ✅ Ready |
+| BMNR | #40 | #6 | SOS | A+ | 5 | 🔥 Still Active | ✅ Ready |
 | OPEN | #44 | #8 | REVERSAL | A | 5 | 🔥 Still Active | ✅ Ready |
-| SBET | #50 | #19 | SOS | B+ | 4 | 🔥 Still Active | ✅ Ready |
-| TE | #56 | #27 | REVERSAL | B+ | 3 | 🔥 Still Active | ✅ Ready |
-| CVNA | #63 | #103 | SOS | A | 1 | 💤 Dormant | ✅ Ready |
-| MRNA | #67 | #195 | ANT | B+ | 0 | 💤 Dormant | ✅ Ready |
-| PLTR | #68 | #75 | SOS | B+ | 2 | 💤 Dormant | ✅ Ready |
-| RIVN | #70 | #95 | ANT | B+ | 1 | 💤 Dormant | ✅ Ready |
-| LCID | #72 | #51 | REVERSAL | B+ | 3 | 🔥 Still Active | ✅ Ready |
-| AUR | #82 | #59 | REVERSAL | B+ | 3 | 🔥 Still Active | ✅ Ready |
-| FCEL | #99 | #38 | REVERSAL | B+ | 3 | 🔥 Still Active | ✅ Ready |
-| BB | #100 | #76 | ANT | B+ | 2 | 💤 Dormant | ✅ Ready |
-| IBRX | #106 | #124 | ANT | B+ | 1 | 💤 Dormant | ✅ Ready |
-| CCL | #116 | #205 | REVERSAL | B+ | 1 | 💤 Dormant | ✅ Ready |
-| LYFT | #117 | #389 | ANT | B+ | 0 | 💤 Dormant | ✅ Ready |
-| HPE | #118 | #60 | ANT | B+ | 3 | 🔥 Still Active | ✅ Ready |
-| NWL | #123 | #147 | ANT | A | 1 | 💤 Dormant | ✅ Ready |
-| DAL | #124 | #415 | ANT | B+ | 0 | 💤 Dormant | ✅ Ready |
-| RBLX | #134 | #273 | ANT | B+ | 0 | 💤 Dormant | ✅ Ready |
-| PINS | #145 | #68 | ANT | A | 3 | 🔥 Still Active | ✅ Ready |
-| IOVA | #150 | #191 | ANT | B+ | 1 | 💤 Dormant | ✅ Ready |
-| DELL | #151 | #430 | ANT | B+ | 0 | 💤 Dormant | ✅ Ready |
-| NB | #153 | #391 | SOS | A+ | 1 | 💤 Dormant | ✅ Ready |
-| FCX | #164 | #219 | REVERSAL | A | 1 | 💤 Dormant | ✅ Ready |
-| LUV | #168 | #555 | ANT | B+ | 0 | 📉 Fading | ✅ Ready |
-| M | #171 | #557 | ANT | B+ | 0 | 📉 Fading | ✅ Ready |
-| NVDA | #173 | #145 | SOS | B+ | 2 | 💤 Dormant | ✅ Ready |
-| APH | #178 | #220 | ANT | B+ | 1 | 💤 Dormant | ✅ Ready |
-| AFRM | #218 | #624 | SOS | B+ | 0 | 📉 Fading | ✅ Ready |
-| UNH | #231 | #583 | ANT | A+ | 0 | 📉 Fading | ✅ Ready |
-| BFLY | #240 | #58 | ANT | B+ | 4 | 🔥 Still Active | ✅ Ready |
-| CPNG | #253 | #495 | REVERSAL | B+ | 0 | 💤 Dormant | ✅ Ready |
-| GOOGL | #270 | #467 | SOS | A | 1 | 💤 Dormant | ✅ Ready |
-| GOOG | #295 | #474 | SOS | B+ | 1 | 💤 Dormant | ✅ Ready |
-| MRK | #296 | #481 | ANT | B+ | 0 | 💤 Dormant | ✅ Ready |
+| SBET | #49 | #19 | SOS | B+ | 4 | 🔥 Still Active | ✅ Ready |
+| TE | #56 | #28 | REVERSAL | B+ | 3 | 🔥 Still Active | ✅ Ready |
+| CVNA | #66 | #108 | SOS | A | 1 | 💤 Dormant | ✅ Ready |
+| MRNA | #67 | #199 | ANT | B+ | 0 | 💤 Dormant | ✅ Ready |
+| RIVN | #69 | #101 | ANT | B+ | 1 | 💤 Dormant | ✅ Ready |
+| PLTR | #70 | #80 | SOS | B+ | 2 | 💤 Dormant | ✅ Ready |
+| LCID | #75 | #52 | REVERSAL | B+ | 3 | 🔥 Still Active | ✅ Ready |
+| AUR | #81 | #61 | REVERSAL | B+ | 3 | 🔥 Still Active | ✅ Ready |
+| FCEL | #100 | #39 | REVERSAL | B+ | 3 | 🔥 Still Active | ✅ Ready |
+| BB | #101 | #81 | ANT | B+ | 2 | 💤 Dormant | ✅ Ready |
+| IBRX | #110 | #128 | ANT | B+ | 1 | 💤 Dormant | ✅ Ready |
+| HPE | #116 | #62 | ANT | B+ | 3 | 🔥 Still Active | ✅ Ready |
+| CCL | #119 | #209 | REVERSAL | B+ | 1 | 💤 Dormant | ✅ Ready |
+| NWL | #120 | #151 | ANT | A | 1 | 💤 Dormant | ✅ Ready |
+| LYFT | #123 | #400 | ANT | B+ | 0 | 💤 Dormant | ✅ Ready |
+| DAL | #124 | #428 | ANT | B+ | 0 | 💤 Dormant | ✅ Ready |
+| RBLX | #136 | #281 | ANT | B+ | 0 | 💤 Dormant | ✅ Ready |
+| IOVA | #146 | #194 | ANT | B+ | 1 | 💤 Dormant | ✅ Ready |
+| PINS | #147 | #73 | ANT | A | 3 | 🔥 Still Active | ✅ Ready |
+| NB | #154 | #401 | SOS | A+ | 1 | 💤 Dormant | ✅ Ready |
+| DELL | #159 | #442 | ANT | B+ | 0 | 💤 Dormant | ✅ Ready |
+| FCX | #164 | #225 | REVERSAL | A | 1 | 💤 Dormant | ✅ Ready |
+| APH | #167 | #227 | ANT | B+ | 1 | 💤 Dormant | ✅ Ready |
+| NVDA | #173 | #149 | SOS | B+ | 2 | 💤 Dormant | ✅ Ready |
+| LUV | #175 | #563 | ANT | B+ | 0 | 📉 Fading | ✅ Ready |
+| M | #179 | #564 | ANT | B+ | 0 | 📉 Fading | ✅ Ready |
+| AFRM | #216 | #627 | SOS | B+ | 0 | 📉 Fading | ✅ Ready |
+| APPS | #225 | #210 | EP_9M | B+ | 1 | 💤 Dormant | ✅ Ready |
+| BFLY | #233 | #60 | ANT | B+ | 4 | 🔥 Still Active | ✅ Ready |
+| UNH | #238 | #589 | ANT | A+ | 0 | 📉 Fading | ✅ Ready |
+| CPNG | #258 | #504 | REVERSAL | B+ | 0 | 💤 Dormant | ✅ Ready |
+| GOOGL | #280 | #478 | SOS | A | 1 | 💤 Dormant | ✅ Ready |
+| GOOG | #293 | #482 | SOS | B+ | 1 | 💤 Dormant | ✅ Ready |
+| MRK | #302 | #490 | ANT | B+ | 0 | 💤 Dormant | ✅ Ready |
 
-**43 of 300 Sugar Babies overlap with active setups today.**
+**44 of 300 Sugar Babies overlap with active setups today.**
 
 
 ## 📊 SB Rank Changes vs Yesterday
 
 | Ticker | Count Yest | Count Today | Δ Count | Comp Yest | Comp Today | Δ Comp | 20d | Impl. | Status |
 |--------|-----------|-------------|---------|-----------|------------|--------|-----|-------|--------|
-| BMNR | #45 | #39 | ↑6 | #35 | #6 | ↑29 | 5 | 🔥 Still Active | ↑ Rising |
-| NB | #156 | #153 | ↑3 | #507 | #391 | ↑116 | 1 | 💤 Dormant | ↑ Rising |
-| UNH | #232 | #231 | ↑1 | #584 | #583 | ↑1 | 0 | 📉 Fading | ↑ Rising |
-| RKLB | #8 | #8 | – | #12 | #15 | ↓3 | 2 | 💤 Dormant | — |
-| QBTS | #12 | #14 | ↓2 | #18 | #37 | ↓19 | 1 | 💤 Dormant | ↓ Falling |
+| BMNR | #45 | #40 | ↑5 | #35 | #6 | ↑29 | 5 | 🔥 Still Active | ↑ Rising |
+| NB | #156 | #154 | ↑2 | #507 | #401 | ↑106 | 1 | 💤 Dormant | ↑ Rising |
+| UNH | #232 | #238 | ↓6 | #584 | #589 | ↓5 | 0 | 📉 Fading | ↓ Falling |
+| RKLB | #8 | #7 | ↑1 | #12 | #15 | ↓3 | 2 | 💤 Dormant | ↑ Rising |
+| QBTS | #12 | #13 | ↓1 | #18 | #38 | ↓20 | 1 | 💤 Dormant | ↓ Falling |
 | CLSK | #17 | #15 | ↑2 | #38 | #13 | ↑25 | 3 | 🔥 Still Active | ↑ Rising |
-| SMR | #15 | #19 | ↓4 | #8 | #45 | ↓37 | 1 | 💤 Dormant | ↓ Falling |
-| HIMS | #23 | #23 | – | #16 | #30 | ↓14 | 2 | 💤 Dormant | — |
-| RXRX | #26 | #25 | ↑1 | #19 | #34 | ↓15 | 2 | 💤 Dormant | ↑ Rising |
-| QS | #29 | #27 | ↑2 | #33 | #33 | – | 2 | 💤 Dormant | ↑ Rising |
-| INTC | #28 | #30 | ↓2 | #32 | #61 | ↓29 | 1 | 💤 Dormant | ↓ Falling |
+| SMR | #15 | #18 | ↓3 | #8 | #45 | ↓37 | 1 | 💤 Dormant | ↓ Falling |
+| HIMS | #23 | #23 | – | #16 | #31 | ↓15 | 2 | 💤 Dormant | — |
+| RXRX | #26 | #25 | ↑1 | #19 | #35 | ↓16 | 2 | 💤 Dormant | ↑ Rising |
+| QS | #29 | #28 | ↑1 | #33 | #34 | ↓1 | 2 | 💤 Dormant | ↑ Rising |
+| INTC | #28 | #30 | ↓2 | #32 | #63 | ↓31 | 1 | 💤 Dormant | ↓ Falling |
 | OPEN | #46 | #44 | ↑2 | #59 | #8 | ↑51 | 5 | 🔥 Still Active | ↑ Rising |
-| SBET | #55 | #50 | ↑5 | #47 | #19 | ↑28 | 4 | 🔥 Still Active | ↑ Rising |
-| TE | #63 | #56 | ↑7 | #31 | #27 | ↑4 | 3 | 🔥 Still Active | ↑ Rising |
-| CVNA | #65 | #63 | ↑2 | #81 | #103 | ↓22 | 1 | 💤 Dormant | ↑ Rising |
-| MRNA | #64 | #67 | ↓3 | #63 | #195 | ↓132 | 0 | 💤 Dormant | ↓ Falling |
-| PLTR | #75 | #68 | ↑7 | #101 | #75 | ↑26 | 2 | 💤 Dormant | ↑ Rising |
-| RIVN | #70 | #70 | – | #57 | #95 | ↓38 | 1 | 💤 Dormant | — |
-| LCID | #78 | #72 | ↑6 | #95 | #51 | ↑44 | 3 | 🔥 Still Active | ↑ Rising |
-| AUR | #88 | #82 | ↑6 | #238 | #59 | ↑179 | 3 | 🔥 Still Active | ↑ Rising |
-| FCEL | #111 | #99 | ↑12 | #27 | #38 | ↓11 | 3 | 🔥 Still Active | ↑ Rising |
-| BB | #104 | #100 | ↑4 | #89 | #76 | ↑13 | 2 | 💤 Dormant | ↑ Rising |
-| IBRX | #112 | #106 | ↑6 | #26 | #124 | ↓98 | 1 | 💤 Dormant | ↑ Rising |
-| CCL | #115 | #116 | ↓1 | #413 | #205 | ↑208 | 1 | 💤 Dormant | ↓ Falling |
-| LYFT | #110 | #117 | ↓7 | #100 | #389 | ↓289 | 0 | 💤 Dormant | ↓ Falling |
-| HPE | #129 | #118 | ↑11 | #140 | #60 | ↑80 | 3 | 🔥 Still Active | ↑ Rising |
-| NWL | #117 | #123 | ↓6 | #62 | #147 | ↓85 | 1 | 💤 Dormant | ↓ Falling |
-| DAL | #122 | #124 | ↓2 | #239 | #415 | ↓176 | 0 | 💤 Dormant | ↓ Falling |
-| RBLX | #127 | #134 | ↓7 | #66 | #273 | ↓207 | 0 | 💤 Dormant | ↓ Falling |
-| PINS | #162 | #145 | ↑17 | #104 | #68 | ↑36 | 3 | 🔥 Still Active | ↑ Rising |
-| IOVA | #152 | #150 | ↑2 | #235 | #191 | ↑44 | 1 | 💤 Dormant | ↑ Rising |
-| DELL | #146 | #151 | ↓5 | #404 | #430 | ↓26 | 0 | 💤 Dormant | ↓ Falling |
-| FCX | #168 | #164 | ↑4 | #468 | #219 | ↑249 | 1 | 💤 Dormant | ↑ Rising |
-| LUV | #158 | #168 | ↓10 | #489 | #555 | ↓66 | 0 | 📉 Fading | ↓ Falling |
-| M | #171 | #171 | – | #546 | #557 | ↓11 | 0 | 📉 Fading | — |
-| NVDA | #178 | #173 | ↑5 | #383 | #145 | ↑238 | 2 | 💤 Dormant | ↑ Rising |
-| APH | #179 | #178 | ↑1 | #384 | #220 | ↑164 | 1 | 💤 Dormant | ↑ Rising |
-| AFRM | #204 | #218 | ↓14 | #643 | #624 | ↑19 | 0 | 📉 Fading | ↓ Falling |
-| BFLY | #258 | #240 | ↑18 | #82 | #58 | ↑24 | 4 | 🔥 Still Active | ↑ Rising |
-| CPNG | #252 | #253 | ↓1 | #420 | #495 | ↓75 | 0 | 💤 Dormant | ↓ Falling |
-| GOOGL | #282 | #270 | ↑12 | #649 | #467 | ↑182 | 1 | 💤 Dormant | ↑ Rising |
-| GOOG | #328 | #295 | ↑33 | #674 | #474 | ↑200 | 1 | 💤 Dormant | ↑ Rising |
-| MRK | #273 | #296 | ↓23 | #409 | #481 | ↓72 | 0 | 💤 Dormant | ↓ Falling |
+| SBET | #55 | #49 | ↑6 | #47 | #19 | ↑28 | 4 | 🔥 Still Active | ↑ Rising |
+| TE | #63 | #56 | ↑7 | #31 | #28 | ↑3 | 3 | 🔥 Still Active | ↑ Rising |
+| CVNA | #65 | #66 | ↓1 | #81 | #108 | ↓27 | 1 | 💤 Dormant | ↓ Falling |
+| MRNA | #64 | #67 | ↓3 | #63 | #199 | ↓136 | 0 | 💤 Dormant | ↓ Falling |
+| RIVN | #70 | #69 | ↑1 | #57 | #101 | ↓44 | 1 | 💤 Dormant | ↑ Rising |
+| PLTR | #75 | #70 | ↑5 | #101 | #80 | ↑21 | 2 | 💤 Dormant | ↑ Rising |
+| LCID | #78 | #75 | ↑3 | #95 | #52 | ↑43 | 3 | 🔥 Still Active | ↑ Rising |
+| AUR | #88 | #81 | ↑7 | #238 | #61 | ↑177 | 3 | 🔥 Still Active | ↑ Rising |
+| FCEL | #111 | #100 | ↑11 | #27 | #39 | ↓12 | 3 | 🔥 Still Active | ↑ Rising |
+| BB | #104 | #101 | ↑3 | #89 | #81 | ↑8 | 2 | 💤 Dormant | ↑ Rising |
+| IBRX | #112 | #110 | ↑2 | #26 | #128 | ↓102 | 1 | 💤 Dormant | ↑ Rising |
+| HPE | #129 | #116 | ↑13 | #140 | #62 | ↑78 | 3 | 🔥 Still Active | ↑ Rising |
+| CCL | #115 | #119 | ↓4 | #413 | #209 | ↑204 | 1 | 💤 Dormant | ↓ Falling |
+| NWL | #117 | #120 | ↓3 | #62 | #151 | ↓89 | 1 | 💤 Dormant | ↓ Falling |
+| LYFT | #110 | #123 | ↓13 | #100 | #400 | ↓300 | 0 | 💤 Dormant | ↓ Falling |
+| DAL | #122 | #124 | ↓2 | #239 | #428 | ↓189 | 0 | 💤 Dormant | ↓ Falling |
+| RBLX | #127 | #136 | ↓9 | #66 | #281 | ↓215 | 0 | 💤 Dormant | ↓ Falling |
+| IOVA | #152 | #146 | ↑6 | #235 | #194 | ↑41 | 1 | 💤 Dormant | ↑ Rising |
+| PINS | #162 | #147 | ↑15 | #104 | #73 | ↑31 | 3 | 🔥 Still Active | ↑ Rising |
+| DELL | #146 | #159 | ↓13 | #404 | #442 | ↓38 | 0 | 💤 Dormant | ↓ Falling |
+| FCX | #168 | #164 | ↑4 | #468 | #225 | ↑243 | 1 | 💤 Dormant | ↑ Rising |
+| APH | #179 | #167 | ↑12 | #384 | #227 | ↑157 | 1 | 💤 Dormant | ↑ Rising |
+| NVDA | #178 | #173 | ↑5 | #383 | #149 | ↑234 | 2 | 💤 Dormant | ↑ Rising |
+| LUV | #158 | #175 | ↓17 | #489 | #563 | ↓74 | 0 | 📉 Fading | ↓ Falling |
+| M | #171 | #179 | ↓8 | #546 | #564 | ↓18 | 0 | 📉 Fading | ↓ Falling |
+| AFRM | #204 | #216 | ↓12 | #643 | #627 | ↑16 | 0 | 📉 Fading | ↓ Falling |
+| APPS | #229 | #225 | ↑4 | #252 | #210 | ↑42 | 1 | 💤 Dormant | ↑ Rising |
+| BFLY | #258 | #233 | ↑25 | #82 | #60 | ↑22 | 4 | 🔥 Still Active | ↑ Rising |
+| CPNG | #252 | #258 | ↓6 | #420 | #504 | ↓84 | 0 | 💤 Dormant | ↓ Falling |
+| GOOGL | #282 | #280 | ↑2 | #649 | #478 | ↑171 | 1 | 💤 Dormant | ↑ Rising |
+| GOOG | #328 | #293 | ↑35 | #674 | #482 | ↑192 | 1 | 💤 Dormant | ↑ Rising |
+| MRK | #273 | #302 | ↓29 | #409 | #490 | ↓81 | 0 | 💤 Dormant | ↓ Falling |
 | IREN | #1 | #1 | – | #13 | #5 | ↑8 | 2 | 💤 Dormant | — |
 | RGTI | #3 | #2 | ↑1 | #7 | #1 | ↑6 | 4 | 🔥 Still Active | ↑ Rising |
 | OKLO | #2 | #3 | ↓1 | #11 | #22 | ↓11 | 1 | 💤 Dormant | ↓ Falling |
 | NBIS | #4 | #4 | – | #2 | #2 | – | 3 | 🔥 Still Active | — |
 | QUBT | #5 | #5 | – | #3 | #12 | ↓9 | 2 | 💤 Dormant | — |
 | CRWV | #6 | #6 | – | #4 | #7 | ↓3 | 3 | 🔥 Still Active | — |
-| RIOT | #10 | #7 | ↑3 | #45 | #10 | ↑35 | 3 | 🔥 Still Active | ↑ Rising |
 
-**27 risers · 15 fallers · 8 unchanged**
+**27 risers · 18 fallers · 5 unchanged**
 
 
 ## Watch Only — Sugar Babies Without Active Setup
@@ -340,60 +341,55 @@ Stocks appearing on both the Sugar Baby list AND an active setup scan today:
 | NBIS | #4 | #2 | 3 | 🔥 Still Active | $194.09 | $299.86 | 54.5% |  |
 | QUBT | #5 | #12 | 2 | 💤 Dormant | $8.32 | $25.84 | 210.6% |  |
 | CRWV | #6 | #7 | 3 | 🔥 Still Active | $79.94 | $153.20 | 91.6% |  |
-| RIOT | #7 | #10 | 3 | 🔥 Still Active | $20.19 | $30.32 | 50.2% |  |
+| RIOT | #8 | #10 | 3 | 🔥 Still Active | $20.19 | $30.32 | 50.2% |  |
 | WULF | #9 | #17 | 2 | 💤 Dormant | $19.41 | $29.84 | 53.7% |  |
 | ASTS | #10 | #18 | 2 | 💤 Dormant | $68.82 | $133.86 | 94.5% |  |
-| APLD | #11 | #57 | 0 | 💤 Dormant | $28.47 | $50.73 | 78.2% |  |
+| APLD | #11 | #59 | 0 | 💤 Dormant | $28.47 | $50.73 | 78.2% |  |
 | IONQ | #12 | #11 | 3 | 🔥 Still Active | $39.29 | $84.64 | 115.4% |  |
-| EOSE | #13 | #21 | 2 | 💤 Dormant | $4.29 | $19.86 | 362.9% |  |
-| NVTS | #16 | #23 | 2 | 💤 Dormant | $13.09 | $34.17 | 161.0% |  |
-| CIFR | #17 | #4 | 4 | 🔥 Still Active | $19.87 | $30.14 | 51.7% |  |
-| USAR | #18 | #25 | 2 | 💤 Dormant | $18.19 | $43.98 | 141.8% |  |
-| BBAI | #20 | #79 | 0 | 💤 Dormant | $3.10 | $9.39 | 202.9% |  |
+| EOSE | #14 | #21 | 2 | 💤 Dormant | $4.29 | $19.86 | 362.9% |  |
+| CIFR | #16 | #4 | 4 | 🔥 Still Active | $19.87 | $30.14 | 51.7% |  |
+| NVTS | #17 | #23 | 2 | 💤 Dormant | $13.09 | $34.17 | 161.0% |  |
+| USAR | #19 | #26 | 2 | 💤 Dormant | $18.19 | $43.98 | 141.8% |  |
+| BBAI | #20 | #83 | 0 | 💤 Dormant | $3.10 | $9.39 | 202.9% |  |
 | MARA | #21 | #16 | 3 | 🔥 Still Active | $12.16 | $23.45 | 92.8% |  |
 | ONDS | #22 | #20 | 3 | 🔥 Still Active | $7.36 | $15.28 | 107.6% |  |
-| MU | #24 | #71 | 0 | 💤 Dormant | $983.12 | $1255.00 | 27.7% |  |
-| BE | #26 | #84 | 0 | 💤 Dormant | $243.40 | $351.28 | 44.3% |  |
-| AMD | #28 | #9 | 4 | 🔥 Still Active | $548.13 | $584.73 | 6.7% |  |
-| SNDK | #29 | #53 | 1 | 💤 Dormant | $1757.82 | $2354.39 | 33.9% |  |
+| MU | #24 | #76 | 0 | 💤 Dormant | $983.12 | $1255.00 | 27.7% |  |
+| SNDK | #26 | #55 | 1 | 💤 Dormant | $1757.82 | $2354.39 | 33.9% |  |
+| BE | #27 | #88 | 0 | 💤 Dormant | $243.40 | $351.28 | 44.3% |  |
+| AMD | #29 | #9 | 4 | 🔥 Still Active | $548.13 | $584.73 | 6.7% |  |
 | ACHR | #31 | #3 | 5 | 🔥 Still Active | $4.85 | $14.62 | 201.4% |  |
-| SMCI | #32 | #35 | 2 | 💤 Dormant | $27.65 | $62.36 | 125.5% |  |
-| LUMN | #33 | #63 | 1 | 💤 Dormant | $6.37 | $11.95 | 87.6% |  |
-| UEC | #34 | #64 | 1 | 💤 Dormant | $10.39 | $20.34 | 95.8% |  |
-| AG | #35 | #65 | 1 | 💤 Dormant | $16.93 | $32.03 | 89.2% |  |
-| RCAT | #36 | #39 | 2 | 💤 Dormant | $8.79 | $18.78 | 113.7% |  |
-| UAMY | #37 | #102 | 0 | 💤 Dormant | $6.45 | $19.71 | 205.6% |  |
-| UUUU | #38 | #105 | 0 | 💤 Dormant | $13.23 | $27.90 | 110.9% |  |
-| CDE | #40 | #43 | 2 | 💤 Dormant | $16.00 | $27.77 | 73.6% |  |
-| RUN | #41 | #69 | 1 | 💤 Dormant | $12.78 | $22.44 | 75.6% |  |
-| JOBY | #42 | #44 | 2 | 💤 Dormant | $7.89 | $20.95 | 165.5% |  |
-| MRVL | #43 | #40 | 2 | 💤 Dormant | $222.44 | $329.88 | 48.3% |  |
-| CRCL | #45 | #46 | 2 | 💤 Dormant | $63.22 | $262.97 | 316.0% |  |
-| SOUN | #46 | #52 | 2 | 💤 Dormant | $6.69 | $22.17 | 231.4% |  |
-| MSTR | #47 | #47 | 2 | 💤 Dormant | $97.58 | $457.22 | 368.6% |  |
-| CORZ | #48 | #29 | 3 | 🔥 Still Active | $22.09 | $30.46 | 37.9% |  |
-| JBLU | #49 | #28 | 3 | 🔥 Still Active | $5.33 | $6.50 | 22.0% |  |
-| HL | #51 | #81 | 1 | 💤 Dormant | $15.50 | $34.17 | 120.5% |  |
-| HOOD | #52 | #106 | 0 | 💤 Dormant | $113.45 | $153.86 | 35.6% |  |
-| CLF | #53 | #32 | 3 | 🔥 Still Active | $9.79 | $16.70 | 70.6% |  |
-| LUNR | #54 | #83 | 1 | 💤 Dormant | $14.91 | $46.75 | 213.5% |  |
-| LAES | #55 | #119 | 0 | 💤 Dormant | $2.72 | $8.71 | 220.2% |  |
-| COIN | #57 | #122 | 0 | 💤 Dormant | $161.50 | $444.65 | 175.3% |  |
-| EXK | #58 | #87 | 1 | 💤 Dormant | $8.08 | $15.15 | 87.5% |  |
-| RDW | #59 | #54 | 2 | 💤 Dormant | $9.74 | $26.64 | 173.5% |  |
-| PTON | #60 | #88 | 1 | 💤 Dormant | $6.16 | $9.20 | 49.4% |  |
-| CRML | #61 | #101 | 1 | 💤 Dormant | $7.93 | $32.15 | 305.4% |  |
+| UEC | #32 | #66 | 1 | 💤 Dormant | $10.39 | $20.34 | 95.8% |  |
+| SMCI | #33 | #36 | 2 | 💤 Dormant | $27.65 | $62.36 | 125.5% |  |
+| CDE | #34 | #24 | 3 | 🔥 Still Active | $16.00 | $27.77 | 73.6% |  |
+| LUMN | #35 | #67 | 1 | 💤 Dormant | $6.37 | $11.95 | 87.6% |  |
+| UUUU | #36 | #110 | 0 | 💤 Dormant | $13.23 | $27.90 | 110.9% |  |
+| AG | #37 | #68 | 1 | 💤 Dormant | $16.93 | $32.03 | 89.2% |  |
+| UAMY | #38 | #107 | 0 | 💤 Dormant | $6.45 | $19.71 | 205.6% |  |
+| RCAT | #39 | #40 | 2 | 💤 Dormant | $8.79 | $18.78 | 113.7% |  |
+| RUN | #41 | #74 | 1 | 💤 Dormant | $12.78 | $22.44 | 75.6% |  |
+| MRVL | #42 | #41 | 2 | 💤 Dormant | $222.44 | $329.88 | 48.3% |  |
+| JOBY | #43 | #44 | 2 | 💤 Dormant | $7.89 | $20.95 | 165.5% |  |
+| SOUN | #45 | #53 | 2 | 💤 Dormant | $6.69 | $22.17 | 231.4% |  |
+| CRCL | #46 | #46 | 2 | 💤 Dormant | $63.22 | $262.97 | 316.0% |  |
+| CORZ | #47 | #30 | 3 | 🔥 Still Active | $22.09 | $30.46 | 37.9% |  |
+| MSTR | #48 | #47 | 2 | 💤 Dormant | $97.58 | $457.22 | 368.6% |  |
+| JBLU | #50 | #29 | 3 | 🔥 Still Active | $5.33 | $6.50 | 22.0% |  |
+| HL | #51 | #54 | 2 | 💤 Dormant | $15.50 | $34.17 | 120.5% |  |
+| HOOD | #52 | #111 | 0 | 💤 Dormant | $113.45 | $153.86 | 35.6% |  |
+| LUNR | #53 | #87 | 1 | 💤 Dormant | $14.91 | $46.75 | 213.5% |  |
+| CLF | #54 | #33 | 3 | 🔥 Still Active | $9.79 | $16.70 | 70.6% |  |
+| LAES | #55 | #123 | 0 | 💤 Dormant | $2.72 | $8.71 | 220.2% |  |
+| COIN | #57 | #126 | 0 | 💤 Dormant | $161.50 | $444.65 | 175.3% |  |
+| EXK | #58 | #91 | 1 | 💤 Dormant | $8.08 | $15.15 | 87.5% |  |
+| RDW | #59 | #56 | 2 | 💤 Dormant | $9.74 | $26.64 | 173.5% |  |
+| PTON | #60 | #92 | 1 | 💤 Dormant | $6.16 | $9.20 | 49.4% |  |
+| AMPX | #61 | #100 | 1 | 💤 Dormant | $11.12 | $24.23 | 117.9% |  |
 | VG | #62 | #14 | 5 | 🔥 Still Active | $13.23 | $18.17 | 37.3% |  |
 
-## Sector ETF Momentum Proxies (Watch, Not Trade)
+## Sector ETF Momentum Proxies
 
-| Ticker | Move | Volume | Proxy For | Note |
-|--------|------|--------|-----------|------|
-| PLTZ | -58.71% | 14,291,265 | short | Sector proxy — confirms direction, not for position sizing |
-| PTIR | +58.03% | 22,298,311 | long | Sector proxy — confirms direction, not for position sizing |
-| PLTU | +57.87% | 12,480,079 | long | Sector proxy — confirms direction, not for position sizing |
-| SOXS | -20.25% | 83,746,193 | short | Sector proxy — confirms direction, not for position sizing |
-| MUZ | -15.29% | 9,993,468 | short | Sector proxy — confirms direction, not for position sizing |
+No notable ETF momentum today.
+
 
 ## Setup Breakdown
 
@@ -403,10 +399,12 @@ Stocks appearing on both the Sugar Baby list AND an active setup scan today:
 
 | # | Ticker | Change% | Volume | Rel Vol | VWAP | Entry | Stop | Width | Shares | Pos USD | Risk HKD | Status |
 |---|--------|---------|--------|---------|------|-------|------|-------|--------|---------|----------|--------|
-| 1 | DDD | 25.8% | 17,543,798 |  | $3.01 | $3.56 | $2.94 | 17.4% | 620 | $2,207 | HKD 3,000 | ✅ Ready |
-| 2 | BLZE | 26.9% | 11,701,383 |  | $16.60 | $19.79 | $16.62 | 16.0% | 121 | $2,395 | HKD 3,000 | ✅ Ready |
-| 3 | PLTR | 29.4% | 172,005,673 |  | $128.94 | $135.24 | $131.19 | 3.0% | 94 | $12,713 | HKD 3,000 | ✅ Ready |
-| 4 | AMIX | 434.2% | 117,356,077 |  | $5.22 | $19.50 | $4.90 | 74.9% | 26 | $507 | HKD 3,000 | ✅ Ready |
+| 1 | GTE | 38.2% | 20,233,412 |  | $6.71 | $9.44 | $6.54 | 30.7% | 132 | $1,246 | HKD 3,000 | ✅ Ready |
+| 2 | BLMN | 32.9% | 10,599,113 |  | $8.41 | $11.85 | $8.24 | 30.5% | 106 | $1,256 | HKD 3,000 | ✅ Ready |
+| 3 | INLF | 97.2% | 60,697,224 |  | $2.87 | $6.27 | $2.73 | 56.5% | 108 | $677 | HKD 3,000 | ✅ Ready |
+| 4 | APPS | 38.5% | 20,524,051 |  | $9.90 | $13.17 | $9.84 | 25.3% | 115 | $1,515 | HKD 3,000 | ✅ Ready |
+| 5 | YXT | 801.1% | 59,321,689 |  | $3.89 | $23.43 | $3.55 | 84.8% | 19 | $445 | HKD 3,000 | ✅ Ready |
+| 6 | JLHL | 72.5% | 32,935,084 |  | $8.42 | $9.35 | $8.00 | 14.4% | 284 | $2,655 | HKD 3,000 | ✅ Ready |
 
 ### 📈 SOS Breakouts
 *Squeeze Out of Stock*
