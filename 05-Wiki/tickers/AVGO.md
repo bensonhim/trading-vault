@@ -1,16 +1,16 @@
 ---
 title: "AVGO"
-date: 2026-08-05
+date: 2026-08-06
 tags: [tickers, wiki, auto-compiled]
-mention_count: 366
-sources_count: 178
+mention_count: 367
+sources_count: 179
 compilation_count: 1
 promote: false
 ---
 
 # AVGO
 
-*Tickers — compiled from 366 mentions across 178 sources.*
+*Tickers — compiled from 367 mentions across 179 sources.*
 
 ## Mentions
 

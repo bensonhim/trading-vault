@@ -1,6 +1,6 @@
 ---
 title: "AMD"
-date: 2026-08-05
+date: 2026-08-06
 tags: [tickers, wiki, auto-compiled]
 mention_count: 1032
 sources_count: 418

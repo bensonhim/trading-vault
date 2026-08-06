@@ -1,6 +1,6 @@
 ---
 title: "Stock Selection"
-date: 2026-08-05
+date: 2026-08-06
 tags: [concepts, wiki, auto-compiled]
 mention_count: 507
 sources_count: 185

@@ -1,16 +1,16 @@
 ---
 title: "MSFT"
-date: 2026-08-05
+date: 2026-08-06
 tags: [tickers, wiki, auto-compiled]
-mention_count: 67
-sources_count: 45
+mention_count: 68
+sources_count: 46
 compilation_count: 1
 promote: false
 ---
 
 # MSFT
 
-*Tickers — compiled from 67 mentions across 45 sources.*
+*Tickers — compiled from 68 mentions across 46 sources.*
 
 ## Mentions
 
@@ -78,6 +78,8 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-08-04.md|Session-2026-08-04]]: | [[MSFT]] | 24% already | Slow-moving. 40-50% possible but sector weak. |
 
+> [[../../06-Daily/stockbee/Sessions/Session-2026-08-05.md|Session-2026-08-05]]: | [[MSFT]] | 24% already | Slow-moving. Wait for setup. |
+
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-21.md|Session-2023-11-21]]: [[TSLA]] — liquid lava, continuation setup. [[MSFT]] — also showing continuation.
 
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-21.md|Session-2023-11-21]]: | [[MSFT]] | Continuation | 🔄 Watching | Setting up |
@@ -91,8 +93,6 @@ promote: false
 > [[../../06-Daily/stockbee/Sessions/2024/Session-2024-02-28.md|Session-2024-02-28]]: - Large caps (GOOGL, AAPL, AMZN, MSFT) going nowhere
 
 > [[../../06-Daily/stockbee/Sessions/2024/Session-2024-07-24.md|Session-2024-07-24]]: Nothing actionable. Large caps getting hammered. [[UNH]] and [[NVDA]] best-holding large caps. Everything else — AAPL, META, MSFT — looking like "wounded soldiers."
-
-> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-08-22.md|Session-2024-08-22]]: | [[MSFT]] | Short (range expansion) | ⏳ Open | 1.78% risk, earnings not great, weak bounce |
 
 ## Related Concepts
 

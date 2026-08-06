@@ -1,16 +1,16 @@
 ---
 title: "GOOG"
-date: 2026-08-05
+date: 2026-08-06
 tags: [tickers, wiki, auto-compiled]
-mention_count: 67
-sources_count: 42
+mention_count: 69
+sources_count: 43
 compilation_count: 1
 promote: false
 ---
 
 # GOOG
 
-*Tickers — compiled from 67 mentions across 42 sources.*
+*Tickers — compiled from 69 mentions across 43 sources.*
 
 ## Mentions
 
@@ -82,6 +82,10 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-08-03.md|Session-2026-08-03]]: | [[GOOG]] | EP / gapping up | Money flowing into big caps |
 
+> [[../../06-Daily/stockbee/Sessions/Session-2026-08-05.md|Session-2026-08-05]]: | [[GOOG]] | Catalyst (AI pioneers leaving) | "They pioneered AI but missed the boat. They're the IBM of AI." |
+
+> [[../../06-Daily/stockbee/Sessions/Session-2026-08-05.md|Session-2026-08-05]]: | [[GOOG]] | Catalyst (AI pioneers) | "Not confident. Not going." |
+
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-12-07.md|Session-2023-12-07]]: | [[GOOG]] | Delayed Reaction | ⚠️ Secondary | Moving, but AMD is better |
 
 > [[../../06-Daily/stockbee/Sessions/2024/Session-2024-01-17.md|Session-2024-01-17]]: - [[GOOG]] — if closes near low, short it (8-10% downside)
@@ -89,10 +93,6 @@ promote: false
 > [[../../06-Daily/stockbee/Sessions/2024/Session-2024-01-17.md|Session-2024-01-17]]: 5. **Delayed reaction** is Pradeep's favorite setup right now — MBLY, XOP, GOOG
 
 > [[../../06-Daily/stockbee/Sessions/2024/Session-2024-02-16.md|Session-2024-02-16]]: - [[GOOG]], [[AMZN]]: "they lost the game" — former leaders that have faded
-
-> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-02-16.md|Session-2024-02-16]]: - 9M EP: [[SMCI]] parabolic, [[META]], [[TSLA]], [[GOOG]], [[SNAP]] (delayed reaction short)
-
-> [[../../06-Daily/stockbee/Sessions/2024/Session-2024-02-21.md|Session-2024-02-21]]: - [[AXP]] (American Express), [[GOOG]] (Google) — delayed reaction candidates
 
 ## Related Concepts
 
