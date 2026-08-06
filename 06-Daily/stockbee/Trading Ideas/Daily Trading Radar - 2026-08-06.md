@@ -18,11 +18,11 @@ data_date: 2026-08-05
 > - **Breakouts:** 257 | **Breakdowns:** 202
 > - **Follow-through:** 3d=46.3% 5d=49.1% (OK)
 >
-> - 20% study at 403 — euphoria, buying binge likely peaked, expect mean reversion
-> - Follow-through rate 37% — breakouts failing, do not chase new entries
-> - Rally 8 days mature and extended — easy breakouts already happened
-> - 08-05 intraday distribution: SPY and SKYY both closed near lows after multi-day rally
-> - SKYY (leading sector) reversed -1.4% and closed near low — watch for follow-through failure
+> - 20% study at 403 — euphoria territory, buying binge already peaked
+> - Follow-through rate 37% — breakouts failing, reduce size
+> - Rally mature at 8 days — easy breakouts already happened
+> - Intraday distribution on 08-05: SPY and SKYY both closed near lows after recent strength
+> - Leading sector SKYY closed -1.4% near low — first sign of leader fatigue
 
 ---
 
@@ -270,6 +270,34 @@ RS_20d: 3.52 | RS_65d: 4.11
 
 | # | Ticker | Price | Tight Tier | Tight Days | Priority |
 |---|--------|-------|-----------|------------|----------|
+
+### Continuation Pause (68 found — top 20)
+
+> [!tip] **Entry**: EMA rejection — enter 1% above rejection candle close. Stop = 1% below EMA that got rejection.
+> If no EMA rejection detected, fallback: enter at pause high + 1%, stop at pause low - 1%.
+
+| Ticker | Close | Pause | 5d% | Entry | Stop | Width | EMA | Method | Swing Low | Sub-Sector | Priority |
+|--------|-------|-------|-----|-------|------|-------|-----|--------|-----------|------------|----------|
+| CRWV | $89.89 | 2d | +47.8% | $95.24 | $85.40 | 10.3% | - | pause high | $60.55 | IGV | highest |
+| PGY | $21.80 | 2d | +34.7% | $23.45 | $21.03 | 10.3% | - | pause high | $15.08 | IGV | highest |
+| MSFT | $487.46 | 2d | +24.8% | $504.43 | $474.38 | 6.0% | - | pause high | $349.20 | IGV | high |
+| ORCL | $144.36 | 2d | +22.6% | $150.19 | $139.60 | 7.0% | - | pause high | $114.50 | IGV | high |
+| NBIS | $218.99 | 3d | +47.7% | $214.71 | $190.96 | 11.1% | EMA5=$192.89 | EMA5 rejection | $145.80 | IGV | high |
+| BAND | $45.67 | 3d | +23.6% | $46.66 | $44.34 | 5.0% | EMA5=$44.79 | EMA5 rejection | $35.20 | IGV | high |
+| PDFS | $49.46 | 3d | +20.1% | $48.48 | $46.27 | 4.6% | EMA5=$46.74 | EMA5 rejection | $40.99 | IGV | high |
+| HQ | $15.03 | 3d | +30.1% | $13.93 | $12.78 | 8.2% | EMA5=$12.91 | EMA5 rejection | $11.33 | IGV | high |
+| TOST | $34.80 | 3d | +6.7% | $34.15 | $32.44 | 5.0% | EMA5=$32.77 | EMA5 rejection | $25.58 | IGV | medium |
+| NOW | $117.22 | 3d | +1.3% | $119.32 | $112.29 | 5.9% | EMA5=$113.42 | EMA5 rejection | $89.39 | IGV | medium |
+| KVYO | $19.30 | 3d | -0.4% | $19.32 | $18.26 | 5.5% | EMA5=$18.45 | EMA5 rejection | $13.73 | IGV | medium |
+| CRM | $192.98 | 3d | +2.4% | $192.90 | $183.30 | 5.0% | EMA5=$185.15 | EMA5 rejection | $148.78 | IGV | medium |
+| JPM | $359.24 | 3d | +4.2% | $356.17 | $347.98 | 2.3% | EMA5=$351.50 | EMA5 rejection | $325.01 | KBE | medium |
+| SNOW | $316.84 | 2d | +12.0% | $319.94 | $297.99 | 6.9% | EMA5=$301.00 | EMA5 rejection | $217.48 | IGV | medium |
+| ADBE | $259.32 | 3d | -1.6% | $260.06 | $249.04 | 4.2% | EMA5=$251.55 | EMA5 rejection | $191.80 | IGV | medium |
+| PCOR | $55.69 | 3d | +11.0% | $56.25 | $53.79 | 4.4% | EMA5=$54.34 | EMA5 rejection | $38.03 | IGV | medium |
+| IOT | $38.73 | 3d | -0.1% | $37.50 | $36.43 | 2.9% | EMA5=$36.80 | EMA5 rejection | $28.77 | IGV | medium |
+| INTU | $327.94 | 3d | -1.6% | $326.84 | $314.91 | 3.6% | EMA5=$318.09 | EMA5 rejection | $253.21 | IGV | medium |
+| HD | $353.14 | 3d | +4.4% | $343.42 | $333.12 | 3.0% | EMA5=$336.48 | EMA5 rejection | $323.05 | XRT | medium |
+| FIVN | $29.60 | 3d | +8.9% | $30.51 | $27.89 | 8.6% | - | pause high | $19.10 | IGV | medium |
 
 ---
 
