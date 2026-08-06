@@ -9,7 +9,7 @@ data_date: 2026-08-05
 
 ## 1. Market Regime — LLM Judge Verdict
 
-> [!caution] 🟡 **CAUTIOUS_BULL_HIGH** — Action: **REDUCE_SIZE**
+> [!caution] 🔴 **RANGE_BOUND** — Action: **SIPs_ONLY**
 >
 > - **20% Study (bullish):** 403
 > - **20% Study (bearish):** 68
@@ -18,11 +18,10 @@ data_date: 2026-08-05
 > - **Breakouts:** 257 | **Breakdowns:** 202
 > - **Follow-through:** 3d=46.3% 5d=49.1% (OK)
 >
-> - 20% study at 403 — euphoria territory, buying binge already peaked
-> - Follow-through rate 37% — breakouts failing, reduce size
-> - Rally mature at 8 days — easy breakouts already happened
-> - Intraday distribution on 08-05: SPY and SKYY both closed near lows after recent strength
-> - Leading sector SKYY closed -1.4% near low — first sign of leader fatigue
+> - Rally 8 days old + 20% study overbought = extended, high correction risk
+> - 20% study at 221 (> 200) = extreme euphoria, top forming (London Calling)
+> - 20% study at 221 (> 200) = extreme euphoria, top forming (London Calling) — downgraded to RANGE_BOUND/SIPs_ONLY.
+> - LLM: Rules-based fallback (LLM unavailable): Rally 8 days old + 20% study overbought = extended, high correction risk; 20% study at 221 (> 200) = extreme euphoria, top forming (London Calling); 20% study at 221 (> 200) = extreme euphoria, top forming (London Calling) — downgraded to RANGE_BOUND/SIPs_ONLY.
 
 ---
 
@@ -30,13 +29,13 @@ data_date: 2026-08-05
 
 ### Primary Indicators
 
-| Indicator   | 2026-08-05 | 2026-08-04 | 2026-07-31 | 2026-07-30 | 2026-07-29 | Trend |
-| ----------- | ---------- | ---------- | ---------- | ---------- | ---------- | ----- |
-| Net Primary | +365       | +440       | +144       | +17        | -132       | —     |
-| T2108       | 54.47%     | 55.62%     | 51.90%     | 48.05%     | 48.33%     | —     |
-| Breakouts   | 257        | 718        | 573        | 424        | 165        | —     |
-| Breakdowns  | 202        | 114        | 74         | 196        | 552        | —     |
-| BO:BD Ratio | 1.27       | 6.30       | 7.74       | 2.16       | 0.30       | —     |
+| Indicator | 2026-08-05 | 2026-08-04 | 2026-07-31 | 2026-07-30 | 2026-07-29 | Trend |
+|-----------|-------|-------|-------|-------|-------|-------|
+| Net Primary | +365 | +440 | +144 | +17 | -132 | — |
+| T2108 | 54.47% | 55.62% | 51.90% | 48.05% | 48.33% | — |
+| Breakouts | 257 | 718 | 573 | 424 | 165 | — |
+| Breakdowns | 202 | 114 | 74 | 196 | 552 | — |
+| BO:BD Ratio | 1.27 | 6.30 | 7.74 | 2.16 | 0.30 | — |
 
 ### Secondary Indicators
 
@@ -88,6 +87,24 @@ RS_20d: 3.52 | RS_65d: 4.11
 | 9 | JETS | healthcare_it | 1.85 | 4.24 | +5.5% | +3.0% | +2.5% |  |
 | 10 | KRE | regional_banks | 1.85 | 1.51 | +5.5% | +3.0% | +2.5% |  |
 
+### Sector Leadership Trend (5-day RS trajectory)
+
+> [!info] Sectors **gaining RS during market weakness** are the next leaders.
+> Sectors **fading** while still on top = top forming. Sectors **building** from weak base = emerging.
+
+| Rank | ETF | Theme | RS Now | 5d Avg | 5d Trend | 5d Volatility | 10d Avg | 10d Trend | Classification |
+|------|-----|-------|--------|--------|----------|--------------|---------|-----------|----------------|
+| 1 | GDX | gold_miners | 3.54 | -1.76 | -1.946 | med (4.0) | -1.00 | -0.028 | 🔻 Declining |
+| 2 | SKYY | cloud_computing | 3.52 | 7.27 | +0.554 | HIGH (12.9) | 4.67 | -0.656 | 📈 Gaining |
+| 3 | WOOD | timber_forestry | 3.44 | 8.72 | +0.798 | HIGH (22.1) | 5.34 | -0.762 | 📈 Gaining |
+| 4 | XME | metals_mining | 3.32 | -3.57 | -2.658 | HIGH (12.2) | -3.45 | -0.541 | 🔻 Declining |
+| 5 | IGV | software | 3.23 | 2.87 | -0.317 | med (2.3) | 2.31 | -0.151 | 📉 Fading |
+| 6 | SIL | silver_miners | 3.20 | -4.85 | -2.723 | HIGH (12.2) | -2.87 | +0.196 | 🔻 Declining |
+| 7 | KWEB | china_internet | 2.73 | 15.97 | +3.741 | HIGH (38.3) | 11.28 | -0.599 | 📈 Gaining |
+| 8 | XRT | retail | 2.13 | 2.76 | -0.420 | HIGH (5.7) | 1.13 | -0.501 | 📉 Fading |
+| 9 | KBE | bank_diversified | 1.91 | 2.60 | +0.317 | med (3.6) | 2.10 | -0.022 | 📈 Gaining |
+| 10 | JETS | healthcare_it | 1.85 | -5.08 | -2.498 | HIGH (16.4) | -5.34 | -0.681 | 🔻 Declining |
+
 ---
 
 ## 4b. TI65 Trend Intensity
@@ -107,18 +124,18 @@ RS_20d: 3.52 | RS_65d: 4.11
 
 ### Young Momentum — TI65 Bullish, sorted by C65 ascending (20 shown, top 10)
 
-| Ticker | TI65 | C65 | D65 | C/C7  | Change% | Close   | Volume     |
-| ------ | ---- | --- | --- | ----- | ------- | ------- | ---------- |
-| GLOB   | 1.05 | 0   | 94  | 1.176 | +0.7%   | $38.38  | 1,118,013  |
-| KWEB   | 1.05 | 0   | 70  | 1.057 | -1.2%   | $28.54  | 15,326,816 |
-| AME    | 1.05 | 0   | 0   | 1.048 | +0.3%   | $254.76 | 1,274,146  |
-| PTC    | 1.05 | 0   | 70  | 1.114 | -1.6%   | $139.43 | 1,268,358  |
-| CG     | 1.04 | 0   | 53  | 1.077 | -1.6%   | $49.84  | 5,929,490  |
-| BSP    | 1.04 | 0   | 0   | 1.315 | +16.8%  | $43.75  | 5,171,167  |
-| CPS    | 1.04 | 0   | 60  | 1.089 | +1.3%   | $31.17  | 221,605    |
-| SSMR   | 1.04 | 0   | 8   | 1.076 | +10.1%  | $16.12  | 309,261    |
-| OCTV   | 1.04 | 0   | 27  | 1.153 | -0.3%   | $19.59  | 1,633,433  |
-| TYL    | 1.03 | 0   | 62  | 0.971 | -2.1%   | $306.58 | 769,291    |
+| Ticker | TI65 | C65 | D65 | C/C7 | Change% | Close | Volume |
+|--------|------|-----|-----|------|---------|-------|--------|
+| GLOB | 1.05 | 0 | 94 | 1.176 | +0.7% | $38.38 | 1,118,013 |
+| KWEB | 1.05 | 0 | 70 | 1.057 | -1.2% | $28.54 | 15,326,816 |
+| AME | 1.05 | 0 | 0 | 1.048 | +0.3% | $254.76 | 1,274,146 |
+| PTC | 1.05 | 0 | 70 | 1.114 | -1.6% | $139.43 | 1,268,358 |
+| CG | 1.04 | 0 | 53 | 1.077 | -1.6% | $49.84 | 5,929,490 |
+| BSP | 1.04 | 0 | 0 | 1.315 | +16.8% | $43.75 | 5,171,167 |
+| CPS | 1.04 | 0 | 60 | 1.089 | +1.3% | $31.17 | 221,605 |
+| SSMR | 1.04 | 0 | 8 | 1.076 | +10.1% | $16.12 | 309,261 |
+| OCTV | 1.04 | 0 | 27 | 1.153 | -0.3% | $19.59 | 1,633,433 |
+| TYL | 1.03 | 0 | 62 | 0.971 | -2.1% | $306.58 | 769,291 |
 
 ### TI65 Anticipation — Bullish + ±0.4% narrow range day (307 candidates, top 20)
 
@@ -170,18 +187,18 @@ RS_20d: 3.52 | RS_65d: 4.11
 > These are stocks that JUST turned bullish AND are in a pullback/flat day. Highest reward/risk.
 > Buy on breakout above today's high, or place BSLO above consolidation.
 
-| Ticker | TI65 | C65 | D65 | C/C7  | Change% | Close    | Volume    | Action            |
-| ------ | ---- | --- | --- | ----- | ------- | -------- | --------- | ----------------- |
-| AZO    | 0.97 | 0   | 54  | 0.997 | +1.3%   | $3066.06 | 134,992   | flat day — BSLO   |
-| BAH    | 1.00 | 0   | 45  | 1.004 | -2.3%   | $71.91   | 2,070,000 | flat day — BSLO   |
-| ITG    | 0.96 | 0   | 9   | 0.991 | -1.6%   | $12.93   | 128,893   | flat day — BSLO   |
-| CRMT   | 0.53 | 0   | 100 | 1.018 | +3.0%   | $3.41    | 129,632   | flat day — BSLO   |
-| NXTC   | 1.01 | 0   | 82  | 1.025 | -9.2%   | $5.25    | 229,979   | near flat — watch |
-| TYL    | 1.03 | 0   | 62  | 0.971 | -2.1%   | $306.58  | 769,291   | flat day — BSLO   |
-| MLM    | 0.96 | 0   | 29  | 0.967 | -0.4%   | $553.37  | 488,503   | flat day — BSLO   |
-| CACI   | 1.02 | 0   | 60  | 1.045 | -1.2%   | $518.03  | 222,395   | near flat — watch |
-| AME    | 1.05 | 0   | 0   | 1.048 | +0.3%   | $254.76  | 1,274,146 | near flat — watch |
-| EMBC   | 1.08 | 1   | 86  | 1.038 | -6.5%   | $3.57    | 1,098,135 | near flat — watch |
+| Ticker | TI65 | C65 | D65 | C/C7 | Change% | Close | Volume | Action |
+|--------|------|-----|-----|------|---------|-------|--------|--------|
+| AZO | 0.97 | 0 | 54 | 0.997 | +1.3% | $3066.06 | 134,992 | flat day — BSLO |
+| BAH | 1.00 | 0 | 45 | 1.004 | -2.3% | $71.91 | 2,070,000 | flat day — BSLO |
+| ITG | 0.96 | 0 | 9 | 0.991 | -1.6% | $12.93 | 128,893 | flat day — BSLO |
+| CRMT | 0.53 | 0 | 100 | 1.018 | +3.0% | $3.41 | 129,632 | flat day — BSLO |
+| NXTC | 1.01 | 0 | 82 | 1.025 | -9.2% | $5.25 | 229,979 | near flat — watch |
+| TYL | 1.03 | 0 | 62 | 0.971 | -2.1% | $306.58 | 769,291 | flat day — BSLO |
+| MLM | 0.96 | 0 | 29 | 0.967 | -0.4% | $553.37 | 488,503 | flat day — BSLO |
+| CACI | 1.02 | 0 | 60 | 1.045 | -1.2% | $518.03 | 222,395 | near flat — watch |
+| AME | 1.05 | 0 | 0 | 1.048 | +0.3% | $254.76 | 1,274,146 | near flat — watch |
+| EMBC | 1.08 | 1 | 86 | 1.038 | -6.5% | $3.57 | 1,098,135 | near flat — watch |
 
 ---
 
@@ -191,22 +208,22 @@ RS_20d: 3.52 | RS_65d: 4.11
 > When multiple stocks in the same sub-sector trigger setups simultaneously,
 > it signals sector rotation / institutional interest. Pradeep: 'Leading sector drags everything.'
 
-| Sub-Sector             | Total | SOS | DEP | ANTS | EP9M | REV_BULL | Signal |
-| ---------------------- | ----- | --- | --- | ---- | ---- | -------- | ------ |
-| Real Estate            | 23    | 0   | 0   | 0    | 0    | 23       | HOT    |
-| Food Beverage          | 11    | 0   | 0   | 0    | 0    | 11       | HOT    |
-| Utilities              | 10    | 0   | 0   | 0    | 0    | 10       | HOT    |
-| Insurance              | 9     | 0   | 0   | 0    | 0    | 9        | HOT    |
-| Retail                 | 8     | 0   | 0   | 0    | 0    | 8        | HOT    |
-| Healthcare Broad       | 7     | 0   | 0   | 0    | 0    | 7        | HOT    |
-| Medical Devices        | 6     | 0   | 0   | 0    | 0    | 6        | HOT    |
-| Software               | 5     | 0   | 0   | 0    | 0    | 5        | HOT    |
-| Communications         | 5     | 0   | 0   | 0    | 0    | 5        | HOT    |
-| Travel Leisure         | 4     | 0   | 0   | 0    | 0    | 4        | WARM   |
-| Technology Broad       | 4     | 0   | 0   | 0    | 0    | 4        | WARM   |
-| Consumer Discretionary | 4     | 0   | 0   | 0    | 0    | 4        | WARM   |
-| Pharma                 | 4     | 0   | 0   | 0    | 0    | 4        | WARM   |
-| Biotech Small          | 3     | 0   | 0   | 0    | 0    | 3        | WARM   |
+| Sub-Sector | Total | SOS | DEP | ANTS | EP9M | REV_BULL | Signal |
+|------------|-------|-----|-----|------|------|----------|--------|
+| Real Estate | 23 | 0 | 0 | 0 | 0 | 23 | HOT |
+| Food Beverage | 11 | 0 | 0 | 0 | 0 | 11 | HOT |
+| Utilities | 10 | 0 | 0 | 0 | 0 | 10 | HOT |
+| Insurance | 9 | 0 | 0 | 0 | 0 | 9 | HOT |
+| Retail | 8 | 0 | 0 | 0 | 0 | 8 | HOT |
+| Healthcare Broad | 7 | 0 | 0 | 0 | 0 | 7 | HOT |
+| Medical Devices | 6 | 0 | 0 | 0 | 0 | 6 | HOT |
+| Software | 5 | 0 | 0 | 0 | 0 | 5 | HOT |
+| Communications | 5 | 0 | 0 | 0 | 0 | 5 | HOT |
+| Travel Leisure | 4 | 0 | 0 | 0 | 0 | 4 | WARM |
+| Technology Broad | 4 | 0 | 0 | 0 | 0 | 4 | WARM |
+| Consumer Discretionary | 4 | 0 | 0 | 0 | 0 | 4 | WARM |
+| Pharma | 4 | 0 | 0 | 0 | 0 | 4 | WARM |
+| Biotech Small | 3 | 0 | 0 | 0 | 0 | 3 | WARM |
 
 ---
 
@@ -248,14 +265,14 @@ RS_20d: 3.52 | RS_65d: 4.11
 > [!tip] Pradeep: 'EP 9M is the primary setup. After EP 9M, it can make a move of 48%.'
 > Stock gapped up +4% on earnings/news with volume. Buy on gap or intraday breakout.
 
-| #   | Ticker | Gap %   | Change % | Volume     | Priority | Notes |
-| --- | ------ | ------- | -------- | ---------- | -------- | ----- |
-| 1   | GTE    | +51.2%  | +38.2%   | 20,233,412 | highest  |       |
-| 2   | BLMN   | +35.9%  | +32.9%   | 10,599,113 | highest  |       |
-| 3   | INLF   | +145.6% | +97.2%   | 60,697,224 | high     |       |
-| 4   | JLHL   | +29.1%  | +72.5%   | 32,935,084 | high     |       |
-| 5   | APPS   | +25.7%  | +38.5%   | 20,524,051 | high     |       |
-| 6   | YXT    | +0.0%   | +801.1%  | 59,321,689 | medium   |       |
+| # | Ticker | Gap % | Change % | Volume | Priority | Notes |
+|---|--------|-------|----------|--------|----------|-------|
+| 1 | GTE | +51.2% | +38.2% | 20,233,412 | highest |  |
+| 2 | BLMN | +35.9% | +32.9% | 10,599,113 | highest |  |
+| 3 | INLF | +145.6% | +97.2% | 60,697,224 | high |  |
+| 4 | JLHL | +29.1% | +72.5% | 32,935,084 | high |  |
+| 5 | APPS | +25.7% | +38.5% | 20,524,051 | high |  |
+| 6 | YXT | +0.0% | +801.1% | 59,321,689 | medium |  |
 
 ### DEP Candidates (0 found)
 
@@ -474,14 +491,14 @@ RS_20d: 3.52 | RS_65d: 4.11
 
 ### Setup Types
 
-| Setup           | What it is                                                                                                                                       | How to trade                                                                                                                 | Entry                         | Stop                                      | Target                                     |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ----------------------------------------- | ------------------------------------------ |
-| **SOS**         | Stochastic breakout — stock breaks out of consolidation with volume expansion. Look for Two Lynch Score >= 3, no legs (single move).             | Buy at breakout close or next morning's open. Size: 100% (FULL_BULL), 75% (CAUTIOUS_BULL_HIGH), 0% (RANGE_BOUND).            | Breakout day close            | Below consolidation low or 5% from entry  | 2R (2x risk) minimum, trail with 8-day EMA |
-| **DEP**         | Daily Earnings Play — stock had a catalyst (earnings gap +4% with volume) in last 25 days, pulled back to consolidation, now breaking out again. | Place limit order at breakout level. 'Never more than 5.' Best when 20% study > 50.                                          | Limit at breakout level       | Below consolidation low (0.5-2.5% width)  | 2R minimum, exit on 80/20 rule             |
-| **ANTS**        | Anticipation — stock in tight contraction (3 consecutive days with <1% daily change). Volatility squeeze before breakout.                        | Place Buy-Stop-Limit Order (BSLO) above tight day high. Best when TI65 young (C65 <= 10).                                    | BSLO above tight day high     | Below tight day low                       | 1.5R, trail tight                          |
-| **SIPs**        | Stocks in Play — fresh catalyst (earnings, news, partnership) + volume. Day trade or 1-2 day swing.                                              | Buy on gap or intraday breakout. 'When nothing else works, SIPs are the only thing that works.' No overnight in RANGE_BOUND. | Gap open or intraday breakout | Intraday stop (1-2%)                      | Same day or next day                       |
-| **EP 9M Short** | Negative surprise — stock gaps down -4%+ on earnings/news with volume. Short setup.                                                              | Short on gap down or intraday breakdown. Best when market is DISTRIBUTING.                                                   | Gap down open or breakdown    | Above gap down high or consolidation high | 2R                                         |
-| **Bearish DEP** | Negative EP then breakdown — stock had negative catalyst, consolidated, now breaking DOWN. Short setup.                                          | Short at breakdown. Best when 20% study < 30.                                                                                | Breakdown close               | Above consolidation high                  | 2R                                         |
+| Setup | What it is | How to trade | Entry | Stop | Target |
+|-------|-----------|-------------|-------|------|--------|
+| **SOS** | Stochastic breakout — stock breaks out of consolidation with volume expansion. Look for Two Lynch Score >= 3, no legs (single move). | Buy at breakout close or next morning's open. Size: 100% (FULL_BULL), 75% (CAUTIOUS_BULL_HIGH), 0% (RANGE_BOUND). | Breakout day close | Below consolidation low or 5% from entry | 2R (2x risk) minimum, trail with 8-day EMA |
+| **DEP** | Daily Earnings Play — stock had a catalyst (earnings gap +4% with volume) in last 25 days, pulled back to consolidation, now breaking out again. | Place limit order at breakout level. 'Never more than 5.' Best when 20% study > 50. | Limit at breakout level | Below consolidation low (0.5-2.5% width) | 2R minimum, exit on 80/20 rule |
+| **ANTS** | Anticipation — stock in tight contraction (3 consecutive days with <1% daily change). Volatility squeeze before breakout. | Place Buy-Stop-Limit Order (BSLO) above tight day high. Best when TI65 young (C65 <= 10). | BSLO above tight day high | Below tight day low | 1.5R, trail tight |
+| **SIPs** | Stocks in Play — fresh catalyst (earnings, news, partnership) + volume. Day trade or 1-2 day swing. | Buy on gap or intraday breakout. 'When nothing else works, SIPs are the only thing that works.' No overnight in RANGE_BOUND. | Gap open or intraday breakout | Intraday stop (1-2%) | Same day or next day |
+| **EP 9M Short** | Negative surprise — stock gaps down -4%+ on earnings/news with volume. Short setup. | Short on gap down or intraday breakdown. Best when market is DISTRIBUTING. | Gap down open or breakdown | Above gap down high or consolidation high | 2R |
+| **Bearish DEP** | Negative EP then breakdown — stock had negative catalyst, consolidated, now breaking DOWN. Short setup. | Short at breakdown. Best when 20% study < 30. | Breakdown close | Above consolidation high | 2R |
 
 ### Terminology
 
