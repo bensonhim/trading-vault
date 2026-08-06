@@ -4,5 +4,7 @@
   "newFileFolderPath": "06-Daily/stockbee",
   "attachmentFolderPath": "resources",
   "promptDelete": false,
-  "showLineNumber": true
+  "showLineNumber": false,
+  "showInlineTitle": true,
+  "readableLineLength": false
 }

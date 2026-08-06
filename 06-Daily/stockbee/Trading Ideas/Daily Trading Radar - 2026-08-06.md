@@ -74,36 +74,36 @@ RS_20d: 3.52 | RS_65d: 4.11
 
 ### Sector RS Heatmap (grouped by theme, top 10)
 
-| Rank | Ticker | Theme            | RS_20d | RS_65d | ETF 20d | SPY 20d | Excess | Status  |
-| ---- | ------ | ---------------- | ------ | ------ | ------- | ------- | ------ | ------- |
-| 1    | GDX    | gold_miners      | 3.54   | -0.73  | +10.4%  | +3.0%   | +7.5%  |         |
-| 2    | SKYY   | cloud_computing  | 3.52   | 4.11   | +10.4%  | +3.0%   | +7.5%  | LEADING |
-| 3    | WOOD   | timber_forestry  | 3.44   | 0.84   | +10.2%  | +3.0%   | +7.2%  |         |
-| 4    | XME    | metals_mining    | 3.32   | -0.79  | +9.8%   | +3.0%   | +6.8%  |         |
-| 5    | IGV    | software         | 3.23   | 2.38   | +9.6%   | +3.0%   | +6.6%  |         |
-| 6    | KWEB   | china_internet   | 2.73   | -0.12  | +8.1%   | +3.0%   | +5.1%  |         |
-| 7    | XRT    | retail           | 2.13   | 0.96   | +6.3%   | +3.0%   | +3.3%  |         |
-| 8    | KBE    | bank_diversified | 1.91   | 1.52   | +5.7%   | +3.0%   | +2.7%  |         |
-| 9    | JETS   | healthcare_it    | 1.85   | 4.24   | +5.5%   | +3.0%   | +2.5%  |         |
-| 10   | KRE    | regional_banks   | 1.85   | 1.51   | +5.5%   | +3.0%   | +2.5%  |         |
+| Rank | Ticker | Theme | RS_20d | RS_65d | ETF 20d | SPY 20d | Excess | Status |
+|------|--------|-------|--------|--------|---------|---------|--------|--------|
+| 1 | GDX | gold_miners | 3.54 | -0.73 | +10.4% | +3.0% | +7.5% |  |
+| 2 | SKYY | cloud_computing | 3.52 | 4.11 | +10.4% | +3.0% | +7.5% | LEADING |
+| 3 | WOOD | timber_forestry | 3.44 | 0.84 | +10.2% | +3.0% | +7.2% |  |
+| 4 | XME | metals_mining | 3.32 | -0.79 | +9.8% | +3.0% | +6.8% |  |
+| 5 | IGV | software | 3.23 | 2.38 | +9.6% | +3.0% | +6.6% |  |
+| 6 | KWEB | china_internet | 2.73 | -0.12 | +8.1% | +3.0% | +5.1% |  |
+| 7 | XRT | retail | 2.13 | 0.96 | +6.3% | +3.0% | +3.3% |  |
+| 8 | KBE | bank_diversified | 1.91 | 1.52 | +5.7% | +3.0% | +2.7% |  |
+| 9 | JETS | healthcare_it | 1.85 | 4.24 | +5.5% | +3.0% | +2.5% |  |
+| 10 | KRE | regional_banks | 1.85 | 1.51 | +5.5% | +3.0% | +2.5% |  |
 
 ### Sector Leadership Trend (5-day RS trajectory)
 
 > [!info] Sectors **gaining RS during market weakness** are the next leaders.
 > Sectors **fading** while still on top = top forming. Sectors **building** from weak base = emerging.
 
-| Rank | ETF | Theme | RS Now | 5d Avg | 5d Trend | 5d Volatility | 10d Avg | 10d Trend | Classification |
-|------|-----|-------|--------|--------|----------|--------------|---------|-----------|----------------|
-| 1 | GDX | gold_miners | 3.54 | -1.76 | -1.946 | med (4.0) | -1.00 | -0.028 | 🔻 Declining |
-| 2 | SKYY | cloud_computing | 3.52 | 7.27 | +0.554 | HIGH (12.9) | 4.67 | -0.656 | 📈 Gaining |
-| 3 | WOOD | timber_forestry | 3.44 | 8.72 | +0.798 | HIGH (22.1) | 5.34 | -0.762 | 📈 Gaining |
-| 4 | XME | metals_mining | 3.32 | -3.57 | -2.658 | HIGH (12.2) | -3.45 | -0.541 | 🔻 Declining |
-| 5 | IGV | software | 3.23 | 2.87 | -0.317 | med (2.3) | 2.31 | -0.151 | 📉 Fading |
-| 6 | SIL | silver_miners | 3.20 | -4.85 | -2.723 | HIGH (12.2) | -2.87 | +0.196 | 🔻 Declining |
-| 7 | KWEB | china_internet | 2.73 | 15.97 | +3.741 | HIGH (38.3) | 11.28 | -0.599 | 📈 Gaining |
-| 8 | XRT | retail | 2.13 | 2.76 | -0.420 | HIGH (5.7) | 1.13 | -0.501 | 📉 Fading |
-| 9 | KBE | bank_diversified | 1.91 | 2.60 | +0.317 | med (3.6) | 2.10 | -0.022 | 📈 Gaining |
-| 10 | JETS | healthcare_it | 1.85 | -5.08 | -2.498 | HIGH (16.4) | -5.34 | -0.681 | 🔻 Declining |
+| Rank | ETF  | Theme            | RS Now | 5d Avg | 5d Trend | 5d Volatility | 10d Avg | 10d Trend | Classification |
+| ---- | ---- | ---------------- | ------ | ------ | -------- | ------------- | ------- | --------- | -------------- |
+| 1    | GDX  | gold_miners      | 3.54   | -1.76  | -1.946   | med (4.0)     | -1.00   | -0.028    | 🔻 Declining   |
+| 2    | SKYY | cloud_computing  | 3.52   | 7.27   | +0.554   | HIGH (12.9)   | 4.67    | -0.656    | 📈 Gaining     |
+| 3    | WOOD | timber_forestry  | 3.44   | 8.72   | +0.798   | HIGH (22.1)   | 5.34    | -0.762    | 📈 Gaining     |
+| 4    | XME  | metals_mining    | 3.32   | -3.57  | -2.658   | HIGH (12.2)   | -3.45   | -0.541    | 🔻 Declining   |
+| 5    | IGV  | software         | 3.23   | 2.87   | -0.317   | med (2.3)     | 2.31    | -0.151    | 📉 Fading      |
+| 6    | SIL  | silver_miners    | 3.20   | -4.85  | -2.723   | HIGH (12.2)   | -2.87   | +0.196    | 🔻 Declining   |
+| 7    | KWEB | china_internet   | 2.73   | 15.97  | +3.741   | HIGH (38.3)   | 11.28   | -0.599    | 📈 Gaining     |
+| 8    | XRT  | retail           | 2.13   | 2.76   | -0.420   | HIGH (5.7)    | 1.13    | -0.501    | 📉 Fading      |
+| 9    | KBE  | bank_diversified | 1.91   | 2.60   | +0.317   | med (3.6)     | 2.10    | -0.022    | 📈 Gaining     |
+| 10   | JETS | healthcare_it    | 1.85   | -5.08  | -2.498   | HIGH (16.4)   | -5.34   | -0.681    | 🔻 Declining   |
 
 ---
 
