@@ -248,14 +248,14 @@ RS_20d: 3.52 | RS_65d: 4.11
 > [!tip] Pradeep: 'EP 9M is the primary setup. After EP 9M, it can make a move of 48%.'
 > Stock gapped up +4% on earnings/news with volume. Buy on gap or intraday breakout.
 
-| # | Ticker | Gap % | Change % | Volume | Priority | Notes |
-|---|--------|-------|----------|--------|----------|-------|
-| 1 | GTE | +51.2% | +38.2% | 20,233,412 | highest |  |
-| 2 | BLMN | +35.9% | +32.9% | 10,599,113 | highest |  |
-| 3 | INLF | +145.6% | +97.2% | 60,697,224 | high |  |
-| 4 | JLHL | +29.1% | +72.5% | 32,935,084 | high |  |
-| 5 | APPS | +25.7% | +38.5% | 20,524,051 | high |  |
-| 6 | YXT | +0.0% | +801.1% | 59,321,689 | medium |  |
+| #   | Ticker | Gap %   | Change % | Volume     | Priority | Notes |
+| --- | ------ | ------- | -------- | ---------- | -------- | ----- |
+| 1   | GTE    | +51.2%  | +38.2%   | 20,233,412 | highest  |       |
+| 2   | BLMN   | +35.9%  | +32.9%   | 10,599,113 | highest  |       |
+| 3   | INLF   | +145.6% | +97.2%   | 60,697,224 | high     |       |
+| 4   | JLHL   | +29.1%  | +72.5%   | 32,935,084 | high     |       |
+| 5   | APPS   | +25.7%  | +38.5%   | 20,524,051 | high     |       |
+| 6   | YXT    | +0.0%   | +801.1%  | 59,321,689 | medium   |       |
 
 ### DEP Candidates (0 found)
 
@@ -474,14 +474,14 @@ RS_20d: 3.52 | RS_65d: 4.11
 
 ### Setup Types
 
-| Setup | What it is | How to trade | Entry | Stop | Target |
-|-------|-----------|-------------|-------|------|--------|
-| **SOS** | Stochastic breakout — stock breaks out of consolidation with volume expansion. Look for Two Lynch Score >= 3, no legs (single move). | Buy at breakout close or next morning's open. Size: 100% (FULL_BULL), 75% (CAUTIOUS_BULL_HIGH), 0% (RANGE_BOUND). | Breakout day close | Below consolidation low or 5% from entry | 2R (2x risk) minimum, trail with 8-day EMA |
-| **DEP** | Daily Earnings Play — stock had a catalyst (earnings gap +4% with volume) in last 25 days, pulled back to consolidation, now breaking out again. | Place limit order at breakout level. 'Never more than 5.' Best when 20% study > 50. | Limit at breakout level | Below consolidation low (0.5-2.5% width) | 2R minimum, exit on 80/20 rule |
-| **ANTS** | Anticipation — stock in tight contraction (3 consecutive days with <1% daily change). Volatility squeeze before breakout. | Place Buy-Stop-Limit Order (BSLO) above tight day high. Best when TI65 young (C65 <= 10). | BSLO above tight day high | Below tight day low | 1.5R, trail tight |
-| **SIPs** | Stocks in Play — fresh catalyst (earnings, news, partnership) + volume. Day trade or 1-2 day swing. | Buy on gap or intraday breakout. 'When nothing else works, SIPs are the only thing that works.' No overnight in RANGE_BOUND. | Gap open or intraday breakout | Intraday stop (1-2%) | Same day or next day |
-| **EP 9M Short** | Negative surprise — stock gaps down -4%+ on earnings/news with volume. Short setup. | Short on gap down or intraday breakdown. Best when market is DISTRIBUTING. | Gap down open or breakdown | Above gap down high or consolidation high | 2R |
-| **Bearish DEP** | Negative EP then breakdown — stock had negative catalyst, consolidated, now breaking DOWN. Short setup. | Short at breakdown. Best when 20% study < 30. | Breakdown close | Above consolidation high | 2R |
+| Setup           | What it is                                                                                                                                       | How to trade                                                                                                                 | Entry                         | Stop                                      | Target                                     |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ----------------------------------------- | ------------------------------------------ |
+| **SOS**         | Stochastic breakout — stock breaks out of consolidation with volume expansion. Look for Two Lynch Score >= 3, no legs (single move).             | Buy at breakout close or next morning's open. Size: 100% (FULL_BULL), 75% (CAUTIOUS_BULL_HIGH), 0% (RANGE_BOUND).            | Breakout day close            | Below consolidation low or 5% from entry  | 2R (2x risk) minimum, trail with 8-day EMA |
+| **DEP**         | Daily Earnings Play — stock had a catalyst (earnings gap +4% with volume) in last 25 days, pulled back to consolidation, now breaking out again. | Place limit order at breakout level. 'Never more than 5.' Best when 20% study > 50.                                          | Limit at breakout level       | Below consolidation low (0.5-2.5% width)  | 2R minimum, exit on 80/20 rule             |
+| **ANTS**        | Anticipation — stock in tight contraction (3 consecutive days with <1% daily change). Volatility squeeze before breakout.                        | Place Buy-Stop-Limit Order (BSLO) above tight day high. Best when TI65 young (C65 <= 10).                                    | BSLO above tight day high     | Below tight day low                       | 1.5R, trail tight                          |
+| **SIPs**        | Stocks in Play — fresh catalyst (earnings, news, partnership) + volume. Day trade or 1-2 day swing.                                              | Buy on gap or intraday breakout. 'When nothing else works, SIPs are the only thing that works.' No overnight in RANGE_BOUND. | Gap open or intraday breakout | Intraday stop (1-2%)                      | Same day or next day                       |
+| **EP 9M Short** | Negative surprise — stock gaps down -4%+ on earnings/news with volume. Short setup.                                                              | Short on gap down or intraday breakdown. Best when market is DISTRIBUTING.                                                   | Gap down open or breakdown    | Above gap down high or consolidation high | 2R                                         |
+| **Bearish DEP** | Negative EP then breakdown — stock had negative catalyst, consolidated, now breaking DOWN. Short setup.                                          | Short at breakdown. Best when 20% study < 30.                                                                                | Breakdown close               | Above consolidation high                  | 2R                                         |
 
 ### Terminology
 
