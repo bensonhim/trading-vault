@@ -74,18 +74,18 @@ RS_20d: 3.52 | RS_65d: 4.11
 
 ### Sector RS Heatmap (grouped by theme, top 10)
 
-| Rank | Ticker | Theme | RS_20d | RS_65d | ETF 20d | SPY 20d | Excess | Status |
-|------|--------|-------|--------|--------|---------|---------|--------|--------|
-| 1 | GDX | gold_miners | 3.54 | -0.73 | +10.4% | +3.0% | +7.5% |  |
-| 2 | SKYY | cloud_computing | 3.52 | 4.11 | +10.4% | +3.0% | +7.5% | LEADING |
-| 3 | WOOD | timber_forestry | 3.44 | 0.84 | +10.2% | +3.0% | +7.2% |  |
-| 4 | XME | metals_mining | 3.32 | -0.79 | +9.8% | +3.0% | +6.8% |  |
-| 5 | IGV | software | 3.23 | 2.38 | +9.6% | +3.0% | +6.6% |  |
-| 6 | KWEB | china_internet | 2.73 | -0.12 | +8.1% | +3.0% | +5.1% |  |
-| 7 | XRT | retail | 2.13 | 0.96 | +6.3% | +3.0% | +3.3% |  |
-| 8 | KBE | bank_diversified | 1.91 | 1.52 | +5.7% | +3.0% | +2.7% |  |
-| 9 | JETS | healthcare_it | 1.85 | 4.24 | +5.5% | +3.0% | +2.5% |  |
-| 10 | KRE | regional_banks | 1.85 | 1.51 | +5.5% | +3.0% | +2.5% |  |
+| Rank | Ticker | Theme            | RS_20d | RS_65d | ETF 20d | SPY 20d | Excess | Status  |
+| ---- | ------ | ---------------- | ------ | ------ | ------- | ------- | ------ | ------- |
+| 1    | GDX    | gold_miners      | 3.54   | -0.73  | +10.4%  | +3.0%   | +7.5%  |         |
+| 2    | SKYY   | cloud_computing  | 3.52   | 4.11   | +10.4%  | +3.0%   | +7.5%  | LEADING |
+| 3    | WOOD   | timber_forestry  | 3.44   | 0.84   | +10.2%  | +3.0%   | +7.2%  |         |
+| 4    | XME    | metals_mining    | 3.32   | -0.79  | +9.8%   | +3.0%   | +6.8%  |         |
+| 5    | IGV    | software         | 3.23   | 2.38   | +9.6%   | +3.0%   | +6.6%  |         |
+| 6    | KWEB   | china_internet   | 2.73   | -0.12  | +8.1%   | +3.0%   | +5.1%  |         |
+| 7    | XRT    | retail           | 2.13   | 0.96   | +6.3%   | +3.0%   | +3.3%  |         |
+| 8    | KBE    | bank_diversified | 1.91   | 1.52   | +5.7%   | +3.0%   | +2.7%  |         |
+| 9    | JETS   | healthcare_it    | 1.85   | 4.24   | +5.5%   | +3.0%   | +2.5%  |         |
+| 10   | KRE    | regional_banks   | 1.85   | 1.51   | +5.5%   | +3.0%   | +2.5%  |         |
 
 ### Sector Leadership Trend (5-day RS trajectory)
 
