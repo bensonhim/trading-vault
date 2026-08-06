@@ -107,18 +107,18 @@ RS_20d: 3.52 | RS_65d: 4.11
 
 ### Young Momentum — TI65 Bullish, sorted by C65 ascending (20 shown, top 10)
 
-| Ticker | TI65 | C65 | D65 | C/C7 | Change% | Close | Volume |
-|--------|------|-----|-----|------|---------|-------|--------|
-| GLOB | 1.05 | 0 | 94 | 1.176 | +0.7% | $38.38 | 1,118,013 |
-| KWEB | 1.05 | 0 | 70 | 1.057 | -1.2% | $28.54 | 15,326,816 |
-| AME | 1.05 | 0 | 0 | 1.048 | +0.3% | $254.76 | 1,274,146 |
-| PTC | 1.05 | 0 | 70 | 1.114 | -1.6% | $139.43 | 1,268,358 |
-| CG | 1.04 | 0 | 53 | 1.077 | -1.6% | $49.84 | 5,929,490 |
-| BSP | 1.04 | 0 | 0 | 1.315 | +16.8% | $43.75 | 5,171,167 |
-| CPS | 1.04 | 0 | 60 | 1.089 | +1.3% | $31.17 | 221,605 |
-| SSMR | 1.04 | 0 | 8 | 1.076 | +10.1% | $16.12 | 309,261 |
-| OCTV | 1.04 | 0 | 27 | 1.153 | -0.3% | $19.59 | 1,633,433 |
-| TYL | 1.03 | 0 | 62 | 0.971 | -2.1% | $306.58 | 769,291 |
+| Ticker | TI65 | C65 | D65 | C/C7  | Change% | Close   | Volume     |
+| ------ | ---- | --- | --- | ----- | ------- | ------- | ---------- |
+| GLOB   | 1.05 | 0   | 94  | 1.176 | +0.7%   | $38.38  | 1,118,013  |
+| KWEB   | 1.05 | 0   | 70  | 1.057 | -1.2%   | $28.54  | 15,326,816 |
+| AME    | 1.05 | 0   | 0   | 1.048 | +0.3%   | $254.76 | 1,274,146  |
+| PTC    | 1.05 | 0   | 70  | 1.114 | -1.6%   | $139.43 | 1,268,358  |
+| CG     | 1.04 | 0   | 53  | 1.077 | -1.6%   | $49.84  | 5,929,490  |
+| BSP    | 1.04 | 0   | 0   | 1.315 | +16.8%  | $43.75  | 5,171,167  |
+| CPS    | 1.04 | 0   | 60  | 1.089 | +1.3%   | $31.17  | 221,605    |
+| SSMR   | 1.04 | 0   | 8   | 1.076 | +10.1%  | $16.12  | 309,261    |
+| OCTV   | 1.04 | 0   | 27  | 1.153 | -0.3%   | $19.59  | 1,633,433  |
+| TYL    | 1.03 | 0   | 62  | 0.971 | -2.1%   | $306.58 | 769,291    |
 
 ### TI65 Anticipation — Bullish + ±0.4% narrow range day (307 candidates, top 20)
 
@@ -170,18 +170,18 @@ RS_20d: 3.52 | RS_65d: 4.11
 > These are stocks that JUST turned bullish AND are in a pullback/flat day. Highest reward/risk.
 > Buy on breakout above today's high, or place BSLO above consolidation.
 
-| Ticker | TI65 | C65 | D65 | C/C7 | Change% | Close | Volume | Action |
-|--------|------|-----|-----|------|---------|-------|--------|--------|
-| AZO | 0.97 | 0 | 54 | 0.997 | +1.3% | $3066.06 | 134,992 | flat day — BSLO |
-| BAH | 1.00 | 0 | 45 | 1.004 | -2.3% | $71.91 | 2,070,000 | flat day — BSLO |
-| ITG | 0.96 | 0 | 9 | 0.991 | -1.6% | $12.93 | 128,893 | flat day — BSLO |
-| CRMT | 0.53 | 0 | 100 | 1.018 | +3.0% | $3.41 | 129,632 | flat day — BSLO |
-| NXTC | 1.01 | 0 | 82 | 1.025 | -9.2% | $5.25 | 229,979 | near flat — watch |
-| TYL | 1.03 | 0 | 62 | 0.971 | -2.1% | $306.58 | 769,291 | flat day — BSLO |
-| MLM | 0.96 | 0 | 29 | 0.967 | -0.4% | $553.37 | 488,503 | flat day — BSLO |
-| CACI | 1.02 | 0 | 60 | 1.045 | -1.2% | $518.03 | 222,395 | near flat — watch |
-| AME | 1.05 | 0 | 0 | 1.048 | +0.3% | $254.76 | 1,274,146 | near flat — watch |
-| EMBC | 1.08 | 1 | 86 | 1.038 | -6.5% | $3.57 | 1,098,135 | near flat — watch |
+| Ticker | TI65 | C65 | D65 | C/C7  | Change% | Close    | Volume    | Action            |
+| ------ | ---- | --- | --- | ----- | ------- | -------- | --------- | ----------------- |
+| AZO    | 0.97 | 0   | 54  | 0.997 | +1.3%   | $3066.06 | 134,992   | flat day — BSLO   |
+| BAH    | 1.00 | 0   | 45  | 1.004 | -2.3%   | $71.91   | 2,070,000 | flat day — BSLO   |
+| ITG    | 0.96 | 0   | 9   | 0.991 | -1.6%   | $12.93   | 128,893   | flat day — BSLO   |
+| CRMT   | 0.53 | 0   | 100 | 1.018 | +3.0%   | $3.41    | 129,632   | flat day — BSLO   |
+| NXTC   | 1.01 | 0   | 82  | 1.025 | -9.2%   | $5.25    | 229,979   | near flat — watch |
+| TYL    | 1.03 | 0   | 62  | 0.971 | -2.1%   | $306.58  | 769,291   | flat day — BSLO   |
+| MLM    | 0.96 | 0   | 29  | 0.967 | -0.4%   | $553.37  | 488,503   | flat day — BSLO   |
+| CACI   | 1.02 | 0   | 60  | 1.045 | -1.2%   | $518.03  | 222,395   | near flat — watch |
+| AME    | 1.05 | 0   | 0   | 1.048 | +0.3%   | $254.76  | 1,274,146 | near flat — watch |
+| EMBC   | 1.08 | 1   | 86  | 1.038 | -6.5%   | $3.57    | 1,098,135 | near flat — watch |
 
 ---
 
@@ -191,22 +191,22 @@ RS_20d: 3.52 | RS_65d: 4.11
 > When multiple stocks in the same sub-sector trigger setups simultaneously,
 > it signals sector rotation / institutional interest. Pradeep: 'Leading sector drags everything.'
 
-| Sub-Sector | Total | SOS | DEP | ANTS | EP9M | REV_BULL | Signal |
-|------------|-------|-----|-----|------|------|----------|--------|
-| Real Estate | 23 | 0 | 0 | 0 | 0 | 23 | HOT |
-| Food Beverage | 11 | 0 | 0 | 0 | 0 | 11 | HOT |
-| Utilities | 10 | 0 | 0 | 0 | 0 | 10 | HOT |
-| Insurance | 9 | 0 | 0 | 0 | 0 | 9 | HOT |
-| Retail | 8 | 0 | 0 | 0 | 0 | 8 | HOT |
-| Healthcare Broad | 7 | 0 | 0 | 0 | 0 | 7 | HOT |
-| Medical Devices | 6 | 0 | 0 | 0 | 0 | 6 | HOT |
-| Software | 5 | 0 | 0 | 0 | 0 | 5 | HOT |
-| Communications | 5 | 0 | 0 | 0 | 0 | 5 | HOT |
-| Travel Leisure | 4 | 0 | 0 | 0 | 0 | 4 | WARM |
-| Technology Broad | 4 | 0 | 0 | 0 | 0 | 4 | WARM |
-| Consumer Discretionary | 4 | 0 | 0 | 0 | 0 | 4 | WARM |
-| Pharma | 4 | 0 | 0 | 0 | 0 | 4 | WARM |
-| Biotech Small | 3 | 0 | 0 | 0 | 0 | 3 | WARM |
+| Sub-Sector             | Total | SOS | DEP | ANTS | EP9M | REV_BULL | Signal |
+| ---------------------- | ----- | --- | --- | ---- | ---- | -------- | ------ |
+| Real Estate            | 23    | 0   | 0   | 0    | 0    | 23       | HOT    |
+| Food Beverage          | 11    | 0   | 0   | 0    | 0    | 11       | HOT    |
+| Utilities              | 10    | 0   | 0   | 0    | 0    | 10       | HOT    |
+| Insurance              | 9     | 0   | 0   | 0    | 0    | 9        | HOT    |
+| Retail                 | 8     | 0   | 0   | 0    | 0    | 8        | HOT    |
+| Healthcare Broad       | 7     | 0   | 0   | 0    | 0    | 7        | HOT    |
+| Medical Devices        | 6     | 0   | 0   | 0    | 0    | 6        | HOT    |
+| Software               | 5     | 0   | 0   | 0    | 0    | 5        | HOT    |
+| Communications         | 5     | 0   | 0   | 0    | 0    | 5        | HOT    |
+| Travel Leisure         | 4     | 0   | 0   | 0    | 0    | 4        | WARM   |
+| Technology Broad       | 4     | 0   | 0   | 0    | 0    | 4        | WARM   |
+| Consumer Discretionary | 4     | 0   | 0   | 0    | 0    | 4        | WARM   |
+| Pharma                 | 4     | 0   | 0   | 0    | 0    | 4        | WARM   |
+| Biotech Small          | 3     | 0   | 0   | 0    | 0    | 3        | WARM   |
 
 ---
 
