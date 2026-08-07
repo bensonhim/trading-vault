@@ -154,14 +154,14 @@ RS_20d: 2.94 | RS_65d: 1.10
 > ≥1.05 = bullish velocity, ≤0.95 = bearish velocity, 0.95–1.05 = neutral.
 > C65 = days in bullish TI65 (last 100). C65 ≤ 10 = **young momentum** (highest R/R).
 
-| Universe | Count | Notes |
-|----------|-------|-------|
-| Bullish (≥1.05, vol≥100K) | 1375 | Active uptrends |
-| Bearish (≤0.95, vol≥1M) | 536 | Active downtrends (short universe) |
-| Bearish (≤0.95, vol≥100K) | 1039 | Wider bearish universe |
-| Neutral | 5806 | No clear trend |
+| Universe                      | Count   | Notes                                                   |
+| ----------------------------- | ------- | ------------------------------------------------------- |
+| Bullish (≥1.05, vol≥100K)     | 1375    | Active uptrends                                         |
+| Bearish (≤0.95, vol≥1M)       | 536     | Active downtrends (short universe)                      |
+| Bearish (≤0.95, vol≥100K)     | 1039    | Wider bearish universe                                  |
+| Neutral                       | 5806    | No clear trend                                          |
 | **Young momentum** (C65 ≤ 10) | **187** | **First 10 days of bullish TI65 — highest reward/risk** |
-| Total scanned | 9242 | All tickers with ≥65 days history |
+| Total scanned                 | 9242    | All tickers with ≥65 days history                       |
 
 ### Young Momentum — TI65 Bullish, sorted by C65 ascending (20 shown, top 10)
 
@@ -251,23 +251,23 @@ RS_20d: 2.94 | RS_65d: 1.10
 > Stocks with fresh catalyst (earnings, news, partnerships) + volume. Day trade / 1-2 day swing.
 > **[EXTENDED]** = already up 20%+ in 5d = 'priced in'. **[DILUTION]** = small-cap gap, shelf offering risk.
 
-| Ticker | Gap% | Change% | Volume | 5d Move | Flags |
-|--------|------|---------|--------|---------|-------|
-| SOUN | +25.2% | +10.1% | 88,522,389 | +15% | fresh |
-| JOBY | +4.5% | +5.5% | 49,321,798 | +14% | fresh |
-| RIG | +5.8% | +0.4% | 47,617,920 | +2% | fresh |
-| ARRY | +11.0% | -6.9% | 18,576,803 | +3% | fresh |
-| GT | +4.2% | -2.6% | 18,060,289 | -5% | fresh |
-| ZTS | +6.0% | +3.9% | 17,854,643 | +2% | fresh |
-| KDP | +5.7% | -1.2% | 17,190,294 | -4% | fresh |
-| OXY | +4.9% | +4.1% | 16,195,474 | +0% | LARGE-CAP |
-| NNBR | +13.3% | -0.8% | 13,932,565 | +16% | fresh |
-| PN | +6.0% | +20.3% | 12,639,856 | -65% | fresh |
-| CLOV | +18.1% | +12.6% | 11,607,449 | +7% | fresh |
-| SM | +5.4% | -1.1% | 9,665,328 | -9% | fresh |
-| LFST | +6.0% | +2.8% | 9,143,004 | -1% | fresh |
-| RELY | +7.9% | +7.7% | 8,284,801 | +11% | fresh |
-| APA | +5.5% | +5.4% | 8,010,874 | +1% | fresh |
+| Ticker | Gap%   | Change% | Volume     | 5d Move | Flags     |
+| ------ | ------ | ------- | ---------- | ------- | --------- |
+| SOUN   | +25.2% | +10.1%  | 88,522,389 | +15%    | fresh     |
+| JOBY   | +4.5%  | +5.5%   | 49,321,798 | +14%    | fresh     |
+| RIG    | +5.8%  | +0.4%   | 47,617,920 | +2%     | fresh     |
+| ARRY   | +11.0% | -6.9%   | 18,576,803 | +3%     | fresh     |
+| GT     | +4.2%  | -2.6%   | 18,060,289 | -5%     | fresh     |
+| ZTS    | +6.0%  | +3.9%   | 17,854,643 | +2%     | fresh     |
+| KDP    | +5.7%  | -1.2%   | 17,190,294 | -4%     | fresh     |
+| OXY    | +4.9%  | +4.1%   | 16,195,474 | +0%     | LARGE-CAP |
+| NNBR   | +13.3% | -0.8%   | 13,932,565 | +16%    | fresh     |
+| PN     | +6.0%  | +20.3%  | 12,639,856 | -65%    | fresh     |
+| CLOV   | +18.1% | +12.6%  | 11,607,449 | +7%     | fresh     |
+| SM     | +5.4%  | -1.1%   | 9,665,328  | -9%     | fresh     |
+| LFST   | +6.0%  | +2.8%   | 9,143,004  | -1%     | fresh     |
+| RELY   | +7.9%  | +7.7%   | 8,284,801  | +11%    | fresh     |
+| APA    | +5.5%  | +5.4%   | 8,010,874  | +1%     | fresh     |
 
 ### SOS Breakout Candidates (0 found — top 20)
 
