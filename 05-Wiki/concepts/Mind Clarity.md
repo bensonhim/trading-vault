@@ -1,6 +1,6 @@
 ---
 title: "Mind Clarity"
-date: 2026-08-06
+date: 2026-08-07
 tags: [concepts, wiki, auto-compiled]
 mention_count: 1708
 sources_count: 625

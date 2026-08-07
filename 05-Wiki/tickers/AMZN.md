@@ -1,16 +1,16 @@
 ---
 title: "AMZN"
-date: 2026-08-06
+date: 2026-08-07
 tags: [tickers, wiki, auto-compiled]
-mention_count: 62
-sources_count: 44
+mention_count: 63
+sources_count: 45
 compilation_count: 1
 promote: false
 ---
 
 # AMZN
 
-*Tickers — compiled from 62 mentions across 44 sources.*
+*Tickers — compiled from 63 mentions across 45 sources.*
 
 ## Mentions
 
@@ -58,6 +58,8 @@ promote: false
 
 > [[../../06-Daily/stockbee/Sessions/Session-2026-08-05.md|Session-2026-08-05]]: | [[AMZN]] | Pullback | "Better entry after 2-3 days pullback." |
 
+> [[../../06-Daily/stockbee/Sessions/Session-2026-08-06.md|Session-2026-08-06]]: | [[AMZN]] | No catalyst | 5-10% upside at best. Bezos/ex selling. |
+
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-01.md|Session-2023-11-01]]: | [[AMZN]] | Earnings Reaction | ✅ Positive reaction | Reacted positively to earnings |
 
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-01.md|Session-2023-11-01]]: | [[AMZN]] | Earnings | ✅ Positive | Reacted positively to earnings |
@@ -91,8 +93,6 @@ promote: false
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-09.md|Session-2023-11-09]]: - [[AMZN]] — sold (stopped out on profit protection after 3rd day)
 
 > [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-09.md|Session-2023-11-09]]: | [[AMZN]] | Antipation (held) | ✅ Sold for profit | 3rd day, profit protection |
-
-> [[../../06-Daily/stockbee/Sessions/2023/Session-2023-11-22.md|Session-2023-11-22]]: [[AMD]], [[AMZN]], [[SRC]], [[IWM]], [[CCL]] — all stopped out. Only [[STNA]] remaining.
 
 ## Related Concepts
 

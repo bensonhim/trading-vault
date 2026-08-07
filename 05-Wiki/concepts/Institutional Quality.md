@@ -1,16 +1,16 @@
 ---
 title: "Institutional Quality"
-date: 2026-08-06
+date: 2026-08-07
 tags: [concepts, wiki, auto-compiled]
-mention_count: 881
-sources_count: 400
+mention_count: 882
+sources_count: 401
 compilation_count: 1
 promote: false
 ---
 
 # Institutional Quality
 
-*Concepts — compiled from 881 mentions across 400 sources.*
+*Concepts — compiled from 882 mentions across 401 sources.*
 
 ## Mentions
 

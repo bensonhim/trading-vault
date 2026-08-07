@@ -1,16 +1,16 @@
 ---
 title: "NBIS"
-date: 2026-08-06
+date: 2026-08-07
 tags: [tickers, wiki, auto-compiled]
-mention_count: 147
-sources_count: 64
+mention_count: 148
+sources_count: 65
 compilation_count: 1
 promote: false
 ---
 
 # NBIS
 
-*Tickers — compiled from 147 mentions across 64 sources.*
+*Tickers — compiled from 148 mentions across 65 sources.*
 
 ## Mentions
 
