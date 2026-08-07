@@ -18,11 +18,11 @@ data_date: 2026-08-06
 > - **Breakouts:** 299 | **Breakdowns:** 277
 > - **Follow-through:** 3d=38.4% 5d=42.0% (OK)
 >
-> - Follow-through at 35% — breakouts failing, do NOT buy new breakouts
-> - 20% study at 228 — overbought, buying binge already peaked
-> - Rally 9 days mature — easy money already made
-> - Intraday distribution pattern on Aug 5-6 — institutions selling into strength
-> - Rotation trap: GDX/SIL/XME leading (defensive/old economy) while SMH/SOXX/AIQ lag — misleading breadth
+> - Follow-through rate 35% — breakouts failing to sustain (downgrade signal)
+> - 20% study at 228 — euphoria/overbought, buying binge likely peaked
+> - Rally 9 days mature and extended — easy breakouts already happened
+> - Defensive sectors leading (gold miners, silver miners, materials) — rotation trap, risk-off undertone
+> - Net Primary declining from +440 to +323 over last 2 days — momentum fading
 
 ---
 
@@ -462,11 +462,7 @@ RS_20d: 2.94 | RS_65d: 1.10
 
 ## 11b. Trade Management — Open Positions
 
-| Ticker | Setup | Entry | Close | P&L% | Stop | Stop Dist | Days | Target | Shares | P&L USD |
-|--------|-------|-------|-------|------|------|-----------|------|--------|--------|---------|
-| NVDA | SOS | $190.50 | $218.99 | +15.0% | $175.00 | 20.1% | 2/5d | $210.00 | 50 | $+1,425 |
-
-**Total open P&L: $+1,425**
+No open positions.
 
 ---
 
