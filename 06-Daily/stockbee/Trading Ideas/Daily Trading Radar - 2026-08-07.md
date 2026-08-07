@@ -75,76 +75,76 @@ RS_20d: 2.94 | RS_65d: 1.10
 
 ### Sector RS Heatmap (grouped by theme, top 10)
 
-| Rank | Ticker | Theme | RS_20d | RS_65d | ETF 20d | SPY 20d | Excess | Status |
-|------|--------|-------|--------|--------|---------|---------|--------|--------|
-| 1 | GDX | gold_miners | 4.55 | -0.55 | +14.1% | +3.1% | +11.0% |  |
-| 2 | WOOD | timber_forestry | 2.94 | 1.10 | +9.1% | +3.1% | +6.0% | LEADING |
-| 3 | SKYY | cloud_computing | 2.72 | 3.17 | +8.5% | +3.1% | +5.4% |  |
-| 4 | KWEB | china_internet | 2.31 | -0.11 | +7.2% | +3.1% | +4.1% |  |
-| 5 | XME | metals_mining | 2.22 | -0.85 | +6.9% | +3.1% | +3.8% |  |
-| 6 | SEA | shipping | 2.03 | 0.90 | +6.3% | +3.1% | +3.2% |  |
-| 7 | IGV | software | 1.90 | 1.87 | +5.9% | +3.1% | +2.8% |  |
-| 8 | IHI | medical_devices | 1.78 | 1.26 | +5.5% | +3.1% | +2.4% |  |
-| 9 | XLF | financials_broad | 1.66 | 1.71 | +5.2% | +3.1% | +2.1% |  |
-| 10 | XLE | energy_broad | 1.48 | -0.18 | +4.6% | +3.1% | +1.5% |  |
+| Rank | Ticker | Theme            | RS_20d | RS_65d | ETF 20d | SPY 20d | Excess | Status  |
+| ---- | ------ | ---------------- | ------ | ------ | ------- | ------- | ------ | ------- |
+| 1    | GDX    | gold_miners      | 4.55   | -0.55  | +14.1%  | +3.1%   | +11.0% |         |
+| 2    | WOOD   | timber_forestry  | 2.94   | 1.10   | +9.1%   | +3.1%   | +6.0%  | LEADING |
+| 3    | SKYY   | cloud_computing  | 2.72   | 3.17   | +8.5%   | +3.1%   | +5.4%  |         |
+| 4    | KWEB   | china_internet   | 2.31   | -0.11  | +7.2%   | +3.1%   | +4.1%  |         |
+| 5    | XME    | metals_mining    | 2.22   | -0.85  | +6.9%   | +3.1%   | +3.8%  |         |
+| 6    | SEA    | shipping         | 2.03   | 0.90   | +6.3%   | +3.1%   | +3.2%  |         |
+| 7    | IGV    | software         | 1.90   | 1.87   | +5.9%   | +3.1%   | +2.8%  |         |
+| 8    | IHI    | medical_devices  | 1.78   | 1.26   | +5.5%   | +3.1%   | +2.4%  |         |
+| 9    | XLF    | financials_broad | 1.66   | 1.71   | +5.2%   | +3.1%   | +2.1%  |         |
+| 10   | XLE    | energy_broad     | 1.48   | -0.18  | +4.6%   | +3.1%   | +1.5%  |         |
 
 ### Sector Leadership Trend (5-day RS trajectory)
 
 > [!info] Sectors **gaining RS during market weakness** are the next leaders.
 > Sectors **fading** while still on top = top forming. Sectors **building** from weak base = emerging.
 
-| Rank | ETF | Theme | RS Now | 5d Avg | 5d Trend | 5d Volatility | 10d Avg | 10d Trend | Classification |
-|------|-----|-------|--------|--------|----------|--------------|---------|-----------|----------------|
-| 1 | GDX | gold_miners | 4.55 | -0.33 | +2.956 | med (4.8) | -0.47 | +0.352 | 🌱 Building |
-| 2 | SIL | silver_miners | 4.02 | -4.53 | +6.675 | HIGH (12.4) | -2.40 | +0.321 | 🌱 Building |
-| 3 | WOOD | timber_forestry | 2.94 | 12.06 | -8.701 | HIGH (18.9) | 5.33 | +0.476 | 📉 Fading |
-| 4 | SKYY | cloud_computing | 2.72 | 9.01 | -5.438 | HIGH (11.2) | 4.78 | +0.343 | 📉 Fading |
-| 5 | KWEB | china_internet | 2.31 | 19.87 | -16.425 | HIGH (34.9) | 11.09 | -0.361 | 📉 Fading |
-| 6 | XME | metals_mining | 2.22 | -3.83 | +5.941 | HIGH (12.0) | -2.87 | +0.844 | 🌱 Building |
-| 7 | SEA | shipping | 2.03 | 15.23 | -12.737 | HIGH (27.2) | 8.15 | -0.433 | 📉 Fading |
-| 8 | IGV | software | 1.90 | 3.24 | -0.725 | low (1.9) | 2.39 | +0.044 | 📉 Fading |
-| 9 | IHI | medical_devices | 1.78 | 2.84 | -1.141 | med (2.4) | 0.32 | +0.377 | 📉 Fading |
-| 10 | XLF | financials_broad | 1.66 | 5.80 | -4.363 | HIGH (9.7) | 3.51 | -0.348 | 📉 Fading |
-| 11 | XLE | energy_broad | 1.48 | 17.59 | -15.132 | HIGH (32.1) | 10.22 | -0.656 | 📉 Fading |
-| 12 | PAVE | infrastructure | 1.33 | -1.98 | +3.046 | HIGH (6.4) | -0.91 | +0.392 | 🌱 Building |
-| 13 | XLB | materials | 1.29 | -1.17 | +1.801 | med (3.3) | -1.30 | +0.266 | 🌱 Building |
-| 14 | PPA | aerospace_defense | 1.18 | -1.71 | +2.433 | med (4.8) | 0.39 | -0.356 | 🌱 Building |
-| 15 | XRT | retail | 1.08 | 3.89 | -2.117 | med (4.3) | 1.06 | +0.545 | 📉 Fading |
-| 16 | FINX | fintech | 1.08 | 2.06 | -0.949 | low (2.0) | 1.56 | -0.366 | 📉 Fading |
-| 17 | XOP | oil_gas_e&p | 1.01 | 20.95 | -18.429 | HIGH (38.9) | 12.46 | -0.993 | 📉 Fading |
-| 18 | KIE | insurance | 0.87 | 0.79 | -0.124 | low (0.5) | 2.03 | -0.913 | 🔻 Declining |
-| 19 | KBE | bank_diversified | 0.86 | 2.82 | -1.509 | med (3.4) | 1.99 | -0.053 | 📉 Fading |
-| 20 | ITB | home_construction | 0.86 | -9.52 | +9.505 | HIGH (19.8) | -5.66 | +0.780 | 🌱 Building |
-| 21 | BUG | cybersecurity | 0.85 | -2.93 | +3.539 | HIGH (7.6) | 2.08 | -1.548 | 🌱 Building |
-| 22 | KRE | regional_banks | 0.79 | 2.66 | -1.399 | med (3.1) | 1.88 | -0.015 | 📉 Fading |
-| 23 | XLY | consumer_discretionary | 0.78 | -1.64 | +2.128 | med (4.7) | -1.37 | +0.627 | 🌱 Building |
-| 24 | XLI | industrials_broad | 0.77 | -1.97 | +2.507 | HIGH (5.2) | -0.17 | -0.103 | 🌱 Building |
-| 25 | XLP | consumer_staples | 0.74 | 0.46 | +0.050 | low (0.2) | -0.47 | +0.202 | 🟡 Holding |
-| 26 | XLK | technology_broad | 0.70 | -6.13 | +6.846 | HIGH (14.8) | -2.73 | +0.336 | 🌱 Building |
-| 27 | URNM | uranium | 0.52 | -9.64 | +9.958 | HIGH (21.1) | -5.92 | +0.711 | 🌱 Building |
-| 28 | XLC | communications | 0.51 | -1.21 | +1.610 | med (3.8) | -0.48 | +0.007 | 🌱 Building |
-| 29 | XLRE | real_estate | 0.48 | 2.79 | -2.311 | HIGH (5.1) | 1.56 | -0.122 | 📉 Fading |
-| 30 | XLV | healthcare_broad | 0.43 | 2.19 | -2.083 | med (5.0) | 2.18 | -0.661 | 📉 Fading |
-| 31 | PEJ | travel_leisure | 0.24 | -0.20 | +0.735 | low (1.7) | -0.88 | +0.361 | 🌱 Building |
-| 32 | JETS | healthcare_it | 0.23 | -6.40 | +7.139 | HIGH (15.4) | -5.14 | +1.218 | 🌱 Building |
-| 33 | NLR | nuclear_energy | 0.23 | -8.34 | +8.655 | HIGH (18.5) | -5.43 | +0.850 | 🌱 Building |
-| 34 | XPH | pharma | 0.13 | 1.82 | -1.599 | med (3.4) | 1.69 | -0.751 | 📉 Fading |
-| 35 | IAI | asset_management | -0.28 | 1.22 | -1.191 | med (2.9) | 1.60 | -0.627 | 📉 Fading |
-| 36 | AIQ | ai_tech | -0.32 | -9.10 | +8.820 | HIGH (19.4) | -5.24 | +0.789 | 🌱 Building |
-| 37 | PBJ | food_beverage | -0.39 | -1.10 | +0.756 | low (1.6) | -0.49 | -0.285 | 🌱 Building |
-| 38 | IBB | biotech_broad | -0.55 | -3.40 | +2.361 | med (4.6) | -0.54 | -0.765 | 🌱 Building |
-| 39 | QTUM | quantum_computing | -0.68 | -15.06 | +14.163 | HIGH (30.7) | -8.49 | +1.020 | 🌱 Building |
-| 40 | UFO | space_economy | -0.72 | -16.96 | +15.273 | HIGH (32.4) | -7.77 | -0.030 | 🌱 Building |
-| 41 | GNOM | genomics | -0.91 | -8.83 | +7.386 | HIGH (15.6) | -3.89 | -0.506 | 🌱 Building |
-| 42 | DRIV | ev_automotive | -0.97 | -15.53 | +13.840 | HIGH (29.6) | -8.81 | +0.806 | 🌱 Building |
-| 43 | SMH | semiconductors | -1.17 | -16.77 | +15.284 | HIGH (33.0) | -8.10 | +0.473 | 🌱 Building |
-| 44 | BLOK | blockchain | -1.32 | -7.01 | +6.109 | HIGH (14.0) | -3.46 | +0.053 | 🌱 Building |
-| 45 | XLU | utilities | -1.40 | -2.24 | +0.846 | low (1.9) | -0.47 | -0.430 | 🌱 Building |
-| 46 | XTN | transportation | -1.41 | -7.84 | +6.947 | HIGH (15.2) | -3.24 | -0.260 | 🌱 Building |
-| 47 | ICLN | clean_energy | -1.57 | -17.66 | +15.270 | HIGH (32.9) | -10.05 | +0.761 | 🌱 Building |
-| 48 | XBI | biotech_small | -1.67 | -9.30 | +7.071 | HIGH (14.8) | -3.69 | -0.687 | 🌱 Building |
-| 49 | SOXX | semiconductors | -1.69 | -20.87 | +18.699 | HIGH (40.3) | -10.50 | +0.676 | 🌱 Building |
-| 50 | XSD | semiconductor_equipment | -2.77 | -17.17 | +14.423 | HIGH (30.9) | -9.68 | +1.110 | 🌱 Building |
+| Rank | ETF  | Theme                   | RS Now | 5d Avg | 5d Trend | 5d Volatility | 10d Avg | 10d Trend | Classification |
+| ---- | ---- | ----------------------- | ------ | ------ | -------- | ------------- | ------- | --------- | -------------- |
+| 1    | GDX  | gold_miners             | 4.55   | -0.33  | +2.956   | med (4.8)     | -0.47   | +0.352    | 🌱 Building    |
+| 2    | SIL  | silver_miners           | 4.02   | -4.53  | +6.675   | HIGH (12.4)   | -2.40   | +0.321    | 🌱 Building    |
+| 3    | WOOD | timber_forestry         | 2.94   | 12.06  | -8.701   | HIGH (18.9)   | 5.33    | +0.476    | 📉 Fading      |
+| 4    | SKYY | cloud_computing         | 2.72   | 9.01   | -5.438   | HIGH (11.2)   | 4.78    | +0.343    | 📉 Fading      |
+| 5    | KWEB | china_internet          | 2.31   | 19.87  | -16.425  | HIGH (34.9)   | 11.09   | -0.361    | 📉 Fading      |
+| 6    | XME  | metals_mining           | 2.22   | -3.83  | +5.941   | HIGH (12.0)   | -2.87   | +0.844    | 🌱 Building    |
+| 7    | SEA  | shipping                | 2.03   | 15.23  | -12.737  | HIGH (27.2)   | 8.15    | -0.433    | 📉 Fading      |
+| 8    | IGV  | software                | 1.90   | 3.24   | -0.725   | low (1.9)     | 2.39    | +0.044    | 📉 Fading      |
+| 9    | IHI  | medical_devices         | 1.78   | 2.84   | -1.141   | med (2.4)     | 0.32    | +0.377    | 📉 Fading      |
+| 10   | XLF  | financials_broad        | 1.66   | 5.80   | -4.363   | HIGH (9.7)    | 3.51    | -0.348    | 📉 Fading      |
+| 11   | XLE  | energy_broad            | 1.48   | 17.59  | -15.132  | HIGH (32.1)   | 10.22   | -0.656    | 📉 Fading      |
+| 12   | PAVE | infrastructure          | 1.33   | -1.98  | +3.046   | HIGH (6.4)    | -0.91   | +0.392    | 🌱 Building    |
+| 13   | XLB  | materials               | 1.29   | -1.17  | +1.801   | med (3.3)     | -1.30   | +0.266    | 🌱 Building    |
+| 14   | PPA  | aerospace_defense       | 1.18   | -1.71  | +2.433   | med (4.8)     | 0.39    | -0.356    | 🌱 Building    |
+| 15   | XRT  | retail                  | 1.08   | 3.89   | -2.117   | med (4.3)     | 1.06    | +0.545    | 📉 Fading      |
+| 16   | FINX | fintech                 | 1.08   | 2.06   | -0.949   | low (2.0)     | 1.56    | -0.366    | 📉 Fading      |
+| 17   | XOP  | oil_gas_e&p             | 1.01   | 20.95  | -18.429  | HIGH (38.9)   | 12.46   | -0.993    | 📉 Fading      |
+| 18   | KIE  | insurance               | 0.87   | 0.79   | -0.124   | low (0.5)     | 2.03    | -0.913    | 🔻 Declining   |
+| 19   | KBE  | bank_diversified        | 0.86   | 2.82   | -1.509   | med (3.4)     | 1.99    | -0.053    | 📉 Fading      |
+| 20   | ITB  | home_construction       | 0.86   | -9.52  | +9.505   | HIGH (19.8)   | -5.66   | +0.780    | 🌱 Building    |
+| 21   | BUG  | cybersecurity           | 0.85   | -2.93  | +3.539   | HIGH (7.6)    | 2.08    | -1.548    | 🌱 Building    |
+| 22   | KRE  | regional_banks          | 0.79   | 2.66   | -1.399   | med (3.1)     | 1.88    | -0.015    | 📉 Fading      |
+| 23   | XLY  | consumer_discretionary  | 0.78   | -1.64  | +2.128   | med (4.7)     | -1.37   | +0.627    | 🌱 Building    |
+| 24   | XLI  | industrials_broad       | 0.77   | -1.97  | +2.507   | HIGH (5.2)    | -0.17   | -0.103    | 🌱 Building    |
+| 25   | XLP  | consumer_staples        | 0.74   | 0.46   | +0.050   | low (0.2)     | -0.47   | +0.202    | 🟡 Holding     |
+| 26   | XLK  | technology_broad        | 0.70   | -6.13  | +6.846   | HIGH (14.8)   | -2.73   | +0.336    | 🌱 Building    |
+| 27   | URNM | uranium                 | 0.52   | -9.64  | +9.958   | HIGH (21.1)   | -5.92   | +0.711    | 🌱 Building    |
+| 28   | XLC  | communications          | 0.51   | -1.21  | +1.610   | med (3.8)     | -0.48   | +0.007    | 🌱 Building    |
+| 29   | XLRE | real_estate             | 0.48   | 2.79   | -2.311   | HIGH (5.1)    | 1.56    | -0.122    | 📉 Fading      |
+| 30   | XLV  | healthcare_broad        | 0.43   | 2.19   | -2.083   | med (5.0)     | 2.18    | -0.661    | 📉 Fading      |
+| 31   | PEJ  | travel_leisure          | 0.24   | -0.20  | +0.735   | low (1.7)     | -0.88   | +0.361    | 🌱 Building    |
+| 32   | JETS | healthcare_it           | 0.23   | -6.40  | +7.139   | HIGH (15.4)   | -5.14   | +1.218    | 🌱 Building    |
+| 33   | NLR  | nuclear_energy          | 0.23   | -8.34  | +8.655   | HIGH (18.5)   | -5.43   | +0.850    | 🌱 Building    |
+| 34   | XPH  | pharma                  | 0.13   | 1.82   | -1.599   | med (3.4)     | 1.69    | -0.751    | 📉 Fading      |
+| 35   | IAI  | asset_management        | -0.28  | 1.22   | -1.191   | med (2.9)     | 1.60    | -0.627    | 📉 Fading      |
+| 36   | AIQ  | ai_tech                 | -0.32  | -9.10  | +8.820   | HIGH (19.4)   | -5.24   | +0.789    | 🌱 Building    |
+| 37   | PBJ  | food_beverage           | -0.39  | -1.10  | +0.756   | low (1.6)     | -0.49   | -0.285    | 🌱 Building    |
+| 38   | IBB  | biotech_broad           | -0.55  | -3.40  | +2.361   | med (4.6)     | -0.54   | -0.765    | 🌱 Building    |
+| 39   | QTUM | quantum_computing       | -0.68  | -15.06 | +14.163  | HIGH (30.7)   | -8.49   | +1.020    | 🌱 Building    |
+| 40   | UFO  | space_economy           | -0.72  | -16.96 | +15.273  | HIGH (32.4)   | -7.77   | -0.030    | 🌱 Building    |
+| 41   | GNOM | genomics                | -0.91  | -8.83  | +7.386   | HIGH (15.6)   | -3.89   | -0.506    | 🌱 Building    |
+| 42   | DRIV | ev_automotive           | -0.97  | -15.53 | +13.840  | HIGH (29.6)   | -8.81   | +0.806    | 🌱 Building    |
+| 43   | SMH  | semiconductors          | -1.17  | -16.77 | +15.284  | HIGH (33.0)   | -8.10   | +0.473    | 🌱 Building    |
+| 44   | BLOK | blockchain              | -1.32  | -7.01  | +6.109   | HIGH (14.0)   | -3.46   | +0.053    | 🌱 Building    |
+| 45   | XLU  | utilities               | -1.40  | -2.24  | +0.846   | low (1.9)     | -0.47   | -0.430    | 🌱 Building    |
+| 46   | XTN  | transportation          | -1.41  | -7.84  | +6.947   | HIGH (15.2)   | -3.24   | -0.260    | 🌱 Building    |
+| 47   | ICLN | clean_energy            | -1.57  | -17.66 | +15.270  | HIGH (32.9)   | -10.05  | +0.761    | 🌱 Building    |
+| 48   | XBI  | biotech_small           | -1.67  | -9.30  | +7.071   | HIGH (14.8)   | -3.69   | -0.687    | 🌱 Building    |
+| 49   | SOXX | semiconductors          | -1.69  | -20.87 | +18.699  | HIGH (40.3)   | -10.50  | +0.676    | 🌱 Building    |
+| 50   | XSD  | semiconductor_equipment | -2.77  | -17.17 | +14.423  | HIGH (30.9)   | -9.68   | +1.110    | 🌱 Building    |
 
 ---
 
